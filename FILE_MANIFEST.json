@@ -17,8 +17,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3054,
-      "sha256": "9221f6457308399dfb708d7aac362c59e39073666a143fbe2279012e7d4fa3fb"
+      "bytes": 3417,
+      "sha256": "af9373a72a6f0918f95f65bc43dd2096d014f916628607b98376245a03158496"
     },
     {
       "path": "chipmonitor-site/.gitignore",
@@ -8609,6 +8609,26 @@
       "path": "chipmonitor-site/worker/index.ts",
       "bytes": 1303,
       "sha256": "a0a10229cdda6f5fdb32234e3539007412233bb4938a671866c9295a44a3bdb6"
+    },
+    {
+      "path": "database_import/IMPORT_README.md",
+      "bytes": 7103,
+      "sha256": "f4117b3698c822628935840f6a9ee3b72270c34950c02de58effb56d47c30cf3"
+    },
+    {
+      "path": "database_import/raw_ai_market_huggingnews_story.csv",
+      "bytes": 2459309,
+      "sha256": "a4cdf3c7da2a382fda888f8704e6f8856c5d2a6378abfe477c24a492050058a1"
+    },
+    {
+      "path": "database_import/raw_ai_market_huggingnews_story_key_source.csv",
+      "bytes": 2274179,
+      "sha256": "ca58f3fb5592e015d51ebe3cbb68a5ca90fdb23b1c98a256927380eb8ef4752c"
+    },
+    {
+      "path": "database_import/validation.json",
+      "bytes": 1198,
+      "sha256": "3bda0030893b6369341c16bce8a2ef50d6cde1d9314efd74dac7b6ea44467cbc"
     },
     {
       "path": "docs/ChipMonitor_Archive_Review.md",

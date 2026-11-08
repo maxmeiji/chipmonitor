@@ -1,0 +1,42 @@
+{
+  "story_rows": 1587,
+  "source_rows": 5880,
+  "create_user": "huggingnews_import",
+  "update_user": "huggingnews_import",
+  "audit_timestamp": "2026-11-08 16:52:10",
+  "timezone": "Asia/Taipei",
+  "published_at_min": "2026-08-30 16:37:30",
+  "published_at_max": "2026-11-08 00:22:48",
+  "score_nonnull": 1587,
+  "is_tldr_placeholder_rows": 1587,
+  "lineage_targets_outside_export": 531,
+  "unique_lineage_targets_outside_export": 531,
+  "unresolved_lineage_ids": 0,
+  "source_foreign_key_orphans": 0,
+  "official_ids": true,
+  "null_token": "\\N",
+  "source_auto_increment_id": "omitted",
+  "role_counts": {
+    "Source": 2201,
+    "Support": 1204,
+    "Analysis": 654,
+    "Commentary": 1717,
+    "Signal": 72,
+    "Engagement": 32
+  },
+  "csv_validation": {
+    "raw_ai_market_huggingnews_story": {
+      "rows": 1587,
+      "columns": 21,
+      "bytes": 2459309,
+      "sha256": "a4cdf3c7da2a382fda888f8704e6f8856c5d2a6378abfe477c24a492050058a1"
+    },
+    "raw_ai_market_huggingnews_story_key_source": {
+      "rows": 5880,
+      "columns": 13,
+      "bytes": 2274179,
+      "sha256": "ca58f3fb5592e015d51ebe3cbb68a5ca90fdb23b1c98a256927380eb8ef4752c"
+    }
+  },
+  "roundtrip_exact": true
+}

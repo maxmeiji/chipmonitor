@@ -56,3 +56,7 @@ The preparation script uses `../huggingnews/data/stories.json` and the bundled `
 The API key, Git history, `node_modules`, build caches and live Site identity are excluded. Dependencies are reinstalled with `npm ci`; the ZIP is source plus data, not a fully offline executable. No publishing, live account or Sites plugin is needed to run it locally.
 
 The prompt is included for future integration. Current classification/reasoning uses transparent rules and templates, not an automated language-model API call. News and source posts may be wrong; directional colors are preliminary hypotheses.
+
+## Database import exports
+
+The `database_import/` folder contains both validated database CSVs, import instructions and a validation report. It uses official story IDs and `huggingnews_import` for both audit-user columns. Import stories before sources and read `database_import/IMPORT_README.md` for NULL handling, TLDR placeholders and predecessor references.
