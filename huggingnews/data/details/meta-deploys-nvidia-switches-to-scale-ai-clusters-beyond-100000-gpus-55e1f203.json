@@ -1,0 +1,129 @@
+{
+  "slug": "meta-deploys-nvidia-switches-to-scale-ai-clusters-beyond-100000-gpus-55e1f203",
+  "title": "Meta Deploys Nvidia Switches to Scale AI Clusters Beyond 100,000 GPUs",
+  "publishedAt": "2026-10-12T17:26:42.863Z",
+  "eventTimeApprox": "2026-10-12T15:26:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "CSCO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Cisco Systems, Inc. Common Stock (DE)",
+      "hubKey": "csco"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109666989543219475/HUcK6vTW8AAMoDr-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109666989543219475/HUcK6vTW8AAMoDr-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2109666989543219475"
+    }
+  },
+  "summary": "Nvidia is expanding its AI infrastructure footprint as Meta integrates the company's Spectrum 6 Ethernet switches into the Vera Rubin data center architecture. These switches provide 102.4 Tb/s of switching capacity and allow Meta to link more than 100,000 GPUs while reducing the number of required network tiers. This adoption secures Nvidia's place in Meta's hardware stack even as Meta continues to develop its own MTIA chips, opening further revenue opportunities for the chipmaker beyond GPU sales.\n\nAt the OCP Global Summit, Nvidia also released the MGX 1.2 specification to open Vera Rubin rack and compute tray designs that support power levels up to 250 kW. The company announced new collaborations, including a common transport standard for Google's Falcon Transport on ConnectX 10 SuperNICs and new DSX open source software for cluster management. These updates complement the recent USFP pluggable optics standard created with Cisco, which supports 400 Gb/s per lane and delivers a 1.3x increase in power efficiency over 200 Gb/s per lane modules.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109661629788946718",
+      "role": "source",
+      "authorHandle": "nvidianewsroom",
+      "url": "https://x.com/nvidianewsroom/status/2109661629788946718",
+      "tweetedAt": "2026-10-12T15:05:02.000Z",
+      "bestBit": "USFP is the first module to support 400Gb/s per lane, delivering 4x the bandwidth density of today's optics",
+      "text": "NVIDIA and @Cisco introduce pluggable optics to scale AI factories.\n\nUSFP is the first module to support 400Gb/s per lane, delivering 4x the bandwidth density of today's optics. AI builders can connect more compute to the same switch — no extra network tiers, less power per bit moved.\n\nLearn more: https://t.co/uV0qrmD0py"
+    },
+    {
+      "tweetId": "2109669168983540044",
+      "role": "support",
+      "authorHandle": "dmjk001",
+      "url": "https://x.com/dmjk001/status/2109669168983540044",
+      "tweetedAt": "2026-10-12T15:35:00.000Z",
+      "bestBit": "单模块容量最高可达12.8Tb/s，使AI建设者能在不增加网络层级的前提下连接更多计算系统",
+      "text": "英伟达与思科联合推出新型可插拔光模块外形规格USFP（超密小型可插拔），旨在扩展AI工厂的网络规模。\nUSFP是首个支持每通道400Gb/s电信号的模块，单模块容量最高可达12.8Tb/s，使AI建设者能在不增加网络层级的前提下连接更多计算系统，同时降低每比特数据的传输功耗。相比现有的200Gb/s-per-lane光模块，USFP的带宽密度提升4倍，能效提升1.3倍。英伟达和思科正与TE Connectivity和安费诺合作，围绕USFP构建多源硬件生态系统。"
+    },
+    {
+      "tweetId": "2109665282788900999",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2109665282788900999",
+      "tweetedAt": "2026-10-12T15:19:33.000Z",
+      "bestBit": "connect 100K+ GPUs with fewer networking layers",
+      "text": "$META is adopting $NVDA Spectrum-6 switches for its Vera Rubin AI factories using its own open source software to connect 100K+ GPUs with fewer networking layers.\n\nEven as Meta develops its own MTIA chips, those systems still need networking giving Nvidia more revenue opportunities beyond GPUs and keeping it embedded in Meta’s AI infrastructure."
+    },
+    {
+      "tweetId": "2109661544829325332",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2109661544829325332",
+      "tweetedAt": "2026-10-12T15:04:42.000Z",
+      "bestBit": "supporting 400 Gb/s per lane and up to 6.4 Tb/s per module",
+      "text": "$NVDA and $CSCO just introduced a new pluggable optics standard supporting 400 Gb/s per lane and up to 6.4 Tb/s per module as AI networks demand faster connections.\n\nNvidia is supporting both pluggable and co-packaged optics rather than replacing one with the other giving suppliers like $AAOI, $COHR and $LITE a longer runway as AI networking scales."
+    },
+    {
+      "tweetId": "2109681059457651113",
+      "role": "analysis",
+      "authorHandle": "analysisop",
+      "url": "https://x.com/AnalysisOp/status/2109681059457651113",
+      "tweetedAt": "2026-10-12T16:22:15.000Z",
+      "bestBit": "16 lanes in an OSFP module with ability to expand to 32 and more lanes in the future",
+      "text": "\" $NVDA and $CSCO announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module\"\n\n16 lanes in an OSFP module with ability to expand to 32 and more lanes in the future 👀🔥\n\nPhotonics next jump in density is starting! https://t.co/bgF6pjkgwu"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nvidia-and-cisco-tap-amphenol-and-te-connectivity-for-usfp-optics-2a9bb353",
+    "title": "Nvidia and Cisco Tap Amphenol and TE Connectivity for USFP Optics",
+    "publishedAt": "2026-10-12T15:54:32.693Z",
+    "eventTimeApprox": "2026-10-12T15:04:52.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 6,
+    "authorCount": 6
+  }
+}

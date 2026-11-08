@@ -1,0 +1,66 @@
+{
+  "slug": "zeta-develops-custom-ai-chip-as-3rd-ai-move-in-1-week-2c732800",
+  "title": "Zeta Develops Custom AI Chip as 3rd AI Move in 1 Week",
+  "publishedAt": "2026-10-08T14:09:50.432Z",
+  "eventTimeApprox": "2026-10-08T14:01:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ZETA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Zeta Global Holdings Corp.",
+      "hubKey": "zeta"
+    }
+  ],
+  "summary": "The company has released AthenaOS, an enterprise intelligence operating system that integrates the Senso and Digital Audience acquisitions through a specialized model built on Nvidia's open Nemotron. Zeta has executed three distinct transitions in its AI strategy within a week and is now developing a custom AI chip to support its internal infrastructure. These developments create an intelligence layer centered on the firm's proprietary customer data.\n\nThe adoption of Nemotron ensures that enterprise inference workloads remain within the Nvidia ecosystem. By combining a dedicated operating system with specialized hardware, Zeta aims to unify its AI-driven tools and services for corporate clients.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108184309014352305",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2108184309014352305",
+      "tweetedAt": "2026-10-08T13:14:42.000Z",
+      "bestBit": "launched AthenaOS and a specialized Athena model built on $NVDA open Nemotron tying together its Senso and Digital Audience acquisitions and capping three major AI moves in about a week",
+      "text": "$ZETA launched AthenaOS and a specialized Athena model built on $NVDA open Nemotron tying together its Senso and Digital Audience acquisitions and capping three major AI moves in about a week.\n\nZeta is starting to build its own intelligence layer around proprietary customer data while every workload built on Nemotron keeps more enterprise inference running inside Nvidia’s ecosystem."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "natura-unveils-99-interface-ring-to-control-ai-agents-5da661f3",
+  "title": "Natura Unveils $99 Interface Ring to Control AI Agents",
+  "publishedAt": "2026-10-08T16:52:45.580Z",
+  "eventTimeApprox": "2026-10-08T16:19:51.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "wearables",
+      "name": "Wearables"
+    }
+  ],
+  "summary": "A press-and-hold voice command system allows users to operate assistants such as Claude and Grokbot through a piece of hand-worn hardware. Natura has introduced this device, named Interface, for $99 for early adopters with shipments beginning in January. The smart ring connects to agents and applications including ChatGPT, Muse, Instinct, Codex and Hermes to execute tasks without the need for a screen.\n\nThe hardware enters a market for agentic devices that includes Meta's Muse Charm and an anticipated but unreleased device from OpenAI. By allowing users to trigger requests via a ring, Natura aims to remove the friction of using a smartphone to delegate work to digital agents, which can break a user's focus.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108226291107602580",
+      "role": "source",
+      "authorHandle": "carloai",
+      "url": "https://x.com/carloAI/status/2108226291107602580",
+      "tweetedAt": "2026-10-08T16:01:31.000Z",
+      "bestBit": "$99 for early adopters. Ships in January.",
+      "text": "Introducing Interface, the primary hardware for the agent era.\n\nInterface lets you control all your agents from your hand.\n\n$99 for early adopters. Ships in January. https://t.co/PZtqC4tf7S"
+    },
+    {
+      "tweetId": "2108232379618017321",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2108232379618017321",
+      "tweetedAt": "2026-10-08T16:25:43.000Z",
+      "bestBit": "connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT",
+      "text": "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT (@aiishamalik1 / TechCrunch)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2108230178249847066",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2108230178249847066",
+      "tweetedAt": "2026-10-08T16:16:58.000Z",
+      "bestBit": "Press and hold, say what you need, then release. The request goes to Claude Code, Codex, Hermes",
+      "text": "The next agent interface might not have a screen.\n\nPersonal agents already hint at what's coming. Simpler interfaces are where it's all going. \n\nAgents are good enough now that the slow step is handing them work. Pulling out a phone to type a request breaks your focus every time.\n\nInterface by @NaturaAI is a ring that lets you control your agents from your hand. Press and hold, say what you need, then release. The request goes to Claude Code, Codex, Hermes, or whichever agent you connect.\n\nGetting myself one for sure.",
+      "quotedTweetText": "Introducing Interface, the primary hardware for the agent era.\n\nInterface lets you control all your agents from your hand.\n\n$99 for early adopters. Ships in January. https://t.co/PZtqC4tf7S"
+    },
+    {
+      "tweetId": "2108231632188817669",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2108231632188817669",
+      "tweetedAt": "2026-10-08T16:22:44.000Z",
+      "bestBit": "Meta built the Muse Charm, and we're all still waiting on OpenAI's device",
+      "text": "No question agentic hardware is the next big thing. Meta built the Muse Charm, and we're all still waiting on OpenAI's device. Interface is an interesting ring that goes in the same direction: you just talk to it and your agents handle the rest.",
+      "quotedTweetText": "Introducing Interface, the primary hardware for the agent era.\n\nInterface lets you control all your agents from your hand.\n\n$99 for early adopters. Ships in January. https://t.co/PZtqC4tf7S"
+    }
+  ],
+  "isSuperseded": false
+}

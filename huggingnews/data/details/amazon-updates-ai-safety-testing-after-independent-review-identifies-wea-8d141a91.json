@@ -1,0 +1,77 @@
+{
+  "slug": "amazon-updates-ai-safety-testing-after-independent-review-identifies-wea-8d141a91",
+  "title": "Amazon Updates AI Safety Testing After Independent Review Identifies Weaknesses",
+  "publishedAt": "2026-10-26T18:06:47.977Z",
+  "eventTimeApprox": "2026-10-26T17:26:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "summary": "Amazon will adjust its methods for evaluating the safety of future AI models after a pilot project with the independent assessment group AVERI. The independent review, which focused on the quality of Amazon’s internal safety tests, identified that some model refusals were driven by superficial cues rather than safety reasoning and that some test prompts utilized straightforward attack vectors that tested safety filters instead of deeper model reasoning.\n\nIn response to the findings, Amazon is introducing a tiered difficulty calibration framework and expanding multilingual coverage across all risk categories. The company also plans to establish a quarterly review schedule to address stale prompts and refresh its test sets to incorporate more challenging adversarial scenarios. AVERI noted that independent assessments of internal tests, or “metaevaluations,” are rare in the AI industry.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114764187721171052",
+      "role": "source",
+      "authorHandle": "averiorg",
+      "url": "https://x.com/AVERIorg/status/2114764187721171052",
+      "tweetedAt": "2026-10-26T17:00:47.000Z",
+      "bestBit": "Amazon is changing how it tests future models.",
+      "text": "AI companies make safety calls based in large part on internal tests they develop themselves. It’s rare for there to be independent assessment of the quality of those tests.\n\nEarlier this year, @Amazon and @AVERIorg agreed to a pilot project in which AVERI assessed the quality of Amazon’s internal safety evaluations. Today we’re releasing the result of that independent review. As a result of this project, Amazon is changing how it tests future models.\n\nOur review of Amazon’s internal AI safety evaluations confirmed several strengths such as topical diversity, and we found the evaluations to be consistent with Amazon’s public statements on them. At the same time, we found areas for improvement:\n\nOn attack sophistication, some prompts represented relatively straightforward attack vectors that would test safety filters rather than deeper model reasoning.\n\nOn evaluation signal quality, we identified a concern that superficial cues, rather than safety reasoning, may drive some model refusals, so passing these evaluations might not indicate robust safety behavior in novel situations.\nOn linguistic and stylistic diversity, some multilingual prompts were included, but prompts across risk categories were predominantly in English, and some prompt structures were reused across scenarios.\nOn evaluation freshness, a small number of prompts contained temporal references that could become outdated.\nIn response, Amazon reports four changes for future internal evaluations:\n\nRefreshing its test sets to remove redundant prompts and add more challenging adversarial scenarios;\n\nIntroducing a tiered difficulty calibration framework;\nExpanding multilingual coverage across all risk categories; and\nEstablishing a quarterly review schedule to identify staleness and incorporate emerging attack patterns.\nWhy does this matter? A passing grade on an easy test doesn’t tell us much on its own. As the stakes of AI development and deployment grow, we think that this kind of independent evaluation of internal evaluations (“metaevaluation”) will grow in importance.\n\nWe appreciate Amazon opening their internal evaluations up to outside review. We hope more companies take this step to help make their models safer.\n\nWhile no clear standards exist for metaevaluation yet, @AVERIorg is working to change that. We look forward to sharing more pilot results in the coming months and will continue our work developing standards with institutions like @aievalforum. \n\nRead AVERI’s full blog post here: https://t.co/KKy2wAgjaI\n\nRead Amazon’s blog post on the collaboration here: https://t.co/UWKSnUjOco"
+    },
+    {
+      "tweetId": "2114765776741974191",
+      "role": "support",
+      "authorHandle": "miles_brundage",
+      "url": "https://x.com/Miles_Brundage/status/2114765776741974191",
+      "tweetedAt": "2026-10-26T17:07:06.000Z",
+      "bestBit": "Companies use private safety evaluations to make decisions with big public consequences.",
+      "text": "Excited to share the results of a recent pilot project with Amazon!\n\nCompanies use private safety evaluations to make decisions with big public consequences. \n\nOur review led to several improvements in Amazon’s internal evals.\n\nThanks to @rahul1987iit for collaboration on this:",
+      "quotedTweetText": "AI companies make safety calls based in large part on internal tests they develop themselves. It’s rare for there to be independent assessment of the quality of those tests.\n\nEarlier this year, @Amazon and @AVERIorg agreed to a pilot project in which AVERI assessed the quality of Amazon’s internal safety evaluations. Today we’re releasing the result of that independent review. As a result of this project, Amazon is changing how it tests future models.\n\nOur review of Amazon’s internal AI safety evaluations confirmed several strengths such as topical diversity, and we found the evaluations to be consistent with Amazon’s public statements on them. At the same time, we found areas for improvement:\n\nOn attack sophistication, some prompts represented relatively straightforward attack vectors that would test safety filters rather than deeper model reasoning.\n\nOn evaluation signal quality, we identified a concern that superficial cues, rather than safety reasoning, may drive some model refusals, so passing these evaluations might not indicate robust safety behavior in novel situations.\nOn linguistic and stylistic diversity, some multilingual prompts were included, but prompts across risk categories were predominantly in English, and some prompt structures were reused across scenarios.\nOn evaluation freshness, a small number of prompts contained temporal references that could become outdated.\nIn response, Amazon reports four changes for future internal evaluations:\n\nRefreshing its test sets to remove redundant prompts and add more challenging adversarial scenarios;\n\nIntroducing a tiered difficulty calibration framework;\nExpanding multilingual coverage across all risk categories; and\nEstablishing a quarterly review schedule to identify staleness and incorporate emerging attack patterns.\nWhy does this matter? A passing grade on an easy test doesn’t tell us much on its own. As the stakes of AI development and deployment grow, we think that this kind of independent evaluation of internal evaluations (“metaevaluation”) will grow in importance.\n\nWe appreciate Amazon opening their internal evaluations up to outside review. We hope more companies take this step to help make their models safer.\n\nWhile no clear standards exist for metaevaluation yet, @AVERIorg is working to change that. We look forward to sharing more pilot results in the coming months and will continue our work developing standards with institutions like @aievalforum. \n\nRead AVERI’s full blog post here: https://t.co/KKy2wAgjaI\n\nRead Amazon’s blog post on the collaboration here: https://t.co/UWKSnUjOco"
+    },
+    {
+      "tweetId": "2114772255188111474",
+      "role": "commentary",
+      "authorHandle": "prpaskov",
+      "url": "https://x.com/prpaskov/status/2114772255188111474",
+      "tweetedAt": "2026-10-26T17:32:50.000Z",
+      "bestBit": "Who evaluates the evaluations? Check out @AVERIorg’s newest pilot report for findings on meta evaluation of internal safety tests at @amazon.",
+      "text": "Who evaluates the evaluations? Check out @AVERIorg’s newest pilot report for findings on meta evaluation of internal safety tests at @amazon. \n\nimo this is an under-explored area of work that can lend insights into how claims are verified in forthcoming embedded assessment engagements. Thanks to our partners for the collaboration and for taking action on findings towards a future of more credible and rigorous assessments.",
+      "quotedTweetText": "AI companies make safety calls based in large part on internal tests they develop themselves. It’s rare for there to be independent assessment of the quality of those tests.\n\nEarlier this year, @Amazon and @AVERIorg agreed to a pilot project in which AVERI assessed the quality of Amazon’s internal safety evaluations. Today we’re releasing the result of that independent review. As a result of this project, Amazon is changing how it tests future models.\n\nOur review of Amazon’s internal AI safety evaluations confirmed several strengths such as topical diversity, and we found the evaluations to be consistent with Amazon’s public statements on them. At the same time, we found areas for improvement:\n\n- On attack sophistication, some prompts represented relatively straightforward attack vectors that would test safety filters rather than deeper model reasoning.\n- On evaluation signal quality, we identified a concern that superficial cues, rather than safety reasoning, may drive some model refusals, so passing these evaluations might not indicate robust safety behavior in novel situations.\n- On linguistic and stylistic diversity, some multilingual prompts were included, but prompts across risk categories were predominantly in English, and some prompt structures were reused across scenarios.\n- On evaluation freshness, a small number of prompts contained temporal references that could become outdated.\n\nIn response, Amazon reports four changes for future internal evaluations:\n\n- Refreshing its test sets to remove redundant prompts and add more challenging adversarial scenarios;\n- Introducing a tiered difficulty calibration framework;\n- Expanding multilingual coverage across all risk categories; and\n- Establishing a quarterly review schedule to identify staleness and incorporate emerging attack patterns.\n\nWhy does this matter? A passing grade on an easy test doesn’t tell us much on its own. As the stakes of AI development and deployment grow, we think that this kind of independent evaluation of internal evaluations (“metaevaluation”) will grow in importance.\n\nWe appreciate Amazon opening their internal evaluations up to outside review. We hope more companies take this step to help make their models safer.\n\nWhile no clear standards exist for metaevaluation yet, @AVERIorg is working to change that. We look forward to sharing more pilot results in the coming months and will continue our work developing standards with institutions like @aievalforum. \n\nRead AVERI’s full blog post here: https://t.co/KKy2wAgjaI\n\nRead Amazon’s blog post on the collaboration here: https://t.co/UWKSnUjOco"
+    }
+  ],
+  "isSuperseded": false
+}

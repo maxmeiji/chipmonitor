@@ -1,0 +1,130 @@
+{
+  "slug": "update-samsung-forecasts-long-term-deals-may-cover-up-to-70percent-of-me-e0c7bada",
+  "title": "UPDATE: Samsung Forecasts Long-Term Deals May Cover Up to 70% of Memory Production Through 2030",
+  "publishedAt": "2026-10-29T02:22:55.959Z",
+  "eventTimeApprox": "2026-10-27T13:18:48.500Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "tech",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    },
+    {
+      "ticker": "PVT:BYTE",
+      "kind": "private",
+      "role": "related",
+      "name": "ByteDance",
+      "hubKey": "bytedance"
+    }
+  ],
+  "summary": "The Seoul-based chipmaker has entered into server memory supply agreements with 10 of its largest clients and is currently in talks with an additional 10. Samsung stated that based on current trends, it is increasingly likely that 60% to 70% of its total production capacity will be bound by these long-term contracts through 2030.\n\nThis shift toward extended agreements comes as hyperscalers seek to secure the DDR5 and LPDDR5 memory required for expanding AI infrastructure. While industry supply deals typically last three to five years, cloud providers including Alibaba, Tencent, and ByteDance have sought contracts reaching through 2035. Similar discussions involving Google suggest a broader move by tech giants to lock in volumes and prioritize supply stability over the memory market's traditional pricing cycles.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115624383750582414",
+      "role": "source",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2115624383750582414",
+      "tweetedAt": "2026-10-29T01:58:54.000Z",
+      "bestBit": "SAMSUNG: WE HAVE SIGNED LONG-TERM MEMORY SUPPLY AGREEMENTS (LTAS) WITH 10 MAJOR CUSTOMERS AND ARE IN NEGOTIATIONS WITH ANOTHER 10.",
+      "text": "SAMSUNG: WE HAVE SIGNED LONG-TERM MEMORY SUPPLY AGREEMENTS (LTAS) WITH 10 MAJOR CUSTOMERS AND ARE IN NEGOTIATIONS WITH ANOTHER 10.\n\nSAMSUNG: GIVEN CURRENT CONTRACT NEGOTIATION TRENDS, IT IS BECOMING INCREASINGLY LIKELY THAT 60–70% OF OUR TOTAL PRODUCTION CAPACITY WILL BE COVERED BY LONG-TERM SUPPLY AGREEMENTS THROUGH 2030."
+    },
+    {
+      "tweetId": "2114979317977665829",
+      "role": "source",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2114979317977665829",
+      "tweetedAt": "2026-10-27T07:15:38.000Z",
+      "bestBit": "BEYOND THE TYPICAL THREE-TO-FIVE-YEAR TERM, SOME CUSTOMERS ARE SEEKING ULTRA-LONG-TERM CONTRACTS SECURING MEMORY SUPPLIES FOR 10 YEARS THROUGH 2035.",
+      "text": "KOREAN MEDIA: MAJOR CHINESE CLOUD SERVICE PROVIDERS (CSPS), INCLUDING ALIBABA, TENCENT, AND BYTEDANCE, HAVE REQUESTED LONG-TERM SUPPLY AGREEMENTS (LTAS) FOR SERVER MEMORY FROM SAMSUNG ELECTRONICS AND SK HYNIX.\n\nBEYOND THE TYPICAL THREE-TO-FIVE-YEAR TERM, SOME CUSTOMERS ARE SEEKING ULTRA-LONG-TERM CONTRACTS SECURING MEMORY SUPPLIES FOR 10 YEARS THROUGH 2035. THE REQUESTED LTAS COVER DDR5 AND LPDDR5."
+    },
+    {
+      "tweetId": "2115053377583247471",
+      "role": "commentary",
+      "authorHandle": "deepdishenjoyer",
+      "url": "https://x.com/DeepDishEnjoyer/status/2115053377583247471",
+      "tweetedAt": "2026-10-27T12:09:55.000Z",
+      "bestBit": "this doesn't look that cyclical",
+      "text": "this doesn't look that cyclical",
+      "quotedTweetText": "KOREAN MEDIA: MAJOR CHINESE CLOUD SERVICE PROVIDERS (CSPS), INCLUDING ALIBABA, TENCENT, AND BYTEDANCE, HAVE REQUESTED LONG-TERM SUPPLY AGREEMENTS (LTAS) FOR SERVER MEMORY FROM SAMSUNG ELECTRONICS AND SK HYNIX.\n\nBEYOND THE TYPICAL THREE-TO-FIVE-YEAR TERM, SOME CUSTOMERS ARE SEEKING ULTRA-LONG-TERM CONTRACTS SECURING MEMORY SUPPLIES FOR 10 YEARS THROUGH 2035. THE REQUESTED LTAS COVER DDR5 AND LPDDR5."
+    },
+    {
+      "tweetId": "2115056034763137169",
+      "role": "commentary",
+      "authorHandle": "aleabitoreddit",
+      "url": "https://x.com/aleabitoreddit/status/2115056034763137169",
+      "tweetedAt": "2026-10-27T12:20:29.000Z",
+      "bestBit": "Following the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.",
+      "text": "Oh look… more memory durability evidence for $MU and co.\n\nFollowing the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.\n\nSome customers are reportedly pushing for 10 year contracts as well, into 2035.\n\n“As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” \n\nSource: Maeil News\n\nDon't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… \n\nIf there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029?",
+      "quotedTweetText": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. \n\nThey also expect HBM prices up 80% to 100% in the Q1 2027. \n\nHaving all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears."
+    },
+    {
+      "tweetId": "2115068000529457609",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2115068000529457609",
+      "tweetedAt": "2026-10-27T13:08:02.000Z",
+      "bestBit": "Really interesting see how they're trying to lock up DDR5 and LPDDR5 rather than HBM which suggests shortage is spreading beyond AI accelerators",
+      "text": "$BABA, Tencent and ByteDance are reportedly pushing $SKHY and Samsung for memory contracts lasting up to 10 years through 2035 instead of the usual 3 to 5 years.\n\nReally interesting see how they're trying to lock up DDR5 and LPDDR5 rather than HBM which suggests shortage is spreading beyond AI accelerators and could give memory makers years of demand visibility."
+    },
+    {
+      "tweetId": "2115337805593505908",
+      "role": "analysis",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2115337805593505908",
+      "tweetedAt": "2026-10-28T07:00:08.000Z",
+      "bestBit": "The Chinese buyers are reportedly willing to accept higher prices just to secure the volume.",
+      "text": "According to Korean media, $BABA, Tencent and ByteDance are asking Samsung and SK Hynix for long term server memory supply deals.\n\nThe normal length of these contracts is 3 to 5 years.\n\nSome of the Chinese companies want 10 YEAR deals that run all the way to 2035.\n\nThey want server DDR5 and LPDDR, including the low power memory used to make AI servers more efficient.\n\nThis comes after the biggest United States tech companies already locked in their own supply through long term agreements.\n\nThe Chinese buyers are reportedly willing to accept higher prices just to secure the volume.\n\nWhen the largest buyers in the world are trying to lock up memory for a decade, that tells you how tight this market really is.",
+      "quotedTweetText": "The memory shortage could get MUCH worse in 2027.\n\nAccording to Dell's CEO, the memory shortage isn't going away anytime soon. In fact, he expects it to get worse in 2027 because building a new memory fabrication plant takes roughly four years. And this is exactly why I've been so bullish on the memory trade. Demand for DRAM, NAND, and HBM continues to increase as hyperscalers aggressively expand their AI infrastructure, but manufacturers cannot simply bring new capacity online overnight. Even with billions being invested into expanding production, much of that additional capacity won't be available for several years.\n\nMeanwhile, AI inference and agentic workloads are creating entirely new sources of memory demand beyond just training larger models. As these systems become more sophisticated, they require more memory to handle larger context windows, store information, and process increasingly complex workloads. And remember, it's not just AI companies competing for this supply. Traditional data centers, smartphones, PCs, and enterprise servers still need memory, which means manufacturers have to balance growing AI demand with the rest of the market. This is why I believe the current memory cycle could last much longer than previous cycles. If Michael Dell is right and shortages worsen in 2027, we could see memory pricing remain elevated, stronger margins for manufacturers, and potentially a much longer earnings growth cycle than investors are currently pricing in. I still believe memory is one of the most underrated opportunities in the entire AI infrastructure trade. If you want to see how I’m investing around this shortage and the names I think benefit most, check out my full Milk Road Pro portfolio below.\n\nhttps://t.co/thIhK9ZH4E"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "alibaba-bytedance-seek-10-year-server-memory-deals-from-samsung-sk-hynix-b2c98cfe",
+    "title": "Alibaba, ByteDance Seek 10 Year Server Memory Deals From Samsung, SK Hynix",
+    "publishedAt": "2026-10-27T12:22:02.443Z",
+    "eventTimeApprox": "2026-10-27T10:31:48.000Z",
+    "routingTopicKeys": [
+      "business",
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 9,
+    "authorCount": 9
+  }
+}

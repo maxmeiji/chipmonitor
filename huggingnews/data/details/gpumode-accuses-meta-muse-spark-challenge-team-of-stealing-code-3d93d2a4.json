@@ -1,0 +1,100 @@
+{
+  "slug": "gpumode-accuses-meta-muse-spark-challenge-team-of-stealing-code-3d93d2a4",
+  "title": "GPU_MODE Accuses Meta Muse Spark Challenge Team of Stealing Code",
+  "publishedAt": "2026-10-23T02:23:53.069Z",
+  "eventTimeApprox": "2026-10-22T19:51:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "The organizers of the Muse Spark optimization competition converted stolen open source software into a closed source binary using an AI agent, Mark Saroufim of GPU_MODE alleged. Saroufim stated that the team used the agent to rewrite GPU_MODE's code into the Go programming language to mask the plagiarism and avoid providing credit, while also failing to commit to releasing the challenge entries to the public.\n\nThe $100,000 competition was launched by Meta, Paradigm, and Andromeda AI to find the fastest implementation of the Muse Spark model. The top prize includes $50,000 and an H200 GPU signed by the Meta team, with the project drawing promotional support from figures including Daniel Gross and Alexandr Wang.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113351902402613558",
+      "role": "source",
+      "authorHandle": "danielgross",
+      "url": "https://x.com/danielgross/status/2113351902402613558",
+      "tweetedAt": "2026-10-22T19:28:52.000Z",
+      "bestBit": "launching a $100,000 challenge to see who can make Muse Spark run fastest",
+      "text": "We're launching a $100,000 challenge to see who can make Muse Spark run fastest: https://t.co/oItArGroDn"
+    },
+    {
+      "tweetId": "2113354212642066518",
+      "role": "support",
+      "authorHandle": "matthuang",
+      "url": "https://x.com/matthuang/status/2113354212642066518",
+      "tweetedAt": "2026-10-22T19:38:03.000Z",
+      "bestBit": "Top prize is $50K + an H200 signed by Meta team",
+      "text": "Meta + Paradigm open challenge to optimize Muse Spark\n\nTop prize is $50K + an H200 signed by Meta team",
+      "quotedTweetText": "We're launching a $100,000 challenge to see who can make Muse Spark run fastest: https://t.co/oItArGroDn"
+    },
+    {
+      "tweetId": "2113440801770647674",
+      "role": "signal",
+      "authorHandle": "alexandr_wang",
+      "url": "https://x.com/alexandr_wang/status/2113440801770647674",
+      "tweetedAt": "2026-10-23T01:22:07.000Z",
+      "bestBit": "$100k to the developer who can make muse spark open fastest!",
+      "text": "$100k to the developer who can make muse spark open fastest! https://t.co/lLBkvVnlVD",
+      "quotedTweetText": "We're launching a $100,000 challenge to see who can make Muse Spark run fastest: https://t.co/oItArGroDn"
+    },
+    {
+      "tweetId": "2113450247708156376",
+      "role": "source",
+      "authorHandle": "marksaroufim",
+      "url": "https://x.com/marksaroufim/status/2113450247708156376",
+      "tweetedAt": "2026-10-23T01:59:39.000Z",
+      "bestBit": "took the @GPU_MODE OSS code, asked an agent to rewrite it in Go, copied it, didn't credit us, shipped a closed source binary to hide it all",
+      "text": "The team that launched this challenge took the @GPU_MODE OSS code, asked an agent to rewrite it in Go, copied it, didn't credit us, shipped a closed source binary to hide it all and are not committing releasing the entries.\n\nFull receipts here https://t.co/G6jty0CWn3",
+      "quotedTweetText": "We're launching a $100,000 challenge to see who can make Muse Spark run fastest: https://t.co/oItArGroDn"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "meta-and-paradigm-launch-100000-muse-spark-optimization-challenge-77a3131b",
+    "title": "Meta and Paradigm Launch $100,000 Muse Spark Optimization Challenge",
+    "publishedAt": "2026-10-22T19:54:37.202Z",
+    "eventTimeApprox": "2026-10-22T19:38:03.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 16,
+    "authorCount": 13
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "finland-halts-2-google-data-centers-month-after-15b-investment-1f54a203",
+  "title": "Finland Halts 2 Google Data Centers Month After $15B Investment",
+  "publishedAt": "2026-10-07T15:38:47.316Z",
+  "eventTimeApprox": "2026-10-07T10:39:04.500Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "europe",
+      "name": "Europe"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107791120621064255/HUBg2qmXkAAeqiy-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107791120621064255/HUBg2qmXkAAeqiy-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "cnbc",
+      "tweetUrl": "https://x.com/CNBC/status/2107791120621064255"
+    }
+  },
+  "summary": "A notice from the Finnish Licensing and Supervision Agency (LVV) requires Tuike Finland Oy, a Google subsidiary, to stop all building activity in Muhos and Kajaani. The order mandates a suspension of construction until the completion of environmental impact assessments, specifically addressing the clearing of hundreds of hectares of pristine forest at the sites.\n\nThe decision comes roughly 30 days after Google pledged to invest $15B in AI infrastructure within Finland. All work at the sites must cease by October 23. The projects are located in a region often referred to as the 'Texas of Europe' due to its data center development.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107791120621064255",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2107791120621064255",
+      "tweetedAt": "2026-10-07T11:12:18.000Z",
+      "bestBit": "committed to investing $15 billion in AI infrastructure in the country",
+      "text": "Google has been ordered to halt work on two data centers it’s developing in Finland, a month after the tech giant committed to investing $15 billion in AI infrastructure in the country.\n\nFinnish Licensing and Supervision Agency (LVV) on Tuesday issued a notice to Google subsidiary, Tuike Finland Oy, to suspend building work for data center projects planned for Muhos and Kajaani until the environmental impact assessments have been completed.\n\nRead more: https://t.co/Jrqsc8qg2a"
+    },
+    {
+      "tweetId": "2107774397608247665",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2107774397608247665",
+      "tweetedAt": "2026-10-07T10:05:51.000Z",
+      "bestBit": "halt data center construction in Muhos and Kajaani by October 23, pending environmental impact assessments",
+      "text": "Finland orders Google subsidiary Tuike Finland Oy to halt data center construction in Muhos and Kajaani by October 23, pending environmental impact assessments (@nicolschwarzk / CNBC)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2107854650368197027",
+      "role": "support",
+      "authorHandle": "polymarket",
+      "url": "https://x.com/Polymarket/status/2107854650368197027",
+      "tweetedAt": "2026-10-07T15:24:45.000Z",
+      "bestBit": "orders work halted at two Google data center sites over environmental concerns tied to the clearing of hundreds of hectares of pristine forest",
+      "text": "JUST IN: Finland orders work halted at two Google data center sites over environmental concerns tied to the clearing of hundreds of hectares of pristine forest."
+    }
+  ],
+  "isSuperseded": false
+}

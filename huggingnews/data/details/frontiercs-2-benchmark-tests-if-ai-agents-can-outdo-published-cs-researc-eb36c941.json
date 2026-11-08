@@ -1,0 +1,67 @@
+{
+  "slug": "frontiercs-2-benchmark-tests-if-ai-agents-can-outdo-published-cs-researc-eb36c941",
+  "title": "FrontierCS 2 Benchmark Tests if AI Agents Can Outdo Published CS Research",
+  "publishedAt": "2026-10-22T16:53:47.196Z",
+  "eventTimeApprox": "2026-10-22T16:05:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113299554317791539/HVPyvuXbQAAegVG-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113299554317791539/HVPyvuXbQAAegVG-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "mangqiuyang",
+      "tweetUrl": "https://x.com/MangQiuyang/status/2113299554317791539"
+    }
+  },
+  "summary": "A new evaluation tool challenges AI models to surpass the technical achievements of published academic studies in computer science. Known as FrontierCS 2, the benchmark removes the specific contribution from a research paper's released code and tasks LLM agents with outperforming the original method based on metrics defined by the authors. To ensure an authentic test of research capabilities, these agents are denied access to the internet and the original papers.\n\nThe project is powered by Modal and examines whether autonomous agents can recreate complex components from scratch while introducing improvements. Researcher Ofir Press stated that this testing framework will be a primary training and test objective for the field, with more tasks scheduled for release to further explore the limits of AI in CS research.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113299554317791539",
+      "role": "source",
+      "authorHandle": "mangqiuyang",
+      "url": "https://x.com/MangQiuyang/status/2113299554317791539",
+      "tweetedAt": "2026-10-22T16:00:51.000Z",
+      "bestBit": "we delete the contribution from the released code, and ask agents to outdo the original method, as judged by the authors' chosen metrics",
+      "text": "FrontierCS 2 is our new benchmark for CS research &amp; development.\n\nEach task is based on a paper: we delete the contribution from the released code, and ask agents to outdo the original method, as judged by the authors' chosen metrics. Agents don't have access to the paper or web. https://t.co/CWZOlIhGwj"
+    },
+    {
+      "tweetId": "2113300633507807279",
+      "role": "source",
+      "authorHandle": "ofirpress",
+      "url": "https://x.com/OfirPress/status/2113300633507807279",
+      "tweetedAt": "2026-10-22T16:05:08.000Z",
+      "bestBit": "take a paper's codebase, remove the key parts and see if an agent can code them from scratch *and* add improvements",
+      "text": "I think this concept will be an important train &amp; test objective going forward: take a paper's codebase, remove the key parts and see if an agent can code them from scratch *and* add improvements. More tasks coming soon!",
+      "quotedTweetText": "FrontierCS 2 is our new benchmark for CS research &amp; development.\n\nEach task is based on a paper: we delete the contribution from the released code, and ask agents to outdo the original method, as judged by the authors' chosen metrics. Agents don't have access to the paper or web. https://t.co/CWZOlIhGwj"
+    }
+  ],
+  "isSuperseded": false
+}

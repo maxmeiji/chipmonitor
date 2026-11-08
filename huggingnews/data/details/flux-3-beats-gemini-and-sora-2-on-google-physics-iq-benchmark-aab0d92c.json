@@ -1,0 +1,68 @@
+{
+  "slug": "flux-3-beats-gemini-and-sora-2-on-google-physics-iq-benchmark-aab0d92c",
+  "title": "FLUX 3 Beats Gemini and Sora 2 on Google Physics-IQ Benchmark",
+  "publishedAt": "2026-10-06T16:57:11.299Z",
+  "eventTimeApprox": "2026-10-06T09:49:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107379540297208056/HT7pSTvWkAAOq1P-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107379540297208056/HT7pSTvWkAAOq1P-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "bfl_ai",
+      "tweetUrl": "https://x.com/bfl_ai/status/2107379540297208056"
+    }
+  },
+  "summary": "A video model created by Black Forest Labs now occupies the top spot in a test gauging how well AI predicts the laws of nature. FLUX 3 has claimed the #1 position on the Physics-IQ benchmark from Google DeepMind, which evaluates the ability of models to predict the outcome of filmed experiments in fields such as thermodynamics, magnetism, and fluid dynamics. The system outperformed other frontier models, including Gemini Omni 1.1 Flash, Sora 2, Veo 3.1, MiniMax H3, Seedance 2.5, and Cosmos3, with a physics verification layer further increasing scores over the base model.\n\nThe results highlight a trend of European AI companies competing with U.S. and Chinese firms in non-LLM sectors. Black Forest Labs, based in Freiburg, Germany, achieved this ranking on the same day that ElevenLabs' v4 Turbo model topped a leaderboard for text-to-speech AI. While Europe lacks its own frontier large language model, these firms are targeting specialized disciplines like physically accurate world modeling and audio synthesis to maintain competitiveness.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107379540297208056",
+      "role": "source",
+      "authorHandle": "bfl_ai",
+      "url": "https://x.com/bfl_ai/status/2107379540297208056",
+      "tweetedAt": "2026-10-06T07:56:50.000Z",
+      "bestBit": "outperform all other frontier models, Seedance 2.5, MiniMax H3, Gemini Omni 1.1 Flash, Veo 3.1 and Sora 2, Cosmos3.",
+      "text": "FLUX 3 is #1 on Physics-IQ, @GoogleDeepMind's benchmark for physical world understanding in video models.\n\nHow Physics-IQ works: given the start of a real filmed experiment, can a model predict what physically happens next? Tests span fluid dynamics, optics, solid mechanics, magnetism and thermodynamics, covering how liquids flow, light behaves and objects interact.\n\nIn most cases, we substantially outperform all other frontier models, Seedance 2.5, MiniMax H3, Gemini Omni 1.1 Flash, Veo 3.1 and Sora 2, Cosmos3.\n\nThe FLUX 3 base model outperforms all other foundation models, while FLUX 3 paired with a physics verification layer scores even higher.\n\nThe FLUX 3 backbone, with its strong physics understanding, gives FLUX 3 Action it’s strong action prediction for robotics, while also giving FLUX 3 Video physically accurate motion when you’re creating content, making ads, films and product shots."
+    },
+    {
+      "tweetId": "2107384061886877724",
+      "role": "signal",
+      "authorHandle": "robrombach",
+      "url": "https://x.com/robrombach/status/2107384061886877724",
+      "tweetedAt": "2026-10-06T08:14:48.000Z",
+      "bestBit": "FLUX 3 is the strongest world model in the world.",
+      "text": "FLUX 3 is the strongest world model in the world. https://t.co/sDqfsKHijE",
+      "quotedTweetText": "FLUX 3 is #1 on Physics-IQ, @GoogleDeepMind's benchmark for physical world understanding in video models.\n\nHow Physics-IQ works: given the start of a real filmed experiment, can a model predict what physically happens next? Tests span fluid dynamics, optics, solid mechanics, magnetism and thermodynamics, covering how liquids flow, light behaves and objects interact.\n\nIn most cases, we substantially outperform all other frontier models, Seedance 2.5, MiniMax H3, Gemini Omni 1.1 Flash, Veo 3.1 and Sora 2, Cosmos3.\n\nThe FLUX 3 base model outperforms all other foundation models, while FLUX 3 paired with a physics verification layer scores even higher.\n\nThe FLUX 3 backbone, with its strong physics understanding, gives FLUX 3 Action it’s strong action prediction for robotics, while also giving FLUX 3 Video physically accurate motion when you’re creating content, making ads, films and product shots."
+    },
+    {
+      "tweetId": "2107445194605891722",
+      "role": "commentary",
+      "authorHandle": "sebjohnsonuk",
+      "url": "https://x.com/SebJohnsonUK/status/2107445194605891722",
+      "tweetedAt": "2026-10-06T12:17:43.000Z",
+      "bestBit": "@ElevenLabs' new v4 Turbo model is the top text to speed model in the world. The number 2 on the leaderboard? Also ElevenLabs.",
+      "text": "Today two European companies have topped two AI leaderboards. \n\nIt is very easy to count Europe out of the AI game because we don't have a frontier LLM. \n\nHowever, in other non-LLM models, European companies are winning:\n\n@ElevenLabs' new v4 Turbo model is the top text to speed model in the world. The number 2 on the leaderboard? Also ElevenLabs.\n\n@bfl_ai's FLUX 3 model is the strongest world model out there. \n\nThese companies are going toe-to-toe with the U.S. and Chinese model makers and beating them. \n\nBlack Frost Labs (@robrombach) comes out of Freiburg, Germany, while @mati and @dabkowski_piotr are from Poland (but have been global from day 1)\n\nNICE"
+    }
+  ],
+  "isSuperseded": false
+}

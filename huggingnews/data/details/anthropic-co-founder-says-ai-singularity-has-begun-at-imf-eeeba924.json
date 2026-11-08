@@ -1,0 +1,67 @@
+{
+  "slug": "anthropic-co-founder-says-ai-singularity-has-begun-at-imf-eeeba924",
+  "title": "Anthropic Co-Founder Says AI Singularity Has Begun at IMF",
+  "publishedAt": "2026-10-17T15:25:45.375Z",
+  "eventTimeApprox": "2026-10-17T09:10:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111384352559153554/HU0hXdxWYAAL0xP-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111384352559153554/HU0hXdxWYAAL0xP-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "choblin29",
+      "tweetUrl": "https://x.com/choblin29/status/2111384352559153554"
+    }
+  },
+  "summary": "Recursive self-improvement in machine learning is now allowing AI systems to contribute directly to their own technical evolution. Anthropic co-founder Jack Clark told the IMF in Bangkok that this capability, along with the way AI is reshaping national security, is evidence that the singularity has already begun. Speaking at the Per Jacobsson Lecture, Clark defined the event as the tipping point where technological progress accelerates so rapidly that it outpaces the human ability to keep up.\n\nClark characterized modern AI systems as \"virtual polymaths\" and noted that the acceleration of the technology could significantly boost US GDP. While he acknowledged that AI is becoming a capable scientist, he cautioned that this does not mean the technology should be utilized for every application, and urged the global community to prepare for the resulting economic and security shifts.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111350983465095501",
+      "role": "source",
+      "authorHandle": "jackclarksf",
+      "url": "https://x.com/jackclarkSF/status/2111350983465095501",
+      "tweetedAt": "2026-10-17T06:57:56.000Z",
+      "bestBit": "I’m speaking at the IMF in an hour about the singularity and why I believe it has begun",
+      "text": "I’m speaking at the IMF in an hour about the singularity and why I believe it has begun and the choices we'll need to make. Watch live here: https://t.co/Hj9HzcXx5h"
+    },
+    {
+      "tweetId": "2111384352559153554",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2111384352559153554",
+      "tweetedAt": "2026-10-17T09:10:31.000Z",
+      "bestBit": "AI now changing national security and contributing to its own development (recursive self-improvement, or RSI)",
+      "text": "INSANE. Anthropic co-founder Jack Clark says ‘the singularity is here’, the point where AI speeds up progress so quickly that it becomes hard for humans to keep up. Speaking at the IMF’s Per Jacobsson Lecture in Bangkok today, he said this year has produced convincing evidence it has begun, with AI now changing national security and contributing to its own development (recursive self-improvement, or RSI), and that we should prepare accordingly. He called today’s AI systems ‘virtual polymaths’, while warning that ‘just because AI will be a capable scientist does not mean we should use it for absolutely everything.’"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "update-ideogram-45-ranks-no-18-in-image-edit-arena-top-20-85000944",
+  "title": "UPDATE: Ideogram 4.5 Ranks No. 18 in Image Edit Arena Top 20",
+  "publishedAt": "2026-10-02T20:23:38.962Z",
+  "eventTimeApprox": "2026-09-30T16:09:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 29,
+  "authorCount": 19,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105336382562713651/HTehQ_6aYAAuh9T-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105336382562713651/HTehQ_6aYAAuh9T-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "arena",
+      "tweetUrl": "https://x.com/arena/status/2105336382562713651"
+    }
+  },
+  "summary": "The Artificial Analysis Image-Editing v2.0 board ranked the latest image model from Ideogram at No. 23, marking the AI startup's first appearance on that leaderboard. The tool also placed No. 34 on the AA-Image-T2I board, climbing from No. 40 for version 4.0, and scored 1351 points to rank No. 18 overall in the Image Edit Arena. According to a review by Artificial Analysis, the model currently trails HiDream-O1-Edit-1.5 and HunyuanImage 3.0 Instruct but sits ahead of ByteDance's Seedream 5.0 Lite.\n\nLaunched on September 30, Ideogram 4.5 is now live on fal, Krea, Glif, and Venice, alongside the company's own API. The model's architecture preserves 94-99% of unedited pixels across ten sequential modifications to prevent color drift and artifacting. High-quality edits are priced at $0.22 per image, while lower quality tiers start at $0.008 per image. Ideogram plans to publish the model's open weights in the near future.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105327223431737780",
+      "role": "source",
+      "authorHandle": "ideogram_ai",
+      "url": "https://x.com/ideogram_ai/status/2105327223431737780",
+      "tweetedAt": "2026-09-30T16:01:39.000Z",
+      "bestBit": "eliminates artifact buildup, making multi-turn editing possible",
+      "text": "Introducing Ideogram 4.5, the most precise edit model.\n\nWith each edit, leading models add artifacts, pixel shifts, and color changes. Ideogram 4.5 eliminates artifact buildup, making multi-turn editing possible.\n\nLive in Ideogram, the API, and launch partners. Open weights soon. https://t.co/cQZYfPBAw6"
+    },
+    {
+      "tweetId": "2105336382562713651",
+      "role": "source",
+      "authorHandle": "arena",
+      "url": "https://x.com/arena/status/2105336382562713651",
+      "tweetedAt": "2026-09-30T16:38:03.000Z",
+      "bestBit": "scored 1351 pts, and ranking #18 overall",
+      "text": "Exciting news: Ideogram 4.5 by @ideogram_ai has entered the Image Edit Arena’s top 20!\n\nThis release scored 1351 pts, and ranking #18 overall. Ideogram 4.5 landed within the top 20 for the following Image Edit categories:\n- #14 in 3D Imaging & Modeling \n- #15 in Product & Commercial Design\n- #17 across Cartoon, Anime & Fantasy; Photorealistic & Cinematic; and Text Rendering\n- #18 in Portraits\nRanking for Art coming soon.\n\nIdeogram's release notes highlight that this launch focuses on a unique capability for multi-turn edits existing pixels are persevered. Check out more details in their post.\n\nCongrats to the @ideogram_ai team on this release!",
+      "quotedTweetText": "Introducing Ideogram 4.5, the most precise edit model.\n\nWith each edit, leading models add artifacts, pixel shifts, and color changes. Ideogram 4.5 eliminates artifact buildup, making multi-turn editing possible.\n\nLive in Ideogram, the API, and launch partners. Open weights soon. https://t.co/cQZYfPBAw6"
+    },
+    {
+      "tweetId": "2106112805451739392",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2106112805451739392",
+      "tweetedAt": "2026-10-02T20:03:17.000Z",
+      "bestBit": "debuts at #23 on the AA-Image-Editing v2.0 leaderboard, Ideogram's first model on the board",
+      "text": "Ideogram 4.5 debuts at #23 on the AA-Image-Editing v2.0 leaderboard, Ideogram's first model on the board, and lands at #34 on AA-Image-T2I v2.0\n\nIdeogram 4.5 is Ideogram's new image editing model, released on September 30. Ideogram positions it as a high precision edit model, built to reduce pixel shifts, color changes and texture artifacts across multi-turn edits. It also supports Text to Image. We evaluated Ideogram 4.5 at “high” quality level.\n\nIn Image Editing, Ideogram 4.5 takes #23, just behind HiDream-O1-Edit-1.5 and HunyuanImage 3.0 Instruct and ahead of ByteDance's Seedream 5.0 Lite. In Text to Image it ranks #34, climbing from #40 for Ideogram 4.0.\n\nAt the High quality setting we evaluated, Ideogram 4.5 is priced at $0.22 per image ($220 per 1k images) for edits and $0.10 per image ($100 per 1k) for Text to Image. Lower quality tiers start at $0.008 per image for edits and $0.03 per image for Text to Image.\n\nIdeogram 4.5 is live in Ideogram, the Ideogram API and Ideogram's launch partners, with open weights coming soon.\n\nCongratulations to @ideogram_ai on the release!\n\nSee below for our analysis and example outputs of Ideogram 4.5 in the Artificial Analysis Image Arena 🧵"
+    },
+    {
+      "tweetId": "2105341213138199020",
+      "role": "support",
+      "authorHandle": "fal",
+      "url": "https://x.com/fal/status/2105341213138199020",
+      "tweetedAt": "2026-09-30T16:57:15.000Z",
+      "bestBit": "Make ten edits in a row and 94–99% of everything you didn't ask to change stays identical",
+      "text": "Ideogram 4.5 is now live on fal.\n\nPrecise edit image model. Make ten edits in a row and 94–99% of everything you didn't ask to change stays identical.\n\n- Typography rendered exactly as written, in any language\n- Edit with a mask, or guide changes with up to 4 reference images\n- Text to image and editing in one endpoint"
+    },
+    {
+      "tweetId": "2105329105373900933",
+      "role": "commentary",
+      "authorHandle": "venturetwins",
+      "url": "https://x.com/venturetwins/status/2105329105373900933",
+      "tweetedAt": "2026-09-30T16:09:08.000Z",
+      "bestBit": "handles multi-turn changes without warping and artifacts",
+      "text": "Ideogram's new image edit model is insanely good.\n\nTo test it, I took this Olipop ad and asked for a series of precise edits - like a creative team exploring variations or localizing content.\n\nIncredible to see how it handles multi-turn changes without warping and artifacts 🤯 https://t.co/De3PYTCBQc",
+      "quotedTweetText": "Introducing Ideogram 4.5, the most precise edit model.\n\nWith each edit, leading models add artifacts, pixel shifts, and color changes. Ideogram 4.5 eliminates artifact buildup, making multi-turn editing possible.\n\nLive in Ideogram, the API, and launch partners. Open weights soon. https://t.co/cQZYfPBAw6"
+    },
+    {
+      "tweetId": "2105782751983186251",
+      "role": "commentary",
+      "authorHandle": "andrew_n_carr",
+      "url": "https://x.com/andrew_n_carr/status/2105782751983186251",
+      "tweetedAt": "2026-10-01T22:11:46.000Z",
+      "bestBit": "pixel for pixel similarity reward outside a region seems so strong",
+      "text": "pixel for pixel similarity reward outside a region seems so strong",
+      "quotedTweetText": "Ideogram 4.5 is incredibly good at precision edits that match the environment. These examples are just the tip of the iceberg - it's just so fun to play around with... and it will be open weights!\n\nHuge congrats to the @ideogram_ai team! https://t.co/zwB3gZus4d"
+    },
+    {
+      "tweetId": "2105434964296974627",
+      "role": "commentary",
+      "authorHandle": "oliverjohansson",
+      "url": "https://x.com/oliverjohansson/status/2105434964296974627",
+      "tweetedAt": "2026-09-30T23:09:47.000Z",
+      "bestBit": "incredibly good at precision edits that match the environment",
+      "text": "Ideogram 4.5 is incredibly good at precision edits that match the environment. These examples are just the tip of the iceberg - it's just so fun to play around with... and it will be open weights!\n\nHuge congrats to the @ideogram_ai team! https://t.co/zwB3gZus4d"
+    },
+    {
+      "tweetId": "2105349837625684001",
+      "role": "support",
+      "authorHandle": "bdsqlsz",
+      "url": "https://x.com/bdsqlsz/status/2105349837625684001",
+      "tweetedAt": "2026-09-30T17:31:31.000Z",
+      "bestBit": "doesn’t suffer from the drift errors common in other AI models",
+      "text": "Ideogram 4.5 is now available!\nI was fortunate to get early access to this model for testing. \nIt doesn’t suffer from the drift errors common in other AI models and maintains accuracy even with repeated edits.\nhttps://t.co/r2U1P795gF",
+      "quotedTweetText": "A new image model is about to be released."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "ideogram-launches-45-image-model-and-plans-open-weights-release-f279b1bf",
+    "title": "Ideogram Launches 4.5 Image Model and Plans Open Weights Release",
+    "publishedAt": "2026-09-30T16:39:16.129Z",
+    "eventTimeApprox": "2026-09-30T16:09:08.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 20,
+    "authorCount": 18
+  }
+}

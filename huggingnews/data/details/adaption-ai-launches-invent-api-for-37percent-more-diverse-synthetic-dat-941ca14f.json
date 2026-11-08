@@ -1,0 +1,103 @@
+{
+  "slug": "adaption-ai-launches-invent-api-for-37percent-more-diverse-synthetic-dat-941ca14f",
+  "title": "Adaption AI Launches Invent API for 37% More Diverse Synthetic Data",
+  "publishedAt": "2026-10-02T19:27:15.769Z",
+  "eventTimeApprox": "2026-10-01T12:59:47.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105629212275102188/HTiyTU1W0AAgpPm-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105629212275102188/HTiyTU1W0AAgpPm-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "adaption_ai",
+      "tweetUrl": "https://x.com/adaption_ai/status/2105629212275102188"
+    }
+  },
+  "summary": "Researchers and developers can now use a public interface to create large-scale AI training sets from simple textual descriptions. Adaption AI has opened API access for its Invent system, which automates the production of post-training datasets in minutes with a few lines of code. The tool allows users to generate high-quality data for new model capabilities without needing any seed examples, solving the constraints of a zero-data regime.\n\nA technical report accompanying the launch shows that Invent outperforms frontier models including GPT-5.6, Claude Opus 5, and Gemini 3.1 Pro across 8 task types. The system delivers 17% higher quality and 19% greater sample diversity than these APIs, with the diversity advantage increasing to 37% when generating 20,000 samples. While competitors like Claude showed decreased variety at that scale, the Invent API maintained 0.0% duplicates.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105628799799120073",
+      "role": "source",
+      "authorHandle": "adaption_ai",
+      "url": "https://x.com/adaption_ai/status/2105628799799120073",
+      "tweetedAt": "2026-10-01T12:00:01.000Z",
+      "bestBit": "What happens if you need to post-train a model for a new capability, but have zero data?",
+      "text": "The biggest hurdle in frontier AI is curating high-quality, diverse data.\n\nWhat happens if you need to post-train a model for a new capability, but have zero data?\n\nToday, we release the technical report for Invent a Dataset. https://t.co/CCOvpBKXX6"
+    },
+    {
+      "tweetId": "2105629212275102188",
+      "role": "source",
+      "authorHandle": "adaption_ai",
+      "url": "https://x.com/adaption_ai/status/2105629212275102188",
+      "tweetedAt": "2026-10-01T12:01:39.000Z",
+      "bestBit": "Invent significantly outperforms top frontier APIs (Claude Opus 5, GPT-5.6, Gemini 3.1 Pro, DeepSeek V4 Pro, and GLM-5.3) with +17% higher quality and +19% greater sample diversity",
+      "text": "Benchmark tests across 8 task types show Invent significantly outperforms top frontier APIs (Claude Opus 5, GPT-5.6, Gemini 3.1 Pro, DeepSeek V4 Pro, and GLM-5.3) with +17% higher quality and +19% greater sample diversity.\n\nInvent API's diversity advantage widens as dataset size grows, reaching a +37% diversity lead at 20K samples with 0.0% duplicates."
+    },
+    {
+      "tweetId": "2106098311908487358",
+      "role": "source",
+      "authorHandle": "sarahookr",
+      "url": "https://x.com/sarahookr/status/2106098311908487358",
+      "tweetedAt": "2026-10-02T19:05:41.000Z",
+      "bestBit": "invent is now available on the @adaption_ai api in a few lines of code",
+      "text": "Woah trending. 🔥\n\nGood time to share that invent is now available on the @adaption_ai api in a few lines of code.\n\nhttps://t.co/rbqwkQGaSF https://t.co/h6emzdqiG6",
+      "quotedTweetText": "Last week we introduced Invent a Dataset. Describe what you need. Hit go.\n\nToday, we’re making it even easier with the Invent API.\n\nA few lines of code. AI ready training datasets in minutes. https://t.co/J2EqaFjgo6"
+    },
+    {
+      "tweetId": "2105654912264929750",
+      "role": "commentary",
+      "authorHandle": "mlstreettalk",
+      "url": "https://x.com/MLStreetTalk/status/2105654912264929750",
+      "tweetedAt": "2026-10-01T13:43:46.000Z",
+      "bestBit": "prompt based system to go from dataset description to realistic and large scale post-training datasets",
+      "text": ">  We introduce Invent-a-Dataset which is a prompt based system to go from dataset description to realistic and large scale post-training datasets.\n\nSoon we will be describing the datasets we want to post train by synthesising data from said description, adaptive specialisation always wins for specific domains!\n\n@sarahookr and @singhshiviii and others had their hands all over this so definitely check it out.",
+      "quotedTweetText": "The biggest hurdle in frontier AI is curating high-quality, diverse data.\n\nWhat happens if you need to post-train a model for a new capability, but have zero data?\n\nToday, we release the technical report for Invent a Dataset. https://t.co/CCOvpBKXX6"
+    },
+    {
+      "tweetId": "2106090882143510826",
+      "role": "commentary",
+      "authorHandle": "theturingpost",
+      "url": "https://x.com/TheTuringPost/status/2106090882143510826",
+      "tweetedAt": "2026-10-02T18:36:10.000Z",
+      "bestBit": "when asked to generate 20,000 training examples instead of 2,000, Claude produced less varied data",
+      "text": "This report provides very interesting results, for example: when asked to generate 20,000 training examples instead of 2,000, Claude produced less varied data. Adaption’s dataset generator, Invent, produced more variety.\nTen times more examples doesn’t guarantee ten times more to learn from!\n\nNice work, Sara and team!",
+      "quotedTweetText": "We released invent a dataset.\n\nToday we release the technical report that goes with it. \n\nHuge shoutout to everyone @singhshiviii @andrijazzz @lekeonilude @sudip_r0y 🔥\n\nThis tackles the hardest setting. How do you go from zero data regime to a training set for a capability. https://t.co/5we8O18wqM"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "adaption-ai-beats-gpt-56-and-claude-opus-5-in-data-synthesis-fc7f8f88",
+    "title": "Adaption AI Beats GPT 5.6 and Claude Opus 5 in Data Synthesis",
+    "publishedAt": "2026-10-01T13:55:35.878Z",
+    "eventTimeApprox": "2026-10-01T12:59:47.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 15,
+    "authorCount": 9
+  }
+}

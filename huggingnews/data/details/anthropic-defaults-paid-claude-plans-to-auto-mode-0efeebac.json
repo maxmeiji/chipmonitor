@@ -1,0 +1,59 @@
+{
+  "slug": "anthropic-defaults-paid-claude-plans-to-auto-mode-0efeebac",
+  "title": "Anthropic Defaults Paid Claude Plans to Auto Mode",
+  "publishedAt": "2026-10-22T21:38:24.745Z",
+  "eventTimeApprox": "2026-10-22T20:20:51.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113381842187604017/HVQ9lTlWQAA8Xnq-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113381842187604017/HVQ9lTlWQAA8Xnq-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "testingcatalog",
+      "tweetUrl": "https://x.com/testingcatalog/status/2113381842187604017"
+    }
+  },
+  "summary": "Subscribers to Pro, Max, and Team tiers will no longer be required to manually confirm every step of an AI session starting next week. Anthropic is transitioning sessions across the Claude web, desktop, and mobile applications to a default \"auto mode,\" where the assistant uses an internal safety classifier to block risky actions rather than requesting user approval for each move.\n\nThe shift follows a rollout for Claude Code on August 14, during which testing showed auto mode's classifier caught 89% of dangerous commands compared to just 14% caught via manual approval. Users who prefer the previous workflow can switch back to manual permissioning at any time.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113360845409583307",
+      "role": "source",
+      "authorHandle": "claudeai",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "tweetedAt": "2026-10-22T20:04:24.000Z",
+      "bestBit": "In testing, it caught 89% of dangerous commands. Manual approval caught 14%.",
+      "text": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.\n\nRather than asking you to approve each step, an automated check blocks risky actions. Switch back to manual anytime.",
+      "quotedTweetText": "Starting August 14, auto mode will be the default permission mode in Claude Code for Pro, Max, and Team users.\n\nAuto mode reviews shell commands and actions with a separate classifier. In testing, it caught 89% of dangerous commands. Manual approval caught 14%."
+    }
+  ],
+  "isSuperseded": false
+}

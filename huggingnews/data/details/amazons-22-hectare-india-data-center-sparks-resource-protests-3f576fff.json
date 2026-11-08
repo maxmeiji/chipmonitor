@@ -1,0 +1,78 @@
+{
+  "slug": "amazons-22-hectare-india-data-center-sparks-resource-protests-3f576fff",
+  "title": "Amazon’s 22 Hectare India Data Center Sparks Resource Protests",
+  "publishedAt": "2026-10-09T09:54:59.440Z",
+  "eventTimeApprox": "2026-10-09T06:30:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "tech",
+    "world",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "india",
+      "name": "India"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108442334715072684/69YCvXx3QVmy-p-8-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108442334715072684/69YCvXx3QVmy-p-8-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2108432837846392832/vid/avc1/1920x1080/Gu4G0y_XFce_g_GX.mp4?tag=29",
+    "credit": {
+      "handle": "reuters",
+      "tweetUrl": "https://x.com/Reuters/status/2108442334715072684"
+    }
+  },
+  "summary": "A computing facility the size of 41 football fields is under construction in the city of Thane next to Mumbai. Amazon is building the 22 hectare site, which has drawn criticism from residents who claim they were not consulted before construction began. Hundreds of people marched in the streets last month to oppose the project, citing concerns over noise, electricity, and water usage in the region.\n\nAmazon says it will employ its own power supply and water free cooling technology to mitigate environmental impact in a country that holds 18% of the global population but only 4% of its freshwater. The company is reportedly not concerned by the opposition, as officials expect the demonstrations to blow over, while similar resistance to data center expansion has emerged in other regions including Virginia.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108442334715072684",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2108442334715072684",
+      "tweetedAt": "2026-10-09T06:20:00.000Z",
+      "bestBit": "Amazon is building a 22-hectare data center, which is roughly the size of 41 football fields",
+      "text": "Amazon is building a 22-hectare data center, which is roughly the size of 41 football fields, at this site in the city of Thane, which is right next to Mumbai. Indians who live in the area are not happy about it https://t.co/fwoRRO8m6Z https://t.co/PU2HaWPKZX"
+    },
+    {
+      "tweetId": "2108490155241705918",
+      "role": "commentary",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2108490155241705918",
+      "tweetedAt": "2026-10-09T09:30:01.000Z",
+      "bestBit": "Hundreds took to the streets last month calling data centers \"energy vampires.\"",
+      "text": "🇮🇳 Residents near Mumbai woke up to find Amazon building a data center the size of 41 football fields right outside their windows.\n\nLocals say nobody asked them, and they're worried about noise, power, and water in a country with 18% of the world's people and just 4% of its freshwater. \n\nHundreds took to the streets last month calling data centers \"energy vampires.\"\n\nAmazon says it'll use water-free cooling and its own power supply. \n\nThe company is reportedly not too worried, since officials expect the protests to blow over.\n\nWith data centers getting this much grief everywhere from Virginia to Mumbai, maybe putting them in space isn’t such a crazy idea after all.\n\nSource: Reuters / Writer: Julie\n https://t.co/rlxwyfuQrO"
+    }
+  ],
+  "isSuperseded": false
+}

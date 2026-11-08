@@ -1,0 +1,53 @@
+{
+  "slug": "openai-limits-chatgpt-access-to-weapons-and-security-information-for-tee-6a8ff348",
+  "title": "OpenAI Limits ChatGPT Access to Weapons and Security Information for Teens",
+  "publishedAt": "2026-10-30T23:51:34.230Z",
+  "eventTimeApprox": "2026-10-30T20:56:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The AI company is updating ChatGPT to prevent users under 18 from obtaining practical information about weapons and security systems, even when the prompts appear harmless. These limits rely on a strengthened age-prediction tool to identify minors and shift them into a restricted teen experience. OpenAI is also developing a notification system to alert parents if a teen's account is temporarily paused following repeated safety violations.\n\nThe updated safeguards extend to all users, including the ability for the AI to terminate conversations automatically if a person fixates on violent themes. Additionally, ChatGPT will provide reduced detail regarding the weapons used in past mass attacks and how those attackers acquired them. OpenAI has not shared data on the accuracy of its age estimation or its system for detecting violent fixation.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116271409714659665",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2116271409714659665",
+      "tweetedAt": "2026-10-30T20:49:57.000Z",
+      "bestBit": "ChatGPT will be able to end a chat automatically when someone appears to fixate on violence",
+      "text": "OpenAI will block ChatGPT from giving teens practical weapons and security-system details, even when questions look harmless.\n\nFor every user, ChatGPT will be able to end a chat automatically when someone appears to fixate on violence.\n\nSeveral such endings may lead OpenAI to pause the account temporarily, and it is building alerts telling parents when a teen’s account is paused.\n\nEveryone will also get less detail on past mass attacks, including the weapons used and how attackers obtained them.\n\nBecause the teen limits depend on spotting minors, OpenAI says it strengthened the age prediction that moves estimated under-18 users into the teen experience.\n\nHowever, OpenAI released no figures on how accurately it estimates age or detects violent fixation, leaving false refusals and missed threats unmeasured."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "openai-hits-1b-revenue-run-rate-and-expands-ads-to-89-countries-ec273ad2",
+  "title": "OpenAI Hits $1B Revenue Run Rate and Expands Ads to 89 Countries",
+  "publishedAt": "2026-10-21T14:42:23.002Z",
+  "eventTimeApprox": "2026-10-21T13:14:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "OpenAI has grown its advertiser base to more than 100,000 partners to support the rapid scaling of its commercial operations. The firm has extended its advertising network to 89 countries, up from 83 previously, and reportedly hit an annual revenue run rate of $1B in under 200 days. This rollout is part of an accelerating effort to diversify earnings beyond subscription fees by widening the geographic reach of sponsored content.\n\nThe number of advertisers on the platform is up from 20,000 in August, according to The Information. OpenAI is also preparing to launch 'Sponsored Agents' to monetize user shopping decisions, a development that has contributed to a rise in the value of the company's pre-IPO perpetual securities.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112895710849052909",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112895710849052909",
+      "tweetedAt": "2026-10-21T13:16:07.000Z",
+      "bestBit": "advertiser base is 100K+, up from 20K in August",
+      "text": "OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August (@alix_coutures / The Information)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2112893038934852026",
+      "role": "support",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2112893038934852026",
+      "tweetedAt": "2026-10-21T13:05:30.000Z",
+      "bestBit": "OpenAI expands ChatGPT ads to 89 countries worldwide",
+      "text": "OpenAI expands ChatGPT ads to 89 countries worldwide."
+    },
+    {
+      "tweetId": "2112900660194865262",
+      "role": "signal",
+      "authorHandle": "liquidtrading",
+      "url": "https://x.com/liquidtrading/status/2112900660194865262",
+      "tweetedAt": "2026-10-21T13:35:47.000Z",
+      "bestBit": "OpenAI pre-ipo perpetual rise after it announces it is expanding ads to 89 countries worldwide",
+      "text": "JUST IN: OpenAI pre-ipo perpetual rise after it announces it is expanding ads to 89 countries worldwide https://t.co/MBpAFw4D3H"
+    },
+    {
+      "tweetId": "2112909752011559149",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2112909752011559149",
+      "tweetedAt": "2026-10-21T14:11:55.000Z",
+      "bestBit": "reportedly hitting a $1B annual revenue run rate in under 200 days",
+      "text": "OpenAI is expanding ChatGPT ads to 89 countries after reportedly hitting a $1B annual revenue run rate in under 200 days.\n\nThat could be just the beginning as more people use ChatGPT to decide what to buy with Sponsored Agents opening up another way for OpenAI to turn those shopping decisions into ad revenue.",
+      "quotedTweetText": "JUST IN: OpenAI pre-ipo perpetual rise after it announces it is expanding ads to 89 countries worldwide https://t.co/MBpAFw4D3H"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-expands-chatgpt-ads-to-83-countries-with-100000-advertisers-b7cd5059",
+    "title": "OpenAI Expands ChatGPT Ads to 83 Countries With 100,000 Advertisers",
+    "publishedAt": "2026-10-21T13:25:01.240Z",
+    "eventTimeApprox": "2026-10-21T13:13:55.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 7,
+    "authorCount": 5
+  }
+}

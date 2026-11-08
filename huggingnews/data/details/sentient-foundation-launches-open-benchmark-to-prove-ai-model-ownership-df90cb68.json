@@ -1,0 +1,63 @@
+{
+  "slug": "sentient-foundation-launches-open-benchmark-to-prove-ai-model-ownership-df90cb68",
+  "title": "Sentient Foundation Launches Open Benchmark to Prove AI Model Ownership",
+  "publishedAt": "2026-10-14T15:22:59.542Z",
+  "eventTimeApprox": "2026-10-14T14:40:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110388650295066872/HUmbJK6bQAAqfh1-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110388650295066872/HUmbJK6bQAAqfh1-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "rohanpaul_ai",
+      "tweetUrl": "https://x.com/rohanpaul_ai/status/2110388650295066872"
+    }
+  },
+  "summary": "The Fingerprinting Leaderboard, a free open-source tool, evaluates the ability of AI developers to embed ownership marks within model weights to detect unauthorized duplication. Sentient Foundation's new benchmark, and its accompanying mlprints code, tests how these fingerprints resist removal attempts such as distillation or fine-tuning while preserving original model performance. Researchers submit marking methods, which are then embedded into test models and ranked on a public website based on verification reliability and resilience.\n\nAI models often cost millions to train but can be copied in minutes, creating a need for proof of ownership that resides in the weights rather than in paperwork. Fingerprinting achieves this by training a model to provide unlikely answers to secret prompts, allowing owners to verify suspected copies through an API. Sentient's own Perinucleus method is currently competing on the leaderboard after embedding 24,576 fingerprints in Llama-3.1-8B without degrading the model's utility.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110370082434195529",
+      "role": "source",
+      "authorHandle": "sentient_found",
+      "url": "https://x.com/sentient_found/status/2110370082434195529",
+      "tweetedAt": "2026-10-14T14:00:11.000Z",
+      "bestBit": "Models cost millions to train and minutes to copy",
+      "text": "Models cost millions to train and minutes to copy. Fine-tuning and distillation can erase where they came from.\n\nIntroducing the Fingerprinting Leaderboard, an open benchmark for model provenance — built so the proof lives in the weights, not the paperwork.\n\nhttps://t.co/aHONvNd7o4"
+    },
+    {
+      "tweetId": "2110388650295066872",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2110388650295066872",
+      "tweetedAt": "2026-10-14T15:13:58.000Z",
+      "bestBit": "Sentient’s Perinucleus method embedded 24,576 fingerprints in Llama-3.1-8B without degrading utility",
+      "text": "Good news for anyone trying to prove a model is theirs.\n\nSentient Foundation released the Fingerprinting Leaderboard, a free, open source benchmark that tests fingerprinting methods, meant to prove an AI model was copied from yours.\n\nResearchers submit a method for hiding an ownership mark inside a model, and Sentient puts that mark into its own test models, tries to strip it out, then ranks the method on a public website.\n\nThe code that runs these tests, called mlprints, is released too.\n\nA fingerprint trains a model to return unlikely answers to secret prompts, so an owner can test a suspected copy through its API alone. \n\nBut a fingerprint that survives every attack is still useless if the owner can’t read it back reliably.\n\nSentient Foundation’s Fingerprinting Leaderboard scores that verification step directly, alongside how well the mark resists removal and how much model skill it costs.\n\nSentient’s Perinucleus method embedded 24,576 fingerprints in Llama-3.1-8B without degrading utility, is also competing on the leaderboard, and the fingerprints survived standard fine-tuning.",
+      "quotedTweetText": "Models cost millions to train and minutes to copy. Fine-tuning and distillation can erase where they came from.\n\nIntroducing the Fingerprinting Leaderboard, an open benchmark for model provenance — built so the proof lives in the weights, not the paperwork.\n\nhttps://t.co/aHONvNd7o4"
+    }
+  ],
+  "isSuperseded": false
+}

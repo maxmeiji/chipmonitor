@@ -1,0 +1,89 @@
+{
+  "slug": "update-micro1-commits-1-billion-for-company-data-after-crossing-1b-arr-5b2ccdb9",
+  "title": "UPDATE: Micro1 Commits $1 Billion for Company Data After Crossing $1B ARR",
+  "publishedAt": "2026-10-13T17:39:54.426Z",
+  "eventTimeApprox": "2026-10-12T21:57:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    }
+  ],
+  "summary": "The demand for expert human training sets drove a growth in revenue from $500 million in August to $700 million just a few weeks later. Micro1 has since surpassed $1 billion in annual recurring revenue and announced a commitment to spend $1 billion on acquiring proprietary company data to support AI laboratories. This expansion is primarily driven by the company's Data Partnerships program, which licenses business datasets for use in AI model training.\n\nThe company closed a Series B funding round earlier this summer at a $4 billion valuation. This scaling occurs as laboratories prioritize high-quality data to improve model performance, with analyst Ali Sarinik estimating that as much as 10% of US GDP could soon be dedicated to training AI models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110058120886325460",
+      "role": "source",
+      "authorHandle": "charlesrollet1",
+      "url": "https://x.com/CharlesRollet1/status/2110058120886325460",
+      "tweetedAt": "2026-10-13T17:20:33.000Z",
+      "bestBit": "@micro1_ai just announced that it's committed to spending $1 billion on company data.",
+      "text": "@RyanLockAI This market is going bananas.\n\n @micro1_ai just announced that it's committed to spending $1 billion on company data.\n\n@aliansarinik estimates that about 10% of the US's GDP could soon be dedicated to training AI models. https://t.co/nPvoVmuscD"
+    },
+    {
+      "tweetId": "2109765355015229737",
+      "role": "support",
+      "authorHandle": "fxhedgers",
+      "url": "https://x.com/Fxhedgers/status/2109765355015229737",
+      "tweetedAt": "2026-10-12T21:57:12.000Z",
+      "bestBit": "Micro1 has reached $1B ARR, up from around $500m in August and $700m a few weeks ago",
+      "text": "BREAKING: Micro1 has reached $1B ARR, up from around $500m in August and $700m a few weeks ago (per Arfur Rock &amp; Forbes). A clear signal that high-quality data for AI training is becoming a gigantic market."
+    },
+    {
+      "tweetId": "2109705407283483107",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2109705407283483107",
+      "tweetedAt": "2026-10-12T17:59:00.000Z",
+      "bestBit": "closed its Series B at a $4B valuation earlier this summer",
+      "text": "MICRO1 SURPASSES $1B IN ANNUAL RECURRING REVENUE\n\nThe AI training data company says growth is driven by demand for expert human data &amp; its Data Partnerships program, which licenses business data for AI training.\n\nIt also closed its Series B at a $4B valuation earlier this summer"
+    },
+    {
+      "tweetId": "2109771884237562312",
+      "role": "commentary",
+      "authorHandle": "wallstreetmav",
+      "url": "https://x.com/WallStreetMav/status/2109771884237562312",
+      "tweetedAt": "2026-10-12T22:23:09.000Z",
+      "bestBit": "Labs are spending literally whatever it takes for good data.",
+      "text": "Labs are spending literally whatever it takes for good data.",
+      "quotedTweetText": "BREAKING: Micro1 has reached $1B ARR, up from around $500m in August and $700m a few weeks ago (per Arfur Rock &amp; Forbes). A clear signal that high-quality data for AI training is becoming a gigantic market."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "micro1-surpasses-1b-arr-on-ai-training-data-demand-ced11e51",
+    "title": "Micro1 Surpasses $1B ARR on AI Training Data Demand",
+    "publishedAt": "2026-10-12T22:40:55.651Z",
+    "eventTimeApprox": "2026-10-12T19:58:06.000Z",
+    "routingTopicKeys": [
+      "startups",
+      "ai"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

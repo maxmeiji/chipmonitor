@@ -1,0 +1,148 @@
+{
+  "slug": "apple-reaches-deal-with-brussels-on-european-homeview-report-says-1c13655d",
+  "title": "Apple Reaches Deal With Brussels on European HomeView, Report Says",
+  "publishedAt": "2026-10-13T21:10:38.709Z",
+  "eventTimeApprox": "2026-10-13T13:01:32.500Z",
+  "isFreshStory": false,
+  "tweetCount": 133,
+  "authorCount": 46,
+  "routingTopicKeys": [
+    "tech",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "iot",
+      "name": "IoT"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "europe",
+      "name": "Europe"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109994312675070106/HUg0I1PXkAAwgHH-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109994312675070106/HUg0I1PXkAAwgHH-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "stockmktnewz",
+      "tweetUrl": "https://x.com/StockMKTNewz/status/2109994312675070106"
+    }
+  },
+  "summary": "Apple agreed with Brussels on a European edition of its $299 HomeView smart display after making multiple concessions, MacGeneration reported Tuesday.\n\nThe report followed Apple's announcement earlier that day that HomeView would not be sold in the European Union because Siri AI was unavailable on iOS there. Apple said it was \"working constructively with the EU.\"\n\nHomeView uses facial recognition to personalize content for up to six people and supports Apple apps, FaceTime and smart home controls. The 7 inch display is available for preorder in tabletop and wall mounted versions, with shipments beginning November 13. Apple also unveiled cameras, doorbells, locks and thermostats developed with LG and Schneider Electric, arriving in December.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109992700149956855",
+      "role": "source",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2109992700149956855",
+      "tweetedAt": "2026-10-13T13:00:36.000Z",
+      "bestBit": "Apple announces the $299 HomeView, a smart display for its revamped smart home strategy with facial recognition for personal content, Apple apps and FaceTime.",
+      "text": "Official: Apple announces the $299 HomeView, a smart display for its revamped smart home strategy with facial recognition for personal content, Apple apps and FaceTime. https://t.co/S5biSi4C4O"
+    },
+    {
+      "tweetId": "2109992951858565518",
+      "role": "source",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2109992951858565518",
+      "tweetedAt": "2026-10-13T13:01:36.000Z",
+      "bestBit": "Apple is also officially launching a suite of co-developed home accessories with LG, including a doorbell, deadbolt lock and thermostat. There are also accessories made with Schneider Electric. These won’t launch until end of year.",
+      "text": "Apple is also officially launching a suite of co-developed home accessories with LG, including a doorbell, deadbolt lock and thermostat. There are also accessories made with Schneider Electric. These won’t launch until end of year. https://t.co/V06UQRQYKy"
+    },
+    {
+      "tweetId": "2110004391063499013",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2110004391063499013",
+      "tweetedAt": "2026-10-13T13:47:03.000Z",
+      "bestBit": "Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is \"working constructively with the EU\"",
+      "text": "Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is \"working constructively with the EU\" (@ihxrtlxy / MacRumors)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2110093292163813773",
+      "role": "source",
+      "authorHandle": "macgeneration",
+      "url": "https://x.com/MacGeneration/status/2110093292163813773",
+      "tweetedAt": "2026-10-13T19:40:19.000Z",
+      "bestBit": "Pour le HomeView, Apple a multiplié les concessions. Résultat : une édition européenne qui rendrait presque jaloux les Américains.",
+      "text": "Apple et Bruxelles d'accord en un temps record, ça existe 🤝\n\nPour le HomeView, Apple a multiplié les concessions. Résultat : une édition européenne qui rendrait presque jaloux les Américains.\n\nhttps://t.co/WD5PLZIuOi"
+    },
+    {
+      "tweetId": "2110009674699362724",
+      "role": "commentary",
+      "authorHandle": "yahoofinance",
+      "url": "https://x.com/YahooFinance/status/2110009674699362724",
+      "tweetedAt": "2026-10-13T14:08:03.000Z",
+      "bestBit": "Apple's smart home push making headlines this morning feels \"10 years too late,\" @BrianSozzi says.",
+      "text": "Apple's smart home push making headlines this morning feels \"10 years too late,\" @BrianSozzi says. 🥶 https://t.co/wUAxjGuNeR"
+    },
+    {
+      "tweetId": "2110082440329118072",
+      "role": "commentary",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2110082440329118072",
+      "tweetedAt": "2026-10-13T18:57:11.000Z",
+      "bestBit": "I find the $299 price for HomeView solid. Not super aggressive but reasonable all things considered. The $149 for the HomePod mini 2 is in the same category. But I think $299 for the Apple TV is a huge stretch and a cheaper model - a stick? - is now essential.",
+      "text": "Taking a step back, I am largely impressed with Apple's smart home launch today. I think $299 will make the HomeView a huge seller. But the biggest thing is they finally have an end-to-end strategy and a cohesive story for the home. I believe it'll work.",
+      "quotedTweetText": "I find the $299 price for HomeView solid. Not super aggressive but reasonable all things considered. The $149 for the HomePod mini 2 is in the same category. But I think $299 for the Apple TV is a huge stretch and a cheaper model - a stick? - is now essential."
+    },
+    {
+      "tweetId": "2110046518241534377",
+      "role": "commentary",
+      "authorHandle": "caro_milanesi",
+      "url": "https://x.com/caro_milanesi/status/2110046518241534377",
+      "tweetedAt": "2026-10-13T16:34:27.000Z",
+      "bestBit": "HomeView, Apple Home Collection with LG Electronics and Schneider Electric, Apple TV 4K and HomePod mini 2 all bring Siri AI into the rooms where we live, with the simplicity a home has little patience to do without.",
+      "text": "Apple's \"Welcome home\" event was a welcome for Siri AI. HomeView, Apple Home Collection with LG Electronics and Schneider Electric, Apple TV 4K and HomePod mini 2 all bring Siri AI into the rooms where we live, with the simplicity a home has little patience to do without. My take\n\nhttps://t.co/Mc3CBYHaCt"
+    },
+    {
+      "tweetId": "2110017654828478646",
+      "role": "commentary",
+      "authorHandle": "brianroemmele",
+      "url": "https://x.com/BrianRoemmele/status/2110017654828478646",
+      "tweetedAt": "2026-10-13T14:39:45.000Z",
+      "bestBit": "The device Apple should have made 5 years is out now.\n\nMeet HomeView.\n\nI sat in the old Apple Headquarters presenting this before Alexa.",
+      "text": "The device Apple should have made 5 years is out now.\n\nMeet HomeView.\n\nI sat in the old Apple Headquarters presenting this before Alexa. It is good to see them finally agree with their best employees. https://t.co/jjl58IJdIS"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "apple-unveils-299-homeview-as-first-dedicated-smart-home-display-a59d30c0",
+    "title": "Apple Unveils $299 HomeView as First Dedicated Smart Home Display",
+    "publishedAt": "2026-10-13T17:11:24.380Z",
+    "eventTimeApprox": "2026-10-13T13:00:59.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 131,
+    "authorCount": 44
+  }
+}

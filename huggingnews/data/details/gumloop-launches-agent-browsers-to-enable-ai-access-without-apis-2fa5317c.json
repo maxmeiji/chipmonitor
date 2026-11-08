@@ -1,0 +1,61 @@
+{
+  "slug": "gumloop-launches-agent-browsers-to-enable-ai-access-without-apis-2fa5317c",
+  "title": "Gumloop Launches Agent Browsers to Enable AI Access Without APIs",
+  "publishedAt": "2026-10-06T17:52:44.580Z",
+  "eventTimeApprox": "2026-10-06T17:09:17.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "Artificial intelligence agents can now perform chores like downloading dashboard exports and checking pricing on websites that lack traditional connectors. Gumloop released Agent Browsers, a model-agnostic tool that operates in a cloud sandbox to let agents interact directly with sites that do not have an Application Programming Interface (API) or Model Context Protocol (MCP). The system includes secure credential storage with 1Password integration, stealth proxied sessions and recordings to review agent activity via session replays.\n\nThe tool targets the reliance on manual supervision when agents encounter errors on web pages or require login credentials. Users can create 'recipes' by walking an agent through a task once and saving the steps for repeated, unattended execution. This browser environment is compatible with several large language models, including Opus 5.5 and GPT 6-astra, to increase the volume of tasks that can be delegated.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107510127771447692",
+      "role": "source",
+      "authorHandle": "gumloop",
+      "url": "https://x.com/gumloop/status/2107510127771447692",
+      "tweetedAt": "2026-10-06T16:35:44.000Z",
+      "bestBit": "Agent Browsers are live on Gumloop today so your agents can reach the work that doesn't have an MCP or API",
+      "text": "Agent Browsers are live on Gumloop today so your agents can reach the work that doesn't have an MCP or API\n\n&gt; Secure credential storage &amp; 1Password integration\n&gt; Session replays to see your agents work\n&gt; Stealth, proxied sessions\n\nAll completely model agnostic\n\nTry Browser today. https://t.co/ZQbTAcaScW"
+    },
+    {
+      "tweetId": "2107525292323451303",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2107525292323451303",
+      "tweetedAt": "2026-10-06T17:36:00.000Z",
+      "bestBit": "An AI agent that can write your weekly report should also be able to click “Export.”",
+      "text": "An AI agent that can write your weekly report should also be able to click “Export.”\n\nThat’s the idea behind Browser by @gumloop: let agents use websites directly when there’s no connector for the job.\n\nGumloop says you walk through the task together once, then save the steps as a recipe for future runs. Every session is recorded so you can check what happened.\n\nGive it the dashboard exports. Give it the weekly pricing checks. These are exactly the chores I want agents.",
+      "quotedTweetText": "Agent Browsers are live on Gumloop today so your agents can reach the work that doesn't have an MCP or API\n\n&gt; Secure credential storage &amp; 1Password integration\n&gt; Session replays to see your agents work\n&gt; Stealth, proxied sessions\n\nAll completely model agnostic\n\nTry Browser today. https://t.co/ZQbTAcaScW"
+    },
+    {
+      "tweetId": "2107512031154966687",
+      "role": "analysis",
+      "authorHandle": "itsolelehmann",
+      "url": "https://x.com/itsolelehmann/status/2107512031154966687",
+      "tweetedAt": "2026-10-06T16:43:18.000Z",
+      "bestBit": "you can use your favorite models like opus 5.5 and gpt 6-astra with a browser setup that cuts down on all that babysitting",
+      "text": "i'm convinced fast + reliable browser use is still the biggest bottleneck for agents.\n\ngrokbot, muse, whatever agent you're using... you still can't reliably leave them fully unattended.\n\nthey ALWAYS seem to hit a snag on a website, need you to click something, or spend ages filling out a form you could've finished yourself.\n\nand most people don't want to keep signing in or setting up a connector for every website they use.\n\ni think gumloop is taking the right approach with their new browser.\n\nyou can use your favorite models like opus 5.5 and gpt 6-astra with a browser setup that cuts down on all that babysitting:\n\n> credential vault: saves your login credentials so the agent can reuse them next time\n\n> recipes: work through a task together once, check the result, then save the steps for much faster future runs\n\n> cloud browser: runs tasks in its own sandbox in the cloud, so your laptop doesn't have to stay open\n\n> session replays: records every session so you can watch exactly what it did afterward\n\nonce you can trust an agent enough to leave it fully unattended and come back to finished work (and not stuck on a website), the amount you can delegate goes wayyy up",
+      "quotedTweetText": "Agent Browsers are live on Gumloop today so your agents can reach the work that doesn't have an MCP or API\n\n&gt; Secure credential storage &amp; 1Password integration\n&gt; Session replays to see your agents work\n&gt; Stealth, proxied sessions\n\nAll completely model agnostic\n\nTry Browser today. https://t.co/ZQbTAcaScW"
+    }
+  ],
+  "isSuperseded": false
+}

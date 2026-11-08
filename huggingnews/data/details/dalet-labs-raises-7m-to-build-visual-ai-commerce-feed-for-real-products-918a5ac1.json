@@ -1,0 +1,76 @@
+{
+  "slug": "dalet-labs-raises-7m-to-build-visual-ai-commerce-feed-for-real-products-918a5ac1",
+  "title": "Dalet Labs Raises $7M to Build Visual AI Commerce Feed for Real Products",
+  "publishedAt": "2026-10-28T16:06:44.115Z",
+  "eventTimeApprox": "2026-10-28T15:26:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115460068762058970/rYDDzv5cVEku-5VY-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115460068762058970/rYDDzv5cVEku-5VY-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2115457382159437824/vid/avc1/1920x1080/xz_HoFYi17a3kdV-.mp4?tag=29",
+    "credit": {
+      "handle": "omerbartal",
+      "tweetUrl": "https://x.com/omerbartal/status/2115460068762058970"
+    }
+  },
+  "summary": "Lightspeed led a $7M pre-seed funding round for Dalet Labs to develop its \"Scene\" platform, which replaces traditional search and chatbots with an AI-generated shopping feed. The app creates personalized, lifelike images featuring real clothing and home decor that users can purchase via a single in-app checkout across multiple brands.\n\nThe startup was founded by a team of researchers from Google, Runway, and MIT. To ensure accuracy in its imagery, the company's language model creates prompts based on attributes from images users have previously interacted with. The platform, currently in early access on iOS, expands its content by remixing images based on collective user engagement to eliminate the need for traditional photoshoots.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115460068762058970",
+      "role": "source",
+      "authorHandle": "omerbartal",
+      "url": "https://x.com/omerbartal/status/2115460068762058970",
+      "tweetedAt": "2026-10-28T15:05:58.000Z",
+      "bestBit": "Built by researchers from Google, Runway and MIT. Backed by @lightspeedvp and amazing angels.",
+      "text": "We raised a $7M pre-seed to make shopping fun again.\n\n@daletlabs generates media just for you: like walking into a mall built around your taste. And you can buy everything in-app.\n\nBuilt by researchers from Google, Runway and MIT. Backed by @lightspeedvp and amazing angels. https://t.co/IiAikIEmur"
+    },
+    {
+      "tweetId": "2115469422198464948",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2115469422198464948",
+      "tweetedAt": "2026-10-28T15:43:08.000Z",
+      "bestBit": "The products in each image are real. And users can tap to buy them.",
+      "text": "Super interesting way to shop with AI. \n\nDalet hyper-personalizes the shopping experience by creating a feed of lifelike AI-generated images. \n\nThe products in each image are real. And users can tap to buy them.\n\nDiscovery is a way better fit for generative media than another chat box.\n\nThe team comes from Google, Runway, and MIT. Congrats on their raise.",
+      "quotedTweetText": "We raised a $7M pre-seed to make shopping fun again.\n\n@daletlabs generates media just for you: like walking into a mall built around your taste. And you can buy everything in-app.\n\nBuilt by researchers from Google, Runway and MIT. Backed by @lightspeedvp and amazing angels. https://t.co/IiAikIEmur"
+    },
+    {
+      "tweetId": "2115471582164644209",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2115471582164644209",
+      "tweetedAt": "2026-10-28T15:51:43.000Z",
+      "bestBit": "For grounding, a language model builds diffusion prompts only from attributes found in images people liked, which the company says limits hallucinated details in scenes meant to show real products.",
+      "text": "AI is becoming the new front door for brand discovery.\n\nThe shopping mall is a surprisingly good mental model for consumer AI.\n\nDalet Labs raised a $7M pre-seed led by Lightspeed to build AI-generated shopping scenes.\n\n> The core idea is that AI should show options before you know what to ask, unlike chatbots and shopping agents that need a clear request before they can help.\n\n> For grounding, a language model builds diffusion prompts only from attributes found in images people liked, which the company says limits hallucinated details in scenes meant to show real products.\n\n> The feed generates its own content: collective user engagement picks which images to remix next, and fresh outputs can become new references, so the image pool grows without photoshoots.\n\nhttps://t.co/DlnAMmraMp",
+      "quotedTweetText": "We raised a $7M pre-seed to make shopping fun again.\n\n@daletlabs generates media just for you: like walking into a mall built around your taste. And you can buy everything in-app.\n\nBuilt by researchers from Google, Runway and MIT. Backed by @lightspeedvp and amazing angels. https://t.co/IiAikIEmur"
+    }
+  ],
+  "isSuperseded": false
+}

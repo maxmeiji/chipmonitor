@@ -1,0 +1,59 @@
+{
+  "slug": "cern-and-mistral-build-large-physics-model-from-billions-of-collisions-882bee3d",
+  "title": "CERN and Mistral Build Large Physics Model From Billions of Collisions",
+  "publishedAt": "2026-10-15T14:22:57.550Z",
+  "eventTimeApprox": "2026-10-15T13:45:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:MIST",
+      "kind": "private",
+      "role": "subject",
+      "name": "Mistral AI",
+      "hubKey": "mistral-ai"
+    }
+  ],
+  "summary": "Mistral and CERN are collaborating to determine how artificial intelligence can assist in managing the intricacies of particle physics. The partnership aims to develop a single Large Physics Model by training it on billions of simulated collisions to address the increasing complexity of data produced in high-energy experiments.\n\nThe project reflects a growing trend of applying large scale machine learning to experimental physics to identify patterns in massive datasets. Researchers in the field have highlighted AI for experimental physics as a rapidly accelerating area of study.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110684732103041474",
+      "role": "source",
+      "authorHandle": "mistralai",
+      "url": "https://x.com/MistralAI/status/2110684732103041474",
+      "tweetedAt": "2026-10-15T10:50:29.000Z",
+      "bestBit": "@CERN and Mistral join forces to explore this question. The ambition: a single Large Physics Model, trained on billions of simulated collisions.",
+      "text": "What can large-scale AI models bring to the growing complexity of particle physics?\n\n@CERN  and Mistral join forces to explore this question.\n\nThe ambition: a single Large Physics Model, trained on billions of simulated collisions. https://t.co/nrdCfcBI3k"
+    },
+    {
+      "tweetId": "2110728744583487569",
+      "role": "engagement",
+      "authorHandle": "gneubig",
+      "url": "https://x.com/gneubig/status/2110728744583487569",
+      "tweetedAt": "2026-10-15T13:45:22.000Z",
+      "bestBit": "AI for experimental physics is a super-exciting area right now.",
+      "text": "This model will be 💥\n\nAI for experimental physics is a super-exciting area right now.",
+      "quotedTweetText": "What can large-scale AI models bring to the growing complexity of particle physics?\n\n@CERN  and Mistral join forces to explore this question.\n\nThe ambition: a single Large Physics Model, trained on billions of simulated collisions. https://t.co/nrdCfcBI3k"
+    }
+  ],
+  "isSuperseded": false
+}

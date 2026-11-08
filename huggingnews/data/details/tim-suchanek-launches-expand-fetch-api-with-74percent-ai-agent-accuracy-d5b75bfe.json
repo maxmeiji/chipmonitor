@@ -1,0 +1,61 @@
+{
+  "slug": "tim-suchanek-launches-expand-fetch-api-with-74percent-ai-agent-accuracy-d5b75bfe",
+  "title": "Tim Suchanek Launches Expand Fetch API With 74% AI Agent Accuracy",
+  "publishedAt": "2026-10-14T16:37:32.897Z",
+  "eventTimeApprox": "2026-10-14T16:10:51.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "A new web crawling service enables artificial intelligence assistants to see rendered pages instead of flat text to reduce errors in data extraction. Expand Fetch uses a vision model called Iris to preserve tables and layouts and a JSON model called X-Ray to extract hidden data. On a benchmark of 1,094 questions across 326 web pages, agents using the tool achieved a 74% accuracy rate, compared to 55% for the next best API.\n\nTim Suchanek launched the product today with pricing at $1 per 1,000 fetches. The service includes a verification feature that links every line of extracted data back to its original source, aiming to fix hallucinations caused when layout details like icons or symbols are lost during traditional Markdown API processing.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110400343301382614",
+      "role": "source",
+      "authorHandle": "timsuchanek",
+      "url": "https://x.com/TimSuchanek/status/2110400343301382614",
+      "tweetedAt": "2026-10-14T16:00:25.000Z",
+      "bestBit": "agents using Expand got 74% right. The next best API got 55%",
+      "text": "Introducing Expand Fetch, a new way to scrape and crawl the web.\n\nYour agent has never seen the web. No wonder it gets basic questions wrong.\n\nTraditional Markdown APIs lose critical details. So we trained two System one models to change that:\n\nIris, a vision model that sees pages like you do, preserving tables, icons, and layouts.\n\nX-Ray, a JSON model that uncovers the hidden data behind every page.\n\nEvery fetch also comes with a Wayback Machine. Every line links back to its source, so you can verify exactly what your agent saw.\n\nThree products. One API.\n\nOn our benchmark of 1,094 questions across 326 challenging web pages, agents using Expand got 74% right. The next best API got 55%.\n\nAvailable today at $1 per 1,000 fetches.\n\nTry it at https://t.co/x4SDYsUX25"
+    },
+    {
+      "tweetId": "2110404504118071742",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2110404504118071742",
+      "tweetedAt": "2026-10-14T16:16:57.000Z",
+      "bestBit": "much of what we call hallucination in web agents comes from misreading the page",
+      "text": "Another great application of System One models. \n\nI think much of what we call hallucination in web agents comes from misreading the page. \n\nWhen a page is flattened to text, a small ✗ in a pricing table disappears, and the agent answers incorrectly with full confidence. \n\nExpand Fetch reads the rendered page, returns the underlying data as clean JSON, and keeps a replay of exactly what your agent saw.",
+      "quotedTweetText": "Introducing Expand Fetch, a new way to scrape and crawl the web.\n\nYour agent has never seen the web. No wonder it gets basic questions wrong.\n\nTraditional Markdown APIs lose critical details. So we trained two System one models to change that:\n\nIris, a vision model that sees pages like you do, preserving tables, icons, and layouts.\n\nX-Ray, a JSON model that uncovers the hidden data behind every page.\n\nEvery fetch also comes with a Wayback Machine. Every line links back to its source, so you can verify exactly what your agent saw.\n\nThree products. One API.\n\nOn our benchmark of 1,094 questions across 326 challenging web pages, agents using Expand got 74% right. The next best API got 55%.\n\nAvailable today at $1 per 1,000 fetches.\n\nTry it at https://t.co/x4SDYsUX25"
+    },
+    {
+      "tweetId": "2110407036299313265",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2110407036299313265",
+      "tweetedAt": "2026-10-14T16:27:01.000Z",
+      "bestBit": "A tiny ✗ in a pricing table means “not included.” Flatten the page to text and it vanishes",
+      "text": "Agents are only as good as the page they think they saw.\n\nA tiny ✗ in a pricing table means “not included.” Flatten the page to text and it vanishes, and the agent confidently gets it wrong.\n\n@TimSuchanek’s Expand Fetch keeps tables and icons intact and saves the page, so you can see exactly what the agent read. Pretty pretty useful! :)",
+      "quotedTweetText": "Introducing Expand Fetch, a new way to scrape and crawl the web.\n\nYour agent has never seen the web. No wonder it gets basic questions wrong.\n\nTraditional Markdown APIs lose critical details. So we trained two System one models to change that:\n\nIris, a vision model that sees pages like you do, preserving tables, icons, and layouts.\n\nX-Ray, a JSON model that uncovers the hidden data behind every page.\n\nEvery fetch also comes with a Wayback Machine. Every line links back to its source, so you can verify exactly what your agent saw.\n\nThree products. One API.\n\nOn our benchmark of 1,094 questions across 326 challenging web pages, agents using Expand got 74% right. The next best API got 55%.\n\nAvailable today at $1 per 1,000 fetches.\n\nTry it at https://t.co/x4SDYsUX25"
+    }
+  ],
+  "isSuperseded": false
+}

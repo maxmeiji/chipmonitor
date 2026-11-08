@@ -1,0 +1,123 @@
+{
+  "slug": "update-cerebras-stock-jumps-10percent-after-sam-altman-reaffirms-openai-15f55910",
+  "title": "UPDATE: Cerebras Stock Jumps 10% After Sam Altman Reaffirms OpenAI Partnership",
+  "publishedAt": "2026-10-06T22:24:09.994Z",
+  "eventTimeApprox": "2026-10-05T13:41:18.500Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai",
+    "us-markets",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CBRS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cerebras",
+      "hubKey": "cerebras"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107103906170040525/HT3voRqXIAA4neN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107103906170040525/HT3voRqXIAA4neN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "yahoofinance",
+      "tweetUrl": "https://x.com/YahooFinance/status/2107103906170040525"
+    }
+  },
+  "summary": "The hardware producer's shares rose on Monday after the CEO of OpenAI used X to call Cerebras a \"close partner\" and cited a \"deep engagement\" between the two companies. The stock climbed as much as 10% following the post from Sam Altman, which aimed to settle speculation about the chipmaker's relationship with the AI research lab and its role in providing infrastructure for newest models.\n\nThe rally followed a report last week stating OpenAI's GPT-6.1 Sol Ultrafast mode runs on Nvidia GPUs, a claim that drove a roughly 20% decline in Cerebras shares over that period. The firms maintain a $10B agreement signed in January for 750 MW of compute through 2028. Citi kept its 2026-2028 revenue view unchanged, though Altman provided no new commitments regarding model access or processing capacity.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106148145118024161",
+      "role": "source",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2106148145118024161",
+      "tweetedAt": "2026-10-02T22:23:42.000Z",
+      "bestBit": "Cerebras is a close partner with deep engagement after partnership speculation",
+      "text": "OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation"
+    },
+    {
+      "tweetId": "2107161740446503244",
+      "role": "support",
+      "authorHandle": "vestexchange",
+      "url": "https://x.com/VestExchange/status/2107161740446503244",
+      "tweetedAt": "2026-10-05T17:31:22.000Z",
+      "bestBit": "The two companies signed a $10B deal in January for 750 megawatts of compute through 2028",
+      "text": "Cerebras shares are rebounding, with $CBRS up around 8% on the session and Sam Altman calling it a close partner Friday.\n\nA report last week said OpenAI's GPT-6.1 Sol Ultrafast mode runs on Nvidia GPUs, and the stock fell around 20% over the week.\n\nThe two companies signed a $10B deal in January for 750 megawatts of compute through 2028, and Citi kept its 2026-2028 revenue view unchanged."
+    },
+    {
+      "tweetId": "2106160087865999734",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2106160087865999734",
+      "tweetedAt": "2026-10-02T23:11:10.000Z",
+      "bestBit": "Sam Altman reaffirmed $CBRS as a “close partner pushing the frontiers of speed” with OpenAI but gave no new capacity or model commitments",
+      "text": "Sam Altman reaffirmed $CBRS as a “close partner pushing the frontiers of speed” with OpenAI but gave no new capacity or model commitments.\n\nThat keeps Cerebras firmly in premium speed lane while next real unlock is proving that lane can expand beyond a single flagship customer. https://t.co/qdJfhKXFEr",
+      "quotedTweetText": "What really pushed me to put capital behind $CBRS was OpenAI putting it underneath a real paid production tier where customers are willing to pay for speed with Cerebras saying it can serve frontier models at ~14x speed and ~750 output tokens per second.\n\nThat’s huge because it shows latency advantage is valuable enough for one of the largest AI companies in the world to build a real product around it.\n\nThen you layer in a relationship that can scale to ~750 MW and more than $20B of potential value alongside around $25B of RPO and suddenly Cerebras has far more forward visibility than you would expect this early in its commercial ramp."
+    },
+    {
+      "tweetId": "2106898080469860587",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2106898080469860587",
+      "tweetedAt": "2026-10-05T00:03:41.000Z",
+      "bestBit": "$CBRS is up over 6% after Sam Altman reaffirmed Cerebras as a “close partner pushing the frontiers of speed.”",
+      "text": "$CBRS is up over 6% after Sam Altman reaffirmed Cerebras as a “close partner pushing the frontiers of speed.” https://t.co/7ND10C4Szu",
+      "quotedTweetText": "I JUST INITIATED A BRAND NEW POSITION TODAY\n\n$CBRS is the name I bought today because the more I look at where AI infrastructure is heading the more I think inference creates a huge opportunity for companies built around speed and efficiency as hundreds of millions of users and eventually millions of agents start hitting these models constantly.\n\nWhat pulled me into Cerebras is how differently it attacks that opportunity since it has already secured wafer supply from $TSM and keeps model weights in 44 GB of on chip SRAM instead of leaning heavily on HBM which is huge when $MU says memory gets “much tighter” in 2027 and 2028.\n\nAgents like $META Muse, OpenAI Dot and Grok Bot only make that advantage more important because one task can trigger dozens of model calls in a row so small latency gains compound quickly as workloads get longer and more autonomous."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "cerebras-shares-jump-6percent-after-sam-altman-confirms-openai-partnersh-1d59268b",
+    "title": "Cerebras Shares Jump 6% After Sam Altman Confirms OpenAI Partnership",
+    "publishedAt": "2026-10-05T12:25:27.009Z",
+    "eventTimeApprox": "2026-10-05T00:03:41.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "us-markets",
+      "business"
+    ],
+    "tweetCount": 17,
+    "authorCount": 12
+  }
+}

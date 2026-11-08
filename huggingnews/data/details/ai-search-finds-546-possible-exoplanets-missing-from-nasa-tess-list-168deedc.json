@@ -1,0 +1,125 @@
+{
+  "slug": "ai-search-finds-546-possible-exoplanets-missing-from-nasa-tess-list-168deedc",
+  "title": "AI Search Finds 546 Possible Exoplanets Missing From NASA TESS List",
+  "publishedAt": "2026-10-12T16:24:08.562Z",
+  "eventTimeApprox": "2026-10-08T19:04:07.500Z",
+  "isFreshStory": false,
+  "tweetCount": 21,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "space",
+      "name": "Space"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107803696058822742/uhcavpuOcjh6WIO_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107803696058822742/uhcavpuOcjh6WIO_-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2107796353006833664/vid/avc1/1920x1080/EWL6w5fPN79RKCiP.mp4?tag=29",
+    "credit": {
+      "handle": "p_rabtsevich",
+      "tweetUrl": "https://x.com/p_rabtsevich/status/2107803696058822742"
+    }
+  },
+  "summary": "Astronomical data processed by independent analysts has revealed orbital patterns suggesting the presence of distant planetary bodies. A wide scale scan of 4 million stars within the Transiting Exoplanet Survey Satellite (TESS) dataset identified 546 possible exoplanets, none of which are currently listed in official NASA catalogs, according to a researcher who built upon a method developed by Pavel Rabtsevich.\n\nThe discovery method utilizes Claude Code along with Opus 5.5 and Fable 5.1 AI models to analyze stellar light curves. Rabtsevich previously identified a candidate 116 light-years away that is about 1.4 times the size of Earth and orbits its star every 3.18 days. NASA has approved telescope time for its TESS mission to verify Rabtsevich's findings from Oct 31 to Nov 26.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109675433293967739",
+      "role": "source",
+      "authorHandle": "ryaneshea",
+      "url": "https://x.com/ryaneshea/status/2109675433293967739",
+      "tweetedAt": "2026-10-12T15:59:53.000Z",
+      "bestBit": "found 546 possible new exoplanets by searching 4 million stars in NASA's public TESS data",
+      "text": "RT @dysmemic: We found 546 possible new exoplanets by searching 4 million stars in NASA's public TESS data. None is on NASA's list of TESS…"
+    },
+    {
+      "tweetId": "2107803696058822742",
+      "role": "source",
+      "authorHandle": "p_rabtsevich",
+      "url": "https://x.com/p_rabtsevich/status/2107803696058822742",
+      "tweetedAt": "2026-10-07T12:02:16.000Z",
+      "bestBit": "hiding in NASA telescope data for seven years",
+      "text": "I think I found a planet nobody knew existed.\n\nIt's been hiding in NASA telescope data for seven years. \n\nAt the end of this thread, you can fly to it yourself. https://t.co/2EmbJJ46Oc"
+    },
+    {
+      "tweetId": "2107955180897812960",
+      "role": "support",
+      "authorHandle": "dysmemic",
+      "url": "https://x.com/dysmemic/status/2107955180897812960",
+      "tweetedAt": "2026-10-07T22:04:13.000Z",
+      "bestBit": "uncovered 10 possible exoplanets that aren't reported anywhere I could find",
+      "text": "I took Pavel's idea and ran it across 9,979 nearby red and orange dwarf stars with the help of Opus 5.5.\n\nI've uncovered 10 possible exoplanets that aren't reported anywhere I could find, including what may be a third transiting planet around TOI-4342."
+    },
+    {
+      "tweetId": "2108220333807509948",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2108220333807509948",
+      "tweetedAt": "2026-10-08T15:37:51.000Z",
+      "bestBit": "NASA has approved telescope time for verification after looking at his data",
+      "text": "@brunocordista @grok NASA has approved telescope time for verification after looking at his data."
+    },
+    {
+      "tweetId": "2108383111751086131",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2108383111751086131",
+      "tweetedAt": "2026-10-09T02:24:40.000Z",
+      "bestBit": "TESS will check it again from Oct 31 to Nov 26",
+      "text": "This post is absolutely going viral on Reddit \n\nAn independent researcher used Claude Code to find a possible new planet. It had been sitting in NASA's TESS data since 2018, and he could find no earlier report of it.\n\nClaude Code with Opus 5.5 and Fable 5.1 did most of the work: parsing the light curves, writing the transit search, fitting transits, checking nearby stars and secondary eclipses. He set the questions and the pass/fail rules.\n\nThe star is about 116 light-years away. Every 3.18 days it dims by about 0.05% for two hours, which fits a planet about 1.4 times the size of Earth. It is still a candidate, and TESS will check it again from Oct 31 to Nov 26."
+    },
+    {
+      "tweetId": "2108387338959085738",
+      "role": "commentary",
+      "authorHandle": "benjamindekr",
+      "url": "https://x.com/BenjaminDEKR/status/2108387338959085738",
+      "tweetedAt": "2026-10-09T02:41:28.000Z",
+      "bestBit": "New LLM Ranking: PlanetBench",
+      "text": "New LLM Ranking: PlanetBench",
+      "quotedTweetText": "This post is absolutely going viral on Reddit \n\nAn independent researcher used Claude Code to find a possible new planet. It had been sitting in NASA's TESS data since 2018, and he could find no earlier report of it.\n\nClaude Code with Opus 5.5 and Fable 5.1 did most of the work: parsing the light curves, writing the transit search, fitting transits, checking nearby stars and secondary eclipses. He set the questions and the pass/fail rules.\n\nThe star is about 116 light-years away. Every 3.18 days it dims by about 0.05% for two hours, which fits a planet about 1.4 times the size of Earth. It is still a candidate, and TESS will check it again from Oct 31 to Nov 26."
+    },
+    {
+      "tweetId": "2108429155515977970",
+      "role": "engagement",
+      "authorHandle": "8teapi",
+      "url": "https://x.com/8teAPi/status/2108429155515977970",
+      "tweetedAt": "2026-10-09T05:27:38.000Z",
+      "bestBit": "discoveries flowing as fast as we can find them",
+      "text": "So this is it huh. This is where the acceleration happens. \n\nNot arxiv, not some peer reviewed journal. \n\nRight here on X, discoveries flowing as fast as we can find them.",
+      "quotedTweetText": "I took Pavel's idea and ran it across 9,979 nearby red and orange dwarf stars with the help of Opus 5.5.\n\nI've uncovered 10 possible exoplanets that aren't reported anywhere I could find, including what may be a third transiting planet around TOI-4342."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-researcher-finds-10-more-exoplanets-using-opus-55-ai-16f51255",
+    "title": "UPDATE: Researcher Finds 10 More Exoplanets Using Opus 5.5 AI",
+    "publishedAt": "2026-10-09T05:54:30.400Z",
+    "eventTimeApprox": "2026-10-08T15:57:41.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 15,
+    "authorCount": 13
+  }
+}

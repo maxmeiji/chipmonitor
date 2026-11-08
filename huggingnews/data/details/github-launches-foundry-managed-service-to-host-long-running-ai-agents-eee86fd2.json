@@ -1,0 +1,99 @@
+{
+  "slug": "github-launches-foundry-managed-service-to-host-long-running-ai-agents-eee86fd2",
+  "title": "GitHub Launches Foundry Managed Service to Host Long-Running AI Agents",
+  "publishedAt": "2026-10-28T18:07:32.687Z",
+  "eventTimeApprox": "2026-10-28T16:40:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 21,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115490856685990244/T63TCUUZgOrxBB31-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115490856685990244/T63TCUUZgOrxBB31-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2115478616016560131/vid/avc1/2400x1260/LLQ4Mb98e3YvIbys.mp4?tag=29",
+    "credit": {
+      "handle": "satyanadella",
+      "tweetUrl": "https://x.com/satyanadella/status/2115490856685990244"
+    }
+  },
+  "summary": "GitHub introduced a managed service called Foundry to help developers build long-running AI agents that can reason and use tools across multiple repositories. The expansion of the company's agentic toolset also includes Copilot Projects, which provides an orchestration loop to manage agent sessions and pull requests, and Copilot automations to handle routine repository tasks such as issue triage and code reviews.\n\nThese tools extend the functionality of Copilot Fusion, the orchestration system that routes tasks among various OpenAI and Anthropic models. GitHub says the system's current iteration is 40% faster and provides up to 77% lower costs for frontier-level quality than previous configurations. To encourage adoption, the company is offering a 30% discount on Copilot Fusion usage through Nov. 30.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115477376981508419",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2115477376981508419",
+      "tweetedAt": "2026-10-28T16:14:44.000Z",
+      "bestBit": "Copilot Fusion chooses between a number of models from Anthropic and OpenAI, including Claude Opus 5.5, Claude Sonnet 5.5, GPT-6 Astra, and GPT-6 Sol.",
+      "text": "GitHub has released Copilot Fusion in GitHub Copilot, which orchestrates between Anthropic and OpenAI models. It scores 2 points below Opus 5.5 in Claude Code at half the Cost per Task in the Coding Agent Index\n\nGitHub describes Copilot Fusion as a runtime orchestration system, which selects and coordinates models to optimize performance, cost, and latency for each task. Copilot Fusion chooses between a number of models from Anthropic and OpenAI, including Claude Opus 5.5, Claude Sonnet 5.5, GPT-6 Astra, and GPT-6 Sol. We benchmarked its max setting in GitHub Copilot CLI in the Artificial Analysis Coding Agent Index v2.0.\n\nToken costs are charged based on the underlying models used to complete a request.\n\nKey takeaways:\n\n➤ Cost-efficient for near-frontier performance: Copilot Fusion in GitHub Copilot costs $5.59 per task, versus $11.42 for Claude Code with Opus 5.5 (max). Devin Fusion with Opus 5.5 (max) + GPT-6 Luna (high) scores 62 at $8.00 per task.\n\n➤ Slight lead in Terminal-Bench 4.0: The Coding Agent Index v2.0 weights its three constituent benchmarks equally. Copilot Fusion in GitHub Copilot leads Terminal-Bench 4.0 with a score of 71. It ranks third on FrontierCode in the chart at 51, behind Claude Code with Opus 5.5 (max) at 56 and Devin Fusion with Opus 5.5 (max) + GPT-6 Luna (high) at 54. Its SWE-Atlas-QnA-AA score lags at 57, between GPT-6 Astra in Codex and Gemini 4 Argon in Antigravity CLI.\n\n➤ Half the token use of Opus 5.5 in Claude Code: GitHub Copilot Fusion used 7.2M tokens per task in the Coding Agent Index, approximately half of the tokens used by Claude Opus 5.5 in Claude Code, and 30% less than Devin Fusion with Opus 5.5 (max) + GPT-6 Luna (high)."
+    },
+    {
+      "tweetId": "2115480207469560109",
+      "role": "source",
+      "authorHandle": "github",
+      "url": "https://x.com/github/status/2115480207469560109",
+      "tweetedAt": "2026-10-28T16:25:59.000Z",
+      "bestBit": "In the @ArtificialAnlys Coding Agent Index, Copilot Fusion Max scored within two points of Claude Code with Opus 5.5 Max at about half the API cost per task.",
+      "text": "Frontier performance at a fraction of the cost. \n\nIn the @ArtificialAnlys Coding Agent Index, Copilot Fusion Max scored within two points of Claude Code with Opus 5.5 Max at about half the API cost per task.\n\nGet 30% off through Nov. 30. Try it now. ⬇️  https://t.co/c0k5alLKqD https://t.co/kVBzvq8ph5"
+    },
+    {
+      "tweetId": "2115500310865301921",
+      "role": "support",
+      "authorHandle": "github",
+      "url": "https://x.com/github/status/2115500310865301921",
+      "tweetedAt": "2026-10-28T17:45:52.000Z",
+      "bestBit": "Get 30% off Copilot Fusion usage through November 30.",
+      "text": "Copilot Fusion 🧬\n\nChoose High or Max effort, and Copilot Fusion can coordinate multiple models and workflows when one model alone isn’t enough. In the @ArtificialAnlys Coding Agent Index, Copilot Fusion Max scored within two points of Claude Code with Opus 5.5 Max at about half the cost per task.\n\nGet 30% off Copilot Fusion usage through November 30.\nhttps://t.co/R3FwxqypX0"
+    },
+    {
+      "tweetId": "2115500312966619619",
+      "role": "support",
+      "authorHandle": "github",
+      "url": "https://x.com/github/status/2115500312966619619",
+      "tweetedAt": "2026-10-28T17:45:53.000Z",
+      "bestBit": "Copilot Projects gives you one place to see where the work stands and direct what Copilot takes on next.",
+      "text": "Copilot Projects 📋\n\nBring sessions, pull requests, and repositories together around one goal. Copilot Projects gives you one place to see where the work stands and direct what Copilot takes on next.\nhttps://t.co/4DDsl7Euf1 https://t.co/fwCwfAbYHE"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "github-launches-copilot-fusion-to-coordinate-multiple-ai-models-for-codi-ca676e94",
+    "title": "GitHub Launches Copilot Fusion to Coordinate Multiple AI Models for Coding",
+    "publishedAt": "2026-10-28T16:39:12.139Z",
+    "eventTimeApprox": "2026-10-28T16:20:22.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 10,
+    "authorCount": 7
+  }
+}

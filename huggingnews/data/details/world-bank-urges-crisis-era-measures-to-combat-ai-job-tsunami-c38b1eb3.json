@@ -1,0 +1,111 @@
+{
+  "slug": "world-bank-urges-crisis-era-measures-to-combat-ai-job-tsunami-c38b1eb3",
+  "title": "World Bank Urges Crisis Era Measures to Combat AI Job Tsunami",
+  "publishedAt": "2026-10-12T08:41:16.252Z",
+  "eventTimeApprox": "2026-10-12T06:34:44.000Z",
+  "isFreshStory": false,
+  "tweetCount": 19,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "ai",
+    "world"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    }
+  ],
+  "summary": "A group of experts from the World Bank is advocating for immediate interventions to protect workers against the systemic threats posed by generative technology. The jobs council is calling for \"crisis-era\" support measures to mitigate a disruptive \"tsunami\" of artificial intelligence that may upend global employment structures and government revenue streams.\n\nIMF Managing Director Kristalina Georgieva warns that AI could alter 40% of jobs worldwide, with the highest risk facing young people in routine and repetitive roles. These labor disruptions may eventually force a restructuring of how governments collect taxes. Despite these risks, heavy investment in AI infrastructure is currently sustaining global growth at around 3%, specifically benefiting hardware-supplying Asian economies such as Thailand.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109488179170668696",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2109488179170668696",
+      "tweetedAt": "2026-10-12T03:35:48.000Z",
+      "bestBit": "AI COULD ALTER 40% OF JOBS GLOBALLY OVER TIME, INCLUDING THROUGH AUGMENTATION, ROLE DOWNGRADES OR ELIMINATION",
+      "text": "AI COULD ALTER 40% OF JOBS GLOBALLY OVER TIME, INCLUDING THROUGH AUGMENTATION, ROLE DOWNGRADES OR ELIMINATION, GEORGIEVA SAYS"
+    },
+    {
+      "tweetId": "2109488650144854215",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2109488650144854215",
+      "tweetedAt": "2026-10-12T03:37:41.000Z",
+      "bestBit": "prompt questions about tax collection",
+      "text": "IMF CHIEF GEORGIEVA WARNS AI COULD ALTER EMPLOYMENT STRUCTURES AND PROMPT QUESTIONS ABOUT TAX COLLECTION"
+    },
+    {
+      "tweetId": "2109488477347987574",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2109488477347987574",
+      "tweetedAt": "2026-10-12T03:37:00.000Z",
+      "bestBit": "job prospects for young people in routine and repetitive roles as a key concern",
+      "text": "IMF CHIEF GEORGIEVA FLAGS JOB PROSPECTS FOR YOUNG PEOPLE IN ROUTINE AND REPETITIVE ROLES AS A KEY CONCERN"
+    },
+    {
+      "tweetId": "2109533206261248277",
+      "role": "support",
+      "authorHandle": "reutersbiz",
+      "url": "https://x.com/ReutersBiz/status/2109533206261248277",
+      "tweetedAt": "2026-10-12T06:34:44.000Z",
+      "bestBit": "keeping global growth at around 3%, yielding major benefits for many Asian economies that supply the hardware, such as Thailand",
+      "text": "Strong investment in AI infrastructure is keeping global growth at around 3%, yielding major benefits for many Asian economies that supply the hardware, such as Thailand, International Monetary Fund Managing Director Kristalina Georgieva said. More here: https://t.co/FbLcJFJh8A"
+    },
+    {
+      "tweetId": "2109547133128839245",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2109547133128839245",
+      "tweetedAt": "2026-10-12T07:30:04.000Z",
+      "bestBit": "disruptive threat from the AI 'tsunami' to the labor market and taxation",
+      "text": "The head of the IMF warns of the disruptive threat from the AI \"tsunami\" to the labor market and taxation https://t.co/5DCaahU9kH"
+    },
+    {
+      "tweetId": "2109560052382065090",
+      "role": "support",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2109560052382065090",
+      "tweetedAt": "2026-10-12T08:21:24.000Z",
+      "bestBit": "World Bank jobs council urges 'crisis-era' support measures",
+      "text": "World Bank jobs council urges 'crisis-era' support measures as IMF warns of AI ‘tsunami’ hit https://t.co/d9VtDhFp85"
+    },
+    {
+      "tweetId": "2109535804213108939",
+      "role": "commentary",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2109535804213108939",
+      "tweetedAt": "2026-10-12T06:45:03.000Z",
+      "bestBit": "Strong investment in AI infrastructure is keeping global growth at around 3%",
+      "text": "Strong investment in AI infrastructure is keeping global growth at around 3%, yielding major benefits for many Asian economies that supply the hardware, such as Thailand, International Monetary Fund Managing Director Kristalina Georgieva said https://t.co/20uJxk6Xhz"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "imf-warns-ai-will-alter-40percent-of-global-jobs-56f02579",
+    "title": "IMF Warns AI Will Alter 40% of Global Jobs",
+    "publishedAt": "2026-10-12T07:13:17.764Z",
+    "eventTimeApprox": "2026-10-12T04:10:03.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "world"
+    ],
+    "tweetCount": 10,
+    "authorCount": 6
+  }
+}

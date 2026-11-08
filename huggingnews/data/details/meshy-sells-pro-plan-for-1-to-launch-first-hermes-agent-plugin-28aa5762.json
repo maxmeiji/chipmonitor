@@ -1,0 +1,67 @@
+{
+  "slug": "meshy-sells-pro-plan-for-1-to-launch-first-hermes-agent-plugin-28aa5762",
+  "title": "Meshy Sells Pro Plan for $1 to Launch First Hermes Agent Plugin",
+  "publishedAt": "2026-10-22T21:24:00.614Z",
+  "eventTimeApprox": "2026-10-22T06:31:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "summary": "A new promotion enables those using the Hermes agent to obtain an upgraded account from Meshy at a low cost. The offer provides one month of the Pro tier for $1, which includes 1,000 credits and API access. To activate the membership, users must install the official plugin and paste a generated API key into the settings of the Hermes Desktop application.\n\nThe discount coincides with the launch of a plugin that allows Hermes to generate, rig, and animate 3D models from text or photos via Meshy's MCP server. The integration supports the creation of high-fidelity assets, such as 70m poly models for Godot, with models rendering directly in the desktop chat and preview videos sent to users on messaging apps.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113375941431009526",
+      "role": "source",
+      "authorHandle": "nousresearch",
+      "url": "https://x.com/NousResearch/status/2113375941431009526",
+      "tweetedAt": "2026-10-22T21:04:23.000Z",
+      "bestBit": "offering Hermes users a month of Pro, which includes API access and 1,000 credits, for $1",
+      "text": "Meshy is offering Hermes users a month of Pro, which includes API access and 1,000 credits, for $1. \n\nAfter you subscribe and install the plugin, create a key at https://t.co/7eV6K56Jjs and paste it into Settings &gt; Plugins &gt; Meshy in Hermes Desktop.\n\nhttps://t.co/Pz6P0FR4vG",
+      "quotedTweetText": "Hermes Agent now has an official plugin for @MeshyAI. \n\nAsk Hermes to make a 70m poly treasure chest for Godot, or to turn a photo of a mug into a model you can print, and it does the job through Meshy's MCP server. \n\nIn Hermes Desktop the models render in chat, rigged characters animate inline, and a gallery stores every model and prompt. On messaging apps, Hermes sends a short preview video so you can create on the go.\n\nhttps://t.co/QlxZUDEBn3"
+    },
+    {
+      "tweetId": "2113077994315034967",
+      "role": "source",
+      "authorHandle": "nousresearch",
+      "url": "https://x.com/NousResearch/status/2113077994315034967",
+      "tweetedAt": "2026-10-22T01:20:27.000Z",
+      "bestBit": "Ask Hermes to make a 70m poly treasure chest for Godot, or to turn a photo of a mug into a model you can print",
+      "text": "Hermes Agent now has an official plugin for @MeshyAI. \n\nAsk Hermes to make a 70m poly treasure chest for Godot, or to turn a photo of a mug into a model you can print, and it does the job through Meshy's MCP server. \n\nIn Hermes Desktop the models render in chat, rigged characters animate inline, and a gallery stores every model and prompt. On messaging apps, Hermes sends a short preview video so you can create on the go.\n\nhttps://t.co/QlxZUDEBn3"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "hermes-agent-adds-meshyai-plugin-to-generate-3d-models-from-text-and-pho-11d3c999",
+    "title": "Hermes Agent Adds MeshyAI Plugin to Generate 3D Models from Text and Photos",
+    "publishedAt": "2026-10-22T06:53:33.395Z",
+    "eventTimeApprox": "2026-10-22T05:20:16.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 6,
+    "authorCount": 4
+  }
+}

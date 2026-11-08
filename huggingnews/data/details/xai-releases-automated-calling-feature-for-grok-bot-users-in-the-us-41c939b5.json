@@ -1,0 +1,119 @@
+{
+  "slug": "xai-releases-automated-calling-feature-for-grok-bot-users-in-the-us-41c939b5",
+  "title": "xAI Releases Automated Calling Feature for Grok Bot Users in the US",
+  "publishedAt": "2026-11-04T19:09:31.375Z",
+  "eventTimeApprox": "2026-11-04T18:18:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 24,
+  "authorCount": 19,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117697749009207386/r0qPOeLOX_QcUrHq-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117697749009207386/r0qPOeLOX_QcUrHq-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2117697012804071425/vid/avc1/3840x2160/Ntn9DjhQ9dH5pV4c.mp4?tag=29",
+    "credit": {
+      "handle": "sawyermerritt",
+      "tweetUrl": "https://x.com/SawyerMerritt/status/2117697749009207386"
+    }
+  },
+  "summary": "The chatbot developed by Elon Musk now allows its domestic users to delegate voice calls to the AI, though the service is not yet functional for residents of Illinois and Washington. The update enables Grok Bot to place calls to U.S. numbers within supported regions to handle specific tasks, including coordinating with colleagues, canceling subscriptions, or booking services on behalf of the account holder.\n\nThe system generates a live text transcript of every interaction and uses a response box to ask the user for details the AI cannot provide during the call. While earlier demonstrations focused on scheduling medical appointments, current users can also use the bot to negotiate phone bills or secure restaurant reservations, provided the person on the other end is notified that the call is being recorded.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118043939592942052",
+      "role": "source",
+      "authorHandle": "bot",
+      "url": "https://x.com/bot/status/2118043939592942052",
+      "tweetedAt": "2026-11-04T18:13:21.000Z",
+      "bestBit": "Grok Bot can now make phone calls.",
+      "text": "Grok Bot can now make phone calls. https://t.co/eFghrfwTtz"
+    },
+    {
+      "tweetId": "2117665964862939320",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2117665964862939320",
+      "tweetedAt": "2026-11-03T17:11:25.000Z",
+      "bestBit": "Grok @Bot can research which doctors are the best in your area, call them by phone and make an appointment!",
+      "text": "Grok @Bot can research which doctors are the best in your area, call them by phone and make an appointment!",
+      "quotedTweetText": "Grok Bot just made a doctor's appointment for me while I was driving...\n\nMy daughter hurt her foot landing a jump at dance practice.\n\nI told Grok Bot what happened, how she was feeling, and what I saw: not much swelling, iced, and her pain seemed manageable.\n\nIt gave me a few nearby options, including a pediatric orthopedist with X-rays on site, and offered to call when they opened.\n\nGrok Bot called and got her in at 9:30 the same day.\n\nThe whole call was transcribed live, and when the receptionist asked for more info, it asked me in real time.\n\nIt also got the insurance, payment options and pricing, had the intake forms sent to my email, and put it on my calendar.\n\nThe receptionist knew the call was recorded, and I could review the recording afterward.\n\nAll while I was driving.\n\nGrok Bot is going to completely change people's lives."
+    },
+    {
+      "tweetId": "2118046459673358815",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2118046459673358815",
+      "tweetedAt": "2026-11-04T18:23:22.000Z",
+      "bestBit": "Right now, calling only works for users in the US (except Washington and Illinois), and only to US numbers in those same areas.",
+      "text": "SPACEXSI 🔥: Gork Bot can now make phone calls in the US!\n\n&gt; Right now, calling only works for users in the US (except Washington and Illinois), and only to US numbers in those same areas.\n\nI am not testing this; it seems 👀 https://t.co/h9WFmuEWCN"
+    },
+    {
+      "tweetId": "2117697749009207386",
+      "role": "analysis",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2117697749009207386",
+      "tweetedAt": "2026-11-03T19:17:42.000Z",
+      "bestBit": "It shows a real-time transcript of the call, and if Grok needs additional info from you, a little answer box pops up where you type/select your response",
+      "text": "Grok @Bot's new calling feature is very impressive.\n\nYou just tell it who to call and why, and it handles the conversation for you. It shows a real-time transcript of the call, and if Grok needs additional info from you, a little answer box pops up where you type/select your response, and Grok relays it to the person on the phone. Pretty incredible.\n\nHere's an example (with the call audio) of what's it's like to use:"
+    },
+    {
+      "tweetId": "2118046250050130164",
+      "role": "commentary",
+      "authorHandle": "benln",
+      "url": "https://x.com/benln/status/2118046250050130164",
+      "tweetedAt": "2026-11-04T18:22:32.000Z",
+      "bestBit": "New: have your @bot make calls for you",
+      "text": "New: have your @bot make calls for you:",
+      "quotedTweetText": "Grok Bot can now make phone calls. https://t.co/eFghrfwTtz"
+    },
+    {
+      "tweetId": "2118046266143687052",
+      "role": "commentary",
+      "authorHandle": "jasonbud",
+      "url": "https://x.com/JasonBud/status/2118046266143687052",
+      "tweetedAt": "2026-11-04T18:22:35.000Z",
+      "bestBit": "This gives @bot the ability to negotiate your phone bill and save you money, or get you a table even when the restaurant's website says it's \"full.\"",
+      "text": "This gives @bot the ability to negotiate your phone bill and save you money, or get you a table even when the restaurant's website says it's \"full.\" Basically anything a person can do.",
+      "quotedTweetText": "Grok Bot can now make phone calls. https://t.co/eFghrfwTtz"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "grok-ai-now-automates-phone-calls-to-schedule-doctor-appointments-5b6a2907",
+    "title": "Grok AI Now Automates Phone Calls to Schedule Doctor Appointments",
+    "publishedAt": "2026-11-03T19:37:52.172Z",
+    "eventTimeApprox": "2026-11-03T18:30:21.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 13,
+    "authorCount": 10
+  }
+}

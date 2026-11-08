@@ -1,0 +1,59 @@
+{
+  "slug": "researchers-reveal-new-scaling-laws-for-quadrillion-parameter-ai-models-9077d58e",
+  "title": "Researchers Reveal New Scaling Laws for Quadrillion Parameter AI Models",
+  "publishedAt": "2026-11-03T00:23:01.713Z",
+  "eventTimeApprox": "2026-11-02T21:47:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117370524330594698/HWJpRUvbAAAEJOy-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117370524330594698/HWJpRUvbAAAEJOy-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "industriaalist",
+      "tweetUrl": "https://x.com/industriaalist/status/2117370524330594698"
+    }
+  },
+  "summary": "A team of computer scientists led by Ethan Baron has published a study detailing how large language models could be scaled to reach a capacity of one quadrillion parameters. The researchers developed a new set of data constrained scaling laws and learning algorithms to address the current inefficiency of AI models compared to human learning, proposing that current architectures are underparameterized by several orders of magnitude.\n\nThe study finds that LLMs are roughly 1 million times less sample efficient than humans, noting that a human brain employs 100T synapses to learn from about 200M tokens of language. In contrast, the Chinchilla scaling law prescribes a 1T parameter model to be trained on 20T tokens, creating a gap of seven orders of magnitude in the ratio of parameters to tokens.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117370524330594698",
+      "role": "source",
+      "authorHandle": "industriaalist",
+      "url": "https://x.com/industriaalist/status/2117370524330594698",
+      "tweetedAt": "2026-11-02T21:37:26.000Z",
+      "bestBit": "we present new data-constrained scaling laws and learning algorithms to scale to (extrapolated) quadrillion-parameter transformers",
+      "text": "Humans are ~1,000,000x more sample efficient than LLMs, and there are no good explanations.\n\nWe’ve found that a big part of the answer is that LLMs are *massively* underparameterized by many orders of magnitude. The brain has 100T synapses learning from ~200M tokens of language. Chinchilla prescribes a 1T-parameter model on 20T tokens. That’s 7 OOMs apart in parameters per token.\n\nAfter a lot of painstaking work, we present new data-constrained scaling laws and learning algorithms to scale to (extrapolated) quadrillion-parameter transformers.\n\nw/ @akshayvegesna, @EthanBaron78553, @asatheesh6561\nFull paper led by @EthanBaron78553, with @ShmuelBerman, @andrewgwils"
+    },
+    {
+      "tweetId": "2117373174497116333",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2117373174497116333",
+      "tweetedAt": "2026-11-02T21:47:58.000Z",
+      "bestBit": "Humans are ~1,000,000x more sample efficient than LLMs",
+      "text": "Thanks, I despise this\n@doomslide https://t.co/WM1ImxYxR4",
+      "quotedTweetText": "Humans are ~1,000,000x more sample efficient than LLMs, and there are no good explanations.\n\nWe’ve found that a big part of the answer is that LLMs are *massively* underparameterized by many orders of magnitude. The brain has 100T synapses learning from ~200M tokens of language. Chinchilla prescribes a 1T-parameter model on 20T tokens. That’s 7 OOMs apart in parameters per token.\n\nAfter a lot of painstaking work, we present new data-constrained scaling laws and learning algorithms to scale to (extrapolated) quadrillion-parameter transformers.\n\nw/ @akshayvegesna, @EthanBaron78553, @asatheesh6561\nFull paper led by @EthanBaron78553, with @ShmuelBerman, @andrewgwils"
+    }
+  ],
+  "isSuperseded": false
+}

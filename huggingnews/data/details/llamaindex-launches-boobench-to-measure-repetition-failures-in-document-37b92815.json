@@ -1,0 +1,59 @@
+{
+  "slug": "llamaindex-launches-boobench-to-measure-repetition-failures-in-document-37b92815",
+  "title": "LlamaIndex Launches BooBench to Measure Repetition Failures in Document Parsers",
+  "publishedAt": "2026-10-29T19:14:31.491Z",
+  "eventTimeApprox": "2026-10-29T18:14:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "LlamaIndex has released a new evaluation dataset called BooBench to test the stability of vision language models and document parsers during transcription. The 179 page benchmark is specifically designed to identify repetition loops, a failure mode where models enter an infinite loop of characters when processing complex layouts or specific markers.\n\nThe developer provided a leaderboard and research paper alongside the tool to help engineers track how frontier models handle transcription errors, such as the misreading of trailing dots. In one instance cited by the team, a model converted 246 redaction marks on a single page into 23,004 characters.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115845183027716486",
+      "role": "source",
+      "authorHandle": "llama_index",
+      "url": "https://x.com/llama_index/status/2115845183027716486",
+      "tweetedAt": "2026-10-29T16:36:16.000Z",
+      "bestBit": "Boo Bench is 179 pages that push parsers into repetition loops.",
+      "text": "We built a haunted house for doc parsers 🎃\n\nBoo Bench is 179 pages that push parsers into repetition loops. One model saw 246 redaction x’s on a page and wrote 23,004 of them.\n\nResults in thread!\n\nLeaderboard + paper: https://t.co/2JmEpgpPbj\nDataset: https://t.co/eKEtyCmQOZ https://t.co/F0u9Gcp94X"
+    },
+    {
+      "tweetId": "2115870464744865842",
+      "role": "analysis",
+      "authorHandle": "hexapode",
+      "url": "https://x.com/hexapode/status/2115870464744865842",
+      "tweetedAt": "2026-10-29T18:16:44.000Z",
+      "bestBit": "designed BooBench! The first ever halloween benchmark, design to trap Frontier model and document parser into repeating themselves!",
+      "text": "It's halloween soon, and as we love open benchmark I designed BooBench!\n\nThe first ever halloween benchmark, design to trap Frontier model and document parser into repeating themselves!\n\nBeyond the boo, this is actually a serious bench on a problem we spend a lot of time on at Llama Index, how to make sure that VLM do not repeat themselves when asked to do transcription. It's surprisingly hard for them!\n\nhttps://t.co/LqSCtXdt14"
+    },
+    {
+      "tweetId": "2115869526986539250",
+      "role": "commentary",
+      "authorHandle": "hexapode",
+      "url": "https://x.com/hexapode/status/2115869526986539250",
+      "tweetedAt": "2026-10-29T18:13:00.000Z",
+      "bestBit": "I asked an OCR model claiming SOTA on popular benchmarks to read one line from an 1881 contents page. It wrote 16,421 characters. Mostly dots.",
+      "text": "you can now use boo bench to measure how good your parser is on trailing dots :)\n\nhttps://t.co/kdgmT7P9iU\n\nHF: https://t.co/IN33oLRgN2",
+      "quotedTweetText": "OCR is not solved!\n\nI asked an OCR model claiming SOTA on popular benchmarks to read one line from an 1881 contents page.\n\nIt wrote 16,421 characters. Mostly dots. https://t.co/LU8rutbGAR"
+    }
+  ],
+  "isSuperseded": false
+}

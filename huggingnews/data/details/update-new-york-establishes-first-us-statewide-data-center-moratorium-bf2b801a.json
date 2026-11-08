@@ -1,0 +1,84 @@
+{
+  "slug": "update-new-york-establishes-first-us-statewide-data-center-moratorium-bf2b801a",
+  "title": "UPDATE: New York Establishes First US Statewide Data Center Moratorium",
+  "publishedAt": "2026-10-10T15:23:37.657Z",
+  "eventTimeApprox": "2026-10-06T21:19:50.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107581422730928452/HT-iIhyWEAAPaKm-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107581422730928452/HT-iIhyWEAAPaKm-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "aoctracker",
+      "tweetUrl": "https://x.com/AOCtracker/status/2107581422730928452"
+    }
+  },
+  "summary": "Governor Kathy Hochul has frozen the approval of new server farms throughout her jurisdiction to protect agricultural land. This policy, the only one of its kind in the United States, prevented the construction of a facility next to a farm in upstate New York. Representative Alexandria Ocasio-Cortez recently toured the region with the governor to meet with residents who had’ opposed the installation of these hubs.\n\nThe measure is part of a strategic effort to regulate the proliferation of artificial intelligence infrastructure and establish regulatory boundaries. While the freeze is currently active, farmers in the Hudson Valley and other upstate areas remain on alert for when the moratorium will expire. Competition for land to support AI is becoming a primary political issue as the state looks toward 2028.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108937765396058258",
+      "role": "source",
+      "authorHandle": "moreperfectus",
+      "url": "https://x.com/MorePerfectUS/status/2108937765396058258",
+      "tweetedAt": "2026-10-10T15:08:40.000Z",
+      "bestBit": "NY got the first statewide data center moratorium in the country",
+      "text": "This farm in upstate New York almost had a data center move in right next door, but then NY got the first statewide data center moratorium in the country.\n\nWe went with @AOC and @GovKathyHochul to talk to farmers who are thrilled the data center wasn't built, and who are still on alert for what happens when the moratorium expires."
+    },
+    {
+      "tweetId": "2107532325907304738",
+      "role": "support",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2107532325907304738",
+      "tweetedAt": "2026-10-06T18:03:57.000Z",
+      "bestBit": "AOC, New York Governor Hochul to discuss moratorium on data centers",
+      "text": "AOC, New York Governor Hochul to discuss moratorium on data centers https://t.co/xilC610f2V"
+    },
+    {
+      "tweetId": "2107868034476241182",
+      "role": "source",
+      "authorHandle": "opensourcezone",
+      "url": "https://x.com/OpenSourceZone/status/2107868034476241182",
+      "tweetedAt": "2026-10-07T16:17:56.000Z",
+      "bestBit": "AI and Data centres have become the biggest issue for 2028",
+      "text": "RT @AOCtracker: AOC calls out Data Centers and calls for moratoriums\n\nAI and Data centres have become the biggest issue for 2028 https://t.…"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "aoc-and-ny-governor-hochul-seek-data-center-moratorium-403ab6b1",
+    "title": "AOC and NY Governor Hochul Seek Data Center Moratorium",
+    "publishedAt": "2026-10-06T21:38:54.501Z",
+    "eventTimeApprox": "2026-10-06T21:19:02.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics"
+    ],
+    "tweetCount": 4,
+    "authorCount": 3
+  }
+}

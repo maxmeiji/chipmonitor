@@ -1,0 +1,77 @@
+{
+  "slug": "samsung-electronics-posts-record-q3-operating-profit-of-1074-trillion-wo-54432d97",
+  "title": "Samsung Electronics Posts Record Q3 Operating Profit of 107.4 Trillion Won",
+  "publishedAt": "2026-10-29T02:37:34.446Z",
+  "eventTimeApprox": "2026-10-29T01:30:48.500Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "Samsung Electronics reported a net profit of 75.21 trillion won for the third quarter, falling short of the 89.06 trillion won predicted by analysts. Despite the net miss, the company's overall operating profit reached a record 107.4 trillion won on sales of 195.3 trillion won, marking its fourth straight quarter of record-breaking financial results.\n\nThe quarterly gains were concentrated in the semiconductor division, which generated 106.5 trillion won in operating profit, accounting for about 99% of the company's total. This growth was offset by operating losses in Samsung's smartphone and consumer electronics businesses. To capitalize on the demand for AI memory chips, Samsung forecasts capital expenditures will rise to 84.4 trillion won in 2026 from 52.7 trillion won in 2025.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115609026180403611",
+      "role": "source",
+      "authorHandle": "marketnews_feed",
+      "url": "https://x.com/MarketNews_Feed/status/2115609026180403611",
+      "tweetedAt": "2026-10-29T00:57:52.000Z",
+      "bestBit": "CHIP DIVISION OPER PROFIT: KRW106.5T (EST KRW108.45T)",
+      "text": "SAMSUNG ELECTRONICS Q3 26 EARNINGS:\n• SALES: KRW195.3T (EST KRW195.0T)\n• OPER PROFIT: KRW107.4T (EST KRW108.45T)\n• NET PROFIT: KRW75.21T (EST KRW89.06T)\n• CHIP DIVISION OPER PROFIT: KRW106.5T (EST KRW108.45T)"
+    },
+    {
+      "tweetId": "2115629329661231549",
+      "role": "support",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2115629329661231549",
+      "tweetedAt": "2026-10-29T02:18:33.000Z",
+      "bestBit": "SAMSUNG SEES 2026 CAPEX AT 84.4T WON VS 52.7T WON IN 2025",
+      "text": "*SAMSUNG 3Q CHIP OP PROFIT 106.5T WON, EST. 108.45T WON\n\n*SAMSUNG SEES 2026 CAPEX AT 84.4T WON VS 52.7T WON IN 2025"
+    },
+    {
+      "tweetId": "2115607910822895968",
+      "role": "commentary",
+      "authorHandle": "negligible_cap",
+      "url": "https://x.com/negligible_cap/status/2115607910822895968",
+      "tweetedAt": "2026-10-29T00:53:26.000Z",
+      "bestBit": "SAMSUNG 3Q NET 75.21T WON, EST. 89.06T WON",
+      "text": "*SAMSUNG 3Q NET 75.21T WON, EST. 89.06T WON\n\nYikes"
+    },
+    {
+      "tweetId": "2115631853663093213",
+      "role": "analysis",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2115631853663093213",
+      "tweetedAt": "2026-10-29T02:28:35.000Z",
+      "bestBit": "Samsung just reported its FOURTH consecutive quarter of record earnings",
+      "text": "Samsung just reported its FOURTH consecutive quarter of record earnings, and the numbers are absolutely INSANE.\n\nRevenue came in at roughly $145.5 billion, more than doubling from a year ago, while operating profit surged nearly 9x to around $80 billion. What’s even crazier is that Samsung’s semiconductor division accounted for roughly 99% of its total operating profit, generating 106.5 trillion won. Meanwhile, its smartphone and consumer electronics division actually posted an operating loss.\n\nAnd Samsung is doubling down on this demand. The company now expects to spend 84.4 trillion won on capital expenditures in 2026, compared with 52.7 trillion won last year. That’s an increase of roughly 60%.\n\nThis is another HUGE development for the memory trade, especially following SK Hynix’s earnings yesterday. AI infrastructure spending is driving demand for HBM, DRAM, and NAND, pushing memory prices higher and creating enormous profits for manufacturers. And the fact that Samsung is increasing its spending this aggressively tells you just how seriously it’s taking the opportunity."
+    }
+  ],
+  "isSuperseded": false
+}

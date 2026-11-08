@@ -1,0 +1,63 @@
+{
+  "slug": "sarvam-launches-open-weights-prism-model-for-fast-enterprise-decisions-9cec0b1f",
+  "title": "Sarvam Launches Open Weights Prism Model for Fast Enterprise Decisions",
+  "publishedAt": "2026-11-03T16:08:59.345Z",
+  "eventTimeApprox": "2026-11-03T14:47:03.500Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117621415520448838/HWNMZMHacAAl0lx-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117621415520448838/HWNMZMHacAAl0lx-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "sarvamai",
+      "tweetUrl": "https://x.com/SarvamAI/status/2117621415520448838"
+    }
+  },
+  "summary": "The AI startup has unveiled Sarvam Prism, a \"System One\" model built to optimize the speed of decision-making across business processes. Based on the Sarvam 105B architecture, the tool is designed to handle enterprise workflows with low latency and has been made available to the public as open weights.\n\nPrism recorded a score of 71.8 and a median response time of 44 milliseconds. Sarvam stated that this is the highest average score ever achieved by a decision model capable of responding in under 100 milliseconds.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117621415520448838",
+      "role": "source",
+      "authorHandle": "sarvamai",
+      "url": "https://x.com/SarvamAI/status/2117621415520448838",
+      "tweetedAt": "2026-11-03T14:14:23.000Z",
+      "bestBit": "It scores 71.8 with a median response time of 44 milliseconds, the highest average score among decision models that respond in under 100 milliseconds.",
+      "text": "Today we’re releasing Sarvam Prism, a System One model built on Sarvam 105B for fast, accurate decisions across enterprise workflows.\n\nIt scores 71.8 with a median response time of 44 milliseconds, the highest average score among decision models that respond in under 100 milliseconds."
+    },
+    {
+      "tweetId": "2117632808315482410",
+      "role": "support",
+      "authorHandle": "archiexzzz",
+      "url": "https://x.com/archiexzzz/status/2117632808315482410",
+      "tweetedAt": "2026-11-03T14:59:39.000Z",
+      "bestBit": "sarvam-prism, a system 1 decision model, is now open weights.",
+      "text": "sarvam-prism, a system 1 decision model, is now open weights.\n\nhttps://t.co/kXkZtwkWT4",
+      "quotedTweetText": "Today we’re releasing Sarvam Prism, a System One model built on Sarvam 105B for fast, accurate decisions across enterprise workflows.\n\nIt scores 71.8 with a median response time of 44 milliseconds, the highest average score among decision models that respond in under 100 milliseconds."
+    }
+  ],
+  "isSuperseded": false
+}

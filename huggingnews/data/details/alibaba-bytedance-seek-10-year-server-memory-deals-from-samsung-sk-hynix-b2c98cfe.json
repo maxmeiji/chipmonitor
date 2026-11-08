@@ -1,0 +1,83 @@
+{
+  "slug": "alibaba-bytedance-seek-10-year-server-memory-deals-from-samsung-sk-hynix-b2c98cfe",
+  "title": "Alibaba, ByteDance Seek 10 Year Server Memory Deals From Samsung, SK Hynix",
+  "publishedAt": "2026-10-27T12:22:02.443Z",
+  "eventTimeApprox": "2026-10-27T10:31:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "business",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    },
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "subject",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    },
+    {
+      "ticker": "PVT:BYTE",
+      "kind": "private",
+      "role": "subject",
+      "name": "ByteDance",
+      "hubKey": "bytedance"
+    }
+  ],
+  "summary": "The top cloud computing firms in China have requested supply agreements for server memory from South Korean chipmakers that would last for 10 years. Alibaba, Tencent and ByteDance are seeking these contracts with Samsung Electronics and SK Hynix to secure procurement of DDR5 and LPDDR5 memory as the firms expand their artificial intelligence infrastructure.\n\nThe requests for memory supplies extending through 2035 are an outlier in the industry, where supply agreements typically span three to five years. The approach was first reported by Korean media and suggests a move by Chinese cloud providers to lock in critical hardware volumes well beyond standard cyclical planning.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114979317977665829",
+      "role": "source",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2114979317977665829",
+      "tweetedAt": "2026-10-27T07:15:38.000Z",
+      "bestBit": "MAJOR CHINESE CLOUD SERVICE PROVIDERS (CSPS), INCLUDING ALIBABA, TENCENT, AND BYTEDANCE, HAVE REQUESTED LONG-TERM SUPPLY AGREEMENTS (LTAS) FOR SERVER MEMORY FROM SAMSUNG ELECTRONICS AND SK HYNIX",
+      "text": "KOREAN MEDIA: MAJOR CHINESE CLOUD SERVICE PROVIDERS (CSPS), INCLUDING ALIBABA, TENCENT, AND BYTEDANCE, HAVE REQUESTED LONG-TERM SUPPLY AGREEMENTS (LTAS) FOR SERVER MEMORY FROM SAMSUNG ELECTRONICS AND SK HYNIX.\n\nBEYOND THE TYPICAL THREE-TO-FIVE-YEAR TERM, SOME CUSTOMERS ARE SEEKING ULTRA-LONG-TERM CONTRACTS SECURING MEMORY SUPPLIES FOR 10 YEARS THROUGH 2035. THE REQUESTED LTAS COVER DDR5 AND LPDDR5."
+    },
+    {
+      "tweetId": "2115053377583247471",
+      "role": "commentary",
+      "authorHandle": "deepdishenjoyer",
+      "url": "https://x.com/DeepDishEnjoyer/status/2115053377583247471",
+      "tweetedAt": "2026-10-27T12:09:55.000Z",
+      "bestBit": "this doesn't look that cyclical",
+      "text": "this doesn't look that cyclical",
+      "quotedTweetText": "KOREAN MEDIA: MAJOR CHINESE CLOUD SERVICE PROVIDERS (CSPS), INCLUDING ALIBABA, TENCENT, AND BYTEDANCE, HAVE REQUESTED LONG-TERM SUPPLY AGREEMENTS (LTAS) FOR SERVER MEMORY FROM SAMSUNG ELECTRONICS AND SK HYNIX.\n\nBEYOND THE TYPICAL THREE-TO-FIVE-YEAR TERM, SOME CUSTOMERS ARE SEEKING ULTRA-LONG-TERM CONTRACTS SECURING MEMORY SUPPLIES FOR 10 YEARS THROUGH 2035. THE REQUESTED LTAS COVER DDR5 AND LPDDR5."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "goldman-sachs-upgrades-palantir-to-buy-with-230-target-ad40e787",
+  "title": "Goldman Sachs Upgrades Palantir to Buy With $230 Target",
+  "publishedAt": "2026-10-08T12:53:28.084Z",
+  "eventTimeApprox": "2026-10-08T10:11:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "earnings",
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PLTR",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Palantir Technologies Inc. Class A Common Stock",
+      "hubKey": "pltr"
+    }
+  ],
+  "summary": "The use of artificial intelligence to automate deployment engineers is allowing Palantir to scale its bespoke software services without proportional increases in staff. Goldman Sachs upgraded the stock to Buy and set a price target of $230, noting that the company's competitive moat should trigger a step-function expansion in its addressable market. Current revenue for the software firm runs near $8B and is growing by approximately 100%.\n\nThe transition to AI-driven forward deployed engineers allows Palantir to maintain the customization of high-touch professional services while achieving margins typically associated with pure software products. This loop between field operations and product development is described as a critical advantage that is difficult for competitors to replicate, aiding the company's current growth momentum.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108127167859290288",
+      "role": "source",
+      "authorHandle": "wolf_financial",
+      "url": "https://x.com/WOLF_Financial/status/2108127167859290288",
+      "tweetedAt": "2026-10-08T09:27:38.000Z",
+      "bestBit": "its moat is likely to drive another step-function change in its addressable market",
+      "text": "Goldman Sachs upgraded Palantir $PLTR to Buy, saying its moat is likely to drive another step-function change in its addressable market. https://t.co/Rr4wya35bH"
+    },
+    {
+      "tweetId": "2108173550398112006",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2108173550398112006",
+      "tweetedAt": "2026-10-08T12:31:57.000Z",
+      "bestBit": "its FDE model has been “perfected to the point of being able to automate via AI FDEs” while revenue runs near $8B and grows ~100%",
+      "text": "$PLTR was upgraded to Buy with a $230 target as the analyst says its FDE model has been “perfected to the point of being able to automate via AI FDEs” while revenue runs near $8B and grows ~100%.\n\nReally interesting seeing how Palantir is using AI to automate parts of its forward deployed engineer model by letting it keep the customization and stickiness of bespoke deployments without scaling headcount the same way.\n\nCompetitors can copy FDE playbook but replicating Palantir’s field to product feedback loop is way harder which is how it can keep the stickiness of services with software margins."
+    }
+  ],
+  "isSuperseded": false
+}

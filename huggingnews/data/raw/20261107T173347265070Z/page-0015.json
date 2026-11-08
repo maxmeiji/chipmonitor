@@ -1,0 +1,88 @@
+{
+  "dayGroups": [
+    {
+      "dayKey": "2026-08-31",
+      "stories": [
+        {
+          "slug": "uk-launches-pound100m-ai-scheme-in-first-rapid-procurement-route-for-sta-fb0e56a1",
+          "title": "UK Launches £100M AI Scheme in First Rapid Procurement Route for Startups",
+          "publishedAt": "2026-08-31T18:48:23.486Z",
+          "eventTimeApprox": "2026-08-31T16:15:42.000Z",
+          "isFreshStory": false,
+          "tweetCount": 3,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "ai",
+            "startups"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "europe",
+              "name": "Europe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayKey": "2026-08-30",
+      "stories": [
+        {
+          "slug": "openai-demos-astra-ai-that-runs-for-weeks-first-model-to-invent-new-thin-eaf67229",
+          "title": "OpenAI Demos Astra AI That Runs for Weeks, First Model to Invent New Things",
+          "publishedAt": "2026-08-30T08:37:30.014Z",
+          "eventTimeApprox": "2026-08-30T00:07:00.000Z",
+          "isFreshStory": false,
+          "tweetCount": 20,
+          "authorCount": 17,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasMore": true,
+  "nextBeforeDayKey": "2026-08-14",
+  "lastUpdatedAt": "2026-11-07T17:08:38.508Z"
+}

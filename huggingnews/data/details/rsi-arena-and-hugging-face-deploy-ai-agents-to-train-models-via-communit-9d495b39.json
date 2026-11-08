@@ -1,0 +1,57 @@
+{
+  "slug": "rsi-arena-and-hugging-face-deploy-ai-agents-to-train-models-via-communit-9d495b39",
+  "title": "RSI Arena and Hugging Face Deploy AI Agents to Train Models via Community Voting",
+  "publishedAt": "2026-10-06T18:52:41.669Z",
+  "eventTimeApprox": "2026-10-06T18:18:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "related",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "summary": "The initial phase of an autonomous AI research experiment has concluded with the deployment of models that AI agents built without human intervention in data selection or coding. In a partnership with Hugging Face, RSI Arena now employs these agents to develop models that the community judges in head-to-head matchups, feeding real-time voting results back to the agents to guide their subsequent experiments and training.\n\nThe initiative, termed 'Open RSI,' aims to facilitate AI that improves AI in a public environment, using Hugging Face Inference Endpoints to serve models for live feedback. All project artifacts, including the research trajectories, training data, and code used by the agents, will be open-sourced on the Hugging Face Hub once the experiment ends.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107530331113021484",
+      "role": "source",
+      "authorHandle": "my_cat_can_code",
+      "url": "https://x.com/my_cat_can_code/status/2107530331113021484",
+      "tweetedAt": "2026-10-06T17:56:01.000Z",
+      "bestBit": "Every model the agents train will be released openly on the Hub, and when the experiment ends, we will open-source every artifact, from the data and code to each agent's full research trajectory.",
+      "text": "We’re teaming up with @huggingface for the next round of RSI Arena! 📷\n\nWe gave AI agents GPUs and one job: train better models. They chose the data, wrote the code, and ran the experiments on their own.\n\nNow round 1 of training is over, and we're bringing the community into the training loop: the models go head-to-head, and you're the judge. The agents then take your feedback back to work with new experiments and more training. Continual learning, streamed live.\n\nCan they learn from your votes? Who comes back stronger?\n\n@huggingface’s Inference Endpoints power the arena, serving every agent-trained model live, so the feedback you give streams back to the agents in real time. \n\nTogether, we’re turning community feedback into the starting point for the agents’ next round of research and training. Huge thanks to @ben_burtenshaw, @ClementDelangue, @Thom_Wolf and the @huggingface team for building this with us!\n\nOur shared goal is Open RSI: AI that improves AI, built in the open. Every model the agents train will be released openly on the Hub, and when the experiment ends, we will open-source every artifact, from the data and code to each agent's full research trajectory.\n\nCast your vote. Then come back to see what they did with it!"
+    }
+  ],
+  "isSuperseded": false
+}

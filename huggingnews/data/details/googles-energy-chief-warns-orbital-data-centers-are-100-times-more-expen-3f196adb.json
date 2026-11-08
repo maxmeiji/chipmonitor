@@ -1,0 +1,97 @@
+{
+  "slug": "googles-energy-chief-warns-orbital-data-centers-are-100-times-more-expen-3f196adb",
+  "title": "Google's Energy Chief Warns Orbital Data Centers Are 100 Times More Expensive Than Earth Sites",
+  "publishedAt": "2026-11-03T14:24:11.344Z",
+  "eventTimeApprox": "2026-11-01T22:44:16.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "space",
+      "name": "Space"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "summary": "Google's head of data center energy advised technology companies to prioritize terrestrial infrastructure and maximize their options on the ground before attempting to build computing facilities in space. The recommendation comes as Google carries out its own experiments by testing AI chips in orbit, though the executive warned that the expense of launching computing hardware can be as much as 100 times higher than constructing equivalent sites on land.\n\nThe cost estimate differs from optimistic projections by space industry analysts and the strategy pursued by SpaceX for its orbital data centers. While Google's energy chief stated that the US power supply is sufficient to sustain data center growth, she noted that slow permitting processes continue to hinder terrestrial expansion.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117293186037018764",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2117293186037018764",
+      "tweetedAt": "2026-11-02T16:30:07.000Z",
+      "bestBit": "Her warning comes as Google tests AI chips in orbit and SpaceX bets on orbital data centers.",
+      "text": "Google’s Head of Data Center Energy says launching computing hardware into orbit could cost up to 100 times more than building on Earth. \n\nHer warning comes as Google tests AI chips in orbit and SpaceX bets on orbital data centers.\n\nFull story: https://t.co/aLXfHbwBDR"
+    },
+    {
+      "tweetId": "2117057819006697904",
+      "role": "commentary",
+      "authorHandle": "realjimchanos",
+      "url": "https://x.com/RealJimChanos/status/2117057819006697904",
+      "tweetedAt": "2026-11-02T00:54:51.000Z",
+      "bestBit": "The fact that the head of data center energy at a hyperscaler is this far off from estimates from $SPCX management/bulls should give pause to anyone trying to model this business out.",
+      "text": "So $5T per GW…?! The fact that the head of data center energy at a hyperscaler is this far off from estimates from $SPCX management/bulls should give pause to anyone trying to model this business out.",
+      "quotedTweetText": "Google's data center energy head says space data centers cost up to 100x more than Earth-based ones, and US power supply is sufficient but permits are slow (@amir / The Information)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2116992098675335239",
+      "role": "commentary",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2116992098675335239",
+      "tweetedAt": "2026-11-01T20:33:42.000Z",
+      "bestBit": "Well that 100x cost premium is contra to the popular narrative on this site",
+      "text": "Well that 100x cost premium is contra to the popular narrative on this site",
+      "quotedTweetText": "Google's data center energy head says space data centers cost up to 100x more than Earth-based ones, and US power supply is sufficient but permits are slow (@amir / The Information)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "google-energy-chief-says-space-data-centers-cost-up-to-100x-more-than-ea-c7f7e0c5",
+    "title": "Google Energy Chief Says Space Data Centers Cost Up to 100x More Than Earth Facilities",
+    "publishedAt": "2026-11-01T21:14:29.578Z",
+    "eventTimeApprox": "2026-11-01T18:50:52.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

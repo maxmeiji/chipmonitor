@@ -1,0 +1,68 @@
+{
+  "slug": "china-state-council-prioritizes-ai-application-to-raise-productive-capac-de21f3bc",
+  "title": "China State Council Prioritizes AI Application to Raise Productive Capacity",
+  "publishedAt": "2026-10-16T12:07:58.276Z",
+  "eventTimeApprox": "2026-10-16T11:41:42.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "world"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "summary": "Premier Li Qiang led a government meeting that termed artificial intelligence a key driver for future national development. The State Council urged the prioritization of integrating AI into the real economy to accelerate the conversion of technology into productive capacity, specifically through improved supply-demand matching, joint research and development, and the expansion of pilot scenarios under the \"AI+\" initiative.\n\nThe administration emphasized the need to balance technological advancement with safety requirements. The council called for risk assessments and the implementation of tiered, category-based policies tailored to different industrial sectors to ensure a security bottom line for artificial intelligence deployment.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111053512989937760",
+      "role": "source",
+      "authorHandle": "dmjk001",
+      "url": "https://x.com/dmjk001/status/2111053512989937760",
+      "tweetedAt": "2026-10-16T11:15:53.000Z",
+      "bestBit": "注重以落地应用牵引技术创新，不断深化拓展“人工智能+”行动",
+      "text": "李强主持召开国务院常务会议。会议指出，人工智能是影响未来发展的关键变量，要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发，注重以落地应用牵引技术创新，不断深化拓展“人工智能+”行动。 (央视新闻) https://t.co/9AbPMelSi4"
+    },
+    {
+      "tweetId": "2111055551841046760",
+      "role": "support",
+      "authorHandle": "sino_market",
+      "url": "https://x.com/Sino_Market/status/2111055551841046760",
+      "tweetedAt": "2026-10-16T11:23:59.000Z",
+      "bestBit": "prioritizing application-led AI development tied to the real economy",
+      "text": "🇨🇳China's State Council, chaired by Li Qiang, urged prioritizing application-led AI development tied to the real economy: strengthen supply–demand matching, promote joint R&D, accelerate pilot validation, and expand scenario cultivation to speed conversion of AI technology into productive capacity. (https://t.co/dC4FpVyyON)"
+    },
+    {
+      "tweetId": "2111064473901604983",
+      "role": "support",
+      "authorHandle": "terryyuezhuo",
+      "url": "https://x.com/terryyuezhuo/status/2111064473901604983",
+      "tweetedAt": "2026-10-16T11:59:26.000Z",
+      "bestBit": "adopt tiered and category-based policies tailored to different industries, strengthen risk assessment and evaluation",
+      "text": "\"It is necessary to balance development and security, adopt tiered and category-based policies tailored to different industries, strengthen risk assessment and evaluation, and firmly uphold the bottom line of AI security.\"",
+      "quotedTweetText": "🇨🇳China's State Council, chaired by Li Qiang, urged prioritizing application-led AI development tied to the real economy: strengthen supply–demand matching, promote joint R&D, accelerate pilot validation, and expand scenario cultivation to speed conversion of AI technology into productive capacity. (https://t.co/dC4FpVyyON)"
+    }
+  ],
+  "isSuperseded": false
+}

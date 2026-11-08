@@ -1,0 +1,173 @@
+{
+  "slug": "update-bloom-energy-targets-5-gw-production-capacity-for-ai-data-center-55ac2295",
+  "title": "UPDATE: Bloom Energy Targets 5 GW Production Capacity for AI Data Center Power",
+  "publishedAt": "2026-10-24T09:56:38.970Z",
+  "eventTimeApprox": "2026-10-22T20:19:23.500Z",
+  "isFreshStory": false,
+  "tweetCount": 35,
+  "authorCount": 20,
+  "routingTopicKeys": [
+    "earnings",
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BE",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Bloom Energy Corporation",
+      "hubKey": "be"
+    },
+    {
+      "ticker": "NBIS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nebius Group N.V. Class A Ordinary Shares",
+      "hubKey": "nbis"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "AEP",
+      "kind": "equity",
+      "role": "related",
+      "name": "American Electric Power Company, Inc.",
+      "hubKey": "aep"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113653042599911459/HVU0OqVWkAAatUB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113653042599911459/HVU0OqVWkAAatUB-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "jackprandelli",
+      "tweetUrl": "https://x.com/jackprandelli/status/2113653042599911459"
+    }
+  },
+  "summary": "Bloom Energy is scaling its annual manufacturing output beyond 5 GW to meet the concentrated electricity needs of AI data centers, which management says are often too great for the traditional power grid. The company recently confirmed that its equipment is ready for the first phase of Nebius’s 300 MW New Jersey facility and highlighted a 700 MW project with Google and AEP that utilizes carbon-capture technology to produce near-zero carbon electricity.\n\nThe fuel cell provider was added to the S&P 500 this week, though its stock has declined approximately 45% from its June record. Shares fell 11% to roughly $193 on Oct. 23 after a third-quarter report showing record revenue of $1.24B and raised 2026 guidance were offset by operating cash flow flipping to negative $27.1M from positive $226M in the second quarter.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113361164604235980",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2113361164604235980",
+      "tweetedAt": "2026-10-22T20:05:40.000Z",
+      "bestBit": "Adj. EPS: $0.94 (Est. $0.68)",
+      "text": "BLOOM ENERGY $BE Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $1.24B (Est. $1.05B) 🟢; +138.1% YoY\n🔹 Adj. EPS: $0.94 (Est. $0.68) 🟢\n🔹 GAAP EPS: $0.78\n🔹 Adj. Gross Margin: 34.5%; +412 bps YoY\n\nRaises FY26 Guide:\n🔹 Revenue: $4.40B-$4.60B (Est. $4.1B) 🟢\n🔹 Adj. EPS: $3.10-$3.40 (Est. $2.73) 🟢\n🔹 Adj. Gross Margin: ~34%\n🔹 Adj. Oper Income: $960M-$1.03B\n\nAnnouncements:\n🔹 Added to the S&P 500\n\nOther Q3 Metrics:\n🔹 Adj. Oper Income: $285.7M (Est. $214M) 🟢\n🔹 GAAP Oper Income: $225.4M\n🔹 Operating Cash Flow: -$27.1M\n🔹 GAAP Gross Margin: 33.8%; +453 bps YoY\n\nComments:\n🔸 “Bloom is leading that transformation.”"
+    },
+    {
+      "tweetId": "2113361900243472691",
+      "role": "source",
+      "authorHandle": "bloom_energy",
+      "url": "https://x.com/Bloom_Energy/status/2113361900243472691",
+      "tweetedAt": "2026-10-22T20:08:36.000Z",
+      "bestBit": "Raises full year 2026 revenue guidance to $4.4 billion - $4.6 billion",
+      "text": "Bloom Energy Reports Record Third Quarter 2026 Financial Results and Raises Full Year 2026 Guidance:\n\n• Achieved record quarterly revenue of $1,235.8 million, delivering 138.1% year-over-year growth\n\n• Raises full year 2026 revenue guidance to $4.4 billion - $4.6 billion, representing 122% year-over-year growth at the midpoint\n\n• Added to the S&P 500, marking an important milestone for Bloom Energy as a public company\n\nLearn more: https://t.co/KFimyTZR7k"
+    },
+    {
+      "tweetId": "2113365961298542615",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2113365961298542615",
+      "tweetedAt": "2026-10-22T20:24:44.000Z",
+      "bestBit": "Pretty wild that $BE has nearly 5x its profits in just two years",
+      "text": "Pretty wild that $BE has nearly 5x its profits in just two years  🤯 https://t.co/w3TvLPVAbi",
+      "quotedTweetText": "$BE CRUSHED THEIR Q3 EARNINGS\n\n• Revenue $1.24B vs Est. $1.06B\n• EPS $0.94 vs Est. $0.68\n• Gross Margin: 34% vs. Est. 34%\n\nFY26 Guidance\n• Revenue $4.5B vs Est. $4.1B\n• EPS $3.25 vs Est. $2.71"
+    },
+    {
+      "tweetId": "2113705284757774694",
+      "role": "analysis",
+      "authorHandle": "unusual_whales",
+      "url": "https://x.com/unusual_whales/status/2113705284757774694",
+      "tweetedAt": "2026-10-23T18:53:05.000Z",
+      "bestBit": "Roth, JPM, and BTIG cut targets",
+      "text": "$BE down 11% today to ~$193 after earnings \n\nQ3 was a beat: record $1.24B revenue (+138% YoY), adj EPS $0.94 vs $0.69 est, and 2026 guidance raised.\n\nBut operating cash flow flipped to -$27M (from +$226M in Q2), and Roth, JPM, and BTIG cut targets.\n\nRisk Reversal Skew spiked positive into the print as traders bought downside protection. It's already back to 0.00.\n\nLast time skew spiked and flipped back negative (late July), $BE bottomed near $160 and ran toward $300."
+    },
+    {
+      "tweetId": "2113653042599911459",
+      "role": "commentary",
+      "authorHandle": "jackprandelli",
+      "url": "https://x.com/jackprandelli/status/2113653042599911459",
+      "tweetedAt": "2026-10-23T15:25:29.000Z",
+      "bestBit": "capex tripled to $154m",
+      "text": "$BE just turned AI power into profit.\n\nBloom Energy’s revenue jumped 138% to $ 1.24bn.\n\nLast year it lost money. \nThis quarter it made $250m.\n\nYou guys know I’m bullish on gas for data centers.\n\nBloom is the same bet in a different form. \nIt builds solid oxide fuel cells that turn natural gas into electricity right next to the data center, with no grid connection and no years long wait.\n\nRevenue: $ 1.24bn, up 138% y/y\nGross margin: 33.8%, up from 29.2%\nAdjusted EPS: $0.94, against $0.15\n2026 revenue guidance: $4.4–4.6bn, raised for the third time\n\nThe market is getting bigger too.\n\nBofA expects data center spending to double from $ 1tn this year to $ 2.1tn by 2028.\n\nA megawatt costs about $49m and servers take $31m of that. \n\nGenerators and backup power each cost only $0.1m to $1.1m per megawatt.\n\nPower is a small slice of the bill. \nWithout it, nothing switches on.\n\nThe catch is cash. \n\nOperating cash flow was −$27m this quarter, and capex tripled to $154m.\n\nBloom is going on my research list. \nI want to see it grow without burning cash first.\n\nand the price is going down so nice opportunity to jump in."
+    },
+    {
+      "tweetId": "2113419994344386958",
+      "role": "commentary",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2113419994344386958",
+      "tweetedAt": "2026-10-22T23:59:26.000Z",
+      "bestBit": "Bloom confirmed that its equipment is already ready for the first phase of Nebius’s 300 MW New Jersey data center",
+      "text": "$BE’s CEO just made some HUGE predictions about the future of power during the company's earnings call.\n\nOne of the biggest takeaways was how confident management is about the future of on site power generation. The CEO essentially argued that the traditional electrical grid was never designed to handle the enormous, concentrated power demands we’re seeing from AI data centers. Hyperscalers are increasingly realizing that waiting years for grid connections isn’t realistic, which is why they’re turning to companies like Bloom to generate electricity directly at their facilities. What I found particularly interesting is that management believes this shift will eventually extend far beyond AI data centers. Factories, hospitals, military installations, commercial buildings and even entire international markets could increasingly move toward generating their own electricity. The CEO compared this transition to developing countries skipping landline telephones and moving directly to mobile phones.\n\nManagement also made it clear that they’re already preparing for demand beyond 5 GW of annual manufacturing capacity. They aren’t committing to a specific timeline, but the CEO said he doesn’t see them dialing down production expansion anytime soon. The goal is to increase capacity alongside customer demand without becoming the bottleneck preventing projects from moving forward. Speaking of bottlenecks, there was an interesting update on Nebius $NBIS. Bloom confirmed that its equipment is already ready for the first phase of Nebius’s 300 MW New Jersey data center. Management emphasized that they will have power available as Nebius brings additional capacity online, meaning Bloom does not expect to be the reason the project gets delayed.\n\nThe CEO also referenced Jensen Huang’s comments at GTC Berlin, where Jensen reportedly said that every quarter of delay for a 1 GW AI data center could translate into $10 billion in missed revenue. Think about what that means. When hyperscalers are potentially losing billions because they cannot bring compute online quickly enough, the speed at which a company can deliver electricity becomes incredibly valuable. Another important development was Bloom’s growing relationship with utilities. Historically, the company has largely sold on site power directly to customers. Now, utilities are beginning to recognize that installing Bloom’s fuel cells throughout their own networks could be faster and more economical than waiting for massive transmission and generation projects. Management believes this could become a major growth opportunity because utilities could purchase systems in anticipation of future electricity demand rather than waiting for individual customers. Carbon capture was another major topic. Bloom highlighted its 700 MW project involving Google and AEP, which will use fuel cells alongside carbon capture to provide near zero carbon electricity. Management explained that its technology produces a more concentrated stream of CO2 than conventional combustion systems, potentially making carbon capture easier and more economical. The CEO believes this could eventually become a trillion dollar market opportunity, and said hyperscalers are already asking about making their systems carbon-capture ready. There was also a discussion around 800V DC power delivery, which I think is worth paying attention to. Today, data centers lose efficiency converting electricity multiple times before it reaches the actual AI servers. Bloom believes its technology could eliminate some of those conversions, potentially saving billions in operating costs. Management is already having conversations with hyperscalers and expects adoption to accelerate as newer server architectures become available.\n\nOverall, my biggest takeaway is that Bloom is positioning itself as much more than a fuel cell manufacturer. Management sees the company becoming a major part of how electricity is generated and delivered, especially as AI, automation, and electrification continue pushing power demand higher. I thought the call was very encouraging, particularly the comments around manufacturing expansion, Nebius, utilities, and the growing demand for on site power. The big question now is how effectively Bloom can execute as the scale of these projects continues increasing.  Yes, $BE is down nearly 7% after hours despite reporting an extremely strong quarter, but I think a lot of this has to do with the current market environment we’re in. High growth stocks are getting punished across the board, regardless of how well their underlying businesses are performing. I’m not going to pretend I know where the bottom is, but my long term conviction hasn’t changed. Once the broader market stabilizes and investors become more comfortable taking risks again, I believe $BE will recover as well. The fundamentals are moving in the right direction, and that’s what matters most to me.",
+      "quotedTweetText": "Bloom Energy Reports Record Third Quarter 2026 Financial Results and Raises Full Year 2026 Guidance:\n\n• Achieved record quarterly revenue of $1,235.8 million, delivering 138.1% year-over-year growth\n\n• Raises full year 2026 revenue guidance to $4.4 billion - $4.6 billion, representing 122% year-over-year growth at the midpoint\n\n• Added to the S&P 500, marking an important milestone for Bloom Energy as a public company\n\nLearn more: https://t.co/KFimyTZR7k"
+    },
+    {
+      "tweetId": "2113684618562191866",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2113684618562191866",
+      "tweetedAt": "2026-10-23T17:30:58.000Z",
+      "bestBit": "$BE is now down 35% in just one month",
+      "text": "Pretty wild that $BE is now down 35% in just one month. https://t.co/UmbP5Od4dZ",
+      "quotedTweetText": "$BE reported Q3 revenue of $1.24B, up 138% YoY, versus the $1.07B expected, with non-GAAP EPS of $0.94 versus $0.67.\n\nAt the open, $BE is down around 6.3%, with the raised $4.4B-$4.6B revenue outlook weighed against an unchanged gross margin outlook of about 34%.\n\n→ Revenue: $1.24B vs. $1.07B consensus\n→ Non-GAAP EPS: $0.94 vs. $0.67 expected\n→ Gross margin: 34.5% vs. 34.3% in Q2\n→ 2026 guide: $4.4B-$4.6B in revenue, versus $3.9B-$4.2B prior\n\n$BE also raised its 2026 non-GAAP EPS outlook to $3.10-$3.40 from $2.55-$2.85, and was added to the S&P 500."
+    },
+    {
+      "tweetId": "2113927495485665420",
+      "role": "commentary",
+      "authorHandle": "nolimitgains",
+      "url": "https://x.com/NoLimitGains/status/2113927495485665420",
+      "tweetedAt": "2026-10-24T09:36:04.000Z",
+      "bestBit": "Pelosi's calls don't expire until June 2027",
+      "text": "Bloom Energy $BE beat on Q3 and fell 11% anyway. It's now 45% off its June record.\n\nPelosi's calls don't expire until June 2027.\n\nUse that information as you wish. https://t.co/Pvwlt31kbl",
+      "quotedTweetText": "Pelosi filed $13.5 million of new trades.\n\n$12 million of that is one position.\n\nBloom Energy $BE https://t.co/afnSZmZOxI"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "bloom-energy-shares-drop-11percent-to-193-as-analysts-cut-price-targets-6d440b44",
+    "title": "Bloom Energy Shares Drop 11% to $193 as Analysts Cut Price Targets",
+    "publishedAt": "2026-10-23T19:09:37.419Z",
+    "eventTimeApprox": "2026-10-22T20:14:03.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "us-markets"
+    ],
+    "tweetCount": 33,
+    "authorCount": 19
+  }
+}

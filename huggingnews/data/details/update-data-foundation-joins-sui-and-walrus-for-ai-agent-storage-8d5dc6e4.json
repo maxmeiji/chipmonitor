@@ -1,0 +1,85 @@
+{
+  "slug": "update-data-foundation-joins-sui-and-walrus-for-ai-agent-storage-8d5dc6e4",
+  "title": "UPDATE: Data Foundation Joins Sui and Walrus for AI Agent Storage",
+  "publishedAt": "2026-10-08T09:38:49.276Z",
+  "eventTimeApprox": "2026-10-06T18:11:17.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "crypto",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "blockchains",
+      "name": "Blockchains"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Large volumes of data will flow to the Sui Network and Walrus Protocol on a regular basis as Data Foundation migrates its operations to the blockchain. The integration aims to establish Walrus as the primary storage infrastructure for the current expansion of autonomous AI agents.\n\nThis expansion follows a collaboration between Mysten Labs and Google Cloud to launch the Verifiable Agent Arbiter. That system uses an evidence layer anchored to Sui and Walrus to cryptographically prove corporate AI agents acted within authorized permissions by recording every instruction, action, and payment.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108117981029163122",
+      "role": "source",
+      "authorHandle": "emanabio",
+      "url": "https://x.com/EmanAbio/status/2108117981029163122",
+      "tweetedAt": "2026-10-08T08:51:08.000Z",
+      "bestBit": "huge volumes of data coming to Walrus on a regular basis",
+      "text": "ANOTHER BIG ONE🙌\n\n@datafdn is coming to @SuiNetwork and @WalrusProtocol\n\nthat means huge volumes of data coming to Walrus on a regular basis.\n\nWalrus is going to be THE storage layer for the agentic era 🔥 https://t.co/KdTKLqM04j"
+    },
+    {
+      "tweetId": "2107473798769574049",
+      "role": "support",
+      "authorHandle": "suinetwork",
+      "url": "https://x.com/SuiNetwork/status/2107473798769574049",
+      "tweetedAt": "2026-10-06T14:11:23.000Z",
+      "bestBit": "collaborating on Verifiable Agent Arbiter (VAA) to provide that evidence, with proof anchored to Sui and @WalrusProtocol",
+      "text": "When AI agents act on a company’s behalf, that company needs proof they stayed within their authority.\n\n@Mysten_Labs and @googlecloud are collaborating on Verifiable Agent Arbiter (VAA) to provide that evidence, with proof anchored to Sui and @WalrusProtocol."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "google-cloud-and-mysten-labs-launch-ai-agent-evidence-tool-dba349db",
+    "title": "Google Cloud and Mysten Labs Launch AI Agent Evidence Tool",
+    "publishedAt": "2026-10-06T18:23:25.630Z",
+    "eventTimeApprox": "2026-10-06T16:41:58.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "crypto"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

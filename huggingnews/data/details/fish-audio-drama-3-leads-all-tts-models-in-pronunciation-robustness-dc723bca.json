@@ -1,0 +1,135 @@
+{
+  "slug": "fish-audio-drama-3-leads-all-tts-models-in-pronunciation-robustness-dc723bca",
+  "title": "Fish Audio Drama 3 Leads All TTS Models in Pronunciation Robustness",
+  "publishedAt": "2026-10-13T19:11:38.046Z",
+  "eventTimeApprox": "2026-10-13T16:43:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 37,
+  "authorCount": 27,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110081938140582085/HUiDm21W0AATvwd-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110081938140582085/HUiDm21W0AATvwd-small.jpg",
+    "mediaType": "animated_gif",
+    "videoUrl": "https://video.twimg.com/tweet_video/HUiDm21W0AATvwd.mp4",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2110081938140582085"
+    }
+  },
+  "summary": "The open weight system from Fish Audio has secured first place across three text to speech rankings from Artificial Analysis. Its Drama 3 Preview model scored 93.2% in Pronunciation Robustness, surpassing the scores of the closed source Eleven v4 and Eleven v4 Turbo models, which recorded 91.7% and 90.1% respectively. The 35B parameter mixture-of-experts model supports 83 languages and reached a Provider Voice Elo of 1,243, a 101 point gain over the company's previous S2.1 Pro.\n\nThe model is available on Hugging Face under the Fish Audio Community License and via an API priced at $15 per 1 million characters, compared to $80 per 1 million for Eleven v4. Designed for long-form content, the system enables users to adjust the emotion and tone of individual words using natural language instructions. Fish Audio currently serves more than 15M users and recently completed a $52M seed funding round.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110038429199450126",
+      "role": "source",
+      "authorHandle": "fishaudio",
+      "url": "https://x.com/FishAudio/status/2110038429199450126",
+      "tweetedAt": "2026-10-13T16:02:18.000Z",
+      "bestBit": "the most emotive and controllable TTS model in the world",
+      "text": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://t.co/4nbz4sQ4yy\n\nComment “DRAMA” within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://t.co/jBXXZSAg0p"
+    },
+    {
+      "tweetId": "2110081938140582085",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2110081938140582085",
+      "tweetedAt": "2026-10-13T18:55:12.000Z",
+      "bestBit": "Pronunciation Robustness: Drama 3 Preview scores 93.2%, ranking #1 ahead of Eleven v4 at 91.7%",
+      "text": "Fish Audio's Drama 3 Preview is the new #1 open-weights Text to Speech model on the Artificial Analysis Text to Speech leaderboard. The model also leads all models in our Pronunciation Robustness leaderboard, ahead of Eleven v4 and Eleven v4 Turbo\n\nDrama 3 Preview is the new open weights Text to Speech model from @FishAudio, built for multi-character scenes and long-form content with voice cloning and natural-language control. Weights are available on Hugging Face under the Fish Audio Community License.\n\nKey takeaways:\n\n➤ Pronunciation Robustness: Drama 3 Preview scores 93.2%, ranking #1 ahead of Eleven v4 at 91.7% and Eleven v4 Turbo at 90.1%. It ranks #1 in Standalone Terms and Preserving Exact Sequences and #2 in Expanding Shorthand.\n\n➤ Provider Voice: Drama 3 Preview has an Elo of 1,243 (+16/-16) across 1,857 appearances, ranking #10, a 101 point gain on the previous Fish Audio S2.1 Pro at 1,142.\n\n➤ Controlled Voice: Drama 3 Preview ranks #14 with an Elo of 1,058 (+15/-15) across 1,804 appearances.\n\n➤ Open weights: Drama 3 Preview is the #1 open weights model on all three of our Text to Speech leaderboards. On Pronunciation Robustness it leads the next open weights model, Mistral's Voxtral TTS at 78.1%, by 15 points, and in the Provider Voice Arena it is ahead of Breeze TTS 2 at 1,221. Drama 3 is a 35B parameter mixture-of-experts model (3B active) supporting 83 languages, available on Hugging Face.\n\n➤ Pricing: Drama 3 Preview is available via the Fish Audio API at $15/1M characters, the same as S2.1 Pro, compared to Eleven v4 at $80/1M characters and Eleven v4 Turbo at $40/1M characters.\n\nSee more details and listen to samples below 🧵"
+    },
+    {
+      "tweetId": "2110043396563927270",
+      "role": "support",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2110043396563927270",
+      "tweetedAt": "2026-10-13T16:22:03.000Z",
+      "bestBit": "89ms median time to first audio on a single H200 (single stream)",
+      "text": "They say seeing is believing. Wait till you hear what Drama 3 has to say. Day-0 support for @FishAudio Drama 3 is live in SGLang-Omni!\n· Serve multi-speaker TTS, voice cloning, and streaming audio through /v1/audio/speech\n· 89ms median time to first audio on a single H200 (single stream)\n\nFull cookbook 👇: https://t.co/51zLG7aROt",
+      "quotedTweetText": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://t.co/4nbz4sQ4yy\n\nComment “DRAMA” within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://t.co/jBXXZSAg0p"
+    },
+    {
+      "tweetId": "2110043221262991481",
+      "role": "commentary",
+      "authorHandle": "chetaslua",
+      "url": "https://x.com/chetaslua/status/2110043221262991481",
+      "tweetedAt": "2026-10-13T16:21:21.000Z",
+      "bestBit": "just typed {\"say it like the build failed at 99%\"} and it did that",
+      "text": "first TTS where i didn't have to guess which tag makes it sad\n\njust typed {\"say it like the build failed at 99%\"} and it did that\n\nthen changed one word , {rest of the take stayed the same / it re-read the line}\n\ndrama 3 from @FishAudio , clip below 👇",
+      "quotedTweetText": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://t.co/4nbz4sQ4yy\n\nComment “DRAMA” within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://t.co/jBXXZSAg0p"
+    },
+    {
+      "tweetId": "2110044128130068665",
+      "role": "commentary",
+      "authorHandle": "itsolelehmann",
+      "url": "https://x.com/itsolelehmann/status/2110044128130068665",
+      "tweetedAt": "2026-10-13T16:24:57.000Z",
+      "bestBit": "direct the attitude behind the words in plain english: “sound happy for them, but make it obvious you’re dying inside.”",
+      "text": "so AI can be passive-aggressive now? lol\n\nvoice AI always struggled to get the \"attitude\" behind the words right\n\nlike there's endless ways to say “i’m so happy for you”:\n\n> genuinely stoked your best friend got their dream job\n> jealous your least competent coworker got promoted over you\n> trying not to cry because your ex just got engaged\n\nbut now with drama 3, you can just direct the attitude behind the words in plain english:\n\n“sound happy for them, but make it obvious you’re dying inside.”\n\nits not what you say, its how you say it",
+      "quotedTweetText": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://t.co/4nbz4sQ4yy\n\nComment “DRAMA” within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://t.co/jBXXZSAg0p"
+    },
+    {
+      "tweetId": "2110045675799052309",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2110045675799052309",
+      "tweetedAt": "2026-10-13T16:31:06.000Z",
+      "bestBit": "Directions go inside square brackets in plain language, such as “barely holding it together,”",
+      "text": "Really cool, open weight, TTS model, just dropped. \n\nFixing one bad word in a TTS clip usually means regenerating the whole line, and the take you liked goes with it.\n\n@FishAudio just released Drama 3, it's open-weight,  and the most emotive and controllable TTS model in the world\n\n> lets users restyle single words mid-sentence\n\n> Directions go inside square brackets in plain language, such as “barely holding it together,” and they can be written in English or the user’s own language.\n\n> paired tags such as Whisper, Slower or Forceful wrap only the selected words, so a line can turn from steady to hushed halfway through.",
+      "quotedTweetText": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://t.co/4nbz4sQ4yy\n\nComment “DRAMA” within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://t.co/jBXXZSAg0p"
+    },
+    {
+      "tweetId": "2110068691807461447",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2110068691807461447",
+      "tweetedAt": "2026-10-13T18:02:33.000Z",
+      "bestBit": "lets developers edit speech like text and control how individual words sound.",
+      "text": "Fish Audio just introduced Drama 3 which is an open AI voice model that lets developers edit speech like text and control how individual words sound.\n\nYou’re going to see more examples like this as AI voice becomes easier to build and advantage shifts toward companies like $META that already reach billions of users through their apps and devices.",
+      "quotedTweetText": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://t.co/4nbz4sQ4yy\n\nComment “DRAMA” within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://t.co/jBXXZSAg0p"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "fish-audio-launches-drama-3-open-weight-model-for-word-level-control-042444e8",
+    "title": "Fish Audio Launches Drama 3 Open Weight Model for Word Level Control",
+    "publishedAt": "2026-10-13T16:59:56.972Z",
+    "eventTimeApprox": "2026-10-13T16:22:43.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "startups"
+    ],
+    "tweetCount": 12,
+    "authorCount": 9
+  }
+}

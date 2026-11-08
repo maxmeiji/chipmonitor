@@ -1,0 +1,154 @@
+{
+  "slug": "anthropics-internal-systems-secure-following-distribution-of-malicious-e-fc93620a",
+  "title": "Anthropic's Internal Systems Secure Following Distribution of Malicious Extension Through Cursor",
+  "publishedAt": "2026-10-31T14:08:30.232Z",
+  "eventTimeApprox": "2026-10-30T14:08:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 50,
+  "authorCount": 29,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "PVT:CRSR",
+      "kind": "private",
+      "role": "subject",
+      "name": "Cursor",
+      "hubKey": "cursor"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2116202468447269148/HV4-gVlXwAAtuh6-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2116202468447269148/HV4-gVlXwAAtuh6-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "intcyberdigest",
+      "tweetUrl": "https://x.com/IntCyberDigest/status/2116202468447269148"
+    }
+  },
+  "summary": "The official distribution channels for the Claude Code AI assistant, including the Microsoft VS Code Marketplace, npm and Open VSX, were not affected by a supply chain attack that served a poisoned version of the software to developers. Anthropic and Cursor confirmed that while a tampered copy of the extension was published to the Cursor marketplace, the company's internal systems and employee laptops were not breached. Microsoft also verified that the malicious software, listed as version 2.1.313, never reached its own registry.\n\nThe rogue update was available for roughly 11 hours on Oct. 29 and may have impacted up to 5,000 users. Once loaded, the extension installed an attacker-controlled SSH key and persistence scripts that attempted to open a remote tunnel every 60 seconds. Cursor has removed the package and rebuilt its marketplace, but it warned that simply updating to version 2.1.314 or uninstalling the tool is not enough to remove the malware, as the startup scripts and keys remain on the host system.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116074289053175808",
+      "role": "source",
+      "authorHandle": "cursor_ai",
+      "url": "https://x.com/cursor_ai/status/2116074289053175808",
+      "tweetedAt": "2026-10-30T07:46:39.000Z",
+      "bestBit": "We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplace, impacting at most 5,000 users",
+      "text": "We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplace, impacting at most 5,000 users. This malicious version of the extension was not developed by Anthropic. It does not impact other extensions downloaded from the https://t.co/sJRGX5jLXW, Grok Bot, Grok or our other SpaceXSI products.\n\nIn response, we took down our extension marketplace this afternoon, worked with relevant providers to neutralize the malware, and have reinstated the marketplace after confirming there is no further risk.\n\nIf affected, please review instructions in this blog post to understand how to find the malicious package and establish a path to mitigate any potential impact. We are asking all customers update to Claude Code for VS Code version 2.1.314: https://t.co/ESqf7YEtHZ"
+    },
+    {
+      "tweetId": "2116170451466543578",
+      "role": "source",
+      "authorHandle": "felixrieseberg",
+      "url": "https://x.com/felixrieseberg/status/2116170451466543578",
+      "tweetedAt": "2026-10-30T14:08:46.000Z",
+      "bestBit": "it wasn’t a compromise of Anthropic’s systems or employee laptops",
+      "text": "We’re working with Cursor on this incident, but it wasn’t a compromise of Anthropic’s systems or employee laptops. A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels are not affected and this only impacts Cursor users.",
+      "quotedTweetText": "We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplace, impacting at most 5,000 users. This malicious version of the extension was not developed by Anthropic. It does not impact other extensions downloaded from the https://t.co/sJRGX5jLXW, Grok Bot, Grok or our other SpaceXSI products.\n\nIn response, we took down our extension marketplace this afternoon, worked with relevant providers to neutralize the malware, and have reinstated the marketplace after confirming there is no further risk.\n\nIf affected, please review instructions in this blog post to understand how to find the malicious package and establish a path to mitigate any potential impact. We are asking all customers update to Claude Code for VS Code version 2.1.314: https://t.co/ESqf7YEtHZ"
+    },
+    {
+      "tweetId": "2116170090991484947",
+      "role": "commentary",
+      "authorHandle": "amasad",
+      "url": "https://x.com/amasad/status/2116170090991484947",
+      "tweetedAt": "2026-10-30T14:07:20.000Z",
+      "bestBit": "an official Claude Code extension was compromised and installed backdoors on developer machines",
+      "text": "Massively underreported: an official Claude Code extension was compromised and installed backdoors on developer machines.\n\nCould it be behind the Binance hack? https://t.co/lODvfIc5AP"
+    },
+    {
+      "tweetId": "2116185803433071061",
+      "role": "commentary",
+      "authorHandle": "alexalbert__",
+      "url": "https://x.com/alexalbert__/status/2116185803433071061",
+      "tweetedAt": "2026-10-30T15:09:47.000Z",
+      "bestBit": "It was a tampered copy of the Claude Code extension, which we didn’t build or publish",
+      "text": "@amasad This was not an official Claude Code extension. It was a tampered copy of the Claude Code extension, which we didn’t build or publish. See here: https://t.co/VH3RAYdHG0",
+      "quotedTweetText": "We’re working with Cursor on this incident, but it wasn’t a compromise of Anthropic’s systems or employee laptops. A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels are not affected and this only impacts Cursor users."
+    },
+    {
+      "tweetId": "2116188845746368602",
+      "role": "commentary",
+      "authorHandle": "amasad",
+      "url": "https://x.com/amasad/status/2116188845746368602",
+      "tweetedAt": "2026-10-30T15:21:52.000Z",
+      "bestBit": "From my perspective as a user, the official marketplace extension was compromised",
+      "text": "@alexalbert__ I understand it might not be your fault, but it’s dishonest to say it’s not the “official” extension. If I’m a cursor user and I installed the *official* Claude code extension, I would potentially get this update, no? From my perspective as a user, the official marketplace extension was compromised. \n\nIt’s honestly disappointing that your first response was to be defensive and split hairs instead of worrying about the impact on your users."
+    },
+    {
+      "tweetId": "2116323817060757632",
+      "role": "commentary",
+      "authorHandle": "feross",
+      "url": "https://x.com/feross/status/2116323817060757632",
+      "tweetedAt": "2026-10-31T00:18:12.000Z",
+      "bestBit": "The tampered build never touched npm, Open VSX, or the VS Code Marketplace",
+      "text": "Anthropic didn’t ship this. The tampered build never touched npm, Open VSX, or the VS Code Marketplace.\n\nA publisher name on a listing isn’t provenance.\n\nMore detail here: https://t.co/pOqmTt6tZC",
+      "quotedTweetText": "Massively underreported: an official Claude Code extension was compromised and installed backdoors on developer machines.\n\nCould it be behind the Binance hack? https://t.co/lODvfIc5AP"
+    },
+    {
+      "tweetId": "2116202468447269148",
+      "role": "analysis",
+      "authorHandle": "intcyberdigest",
+      "url": "https://x.com/IntCyberDigest/status/2116202468447269148",
+      "tweetedAt": "2026-10-30T16:16:00.000Z",
+      "bestBit": "Updating the poisoned Claude Code extension won't remove its backdoor",
+      "text": "‼️ WARNING: Updating the poisoned Claude Code extension won't remove its backdoor, Kevin Beaumont says.\n\nCursor, which served the bad build to up to 5,000 users, warns that even uninstalling it may not be enough.\n\nThe backdoor never lived only in the extension. On loading, it planted the attacker's SSH key and its own startup scripts, which keep trying to open a tunnel to the attacker every 60 seconds or so.\n\nAn update swaps the extension's files but leaves the key and the scripts in place."
+    },
+    {
+      "tweetId": "2116061589715689788",
+      "role": "analysis",
+      "authorHandle": "artemr",
+      "url": "https://x.com/ArtemR/status/2116061589715689788",
+      "tweetedAt": "2026-10-30T06:56:12.000Z",
+      "bestBit": "I've set this setting to 72 (hours), which is a much safer delay to install new updates to extensions than the default setting of 0 (immediate updates)",
+      "text": "Today's Claude extension compromise is a good reminder to do this. If you're using VSCode @code, Cursor @cursor_ai, or any other IDE built on VSCode, I would immediately enable extensions.installCooldownHours.\n\nI've set this setting to 72 (hours), which is a much safer delay to install new updates to extensions than the default setting of 0 (immediate updates).\n\nThis prevents extension updates from getting installed for 3 days, which would hopefully eliminate most of the risk from compromised updates. It's not foolproof, but it's better than no delay.\n\nHeck, set it to something even higher to be safer, like 336 (2 weeks)."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "malicious-claude-code-update-distributes-ssh-backdoors-to-5000-cursor-us-1184b6d0",
+    "title": "Malicious Claude Code Update Distributes SSH Backdoors to 5,000 Cursor Users",
+    "publishedAt": "2026-10-30T11:52:52.189Z",
+    "eventTimeApprox": "2026-10-30T08:59:37.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 48,
+    "authorCount": 29
+  }
+}

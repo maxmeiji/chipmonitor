@@ -1,0 +1,64 @@
+{
+  "slug": "databricks-memcurrent-memory-triples-ai-agent-pass-rates-57277a9b",
+  "title": "Databricks' MemCurrent Memory Triples AI Agent Pass Rates",
+  "publishedAt": "2026-10-20T21:09:50.914Z",
+  "eventTimeApprox": "2026-10-20T18:15:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DBRX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Databricks",
+      "hubKey": "databricks"
+    }
+  ],
+  "summary": "Production AI agents can now retain user preferences, prior corrections, and successful workflows across sessions to avoid restarting every interaction from zero. Databricks’ new MemCurrent architecture achieves this by tripling the agent pass rate on internal enterprise data benchmarks while utilizing 31% fewer tokens and running 26% faster. The system is currently available within the Genie product and as part of the company's Agent Bricks Memory offering.\n\nThe architecture combines episodic and derived memory using automatic context plugins, on-demand tools, and an offline \"dreaming\" pipeline for background memory consolidation. MemCurrent consistently maintains its position on the cost-accuracy Pareto frontier across three public benchmarks and internal company tests.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112598568624165296",
+      "role": "source",
+      "authorHandle": "databricks",
+      "url": "https://x.com/databricks/status/2112598568624165296",
+      "tweetedAt": "2026-10-20T17:35:23.000Z",
+      "bestBit": "triples the agent's pass rate while using 31% fewer tokens and running 26% faster",
+      "text": "Introducing MemCurrent, a persistent memory architecture designed to help production agents stop starting from zero.\n\nMemCurrent combines episodic memory with derived memory across three access patterns:\n\n• Plugins to log and load context automatically\n• Tools the agent calls on demand\n• An offline “dreaming” pipeline that consolidates memory in the background\n\nAgents carry forward user preferences, prior corrections, metric definitions and successful workflows instead of rediscovering them every session.\n\nOn our internal benchmark built from real enterprise data, MemCurrent triples the agent's pass rate while using 31% fewer tokens and running 26% faster. It's built into Agent Bricks' Memory offering and already powers memory in Genie.\n\nRead the research: https://t.co/AYGXOqrhkO"
+    },
+    {
+      "tweetId": "2112608765304578324",
+      "role": "support",
+      "authorHandle": "veronica3207",
+      "url": "https://x.com/veronica3207/status/2112608765304578324",
+      "tweetedAt": "2026-10-20T18:15:54.000Z",
+      "bestBit": "consistently stays on the cost-accuracy Pareto frontier on our internal and three public benchmarks",
+      "text": "Check out our latest research: MemCurrent, a persistent agent memory architecture, which consistently stays on the cost-accuracy Pareto frontier on our internal and three public benchmarks. Try it in the new Agent Bricks Memory and Genie  🚀",
+      "quotedTweetText": "Introducing MemCurrent, a persistent memory architecture designed to help production agents stop starting from zero.\n\nMemCurrent combines episodic memory with derived memory across three access patterns:\n\n• Plugins to log and load context automatically\n• Tools the agent calls on demand\n• An offline “dreaming” pipeline that consolidates memory in the background\n\nAgents carry forward user preferences, prior corrections, metric definitions and successful workflows instead of rediscovering them every session.\n\nOn our internal benchmark built from real enterprise data, MemCurrent triples the agent's pass rate while using 31% fewer tokens and running 26% faster. It's built into Agent Bricks' Memory offering and already powers memory in Genie.\n\nRead the research: https://t.co/AYGXOqrhkO"
+    }
+  ],
+  "isSuperseded": false
+}

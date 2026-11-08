@@ -1,0 +1,63 @@
+{
+  "slug": "waymo-expands-to-canada-with-2028-toronto-robotaxi-launch-03d6224a",
+  "title": "Waymo Expands to Canada With 2028 Toronto Robotaxi Launch",
+  "publishedAt": "2026-10-16T12:54:22.248Z",
+  "eventTimeApprox": "2026-10-16T11:54:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "canada",
+      "name": "Canada"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "All-electric driverless vehicles will begin operating on municipal roads in Toronto in the coming days to prepare for a future ride-hailing debut. Waymo aims to start serving public passengers by 2028 and is partnering with Element Fleet Management to facilitate the rollout in the region.\n\nThe expansion represents the company's first deployment of its autonomous taxi service in Canada. Initial vehicle activity will focus on laying the groundwork for the transportation network, including mapping the environment and testing navigation before commercial operations commence.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111042355671244871",
+      "role": "source",
+      "authorHandle": "waymo",
+      "url": "https://x.com/Waymo/status/2111042355671244871",
+      "tweetedAt": "2026-10-16T10:31:33.000Z",
+      "bestBit": "begin seeing Waymo’s all-electric vehicles driving through Toronto’s streets as we lay the groundwork for our ride-hailing service",
+      "text": "We’re bringing the magic of Waymo to Toronto! 🇨🇦 \n\nIn the coming days, you’ll begin seeing Waymo’s all-electric vehicles driving through Toronto’s streets as we lay the groundwork for our ride-hailing service. \n\nOur goal is to begin serving riders in 2028. \n\nSign up for future updates: https://t.co/ndrwYQlbZJ"
+    },
+    {
+      "tweetId": "2111076147656323539",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2111076147656323539",
+      "tweetedAt": "2026-10-16T12:45:50.000Z",
+      "bestBit": "launch its robotaxis in Toronto in 2028 in partnership with Element Fleet Management, the company's first deployment in Canada",
+      "text": "Waymo plans to launch its robotaxis in Toronto in 2028 in partnership with Element Fleet Management, the company's first deployment in Canada (Prathik Jayaprakash / Reuters)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

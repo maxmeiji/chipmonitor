@@ -1,0 +1,142 @@
+{
+  "slug": "update-anthropic-subscriptions-offer-5x-more-value-than-openais-94a079d6",
+  "title": "UPDATE: Anthropic Subscriptions Offer 5x More Value Than OpenAI’s",
+  "publishedAt": "2026-10-05T21:53:38.460Z",
+  "eventTimeApprox": "2026-09-29T11:46:41.500Z",
+  "isFreshStory": false,
+  "tweetCount": 87,
+  "authorCount": 54,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107210694970237017/HT5QPncXgAA-8M0-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107210694970237017/HT5QPncXgAA-8M0-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "kimmonismus",
+      "tweetUrl": "https://x.com/kimmonismus/status/2107210694970237017"
+    }
+  },
+  "summary": "A report analyzing usage limits reveals that Anthropic provides a larger amount of API-equivalent compute than OpenAI at every paid membership tier. SemiAnalysis found that a $20 Claude Pro plan provides approximately $1,178 of API-equivalent usage of the Opus 5.5 model, compared to $211 for ChatGPT Plus using GPT-6.1 Sol. This disparity extends to high-end tiers, where a $200 Anthropic plan delivers $11,726 in estimated API value, while OpenAI’s equivalent tier provides $2,084.\n\nThe findings follow OpenAI's reduction of the usage multiplier for its $200 Pro plan from 20x to 10x and a cut in GPT-6 Pro messages from 200 to 100 per week. OpenAI also recently launched a $500 Pro plan for Ultrafast access to its Codex and ChatGPT Work tools. While OpenAI staff characterized these shifts as a way to align subscriptions with model efficiency and API price reductions, users have criticized the changes as a move to end subsidies and increase costs for heavy compute users.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107204965710053510",
+      "role": "source",
+      "authorHandle": "semianalysis_",
+      "url": "https://x.com/SemiAnalysis_/status/2107204965710053510",
+      "tweetedAt": "2026-10-05T20:23:08.000Z",
+      "bestBit": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+      "text": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI\nLimit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXAI, MiniMax, Moonshot, Zdotai, Cursor, and Cognition \nhttps://t.co/2c7PNAAksb"
+    },
+    {
+      "tweetId": "2104823812042940713",
+      "role": "source",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2104823812042940713",
+      "tweetedAt": "2026-09-29T06:41:17.000Z",
+      "bestBit": "net out at half the dollar in API spend compared to the old Pro $200 plan",
+      "text": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.\n\n(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.\n(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.\n(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This week we introduced GPT-6 Sol and GPT-6 Luna at 50% of their previous price. Over time, we see prices go low enough that it makes sense for most to buy usage as needed without there being a significant gap between what you get in a subscription and what you get in the API for a dollar spent.\n(d) Tomorrow, we are adding more things to the subscription that won't draw on the usage, I won't reveal what that is yet.\n\nI wanted to be transparent before all the big announcements tomorrow. Lots of new exciting things are coming to the subscriptions that will make it super compelling, but I wanted to make sure to share this change ahead of time so you can all understand it before we shower you with good news.\n\nCodexingly,\nTibo"
+    },
+    {
+      "tweetId": "2104951965184925941",
+      "role": "source",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2104951965184925941",
+      "tweetedAt": "2026-09-29T15:10:31.000Z",
+      "bestBit": "changing the relative difference between plans to be Plus = 1X Pro 100 = 5X Pro 200 = 10X",
+      "text": "I’ll explain the new Pro 200 plan differently, before I start live tweeting from DevDay on things that are going out!\n\nToday we are going to ship a number of things that increase what you can do across the Plus and Pro plans. A lot of compute is online for this increase. As we increase the floor, we are changing the relative difference between plans to be\n\nPlus = 1X\nPro 100 = 5X\nPro 200 = 10X\n\nand we are reopening subscriptions for Pro 200 (we had paused it). If you have an existing plan you will keep the 20X multiplier for a bit and also receive a lot of additional credits because we know changes are hard even if it means that everyone will get more in the end."
+    },
+    {
+      "tweetId": "2105620750493450668",
+      "role": "support",
+      "authorHandle": "koltregaskes",
+      "url": "https://x.com/koltregaskes/status/2105620750493450668",
+      "tweetedAt": "2026-10-01T11:28:02.000Z",
+      "bestBit": "GPT-6 Pro messages drops from 200 to 100 per week",
+      "text": "Our GPT-6 Pro messages drops from 200 to 100 per week as well, by the way. https://t.co/v5HqW5iinV"
+    },
+    {
+      "tweetId": "2105703147184239042",
+      "role": "analysis",
+      "authorHandle": "pawelhuryn",
+      "url": "https://x.com/PawelHuryn/status/2105703147184239042",
+      "tweetedAt": "2026-10-01T16:55:27.000Z",
+      "bestBit": "For Claude, their Max 20x is subsidized twice as much",
+      "text": "We’ve all been hearing that subscriptions are cheaper than APIs, but I’d never seen the exact number.\n\nSo yesterday, I took several popular plans and burned a slice of their weekly allowance on purpose. I logged every model call and priced those calls at the vendor’s public API list price.\n\nWhile I couldn't test all subscription levels: \n\nAccording to OpenAI, their monthly allowance is now directly proportional to the subscription price:\n\n- Plus ($20/mo) = the reference OpenAI monthly allowance\n- Pro 100 ($100/mo) = 5x monthly allowance - tested\n- Pro 200 ($200/mo) = 10x monthly allowance (just downgraded from 20x)\n\nFor Claude, their Max 20x is subsidized twice as much:\n\n- Pro ($20/mo) = the reference Claude monthly allowance\n- Max 5x ($100/mo) = 5x monthly allowance\n- Max 20x ($200/mo) = 20x monthly allowance (not 10x) - tested\n\nAccording to Meta, for Muse Code:\n\n- Everyday Usage ($5/mo) = the reference Muse monthly allowance\n- High Usage ($15/mo) = 5x monthly allowance (not 3x) - tested\n- Power Usage ($50/mo) = 20x monthly allowance (not 10x)\n\nWhat does all this mean? (1/4) 🧵"
+    },
+    {
+      "tweetId": "2104830224785605105",
+      "role": "commentary",
+      "authorHandle": "kunchenguid",
+      "url": "https://x.com/kunchenguid/status/2104830224785605105",
+      "tweetedAt": "2026-09-29T07:06:46.000Z",
+      "bestBit": "this will give anthropic enough room to cut their subscription value as well",
+      "text": "oh no - codex $200 subscription's dollar value is being cut in half\n\nin their defense, openai's models are indeed quite efficient. but anthropic has caught up too\n\nand the big cut is only the first order effect\n\nthe second order effect is that this will give anthropic enough room to cut their subscription value as well\n\nthe third order effect is that the labs have found a way to gradually end the subsidization for consumers subscriptions. just do this a few more times, and we'll see the subscriptions charging the same as API pricing\n\ni predict that in about a year, we'll refer to what we had as the good old days",
+      "quotedTweetText": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.\n\n(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.\n(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.\n(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This week we introduced GPT-6 Sol and GPT-6 Luna at 50% of their previous price. Over time, we see prices go low enough that it makes sense for most to buy usage as needed without there being a significant gap between what you get in a subscription and what you get in the API for a dollar spent.\n(d) Tomorrow, we are adding more things to the subscription that won't draw on the usage, I won't reveal what that is yet.\n\nI wanted to be transparent before all the big announcements tomorrow. Lots of new exciting things are coming to the subscriptions that will make it super compelling, but I wanted to make sure to share this change ahead of time so you can all understand it before we shower you with good news.\n\nCodexingly,\nTibo"
+    },
+    {
+      "tweetId": "2104877941494583622",
+      "role": "commentary",
+      "authorHandle": "jun_song",
+      "url": "https://x.com/jun_song/status/2104877941494583622",
+      "tweetedAt": "2026-09-29T10:16:22.000Z",
+      "bestBit": "Cutting your usage in half is the exact same thing as doubling the price",
+      "text": "Cutting your usage in half is the exact same thing as doubling the price.\n\nAnd they already slashed our limits a few months ago. Now they are cutting what was left in half again.",
+      "quotedTweetText": "Translation : we will cut down the usage limit.\n\nThere is no reason to use Codex anymore."
+    },
+    {
+      "tweetId": "2104845680611078201",
+      "role": "commentary",
+      "authorHandle": "scaling01",
+      "url": "https://x.com/scaling01/status/2104845680611078201",
+      "tweetedAt": "2026-09-29T08:08:11.000Z",
+      "bestBit": "re-open $200 plan subscriptions B: serve cheaper slop models C: reduce limits",
+      "text": "&gt; how can we squeeze the most amount of money out of this?\n\n&gt; A: re-open $200 plan subscriptions\n&gt; B: serve cheaper slop models\n&gt; C: reduce limits\n\n&gt; ALL OF THE ABOVE 😩",
+      "quotedTweetText": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.\n\n(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.\n(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.\n(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This week we introduced GPT-6 Sol and GPT-6 Luna at 50% of their previous price. Over time, we see prices go low enough that it makes sense for most to buy usage as needed without there being a significant gap between what you get in a subscription and what you get in the API for a dollar spent.\n(d) Tomorrow, we are adding more things to the subscription that won't draw on the usage, I won't reveal what that is yet.\n\nI wanted to be transparent before all the big announcements tomorrow. Lots of new exciting things are coming to the subscriptions that will make it super compelling, but I wanted to make sure to share this change ahead of time so you can all understand it before we shower you with good news.\n\nCodexingly,\nTibo"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-openai-launches-500-pro-plan-for-ultrafast-codex-access-781b460f",
+    "title": "UPDATE: OpenAI Launches $500 Pro Plan for Ultrafast Codex Access",
+    "publishedAt": "2026-09-29T18:38:59.469Z",
+    "eventTimeApprox": "2026-09-29T06:41:17.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 70,
+    "authorCount": 46
+  }
+}

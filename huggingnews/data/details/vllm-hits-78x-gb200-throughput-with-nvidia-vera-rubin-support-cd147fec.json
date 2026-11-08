@@ -1,0 +1,66 @@
+{
+  "slug": "vllm-hits-78x-gb200-throughput-with-nvidia-vera-rubin-support-cd147fec",
+  "title": "vLLM Hits 7.8x GB200 Throughput With NVIDIA Vera Rubin Support",
+  "publishedAt": "2026-10-10T02:39:15.795Z",
+  "eventTimeApprox": "2026-10-10T02:03:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "0100",
+      "kind": "equity",
+      "role": "related",
+      "name": "MiniMax Group",
+      "hubKey": "minimax"
+    }
+  ],
+  "summary": "vLLM has added compatibility for NVIDIA's latest Vera Rubin GPU architecture to its open-source inference library. Early tests show that the platform delivers more than 7.8x the throughput of the GB200 when running the MiniMax M3 model on AgentX, with the integration developed via a collaboration between the vLLM community, Inferact, Red Hat and NVIDIA.\n\nThe updated support is available now through the vllm/vllm-openai:cu134-nightly build. This version is compatible with several large language models, including GLM, Kimi, DeepSeek and MiniMax, allowing developers to leverage the new hardware for higher throughput in production environments.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108736734309896625",
+      "role": "source",
+      "authorHandle": "vllm_project",
+      "url": "https://x.com/vllm_project/status/2108736734309896625",
+      "tweetedAt": "2026-10-10T01:49:50.000Z",
+      "bestBit": "more than 7.8x the throughput of GB200 on MiniMax M3 on AgentX",
+      "text": "vLLM now supports NVIDIA Vera Rubin. The early results show more than 7.8x the throughput of GB200 on MiniMax M3 on AgentX.\n\n@inferact, @NVIDIAAI, @RedHat_AI, and the vLLM community have been bringing vLLM up on Rubin since it was announced. Here is where things stand.\n\n🧵 1/5 https://t.co/iN239Tytko"
+    },
+    {
+      "tweetId": "2108736805646520450",
+      "role": "support",
+      "authorHandle": "vllm_project",
+      "url": "https://x.com/vllm_project/status/2108736805646520450",
+      "tweetedAt": "2026-10-10T01:50:07.000Z",
+      "bestBit": "try vLLM on Rubin today with vllm/vllm-openai:cu134-nightly, which runs DeepSeek, Kimi, GLM, and MiniMax models",
+      "text": "You can try vLLM on Rubin today with vllm/vllm-openai:cu134-nightly, which runs DeepSeek, Kimi, GLM, and MiniMax models. Thank you to everyone who contributed, and we look forward to further improvements of vLLM on Vera Rubin.\n\nFull post: https://t.co/8x1Nqx1p9u\n\n🧵 5/5"
+    }
+  ],
+  "isSuperseded": false
+}

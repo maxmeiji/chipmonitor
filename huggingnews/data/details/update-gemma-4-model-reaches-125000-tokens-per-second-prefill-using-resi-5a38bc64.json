@@ -1,0 +1,79 @@
+{
+  "slug": "update-gemma-4-model-reaches-125000-tokens-per-second-prefill-using-resi-5a38bc64",
+  "title": "UPDATE: Gemma 4 Model Reaches 125,000 Tokens per Second Prefill Using Resin Tool",
+  "publishedAt": "2026-10-28T13:25:52.875Z",
+  "eventTimeApprox": "2026-10-26T17:28:17.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115429450833699165/HVuD3vvWwAA0gqv-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115429450833699165/HVuD3vvWwAA0gqv-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "ekzhang1",
+      "tweetUrl": "https://x.com/ekzhang1/status/2115429450833699165"
+    }
+  },
+  "summary": "A developer used the Resin environment and an Astra agent to push the processing speed of Google's gemma-4-E2B-it model to new levels on an Nvidia A100 GPU. The setup achieved a prefill throughput of 125,000 tokens per second (tok/s) per GPU and a decode rate of 4,000 tok/s per GPU, allowing for a delivery speed of 130 tok/s per user.\n\nThe configuration was built from scratch in four hours, featuring low-batch decode optimizations such as fusing Triton and cuBLAS GELU kernels and stripping assistant key-value caches to reduce latency from 12ms to 1ms. These results surpass Google's reported benchmark for the same model, where the use of Gemini 4 Argon and vLLM reached a throughput of 108,000 tok/s.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114757896563253305",
+      "role": "source",
+      "authorHandle": "googlegemma",
+      "url": "https://x.com/googlegemma/status/2114757896563253305",
+      "tweetedAt": "2026-10-26T16:35:47.000Z",
+      "bestBit": "Gemini 4 Argon enabled a 2.85x speedup on an A100 via vLLM, jumping from ~37,900 to 108,000+ tokens/sec on gemma-4-E2B-it.",
+      "text": "Speeding up Gemma!\n\nGemini 4 Argon enabled a 2.85x speedup on an A100 via vLLM, jumping from ~37,900 to 108,000+ tokens/sec on gemma-4-E2B-it.\n\n✅ 100% token parity\n✅ Zero quality drop\n✅ Done in days, not months\n\nSee the exact changes across 8 PRs: https://t.co/oaIp2SiJMA https://t.co/Kr7Opmhkb6"
+    },
+    {
+      "tweetId": "2115429450833699165",
+      "role": "source",
+      "authorHandle": "ekzhang1",
+      "url": "https://x.com/ekzhang1/status/2115429450833699165",
+      "tweetedAt": "2026-10-28T13:04:18.000Z",
+      "bestBit": "125K tok/s/GPU prefill; 4K tok/s/GPU decode at 130 tok/s/user",
+      "text": "Was curious and haven’t optimized small model on A100 before, so I tried it in Resin\n\n125K tok/s/GPU prefill;\n4K tok/s/GPU decode at 130 tok/s/user\n\nAgent built the E2B runner from scratch. It found some neat decode optimizations at low batch too! (high batch = vllm though)\n\n- strip assistant kv (12ms->1ms)\n- fuse a bunch of cublas gelu and misc triton kernels (~1.6x decode at C=1)\n- FA2 small batch planning and split-k (~11x faster)\n\nTook about 4 hours with Astra",
+      "quotedTweetText": "Speeding up Gemma!\n\nGemini 4 Argon enabled a 2.85x speedup on an A100 via vLLM, jumping from ~37,900 to 108,000+ tokens/sec on gemma-4-E2B-it.\n\n✅ 100% token parity\n✅ Zero quality drop\n✅ Done in days, not months\n\nSee the exact changes across 8 PRs: https://t.co/oaIp2SiJMA https://t.co/Kr7Opmhkb6"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "google-gemma-inference-hits-108000-tokens-per-second-via-gemini-4-argon-0be801df",
+    "title": "Google Gemma Inference Hits 108,000 Tokens per Second via Gemini 4 Argon",
+    "publishedAt": "2026-10-26T17:38:14.481Z",
+    "eventTimeApprox": "2026-10-26T17:18:50.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

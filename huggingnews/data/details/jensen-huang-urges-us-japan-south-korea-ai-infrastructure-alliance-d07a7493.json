@@ -1,0 +1,74 @@
+{
+  "slug": "jensen-huang-urges-us-japan-south-korea-ai-infrastructure-alliance-d07a7493",
+  "title": "Jensen Huang Urges US Japan South Korea AI Infrastructure Alliance",
+  "publishedAt": "2026-10-02T21:53:39.981Z",
+  "eventTimeApprox": "2026-10-02T20:01:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "geopolitics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106118165734580708/HTpvQKgakAA2yZN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106118165734580708/HTpvQKgakAA2yZN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "nvidianewsroom",
+      "tweetUrl": "https://x.com/nvidianewsroom/status/2106118165734580708"
+    }
+  },
+  "summary": "Nvidia's chief executive highlighted the complementary strengths of three key economies to accelerate the production of specialized semiconductors. Speaking alongside Senator Hagerty at the U.S.-Japan-South Korea Trilateral Dialogue, Jensen Huang argued that joint efforts in computing, memory and manufacturing are essential to build the next generation of AI infrastructure and create new industrial opportunities globally.\n\nThe event followed a ceremony where The Korea Society presented Huang with the 2026 Van Fleet Award for his role in strengthening relations between the U.S. and South Korea. Nvidia has maintained corporate and technical partnerships within South Korea for more than 25 years.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106118165734580708",
+      "role": "source",
+      "authorHandle": "nvidianewsroom",
+      "url": "https://x.com/nvidianewsroom/status/2106118165734580708",
+      "tweetedAt": "2026-10-02T20:24:35.000Z",
+      "bestBit": "highlight the three countries’ complementary strengths in computing, memory, semiconductor manufacturing and materials",
+      "text": "Today @JensenHuang joined @SenatorHagerty at the U.S.–Japan–South Korea Trilateral Dialogue to highlight the three countries’ complementary strengths in computing, memory, semiconductor manufacturing and materials.\n\nTogether, these strengths can help build the next generation of AI infrastructure, strengthen industries and create new opportunities around the world."
+    },
+    {
+      "tweetId": "2106133259663089977",
+      "role": "source",
+      "authorHandle": "nvidia",
+      "url": "https://x.com/nvidia/status/2106133259663089977",
+      "tweetedAt": "2026-10-02T21:24:33.000Z",
+      "bestBit": "honoring @JensenHuang with the 2026 Van Fleet Award and celebrating the U.S.–Korea partnership",
+      "text": "Thank you to The Korea Society for honoring @JensenHuang with the 2026 Van Fleet Award and celebrating the U.S.–Korea partnership.\n\nWe’ve worked with Korea for more than 25 years, and we’re proud of what we’ve built together. Looking forward to what comes next.",
+      "quotedTweetText": "The Korea Society thanks all distinguished guests who joined us for an unforgettable evening on Sept 28 celebrating the U.S.-Korea partnership and 2026 Van Fleet Awardee, @JensenHuang (@NVIDIA).\n\nOur sincere thanks to our generous sponsors who made the 2026 Annual Gala possible. https://t.co/XiZqWI0tiA"
+    }
+  ],
+  "isSuperseded": false
+}

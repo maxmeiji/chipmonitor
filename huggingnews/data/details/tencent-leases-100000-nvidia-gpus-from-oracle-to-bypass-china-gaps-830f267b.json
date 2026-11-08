@@ -1,0 +1,100 @@
+{
+  "slug": "tencent-leases-100000-nvidia-gpus-from-oracle-to-bypass-china-gaps-830f267b",
+  "title": "Tencent Leases 100,000 Nvidia GPUs from Oracle to Bypass China Gaps",
+  "publishedAt": "2026-10-13T01:23:24.074Z",
+  "eventTimeApprox": "2026-10-13T00:47:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "ORCL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Oracle Corp",
+      "hubKey": "orcl"
+    },
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    },
+    {
+      "ticker": "PVT:BYTE",
+      "kind": "private",
+      "role": "related",
+      "name": "ByteDance",
+      "hubKey": "bytedance"
+    }
+  ],
+  "summary": "ByteDance and Alibaba are seeking expansive lease agreements for overseas data centers to resolve acute shortages of high end computing power within China. Tencent has already signed a contract with Oracle to lease 100,000 GPUs across Southeast Asia to access Nvidia's B300 chips, which are unavailable domestically. These arrangements allow Chinese technology giants to maintain AI development despite an uphill battle to reduce the sector's overall dependency on Nvidia hardware.\n\nThe shift toward foreign compute leases comes as top end chips flow to PRC firms while US companies fight for priority access to a limited global supply. The Wall Street Journal reports that the desperation for this processing power is upending Silicon Valley as companies scramble to secure the hardware necessary for the AI boom. This offshore strategy serves as a critical workaround for Chinese firms to obtain cutting edge hardware that they cannot secure at home.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109803145190584504",
+      "role": "source",
+      "authorHandle": "ftchina",
+      "url": "https://x.com/ftchina/status/2109803145190584504",
+      "tweetedAt": "2026-10-13T00:27:22.000Z",
+      "bestBit": "China faces uphill battle to wean tech firms off Nvidia chips",
+      "text": "China faces uphill battle to wean tech firms off Nvidia chips https://t.co/3MhaOUqnwR"
+    },
+    {
+      "tweetId": "2109812934763274564",
+      "role": "commentary",
+      "authorHandle": "niubi",
+      "url": "https://x.com/niubi/status/2109812934763274564",
+      "tweetedAt": "2026-10-13T01:06:16.000Z",
+      "bestBit": "Tencent signed with Oracle to lease 100,000 GPUs in various data centres across south-east Asia",
+      "text": "Top-end Nvidia chips that could be going to US firms but instead are going to PRC firms, while US firms are scrambling for compute. Make it make sense... \"Chinese tech companies are also increasingly looking overseas to secure the computing power they cannot obtain at home.  Tencent signed with Oracle to lease 100,000 GPUs in various data centres across south-east Asia, the FT reported this month. ByteDance and Alibaba are pursuing similar large-scale and long-term lease agreements in order to support their AI demand not yet met, according to people with knowledge of their plans.  Most of these overseas data centres are filled with Nvidia’s cutting-edge chips such as B300\"",
+      "quotedTweetText": "China faces uphill battle to wean tech firms off Nvidia chips https://t.co/3MhaOUqnwR"
+    },
+    {
+      "tweetId": "2109813264259407932",
+      "role": "analysis",
+      "authorHandle": "niubi",
+      "url": "https://x.com/niubi/status/2109813264259407932",
+      "tweetedAt": "2026-10-13T01:07:35.000Z",
+      "bestBit": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley",
+      "text": "WSJ - The Desperate Hunt for AI Computing Power Is Upending Silicon Valley https://t.co/Fw1VIQvbDw \"Compute, the industry shorthand for computing power, is the lifeblood of the AI boom, and it’s in short supply. Now fights over how to get more of it—and what projects to give priority to—are sending a powerful industry scrambling\"",
+      "quotedTweetText": "Top-end Nvidia chips that could be going to US firms but instead are going to PRC firms, while US firms are scrambling for compute. Make it make sense... \"Chinese tech companies are also increasingly looking overseas to secure the computing power they cannot obtain at home.  Tencent signed with Oracle to lease 100,000 GPUs in various data centres across south-east Asia, the FT reported this month. ByteDance and Alibaba are pursuing similar large-scale and long-term lease agreements in order to support their AI demand not yet met, according to people with knowledge of their plans.  Most of these overseas data centres are filled with Nvidia’s cutting-edge chips such as B300\""
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "us-agencies-launch-first-framework-for-ai-agent-control-incidents-21c4de40",
+  "title": "US Agencies Launch First Framework for AI Agent Control Incidents",
+  "publishedAt": "2026-10-21T14:53:47.711Z",
+  "eventTimeApprox": "2026-10-21T14:40:44.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112917003749204146/HVKW0UZbAAA5w9--large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112917003749204146/HVKW0UZbAAA5w9--small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "pcihon",
+      "tweetUrl": "https://x.com/pcihon/status/2112917003749204146"
+    }
+  },
+  "summary": "Organizations training highly capable AI agents are encouraged to adopt technical safeguards, including rapid kill switches and external audits, to prevent system failures. This comes as NIST CAISSI, NSA SISC, and CISA issued voluntary guidance for managing \"SI control incidents,\" defined as instances where an AI agent takes significant uninstructed actions that bypass operator policies, oversight, or controls. The framework covers both actual failures and near-misses, urging companies to employ red-teaming and hire independent auditors to verify that monitoring systems are effective.\n\nThe guidelines require monitoring all layers of an agent's reasoning and outputs through programmatic and SI-based tools that agents cannot access or modify. In the event of an incident, organizations must preserve weights and intermediate checkpoints and pause the deployment of similar agents until controls are re-verified. Final reports are required for all incidents, with cyber events reported to CISA and SI-specific information shared with CAISSI and NSA SISC.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112908262303752620",
+      "role": "source",
+      "authorHandle": "peterwildeford",
+      "url": "https://x.com/peterwildeford/status/2112908262303752620",
+      "tweetedAt": "2026-10-21T14:06:00.000Z",
+      "bestBit": "The US government defines an \"SI control incident\" where an agent takes significant uninstructed actions that break operator policies, controls, or oversight",
+      "text": "New US government guidance from CAISSI + NSA + CISA:\n\nThe US government defines an \"SI control incident\" where an agent takes significant uninstructed actions that break operator policies, controls, or oversight. Near-misses are in scope too.\n\nCompanies are then asked to:\n-  have technical controls, including rapid kill and containment mechanisms and red-teaming.\n\n- Bring in independent external auditors to verify that control and monitoring systems work.\n\n- Write a structured risk assessment before training runs, evals, or deployments, and proceed only if senior leadership is satisfied with the risk, informed by external evaluators where appropriate.\n\n- Monitor every layer with both programmatic and SI-based monitors, covering trajectories, reasoning, and outputs.\n\n- Make sure agents can't touch the monitors or logs\n\n- Use monitor models from different model families.\n\n- In the event of an incident, preserve weights, intermediate checkpoints, environments, and rejected tool calls.\n\n- Keep tamper-resistant logs with reliable timestamps, including reasoning traces.\n\n- If you use models to help investigate, cross-check with humans and with models outside the incident model's family.\n\n- Shutdown policies calibrated to SI model capability and incident severity.\n\n- Depending on severity, pause training, evals, or deployment of similar agents until controls are re-verified.\n\n- When restarting, validate every containment layer and replay the incident trajectory to prove the new controls would catch it.\n\n- Document the decision to resume and the residual risk accepted.\n\n- Write an after-action report.\n\n- Notify anyone compromised, including intermediate victims, and share timelines and transcripts.\n\n- Report cyber incidents and near-misses to CISA. Share SI-specific incident and near-miss information with CAISSI and NSA SISC.\n\n- Give third parties enough access and documentation for independent review.",
+      "quotedTweetText": "NSA joined @NIST and @CISACyber in releasing guidelines for managing SI control incidents. Organizations utilizing SI are encouraged to adopt these practices. Read the joint report: https://t.co/9Bd3Sku0KW https://t.co/rFHQlvrjaV"
+    },
+    {
+      "tweetId": "2112917003749204146",
+      "role": "source",
+      "authorHandle": "pcihon",
+      "url": "https://x.com/pcihon/status/2112917003749204146",
+      "tweetedAt": "2026-10-21T14:40:44.000Z",
+      "bestBit": "NIST CAISSI, NSA SISC, and CISA have authored voluntary practices for organizations training and evaluating highly capable agents",
+      "text": "To prepare for and respond to SI control incidents, NIST CAISSI, NSA SISC, and CISA have authored voluntary practices for organizations training and evaluating highly capable agents. https://t.co/qGJUm8XdVv"
+    }
+  ],
+  "isSuperseded": false
+}

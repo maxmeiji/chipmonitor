@@ -1,0 +1,81 @@
+{
+  "slug": "world-launches-world-id-and-zoom-security-tools-for-banks-ee8269b4",
+  "title": "World Launches World ID and Zoom Security Tools for Banks",
+  "publishedAt": "2026-10-19T01:53:50.416Z",
+  "eventTimeApprox": "2026-10-19T01:10:09.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ZM",
+      "kind": "equity",
+      "role": "related",
+      "name": "Zoom Communications, Inc. Class A Common Stock",
+      "hubKey": "zm"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111988207617552792/HU9KFPaagAAwyMc-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111988207617552792/HU9KFPaagAAwyMc-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "laurashin",
+      "tweetUrl": "https://x.com/laurashin/status/2111988207617552792"
+    }
+  },
+  "summary": "A beta period that began in April has concluded for a new system designed to detect fraudulent synthetic media during video calls. World is packaging this Zoom deepfake check, the World ID identity app and its AI-agent tools into a single bundle for the financial services sector to combat bots and fraud.\n\nThe offering shifts the Zoom verification tool to general availability to help banks secure digital transactions and verify users. By consolidating these identity and AI tools, World provides financial firms with a mechanism to prevent impersonation and ensure that participants in a process are unique human users.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111988207617552792",
+      "role": "source",
+      "authorHandle": "laurashin",
+      "url": "https://x.com/laurashin/status/2111988207617552792",
+      "tweetedAt": "2026-10-19T01:10:02.000Z",
+      "bestBit": "World is packaging its Zoom deepfake check, the World ID app and its AI-agent tools into one offering for banks and financial firms",
+      "text": "World is packaging its Zoom deepfake check, the World ID app and its AI-agent tools into one offering for banks and financial firms. World says World ID for Zoom is now generally available after an April beta.\n\nhttps://t.co/T6h1z3KsUU https://t.co/DbeDtfiijR"
+    },
+    {
+      "tweetId": "2111988237497463039",
+      "role": "support",
+      "authorHandle": "theblockco",
+      "url": "https://x.com/TheBlockCo/status/2111988237497463039",
+      "tweetedAt": "2026-10-19T01:10:09.000Z",
+      "bestBit": "launches World ID suite for banks, makes Zoom deepfake check generally available",
+      "text": "World launches World ID suite for banks, makes Zoom deepfake check generally available https://t.co/sYpztJjqlz"
+    }
+  ],
+  "isSuperseded": false
+}

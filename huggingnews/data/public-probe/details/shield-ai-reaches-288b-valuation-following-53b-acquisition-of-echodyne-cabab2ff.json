@@ -1,0 +1,79 @@
+{
+  "slug": "shield-ai-reaches-288b-valuation-following-53b-acquisition-of-echodyne-cabab2ff",
+  "title": "Shield AI Reaches $28.8B Valuation Following $5.3B Acquisition of Echodyne",
+  "publishedAt": "2026-11-05T16:39:51.084Z",
+  "eventTimeApprox": "2026-11-05T16:23:41.500Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "startups",
+    "business",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:SHAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "Shield AI",
+      "hubKey": "shield-ai"
+    },
+    {
+      "ticker": "BX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Blackstone Inc.",
+      "hubKey": "bx"
+    },
+    {
+      "ticker": "JPM",
+      "kind": "equity",
+      "role": "related",
+      "name": "JPMorgan Chase & Co.",
+      "hubKey": "jpm"
+    }
+  ],
+  "summary": "The defense technology company Shield AI is buying radar maker Echodyne in a deal valued at $5.3B to expand its Mission Systems business. To finance the acquisition and scale its operations, Shield AI is raising $2.5B in new capital, including a $1B Series H round that brings the startup's valuation to $28.8B.\n\nThe purchase adds software-defined radar technology and new manufacturing capacity to Shield AI's portfolio of counter-drone and security systems. The funding round was co-led by Disruptive Tech and Innovation X Capital, and included a structured equity investment from Blackstone as well as participation from Advent Intl and the Strategic Investment Group of JPMorganChase's Security and Resiliency Initiative.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118376067098407118",
+      "role": "source",
+      "authorHandle": "rebeccatorrenc5",
+      "url": "https://x.com/RebeccaTorrenc5/status/2118376067098407118",
+      "tweetedAt": "2026-11-05T16:13:06.000Z",
+      "bestBit": "Shield is raising $2.5 billion for the effort, including $1 billion in Series H funding.",
+      "text": "Exclusive: Shield AI is rocketing to a $28.8 billion valuation with new funding for its latest acquisition.\n\nThe defense tech startup is buying radar company Echodyne for $5.3 billion. Shield is raising $2.5 billion for the effort, including $1 billion in Series H funding.👇"
+    },
+    {
+      "tweetId": "2118380348861993113",
+      "role": "source",
+      "authorHandle": "shieldaitech",
+      "url": "https://x.com/shieldaitech/status/2118380348861993113",
+      "tweetedAt": "2026-11-05T16:30:07.000Z",
+      "bestBit": "Echodyne’s industry-leading technology is used in hundreds of counter-drone and security systems worldwide, where it helps track drones, secure airspace, and protect people and infrastructure.",
+      "text": "Shield is acquiring Echodyne to expand our Mission Systems business with software-defined radars, engineering expertise and manufacturing capacity. \n\nThe $5.3B transaction is supported by a $2.5B raise, including Series H funding at a $28.8B valuation, and will accelerate our efforts to meet growing demand for multi-mission capabilities. \n\nEchodyne’s industry-leading technology is used in hundreds of counter-drone and security systems worldwide, where it helps track drones, secure airspace, and protect people and infrastructure. \n\nFull release: https://t.co/y2R7LxRZ0Y \n\nFunding includes a structured equity investment from @Blackstone and a Series H co-led by @disruptivetech and Innovation X Capital, with participation from @adventintl, the Strategic Investment Group of JPMorganChase's Security and Resiliency Initiative, @SnowpointVC, Apandion, Center15 Capital, and others. \n\nAutonomy for the world. The greatest victory requires no war."
+    }
+  ],
+  "isSuperseded": false
+}

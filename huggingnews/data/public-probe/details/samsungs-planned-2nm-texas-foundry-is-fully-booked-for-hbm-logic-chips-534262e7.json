@@ -1,0 +1,116 @@
+{
+  "slug": "samsungs-planned-2nm-texas-foundry-is-fully-booked-for-hbm-logic-chips-534262e7",
+  "title": "Samsung's Planned 2nm Texas Foundry Is Fully Booked for HBM Logic Chips",
+  "publishedAt": "2026-11-06T09:52:48.909Z",
+  "eventTimeApprox": "2026-11-03T12:53:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMD",
+      "kind": "equity",
+      "role": "related",
+      "name": "Advanced Micro Devices",
+      "hubKey": "amd"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "TSM",
+      "kind": "equity",
+      "role": "related",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "hubKey": "tsm"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117562142358683918/HWMXijQbYAAVP28-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117562142358683918/HWMXijQbYAAVP28-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2117562142358683918"
+    }
+  },
+  "summary": "The chipmaker's newest facility in Taylor will start receiving production equipment in 2029, with mass manufacturing of semiconductors slated to begin a year later. The plant's 2nm process line, used to create the base logic layers for high bandwidth memory (HBM) stacks, is already fully reserved for contracts with Nvidia and AMD.\n\nAMD is expected to account for the majority of the fab's output for its next-generation HBM components, which now require advanced foundry nodes rather than traditional DRAM processes to maintain speed. While Nvidia has also secured capacity at the site, the company continues to use TSMC for its custom HBM base die needs.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117574524724199797",
+      "role": "source",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2117574524724199797",
+      "tweetedAt": "2026-11-03T11:08:03.000Z",
+      "bestBit": "Samsung’s second Taylor foundry fab is already fully booked for AMD and NVIDIA HBM base dies—even before construction begins",
+      "text": "Korean media reports that Samsung’s second Taylor foundry fab is already fully booked for AMD and NVIDIA HBM base dies—even before construction begins. AMD reportedly accounts for most of the volume.\n\nhttps://t.co/i0iWZZE1fW"
+    },
+    {
+      "tweetId": "2118158545199751393",
+      "role": "support",
+      "authorHandle": "beth_kindig",
+      "url": "https://x.com/Beth_Kindig/status/2118158545199751393",
+      "tweetedAt": "2026-11-05T01:48:45.000Z",
+      "bestBit": "Samsung’s second fab in Taylor, Texas is reportedly fully booked before mass production kicks off in 2030",
+      "text": "Samsung’s second fab in Taylor, Texas is reportedly fully booked before mass production kicks off in 2030, with HBM base dies for AMD $AMD accounting for the majority of output, followed by base dies for Nvidia $NVDA. \n\n$SKHY $MU"
+    },
+    {
+      "tweetId": "2118637031115088145",
+      "role": "commentary",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2118637031115088145",
+      "tweetedAt": "2026-11-06T09:30:05.000Z",
+      "bestBit": "AMD will put its next generation HBM base dies on Samsung's 2nm line at the Taylor, Texas fab that is still under construction",
+      "text": "According to Chinese tech media, Samsung Foundry just landed a huge vote of confidence.\n\nReports say $AMD will put its next generation HBM base dies on Samsung's 2nm line at the Taylor, Texas fab that is still under construction.\n\nBase dies are the logic chips under the HBM stack. As speeds climb, they need advanced foundry nodes, not old DRAM processes.\n\nTaylor Fab 2 is planned for 2nm, with tools arriving around 2029 and volume later. Reports say AMD is taking most of the booked capacity.\n\nNvidia still prefers TSMC for custom HBM base dies. Samsung got AMD.\n\nThat is a real crack in the TSMC wall, and it ties Samsung's foundry directly into the HBM boom.\n\n$AMD $NVDA $TSM",
+      "quotedTweetText": "AI and high-performance computing chips made up 68% of $TSM's revenue last quarter, up from 57% a year earlier (Save this).\n\nSmartphones fell from 30% to 21% over the same stretch.\n\nTSMC brought in $46.72B in the third quarter, up 41% from a year ago, and HPC revenue alone rose 22% from the quarter before.\n\n79% of its wafer revenue now comes from 7nm and smaller chips. Its newest 2nm process jumped to 8%, from 3% the quarter before.\n\nA few years ago smartphones were TSMC's biggest business. Now the world's largest chipmaker gets most of its sales from data centers, and the phone share keeps shrinking."
+    },
+    {
+      "tweetId": "2117633182627504170",
+      "role": "commentary",
+      "authorHandle": "stevehou",
+      "url": "https://x.com/stevehou/status/2117633182627504170",
+      "tweetedAt": "2026-11-03T15:01:09.000Z",
+      "bestBit": "\"Sold out\" before construction has even begun",
+      "text": "Damn. \"Sold out\" before construction has even begun.",
+      "quotedTweetText": "Korean media reports that Samsung’s second Taylor foundry fab is already fully booked for AMD and NVIDIA HBM base dies—even before construction begins. AMD reportedly accounts for most of the volume.\n\nhttps://t.co/i0iWZZE1fW"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "amd-and-nvidia-secure-all-initial-capacity-at-samsungs-newest-texas-fab-f311a258",
+    "title": "AMD and Nvidia Secure All Initial Capacity at Samsung's Newest Texas Fab",
+    "publishedAt": "2026-11-03T11:52:53.954Z",
+    "eventTimeApprox": "2026-11-03T11:08:03.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "business",
+      "ai"
+    ],
+    "tweetCount": 6,
+    "authorCount": 6
+  }
+}

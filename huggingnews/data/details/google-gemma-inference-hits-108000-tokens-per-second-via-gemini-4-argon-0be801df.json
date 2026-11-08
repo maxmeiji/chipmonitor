@@ -1,0 +1,66 @@
+{
+  "slug": "google-gemma-inference-hits-108000-tokens-per-second-via-gemini-4-argon-0be801df",
+  "title": "Google Gemma Inference Hits 108,000 Tokens per Second via Gemini 4 Argon",
+  "publishedAt": "2026-10-26T17:38:14.481Z",
+  "eventTimeApprox": "2026-10-26T17:18:50.500Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Google's latest optimization for the gemma-4-E2B-it model has improved processing performance by 2.85x on Nvidia A100 GPUs. Using the vLLM framework and Gemini 4 Argon, the model's throughput increased from approximately 37,900 to over 108,000 tokens per second.\n\nThe acceleration was implemented across 8 pull requests over several days. The update maintained 100% token parity with no drop in quality.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114757896563253305",
+      "role": "source",
+      "authorHandle": "googlegemma",
+      "url": "https://x.com/googlegemma/status/2114757896563253305",
+      "tweetedAt": "2026-10-26T16:35:47.000Z",
+      "bestBit": "Gemini 4 Argon enabled a 2.85x speedup on an A100 via vLLM, jumping from ~37,900 to 108,000+ tokens/sec on gemma-4-E2B-it.",
+      "text": "Speeding up Gemma!\n\nGemini 4 Argon enabled a 2.85x speedup on an A100 via vLLM, jumping from ~37,900 to 108,000+ tokens/sec on gemma-4-E2B-it.\n\n✅ 100% token parity\n✅ Zero quality drop\n✅ Done in days, not months\n\nSee the exact changes across 8 PRs: https://t.co/oaIp2SiJMA https://t.co/Kr7Opmhkb6"
+    },
+    {
+      "tweetId": "2114771108675371223",
+      "role": "commentary",
+      "authorHandle": "seraandroid",
+      "url": "https://x.com/SeraAndroid/status/2114771108675371223",
+      "tweetedAt": "2026-10-26T17:28:17.000Z",
+      "bestBit": "Frontier Models 🤝 Local Inference",
+      "text": "Frontier Models 🤝 Local Inference",
+      "quotedTweetText": "Speeding up Gemma!\n\nGemini 4 Argon enabled a 2.85x speedup on an A100 via vLLM, jumping from ~37,900 to 108,000+ tokens/sec on gemma-4-E2B-it.\n\n✅ 100% token parity\n✅ Zero quality drop\n✅ Done in days, not months\n\nSee the exact changes across 8 PRs: https://t.co/oaIp2SiJMA https://t.co/Kr7Opmhkb6"
+    }
+  ],
+  "isSuperseded": false
+}

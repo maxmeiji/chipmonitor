@@ -1,0 +1,65 @@
+{
+  "slug": "tesla-scales-austin-cybercab-fleet-8x-to-300-vehicles-0f9704e8",
+  "title": "Tesla Scales Austin Cybercab Fleet 8x to 300+ Vehicles",
+  "publishedAt": "2026-10-11T13:39:50.333Z",
+  "eventTimeApprox": "2026-10-11T12:41:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "automobile",
+      "name": "Automobile"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108981691436224816/wGul5qsq-gD4zOtp-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108981691436224816/wGul5qsq-gD4zOtp-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2108981082184196096/vid/avc1/3840x2160/JMXBg-QsjE5QIYbt.mp4?tag=29",
+    "credit": {
+      "handle": "robotaxi",
+      "tweetUrl": "https://x.com/robotaxi/status/2108981691436224816"
+    }
+  },
+  "summary": "Internal production of semiconductors and software is streamlining the expansion of automated ride hailing in Texas. Tesla has grown its fleet of Cybercabs in Austin to more than 300 vehicles in the 30 days since the service launched, which is an eightfold increase in size, according to CEO Elon Musk.\n\nThe growth is enabled by the company's vertical integration of the entire production stack, from manufacturing to chip design. This internal capabilities allow the business to scale the supply of its robotaxis without relying on third party automakers to provide vehicles.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109262612303314986",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2109262612303314986",
+      "tweetedAt": "2026-10-11T12:39:29.000Z",
+      "bestBit": "scaled to 300+ Cybercabs serving Austin – an 8x increase in 30 days",
+      "text": "Cybercab is scaling",
+      "quotedTweetText": "One month after launch, we've scaled to 300+ Cybercabs serving Austin – an 8x increase in 30 days https://t.co/EagJy2JAsm"
+    }
+  ],
+  "isSuperseded": false
+}

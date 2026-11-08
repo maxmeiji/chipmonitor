@@ -1,0 +1,77 @@
+{
+  "slug": "together-ai-launches-together-link-to-route-open-models-in-coding-harnes-24f15c65",
+  "title": "Together AI Launches Together Link to Route Open Models in Coding Harnesses",
+  "publishedAt": "2026-10-05T18:07:56.242Z",
+  "eventTimeApprox": "2026-10-05T16:39:37.500Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:TGAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "Together AI",
+      "hubKey": "together-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107139287947034886/cyO9G3s8Zxxz0axU-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107139287947034886/cyO9G3s8Zxxz0axU-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2107133792842620928/vid/avc1/1920x1080/Nn9vQ5JQCknoztaD.mp4?tag=29",
+    "credit": {
+      "handle": "togethercompute",
+      "tweetUrl": "https://x.com/togethercompute/status/2107139287947034886"
+    }
+  },
+  "summary": "Software developers can now automate AI model selection within their environments based on the difficulty of the code fix. Together AI has released Together Link, a client side integration that allows users to run frontier open models within their chosen coding harnesses and utilizes an Auto router to assign low cost models for simple fixes or more capable models for complex tasks.\n\nThe tool enables users to monitor their spending while accessing the hosted model ecosystem provided by Together AI. By bridging the gap between hosted open models and a developer's existing toolset, the service aims to streamline the deployment of artificial intelligence within software engineering workflows.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107139287947034886",
+      "role": "source",
+      "authorHandle": "togethercompute",
+      "url": "https://x.com/togethercompute/status/2107139287947034886",
+      "tweetedAt": "2026-10-05T16:02:09.000Z",
+      "bestBit": "Auto router pick the model for you: low-cost models for quick fixes, more capable models for harder tasks",
+      "text": "Announcing Together Link! Run frontier open models in your favorite coding harness. Track your spending and let our Auto router pick the model for you: low-cost models for quick fixes, more capable models for harder tasks. https://t.co/1WBMLdYI9C"
+    },
+    {
+      "tweetId": "2107167155561377871",
+      "role": "support",
+      "authorHandle": "vipulved",
+      "url": "https://x.com/vipulved/status/2107167155561377871",
+      "tweetedAt": "2026-10-05T17:52:53.000Z",
+      "bestBit": "Use @togethercompute hosted open models with your favorite harnesses with Together Link's slick client side integration",
+      "text": "Use @togethercompute hosted open models with your favorite harnesses with Together Link's slick client side integration.",
+      "quotedTweetText": "Announcing Together Link!  \n\nRun frontier open models in your favorite coding harness.  \n\nTrack your spending and let our Auto router pick the model for you: low-cost models for quick fixes, more capable models for harder tasks. https://t.co/qezwnl90SA"
+    }
+  ],
+  "isSuperseded": false
+}

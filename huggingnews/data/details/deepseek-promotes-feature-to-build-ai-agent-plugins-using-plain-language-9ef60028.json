@@ -1,0 +1,68 @@
+{
+  "slug": "deepseek-promotes-feature-to-build-ai-agent-plugins-using-plain-language-9ef60028",
+  "title": "DeepSeek Promotes Feature to Build AI Agent Plugins Using Plain Language",
+  "publishedAt": "2026-11-02T18:08:46.016Z",
+  "eventTimeApprox": "2026-11-02T17:50:56.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "summary": "The maker of the free DeepSeek Harness app is highlighting \"Creator Mode,\" a tool that allows its users to generate functional add-ons by describing the desired tool in plain text. Once a user submits a request for a feature, such as a timer or a video-editing panel, the AI agent writes, installs, and tests the new plugin directly within the application.\n\nWhile the lauch of the feature occurred in August, DeepSeek released a demo video and the prompts used for 7 specific use cases on Nov. 2 to encourage wider adoption. The tool is part of the open-source Harness project, which has gained 268.7K stars on GitHub from potential developers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117256196227019194",
+      "role": "source",
+      "authorHandle": "deepseekharness",
+      "url": "https://x.com/DeepSeekHarness/status/2117256196227019194",
+      "tweetedAt": "2026-11-02T14:03:08.000Z",
+      "bestBit": "Turn ideas into plugins that you can use, from a design workspace to a sandbox game or a 3D LLM visualizer.",
+      "text": "Your Harness. You Define It.\n\nMeet Creator Mode in DeepSeek Harness. \n\nTurn ideas into plugins that you can use, from a design workspace to a sandbox game or a 3D LLM visualizer. \n\nWhat will you create? https://t.co/MlXHIyyA1o"
+    },
+    {
+      "tweetId": "2117313521688121388",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2117313521688121388",
+      "tweetedAt": "2026-11-02T17:50:56.000Z",
+      "bestBit": "The feature has existed since August; today DeepSeek released a demo video and the prompts behind its 7 examples.",
+      "text": "DeepSeek is promoting Creator Mode, that lets its open-source Harness agent build working plugins from plain-language requests.\n\nCreator Mode is a setting inside DeepSeek Harness, DeepSeek’s free AI agent app, where you describe a tool you want (say, a timer or a video-editing panel) and the AI writes, installs and tests it as a new add-on inside the app. \nThe feature has existed since August; today DeepSeek released a demo video and the prompts behind its 7 examples.\n\nHarness’s 268.7K GitHub stars supply potential plugin builders, yet the ecosystem grows only if generated plugins work beyond curated demos.\n\nhttps://t.co/A8cKEJrW66",
+      "quotedTweetText": "Your Harness. You Define It.\n\nMeet Creator Mode in DeepSeek Harness. \n\nTurn ideas into plugins that you can use, from a design workspace to a sandbox game or a 3D LLM visualizer. \n\nWhat will you create? https://t.co/MlXHIyyA1o"
+    }
+  ],
+  "isSuperseded": false
+}

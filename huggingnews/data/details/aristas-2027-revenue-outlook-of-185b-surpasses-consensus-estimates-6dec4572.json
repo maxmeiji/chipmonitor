@@ -1,0 +1,92 @@
+{
+  "slug": "aristas-2027-revenue-outlook-of-185b-surpasses-consensus-estimates-6dec4572",
+  "title": "Arista's 2027 Revenue Outlook of $18.5B Surpasses Consensus Estimates",
+  "publishedAt": "2026-11-03T22:23:24.566Z",
+  "eventTimeApprox": "2026-11-03T21:13:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "earnings",
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ANET",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Arista Networks",
+      "hubKey": "anet"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117740636300300686/HWO54bzXMAAb9jv-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117740636300300686/HWO54bzXMAAb9jv-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "ftr_investors",
+      "tweetUrl": "https://x.com/ftr_investors/status/2117740636300300686"
+    }
+  },
+  "summary": "The networking hardware maker provided a multiyear outlook that puts its future sales projections above the current targets set by Wall Street. Arista projected that its revenue will reach approximately $18.5B by 2027, which exceeds the $16.4B previously modeled by analysts, and updated its full year 2026 revenue guidance to $13.3B. This revised 2026 target, which represents 48% annual growth, marks the fourth time the company has raised its yearly forecast this year.\n\nThe projected growth is driven largely by the company's AI fabrics segment, which management expects to grow to about $7B in 2027. CEO Jayshree Ullal said the company now has more than 100 Etherlink customers to support its networking push. Following the forecasts and the release of third quarter revenue of $3.66B, which rose 58.5% from a year earlier, Arista's shares climbed as much as 18%.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117726418528243873",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117726418528243873",
+      "tweetedAt": "2026-11-03T21:11:38.000Z",
+      "bestBit": "Adj. EPS: $1.20 (Est. $1.08) 🟢; +56% YoY",
+      "text": "ARISTA NETWORKS $ANET Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $3.66B (Est. $3.33B) 🟢; +58.5% YoY\n🔹 Adj. EPS: $1.20 (Est. $1.08) 🟢; +56% YoY\n\nQ4 Guide:\n🔹 Revenue: ~$3.9B-$4.0B (Est. $3.6B) 🟢\n🔹 Adj. EPS: $1.26-$1.30 (Est. $1.15) 🟢\n🔹 Non-GAAP Operating Margin: 48%-49%\n\nAnnouncements:\n🔹 Open Ethernet Architectures: up to 144 accelerators/rack; 1,024 XPUs\n🔹 Added to S&P 100\n\nOther Q3 Metrics:\n🔹 Non-GAAP Oper Income: $1.80B (Est. $1.62B) 🟢\n🔹 Non-GAAP Gross Margin: 64.0% (Est. 62.9%) 🟢; -120 bps YoY\n🔹 Non-GAAP Operating Margin: 49.1%; +50 bps YoY\n🔹 Deferred Revenue: $5.10B\n\nComments:\n🔸 “Arista registered another momentous quarter with the highest year-over-year revenue growth since our IPO and record profitability, surpassing even my high expectations” — Jayshree Ullal, Chairperson and CEO\n\n🔸 “This quarter brought a true trifecta for our company, setting new record highs in revenue growth, net income, and EPS.” — Chantelle Breithaupt, CFO"
+    },
+    {
+      "tweetId": "2117739567323443483",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117739567323443483",
+      "tweetedAt": "2026-11-03T22:03:53.000Z",
+      "bestBit": "Arista expects its AI fabrics business to approximately double from at least $3.5B in 2026 to around $7B in 2027, accounting for nearly 38% of total company revenue next year.",
+      "text": "$ANET +18%\n\nJUST POSTED ITS FASTEST REVENUE GROWTH SINCE GOING PUBLIC IN 2014, UP 58.5% YOY.\n\nArista beat Wall Street expectations in Q3 and guided Q4 above estimates, while introducing a 2027 outlook well ahead of expectations.\n\nDespite ramping investments in AI networking, liquid cooling, and high-speed switching, Arista delivered a 49.1% adjusted operating margin.\n\nThe company also raised its 2026 revenue guidance for the fourth time this year to $13.3B, representing 48% annual growth.\n\nLooking ahead to 2027, management expects approximately $18.5B in revenue, or 38%-40% growth. That's well above the roughly $16.4B analysts were modeling before earnings.\n\nAI networking is expected to drive much of that growth.\n\nArista expects its AI fabrics business to approximately double from at least $3.5B in 2026 to around $7B in 2027, accounting for nearly 38% of total company revenue next year.\n\nMeanwhile, its campus networking business is projected to grow 60% to approximately $2B.\n\nCEO Jayshree Ullal said Arista has now surpassed 100 Etherlink customers, compared with just four or five major AI customers when the company began its AI networking push a few years ago.\n\nBy the end of 2027, Arista expects more than 10 gigawatts of AI deployments across at least 10 different types of compute accelerators.\n\nAnother interesting development is the shift from centralized AI training toward distributed inference, where different parts of a workload, including prefill and token generation, run across separate systems.\n\nThat requires more networking capacity and more intelligent routing between GPUs, memory, and storage. Arista sees this as another growth opportunity beyond traditional AI data center networking.\n\nThe company is also expanding into scale-up Ethernet, which connects accelerators within and across racks, with customer trials expected in 2027 and production targeted for 2028.",
+      "quotedTweetText": "ARISTA NETWORKS $ANET Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $3.66B (Est. $3.33B) 🟢; +58.5% YoY\n🔹 Adj. EPS: $1.20 (Est. $1.08) 🟢; +56% YoY\n\nQ4 Guide:\n🔹 Revenue: ~$3.9B-$4.0B (Est. $3.6B) 🟢\n🔹 Adj. EPS: $1.26-$1.30 (Est. $1.15) 🟢\n🔹 Non-GAAP Operating Margin: 48%-49%\n\nAnnouncements:\n🔹 Open Ethernet Architectures: up to 144 accelerators/rack; 1,024 XPUs\n🔹 Added to S&P 100\n\nOther Q3 Metrics:\n🔹 Non-GAAP Oper Income: $1.80B (Est. $1.62B) 🟢\n🔹 Non-GAAP Gross Margin: 64.0% (Est. 62.9%) 🟢; -120 bps YoY\n🔹 Non-GAAP Operating Margin: 49.1%; +50 bps YoY\n🔹 Deferred Revenue: $5.10B\n\nComments:\n🔸 “Arista registered another momentous quarter with the highest year-over-year revenue growth since our IPO and record profitability, surpassing even my high expectations” — Jayshree Ullal, Chairperson and CEO\n\n🔸 “This quarter brought a true trifecta for our company, setting new record highs in revenue growth, net income, and EPS.” — Chantelle Breithaupt, CFO"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "arista-networks-posts-366b-q3-revenue-in-fastest-growth-quarter-since-ip-569c5642",
+    "title": "Arista Networks Posts $3.66B Q3 Revenue in Fastest Growth Quarter Since IPO",
+    "publishedAt": "2026-11-03T21:25:38.965Z",
+    "eventTimeApprox": "2026-11-03T21:11:38.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "tech",
+      "us-markets"
+    ],
+    "tweetCount": 5,
+    "authorCount": 4
+  }
+}

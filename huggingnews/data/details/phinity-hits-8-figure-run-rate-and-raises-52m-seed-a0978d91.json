@@ -1,0 +1,55 @@
+{
+  "slug": "phinity-hits-8-figure-run-rate-and-raises-52m-seed-a0978d91",
+  "title": "Phinity Hits 8 Figure Run Rate and Raises $5.2M Seed",
+  "publishedAt": "2026-10-08T22:38:17.765Z",
+  "eventTimeApprox": "2026-10-08T19:52:03.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "startups",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "Phinity is building software to automate the creation of custom silicon for thousands of emerging artificial intelligence applications. The startup emerged from stealth on October 8, announcing that its annualized run rate has reached 8 figures. To fund its operations, Phinity raised a $5.2M seed round led by Uncork Capital, with participation from Moxxie Ventures and angel investors including Jeff Dean. Pear VC previously led the company's pre-seed round.\n\nThe company is currently partnering with some of the largest foundation model labs to discover computational systems that exceed current human engineering capabilities. Phinity's team consists of AI researchers, hardware experts, and electronic design automation engineers. The firm is now hiring for engineering and operations roles to expand its autonomous chip design tools.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108246167872221658",
+      "role": "source",
+      "authorHandle": "aadi_nash",
+      "url": "https://x.com/aadi_nash/status/2108246167872221658",
+      "tweetedAt": "2026-10-08T17:20:30.000Z",
+      "bestBit": "reached 8-figures in annualized run rate",
+      "text": "Proud to share that @phinity_ai is coming out of stealth today, announcing our seed fundraise and that we’ve reached 8-figures in annualized run rate.\n\nChip design has been stuck in the 20th century for far too long. Now, for the first time in decades, a unique set of emerging factors is making it possible to fundamentally reinvent how chips are designed.\n\nAt Phinity, we’re building toward fully autonomous chip design, with the goal of enabling custom silicon for thousands of emerging AI applications. Our team combines hardware experts, AI researchers, and infrastructure/EDA engineers to define a new way to design chips.\n\nWe’re extremely grateful to @uncorkcap for leading our $5.2M seed, to @MoxxieVentures and angels including @JeffDean for joining the round, and to @pearvc for leading our pre-seed and backing us from the start.\n\nWe’ve worked so, so hard to make this happen, and I’m proud to share our work publicly for the first time!\n\nYou can read more about the announcement below. https://t.co/tGemLbFjsA\n\nWe’re hiring for ops and engineering roles. If you want to help build the future of chip design with us or are interested in learning more/partnering, please reach out to me or @sonyashijin ."
+    },
+    {
+      "tweetId": "2108246263363998074",
+      "role": "source",
+      "authorHandle": "sonyashijin",
+      "url": "https://x.com/sonyashijin/status/2108246263363998074",
+      "tweetedAt": "2026-10-08T17:20:53.000Z",
+      "bestBit": "already working with some of the largest foundation model labs",
+      "text": "Excited to finally share that @phinity_ai is now out of stealth! We're announcing our seed fundraise and that we’ve reached 8-figures in annualized run rate.\n\nWe’re already working with some of the largest foundation model labs. Our mission is to build fully autonomous chip design so AI can help us search beyond the limits of human engineering and discover computational systems we would never find on our own.\n\nWe’re fortunate to have the support of @uncorkcap, which led our $5.2M seed round, with participation from @Moxxie including @JeffDean, following our pre-seed led by @pearvc!\n\nIt’s been an amazing few months, and I couldn’t be more grateful for the opportunity to build the future of chip design with such a talented team.\n\nYou can read more about what we’re building and why in our full announcement. https://t.co/F27viag1a7\n\nWe’re hiring across all disciplines - if you’re interested in working with us, please reach out to me or @aadi_nash."
+    }
+  ],
+  "isSuperseded": false
+}

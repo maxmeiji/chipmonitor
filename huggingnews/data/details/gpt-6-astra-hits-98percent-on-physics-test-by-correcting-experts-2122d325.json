@@ -1,0 +1,107 @@
+{
+  "slug": "gpt-6-astra-hits-98percent-on-physics-test-by-correcting-experts-2122d325",
+  "title": "GPT-6 Astra Hits 98% on Physics Test by Correcting Experts",
+  "publishedAt": "2026-10-15T15:55:37.854Z",
+  "eventTimeApprox": "2026-10-14T23:29:39.500Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110596026314740206/HUpKDoaXgAAZ0PY-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110596026314740206/HUpKDoaXgAAZ0PY-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "kimmonismus",
+      "tweetUrl": "https://x.com/kimmonismus/status/2110596026314740206"
+    }
+  },
+  "summary": "The authors of a theoretical physics benchmark have revised their official answer key after an artificial intelligence model found mistakes in the reference data. GPT-6 Astra earned a final score of 49 out of 50, or 98%, on the TheoPhysEval test after the model insisted its calculations were accurate and successfully challenged results initially provided by human experts.\n\nThe model achieved this performance utilizing Codex integrated with web access and specialized tools, rising from an initial score of approximately 80%. TheoPhysEval's authors confirmed that Astra's solutions were correct in cases where the original reference answers contained subtle errors, while external observers suggest such capabilities could eventually accelerate discoveries in fusion and superconductors.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110443503516057682",
+      "role": "source",
+      "authorHandle": "freddier",
+      "url": "https://x.com/freddier/status/2110443503516057682",
+      "tweetedAt": "2026-10-14T18:51:56.000Z",
+      "bestBit": "GPT-6 Astra got +80% on a Physics benchmark. It insisted the expert results were wrong and its calculations were right.",
+      "text": "GPT-6 Astra got +80% on a Physics benchmark. It insisted the expert results were wrong and its calculations were right.\n\nA team checked. And yes. GPT-6 Astra was right. New score: 98%"
+    },
+    {
+      "tweetId": "2110511654295519577",
+      "role": "source",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2110511654295519577",
+      "tweetedAt": "2026-10-14T23:22:44.000Z",
+      "bestBit": "upon closer examination, we found that there were subtle errors in the original solutions. In all these cases, Astra’s solution was found to be correct",
+      "text": "“we initially assessed that Astra had made errors in several problems. However, upon closer examination, we found that there were subtle errors in the original solutions. In all these cases, Astra’s solution was found to be correct.”\n\nPhysics is next. https://t.co/cQaXqd3TPY",
+      "quotedTweetText": "https://t.co/5xDllBtqJA"
+    },
+    {
+      "tweetId": "2110596026314740206",
+      "role": "support",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2110596026314740206",
+      "tweetedAt": "2026-10-15T04:58:00.000Z",
+      "bestBit": "Using Codex with tools and web access, it scored 49/50 (98%)",
+      "text": "Talking about scientific breakthroughs: GPT-6 Astra got several physics answers right that experts initially marked wrong. TheoPhysEval’s authors found errors in the reference solutions and confirmed Astra was correct in those cases. Using Codex with tools and web access, it scored 49/50 (98%).\n\nAI is becoming the best co-author one could ask for.",
+      "quotedTweetText": "GPT-6 Astra got +80% on a Physics benchmark. It insisted the expert results were wrong and its calculations were right.\n\nA team checked. And yes. GPT-6 Astra was right. New score: 98%"
+    },
+    {
+      "tweetId": "2110473227516760299",
+      "role": "commentary",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2110473227516760299",
+      "tweetedAt": "2026-10-14T20:50:02.000Z",
+      "bestBit": "makes the models behave like are being driven insane when they run into situations like this during reinforcement learning",
+      "text": "This is the exact type of thing Elon was talking about a few days ago that makes the models behave like are being driven insane when they run into situations like this during reinforcement learning. https://t.co/9az1dy6b1c",
+      "quotedTweetText": "GPT-6 Astra got +80% on a Physics benchmark. It insisted the expert results were wrong and its calculations were right.\n\nA team checked. And yes. GPT-6 Astra was right. New score: 98%"
+    },
+    {
+      "tweetId": "2110588237085655113",
+      "role": "commentary",
+      "authorHandle": "npew",
+      "url": "https://x.com/npew/status/2110588237085655113",
+      "tweetedAt": "2026-10-15T04:27:03.000Z",
+      "bestBit": "GPT-6 Astra got +80% on a Physics benchmark. It insisted the expert results were wrong and its calculations were right.",
+      "text": "RT @freddier: GPT-6 Astra got +80% on a Physics benchmark. It insisted the expert results were wrong and its calculations were right.\n\nA te…"
+    },
+    {
+      "tweetId": "2110757850297598100",
+      "role": "commentary",
+      "authorHandle": "jon_stokes",
+      "url": "https://x.com/jon_stokes/status/2110757850297598100",
+      "tweetedAt": "2026-10-15T15:41:02.000Z",
+      "bestBit": "If the only two things we ultimately get out of AI are cheap fusion and room-temperature superconductors, it'll all be worth it",
+      "text": "If the only two things we ultimately get out of AI are cheap fusion and room-temperature superconductors, it'll all be worth it.",
+      "quotedTweetText": "GPT-6 Astra got +80% on a Physics benchmark. It insisted the expert results were wrong and its calculations were right.\n\nA team checked. And yes. GPT-6 Astra was right. New score: 98%"
+    }
+  ],
+  "isSuperseded": false
+}

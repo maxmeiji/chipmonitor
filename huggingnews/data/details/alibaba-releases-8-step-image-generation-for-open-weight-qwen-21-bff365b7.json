@@ -1,0 +1,63 @@
+{
+  "slug": "alibaba-releases-8-step-image-generation-for-open-weight-qwen-21-bff365b7",
+  "title": "Alibaba Releases 8 Step Image Generation for Open Weight Qwen 2.1",
+  "publishedAt": "2026-10-09T14:37:29.291Z",
+  "eventTimeApprox": "2026-10-09T14:11:09.500Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    }
+  ],
+  "summary": "The latest tool from Alibaba produces high-resolution graphics using a streamlined set of denoising iterations to reduce compute time. The Qwen-Image-2.1-Turbo model, which uses a 7B visual generation architecture, creates and edits 2K images in just 8 steps and is now available as an open weights release for use with the Diffusers library.\n\nAlongside the weights, the company launched Pro and Turbo APIs for hosted applications. The foundational Qwen-Image-2.1 model supports native RGBA layer generation for transparent images and can use up to 10 reference images to maintain visual fidelity for portraits and products. Weights are distributed through ModelScope and Hugging Face.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108549075218120949",
+      "role": "source",
+      "authorHandle": "alibaba_qwen",
+      "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949",
+      "tweetedAt": "2026-10-09T13:24:09.000Z",
+      "bestBit": "create and edit images in just 8 denoising steps! Open weights now available!",
+      "text": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!\n\nBuilt on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. \n\nFewer steps does not mean lower quality: it still generates strong 2K images from text, and supports continued creation through natural-language edits, from adding accessories to changing a scene.\n\nStart directly with Diffusers: load QwenImage21Pipeline and the checkpoint’s recommended 8-step sampling schedule is ready to go. \n\n🌐 Prefer an API? Qwen-Image-2.1 Pro and Turbo APIs are now officially live. Choose a hosted API for your application, or use the Turbo weights in your own workflow.\n\n🤖 ModelScope:\nhttps://t.co/Cixiro51v8\n🤗 Hugging Face:\nhttps://t.co/4GqXcYeAmB\n🔗 Pro API:\nhttps://t.co/fw2am7VCP7\n🔗 Turbo API:\nhttps://t.co/qmDvTqiVZK\n\nWhat will you create with 8 steps? Share your results with us!",
+      "quotedTweetText": "Meet Qwen-Image-2.1, the most balanced and cost-effective image generation model in the Qwen-Image series! Now open weights! 🎨\n\nA unified model for both generation and editing, delivering top-tier quality in a lightweight package.\n\nHighlights: 👀\n- Compact & exceptionally fast: A lightweight 7B architecture that outperforms most closed-source models, with drastically accelerated inference for multi-image inputs.\n- Native transparency: Natively generates and edits RGBA layers, enabling seamless compositing and text editing within transparent images.\n- Versatile, high-fidelity editing: Supports up to 10 reference images and precise local control while preserving strict fidelity for portraits and products.\n- Broad coverage & stunning aesthetics: Excels at panoramas, infographics, and virtual try-ons, delivering realistic textures and elegant typography.\n\nStart to create your next masterpiece with Qwen-Image-2.1! 🖼️\n\n- Blog: https://t.co/tVntKOi7jy\n- GitHub: https://t.co/cRj66wCrWr\n- Model Scope: https://t.co/64d7Ix6YFR\n- Hugging Face: https://t.co/njHSBXUbVS"
+    }
+  ],
+  "isSuperseded": false
+}

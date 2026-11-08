@@ -1,0 +1,63 @@
+{
+  "slug": "cambridge-ai-lead-soren-mindermann-joins-tsinghua-university-824bd385",
+  "title": "Cambridge AI Lead Sören Mindermann Joins Tsinghua University",
+  "publishedAt": "2026-10-22T18:08:51.385Z",
+  "eventTimeApprox": "2026-10-21T02:08:30.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "summary": "Sören Mindermann will move to Beijing in November to serve as an assistant professor of AI safety at Tsinghua University's College of AI. Mindermann, who currently leads technical research for the Centre for the Study of AI Safety (CASP) at the University of Cambridge, will maintain his research duties in the UK while taking the post in China. He will also serve as co-director of the Beijing AI Safety Hub (BASH), a center Tsinghua launched in July to focus on model alignment and loss-of-control risk modeling.\n\nThe researcher, who previously served as the scientific lead for the International AI Safety Report and worked under 2018 Turing Award winner Yoshua Bengio, cited the deep involvement of Chinese academics in policy and industry as a reason for the move. Mindermann noted that the college at Tsinghua supports interdisciplinary research based on actual impact rather than the number of papers published in top conferences, contrasting this with views from some U.S. peers that academia has lost its influence on AI development.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112591797104910726",
+      "role": "source",
+      "authorHandle": "sorenmind",
+      "url": "https://x.com/sorenmind/status/2112591797104910726",
+      "tweetedAt": "2026-10-20T17:08:29.000Z",
+      "bestBit": "moving to Beijing and starting a professorship in AI safety at Tsinghua University’s College of AI",
+      "text": "Excited to announce that I’m moving to Beijing and starting a professorship in AI safety at Tsinghua University’s College of AI!\n\nHere I explain why: https://t.co/8u23KPlI4g"
+    },
+    {
+      "tweetId": "2112865850047045694",
+      "role": "analysis",
+      "authorHandle": "maxforai",
+      "url": "https://x.com/MaxForAI/status/2112865850047045694",
+      "tweetedAt": "2026-10-21T11:17:28.000Z",
+      "bestBit": "曾在《国际AI安全报告》科学负责人，目前是剑桥大学人工智能科学与政策项目CASP的技术研究负责人",
+      "text": "国际AI安全大牛，宣布加入清华大学人工智能学院研究AI失控了。\n\n10月20日，AI安全研究者 SörenMindermann （索伦·明德曼） @sorenmind  发文宣布，他将于11月搬到北京，加入清华大学人工智能学院担任助理教授，同时继续在剑桥大学的研究工作。\n\n简单介绍一下他的背景：牛津大学机器学习博士，博士后导师是18年图灵奖得主Yoshua Bengio，曾任《国际AI安全报告》科学负责人，目前是剑桥大学人工智能科学与政策项目CASP的技术研究负责人。\n\n他也参与过模型“伪装对齐”、潜伏智能体等研究。\n\n他提到，一些美国同行觉得学术界对AI已经没那么重要了。\n但在中国，顶尖高校的学者依然深度参与产业、政策和人才培养。\n这也是他看重清华的原因。\n\n另一个让他在意的细节是，按照他的描述，姚期智领导下的学院支持以实际影响为导向的跨学科研究，对研究成果的期待，也没有建立在数顶会论文篇数上。\n\n今年7月，清华启动了“清智人工智能安全枢纽”（BASH），提供共享办公、国际研究者来访、青年人才培养和双向交流，重点关注对齐、评估、可解释性和失控风险建模。Mindermann目前担任这个枢纽的联合主任。\n\n他的研究计划里，有一项我尤其关注，也和RSI直接相关：当AI越来越多地参与AI研发，人类如何继续有效监督？模型会不会操纵自己参与开发的下一代模型，或者破坏原本用来约束自己的流程？",
+      "quotedTweetText": "Excited to announce that I’m moving to Beijing and starting a professorship in AI safety at Tsinghua University’s College of AI!\n\nHere I explain why: https://t.co/8u23KPlI4g"
+    },
+    {
+      "tweetId": "2113182777126322384",
+      "role": "commentary",
+      "authorHandle": "terje_alnes",
+      "url": "https://x.com/terje_alnes/status/2113182777126322384",
+      "tweetedAt": "2026-10-22T08:16:49.000Z",
+      "bestBit": "vil tilbringe 2027 i Kina, der han har akademisk frihet til å forske",
+      "text": "Diesen vil tilbringe 2027 i Kina, der han har akademisk frihet til å forske. \n\nhttps://t.co/51qobLCz3S"
+    }
+  ],
+  "isSuperseded": false
+}

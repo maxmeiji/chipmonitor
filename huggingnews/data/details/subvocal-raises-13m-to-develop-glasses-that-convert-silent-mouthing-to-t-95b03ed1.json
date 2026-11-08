@@ -1,0 +1,60 @@
+{
+  "slug": "subvocal-raises-13m-to-develop-glasses-that-convert-silent-mouthing-to-t-95b03ed1",
+  "title": "Subvocal Raises $1.3M to Develop Glasses That Convert Silent Mouthing to Text",
+  "publishedAt": "2026-10-30T16:23:36.758Z",
+  "eventTimeApprox": "2026-10-30T16:08:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 20,
+  "routingTopicKeys": [
+    "startups",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "wearables",
+      "name": "Wearables"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "summary": "The startup Subvocal has secured early-stage funding to build a wearable interface that translates the movement of internal speech muscles into written text. The $1.3M pre-seed round was led by Afore Capital with participation from Y Combinator and angel investors, and will be used to develop smart glasses that utilize non-contact sensing to enable digital input without the need for a keyboard or audible speech.\n\nSubvocal says the glasses can decode silent mouthing at a speed of more than 200 words per minute, which would allow users to prompt AI agents or send messages in environments where speaking aloud is impractical, such as on airplanes or in offices. The company has officially opened pre-orders for the device.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116198463847408066",
+      "role": "source",
+      "authorHandle": "aarushyadav47",
+      "url": "https://x.com/AarushYadav47/status/2116198463847408066",
+      "tweetedAt": "2026-10-30T16:00:05.000Z",
+      "bestBit": "We’ve raised $1.3M from YC & Afore Capital so you never have to type or speak again.",
+      "text": "We’ve raised $1.3M from YC & Afore Capital so you never have to type or speak again.\n\nTyping is slow. Talking into your computer is awkward. Subvocal fixes both\n\nOur glasses give you the speed of speech without you making a sound or touching a keyboard.\n\nIt tracks your internal speech muscles with non-contact sensing and decodes silent, almost invisible mouthing into text at more than 200 words/min.\n\nPre-orders are now live at:\nhttps://t.co/DzrwIpg3GR"
+    },
+    {
+      "tweetId": "2116200618910261328",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2116200618910261328",
+      "tweetedAt": "2026-10-30T16:08:39.000Z",
+      "bestBit": "Subvocal just launched glasses that read your speech muscles and turn silent mouthing into text.",
+      "text": "Love this direction for AI interfaces. \n\nSubvocal just launched glasses that read your speech muscles and turn silent mouthing into text. They report more than 200 words per minute. I already dictate a lot of my agent instructions. The problem is that you can't do that in an office or on a plane. This could fix it.",
+      "quotedTweetText": "We’ve raised $1.3M from YC & Afore Capital so you never have to type or speak again.\n\nTyping is slow. Talking into your computer is awkward. Subvocal fixes both\n\nOur glasses give you the speed of speech without you making a sound or touching a keyboard.\n\nIt tracks your internal speech muscles with non-contact sensing and decodes silent, almost invisible mouthing into text at more than 200 words/min.\n\nPre-orders are now live at:\nhttps://t.co/DzrwIpg3GR"
+    }
+  ],
+  "isSuperseded": false
+}

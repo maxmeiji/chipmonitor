@@ -1,0 +1,108 @@
+{
+  "slug": "anthropic-adds-up-to-500-in-monthly-api-credits-for-max-and-team-plans-63d8bb9f",
+  "title": "Anthropic Adds Up to $500 in Monthly API Credits for Max and Team Plans",
+  "publishedAt": "2026-10-07T20:39:21.370Z",
+  "eventTimeApprox": "2026-10-07T19:05:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "Anthropic is granting its Max and Team subscribers access to the Claude Platform API through the allocation of free monthly usage credits. Users on the Max 5x and Max 20x plans will receive $100 and $200 in credits respectively, while Team plan users will have access to a shared pool of up to $500. These credits are compatible with any model on the platform, including Haiku 5.5, and can be used within custom code or third-party harnesses.\n\nThe benefits expansion follows a recent update that halved the price of cache reads for Claude Sonnet 5.5 to $0.10 per million tokens, reducing the cost of agentic workloads by roughly 20%. Some market observers suggest these combined moves give Anthropic a pricing advantage in intelligence-per-unit over OpenAI. These updates occur as some analysts speculate the company has finalized its IPO filings.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107895957933408429",
+      "role": "source",
+      "authorHandle": "claudedevs",
+      "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+      "tweetedAt": "2026-10-07T18:08:53.000Z",
+      "bestBit": "We’re rolling out monthly Claude Platform API credits for Max and Team plans: Max 5x: $100 Max 20x: $200 Team: up to $500, pooled",
+      "text": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:\n\nMax 5x: $100\nMax 20x: $200\nTeam: up to $500, pooled\n\nWorks on any model, including Haiku 5.5, in your code or third-party harnesses. \n\nHow it works and full terms: https://t.co/qmWL6xVGwr"
+    },
+    {
+      "tweetId": "2107894060229034197",
+      "role": "source",
+      "authorHandle": "claudeai",
+      "url": "https://x.com/claudeai/status/2107894060229034197",
+      "tweetedAt": "2026-10-07T18:01:21.000Z",
+      "bestBit": "we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens",
+      "text": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work."
+    },
+    {
+      "tweetId": "2107930870871158874",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2107930870871158874",
+      "tweetedAt": "2026-10-07T20:27:37.000Z",
+      "bestBit": "Anthropic is adding monthly API credits to Claude Max and Team subscriptions",
+      "text": "Anthropic keeps on giving: Anthropic is adding monthly API credits to Claude Max and Team subscriptions.\n\n- Max 5x: $100\n- Max 20x: $200\n- Team: up to $500 shared\n\nOpenAI: your turn.",
+      "quotedTweetText": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:\n\nMax 5x: $100\nMax 20x: $200\nTeam: up to $500, pooled\n\nWorks on any model, including Haiku 5.5, in your code or third-party harnesses. \n\nHow it works and full terms: https://t.co/qmWL6xVGwr"
+    },
+    {
+      "tweetId": "2107930987372167514",
+      "role": "commentary",
+      "authorHandle": "thdxr",
+      "url": "https://x.com/thdxr/status/2107930987372167514",
+      "tweetedAt": "2026-10-07T20:28:05.000Z",
+      "bestBit": "IPO numbers are filed and locked in, now it's back to business",
+      "text": "IPO numbers are filed and locked in, now it's back to business",
+      "quotedTweetText": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work."
+    },
+    {
+      "tweetId": "2107916429605720214",
+      "role": "analysis",
+      "authorHandle": "cryptopunk7213",
+      "url": "https://x.com/cryptopunk7213/status/2107916429605720214",
+      "tweetedAt": "2026-10-07T19:30:14.000Z",
+      "bestBit": "anthropic now offers the best price-per-unit intelligence vs. openai",
+      "text": "crazy how the tables turned so quickly - anthropic now offers the best price-per-unit intelligence vs. openai (who’s had to have usage rates)\n\nanthropic must have secured a load more compute or… there’s a monster model they haven’t released yet that’s creating these very efficient models 👀",
+      "quotedTweetText": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropic-halves-claude-sonnet-55-cache-read-price-to-010-per-million-to-a5f4e3fe",
+    "title": "Anthropic Halves Claude Sonnet 5.5 Cache Read Price to $0.10 Per Million Tokens",
+    "publishedAt": "2026-10-07T18:23:07.159Z",
+    "eventTimeApprox": "2026-10-07T18:08:16.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 6,
+    "authorCount": 6
+  }
+}

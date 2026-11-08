@@ -1,0 +1,116 @@
+{
+  "slug": "hugging-face-adds-aws-trainium-support-to-trl-for-2x-faster-training-931bdcea",
+  "title": "Hugging Face Adds AWS Trainium Support to TRL for 2x Faster Training",
+  "publishedAt": "2026-10-20T13:23:13.253Z",
+  "eventTimeApprox": "2026-10-19T16:21:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "rumors",
+      "name": "Rumors"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "subject",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    },
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "TRL v1.16 now allows developers to fine-tune vision and language models on Amazon's Trainium2 hardware using the TorchNeuron software, with some training speeds increasing by up to 2x. This update to the Hugging Face library enables smarter sequence length handling for those seeking alternatives to Nvidia's GPUs, appearing alongside reports that Nvidia is acquiring Hugging Face.\n\nThe integration builds on Amazon's recent launch of TorchNeuron, which lets PyTorch code run natively on its proprietary chips without code rewrites to challenge Nvidia's CUDA ecosystem. Amazon shares rose 5% on Oct. 19, the company's best trading day since August, after Morgan Stanley named the stock a top pick with a $350 price target and raised AWS growth forecasts to 47% for 2027 and 42% for 2028.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112471131860955314",
+      "role": "source",
+      "authorHandle": "qgallouedec",
+      "url": "https://x.com/QGallouedec/status/2112471131860955314",
+      "tweetedAt": "2026-10-20T09:09:00.000Z",
+      "bestBit": "TRL v1.16 now supports AWS Trainium! 🚀 Fine-tune (vision-)language models with TorchNeuron, and get up to 2× faster training on Trainium2",
+      "text": ".@huggingface is being acquired by @nvidia. But!!\n\nGPUs aren't the only option for fine-tuning LLMs!\n\nTRL v1.16 now supports AWS Trainium! 🚀\n\nFine-tune (vision-)language models with TorchNeuron, and get up to 2× faster training on Trainium2 with smarter sequence-length handling.\n\nOpen AI needs hardware choice. 🤗\n\n🔗 https://t.co/KYYSSekU5G"
+    },
+    {
+      "tweetId": "2112197916139941935",
+      "role": "support",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2112197916139941935",
+      "tweetedAt": "2026-10-19T15:03:20.000Z",
+      "bestBit": "Morgan Stanley today named Amazon $AMZN one of its \"Top Picks\" with an Overweight rating and a $350 price target",
+      "text": "Morgan Stanley today named Amazon $AMZN one of its \"Top Picks\" with an Overweight rating and a $350 price target\n\nAMZN stock is now up by 5% so far today\n\n🟢🟢🟢🟢🟢 https://t.co/kVicns8CQt"
+    },
+    {
+      "tweetId": "2112255793701773696",
+      "role": "analysis",
+      "authorHandle": "ajassy",
+      "url": "https://x.com/ajassy/status/2112255793701773696",
+      "tweetedAt": "2026-10-19T18:53:19.000Z",
+      "bestBit": "enabling your existing PyTorch code to run natively on Trainium with one configuration change and no rewrite",
+      "text": "Trying a new AI chip used to be a lot of work. You often had to rewrite your code, revalidate it, and sink many weeks in, betting this new chip is the right one for your workload. \n\nThat cost time and money, and wore on the team. Your best people got buried in plumbing instead of building the thing they came to build. \n\nTorchNeuron is going to largely take that off the table, enabling your existing PyTorch code to run natively on Trainium with one configuration change and no rewrite. \n\nWith Trainium’s very appealing price-performance characteristics, TorchNeuron is going to make it even easier for more companies to use AI more cost-effectively. https://t.co/TgNr3p71vw"
+    },
+    {
+      "tweetId": "2112217484019311093",
+      "role": "commentary",
+      "authorHandle": "amitisinvesting",
+      "url": "https://x.com/amitisinvesting/status/2112217484019311093",
+      "tweetedAt": "2026-10-19T16:21:05.000Z",
+      "bestBit": "AWS projections increased to 47% and 42% YoY growth through 2027-2028 by Morgan Stanley",
+      "text": "AMAZON HAS ITS BEST DAY SINCE AUGUST:\n\n- Morgan Stanley named Amazon their topic pick, sees 40% upside with a PT to $350\n\n- Amazon announced TorchNeuron, a new software tool designed to make it easier for developers to run existing PyTorch AI workloads on its Trainium2 and Trainium3 chips with minimal code changes, reducing a major barrier to adoption and helping Amazon compete with Nvidia $NVDA, whose CUDA software ecosystem has historically been a key competitive advantage.\n\n- AWS projections increased to 47% and 42% YoY growth through 2027-2028 by Morgan Stanley\n\nAmazon has underperformed the Nasdaq $QQQ over the past 5 years, with the Nasdaq up 94% and Amazon up 50%. \n\nIt feels like the consensus view is that 2027 will be the year of Amazon...but that consensus view has also been similar over the past 2 years.\n\nIf 2027 is the year for Amazon, it would be based on AWS + Trainium inflecting along with inflows in general beginning to rotate from Semis to Mag 7.\n\n$AMZN +5%"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-amazon-launches-torchneuron-to-challenge-nvidia-cuda-dominance-3bbb603c",
+    "title": "UPDATE: Amazon Launches TorchNeuron to Challenge Nvidia CUDA Dominance",
+    "publishedAt": "2026-10-19T16:39:04.815Z",
+    "eventTimeApprox": "2026-10-19T15:03:20.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "us-markets"
+    ],
+    "tweetCount": 12,
+    "authorCount": 11
+  }
+}

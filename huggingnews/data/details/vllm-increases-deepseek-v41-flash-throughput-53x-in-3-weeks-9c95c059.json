@@ -1,0 +1,49 @@
+{
+  "slug": "vllm-increases-deepseek-v41-flash-throughput-53x-in-3-weeks-9c95c059",
+  "title": "vLLM Increases DeepSeek-V4.1-Flash Throughput 5.3x in 3 Weeks",
+  "publishedAt": "2026-10-07T20:53:30.608Z",
+  "eventTimeApprox": "2026-10-07T20:47:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "summary": "The vLLM serving engine now achieves a latency reduction at low concurrency for the DeepSeek-V4.1-Flash model, improving speeds by 1.9x compared to baseline performance. These updates also enable 5.3x the throughput when running at 150 tokens per second (TPS) per user on the SemiAnalysis AgentX platform.\n\nThe vLLM project reached these performance milestones three weeks after the model's initial launch. The development team published interactive figures and technical documentation to demonstrate the specific inference optimizations used to increase throughput and concurrency.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107934535749140841",
+      "role": "source",
+      "authorHandle": "vllm_project",
+      "url": "https://x.com/vllm_project/status/2107934535749140841",
+      "tweetedAt": "2026-10-07T20:42:11.000Z",
+      "bestBit": "DeepSeek-V4.1-Flash on vLLM runs 1.9× faster at low concurrency and delivers 5.3× the throughput at 150 TPS per user on @SemiAnalysis_ AgentX",
+      "text": "1/ Three weeks from day 0, DeepSeek-V4.1-Flash on vLLM runs 1.9× faster at low concurrency and delivers 5.3× the throughput at 150 TPS per user on @SemiAnalysis_ AgentX.\n\nHere is how, with interactive figures you can step through 🧵 https://t.co/tytotfLOts"
+    }
+  ],
+  "isSuperseded": false
+}

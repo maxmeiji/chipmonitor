@@ -1,0 +1,67 @@
+{
+  "slug": "anthropic-launches-prebuilt-automation-gallery-for-claude-for-legal-90ec849a",
+  "title": "Anthropic Launches Prebuilt Automation Gallery for Claude for Legal",
+  "publishedAt": "2026-10-28T16:30:43.663Z",
+  "eventTimeApprox": "2026-10-28T15:46:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "PVT:HRVY",
+      "kind": "private",
+      "role": "related",
+      "name": "Harvey",
+      "hubKey": "harvey"
+    }
+  ],
+  "summary": "Attorneys using the specialized Claude legal tool now have access to a gallery of prebuilt \"artifacts\" designed to automate routine tasks such as contract reviews and regulatory scans. These mini-apps allow users to verify if quotes in a brief match their original sources or to flag specific clauses that violate corporate rules, with the AI linking each finding directly to the source document.\n\nThe lauch of the gallery includes tools developed by launch partner Harvey, as well as PwC, Goodwin, and Foley & Lardner. As part of the rollout, a new connection via Harvey's MCP server allows business users to submit legal requests through Claude, which the corresponding legal teams then manage and track within the Harvey platform.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115469891184558291",
+      "role": "source",
+      "authorHandle": "harvey",
+      "url": "https://x.com/harvey/status/2115469891184558291",
+      "tweetedAt": "2026-10-28T15:45:00.000Z",
+      "bestBit": "Business users can now submit requests in Claude while Legal assigns, tracks, and manages the work in Harvey.",
+      "text": "Today @AnthropicAI added a gallery of ready-to-use artifacts to Claude for Legal, and Harvey is proud to be a launch partner.\n\nHarvey Intake now connects Claude to your legal team through Harvey’s MCP server.\n\nBusiness users can now submit requests in Claude while Legal assigns, tracks, and manages the work in Harvey.\n\nRead more: https://t.co/utGCDC95Aq"
+    },
+    {
+      "tweetId": "2115473403473989661",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2115473403473989661",
+      "tweetedAt": "2026-10-28T15:58:57.000Z",
+      "bestBit": "Claude for Legal now includes a library of prebuilt mini apps for routine legal jobs, such as checking whether a brief’s quotes match their sources or flagging contract clauses that break company rules.",
+      "text": "Claude for Legal now includes a library of prebuilt mini apps for routine legal jobs, such as checking whether a brief’s quotes match their sources or flagging contract clauses that break company rules. \n\nSome built by Harvey, PwC, Goodwin and Foley & Lardne.\n\nA lawyer opens one, sees it working on sample data, then points it at their own files, and Claude does the first pass with every finding linked to its source.",
+      "quotedTweetText": "New in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more.\n\nStart from the built-in example, add your own documents and connectors, and share it with anyone across the business. https://t.co/Wn2VK2HeMU"
+    }
+  ],
+  "isSuperseded": false
+}

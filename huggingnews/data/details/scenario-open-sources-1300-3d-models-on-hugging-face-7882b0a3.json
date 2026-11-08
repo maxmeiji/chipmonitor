@@ -1,0 +1,48 @@
+{
+  "slug": "scenario-open-sources-1300-3d-models-on-hugging-face-7882b0a3",
+  "title": "Scenario Open-Sources 1,300+ 3D Models on Hugging Face",
+  "publishedAt": "2026-10-23T15:22:16.649Z",
+  "eventTimeApprox": "2026-10-23T14:37:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "summary": "Scenario has released a collection of 39 GB of 3D files for free download on Hugging Face. The dataset contains more than 1,300 models under a CC BY 4.0 license, with GLB files featuring textures up to 8K.\n\nThe assets were generated on Scenario using various tools, including Claude Opus 5.5 3D, GPT-6 Astra 3D, Hitem3D, Meshy, Rodin, and Tripo. Each example includes the input image, prompt, and settings used for creation, while the Opus and Astra models provide native Blender files.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113635335267643591",
+      "role": "source",
+      "authorHandle": "scenario_gg",
+      "url": "https://x.com/Scenario_gg/status/2113635335267643591",
+      "tweetedAt": "2026-10-23T14:15:08.000Z",
+      "bestBit": "We just open-sourced 1,300+ 3D models.\n\nThat's 39 GB of 3D files, free to download on Hugging Face.",
+      "text": "We just open-sourced 1,300+ 3D models.\n\nThat's 39 GB of 3D files, free to download on Hugging Face.\n\nhttps://t.co/2ilZjaYXDx\n\n> Hitem3D, Meshy, Rodin, Tripo, Claude Opus 5.5 3D and GPT-6 Astra 3D, all run on Scenario\n\n> every example ships its input image, prompt and exact settings\n\n> GLB up to 8K textures, native Blender files from Opus and Astra, CC BY 4.0"
+    }
+  ],
+  "isSuperseded": false
+}

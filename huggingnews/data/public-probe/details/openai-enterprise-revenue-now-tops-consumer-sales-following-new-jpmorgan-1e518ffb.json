@@ -1,0 +1,98 @@
+{
+  "slug": "openai-enterprise-revenue-now-tops-consumer-sales-following-new-jpmorgan-1e518ffb",
+  "title": "OpenAI Enterprise Revenue Now Tops Consumer Sales Following New JPMorgan Deal",
+  "publishedAt": "2026-11-05T07:53:20.955Z",
+  "eventTimeApprox": "2026-11-05T06:39:55.500Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "JPM",
+      "kind": "equity",
+      "role": "related",
+      "name": "JPMorgan Chase & Co.",
+      "hubKey": "jpm"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118209090203902439/51Qp9CzohsN7xeC--large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118209090203902439/51Qp9CzohsN7xeC--small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2118208559863455745/vid/avc1/1280x720/iIeBAY71wwujqqUw.mp4?tag=29",
+    "credit": {
+      "handle": "firesidealpha",
+      "tweetUrl": "https://x.com/firesidealpha/status/2118209090203902439"
+    }
+  },
+  "summary": "The newest agreement between the AI startup and the largest U.S. bank will integrate Codex and other specialized cyber models into the institution's internal security operations and knowledge work. The previously unannounced partnership allows JPMorgan Chase to deploy these tools across its enterprise transformation efforts in a highly regulated environment.\n\nThe deal comes as OpenAI experiences a significant shift in its revenue sources, moving from a consumer-focused model to one driven by corporate clients. President Greg Brockman stated that enterprise revenue, which previously accounted for roughly 30% of total sales, now constitutes the majority of the company's income. JPMorgan also maintains a separate agreement with rival firm Anthropic for cybersecurity services.\n\nOpenAI reported that its annualized revenue grew 70% during the third quarter of 2026 alone, with business segment earnings doubling in the same period. Brockman attributed the turnaround to the launch of ChatGPT Work and GPT-5.6 Sol, noting that the firm should be prepared for an initial public offering by 2027.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118209090203902439",
+      "role": "source",
+      "authorHandle": "firesidealpha",
+      "url": "https://x.com/firesidealpha/status/2118209090203902439",
+      "tweetedAt": "2026-11-05T05:09:36.000Z",
+      "bestBit": "we just papered a partnership with JPMorgan Chase, and that they’re going to be using Codex.",
+      "text": "OpenAI’s Greg Brockman reveals an unannounced JPMorgan Chase deal, with the bank using Codex and OpenAI’s cyber models to secure itself\n\n“Well, so within the company, we were probably, I don’t know. Like, I think our enterprise revenue was about 30% versus consumer at 70%. And now we’re probably somewhere around, like, we’re majority enterprise. And it’s not that consumer has shrank. Right? It’s been growing, but it’s the enterprise segment has really taken off.\"\n\n\"And so I don’t know exactly how to quantify in the broader market, but you can see the way that we’re winning deals. So for example, actually, one that’s hot off the press, has not been previously announced, is that we just papered a partnership with JPMorgan Chase, and that they’re going to be using Codex.\"\n\n\"They’re going to be using our cyber models to secure themselves, deploying our models for enterprise transformation knowledge work across the company.\"\n\n\"And that for me is like such an iconic institution in such an important domain. Right? A highly regulated enterprise that trust is, like, so key to what they do and that they chose us and that we’re here to be a great partner.”"
+    },
+    {
+      "tweetId": "2118232357014753456",
+      "role": "commentary",
+      "authorHandle": "zeffmax",
+      "url": "https://x.com/ZeffMax/status/2118232357014753456",
+      "tweetedAt": "2026-11-05T06:42:03.000Z",
+      "bestBit": "Anthropic also has a deal to work with JP Morgan on cyber",
+      "text": "Oh yea, and he broke some news that OpenAI is expanding its work with JP Morgan, particularly on stuff like cyber. Anthropic also has a deal to work with JP Morgan on cyber\n\nhttps://t.co/HrEdgPpZiA"
+    },
+    {
+      "tweetId": "2118245831866204368",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2118245831866204368",
+      "tweetedAt": "2026-11-05T07:35:36.000Z",
+      "bestBit": "OpenAI's annualized revenue grew 70% IN ONE QUARTER, enterprise revenue DOUBLED, and business customers now account for the majority of its revenue.",
+      "text": "OpenAI President Greg Brockman admits the first half of 2026 was \"pretty rough\" as Anthropic pulled ahead in enterprise AI.\n\n\"We had Codex, but no one was talking about it.\"\n\nThen Q3 changed everything: OpenAI's annualized revenue grew 70% IN ONE QUARTER, enterprise revenue DOUBLED, and business customers now account for the majority of its revenue.\n\nBrockman credited GPT-5.6 Sol and ChatGPT Work for the turnaround, per WSJ.\n\nAsked whether OpenAI would be ready for an IPO in 2027, he replied: 'I think so.'"
+    }
+  ],
+  "isSuperseded": false
+}

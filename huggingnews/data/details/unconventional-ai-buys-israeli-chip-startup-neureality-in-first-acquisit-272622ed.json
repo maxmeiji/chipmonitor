@@ -1,0 +1,60 @@
+{
+  "slug": "unconventional-ai-buys-israeli-chip-startup-neureality-in-first-acquisit-272622ed",
+  "title": "Unconventional AI Buys Israeli Chip Startup NeuReality in First Acquisition Since Launch",
+  "publishedAt": "2026-10-26T18:07:48.816Z",
+  "eventTimeApprox": "2026-10-26T17:38:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "startups",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "Unconventional AI has entered an agreement to buy NeuReality, an Israeli firm specializing in purpose-built AI inference silicon and infrastructure. The cash-and-stock acquisition adds approximately 40 employees to the startup and establishes its first engineering presence in Israel.\n\nThe company is developing a 4 dimensional substrate for AI compute efficiency targeting a 1,000x improvement over existing architectures. Valued at $4.5B and backed by Jeff Bezos, the startup raised $475M in December and has already produced its first test chip, according to CEO Naveen Rao.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114735957367005284",
+      "role": "source",
+      "authorHandle": "unconvai",
+      "url": "https://x.com/unconvAI/status/2114735957367005284",
+      "tweetedAt": "2026-10-26T15:08:36.000Z",
+      "bestBit": "Unconventional is building a 4-dimensional substrate targeting a 1,000x improvement in AI compute efficiency over conventional architectures.",
+      "text": "Unconventional AI has reached a definitive agreement to acquire @NeuReality_AI , whose team and technology will play a central role in advancing our mission to make AI compute radically more efficient.\n\nUnconventional is building a 4-dimensional substrate targeting a 1,000x improvement in AI compute efficiency over conventional architectures. Reaching that target requires co-design across device physics, silicon architecture, and the models themselves. @NeuReality_AI brings seven years of work on purpose-built AI inference silicon and infrastructure, plus an engineering team spanning system architecture, silicon design, and AI systems software. Together that materially compresses our timeline to production systems, and it establishes our engineering presence in Israel.\n\nWe're excited to welcome @MosheTanach , @tzshmueli , @YossiKasus , @LiorKhermosh , @iritfast83 , and the NeuReality team to Unconventional. Together we'll build a next substrate for intelligence, and the systems to put it into production.\n\nLearn more: https://t.co/PottTJDMAF"
+    },
+    {
+      "tweetId": "2114779092243648599",
+      "role": "support",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2114779092243648599",
+      "tweetedAt": "2026-10-26T18:00:00.000Z",
+      "bestBit": "A $4.5 BILLION AI chip startup launched less than a year ago is already making its first acquisition, and Jeff Bezos is among its backers.",
+      "text": "🇮🇱🇺🇸 A $4.5 BILLION AI chip startup launched less than a year ago is already making its first acquisition, and Jeff Bezos is among its backers.\n\nUnconventional AI is buying Israeli chip startup NeuReality in a cash-and-stock deal, adding ~40 employees and maintaining an engineering presence in Israel.\n\nThe company raised $475 million in December and is trying to build AI chips that are 1,000x more energy efficient than today's hardware by borrowing concepts from biological systems.\n\nCEO Naveen Rao says development has moved dramatically faster than expected thanks partly to AI tools: the company already has its first test chip and is nearing completion of a second.\n\n“We built up the research bones and now we've got to build up the production bones.”\n\nSource: Reuters / Writer: Samuel"
+    }
+  ],
+  "isSuperseded": false
+}

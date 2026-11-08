@@ -1,0 +1,63 @@
+{
+  "slug": "chinese-tech-stocks-lose-480b-in-market-value-after-ai-bubble-burst-4b476b39",
+  "title": "Chinese Tech Stocks Lose $480B in Market Value After AI Bubble Burst",
+  "publishedAt": "2026-10-26T12:52:42.748Z",
+  "eventTimeApprox": "2026-10-26T12:20:18.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "global-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "global-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "summary": "The China STAR 50 index, which tracks leaders in semiconductors and artificial intelligence, plummeted 40% in less than four months. The decline erased approximately $480B in market capitalization as valuations collapsed due to investor concerns regarding AI demand and export restrictions on Chinese technology.\n\nThe slump follows a Reuters report that the AI bubble in China has already burst, an outcome that complicates Beijing's efforts to incentivize domestic savers to invest in equities to fund the sector's growth. The downturn is viewed as a cautionary signal for already volatile global technology markets.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114693603507294255",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2114693603507294255",
+      "tweetedAt": "2026-10-26T12:20:18.000Z",
+      "bestBit": "In China, the AI bubble has already burst",
+      "text": "In China, the AI bubble has already burst https://t.co/KUhTpl4KgE"
+    },
+    {
+      "tweetId": "2114698124782707125",
+      "role": "support",
+      "authorHandle": "dmjk001",
+      "url": "https://x.com/dmjk001/status/2114698124782707125",
+      "tweetedAt": "2026-10-26T12:38:16.000Z",
+      "bestBit": "中国内地科创 50 指数（.STAR50）在不到四个月的时间里重挫 40%，蒸发约 4800 亿美元市值",
+      "text": "路透：在中国，AI 泡沫已经破裂\n在全球科技股摇摇欲坠之际，中国科技股已经崩盘，高企的估值在对 AI 需求和中国出口限制的担忧下崩塌。\n这场暴跌使聚焦 AI 和半导体龙头的中国内地科创 50 指数（.STAR50）在不到四个月的时间里重挫 40%，蒸发约 4800 亿美元市值。这对本已摇摇欲坠的全球市场而言是个不祥之兆，也给中国鼓励储户入市、为 AI 热潮融资的努力泼了一盆冷水。"
+    }
+  ],
+  "isSuperseded": false
+}

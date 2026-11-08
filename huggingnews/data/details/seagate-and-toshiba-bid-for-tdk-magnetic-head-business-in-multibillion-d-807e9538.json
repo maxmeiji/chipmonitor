@@ -1,0 +1,55 @@
+{
+  "slug": "seagate-and-toshiba-bid-for-tdk-magnetic-head-business-in-multibillion-d-807e9538",
+  "title": "Seagate and Toshiba Bid for TDK Magnetic Head Business in Multibillion Dollar Deal",
+  "publishedAt": "2026-10-06T05:08:57.298Z",
+  "eventTimeApprox": "2026-10-06T04:05:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "business",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "STX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
+      "hubKey": "stx"
+    }
+  ],
+  "summary": "AI data center storage demand is driving a competitive bidding process for the acquisition of TDK's magnetic-head division. Seagate and Toshiba are the primary contenders for the business in a deal that could be worth several billion dollars to secure the hardware needed for high-capacity hard-disk drives.\n\nThe contest is the latest effort by AI-related hardware makers to expand their technical capabilities to keep pace with surging infrastructure needs. Both companies are seeking to capture TDK's components to support the massive data requirements associated with artificial intelligence workloads.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107321202406555680",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2107321202406555680",
+      "tweetedAt": "2026-10-06T04:05:01.000Z",
+      "bestBit": "Seagate and Toshiba are locked in a contest for TDK’s magnetic-heads business for hard-disk drives in a deal that could be worth several billion dollars",
+      "text": "Seagate and Toshiba are locked in a contest for TDK’s magnetic-heads business for hard-disk drives in a deal that could be worth several billion dollars — the latest attempt by AI-related hardware makers to keep pace with demand https://t.co/AcUwUYBEbf"
+    }
+  ],
+  "isSuperseded": false
+}

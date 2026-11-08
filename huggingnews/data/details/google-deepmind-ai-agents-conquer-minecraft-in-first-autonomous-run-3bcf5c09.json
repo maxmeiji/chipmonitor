@@ -1,0 +1,85 @@
+{
+  "slug": "google-deepmind-ai-agents-conquer-minecraft-in-first-autonomous-run-3bcf5c09",
+  "title": "Google DeepMind AI Agents Conquer Minecraft in First Autonomous Run",
+  "publishedAt": "2026-10-16T14:09:10.325Z",
+  "eventTimeApprox": "2026-10-16T09:31:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 19,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111093058024755365/HUwb8rlaUAANJFr-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111093058024755365/HUwb8rlaUAANJFr-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "omarsar0",
+      "tweetUrl": "https://x.com/omarsar0/status/2111093058024755365"
+    }
+  },
+  "summary": "A team of Argon agents wrote 2,783 independent programs to coordinate their movements and tools before defeating the Ender Dragon in 27 hours and 14 minutes. These four Gemini 4 agents operated without human intervention, achieving what researchers from Google DeepMind call the first end-to-end autonomous completion of the game. The AI agents used the Mineflayer library for control and communicated via in-game chat and shared memory to split labor and recover items after 605 deaths.\n\nThe agents functioned without pre-assigned roles, pre-written game logic, or prior knowledge of the world seed. Google DeepMind presented the experiment as a case study for long-horizon multi-agent coding, suggesting that the ability to maintain a consistent plan across thousands of dependent steps for over a day can be applied to complex enterprise software tasks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111023397106770026",
+      "role": "source",
+      "authorHandle": "maxencefaldor",
+      "url": "https://x.com/maxencefaldor/status/2111023397106770026",
+      "tweetedAt": "2026-10-16T09:16:13.000Z",
+      "bestBit": "27 hours and 2,783 self-written programs later, the dragon fell",
+      "text": "Four Gemini 4 Argon agents, one shared Minecraft world, one goal: defeat the Ender Dragon. 27 hours and 2,783 self-written programs later, the dragon fell. https://t.co/Cx7Djg1VTx"
+    },
+    {
+      "tweetId": "2111093058024755365",
+      "role": "support",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2111093058024755365",
+      "tweetedAt": "2026-10-16T13:53:01.000Z",
+      "bestBit": "defeated the Ender Dragon in 27 hours and 14 minutes with no human intervention",
+      "text": "Banger paper from Google DeepMind on long-horizon multi-agent coding.\n\n(bookmark it)\n\nThey report that, to the best of their knowledge, this is the first end-to-end autonomous completion of Minecraft by AI agents.\n\nThey report that four Gemini 4 Argon agents beat Minecraft end-to-end. They defeated the Ender Dragon in 27 hours and 14 minutes with no human intervention.\n\nEach agent controlled one player through the standard Mineflayer library. No one assigned roles, wrote game logic, or scouted a seed in advance. The agents planned, wrote, and debugged every program themselves, and coordinated through in-game chat and a shared memory.\n\nOver the run, they wrote 2,783 programs and died 605 times. They split the work, shared what they learned, and recovered each other's items after deaths.\n\nIf you build agents for long software or enterprise tasks, this is a useful case study. The team had to keep one plan consistent across thousands of dependent steps for more than a day.\n\nhttps://t.co/h1Z87NYKqp\n\nChat with Paper: https://t.co/beTXikB3S8"
+    },
+    {
+      "tweetId": "2111027115764207674",
+      "role": "commentary",
+      "authorHandle": "_rockt",
+      "url": "https://x.com/_rockt/status/2111027115764207674",
+      "tweetedAt": "2026-10-16T09:31:00.000Z",
+      "bestBit": "after @NetHack_LE now also @Minecraft!",
+      "text": "Cool, after @NetHack_LE now also @Minecraft!",
+      "quotedTweetText": "Four Gemini 4 Argon agents, one shared Minecraft world, one goal: defeat the Ender Dragon. 27 hours and 2,783 self-written programs later, the dragon fell. https://t.co/Cx7Djg1VTx"
+    }
+  ],
+  "isSuperseded": false
+}

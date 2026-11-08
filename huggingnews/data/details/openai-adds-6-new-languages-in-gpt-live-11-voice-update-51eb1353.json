@@ -1,0 +1,68 @@
+{
+  "slug": "openai-adds-6-new-languages-in-gpt-live-11-voice-update-51eb1353",
+  "title": "OpenAI Adds 6 New Languages in GPT-Live-1.1 Voice Update",
+  "publishedAt": "2026-10-15T18:39:12.821Z",
+  "eventTimeApprox": "2026-10-15T18:22:49.500Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "A new update to the voice capabilities in ChatGPT, Codex, and dots began rolling out to all users on Oct 15, 2026, to improve conversation flow and linguistic range. The GPT-Live-1.1 release introduces support for 6 additional languages, including Hindi, Korean, Japanese, German, French, and Mexican Spanish, while refining accents to create more natural speech patterns.\n\nThe software refresh focuses on reducing conversational friction by minimizing the frequency of filler phrases such as \"checking\" or \"let me check that,\" which previously occurred every few seconds. OpenAI will bring these voice enhancements to its API following the initial release to consumers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110797830361436604",
+      "role": "source",
+      "authorHandle": "openai",
+      "url": "https://x.com/OpenAI/status/2110797830361436604",
+      "tweetedAt": "2026-10-15T18:19:54.000Z",
+      "bestBit": "new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese",
+      "text": "New voices. Better accents. And less \"checking...\"\n\nGPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nRolling out today to all users. Coming soon to the API. https://t.co/L6K8ZUC1xm"
+    },
+    {
+      "tweetId": "2110800903611531580",
+      "role": "engagement",
+      "authorHandle": "altryne",
+      "url": "https://x.com/altryne/status/2110800903611531580",
+      "tweetedAt": "2026-10-15T18:32:06.000Z",
+      "bestBit": "no more \"checking\" and \"let me check that\" every few seconds",
+      "text": "new update to got live is rolling out! \n\nno more \"checking\" and \"let me check that\" every few seconds?? https://t.co/yUAxcoNo2g",
+      "quotedTweetText": "New voices. Better accents. And less \"checking...\"\n\nGPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nRolling out today to all users. Coming soon to the API. https://t.co/L6K8ZUC1xm"
+    }
+  ],
+  "isSuperseded": false
+}

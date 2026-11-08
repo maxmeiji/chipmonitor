@@ -1,0 +1,58 @@
+{
+  "slug": "applied-materials-and-intel-launch-joint-ai-chip-project-24a7c4b6",
+  "title": "Applied Materials and Intel Launch Joint AI Chip Project",
+  "publishedAt": "2026-10-06T13:11:52.360Z",
+  "eventTimeApprox": "2026-10-06T13:00:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMAT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Applied Materials Inc",
+      "hubKey": "amat"
+    },
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    }
+  ],
+  "summary": "Semiconductor hardware for artificial intelligence will be jointly researched at the EPIC Center under an agreement between Intel and Applied Materials. The two firms will co-develop AI chip technology and conduct research and development to advance processing capabilities for AI workloads.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107456336568926528",
+      "role": "source",
+      "authorHandle": "openoutcrier",
+      "url": "https://x.com/OpenOutcrier/status/2107456336568926528",
+      "tweetedAt": "2026-10-06T13:01:59.000Z",
+      "bestBit": "Applied Materials and Intel team up on AI chip R&amp;D at EPIC Center",
+      "text": "$AMAT $INTC Applied Materials and Intel team up on AI chip R&amp;D at EPIC Center\n\nhttps://t.co/SEEVYQU5GL"
+    }
+  ],
+  "isSuperseded": false
+}

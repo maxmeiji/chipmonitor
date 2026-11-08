@@ -1,0 +1,104 @@
+{
+  "slug": "gemini-4-argon-tops-ai-code-merge-test-with-605percent-score-1807c601",
+  "title": "Gemini 4 Argon Tops AI Code Merge Test With 60.5% Score",
+  "publishedAt": "2026-10-14T14:11:29.819Z",
+  "eventTimeApprox": "2026-10-12T22:36:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:COGN",
+      "kind": "private",
+      "role": "related",
+      "name": "Cognition",
+      "hubKey": "cognition"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109703511843979391/HUcm3unakAAZP4t-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109703511843979391/HUcm3unakAAZP4t-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2109703511843979391"
+    }
+  },
+  "summary": "Google has integrated the Gemini 4 Argon model into its Devin desktop and command-line interface after the system became the highest-scoring AI on a specialized mergeability evaluation. The model achieved a 60.5% success rate on Cognition's FrontierCode 1.1 benchmark, surpassing the previous top score of 52% held by Anthropic's Claude Opus 5.5. The benchmark specifically tests whether AI-generated patches would be accepted into real-world open-source repositories by human maintainers.\n\nFrontierCode 1.1 uses 100 private tasks based on actual repositories, requiring agents to pass both unit and qualitative tests. While performance is improving, Artificial Analysis found that top models still fail more than 40% of tasks, and nine items in the set were not passed by any model. OpenAI's GPT-6.1 Sol emerged as a cost-efficient alternative, scoring 49% at $0.81 per task, compared to $10.15 per task for the Opus 5.5 model.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109703511843979391",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2109703511843979391",
+      "tweetedAt": "2026-10-12T17:51:28.000Z",
+      "bestBit": "Claude Opus 5.5 (max with fallback) leads at a score of 52% after passing blockers in 58% of its attempts",
+      "text": "We're launching our leaderboard for FrontierCode 1.1, a private evaluation from Cognition that tests models on completing coding tasks in a way that would actually get merged by maintainers of real-world repositories\n\n@cognition announced FrontierCode in June 2026 and updated it to version 1.1 in July. Cognition built the dataset with open source maintainers who spent more than 40 hours per task. Each task requires the agent to make a change to a real open source repository, then checks both unit tests and qualitative tests for what maintainers would require to merge the change.\n\nWe run FrontierCode 1.1 Main, the primary 100-task set of the benchmark's 150 tasks, using our Stirrup open source reference harness for apples-to-apples comparisons across models. All tasks are private to avoid contamination. Each attempt is graded with both blocking and non-blocking criteria. An attempt that fails any blocking check scores zero, and one that passes them all scores between 70% and 100%.\n\nUnlike other coding evaluations, FrontierCode has a more holistic view of success based on real usage. Models need to pass unit tests, but are also assessed on behaviors like making excessive changes and large diffs, modifying files outside the relevant scope, or adding unhelpful tests. We think this approach is valuable in the current context: models are now very capable at coding tasks, but their changes can still require substantial cleanup before a maintainer would merge them.\n\nKey takeaways:\n\n➤ Leading models still fail more than 40% of the time: Claude Opus 5.5 (max with fallback) leads at a score of 52% after passing blockers in 58% of its attempts. Nine of the 100 tasks were not passed in any attempt by any of the models we evaluated for launch\n\n➤ The top of the leaderboard is tightly packed: nine models from six labs score between 43% and 52%. MiMo-V2.6-Pro is the leading open weights model at 45%, followed by DeepSeek V4.1 Flash (max) and Kimi K3 (max) at 44%\n\n➤ GPT-6.1 Sol (max) offers the strongest performance for its cost: At $0.81 per task it scores 49%, matching Claude Fable 5.1 (max with fallback). This means it achieves similar performance to leading Anthropic models, at less than a tenth of the cost per task\n\nThank you to @silasalberti, @ybenpan, @cl571128, and the rest of the team at Cognition for building FrontierCode and collaborating with us to bring it to Artificial Analysis - we’re working to add FrontierCode to our coding agent leaderboard very soon."
+    },
+    {
+      "tweetId": "2109728065782001869",
+      "role": "support",
+      "authorHandle": "cognition",
+      "url": "https://x.com/cognition/status/2109728065782001869",
+      "tweetedAt": "2026-10-12T19:29:02.000Z",
+      "bestBit": "first benchmark to measure end-to-end code quality and mergeability: would the maintainer actually merge this PR?",
+      "text": "FrontierCode 1.1 is now on @ArtificialAnlys!\n\nBuilt with open-source maintainers, FrontierCode is the first benchmark to measure end-to-end code quality and mergeability: would the maintainer actually merge this PR?",
+      "quotedTweetText": "Cost per Task on FrontierCode spans two orders of magnitude, from $0.09 for GPT-6 Luna (max) to $12.00 for Claude Fable 5.1 (max with fallback). Four models sit on the Pareto frontier for score vs. Cost per Task: GPT-6 Luna (max) at 42% and $0.09 per task, MiMo-V2.6-Pro at 45% and $0.18, GPT-6.1 Sol (max) at 49% and $0.81, and Claude Opus 5.5 (max with fallback) at 52% and $10.15.\n\nGPT-6 models led on token efficiency in our testing. GPT-6 Astra (max) and GPT-6.1 Sol (max) averaged 27k and 33k output tokens per task respectively, compared with 157k for Claude Opus 5.5 (max with fallback) and 236k for Claude Sonnet 5.5 (max with fallback)."
+    },
+    {
+      "tweetId": "2109964464439304562",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2109964464439304562",
+      "tweetedAt": "2026-10-13T11:08:24.000Z",
+      "bestBit": "Good showing by V4.1 and absurdly good one from Sol 6.1, don’t look down on them",
+      "text": "Good showing by V4.1 and absurdly good one from Sol 6.1, don’t look down on them\nHaiku continues to prove that Anthropic isn’t into small models, but it’s not for solo work anyway \nFable 5.5 will be scary",
+      "quotedTweetText": "We're launching our leaderboard for FrontierCode 1.1, a private evaluation from Cognition that tests models on completing coding tasks in a way that would actually get merged by maintainers of real-world repositories\n\n@cognition announced FrontierCode in June 2026 and updated it to version 1.1 in July. Cognition built the dataset with open source maintainers who spent more than 40 hours per task. Each task requires the agent to make a change to a real open source repository, then checks both unit tests and qualitative tests for what maintainers would require to merge the change.\n\nWe run FrontierCode 1.1 Main, the primary 100-task set of the benchmark's 150 tasks, using our Stirrup open source reference harness for apples-to-apples comparisons across models. All tasks are private to avoid contamination. Each attempt is graded with both blocking and non-blocking criteria. An attempt that fails any blocking check scores zero, and one that passes them all scores between 70% and 100%.\n\nUnlike other coding evaluations, FrontierCode has a more holistic view of success based on real usage. Models need to pass unit tests, but are also assessed on behaviors like making excessive changes and large diffs, modifying files outside the relevant scope, or adding unhelpful tests. We think this approach is valuable in the current context: models are now very capable at coding tasks, but their changes can still require substantial cleanup before a maintainer would merge them.\n\nKey takeaways:\n\n➤ Leading models still fail more than 40% of the time: Claude Opus 5.5 (max with fallback) leads at a score of 52% after passing blockers in 58% of its attempts. Nine of the 100 tasks were not passed in any attempt by any of the models we evaluated for launch\n\n➤ The top of the leaderboard is tightly packed: nine models from six labs score between 43% and 52%. MiMo-V2.6-Pro is the leading open weights model at 45%, followed by DeepSeek V4.1 Flash (max) and Kimi K3 (max) at 44%\n\n➤ GPT-6.1 Sol (max) offers the strongest performance for its cost: At $0.81 per task it scores 49%, matching Claude Fable 5.1 (max with fallback). This means it achieves similar performance to leading Anthropic models, at less than a tenth of the cost per task\n\nThank you to @silasalberti, @ybenpan, @cl571128, and the rest of the team at Cognition for building FrontierCode and collaborating with us to bring it to Artificial Analysis - we’re working to add FrontierCode to our coding agent leaderboard very soon."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "claude-opus-55-leads-first-ai-code-merge-test-with-52percent-score-94864895",
+    "title": "Claude Opus 5.5 Leads First AI Code Merge Test with 52% Score",
+    "publishedAt": "2026-10-12T19:42:18.443Z",
+    "eventTimeApprox": "2026-10-12T19:29:02.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 13,
+    "authorCount": 9
+  }
+}

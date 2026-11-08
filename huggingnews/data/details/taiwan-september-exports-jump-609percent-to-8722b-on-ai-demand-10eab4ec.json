@@ -1,0 +1,63 @@
+{
+  "slug": "taiwan-september-exports-jump-609percent-to-8722b-on-ai-demand-10eab4ec",
+  "title": "Taiwan September Exports Jump 60.9% to $87.22B on AI Demand",
+  "publishedAt": "2026-10-09T01:55:01.956Z",
+  "eventTimeApprox": "2026-10-08T21:00:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "global-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "global-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "Semiconductor shipments surged 46.1% year-on-year to $29.74B in September, propelling a rally in the island's trade performance. Overall exports rose 60.9% to $87.22B in September, reaching an all-time monthly high as Taiwan benefited from expanding artificial intelligence business and strong seasonal demand for technology goods.\n\nIT and audio-visual exports, including AI servers, PCs, and graphics cards, jumped 103% to $39.13B, while electronics components rose 45.3% to $31.13B. Total semiconductor exports for the first nine months of the year reached $220.0B, up 47.3% from the previous year. Imports also reached a record $63.59B in September, a 51.7% increase.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108301562133250168",
+      "role": "source",
+      "authorHandle": "dnystedt",
+      "url": "https://x.com/dnystedt/status/2108301562133250168",
+      "tweetedAt": "2026-10-08T21:00:37.000Z",
+      "bestBit": "Taiwan's semiconductor exports in September rose 46.1% year-on-year to US$29.74 billion, raising January thru September to $220.0B, up 47.3%",
+      "text": "Taiwan's semiconductor exports in September rose 46.1% year-on-year to US$29.74 billion, raising January thru September to $220.0B, up 47.3%, and leading Taiwan exports to an all-time high for a single month in September.\n\nOverall exports rose 60.9% to $87.22 billion, led by expanding AI-related business opportunities and strong sales in the traditional peak season for technology goods, media report, while imports also hit a record high, rising 51.7% to $63.59 billion.\n\nIT and Audio/visual exports rose 103% to $39.13 billion, a category that includes AI servers, general servers, PCs, and graphics cards, while electronics component exports, including semiconductors, rose 45.3% to $31.13B $TSM $UMC $ASX https://t.co/X7rzWs1uVT"
+    },
+    {
+      "tweetId": "2108123095781228965",
+      "role": "commentary",
+      "authorHandle": "tylermacro10",
+      "url": "https://x.com/tylermacro10/status/2108123095781228965",
+      "tweetedAt": "2026-10-08T09:11:27.000Z",
+      "bestBit": "Arguably most important macro data point in the world right now",
+      "text": "Taiwan exports putting up crazy numbers\n\nArguably most important macro data point in the world right now"
+    }
+  ],
+  "isSuperseded": false
+}

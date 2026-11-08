@@ -1,0 +1,53 @@
+{
+  "slug": "perplexity-ships-decider-for-mac-to-run-4b-ai-model-locally-45b62bf1",
+  "title": "Perplexity Ships Decider for Mac to Run 4B AI Model Locally",
+  "publishedAt": "2026-10-22T23:24:01.691Z",
+  "eventTimeApprox": "2026-10-22T23:05:28.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:PPLX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Perplexity AI",
+      "hubKey": "perplexity-ai"
+    }
+  ],
+  "summary": "Users can now operate the pplx-decider-flash-v1.2 decision model on their own hardware without relying on a cloud API key. Perplexity released an application called Decider for Mac that allows this 4B parameter model to process text and image inputs entirely on the device.\n\nThe tool calculates and returns a probability score based on user queries, shifting the computational load from external servers to the local machine. The release enables on-device inference for the specific model version without the need for an internet connection.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113400672238616800",
+      "role": "source",
+      "authorHandle": "perplexitydevs",
+      "url": "https://x.com/perplexitydevs/status/2113400672238616800",
+      "tweetedAt": "2026-10-22T22:42:40.000Z",
+      "bestBit": "Decider for Mac is an app that runs the 4B decision model on device. Ask a question about text or an image and get a probability back",
+      "text": "You can now run pplx-decider-flash-v1.2 locally on your Mac, without an API key.\n\nDecider for Mac is an app that runs the 4B decision model on device. Ask a question about text or an image and get a probability back, all on your machine.\n\nhttps://t.co/1BJ4Qv3Urr https://t.co/raBBZ26kbC"
+    }
+  ],
+  "isSuperseded": false
+}

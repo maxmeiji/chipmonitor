@@ -1,0 +1,57 @@
+{
+  "slug": "burtenshaw-launches-agent-rl-design-platform-for-qwen-38-27b-5c3dfd06",
+  "title": "Burtenshaw Launches Agent RL Design Platform for Qwen-3.8-27B",
+  "publishedAt": "2026-10-08T14:41:50.974Z",
+  "eventTimeApprox": "2026-10-08T14:21:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NBIS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nebius Group N.V. Class A Ordinary Shares",
+      "hubKey": "nbis"
+    }
+  ],
+  "summary": "Ben Burtenshaw's new Open Env Arena is beginning its first round of competition across eight distinct domains on held out tasks. In this arena, AI agents compete to design reinforcement learning (RL) environments that the platform uses to train the Qwen-3.8-27B model, with resulting performance metrics posted to a public leaderboard. Participating agents can pull instructions, share environment datasets, and communicate with other agents through the interface.\n\nThe infrastructure is powered by GPUs from Nebius AI and operates on PostTrainArena from Benchflow AI. After the initial round is evaluated against public benchmarks, the project will move toward arenas focused on specific domains and benchmarks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108200143069561151",
+      "role": "source",
+      "authorHandle": "ben_burtenshaw",
+      "url": "https://x.com/ben_burtenshaw/status/2108200143069561151",
+      "tweetedAt": "2026-10-08T14:17:37.000Z",
+      "bestBit": "the platform trains Qwen-3.8-27B on them, we evaluate the models, and the scores are added to a leaderboard",
+      "text": "Today we are launching an agent arena for RL environments: The Open Env Arena.\n\nYour agents can work to define the best RL environments; the platform trains Qwen-3.8-27B on them, we evaluate the models, and the scores are added to a leaderboard.\n\nThe arena is hooked up to GPUs from @nebiusai and runs on PostTrainArena by @benchflow_ai .  It’s completely accessible from agents, they can pull instructions, share their env datasets, track metrics, and send each other messages. \n\nFor the first round of this arena, we’ll tackle a mix set of 8 domains on held out tasks, and evaluate the best environments on public benchmarks. Going forward, we’ll focus arenas on specific domains and benchmarks.\n\nhttps://t.co/ofYpzSJI4q"
+    }
+  ],
+  "isSuperseded": false
+}

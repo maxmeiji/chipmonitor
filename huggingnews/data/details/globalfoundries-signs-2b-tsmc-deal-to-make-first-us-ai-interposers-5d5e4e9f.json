@@ -1,0 +1,66 @@
+{
+  "slug": "globalfoundries-signs-2b-tsmc-deal-to-make-first-us-ai-interposers-5d5e4e9f",
+  "title": "GlobalFoundries Signs $2B TSMC Deal to Make First US AI Interposers",
+  "publishedAt": "2026-10-08T13:08:28.928Z",
+  "eventTimeApprox": "2026-10-08T12:55:09.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "business",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GFS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "GlobalFoundries Inc. Ordinary Shares",
+      "hubKey": "gfs"
+    },
+    {
+      "ticker": "TSM",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "hubKey": "tsm"
+    }
+  ],
+  "summary": "Production of silicon interposers will begin at a New York site through a collaboration between GlobalFoundries and TSMC. The 5 year contract is valued at $2B and establishes the first domestic source of this specific component used in AI packaging, with volume production ramping in 1H 2028.\n\nThe agreement allows TSMC to procure the hardware within the United States for the first time. This partnership focuses on the manufacture of silicon interposers, which are necessary components for AI packaging processes.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108179391117488329",
+      "role": "source",
+      "authorHandle": "wolf_financial",
+      "url": "https://x.com/WOLF_Financial/status/2108179391117488329",
+      "tweetedAt": "2026-10-08T12:55:09.000Z",
+      "bestBit": "signed a $2B, five-year deal to make silicon interposers for TSMC in New York, the first US source of the AI-packaging component",
+      "text": "GlobalFoundries $GFS signed a $2B, five-year deal to make silicon interposers for TSMC in New York, the first US source of the AI-packaging component; volume ramp in 1H 2028."
+    }
+  ],
+  "isSuperseded": false
+}

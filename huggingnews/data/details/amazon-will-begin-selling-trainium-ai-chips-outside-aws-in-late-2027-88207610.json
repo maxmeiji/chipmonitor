@@ -1,0 +1,59 @@
+{
+  "slug": "amazon-will-begin-selling-trainium-ai-chips-outside-aws-in-late-2027-88207610",
+  "title": "Amazon Will Begin Selling Trainium AI Chips Outside AWS in Late 2027",
+  "publishedAt": "2026-10-30T00:51:48.438Z",
+  "eventTimeApprox": "2026-10-29T22:36:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "summary": "The company's customized Trainium hardware, currently available only through its cloud division, will be made available for direct purchase by external buyers starting in late 2027. CEO Andy Jassy said the move is intended to establish a substantial new business line by selling the artificial intelligence chips outside of Amazon Web Services.\n\nJassy noted that while external sales provide immediate revenue, the chips produce higher total revenue and free cash flow when used internally over a 5 to 6 year period. By selling the hardware externally, Amazon intends to maintain its internal cloud revenue while adding a direct hardware sales stream.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115933466361753652",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115933466361753652",
+      "tweetedAt": "2026-10-29T22:27:05.000Z",
+      "bestBit": "CEO Andy Jassy says the company expects to build “a very significant business selling chips externally.”",
+      "text": "Amazon $AMZN plans to begin selling its Trainium AI chips outside AWS in late 2027.\n\nCEO Andy Jassy says the company expects to build “a very significant business selling chips externally.”\n\nHe says external sales generate revenue immediately, while using those chips inside AWS generates more total revenue and free cash flow over five to six years of use."
+    },
+    {
+      "tweetId": "2115935868678775080",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2115935868678775080",
+      "tweetedAt": "2026-10-29T22:36:37.000Z",
+      "bestBit": "those same chips generate more cash flow inside AWS over 5 to 6 years so Amazon is looking to capture both direct chip sales and years of recurring cloud revenue.",
+      "text": "$AMZN plans to start selling Trainium chips outside AWS in late 2027 with CEO Andy Jassy expecting “a very significant business selling chips externally.”\n\nWhat's interesting is that Jassy says those same chips generate more cash flow inside AWS over 5 to 6 years so Amazon is looking to capture both direct chip sales and years of recurring cloud revenue."
+    }
+  ],
+  "isSuperseded": false
+}

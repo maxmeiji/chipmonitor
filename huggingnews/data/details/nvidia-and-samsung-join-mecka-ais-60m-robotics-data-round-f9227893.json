@@ -1,0 +1,128 @@
+{
+  "slug": "nvidia-and-samsung-join-mecka-ais-60m-robotics-data-round-f9227893",
+  "title": "Nvidia and Samsung Join Mecka AI's $60M Robotics Data Round",
+  "publishedAt": "2026-10-09T00:26:15.309Z",
+  "eventTimeApprox": "2026-10-07T18:49:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "QCOM",
+      "kind": "equity",
+      "role": "related",
+      "name": "Qualcomm Inc",
+      "hubKey": "qcom"
+    }
+  ],
+  "summary": "The firm's annualized sales topped $100M in June and are projected to reach $300M by December. Mecka earns this revenue by employing individuals to wear body sensors while performing tasks such as repairing cars or making coffee to create training sets for humanoid robots. New strategic backers joining the venture include Nvidia, Samsung, Microsoft's M12 venture fund, and Qualcomm Ventures, as well as operators Tony Xu and Frank Slootman.\n\nThese investments are part of a $60M Series B round led by Sequoia that brings the company's total funding to over $120M. The capital will scale a computer vision lab that converts raw motion footage into structured training signals and supports the production of custom multi-sensor capture hardware. The startup aims to build the first internet-scale dataset for physical AI to serve as a deployment layer for general purpose robotics.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107885034787266630",
+      "role": "source",
+      "authorHandle": "joshavata",
+      "url": "https://x.com/joshavata/status/2107885034787266630",
+      "tweetedAt": "2026-10-07T17:25:29.000Z",
+      "bestBit": "This brings our total funding to over $120M to become the data and deployment layer for physical AI",
+      "text": "Today @MeckaAI is announcing a $60M Series B from @sequoia to accelerate the advent of general purpose robotics\n\nThis brings our total funding to over $120M to become the data and deployment layer for physical AI\n\nRead more below 🧵 https://t.co/qm5PfuYzC6"
+    },
+    {
+      "tweetId": "2107993388650045601",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2107993388650045601",
+      "tweetedAt": "2026-10-08T00:36:03.000Z",
+      "bestBit": "Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia",
+      "text": "Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others (@mtemkin / TechCrunch)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2107896514102317451",
+      "role": "commentary",
+      "authorHandle": "shaunmmaguire",
+      "url": "https://x.com/shaunmmaguire/status/2107896514102317451",
+      "tweetedAt": "2026-10-07T18:11:06.000Z",
+      "bestBit": "@joshavata is extremely high intensity",
+      "text": "I'm excited about this one\n\n@joshavata is extremely high intensity\n\nAlso, thank you to @pythianism for originally sourcing this for us!",
+      "quotedTweetText": "Today @MeckaAI is announcing a $60M Series B from @sequoia to accelerate the advent of general purpose robotics\n\nThis brings our total funding to over $120M to become the data and deployment layer for physical AI\n\nRead more below 🧵 https://t.co/qm5PfuYzC6"
+    },
+    {
+      "tweetId": "2107888167504298228",
+      "role": "analysis",
+      "authorHandle": "biad_anas",
+      "url": "https://x.com/biad_anas/status/2107888167504298228",
+      "tweetedAt": "2026-10-07T17:37:56.000Z",
+      "bestBit": "NVIDIA, Samsung, Microsoft and Qualcomm joined the round, alongside exceptional founders and operators including Tony Xu, Frank Slootman",
+      "text": "We @sequoia are thrilled to lead @MeckaAI’s Series B. AI took the digital world by storm; bringing it into the physical world will be a wave at least as large, but harder - it demands excellence across research, hardware, software, operations and deployment.\n\nThat is the mission @joshavata, @jasontheutopian and the Mecka AI team have taken on: helping physical AI labs, robotics companies and enterprises reach physical AGI, as their partner for training data, RL and deployment. They built differentiated advantages in each discipline and combined them into a strong, scalable and flexible platform that has helped them win over many of the leading AI labs and robotics companies and quickly become the emerging leader in this category.\n\nThat is why we are excited to back them, and why NVIDIA, Samsung, Microsoft and Qualcomm joined the round, alongside exceptional founders and operators including Tony Xu, Frank Slootman, Milan Kovac, Jonathan Chadwick and many more."
+    },
+    {
+      "tweetId": "2107911684228792636",
+      "role": "commentary",
+      "authorHandle": "intuitmachine",
+      "url": "https://x.com/IntuitMachine/status/2107911684228792636",
+      "tweetedAt": "2026-10-07T19:11:23.000Z",
+      "bestBit": "Mecka's bet is that robots don't lack intelligence, they lack experience, and that experience has to be recorded from humans first",
+      "text": "Moravec's paradox, restated as a data problem.\n\nWe digitized human knowledge, and machines learned to reason. Nobody digitized how a hand grips, folds or pours.\n\nMecka's bet is that robots don't lack intelligence, they lack experience, and that experience has to be recorded from humans first. A year ago that bet was controversial but Sequoia is now leading their $60M Series B.",
+      "quotedTweetText": "Today @MeckaAI is announcing a $60M Series B from @sequoia to accelerate the advent of general purpose robotics\n\nThis brings our total funding to over $120M to become the data and deployment layer for physical AI\n\nRead more below 🧵 https://t.co/qm5PfuYzC6"
+    },
+    {
+      "tweetId": "2107894323811672152",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2107894323811672152",
+      "tweetedAt": "2026-10-07T18:02:24.000Z",
+      "bestBit": "custom multi-sensor capture hardware",
+      "text": "Robotics doesn't have an internet-scale dataset. That's the real bottleneck.\n\nMecka just raised a $60M Series B, led by Sequoia, to build one.\n\n> custom multi-sensor capture hardware\n> a computer vision lab turning raw, noisy footage into structured training signal\n> hiring engineers to scale both\n\nA single second of reality holds more information than a page of text. That's the scale of the job.",
+      "quotedTweetText": "Today @MeckaAI is announcing a $60M Series B from @sequoia to accelerate the advent of general purpose robotics\n\nThis brings our total funding to over $120M to become the data and deployment layer for physical AI\n\nRead more below 🧵 https://t.co/qm5PfuYzC6"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "mecka-ai-raises-60m-from-sequoia-to-build-robotics-data-layer-e9605233",
+    "title": "Mecka AI Raises $60M from Sequoia to Build Robotics Data Layer",
+    "publishedAt": "2026-10-07T18:09:00.087Z",
+    "eventTimeApprox": "2026-10-07T17:27:23.000Z",
+    "routingTopicKeys": [
+      "startups",
+      "ai"
+    ],
+    "tweetCount": 12,
+    "authorCount": 9
+  }
+}

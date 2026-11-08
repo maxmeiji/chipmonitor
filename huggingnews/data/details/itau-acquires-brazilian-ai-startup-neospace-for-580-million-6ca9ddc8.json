@@ -1,0 +1,72 @@
+{
+  "slug": "itau-acquires-brazilian-ai-startup-neospace-for-580-million-6ca9ddc8",
+  "title": "Itau Acquires Brazilian AI Startup NeoSpace for $580 Million",
+  "publishedAt": "2026-10-26T12:22:52.358Z",
+  "eventTimeApprox": "2026-10-26T10:52:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "business",
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "south-america",
+      "name": "South America"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ITUB",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Itau Unibanco Holding S.A. American Depositary Shares",
+      "hubKey": "itub"
+    }
+  ],
+  "summary": "Latin America's largest bank by assets has purchased a Brazilian artificial intelligence company to expand its digital capabilities. The acquisition of the startup NeoSpace was valued at 2.9 billion real, or approximately $580 million.\n\nItau said the deal is intended to help accelerate the bank's technology ambitions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114670917976498177",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2114670917976498177",
+      "tweetedAt": "2026-10-26T10:50:10.000Z",
+      "bestBit": "Itau, Latin America’s biggest bank by assets, said it acquired Brazilian AI startup NeoSpace, in a 2.9 billion-real ($580 million) deal",
+      "text": "Itau, Latin America’s biggest bank by assets, said it acquired Brazilian AI startup NeoSpace, in a 2.9 billion-real ($580 million) deal to help accelerate the bank’s technology ambitions https://t.co/4burBR3HDM"
+    },
+    {
+      "tweetId": "2114692875455729765",
+      "role": "support",
+      "authorHandle": "jornaloglobo",
+      "url": "https://x.com/JornalOGlobo/status/2114692875455729765",
+      "tweetedAt": "2026-10-26T12:17:25.000Z",
+      "bestBit": "Itaú compra a startup de inteligúncia artificial NeoSpace por US$ 580 milhões",
+      "text": "Itaú compra a startup de inteligência artificial NeoSpace por US$ 580 milhões https://t.co/KbfMN2HCzx"
+    }
+  ],
+  "isSuperseded": false
+}

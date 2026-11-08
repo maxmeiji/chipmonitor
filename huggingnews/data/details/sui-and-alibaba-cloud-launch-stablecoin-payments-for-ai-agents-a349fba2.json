@@ -1,0 +1,70 @@
+{
+  "slug": "sui-and-alibaba-cloud-launch-stablecoin-payments-for-ai-agents-a349fba2",
+  "title": "Sui and Alibaba Cloud Launch Stablecoin Payments for AI Agents",
+  "publishedAt": "2026-10-07T06:37:24.229Z",
+  "eventTimeApprox": "2026-10-07T06:00:10.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "crypto",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "blockchains",
+      "name": "Blockchains"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107718046517461486/VcUimjAeInQ2czuE-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107718046517461486/VcUimjAeInQ2czuE-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2107716187752906752/vid/avc1/1920x1080/Hl575h3P9okPO7Qe.mp4?tag=29",
+    "credit": {
+      "handle": "degeneratenews",
+      "tweetUrl": "https://x.com/DegenerateNews/status/2107718046517461486"
+    }
+  },
+  "summary": "AI agents can now access and pay for cloud computing resources via a new integration between the Sui network and Alibaba Cloud. Announced at Sui Basecamp, the partnership enables these agents to settle payments on a per call basis using stablecoins directly through the Sui blockchain.\n\nThe system allows users to set specific budgets and spending limits to control the costs incurred by their autonomous agents. This infrastructure is designed to give AI agents the necessary tools to independently purchase and use the cloud services required to finish assigned tasks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107704484323553543",
+      "role": "source",
+      "authorHandle": "suinetwork",
+      "url": "https://x.com/SuiNetwork/status/2107704484323553543",
+      "tweetedAt": "2026-10-07T05:28:02.000Z",
+      "bestBit": "Sui and @alibaba_cloud are collaborating to bring Alibaba Cloud services to Sui Agent Payments, with per-call payments in stables on Sui",
+      "text": "Imagine this checkout experience: you set a budget, your agent does the rest.\n\nSui and @alibaba_cloud are collaborating to bring Alibaba Cloud services to Sui Agent Payments, with per-call payments in stables on Sui.\n\nAnnounced live at Sui Basecamp:"
+    }
+  ],
+  "isSuperseded": false
+}

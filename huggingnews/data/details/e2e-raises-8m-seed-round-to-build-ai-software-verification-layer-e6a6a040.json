@@ -1,0 +1,66 @@
+{
+  "slug": "e2e-raises-8m-seed-round-to-build-ai-software-verification-layer-e6a6a040",
+  "title": "e2e Raises $8M Seed Round to Build AI Software Verification Layer",
+  "publishedAt": "2026-11-03T18:08:42.931Z",
+  "eventTimeApprox": "2026-11-03T16:11:34.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "A software verification startup has entered the market to address the challenges of autonomous coding by creating an open-source testing framework for AI agents. The company, which recently rebranded from TesterArmy to e2e, provides a verification layer intended to help individual developers and large enterprises ensure the reliability of software produced by artificial intelligence.\n\nThe startup secured $8M in seed funding from investors including Credo Ventures, Kaya, Point Nine Capital, Baobab Ventures, and Script Capital, with participation from Uber co-founder Oscar Salazar and Snowflake co-founder Marcin Żukowski. In its first 30 days of operation, e2e reported 1.5M npm downloads, 12k GitHub stars and the execution of 8M tests.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117648134029316602",
+      "role": "source",
+      "authorHandle": "e2e_inc",
+      "url": "https://x.com/e2e_inc/status/2117648134029316602",
+      "tweetedAt": "2026-11-03T16:00:33.000Z",
+      "bestBit": "TesterArmy is now e2e.",
+      "text": "TesterArmy is now e2e.\n\nThe software verification layer for the agentic coding era.\n\nAnnouncing our new brand identity and $8M seed round.\n\nhttps://t.co/4Go8iRhsU1 https://t.co/HDaGkhRjlh"
+    },
+    {
+      "tweetId": "2117649743396401433",
+      "role": "source",
+      "authorHandle": "szymonrybczak",
+      "url": "https://x.com/SzymonRybczak/status/2117649743396401433",
+      "tweetedAt": "2026-11-03T16:06:57.000Z",
+      "bestBit": "We hit 1.5M npm downloads, 12k GitHub stars and 60 contributors in the first month.",
+      "text": "We raised $8M to build the software verification layer for the agentic coding era.\n\nWe hit 1.5M npm downloads, 12k GitHub stars and 60 contributors in the first month.\n\nBacked by: @CredoVentures, @kaya_vc, @PointNineCap, @baobab_ventures and @scriptcapital.\n\nJoined by incredible angels: Oscar Salazar (co-founder of Uber), @marcinzukowski (co-founder of Snowflake), @Carles_Reina, @chadbyers, @emilkowalski, @lukas_m_ziegler, @MattSwulinski, and many more.\n\nVery proud of the whole team.\n\nWe're just getting started. 🫡",
+      "quotedTweetText": "TesterArmy is now e2e.\n\nThe software verification layer for the agentic coding era.\n\nAnnouncing our new brand identity and $8M seed round.\n\nhttps://t.co/4Go8iRhsU1 https://t.co/HDaGkhRjlh"
+    },
+    {
+      "tweetId": "2117665954788483245",
+      "role": "support",
+      "authorHandle": "carles_reina",
+      "url": "https://x.com/Carles_Reina/status/2117665954788483245",
+      "tweetedAt": "2026-11-03T17:11:22.000Z",
+      "bestBit": "from 0 to 12k GitHub stars and 8M tests in under a month",
+      "text": "I love ambitious ideas & people.\n\nSoftware testing has been stuck in an old framework that isn't fit for the Agentic world. Szymon & Oskar decided to start from scratch and build a new Agent testing framework called @e2e_inc that serves both developers and large enterprises. And they are open-sourcing the tech so developers worldwide can help build it.\n\nFrom 0 to 12k GitHub stars and 8M tests in under a month  🤯 🚀\n\nLucky to be participating in the $8M seed round led by our friends at @CredoVentures, KAYA, @PointNineCap , @baobab_ventures, Script Capital, Oscar Salazar, Marcin Żukowski and many more top Angels.",
+      "quotedTweetText": "TesterArmy is now e2e.\n\nThe software verification layer for the agentic coding era.\n\nAnnouncing our new brand identity and $8M seed round.\n\nhttps://t.co/4Go8iRhsU1 https://t.co/HDaGkhRjlh"
+    }
+  ],
+  "isSuperseded": false
+}

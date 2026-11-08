@@ -1,0 +1,93 @@
+{
+  "slug": "gemini-4-argon-sets-sota-record-on-wandr-benchmark-a16bc0b0",
+  "title": "Gemini 4 Argon Sets SoTA Record on WANDR Benchmark",
+  "publishedAt": "2026-10-16T19:08:27.661Z",
+  "eventTimeApprox": "2026-10-16T15:14:41.500Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:PPLX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Perplexity AI",
+      "hubKey": "perplexity-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111110772747321460/HUwsDzfaAAEhrGS-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111110772747321460/HUwsDzfaAAEhrGS-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "perplexity_ai",
+      "tweetUrl": "https://x.com/perplexity_ai/status/2111110772747321460"
+    }
+  },
+  "summary": "Perplexity has integrated a new frontier AI from Google into its fast search and Computer agent modes for all users. The Gemini 4 Argon model is also accessible to Pro and Max subscribers and recently established a new State-of-the-Art (SoTA) record on the Wide-And-Deep-Research (WANDR) benchmark.\n\nThe WANDR benchmark measures a model's ability to conduct extensive research across diverse information sources. Perplexity CEO Arav Srinivas announced the integration on social media, which Google CEO Sundar Pichai later highlighted in a retweet.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111110772747321460",
+      "role": "source",
+      "authorHandle": "perplexity_ai",
+      "url": "https://x.com/perplexity_ai/status/2111110772747321460",
+      "tweetedAt": "2026-10-16T15:03:25.000Z",
+      "bestBit": "now available in Perplexity for Pro and Max subscribers",
+      "text": "Gemini 4 Argon sets a new record on WANDR.\n\nIt is now available in Perplexity for Pro and Max subscribers. https://t.co/n1TyI9RhBX"
+    },
+    {
+      "tweetId": "2111111329536987234",
+      "role": "source",
+      "authorHandle": "aravsrinivas",
+      "url": "https://x.com/AravSrinivas/status/2111111329536987234",
+      "tweetedAt": "2026-10-16T15:05:38.000Z",
+      "bestBit": "Gemini 4 Argon is a frontier model and has set a new SoTA on Wide-And-Deep-Research (WANDR) benchmark",
+      "text": "Gemini 4 Argon is a frontier model and has set a new SoTA on Wide-And-Deep-Research (WANDR) benchmark. Available now to all Perplexity users both on fast search and Computer (agent) modes.",
+      "quotedTweetText": "Gemini 4 Argon sets a new record on WANDR.\n\nIt is now available in Perplexity for Pro and Max subscribers. https://t.co/n1TyI9RhBX"
+    },
+    {
+      "tweetId": "2111115891903729685",
+      "role": "commentary",
+      "authorHandle": "marktenenholtz",
+      "url": "https://x.com/marktenenholtz/status/2111115891903729685",
+      "tweetedAt": "2026-10-16T15:23:45.000Z",
+      "bestBit": "Who'd have thought that Google is good at search?",
+      "text": "Argon is SOTA on WANDR, congrats Gemini team!\n\nWho'd have thought that Google is good at search?",
+      "quotedTweetText": "Gemini 4 Argon sets a new record on WANDR.\n\nIt is now available in Perplexity for Pro and Max subscribers. https://t.co/n1TyI9RhBX"
+    }
+  ],
+  "isSuperseded": false
+}

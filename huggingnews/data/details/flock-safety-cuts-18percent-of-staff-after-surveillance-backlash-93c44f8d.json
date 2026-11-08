@@ -1,0 +1,42 @@
+{
+  "slug": "flock-safety-cuts-18percent-of-staff-after-surveillance-backlash-93c44f8d",
+  "title": "Flock Safety Cuts 18% of Staff After Surveillance Backlash",
+  "publishedAt": "2026-10-09T01:53:48.463Z",
+  "eventTimeApprox": "2026-10-09T01:02:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "business",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    }
+  ],
+  "summary": "Flock Safety plans to eliminate approximately 270 staff positions by the end of October, sources said. The maker of AI-powered surveillance cameras and license-plate readers is reducing its headcount by roughly 18% to address mounting opposition from legislators and local communities regarding its tracking technology.\n\nThe personnel cuts follow a voluntary buyout program the company offered to employees in September. The reductions come as the firm faces increasing pushback against the use of its automated surveillance tools in urban areas, though specific internal financial goals for the layoffs were not disclosed.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108371879891226974",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2108371879891226974",
+      "tweetedAt": "2026-10-09T01:40:02.000Z",
+      "bestBit": "Flock Safety plans to let go of about 18% of its employees, as the maker of AI-powered surveillance cameras and license-plate readers faces mounting opposition to its products from communities and ‌lawmakers",
+      "text": "Exclusive: Flock Safety plans to let go of about 18% of its employees, as the maker of AI-powered surveillance cameras and license-plate readers faces mounting opposition to its products from communities and ‌lawmakers https://t.co/b304dvSu8y"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "trump-says-us-may-take-stakes-in-openai-and-anthropic-6c28a6cd",
+  "title": "Trump Says US May Take Stakes in OpenAI and Anthropic",
+  "publishedAt": "2026-10-02T15:51:21.964Z",
+  "eventTimeApprox": "2026-09-27T15:28:56.000Z",
+  "isFreshStory": false,
+  "tweetCount": 125,
+  "authorCount": 70,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics",
+    "business",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "President Donald Trump said in a TIME interview that he might take US government equity stakes in OpenAI and Anthropic, while rejecting nationalization of the AI companies. Asked about taking 10% stakes modeled on the government's Intel deal, he replied: “I might. Maybe I could do that.”\n\nTrump said the Intel stake had made the government about $60 billion. OpenAI reportedly offered Washington a 5% stake in July, while Anthropic and the administration have denied discussing a stake in that company.\n\nAsked what guardrails would apply if leading AI labs did bad things, Trump said: “I have a DOJ, I have an FBI.” AI researcher Gary Marcus challenged the prospect of government ownership, writing: “no way will this government properly police companies that it has a 10% equity stake in.”",
+  "selectedTweets": [
+    {
+      "tweetId": "2105693155853205594",
+      "role": "source",
+      "authorHandle": "ns123abc",
+      "url": "https://x.com/ns123abc/status/2105693155853205594",
+      "tweetedAt": "2026-10-01T16:15:44.000Z",
+      "bestBit": "Trump REJECTS nationalizing OpenAI and Anthropic but says the US government might take an Intel-style 10% equity stake",
+      "text": "🚨 BREAKING: Trump REJECTS nationalizing OpenAI and Anthropic but says the US government might take an Intel-style 10% equity stake https://t.co/K8wak7gZy4"
+    },
+    {
+      "tweetId": "2105703249290702873",
+      "role": "commentary",
+      "authorHandle": "garymarcus",
+      "url": "https://x.com/GaryMarcus/status/2105703249290702873",
+      "tweetedAt": "2026-10-01T16:55:51.000Z",
+      "bestBit": "no way will this government properly police companies that it has a 10% equity stake in",
+      "text": "no way will this government properly police companies that it has a 10% equity stake in",
+      "quotedTweetText": "🚨 BREAKING: Trump REJECTS nationalizing OpenAI and Anthropic but says the US government might take an Intel-style 10% equity stake https://t.co/K8wak7gZy4"
+    },
+    {
+      "tweetId": "2105649276265087205",
+      "role": "source",
+      "authorHandle": "viacristiano",
+      "url": "https://x.com/viaCristiano/status/2105649276265087205",
+      "tweetedAt": "2026-10-01T13:21:23.000Z",
+      "bestBit": "Trump says Anthropic CEO Dario Amodei's views are \"much different ... than what is portrayed in the media,\" adding that he \"understands.\"",
+      "text": "Here are the tech &amp; AI bits from Trump's interview with @TIME 🧵\n\nFirst, Trump says Anthropic CEO Dario Amodei's views are \"much different ... than what is portrayed in the media,\" adding that he \"understands.\" Trump says he liked Amodei and his wife and he's a \"very smart guy\" https://t.co/65tQtGpieL"
+    },
+    {
+      "tweetId": "2105693571080995155",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2105693571080995155",
+      "tweetedAt": "2026-10-01T16:17:23.000Z",
+      "bestBit": "Trump rejected nationalizing frontier labs, but when TIME asked why the U.S. shouldn't take stakes in OpenAI and Anthropic like it did with Intel, he said:\n\n“I might. Maybe I could do that.”",
+      "text": "🚨BREAKING: Trump just laid out his approach to frontier SI in a new TIME interview.\n\nHe called SI safety fears “phony threats” and said he is “not going to kill a thing” because of them.\n\nTIME then asked whether that criticism included Anthropic CEO Dario Amodei, who had just spent 2½ hours at dinner with Trump the night before.\n\nTrump: “Well, I don't know until last night. Yeah, yeah, but it could be. I mean, I don't know.”\n\nHe then called both Dario and Sam Altman “smart” and said the industry is dealing with “a very high level of IQ.”\n\nAsked what his guardrail is if the top AI labs “do bad things”:\n\n“I have a DOJ, I have an FBI.”\n\nTrump rejected nationalizing frontier labs, but when TIME asked why the U.S. shouldn't take stakes in OpenAI and Anthropic like it did with Intel, he said:\n\n“I might. Maybe I could do that.”\n\nHe also defended the data-center buildout, saying if America doesn't build them, they'll be built elsewhere, and added: “I don't want China to have all these data centers.”"
+    },
+    {
+      "tweetId": "2105650186722869500",
+      "role": "support",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2105650186722869500",
+      "tweetedAt": "2026-10-01T13:25:00.000Z",
+      "bestBit": "After meeting with Anthropic CEO Dario Amodei, Trump warned him that regulation could potentially “put you out of business.”",
+      "text": "🚨🇺🇸🇨🇳 Trump is making his AI strategy abundantly clear: America will NOT regulate itself out of the race.\n\nAfter meeting with Anthropic CEO Dario Amodei, Trump warned him that regulation could potentially “put you out of business.”\n\nHe said AI companies need to act responsibly themselves, emphasizing the U.S. is ahead of the rest of the world and attracting TRILLIONS in investment.\n\nTrump’s calculation: AI carries serious risks, but losing America’s technological lead is even riskier...\n\nSource: TIME / Writer: Samuel"
+    },
+    {
+      "tweetId": "2105724723112169589",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2105724723112169589",
+      "tweetedAt": "2026-10-01T18:21:11.000Z",
+      "bestBit": "Trump also said Amodei's views differed from media portrayals, but warned that companies seeking regulation risk being put out of business.",
+      "text": "President Trump just told TIME he \"might\" take government stakes in OpenAI and Anthropic, copying his Intel deal.\n\nBut he ruled out nationalizing frontier labs and he described Nvidia the same way, saying Jensen Huang could sell a restricted chip only if the US took a cut.\n\nTrump also said Amodei's views differed from media portrayals, but warned that companies seeking regulation risk being put out of business."
+    },
+    {
+      "tweetId": "2105124672450740280",
+      "role": "commentary",
+      "authorHandle": "jmichaelwaller",
+      "url": "https://x.com/JMichaelWaller/status/2105124672450740280",
+      "tweetedAt": "2026-09-30T02:36:47.000Z",
+      "bestBit": "Anthropic chief DARIO just walked up and said President Trump helped put his Super Intelligence worries at ease\n\n\"If we do this right, we work with the President and everyone here, we can win safely!\"",
+      "text": "Well, that was quick.",
+      "quotedTweetText": "🚨 NOW: Anthropic chief DARIO just walked up and said President Trump helped put his Super Intelligence worries at ease\n\n\"If we do this right, we work with the President and everyone here, we can win safely!\"\n\nImagine that, all it took was DONALD J. TRUMP getting involved and the tables are turning!\n\nNo more SI dooming, no more surrendering to China.\n\nAmerica will remain number one BOTH for national and economic security, as long as Trump is president 👏🏻"
+    },
+    {
+      "tweetId": "2104661358390518073",
+      "role": "commentary",
+      "authorHandle": "edludlow",
+      "url": "https://x.com/EdLudlow/status/2104661358390518073",
+      "tweetedAt": "2026-09-28T19:55:45.000Z",
+      "bestBit": "Anthropic CEO Dario Amodei and President Trump held a rare private meeting Sunday night",
+      "text": "RT @MikeShepard4: Anthropic CEO Dario Amodei and President Trump held a rare private meeting Sunday night that put their differences over A…"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-trump-rejects-ai-regulation-to-protect-trillions-in-investment-e93cb2f4",
+    "title": "UPDATE: Trump Rejects AI Regulation to Protect Trillions in Investment",
+    "publishedAt": "2026-10-01T14:11:29.040Z",
+    "eventTimeApprox": "2026-09-27T15:28:56.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics"
+    ],
+    "tweetCount": 107,
+    "authorCount": 62
+  }
+}

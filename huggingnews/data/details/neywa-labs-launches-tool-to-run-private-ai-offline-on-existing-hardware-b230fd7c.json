@@ -1,0 +1,42 @@
+{
+  "slug": "neywa-labs-launches-tool-to-run-private-ai-offline-on-existing-hardware-b230fd7c",
+  "title": "Neywa Labs Launches Tool to Run Private AI Offline on Existing Hardware",
+  "publishedAt": "2026-10-27T17:22:37.118Z",
+  "eventTimeApprox": "2026-10-27T17:15:13.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "summary": "The startup Neywa Labs has emerged from stealth mode to provide infrastructure that allows artificial intelligence to operate without cloud connectivity. The technology is designed to run on the hardware users already own, enabling the deployment of AI that is private and fully offline.\n\nThe company said the launch of the platform is intended to broaden global access to AI tools by removing dependency on external servers and internet access.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115128700379566155",
+      "role": "source",
+      "authorHandle": "prince_canuma",
+      "url": "https://x.com/Prince_Canuma/status/2115128700379566155",
+      "tweetedAt": "2026-10-27T17:09:14.000Z",
+      "bestBit": "We built the infrastructure to build and deploy AI that runs on the devices people already own. Private, offline, unlimited.",
+      "text": "Today we're coming out of stealth, introducing Neywa Labs 🚀\n\nWe built the infrastructure to build and deploy AI that runs on the devices people already own. Private, offline, unlimited.\n\nOne mission: make AI available to everyone in the world.\n\nhttps://t.co/FhoDfAWjru https://t.co/LQRrWQfLSf"
+    }
+  ],
+  "isSuperseded": false
+}

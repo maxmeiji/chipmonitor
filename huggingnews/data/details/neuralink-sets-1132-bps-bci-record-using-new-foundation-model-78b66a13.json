@@ -1,0 +1,69 @@
+{
+  "slug": "neuralink-sets-1132-bps-bci-record-using-new-foundation-model-78b66a13",
+  "title": "Neuralink Sets 11.32 bps BCI Record Using New Foundation Model",
+  "publishedAt": "2026-10-02T18:08:45.307Z",
+  "eventTimeApprox": "2026-10-02T16:57:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:NRLK",
+      "kind": "private",
+      "role": "subject",
+      "name": "Neuralink",
+      "hubKey": "neuralink"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106066173917856070/HTo_xUtW4AAQc5R-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106066173917856070/HTo_xUtW4AAQc5R-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "neuralink",
+      "tweetUrl": "https://x.com/neuralink/status/2106066173917856070"
+    }
+  },
+  "summary": "A dataset of more than 50,000 hours of recorded implant use provided the basis for a new system to stabilize intracortical brain signals. Neuralink used this data to pretrain a brain-computer interface foundation model using self-supervised neural encoders to convert noisy spikes into stable representations. The resulting technology enables \"teleporting cursors\" that jump directly to targets and has achieved a control speed of 11.32 bits per second, which the company says outperforms most able-bodied people.\n\nThe updated decoders maintain functionality for weeks instead of days, reducing calibration requirements for some users from 10 min/day to 10 min/week. Future development goals include creating an API for the motor cortex and pooling data across different trial participants to enable zero-shot or one-shot calibration.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106066173917856070",
+      "role": "source",
+      "authorHandle": "neuralink",
+      "url": "https://x.com/neuralink/status/2106066173917856070",
+      "tweetedAt": "2026-10-02T16:57:59.000Z",
+      "bestBit": "A new cursor-control record of 11.32 bits per second (exceeding the performance of most able-bodied people)",
+      "text": "Our clinical trial participants have now used their Neuralink implants for over 50,000 hours, building one of the largest datasets of intracortical neural activity ever.\n\nWe used it to pretrain a foundation model for BCI: self-supervised neural encoders that turn noisy, drifting spikes into stable representations.\n\nSome initial results:\n• Decoders that keep working for weeks instead of days. For some users, calibration dropped from 10 min/day to 10 min/week\n• Teleporting cursors that jump straight to the intended target\n• A new cursor-control record of 11.32 bits per second (exceeding the performance of most able-bodied people)\n\nWe’re just getting started. Future directions include pooling data across participants, one-shot (or zero-shot) calibration, and an API for the motor cortex.\n\nRead more:\nhttps://t.co/sIQXFUI7pc"
+    },
+    {
+      "tweetId": "2106070111241339172",
+      "role": "commentary",
+      "authorHandle": "yunta_tsai",
+      "url": "https://x.com/yunta_tsai/status/2106070111241339172",
+      "tweetedAt": "2026-10-02T17:13:38.000Z",
+      "bestBit": "Biological latent space to digital latent space.",
+      "text": "Biological latent space to digital latent space.",
+      "quotedTweetText": "Our clinical trial participants have now used their Neuralink implants for over 50,000 hours, building one of the largest datasets of intracortical neural activity ever.\n\nWe used it to pretrain a foundation model for BCI: self-supervised neural encoders that turn noisy, drifting spikes into stable representations.\n\nSome initial results:\n• Decoders that keep working for weeks instead of days. For some users, calibration dropped from 10 min/day to 10 min/week\n• Teleporting cursors that jump straight to the intended target\n• A new cursor-control record of 11.32 bits per second (exceeding the performance of most able-bodied people)\n\nWe’re just getting started. Future directions include pooling data across participants, one-shot (or zero-shot) calibration, and an API for the motor cortex.\n\nRead more:\nhttps://t.co/sIQXFUI7pc"
+    }
+  ],
+  "isSuperseded": false
+}

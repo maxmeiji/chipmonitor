@@ -1,0 +1,80 @@
+{
+  "slug": "reviewer-claims-meta-solved-only-3-of-6-open-math-problems-ee36952c",
+  "title": "Reviewer Claims Meta Solved Only 3 of 6 Open Math Problems",
+  "publishedAt": "2026-10-03T20:08:07.581Z",
+  "eventTimeApprox": "2026-10-02T19:11:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "Jason Dean Lee stated that half of the mathematical problems Meta claimed to have solved with its Muse Spark AI were already resolved by others. The dispute targets a recent announcement from Meta where the company shared six papers detailing how its Muse Spark 1.1 and 1.2 models helped mathematicians answer questions that it described as being without an existing solution path.\n\nThe projects used a regular chat interface in Thinking Mode and covered fields including probability, group theory, and arithmetic physics. Meta guided the research through a protocol where mathematicians oversaw the work and a second group of researchers verified the results. This initiative followed gold medal performances by the Muse Spark models in five separate competitions across mathematics, physics, and chemistry.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106099776035152231",
+      "role": "source",
+      "authorHandle": "aiatmeta",
+      "url": "https://x.com/AIatMeta/status/2106099776035152231",
+      "tweetedAt": "2026-10-02T19:11:30.000Z",
+      "bestBit": "mathematicians worked with Muse Spark 1.1 and Muse Spark 1.2 in Thinking Mode through the regular https://t.co/wHkMPH82ZH chat interface, with no custom research scaffold, to find solutions to such problems",
+      "text": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a harder question: can AI contribute when a problem is genuinely open and without an existing solution path?\n\nOver the past several months, mathematicians worked with Muse Spark 1.1 and Muse Spark 1.2 in Thinking Mode through the regular https://t.co/wHkMPH82ZH chat interface, with no custom research scaffold, to find solutions to such problems.\n\nOur goal wasn't to mass-produce papers, but empower researchers. Every collaboration followed the same principles: mathematicians guided the research, a second group of mathematicians then reviewed the work, each paper marks which passages were drafted primarily by humans or AI, and each credits the prior research it builds on. Where other teams independently announced solutions to the same problems, we acknowledge their work as well.\n\nToday, we're sharing six papers from that collaboration.\n\n🧵👇"
+    },
+    {
+      "tweetId": "2106149796121805099",
+      "role": "support",
+      "authorHandle": "alexandr_wang",
+      "url": "https://x.com/alexandr_wang/status/2106149796121805099",
+      "tweetedAt": "2026-10-02T22:30:16.000Z",
+      "bestBit": "mathematicians and muse spark collaborated to solve 6 open problems in math",
+      "text": "mathematicians and muse spark collaborated to solve 6 open problems in math:\n\n1. The Strict Threshold for Gaussian Ellipsoid Fitting\n2. Finite-Time Blow-Up of Radial Negative-Energy Solutions for the Mass-Critical Biharmonic Nonlinear Schrödinger Equation\n3. Semiabelian Groups Need Not Be Monomial\n4. Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles\n5. String Two-Point Function = Height Function on a Curve\n6. On Solvable Evolution Algebras and a Conjecture by García-Martínez and Pérez-Rodríguez",
+      "quotedTweetText": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a harder question: can AI contribute when a problem is genuinely open and without an existing solution path?\n\nOver the past several months, mathematicians worked with Muse Spark 1.1 and Muse Spark 1.2 in Thinking Mode through the regular https://t.co/wHkMPH82ZH chat interface, with no custom research scaffold, to find solutions to such problems.\n\nOur goal wasn't to mass-produce papers, but empower researchers. Every collaboration followed the same principles: mathematicians guided the research, a second group of mathematicians then reviewed the work, each paper marks which passages were drafted primarily by humans or AI, and each credits the prior research it builds on. Where other teams independently announced solutions to the same problems, we acknowledge their work as well.\n\nToday, we're sharing six papers from that collaboration.\n\n🧵👇"
+    },
+    {
+      "tweetId": "2106473290000961695",
+      "role": "commentary",
+      "authorHandle": "jasondeanlee",
+      "url": "https://x.com/jasondeanlee/status/2106473290000961695",
+      "tweetedAt": "2026-10-03T19:55:43.000Z",
+      "bestBit": "Actually 3 of 6 were already resolved.",
+      "text": "Actually 3 of 6 were already resolved.",
+      "quotedTweetText": "mathematicians and muse spark collaborated to solve 6 open problems in math:\n\n1. The Strict Threshold for Gaussian Ellipsoid Fitting\n2. Finite-Time Blow-Up of Radial Negative-Energy Solutions for the Mass-Critical Biharmonic Nonlinear Schrödinger Equation\n3. Semiabelian Groups Need Not Be Monomial\n4. Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles\n5. String Two-Point Function = Height Function on a Curve\n6. On Solvable Evolution Algebras and a Conjecture by García-Martínez and Pérez-Rodríguez"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "meta-publishes-first-6-ai-papers-solving-open-research-problems-c76f8191",
+    "title": "Meta Publishes First 6 AI Papers Solving Open Research Problems",
+    "publishedAt": "2026-10-02T22:09:24.674Z",
+    "eventTimeApprox": "2026-10-02T19:11:30.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 14,
+    "authorCount": 8
+  }
+}

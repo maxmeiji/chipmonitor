@@ -1,0 +1,78 @@
+{
+  "slug": "elon-musk-proposes-amazon-rival-after-grok-shopping-block-f7b0483a",
+  "title": "Elon Musk Proposes Amazon Rival After Grok Shopping Block",
+  "publishedAt": "2026-10-15T14:38:55.539Z",
+  "eventTimeApprox": "2026-10-15T13:13:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110737038471225593/HUrYJohW0AAfZ99-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110737038471225593/HUrYJohW0AAfZ99-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2110737006883913728/vid/avc1/1080x1920/idEkoMjJYTtmBmGJ.mp4?tag=16",
+    "credit": {
+      "handle": "yahoofinance",
+      "tweetUrl": "https://x.com/YahooFinance/status/2110737038471225593"
+    }
+  },
+  "summary": "Shopping bots powered by xAI's Grok model have been blocked from finalizing transactions on the world's largest e-commerce platform. Elon Musk, the owner of xAI and CEO of SpaceX, responded to the restriction by stating he may launch a retail business to rival Amazon after users reported that the retailer stopped Grok bots from placing orders on its website.\n\nThe conflict highlights a shift in how e-commerce platforms manage AI agents, which can potentially bypass traditional advertising revenue. However, Amazon maintains a competitive moat through its proprietary delivery networks and warehouse infrastructure, which represents a significant barrier for any new retail competitor attempting to scale.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110715917055516750",
+      "role": "source",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2110715917055516750",
+      "tweetedAt": "2026-10-15T12:54:24.000Z",
+      "bestBit": "Maybe we should start a competitor to Amazon",
+      "text": "Elon Musk just posted this after it came out that Amazon $AMZN is blocking Grok Bot from ordering on the website\n\n\"Maybe we should start a competitor to Amazon\"",
+      "quotedTweetText": "Maybe we should start a competitor to Amazon 🤔"
+    },
+    {
+      "tweetId": "2110718514562490476",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2110718514562490476",
+      "tweetedAt": "2026-10-15T13:04:43.000Z",
+      "bestBit": "AI agents can bypass Amazon’s advertising but replicating its warehouses and delivery network is much harder",
+      "text": "$AMZN is reportedly blocking Grok bots from placing orders prompting $SPCX CEO Elon Musk to say “maybe we should start a competitor to Amazon.”\n\nThe interesting part is AI agents can bypass Amazon’s advertising but replicating its warehouses and delivery network is much harder giving Amazon a ton of leverage even if agents become the new way people shop."
+    }
+  ],
+  "isSuperseded": false
+}

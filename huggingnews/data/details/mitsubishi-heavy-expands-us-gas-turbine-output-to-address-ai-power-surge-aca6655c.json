@@ -1,0 +1,41 @@
+{
+  "slug": "mitsubishi-heavy-expands-us-gas-turbine-output-to-address-ai-power-surge-aca6655c",
+  "title": "Mitsubishi Heavy Expands U.S. Gas Turbine Output to Address AI Power Surge",
+  "publishedAt": "2026-11-01T23:07:31.407Z",
+  "eventTimeApprox": "2026-11-01T18:05:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "The Japanese industrial firm is increasing the volume of energy-generating turbines it manufactures in the United States to keep up with the escalating power needs of the artificial intelligence sector.\n\nThe move to expand output, first reported by Nikkei, targets the U.S. market where the proliferation of data centers for generative AI has caused a surge in demand for stable and scalable electricity generation.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116950983947514040",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2116950983947514040",
+      "tweetedAt": "2026-11-01T17:50:20.000Z",
+      "bestBit": "MITSUBISHI HEAVY WILL BOOST U.S. GAS TURBINE PRODUCTION - NIKKEI",
+      "text": "MITSUBISHI HEAVY WILL BOOST U.S. GAS TURBINE PRODUCTION - NIKKEI"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "lumentum-sells-out-ai-optical-parts-through-2029-to-hyperscalers-1e94585d",
+  "title": "Lumentum Sells Out AI Optical Parts Through 2029 to Hyperscalers",
+  "publishedAt": "2026-10-09T04:39:39.088Z",
+  "eventTimeApprox": "2026-10-09T02:25:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 19,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "LITE",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Lumentum Holdings Inc. Common Stock",
+      "hubKey": "lite"
+    },
+    {
+      "ticker": "AAOI",
+      "kind": "equity",
+      "role": "related",
+      "name": "Applied Optoelectronics, Inc.",
+      "hubKey": "aaoi"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108412203514925165/HUKTRICbgAA70zi-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108412203514925165/HUKTRICbgAA70zi-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "aleabitoreddit",
+      "tweetUrl": "https://x.com/aleabitoreddit/status/2108412203514925165"
+    }
+  },
+  "summary": "The chief executive officer of Lumentum has confirmed a critical capacity shortage for the company's optoelectronic components used in high-speed artificial intelligence data centers. Speaking on Bloomberg, the CEO stated that the firm is effectively sold out of these parts through nearly 2029, with order visibility from hyperscalers currently extending into 2030 and 2031.\n\nThis shortage has created a production bottleneck for the photonics industry, shifting focus to remaining laser suppliers with available capacity. Companies including Sive, Sumitomo Electric and AAOI are bringing new capacity online to address the deficit in optical component availability.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108383229736624396",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2108383229736624396",
+      "tweetedAt": "2026-10-09T02:25:08.000Z",
+      "bestBit": "Lumentum’s optoelectronic parts are “completely sold out” through almost 2029 on demand from tech companies clamoring for faster AI data centers",
+      "text": "Lumentum’s optoelectronic parts are “completely sold out” through almost 2029 on demand from tech companies clamoring for faster AI data centers https://t.co/53WfC778ve"
+    },
+    {
+      "tweetId": "2108412203514925165",
+      "role": "commentary",
+      "authorHandle": "aleabitoreddit",
+      "url": "https://x.com/aleabitoreddit/status/2108412203514925165",
+      "tweetedAt": "2026-10-09T04:20:16.000Z",
+      "bestBit": "demand visibility from hyperscalers that carries them out into 2030, 2031",
+      "text": "Woooow... $LITE CEO went out on Bloomberg today and stated:\n\nLumentum is \"effectively sold out through nearly 2029\".\n\nFrom our perspective, \"Completely Sold Out, there's no end in sight\".  With demand visibility from hyperscalers that carries them out into 2030, 2031.\n\nThe implications of these statements are enormous for photonics and remaining laser suppliers with capacity coming online like $SIVE, Sumitomo Electric, to $AAOI. \n\nWhat a crazy bottleneck that's unfolding.",
+      "quotedTweetText": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?\n\nHint: it doesn’t. https://t.co/FiVsvg8I0G"
+    }
+  ],
+  "isSuperseded": false
+}

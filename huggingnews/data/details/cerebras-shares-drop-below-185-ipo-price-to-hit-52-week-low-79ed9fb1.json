@@ -1,0 +1,77 @@
+{
+  "slug": "cerebras-shares-drop-below-185-ipo-price-to-hit-52-week-low-79ed9fb1",
+  "title": "Cerebras Shares Drop Below $185 IPO Price to Hit 52 Week Low",
+  "publishedAt": "2026-10-12T18:10:22.189Z",
+  "eventTimeApprox": "2026-10-12T17:30:33.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CBRS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cerebras",
+      "hubKey": "cerebras"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109698250811097595/HUcnYQPaEAE2AvK-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109698250811097595/HUcnYQPaEAE2AvK-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "vestexchange",
+      "tweetUrl": "https://x.com/VestExchange/status/2109698250811097595"
+    }
+  },
+  "summary": "Cerebras saw its market valuation erode on Monday, erasing gains for early shareholders as its stock fell about 10% during the trading session. The share price reached $150, a decline of 57% from its initial opening trade of $350 and approximately 19% below the $185 price established during its May public offering. This slide puts investors who participated in the $5.55 billion IPO underwater.\n\nCEO Andrew Feldman and CTO Sean Lie sold more than $240 million of company stock since August under predetermined trading plans. The stock faces additional share unlocks, with up to 19.4 million shares available this Wednesday, another tranche due Oct. 28, and the full lockup expiring by Nov. 9.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109698250811097595",
+      "role": "source",
+      "authorHandle": "vestexchange",
+      "url": "https://x.com/VestExchange/status/2109698250811097595",
+      "tweetedAt": "2026-10-12T17:30:33.000Z",
+      "bestBit": "CEO Andrew Feldman and CTO Sean Lie have sold over $240 million of stock since August, under trading plans adopted after the IPO",
+      "text": "Cerebras is trading below its $185 IPO price, with $CBRS down around 10% on the session at a new 52-week low.\n\nCEO Andrew Feldman and CTO Sean Lie have sold over $240 million of stock since August, under trading plans adopted after the IPO.\n\nUp to 19.4 million more $CBRS shares unlock Wednesday, with another tranche due Oct. 28, and the lock-up fully expiring no later than Nov. 9."
+    },
+    {
+      "tweetId": "2109665887343071701",
+      "role": "commentary",
+      "authorHandle": "trace_cohen",
+      "url": "https://x.com/Trace_Cohen/status/2109665887343071701",
+      "tweetedAt": "2026-10-12T15:21:57.000Z",
+      "bestBit": "Cerebras ($CBRS) IPO’d in May at $185/share, raising $5.55 BILLION",
+      "text": "Cerebras ($CBRS) IPO’d in May at $185/share, raising $5.55 BILLION.\n\nOpened trading at $350. Today? $150.\n\nThat’s 57% below its opening price and 19% below its IPO price.\n\nOne of the biggest AI chip IPOs of 2026, and even investors who got in at the IPO price are underwater.\n\nAI hype doesn’t make you immune to valuation reality."
+    }
+  ],
+  "isSuperseded": false
+}

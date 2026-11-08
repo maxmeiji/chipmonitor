@@ -1,0 +1,45 @@
+{
+  "slug": "proposed-uk-ai-covenant-would-mandate-local-investment-from-data-centres-cfe25223",
+  "title": "Proposed UK AI Covenant Would Mandate Local Investment From Data Centres",
+  "publishedAt": "2026-10-27T12:38:37.032Z",
+  "eventTimeApprox": "2026-10-27T12:12:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "summary": "The UK government is reviewing a proposal that would require data center operators to increase their spending on local community projects as a condition of their operations. The planned mandates would be tied to a new \"AI covenant,\" intended to ensure that the infrastructure supporting artificial intelligence provides economic benefits to the specific regions where facilities are built.\n\nThe initiative, first reported by the Financial Times, aims to create a formal agreement between the state and infrastructure providers to secure local investment. The government has not yet provided a timeline for the policy's implementation or specified the minimum investment amounts required.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115051722598994164",
+      "role": "source",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2115051722598994164",
+      "tweetedAt": "2026-10-27T12:03:21.000Z",
+      "bestBit": "UK considers forcing data centres to invest locally to meet new AI ‘covenant’",
+      "text": "UK considers forcing data centres to invest locally to meet new AI ‘covenant’ - FT https://t.co/wtRsIZ9Zt9"
+    }
+  ],
+  "isSuperseded": false
+}

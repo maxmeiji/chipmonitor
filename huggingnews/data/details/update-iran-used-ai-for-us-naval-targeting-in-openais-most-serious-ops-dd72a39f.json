@@ -1,0 +1,160 @@
+{
+  "slug": "update-iran-used-ai-for-us-naval-targeting-in-openais-most-serious-ops-dd72a39f",
+  "title": "UPDATE: Iran Used AI for US Naval Targeting in OpenAI's Most Serious Ops",
+  "publishedAt": "2026-10-09T23:53:29.053Z",
+  "eventTimeApprox": "2026-10-09T01:36:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 55,
+  "authorCount": 43,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "geopolitics",
+    "war"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "iran",
+      "name": "Iran"
+    },
+    {
+      "slug": "russia",
+      "name": "Russia"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108623148992397552/HUNVd5jXYAE0PH_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108623148992397552/HUNVd5jXYAE0PH_-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "marcowenjones",
+      "tweetUrl": "https://x.com/marcowenjones/status/2108623148992397552"
+    }
+  },
+  "summary": "Two of the largest AI laboratories in the US have banned accounts used by foreign states to plant fake news and identify military vulnerabilities. Iranian actors leveraged models from OpenAI and Anthropic to develop targeting recommendations for attacks against US naval forces, according to separate investigations by the firms. These Iranian operatives also deployed seven fake Western journalist personas to place nearly 100 articles critical of the US war against Iran in a dozen or more outlets globally, which they then amplified with AI-generated social media comments.\n\nOpenAI also disrupted a Russian influence operation it designated as its first \"Category 5\" and most complex front in 2.5 years. The group used a fake identity, Mia Clark, to manage the Social Research Center, a puppet think tank that recruited unwitting Latin American staff to spread anti-Ukraine propaganda. Analyst Lukasz Olejnik has since challenged the company's impact rating, arguing the operation primarily circulated within existing pro-Kremlin bubbles rather than infiltrating mainstream public debate.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108316421981917664",
+      "role": "source",
+      "authorHandle": "brianstelter",
+      "url": "https://x.com/brianstelter/status/2108316421981917664",
+      "tweetedAt": "2026-10-08T21:59:40.000Z",
+      "bestBit": "Operatives in Iran used OpenAI models and fake personas to help plant news articles critical of the US war against Iran in multiple US media outlets",
+      "text": "\"Operatives in Iran used OpenAI models and fake personas to help plant news articles critical of the US war against Iran in multiple US media outlets, OpenAI said on Thursday.\" https://t.co/DhsukDJh4X"
+    },
+    {
+      "tweetId": "2108701691117768963",
+      "role": "support",
+      "authorHandle": "iranintl_en",
+      "url": "https://x.com/IranIntl_En/status/2108701691117768963",
+      "tweetedAt": "2026-10-09T23:30:35.000Z",
+      "bestBit": "Iran-based and Iranian-linked actors have used two leading US artificial intelligence platforms to place articles under fake journalist identities and help develop targeting recommendations against US naval forces",
+      "text": "Iran-based and Iranian-linked actors have used two leading US artificial intelligence platforms to place articles under fake journalist identities and help develop targeting recommendations against US naval forces, according to separate investigations by OpenAI and Anthropic.\nhttps://t.co/r1m0lLLGVF"
+    },
+    {
+      "tweetId": "2108184681858691440",
+      "role": "source",
+      "authorHandle": "benjamingoggin",
+      "url": "https://x.com/BenjaminGoggin/status/2108184681858691440",
+      "tweetedAt": "2026-10-08T13:16:10.000Z",
+      "bestBit": "OpenAI says it's the most serious influence op they've seen",
+      "text": "NEW: OpenAI says a Russian influence operation using ChatGPT tricked Latin American schools into honoring a Ukrainian nationalist and asked them to pledge allegiance to Erik Prince. \n\nOpenAI says it's the most serious influence op they've seen.\nhttps://t.co/qd2usNqLNP"
+    },
+    {
+      "tweetId": "2108434609302012226",
+      "role": "analysis",
+      "authorHandle": "lukolejnik",
+      "url": "https://x.com/lukOlejnik/status/2108434609302012226",
+      "tweetedAt": "2026-10-09T05:49:18.000Z",
+      "bestBit": "Russian operators used ChatGPT to support influence operations in Latin America and even targeted Argentina and Poland",
+      "text": "Russian operators used ChatGPT to support influence operations in Latin America and even targeted Argentina and Poland. Their “Social Research Center” was run by a fake persona, with Latin American staff unaware who paid them. Fake emails tricked Peruvian schools into honouring an Ukrainian nationalist, a story built to inflame Polish-Ukrainian tensions. It reached European media, and a politician (Polish MEP) discussed it. So this AI-assisted operation reached a real audience and impacted real debate."
+    },
+    {
+      "tweetId": "2108435178590753002",
+      "role": "commentary",
+      "authorHandle": "lukolejnik",
+      "url": "https://x.com/lukOlejnik/status/2108435178590753002",
+      "tweetedAt": "2026-10-09T05:51:34.000Z",
+      "bestBit": "looks less like a Russian fake breaking out into public debate and more like it circulating inside a pro-Kremlin bubble that was already receptive",
+      "text": "I must point out that OpenAI appears to oversell it. This is not Category 5 even in their own framework. The “Polish media” that picked up the Peru fake was essentially the pro-Russian weekly and one local portal. No evidence of mainstream reporting. The article was written by a guy who is on trial for spying for Russia, and the MEP it quoted is his political ally, who gave the comment when he asked for it. Looks less like a Russian fake breaking out into public debate and more like it circulating inside a pro-Kremlin bubble that was already receptive.",
+      "quotedTweetText": "Russian operators used ChatGPT to support influence operations in Latin America and even targeted Argentina and Poland. Their “Social Research Center” was run by a fake persona, with Latin American staff unaware who paid them. Fake emails tricked Peruvian schools into honouring an Ukrainian nationalist, a story built to inflame Polish-Ukrainian tensions. It reached European media, and a politician (Polish MEP) discussed it. So this AI-assisted operation reached a real audience and impacted real debate."
+    },
+    {
+      "tweetId": "2108557177250079196",
+      "role": "commentary",
+      "authorHandle": "jordanschachtel",
+      "url": "https://x.com/JordanSchachtel/status/2108557177250079196",
+      "tweetedAt": "2026-10-09T13:56:20.000Z",
+      "bestBit": "successfully infiltrated the following publications: -Middle East Monitor... -Counterpunch... -Daily Kos... -Antiwar.com",
+      "text": "OpenAI did not reveal the outlets, but i cross referenced names with news sites. They landed news articles in many places, but I can say with high confidence that they successfully infiltrated the following publications:\n-Middle East Monitor (backed by Qatar)\n-Counterpunch (far-left)\n-Daily Kos (far-left)\n-Antiwar.com (libertarian/anarchist)\n-Countercurrents (far-left)\n-Foreign Policy in Focus (far-left think tank)\n-Asia Times (Hong Kong-based english language)\n-Palestine Chronicle (far-left)",
+      "quotedTweetText": "Iranian operatives used OpenAI models and fake personas to help plant news articles critical of the US war against Iran in multiple US media outlets, OpenAI said. https://t.co/jp2IXe15U8 https://t.co/lUZElYNhtl"
+    },
+    {
+      "tweetId": "2108507050288255095",
+      "role": "commentary",
+      "authorHandle": "prestonstew_",
+      "url": "https://x.com/prestonstew_/status/2108507050288255095",
+      "tweetedAt": "2026-10-09T10:37:09.000Z",
+      "bestBit": "Once published anywhere a story is granted some degree of credibility and it’s that much easier to be picked up",
+      "text": "Smart tactic.  Once published anywhere a story is granted some degree of credibility and it’s that much easier to be picked up and repeated by larger outlets.",
+      "quotedTweetText": "Iranian operatives used OpenAI models and fake personas to help plant news articles critical of the US war against Iran in multiple US media outlets, OpenAI said. https://t.co/jp2IXe15U8 https://t.co/lUZElYNhtl"
+    },
+    {
+      "tweetId": "2108343932828713026",
+      "role": "commentary",
+      "authorHandle": "petehegseth",
+      "url": "https://x.com/PeteHegseth/status/2108343932828713026",
+      "tweetedAt": "2026-10-08T23:48:59.000Z",
+      "bestBit": "And you — @CNN — fall for it over and over",
+      "text": "And you — @CNN — fall for it over and over.\n\nBecause you hate the President more than you love the country (and our troops).",
+      "quotedTweetText": "Iranian operatives used OpenAI models and fake personas to help plant news articles critical of the US war against Iran in multiple US media outlets, OpenAI said. https://t.co/jp2IXe15U8 https://t.co/lUZElYNhtl"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "researcher-disputes-openais-first-category-5-rating-of-russian-ai-op-dd4bc128",
+    "title": "Researcher Disputes OpenAI's First Category 5 Rating of Russian AI Op",
+    "publishedAt": "2026-10-09T06:09:37.473Z",
+    "eventTimeApprox": "2026-10-08T23:45:06.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "cybersecurity",
+      "geopolitics"
+    ],
+    "tweetCount": 46,
+    "authorCount": 39
+  }
+}

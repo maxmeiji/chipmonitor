@@ -1,0 +1,146 @@
+{
+  "slug": "update-vllm-releases-pruned-700b-parameter-version-of-moonshot-ais-kimi-b6a2ddf0",
+  "title": "UPDATE: vLLM Releases Pruned 700B Parameter Version of Moonshot AI's Kimi K3.1 Pro",
+  "publishedAt": "2026-11-05T17:38:39.271Z",
+  "eventTimeApprox": "2026-11-04T17:03:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 78,
+  "authorCount": 51,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:MNSH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Moonshot AI",
+      "hubKey": "moonshot-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118012367145742491/HWSxBkkaAAARcIa-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118012367145742491/HWSxBkkaAAARcIa-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "vllm_project",
+      "tweetUrl": "https://x.com/vllm_project/status/2118012367145742491"
+    }
+  },
+  "summary": "The vLLM project has launched a compressed version of Moonshot AI's Kimi K3.1 Pro language model, reducing the total parameter count from 2.8 trillion to between 700 billion and 750 billion. By removing 672 of the original 896 experts per Mixture-of-Experts layer, the project lowered the pruned model's disk requirement to 476 GB, down from the original model's 1.56 TB. The reduction aims to make the model more accessible for local hosting, which otherwise requires substantial GPU memory.\n\nMoonshot AI released the weights for the natively multimodal Kimi K3.1 Pro on Nov. 4, providing it with a 1M token context window and a modified MIT license. While the model is free for most developers, those with more than $20M in annual revenue must negotiate a commercial deal. The hardware needed to run the full model on a local server can cost as much as $650,000, a barrier that has led to rapid community modifications, including the release of uncensored versions of the weights within 24 hours of the original launch.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118003733103600085",
+      "role": "source",
+      "authorHandle": "scaling01",
+      "url": "https://x.com/scaling01/status/2118003733103600085",
+      "tweetedAt": "2026-11-04T15:33:35.000Z",
+      "bestBit": "Kimi-K3.1-Pro is now open-weights",
+      "text": "Kimi-K3.1-Pro is now open-weights\n\nhttps://t.co/rrs3zaCvRa"
+    },
+    {
+      "tweetId": "2118004435368792068",
+      "role": "support",
+      "authorHandle": "xeophon",
+      "url": "https://x.com/xeophon/status/2118004435368792068",
+      "tweetedAt": "2026-11-04T15:36:22.000Z",
+      "bestBit": "MaaS + revenue gated license",
+      "text": "K3.1 weights dropped\n\nMaaS + revenue gated license https://t.co/qJmWIpZHpe"
+    },
+    {
+      "tweetId": "2118393343839285491",
+      "role": "source",
+      "authorHandle": "miaai_lab",
+      "url": "https://x.com/MiaAI_lab/status/2118393343839285491",
+      "tweetedAt": "2026-11-05T17:21:45.000Z",
+      "bestBit": "They pruned 75% of the MoE expert",
+      "text": "vLLM just published a pruned Kimi K3.1 Pro 😲\n\nThey pruned 75% of the MoE expert\n\nOriginal: 896 experts per MoE layer\nRemoved: 672 experts (75%)\nRemaining: 224 experts (25%)\nOriginal model: 2.8 trillion parameters\nPruned model: ~700–750B params\n\nPruned model size: 476 GB\n\nAnyone want to try it out?\n\nhttps://t.co/llsVu5JDXS"
+    },
+    {
+      "tweetId": "2118026565879844910",
+      "role": "analysis",
+      "authorHandle": "thom_wolf",
+      "url": "https://x.com/Thom_Wolf/status/2118026565879844910",
+      "tweetedAt": "2026-11-04T17:04:18.000Z",
+      "bestBit": "API businesses making over $20M a year need a deal with Moonshot.",
+      "text": "Kimi-K3.1-Pro by Moonshot AI: interesting facts\n\nIt's huge, and sparse\n• It has 2.8T total parameters, but only 104B are active per token.\n• Along with Kimi-K3, it's the largest real model release on the Hub. The next biggest are Qwen3.8-2.4T and DeepSeek-V4-Pro (1.6T).\n• It has 896 experts and sends each token to 16 of them. (DeepSeek-V4-Pro has 2 times less and Mistral-Large-4 has 7 times less)\n\nClever attention for a 1M-token context\n• Most of its 93 layers use linear attention (KDA). Every 4th layer uses DeepSeek-style sparse attention, which only looks at the top 2048 tokens.\n• This is how it handles a 1M-token context (the same as the other frontier open models)\n• It uses a custom activation called SiTU-GLU and has a 401M-parameter vision encoder (MoonViT-V2), so it takes both text and images.\n\nSmall on disk for its size\n• It was trained to run in 4-bit (MXFP4), so the whole repo is only ~1.56 TB.\n• Stored in regular BF16 it would be about 5.6 TB(!)\n \nBenchmarks (from the model card)\n• It goes back and forth with Claude Opus 5.5 and GPT-6 Astra. It's top of the card's table on BrowseComp (92.1), HLE with tools (70.0) and SWE Marathon (51.7).\n• It's weaker on pure reasoning without tools and on cyber security.\n• Moonshot ran most of their own coding evals using the Claude Code harness.\n\nLicense (a modified MIT)\n• It's free to use, modify and redistribute.\n• API businesses making over $20M a year need a deal with Moonshot.\n• Products with over 100M monthly users or over $20M monthly revenue must display \"Kimi K3.1-Pro\".\n\nOn the Hub\n• It went public about 1.5 hours ago and already has 214 likes, about 9× Kimi-K3's first hour. It's #19 on the trending list.\n• It isn't gated, but loading it in transformers requires \"trust_remote_code\"",
+      "quotedTweetText": "Kimi-K3.1-Pro is now open-weights\n\nhttps://t.co/rrs3zaCvRa"
+    },
+    {
+      "tweetId": "2118006783751213133",
+      "role": "commentary",
+      "authorHandle": "natolambert",
+      "url": "https://x.com/natolambert/status/2118006783751213133",
+      "tweetedAt": "2026-11-04T15:45:42.000Z",
+      "bestBit": "open model labs in China always have delivered on their promises of when weights come out.",
+      "text": "Very interesting how the open model labs in China always have delivered on their promises of when weights come out. Will be telling when one of them finally backs out of a certain model timeline (feels inevitable).",
+      "quotedTweetText": "K3.1 weights dropped\n\nMaaS + revenue gated license https://t.co/qJmWIpZHpe"
+    },
+    {
+      "tweetId": "2118017354403815899",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2118017354403815899",
+      "tweetedAt": "2026-11-04T16:27:42.000Z",
+      "bestBit": "Estimated hardware cost: $550,000–$650,000.",
+      "text": "Moonshot AI just released the Kimi K3.1 Pro weights on Hugging Face.\n\nThe model has 2.8 trillion parameters, and the weights alone reportedly take up around 1.56 TB.\n\nWant to run it locally? One possible setup is a server with 8 NVIDIA B300 GPUs and 2.3 TB of GPU memory. Estimated hardware cost: $550,000–$650,000.\n\nGood luck.",
+      "quotedTweetText": "Releasing the model weights of Kimi K3.1 Pro: https://t.co/tJXcYUeSCj\nWe'll keep advancing open intelligence. https://t.co/BbWCJUYYSQ"
+    },
+    {
+      "tweetId": "2118100977681355157",
+      "role": "commentary",
+      "authorHandle": "akshat_b",
+      "url": "https://x.com/akshat_b/status/2118100977681355157",
+      "tweetedAt": "2026-11-04T22:00:00.000Z",
+      "bestBit": "the quality improvement is shockingly good and well worth the cost.",
+      "text": "This model is going to be a big deal. We ran K3.1 through our evals for our internal SRE agent - it uses more tokens, but the quality improvement is shockingly good and well worth the cost. https://t.co/3KvkCWecwi",
+      "quotedTweetText": "Kimi K3.1 Pro from @Kimi_Moonshot is now available on Modal.\n\nA major post-training update to Kimi K3, with expanded reinforcement learning for stronger coding, financial research, and long-horizon agentic work. \n\nKimi K3.1 Pro supports text and images with 1M context. https://t.co/ylNIXcEQgl"
+    },
+    {
+      "tweetId": "2118308074054148470",
+      "role": "commentary",
+      "authorHandle": "chenru_duan",
+      "url": "https://x.com/chenru_duan/status/2118308074054148470",
+      "tweetedAt": "2026-11-05T11:42:55.000Z",
+      "bestBit": "Not even 24 hours of the @Kimi_Moonshot model weights release and we already have uncensored variants available",
+      "text": "Not even 24 hours of the @Kimi_Moonshot model weights release and we already have uncensored variants available\n\nhttps://t.co/D51298utuj",
+      "quotedTweetText": "New model(s) added:\n\n[+] kimi-k3.1-pro-uncensored | $0.3 per M input\n[+] kimi-k3.1-pro-uncensored | $0.2 per M input\n\nhttps://t.co/pGKtB3zcjq"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "moonshot-ai-releases-weights-for-28-trillion-parameter-kimi-k31-pro-mode-fde7d503",
+    "title": "Moonshot AI Releases Weights for 2.8 Trillion-Parameter Kimi K3.1 Pro Model",
+    "publishedAt": "2026-11-04T17:24:58.332Z",
+    "eventTimeApprox": "2026-11-04T16:25:42.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 72,
+    "authorCount": 50
+  }
+}

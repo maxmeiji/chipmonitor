@@ -1,0 +1,54 @@
+{
+  "slug": "daytona-raises-60m-in-series-b-at-1b-valuation-for-agent-cloud-c1dbb250",
+  "title": "Daytona Raises $60M in Series B at $1B Valuation for Agent Cloud",
+  "publishedAt": "2026-10-20T16:23:46.505Z",
+  "eventTimeApprox": "2026-10-20T15:01:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "summary": "A group of venture capitalists and tech entrepreneurs provided new funding to Daytona to expand the startup's capacity for hosting AI autonomous tools. The company raised $60 million in a Series B round led by FirstMark that values the 35 person team at $1 billion. These funds will be used to build the company's infrastructure into a dedicated system it calls the Agent Cloud.\n\nThe financing brings the total amount raised by the startup to $91 million and includes investment from the founders of Perplexity, Shopify, and Zoom. Daytona is hiring across the board to expand its staff, with existing investors and angels also participating in the latest round.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112559682720055454",
+      "role": "source",
+      "authorHandle": "ivanburazin",
+      "url": "https://x.com/ivanburazin/status/2112559682720055454",
+      "tweetedAt": "2026-10-20T15:00:52.000Z",
+      "bestBit": "welcome the founders of some generational companies aboard, including @patrickc (Stripe), @tobi (Shopify), @AravSrinivas (Perplexity), @BrendanFoody (Mercor), @oliveur (Datadog), @adamdangelo (Quora) and @ericsyuan (Zoom)",
+      "text": "We just raised a $60M Series B at a $1B valuation to build @daytonaio into the Agent Cloud.\n\n@FirstMarkCap led the round, with all key existing investors and angels doubling down. \n\nWe're also thrilled to welcome the founders of some generational companies aboard, including @patrickc (Stripe), @tobi (Shopify), @AravSrinivas (Perplexity), @BrendanFoody (Mercor), @oliveur (Datadog), @adamdangelo (Quora) and @ericsyuan (Zoom)\n\nWe're a 35-person team. But that's about to change; we're hiring across the board, and we'd love for you to join us."
+    },
+    {
+      "tweetId": "2112559955211669972",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112559955211669972",
+      "tweetedAt": "2026-10-20T15:01:57.000Z",
+      "bestBit": "Daytona, which is building cloud infrastructure for AI agents, raised a $60M Series B led by FirstMark at a $1B valuation, bringing its total funding to $91M",
+      "text": "Daytona, which is building cloud infrastructure for AI agents, raised a $60M Series B led by FirstMark at a $1B valuation, bringing its total funding to $91M (@jeremyakahn / Fortune)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

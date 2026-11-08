@@ -1,0 +1,72 @@
+{
+  "slug": "brookfield-and-qatar-investment-authority-plan-27b-uk-ai-data-center-2d07ddca",
+  "title": "Brookfield and Qatar Investment Authority Plan $27B UK AI Data Center",
+  "publishedAt": "2026-11-03T09:37:54.431Z",
+  "eventTimeApprox": "2026-11-03T08:30:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Brookfield Corporation",
+      "hubKey": "bn"
+    }
+  ],
+  "summary": "Brookfield and the Qatar Investment Authority have agreed to an initial investment of £2.5 billion for the first phase of an artificial intelligence data center at the Drax Power Station in North Yorkshire, England. The facility is being developed in partnership with the UK power generator Drax and AI infrastructure platform Radiant, with the total projected cost of the project exceeding £20 billion, or $27 billion.\n\nThe construction will happen in stages, targeting 100 MW of operational capacity by early 2028 and aiming for more than 1 GW in the 2030s. The site will initially rely on the power grid before eventually connecting directly to Drax's biomass electricity generation. The project requires regulatory approvals and the signing of an anchor tenant before it proceeds. Drax shares rose 8% following the announcement.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117525965102289086",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2117525965102289086",
+      "tweetedAt": "2026-11-03T07:55:06.000Z",
+      "bestBit": "Brookfield and the Qatar Investment Authority reach an agreement to invest £2.5 billion in a data center project with UK power generator Drax",
+      "text": "Brookfield and the Qatar Investment Authority reach an agreement to invest £2.5 billion in a data center project with UK power generator Drax https://t.co/LPrtUezy2H"
+    },
+    {
+      "tweetId": "2117534939067388105",
+      "role": "support",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2117534939067388105",
+      "tweetedAt": "2026-11-03T08:30:46.000Z",
+      "bestBit": "Brookfield targets $27 billion AI data center at power station. Energy firm Drax surges 8%",
+      "text": "Brookfield targets $27 billion AI data center at power station. Energy firm Drax surges 8% https://t.co/vgAhA4VXrb"
+    },
+    {
+      "tweetId": "2117549373080867319",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117549373080867319",
+      "tweetedAt": "2026-11-03T09:28:07.000Z",
+      "bestBit": "The project could involve more than £20B ($27B) in total investment, including AI chips, with plans to eventually exceed 1 GW of capacity.",
+      "text": "BROOKFIELD PLANS $27B AI DATA CENTER PROJECT IN THE 🇬🇧 UK\n\nBrookfield is partnering with British energy company Drax and its AI infrastructure platform Radiant to develop a massive data center at Drax Power Station in North Yorkshire, England.\n\nThe project could involve more than £20B ($27B) in total investment, including AI chips, with plans to eventually exceed 1 GW of capacity.\n\nThe development would take place in phases:\n\n• Phase 1: Up to 100 MW operational by early 2028, requiring approximately £2.5B in investment.\n\n• Phase 2: An additional 500 MW targeted between 2028 and 2031.\n\n• Phase 3: Potential expansion beyond 1 GW in the 2030s.\n\nThe key advantage is Drax's existing power infrastructure, including its grid connection, land and biomass power generation capacity.\n\nInitially, the data center would draw electricity from the grid. Later phases aim to connect directly to the power station, allowing AI infrastructure to access on-site electricity generation.\n\nInitial financing would come through Brookfield's joint venture with Qatar-backed Qai, while Radiant would lead development alongside Drax.\n\nThe project remains in its early stages and still requires regulatory approvals and an anchor tenant."
+    }
+  ],
+  "isSuperseded": false
+}

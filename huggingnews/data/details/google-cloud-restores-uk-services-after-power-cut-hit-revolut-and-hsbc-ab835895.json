@@ -1,0 +1,146 @@
+{
+  "slug": "google-cloud-restores-uk-services-after-power-cut-hit-revolut-and-hsbc-ab835895",
+  "title": "Google Cloud Restores UK Services After Power Cut Hit Revolut and HSBC",
+  "publishedAt": "2026-10-20T15:53:54.187Z",
+  "eventTimeApprox": "2026-10-20T11:23:28.000Z",
+  "isFreshStory": false,
+  "tweetCount": 44,
+  "authorCount": 29,
+  "routingTopicKeys": [
+    "tech",
+    "crypto",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "fintech",
+      "name": "Fintech"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:RVLT",
+      "kind": "private",
+      "role": "subject",
+      "name": "Revolut",
+      "hubKey": "revolut"
+    },
+    {
+      "ticker": "HSBC",
+      "kind": "equity",
+      "role": "related",
+      "name": "HSBC Holdings PLC",
+      "hubKey": "hsbc"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112504443568861609/HVEfJ1kX0AAFJ77-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112504443568861609/HVEfJ1kX0AAFJ77-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "gergelyorosz",
+      "tweetUrl": "https://x.com/GergelyOrosz/status/2112504443568861609"
+    }
+  },
+  "summary": "Network stability returned to dozens of online businesses in the UK on Tuesday afternoon as Google Cloud resolved an outage at its London data center. A power failure at the facility disrupted more than 35 Google Cloud products, causing system failures for organizations including HSBC, Halifax and Royal Mail.\n\nRevolut experienced a disruption lasting more than 7 hours that affected millions of customers across the UK, Ireland, France and Spain. The fintech provider saw 30 of its services become partially unavailable, including stock trading, money transfers and cryptocurrency transactions. Revolut stated that all customer funds and personal data remained safe during the incident while technical teams worked on restoration.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112513212549939434",
+      "role": "source",
+      "authorHandle": "theinsiderpaper",
+      "url": "https://x.com/TheInsiderPaper/status/2112513212549939434",
+      "tweetedAt": "2026-10-20T11:56:13.000Z",
+      "bestBit": "Power outage at a Google Cloud data center in London caused serious network disruptions to its services Tuesday",
+      "text": "BREAKING: Power outage at a Google Cloud data center in London caused serious network disruptions to its services Tuesday\n\nWidespread outages disrupt banking apps and online services, including Revolut, HSBC and Royal Mail.\n\nhttps://t.co/ek3bzoP87f"
+    },
+    {
+      "tweetId": "2112492182292566123",
+      "role": "source",
+      "authorHandle": "coindesk",
+      "url": "https://x.com/CoinDesk/status/2112492182292566123",
+      "tweetedAt": "2026-10-20T10:32:39.000Z",
+      "bestBit": "suffers a major Europe-wide outage with 30 services including card payments, crypto, transfers and stock trading partially unavailable",
+      "text": "JUST IN: @Revolut suffers a major Europe-wide outage with 30 services including card payments, crypto, transfers and stock trading partially unavailable, affecting millions of customers across the UK, Ireland, France and Spain. https://t.co/BnVnFu3WWK"
+    },
+    {
+      "tweetId": "2112569612172710186",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2112569612172710186",
+      "tweetedAt": "2026-10-20T15:40:19.000Z",
+      "bestBit": "Google Cloud services largely back up in UK",
+      "text": "Google Cloud services largely back up in UK https://t.co/c6KXERdoPD https://t.co/c6KXERdoPD"
+    },
+    {
+      "tweetId": "2112504443568861609",
+      "role": "commentary",
+      "authorHandle": "gergelyorosz",
+      "url": "https://x.com/GergelyOrosz/status/2112504443568861609",
+      "tweetedAt": "2026-10-20T11:21:22.000Z",
+      "bestBit": "kind of outage no bank should have, and the kind of outage 'traditional' ('old school') banks will point to",
+      "text": "This is the kind of outage no bank should have, and the kind of outage \"traditional\" (\"old school\") banks will point to, as to why they are different to Revolut.\n\nQuite likely that it is connected to a Google Cloud outage in the europe-west2 (London) region. https://t.co/wNM1BbQdjY"
+    },
+    {
+      "tweetId": "2112560498545664245",
+      "role": "analysis",
+      "authorHandle": "gergelyorosz",
+      "url": "https://x.com/GergelyOrosz/status/2112560498545664245",
+      "tweetedAt": "2026-10-20T15:04:06.000Z",
+      "bestBit": "Unclear if the Revolut outage has a connection with a 1.5-hour GCP zone outage",
+      "text": "Revolut status page: https://t.co/NafwLhn9O3\n\nI had a flashback to a recent Monzo outage... where Monzo had a bunch of functionality impacted, but NOT money transfers... because they booted up a stand-in bank!\n\nDetails on Monzo: https://t.co/JqPftivNvW\n\nUnclear if the Revolut outage has a connection with a 1.5-hour GCP zone outage that started around the same time when the Revolut outage did. This outage: https://t.co/gY9x7kKQgp"
+    },
+    {
+      "tweetId": "2112560053433913805",
+      "role": "commentary",
+      "authorHandle": "gergelyorosz",
+      "url": "https://x.com/GergelyOrosz/status/2112560053433913805",
+      "tweetedAt": "2026-10-20T15:02:20.000Z",
+      "bestBit": "Revolut has been having an incident for 7+ hours and counting, globally",
+      "text": "Revolut has been having an incident for 7+ hours and counting, globally. Some of my friends and family have been pinging me about not being able to make transfers.\n\nAn outage when you can't move money is bad for any bank (it's not as bad as losing money ofc!)\n\nThis is v bad https://t.co/8FwoYMu1Bi"
+    },
+    {
+      "tweetId": "2112535545582686392",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2112535545582686392",
+      "tweetedAt": "2026-10-20T13:24:57.000Z",
+      "bestBit": "They're going to blame AI for this, aren't they?",
+      "text": "They're going to blame AI for this, aren't they?",
+      "quotedTweetText": "Update: Revolut and many other online banks are still having problems right now, with card payments not working at all!\n\nThe Google Cloud Services outage which caused this appears to be severe."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "revolut-outage-lasts-7-hours-after-google-cloud-power-fail-874bc205",
+    "title": "Revolut Outage Lasts 7 Hours After Google Cloud Power Fail",
+    "publishedAt": "2026-10-20T15:24:48.105Z",
+    "eventTimeApprox": "2026-10-20T11:21:24.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "crypto",
+      "ai"
+    ],
+    "tweetCount": 36,
+    "authorCount": 24
+  }
+}

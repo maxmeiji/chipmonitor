@@ -1,0 +1,71 @@
+{
+  "slug": "deepseek-raises-23b-to-expand-ai-compute-capacity-a2212ee1",
+  "title": "DeepSeek Raises $23B to Expand AI Compute Capacity",
+  "publishedAt": "2026-10-30T03:53:01.879Z",
+  "eventTimeApprox": "2026-10-30T03:23:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The AI developer has secured a total of RMB 156.5B from investors across its most recent funding cycles to grow its technical infrastructure. The fundraising, which occurred over four months, equals roughly $23B and includes a 27% share of capital from Chinese state owned entities.\n\nTo manage surging prices for Nvidia Blackwell chips on the black market, the firm doubled the size of its most recent investment round. The details regarding the investor composition and the total amount raised were disclosed following an analysis of the company's cap table by The Information.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115999905575842103",
+      "role": "source",
+      "authorHandle": "jingyanghk",
+      "url": "https://x.com/jingyanghk/status/2115999905575842103",
+      "tweetedAt": "2026-10-30T02:51:05.000Z",
+      "bestBit": "has raised a total of RMB156.5B (~$23B) in two rounds across four months",
+      "text": "Scoop: we obtained DeepSeek's cap table and ran an analysis of the types of investors backing the company, which has raised a total of RMB156.5B (~$23B) in two rounds across four months. with @JuroOsawa via @theinformation \nhere's what we found out 👇https://t.co/Fqtj1puQu7 https://t.co/5eEDtAht3d"
+    },
+    {
+      "tweetId": "2116011183157531006",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2116011183157531006",
+      "tweetedAt": "2026-10-30T03:35:54.000Z",
+      "bestBit": "DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27%",
+      "text": "Sources: DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% (The Information)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

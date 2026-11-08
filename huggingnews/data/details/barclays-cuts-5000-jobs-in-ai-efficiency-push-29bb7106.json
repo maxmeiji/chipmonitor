@@ -1,0 +1,50 @@
+{
+  "slug": "barclays-cuts-5000-jobs-in-ai-efficiency-push-29bb7106",
+  "title": "Barclays Cuts 5,000 Jobs in AI Efficiency Push",
+  "publishedAt": "2026-10-22T08:08:38.233Z",
+  "eventTimeApprox": "2026-10-22T07:43:23.000Z",
+  "isFreshStory": false,
+  "tweetCount": 28,
+  "authorCount": 21,
+  "routingTopicKeys": [
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BCS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Barclays PLC",
+      "hubKey": "bcs"
+    }
+  ],
+  "summary": "The integration of artificial intelligence is changing the staffing requirements at one of the UK's largest banks. Barclays plans to eliminate 5,000 positions, representing about 5% of its total workforce, to reduce operational expenses and increase internal productivity.\n\nThe reductions are part of a strategy to drive efficiency through targeted investments in AI and the replacement of manual processes with automated tools. The lender intends to shift toward a technology-led operating model to lower costs across its business units.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113169111916200217",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2113169111916200217",
+      "tweetedAt": "2026-10-22T07:22:31.000Z",
+      "bestBit": "Barclays plans 5,000 job cuts as bank steps up AI adoption",
+      "text": "Barclays plans 5,000 job cuts as bank steps up AI adoption https://t.co/ZAA2qTeJDz"
+    }
+  ],
+  "isSuperseded": false
+}

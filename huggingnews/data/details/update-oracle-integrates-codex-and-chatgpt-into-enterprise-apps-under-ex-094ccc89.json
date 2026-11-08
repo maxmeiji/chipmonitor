@@ -1,0 +1,109 @@
+{
+  "slug": "update-oracle-integrates-codex-and-chatgpt-into-enterprise-apps-under-ex-094ccc89",
+  "title": "UPDATE: Oracle Integrates Codex and ChatGPT Into Enterprise Apps Under Expanded OpenAI Deal",
+  "publishedAt": "2026-10-27T16:39:34.447Z",
+  "eventTimeApprox": "2026-10-26T12:16:16.500Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ORCL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Oracle Corp",
+      "hubKey": "orcl"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The software giant is updating its range of business tools to work natively with generative AI models from OpenAI. Under an expanded agreement, Oracle will incorporate the Codex and ChatGPT language models into its corporate software and enable users to access the company's own business applications directly through the ChatGPT interface.\n\nIn addition to the software integration, Oracle is introducing new networking capabilities for its Acceleron AI hardware and adding to its cloud chip lineup. These developments follow the company's recent launch of Fusion Companion, a system that allows employees to manage operations in finance, HR and supply chain through AI agents without navigating between separate applications.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115112802750787863",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2115112802750787863",
+      "tweetedAt": "2026-10-27T16:06:03.000Z",
+      "bestBit": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+      "text": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup https://t.co/3g5gkfli3L"
+    },
+    {
+      "tweetId": "2115112430330376608",
+      "role": "support",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2115112430330376608",
+      "tweetedAt": "2026-10-27T16:04:34.000Z",
+      "bestBit": "OpenAI expands partnership with Oracle to bring apps to ChatGPT",
+      "text": "Oracle adds networking capabilities to Acceleron for AI. OpenAI expands partnership with Oracle to bring apps to ChatGPT. $ORCL"
+    },
+    {
+      "tweetId": "2114691596054843661",
+      "role": "analysis",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2114691596054843661",
+      "tweetedAt": "2026-10-26T12:12:20.000Z",
+      "bestBit": "The technology works across Oracle's Fusion applications, including finance, HR, supply chain, sales, and customer service, while maintaining enterprise security and permissions.",
+      "text": "$ORCL ANNOUNCES NEW AI PLATFORM THAT LETS CHATGPT EXECUTE ENTERPRISE WORKFLOWS\n\nOracle introduced Fusion Companion and Fusion Agentic Home at Oracle AI World, allowing employees to manage business operations through AI tools like ChatGPT.\n\nInstead of navigating multiple applications, users can describe what they want done, and the system identifies and coordinates the necessary transactions, workflows, approvals, and AI agents.\n\nThe technology works across Oracle's Fusion applications, including finance, HR, supply chain, sales, and customer service, while maintaining enterprise security and permissions."
+    },
+    {
+      "tweetId": "2114693580233335060",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2114693580233335060",
+      "tweetedAt": "2026-10-26T12:20:13.000Z",
+      "bestBit": "AI agents are becoming front door to enterprise software while Oracle controls the data and systems behind the scenes",
+      "text": "$ORCL just announced a new AI platform that lets ChatGPT execute workflows without employees having to navigate multiple applications.\n\nAnother example of how AI agents are becoming front door to enterprise software while Oracle controls the data and systems behind the scenes. https://t.co/04yl7YIMx7"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "oracle-launches-fusion-companion-to-let-ai-agents-manage-enterprise-work-31712229",
+    "title": "Oracle Launches Fusion Companion to Let AI Agents Manage Enterprise Workflows",
+    "publishedAt": "2026-10-26T12:22:24.306Z",
+    "eventTimeApprox": "2026-10-26T12:06:10.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 6,
+    "authorCount": 4
+  }
+}

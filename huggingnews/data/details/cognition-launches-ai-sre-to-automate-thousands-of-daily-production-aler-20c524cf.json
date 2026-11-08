@@ -1,0 +1,54 @@
+{
+  "slug": "cognition-launches-ai-sre-to-automate-thousands-of-daily-production-aler-20c524cf",
+  "title": "Cognition Launches AI SRE to Automate Thousands of Daily Production Alerts",
+  "publishedAt": "2026-10-15T18:23:55.784Z",
+  "eventTimeApprox": "2026-10-15T17:54:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:COGN",
+      "kind": "private",
+      "role": "subject",
+      "name": "Cognition",
+      "hubKey": "cognition"
+    }
+  ],
+  "summary": "The software company's new agent, Devin Oncall, investigates technical bugs and system failures to help engineering teams resolve issues in live environments. The tool automatically processes system alerts and identifies the root cause of errors, eliminating the need for manual triage by developers during an outage.\n\nCognition claims the agent already handles thousands of alerts every day for some of the world's largest companies. The product is positioned to function as an automated Site Reliability Engineer (SRE) that can independently diagnose and resolve production incidents.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110790097369010292",
+      "role": "source",
+      "authorHandle": "cognition",
+      "url": "https://x.com/cognition/status/2110790097369010292",
+      "tweetedAt": "2026-10-15T17:49:10.000Z",
+      "bestBit": "Devin Oncall already handles thousands of alerts every day for some of the world’s largest companies",
+      "text": "Introducing Devin Oncall: Devin automatically investigates alerts and bugs, helping your team diagnose and resolve production incidents.\n\nDevin Oncall already handles thousands of alerts every day for some of the world’s largest companies. Let it become your SRE today. https://t.co/Nza88HwIKd"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "tinker-slashes-ai-prices-up-to-70percent-following-efficiency-gains-ccf29590",
+  "title": "Tinker Slashes AI Prices Up to 70% Following Efficiency Gains",
+  "publishedAt": "2026-10-09T22:08:40.534Z",
+  "eventTimeApprox": "2026-10-09T21:29:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108670587241697771/HUN_brNagAAOYAp-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108670587241697771/HUN_brNagAAOYAp-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "tinkerapi",
+      "tweetUrl": "https://x.com/tinkerapi/status/2108670587241697771"
+    }
+  },
+  "summary": "The launch of GLM-5.3-Flash and DeepSeek-v4.1-Flash introduces native image input support and efficient attention architecture to the Tinker API. These new models are designed for cost-efficient long-context workloads and arrive alongside updated long-context options for Qwen3.5-4B and Qwen3.6-35B-A3B.\n\nTinker reduced its API pricing by as much as 70% across its platform after scaling efficiency improvements for long-context reinforcement learning. As part of these changes, the GLM-5.3-Flash model is now 4 to 5 times less expensive for users than the standard GLM-5.3 version.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108670587241697771",
+      "role": "source",
+      "authorHandle": "tinkerapi",
+      "url": "https://x.com/tinkerapi/status/2108670587241697771",
+      "tweetedAt": "2026-10-09T21:26:59.000Z",
+      "bestBit": "passing these on with price cuts up to 70%",
+      "text": "Tinkerers have been busy scaling up long-context RL! We’ve made significant improvements to Tinker’s efficiency to support those, and are passing these on with price cuts up to 70%.\n\nGLM-5.3-Flash and DeepSeek-v4.1-Flash are also live for cost-efficient long-context work. https://t.co/in9eAAFO6O"
+    },
+    {
+      "tweetId": "2108671005132763598",
+      "role": "support",
+      "authorHandle": "tinkerapi",
+      "url": "https://x.com/tinkerapi/status/2108671005132763598",
+      "tweetedAt": "2026-10-09T21:28:39.000Z",
+      "bestBit": "GLM-5.3-Flash is 4-5 times cheaper on Tinker than GLM-5.3!",
+      "text": "GLM-5.3-Flash and DeepSeek-v4.1-Flash join the Tinker lineup today. Both models natively take image inputs and utilize efficient attention architecture. GLM-5.3-Flash is 4-5 times cheaper on Tinker than GLM-5.3!\n\nAlso live: long-context options for Qwen3.5-4B and Qwen3.6-35B-A3B."
+    }
+  ],
+  "isSuperseded": false
+}

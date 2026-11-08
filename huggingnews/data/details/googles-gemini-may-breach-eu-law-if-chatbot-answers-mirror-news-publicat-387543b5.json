@@ -1,0 +1,82 @@
+{
+  "slug": "googles-gemini-may-breach-eu-law-if-chatbot-answers-mirror-news-publicat-387543b5",
+  "title": "Google's Gemini May Breach EU Law if Chatbot Answers Mirror News Publications",
+  "publishedAt": "2026-11-03T14:38:45.122Z",
+  "eventTimeApprox": "2026-11-03T11:48:24.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117623929821098433/HWNPhSpa4AAvfcp-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117623929821098433/HWNPhSpa4AAvfcp-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "choblin29",
+      "tweetUrl": "https://x.com/choblin29/status/2117623929821098433"
+    }
+  },
+  "summary": "The European Union's top court has received a formal opinion in its first legal case involving generative AI, focusing on whether Google's Gemini chatbot violates the intellectual property of news publishers. The court adviser stated Tuesday that the tool could be in breach of copyright rules in instances where its responses reproduce press publications so clearly that users no longer have a reason to visit the original sources.\n\nWhile the adviser found that the specific ways Gemini presents information may be infringing, he noted that using copyrighted material to train large language models is generally permitted under the EU's text-and-data-mining exception. However, the opinion warns that AI providers could be held liable for damages if infringing outputs are central to their business model or if the companies fail to implement effective safeguards.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117549935436402919",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2117549935436402919",
+      "tweetedAt": "2026-11-03T09:30:21.000Z",
+      "bestBit": "Google's use of press by AI chatbot may infringe copyright rules, EU court adviser says",
+      "text": "Google's use of press by AI chatbot may infringe copyright rules, EU court adviser says https://t.co/keDTjuYJod"
+    },
+    {
+      "tweetId": "2117623929821098433",
+      "role": "analysis",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2117623929821098433",
+      "tweetedAt": "2026-11-03T14:24:23.000Z",
+      "bestBit": "chatbot providers themselves may be liable when the infringing use is 'inherent to the business model' or they fail to put effective safeguards in place.",
+      "text": "In the EU's first generative AI case, a top-court adviser says Google Gemini may infringe publishers' rights when its answers reproduce their articles so recognisably that users no longer need to visit the original.\n\nBut he says using copyrighted material to train LLMs is, as a rule, freely permitted under the EU's text-and-data-mining exception.\n\nAnd chatbot providers themselves may be liable when the infringing use is 'inherent to the business model' or they fail to put effective safeguards in place."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "eu-court-adviser-says-googles-gemini-ai-may-violate-press-copyright-3bf5409b",
+    "title": "EU Court Adviser Says Google's Gemini AI May Violate Press Copyright",
+    "publishedAt": "2026-11-03T11:37:43.628Z",
+    "eventTimeApprox": "2026-11-03T11:15:00.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "business"
+    ],
+    "tweetCount": 5,
+    "authorCount": 3
+  }
+}

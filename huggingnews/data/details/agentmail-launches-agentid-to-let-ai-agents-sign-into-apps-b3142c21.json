@@ -1,0 +1,60 @@
+{
+  "slug": "agentmail-launches-agentid-to-let-ai-agents-sign-into-apps-b3142c21",
+  "title": "AgentMail Launches AgentID to Let AI Agents Sign Into Apps",
+  "publishedAt": "2026-10-06T18:52:25.356Z",
+  "eventTimeApprox": "2026-10-06T18:36:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "Authentication for AI agents now involves verified emails linked to human owners to prevent apps from blocking automated access. AgentMail released a system called AgentID that allows developers to identify the person behind each bot and set usage limits or disable specific agents as needed. Under this model, multiple agents belonging to one person are recognized as a single customer.\n\nThe integration is free for app developers and uses standard OpenID Connect to work with Clerk, Supabase, Auth0, Better Auth, and Auth.js. Early adopters including Firecrawl, Turso, Supermemory, and Keenable have already implemented the service. Startups that integrate the tool using a specific launch prompt and provide a screenshot receive 3 months of AgentMail plans at no charge.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107520017122443267",
+      "role": "source",
+      "authorHandle": "haakamaujla",
+      "url": "https://x.com/haakamaujla/status/2107520017122443267",
+      "tweetedAt": "2026-10-06T17:15:02.000Z",
+      "bestBit": "Millions of agents already use AgentMail. AgentID lets them sign in to your app.",
+      "text": "Introducing AgentID by @agentmail, \"Sign in with Google\" for AI Agents\n\nMillions of agents already use AgentMail. AgentID lets them sign in to your app.\n\nIntegrate with the prompt below, reply with a screenshot, and we'll give you 3 months free of any AgentMail plan. https://t.co/LvmQG5z1UN"
+    },
+    {
+      "tweetId": "2107542805480714466",
+      "role": "analysis",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2107542805480714466",
+      "tweetedAt": "2026-10-06T18:45:35.000Z",
+      "bestBit": "Each agent signs into apps with its own verified email, linked to a human owner.",
+      "text": "AgentMail has launched AgentID, a sign-in option that allows AI agents to access apps with a verified email, similar to how 'Sign in with Google' works for people.\n\nEach agent signs into apps with its own verified email, linked to a human owner. Apps that previously blocked agent signups can now allow them and see the owner behind each agent.\n\n> 10 agents linked to one person appear as a single customer.\n\n> Apps can set limits for each owner and disable individual agents.\n\n> A human owner can be contacted if an issue occurs.",
+      "quotedTweetText": "Introducing AgentID by @agentmail, \"Sign in with Google\" for AI Agents\n\nMillions of agents already use AgentMail. AgentID lets them sign in to your app.\n\nIntegrate with the prompt below, reply with a screenshot, and we'll give you 3 months free of any AgentMail plan. https://t.co/LvmQG5z1UN"
+    },
+    {
+      "tweetId": "2107542811792781618",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2107542811792781618",
+      "tweetedAt": "2026-10-06T18:45:37.000Z",
+      "bestBit": "Firecrawl, Turso, Supermemory, and Keenable already accept AgentID.",
+      "text": "AgentID uses standard OpenID Connect and integrates with Clerk, Supabase, Auth0, Better Auth, and Auth.js. Setup can be done with one command or a prompt to a coding agent. There is no cost for apps.\n\nFirecrawl, Turso, Supermemory, and Keenable already accept AgentID. Startups that add AgentID using the launch thread prompt and reply with a screenshot receive three months of AgentMail at no charge.\n\nTest it out 👀\nhttps://t.co/hWEoa1dW6N"
+    }
+  ],
+  "isSuperseded": false
+}

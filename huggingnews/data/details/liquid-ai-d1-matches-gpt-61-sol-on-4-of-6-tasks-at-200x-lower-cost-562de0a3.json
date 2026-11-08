@@ -1,0 +1,59 @@
+{
+  "slug": "liquid-ai-d1-matches-gpt-61-sol-on-4-of-6-tasks-at-200x-lower-cost-562de0a3",
+  "title": "Liquid AI d1 Matches GPT-6.1 Sol on 4 of 6 Tasks at 200x Lower Cost",
+  "publishedAt": "2026-10-05T18:07:49.725Z",
+  "eventTimeApprox": "2026-10-05T17:33:04.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107161990808674404/HT4ilV7bkAA2yWy-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107161990808674404/HT4ilV7bkAA2yWy-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "liquidai",
+      "tweetUrl": "https://x.com/liquidai/status/2107161990808674404"
+    }
+  },
+  "summary": "The company's first decision model now supports images, text, or both as inputs to automate industrial workloads such as inspecting circuit boards. Liquid AI tested d1 against OpenAI's GPT-6.1 Sol and Anthropic's Claude Opus 5.5 across six real applications, including filtering support tickets, where d1 matched or beat GPT-6.1 Sol in four instances. The model reduces costs by 19x to 200x compared to its competitors and produces text decisions in 200 to 300 ms using a single forward pass without generating tokens.\n\nThe addition of vision allows the model to perform optical character recognition without prompt engineering and can improve performance for text-only tasks, according to a technical review. The model's architecture is designed to remain computationally efficient and inexpensive even when processing complex visual inputs for yes/no, choice, or score questions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107161990808674404",
+      "role": "source",
+      "authorHandle": "liquidai",
+      "url": "https://x.com/liquidai/status/2107161990808674404",
+      "tweetedAt": "2026-10-05T17:32:22.000Z",
+      "bestBit": "d1 matches or beats GPT-6.1 Sol on four of them. It costs 19x to 200x less than both models and answers significantly faster on every task.",
+      "text": "Announcing d1 with vision. 👁️👁️ Our first decision model now supports images, text or both as inputs. We tested d1 against GPT-6.1 Sol and Claude Opus 5.5 on six real applications, from filtering support tickets to inspecting circuit boards. d1 matches or beats GPT-6.1 Sol on four of them. It costs 19x to 200x less than both models and answers significantly faster on every task.\n\n> probabilities for yes/no, choice, or score questions\n> one forward pass, without generating tokens\n> text decisions in 200 to 300 ms\n> Liquid API: https://t.co/HxYWoaUnAU\n\n🧵"
+    },
+    {
+      "tweetId": "2107165932288438518",
+      "role": "commentary",
+      "authorHandle": "maximelabonne",
+      "url": "https://x.com/maximelabonne/status/2107165932288438518",
+      "tweetedAt": "2026-10-05T17:48:02.000Z",
+      "bestBit": "OCR is trivial, so you don't need any prompt engineering",
+      "text": "Ok it's crazy what you can do with text+vision\n\n&gt; Adding vision can improve performance for text-based tasks\n&gt; OCR is trivial, so you don't need any prompt engineering\n&gt;  It stays fast and cheap, even with extra vision inputs",
+      "quotedTweetText": "Announcing d1 with vision. 👁️👁️ Our first decision model now supports images, text or both as inputs. We tested d1 against GPT-6.1 Sol and Claude Opus 5.5 on six real applications, from filtering support tickets to inspecting circuit boards. d1 matches or beats GPT-6.1 Sol on four of them. It costs 19x to 200x less than both models and answers significantly faster on every task.\n\n> probabilities for yes/no, choice, or score questions\n> one forward pass, without generating tokens\n> text decisions in 200 to 300 ms\n> Liquid API: https://t.co/HxYWoaUnAU\n\n🧵"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "google-adds-claude-sonnet-55-and-opus-55-to-antigravity-5e10e460",
+  "title": "Google Adds Claude Sonnet 5.5 and Opus 5.5 to Antigravity",
+  "publishedAt": "2026-10-03T14:08:52.833Z",
+  "eventTimeApprox": "2026-10-03T07:51:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "Paid subscribers of AI Pro and Ultra plans now have access to the newest high-performance model versions in Antigravity. The update integrates Anthropic's Claude Sonnet 5.5 and a thinking-capable version of Opus 5.5 into the platform's paid tiers.\n\nGoogle is scheduled to remove several older models from the service on Nov 2, including the Claude 4.6 series and GPT-OSS-120b. This shift occurs as Google explores further system integrations, such as a testing phase for a \"Full Access\" mode in Gemini Desktop for macOS that allows AI agents to interact with any file or app.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106304522880455029",
+      "role": "source",
+      "authorHandle": "claudeupdates11",
+      "url": "https://x.com/Claudeupdates11/status/2106304522880455029",
+      "tweetedAt": "2026-10-03T08:45:06.000Z",
+      "bestBit": "Claude Opus 5.5 and Sonnet 5.5 are now in Antigravity",
+      "text": "🚨 Claude Opus 5.5 and Sonnet 5.5 are now in Antigravity\n\nIf you're a paid user you can use the best Claude models in Antigravity https://t.co/4D0Rjkcnaa"
+    },
+    {
+      "tweetId": "2106291045319278851",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2106291045319278851",
+      "tweetedAt": "2026-10-03T07:51:32.000Z",
+      "bestBit": "Antigravity quietly added Claude Sonnet 5.5 and Opus 5.5 (thinking) for AI Pro and Ultra plans, with Claude 4.6 models and GPT-OSS-120b being removed on Nov 2",
+      "text": "DAILY AI BRIEF 🗞 — Oct 3\n\nOPENAI 🔥:\n* OpenAI's Python SDK 3.24.0 quietly adds a Voices API for creating custom voices from a text prompt or an audio sample.\n* ChatGPT launched virtual Try On globally, letting you see clothes from shopping results on your own photo.\n* OpenAI disclosed a second Australian government incident, where an AI model accessed non-public NSW fire statistics.\n\nGOOGLE 🔥:\n* Antigravity quietly added Claude Sonnet 5.5 and Opus 5.5 (thinking) for AI Pro and Ultra plans, with Claude 4.6 models and GPT-OSS-120b being removed on Nov 2.\n* Gemini Desktop is testing a hidden \"Full Access\" mode that lets computer use reach files and apps anywhere on your Mac 👀\n* Guided Vision is rolling out in Gemini Live on Android, describing in real time whatever your camera sees.\n* Google's Project Suncatcher prototype satellite is in orbit, testing how TPUs handle radiation and heat in space.\n\nANTHROPIC 🔥:\n* Claude Frontier Academy launched with $100M to train 10,000 Frontier Deployed Engineers by 2027.\n* Profile picture support looks to be coming to Claude apps.\n* Claude Code 2.1.288 adds --max-findings to /code-review.\n\nMICROSOFT 🔥:\n* GitHub Copilot CLI and the Copilot desktop app got computer use in public preview.\n* Copilot code review can now be requested through the REST and GraphQL APIs.\n\nSPACEXAI 🔥:\n* An official experimental TypeScript SDK for the SpaceXAI API quietly shipped on npm as xai-official/sdk.\n\nDEEPSEEK 🔥:\n* DeepSeek Harness v0.2 now ships as desktop apps for macOS and Windows, with Linux via npm.\n\nMETA 🔥:\n* Muse Home Link, a USB-C gadget that connects Muse to smart-home devices, is free for US subscribers, with 5,000 units shipping in October.\n\nAPPLE 🔥:\n* Apple is tightening macOS Full Disk Access, citing the extra risk from AI agents.\n\nNVIDIA 🔥:\n* DGX Spark 64GB arrives Oct 23 from $4,999, and two units can cluster to 128GB.\n\nCLOUDFLARE 🔥:\n* Cloudflare released Clef and Clef-flash, open decision models that return probabilities instead of text.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.",
+      "quotedTweetText": "DAILY AI BRIEF 🗞 — Oct 2\n\nSPACEXAI 🔥:\n* Grok 4.7 is rolling out in the Grok web and mobile apps. It is now the base model across all modes: Fast, Expert, Build, and Heavy.\n* Primary Bot is rolling out gradually. Grok Bot turns proactive and suggests things on its own. Users pick a new Primary Bot or promote an existing one.\n* Grok Build got an Agent Dashboard: all your agents on one screen via /dashboard.\n* Grok 4.7 is now available on Google's Gemini Enterprise Agent Platform.\n\nANTHROPIC 🔥:\n* Mods landed in Claude Code: small TypeScript/JavaScript functions that can rewrite prompts, replace built-in features, and draw custom UI.\n* Mods ship inside plugins, work in the CLI and desktop app, and can be shared via the Claude directory.\n* Some built-ins are now mods, starting with /diff, so you can turn them off or swap them. More features will move to mods over time.\n\nMICROSOFT 🔥:\n* Three new MAI audio models are live: MAI-Transcribe-2-Streaming, MAI-Voice-2.1, and MAI-Voice-2.1-Flash.\n* Transcribe-2-Streaming covers 60 languages and takes #1 on Artificial Analysis streaming WER at 2.5%, priced at $0.54 per audio hour.\n* Voice-2.1 speaks 23 languages at $22 per 1M characters. Flash drops to ~45 ms inference at $15 per 1M characters.\n* Available in Microsoft Foundry and MAI Playground. The Voice models are on OpenRouter too.\n\nOPENAI 🔥:\n* OpenAI says it has notified 100+ organizations of \"misaligned agent activity\" so far. The review spans ~50 PB of logs and will take months.\n* Canada says there's no sign its systems were compromised after reported agent probing of Library and Archives Canada.\n* Sam Altman: GPT-6.1 Sol is OpenAI's fastest-growing model ever. It was slow under load and should be much better now.\n\nPERPLEXITY 🔥:\n* Computer now draws interactive charts and visualizations in the thread. Financial data uses TradingView Lightweight Charts for candlesticks, volume, and moving averages.\n* Decisions API is live: instead of text, it returns probabilities. Yes/no, one of your options, or a rubric score, at $0.04 per 1M input tokens with output free.\n* The model behind it, pplx-decider-v1-27b, is open-sourced on Hugging Face under Apache 2.0. Fine-tuned from Qwen3.8-27B, takes text and images, and averages 85.71% across 11 benchmarks in Perplexity's own tests.\n\nBLACK FOREST LABS 🔥:\n* FLUX 3 Image is out: precise multi-turn editing, up to 10 reference images, bounding-box layout control, and 4K output.\n* Open weights are planned in the coming weeks.\n\nCURSOR 🔥:\n* GLM 5.3 and GLM 5.3 Flash are now in Cursor.\n* GLM 5.3 Max is the best-scoring open-weight model on CursorBench 4.0.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing."
+    }
+  ],
+  "isSuperseded": false
+}

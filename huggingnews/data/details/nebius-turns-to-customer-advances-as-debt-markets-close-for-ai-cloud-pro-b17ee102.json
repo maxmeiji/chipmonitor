@@ -1,0 +1,124 @@
+{
+  "slug": "nebius-turns-to-customer-advances-as-debt-markets-close-for-ai-cloud-pro-b17ee102",
+  "title": "Nebius Turns to Customer Advances as Debt Markets Close for AI Cloud Providers",
+  "publishedAt": "2026-10-25T23:24:19.099Z",
+  "eventTimeApprox": "2026-10-22T14:10:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 21,
+  "authorCount": 18,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "C",
+      "kind": "equity",
+      "role": "related",
+      "name": "Citigroup Inc.",
+      "hubKey": "c"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114478163179053335/ONqFSqUVY_Rgkakx-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114478163179053335/ONqFSqUVY_Rgkakx-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2114477652887429120/vid/avc1/3400x1898/dTDpMgHcu26CRKPT.mp4?tag=29",
+    "credit": {
+      "handle": "hypertechinvest",
+      "tweetUrl": "https://x.com/HyperTechInvest/status/2114478163179053335"
+    }
+  },
+  "summary": "Arkady Volozh, CEO of Nebius, said that certain capital sources, including debt and asset-backed markets, have been temporarily closed to AI infrastructure providers since last week. To maintain the construction of its gigawatt-scale capacity, Nebius is now utilizing customer advances and other financial instruments rather than relying on those previously available debt markets.\n\nThe comments follow Nebius’s acquisition of a $3.5 billion senior secured credit facility from Citi with a 364 day maturity and rates starting at SOFR + 2.75%. While Nvidia CEO Jensen Huang recently stated that financing pressure on such companies is a result of overwhelming demand for AI compute, Nebius Chief Revenue Officer Marc Boroditsky noted that the company’s 2027 capacity would likely sell out immediately if it were brought online today.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114478163179053335",
+      "role": "source",
+      "authorHandle": "hypertechinvest",
+      "url": "https://x.com/HyperTechInvest/status/2114478163179053335",
+      "tweetedAt": "2026-10-25T22:04:13.000Z",
+      "bestBit": "From last week, probably some of the capital sources are temporarily closed, like the asset-backed or debt market.",
+      "text": "$NBIS CEO Arkady Volozh Says Debt Markets Closed for Neoclouds Since Last Week\n\n\"We have a pretty healthy balance sheet. We always thought about being more conservative here. We used all kinds of instruments. From last week, probably some of the capital sources are temporarily closed, like the asset-backed or debt market. But we're working now with customer advances and several other instruments,which will probably provide us enough finance to build this gigawatt at least.\""
+    },
+    {
+      "tweetId": "2113225837210120691",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2113225837210120691",
+      "tweetedAt": "2026-10-22T11:07:56.000Z",
+      "bestBit": "The facility has a 364-day maturity, with interest starting at SOFR + 2.75% and potentially rising to SOFR + 3.50%.",
+      "text": "$NBIS SECURES $3.5 BILLION FINANCING FACILITY FROM CITI\n\nNebius announced a new senior secured credit facility to fund its global AI data center expansion and GPU purchases.\n\nThe facility has a 364-day maturity, with interest starting at SOFR + 2.75% and potentially rising to SOFR + 3.50%.\n\nNebius has more than $40 billion in long-term contracts with investment-grade customers, which could support additional asset-backed financing as it expands AI capacity in 2027 and beyond.",
+      "quotedTweetText": "Asked how far $NVDA would go to financially backstop neoclouds, or even bail one out, Jensen said:\n\n“We invested in them... that's different than backing them”\n\nHe says neoclouds are “completely sold out” &amp; expects them to secure the working capital they need\n\nh/t @TomMackenzieTV https://t.co/8dAjWWr2bV"
+    },
+    {
+      "tweetId": "2113247570029896094",
+      "role": "source",
+      "authorHandle": "nebiusai",
+      "url": "https://x.com/nebiusai/status/2113247570029896094",
+      "tweetedAt": "2026-10-22T12:34:17.000Z",
+      "bestBit": "We’ve secured a $3.5 billion financing facility from Citi to support our global growth.",
+      "text": "We’ve secured a $3.5 billion financing facility from Citi to support our global growth.\n\nThe facility provides capital at attractive rates, diversifies our capital structure, and gives us greater flexibility over when and how we raise long-term financing.\n\nFull release: https://t.co/RVbqDsJvmi"
+    },
+    {
+      "tweetId": "2113271864130723848",
+      "role": "commentary",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2113271864130723848",
+      "tweetedAt": "2026-10-22T14:10:49.000Z",
+      "bestBit": "The problem isn’t a lack of demand for AI compute but rather that demand is growing so quickly that these companies need enormous amounts of capital just to keep up.",
+      "text": "Jensen Huang just made some VERY interesting comments about the ongoing financing concerns surrounding neoclouds like $NBIS and $CRWV.\n\nOne of the biggest concerns surrounding these companies has been their ability to secure financing at attractive rates, especially as borrowing costs continue to rise and investors become increasingly worried about their balance sheets. But Jensen made an important distinction. The problem isn’t a lack of demand for AI compute but rather that demand is growing so quickly that these companies need enormous amounts of capital just to keep up.\n\nAccording to Jensen, neoclouds are essentially completely sold out, with customers ranging from smaller companies to some of the largest enterprises in the world. And in order to fulfill these contracts, they need to secure more land, electricity, data centers, and GPUs, all of which require billions of dollars in additional capital. And because demand for capital is so high across the entire AI industry, borrowing costs are naturally being pushed higher. Jensen argues that this isn’t necessarily a structural problem with the neocloud business model. It’s a consequence of incredibly strong demand for AI compute. His argument is that financing challenges can eventually be solved when customer demand is there, but you cannot fix a business that simply doesn’t have customers.\n\nI think this is an important distinction because we’re seeing companies like $NBIS and $CRWV getting punished over financing concerns despite having substantial contracted demand and customers willing to commit billions of dollars to their infrastructure. Of course, this doesn’t mean every neocloud will survive. Some companies will struggle with debt, financing costs, and execution, especially if they cannot deploy their infrastructure quickly enough to generate revenue.\n\nAnd when Jensen was directly asked whether Nvidia would ever bail out a struggling neocloud, he didn’t commit to doing so. Instead, he explained that Nvidia invests in these businesses because it believes they’re attractive investments, not because it has an obligation to rescue them. Personally, I continue to believe the market is overreacting to some of these financing concerns, particularly for companies with strong customers and significant long term contracts. The underlying problem isn’t that nobody wants AI compute, it’s that everybody wants so much of it that the industry is struggling to finance and build capacity fast enough to meet demand.",
+      "quotedTweetText": "Nebius just secured a $3.5 billion financing facility from Citi to help fund its global AI infrastructure expansion, including data centers and GPU purchases.\n\nWhat makes this particularly interesting is the financing terms. The facility has a 364 day maturity and carries an initial interest rate of SOFR + 2.75%, potentially increasing to SOFR + 3.50%. SOFR is essentially a benchmark interest rate that banks use when lending money, meaning Nebius is borrowing at a relatively modest premium above that benchmark. Now, remember one of the biggest concerns surrounding neoclouds recently has been their ability to secure financing at attractive rates. Investors have been worried that companies like Nebius and CoreWeave would struggle to raise the billions of dollars needed to continue expanding, especially with borrowing costs remaining elevated and credit markets becoming increasingly cautious.\n\nWell, this announcement directly challenges that concern, at least for Nebius. Not only has Nebius secured another $3.5 billion in financing, but it has managed to do so at what I consider fairly attractive rates for a capital intensive AI infrastructure company. And here’s another important point. Nebius already has more than $40 billion in long term customer commitments from investment grade customers, including Microsoft and Meta. Those contracts give lenders greater confidence that the infrastructure being financed will eventually generate revenue.\n\nI’ve said this repeatedly, I don’t believe every neocloud will survive this AI infrastructure buildout. Access to capital is going to separate the winners from the losers, and Nebius continues to demonstrate why I believe it will be among the survivors. This is a very encouraging development for $NBIS shareholders, especially after all the concerns surrounding financing and the recent selloff."
+    },
+    {
+      "tweetId": "2113949155949240691",
+      "role": "analysis",
+      "authorHandle": "intuitmachine",
+      "url": "https://x.com/IntuitMachine/status/2113949155949240691",
+      "tweetedAt": "2026-10-24T11:02:08.000Z",
+      "bestBit": "Nebius CRO Marc Boroditsky said 2027 capacity would sell out immediately if brought online now, with prices still rising and demand outrunning supply.",
+      "text": "@edzitron @firstadopter @Kantrowitz 6/ Nebius CRO Marc Boroditsky said 2027 capacity would sell out immediately if brought online now, with prices still rising and demand outrunning supply.\n\nhttps://t.co/r4mt0TZD6G",
+      "quotedTweetText": "$NBIS\nTop 5 Nebius management weekly remarks 📣\n\n1. CEO Arkady Volozh at GTC Berlin (Oct 22): demand and pricing are both intact. He said the market’s real problems are how to finance and how to build capacity, not demand.  \n\nIt reframes the selloff as a capital-markets problem rather than a demand problem, which is the central bull counter-argument right now.   \n\n2. CRO Marc Boroditsky on CNBC (Oct 21): compute prices are rising faster than expected. In Nebius’s Oct 20 capacity auction, prices kept climbing, and he said 2027 capacity would sell out if it were brought online.  \n\nRising rental rates undercut the “GPU price collapse” bear case and support the ~22-month payback math Volozh gave in September.   \n\n3. COO Ophir Nave (Oct 22, Citi facility release): financing is being sequenced deliberately. The $3.5B bridge is meant to be followed by asset-backed debt secured on more than $40B of investment-grade customer contracts.  \n\nThe cost and timing of that asset-backed deal is now the key catalyst for both the multiple and dilution risk.   \n\n4. CRO Marc Boroditsky (Oct 21–22): Nebius doesn’t carry CoreWeave-style leverage. He said directly, “We’re not carrying the kind of debt that they are.”  \n\nManagement is actively decoupling the story from CoreWeave’s credit stress. The market isn’t buying it yet, since NBIS still trades on CRWV’s bond yields.   \n\n5. CEO Arkady Volozh (Oct 21 pricing release at GTC Berlin): customers should be able to see what compute costs and buy on flexible terms. He paired this with\n$NBIS being among the first clouds to bring up Vera Rubin NVL72 systems.  \n\nPublic spot pricing signals confidence that the pricing will hold up under scrutiny, and early Rubin access strengthens the NVIDIA-allocation moat."
+    },
+    {
+      "tweetId": "2113847884093538539",
+      "role": "commentary",
+      "authorHandle": "tengyanai",
+      "url": "https://x.com/tengyanAI/status/2113847884093538539",
+      "tweetedAt": "2026-10-24T04:19:43.000Z",
+      "bestBit": "Nebius also has $12B of dedicated Meta contracts, plus an arrangement for Meta to buy certain unsold capacity.",
+      "text": "Nebius is making an interesting bet on the AI boom, which im seeing more ppl consider.\n\nit says it could sell all its 2027 GPU capacity today. but it's deliberately holding some back, betting that customers needing GPUs urgently will pay much higher prices.\n\nseems rational.. gpu rental prices across 6 providers is up 27% from jul-oct.\n\nNebius also has $12B of dedicated Meta contracts, plus an arrangement for Meta to buy certain unsold capacity. so it's not entirely exposed to spot demand.\n\nbut also consider the financing side.\non Oct 17, Nebius signed a $3.5B secured bridge facility that matures in just 364 days. interest starts at SOFR + 2.75%, then steps up 25bps every 90 days, reaching as high as +3.5%.\n\nthink about that.\n\nNebius is keeping some compute capacity available to capture higher short-term prices, while using short-term debt to finance its expansion.\n\nthat works beautifully while GPU demand is tight and capital is available.\n\nbut i wonder whether Nebius can replace that bridge with cheaper, longer-duration financing before GPU rental prices (potentially) soften? the upside is capturing scarcity pricing. the risk is needing fresh capital when scarcity no longer commands a premium.\n\nThat's the trade I'm watching in $NBIS."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nebius-obtains-35b-citi-facility-for-ai-infrastructure-9ef6dc21",
+    "title": "Nebius Obtains $3.5B Citi Facility for AI Infrastructure",
+    "publishedAt": "2026-10-22T12:09:04.143Z",
+    "eventTimeApprox": "2026-10-22T11:40:43.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business"
+    ],
+    "tweetCount": 14,
+    "authorCount": 13
+  }
+}

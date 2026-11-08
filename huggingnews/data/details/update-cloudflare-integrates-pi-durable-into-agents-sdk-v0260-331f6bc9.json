@@ -1,0 +1,137 @@
+{
+  "slug": "update-cloudflare-integrates-pi-durable-into-agents-sdk-v0260-331f6bc9",
+  "title": "UPDATE: Cloudflare Integrates Pi Durable Into Agents SDK v0.26.0",
+  "publishedAt": "2026-10-02T19:09:46.435Z",
+  "eventTimeApprox": "2026-10-01T19:15:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NET",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cloudflare, Inc. Class A common stock, par value $0.001 per share",
+      "hubKey": "net"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2094838083854217520/HRJbsXWXwAA7O9W-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2094838083854217520/HRJbsXWXwAA7O9W-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "mattzcarey",
+      "tweetUrl": "https://x.com/mattzcarey/status/2094838083854217520"
+    }
+  },
+  "summary": "The persistence layer provided by Pi Durable is now operational on Cloudflare Durable Objects following a series of technical updates to the company's agent tooling. The integration, delivered in version 0.26.0 of the agents SDK, allows developers to install the runtime via the npm package manager to maintain state for autonomous AI agents on the network's infrastructure.\n\nThe release accompanies the Oct. 1 launch of Pi 1.0, a customizable coding harness for AI agents. This version introduces 'codemode,' which enables agents to write scripts to orchestrate tool calls and filter data outside the model's context to reduce latency and token costs. Industry developers have noted that durable runtimes are becoming a necessary requirement for all agent harnesses.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105738462712209603",
+      "role": "source",
+      "authorHandle": "pidotdev",
+      "url": "https://x.com/pidotdev/status/2105738462712209603",
+      "tweetedAt": "2026-10-01T19:15:46.000Z",
+      "bestBit": "We've shipped Pi 1.0 with Pi Durable",
+      "text": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours.\n\nhttps://t.co/oUPfVfvAZl"
+    },
+    {
+      "tweetId": "2106082034611572811",
+      "role": "source",
+      "authorHandle": "mattzcarey",
+      "url": "https://x.com/mattzcarey/status/2106082034611572811",
+      "tweetedAt": "2026-10-02T18:01:00.000Z",
+      "bestBit": "Pi on Durable Objects, out for real in v0.26.0",
+      "text": "Pi on Durable Objects, out for real in v0.26.0  \n\nnpm i agents  \n\ngreat working with @badlogicgames and the crew over the last few weeks on pi-durable. very happy for their v1.0 release of @pidotdev :)\n\nhttps://t.co/3SUmHfEZRF https://t.co/9Amftube28",
+      "quotedTweetText": "I must be the 10th person to do this. \n@pidotdev in a Durable Object!!\nstill stoked. https://t.co/3fDZQ7gxun"
+    },
+    {
+      "tweetId": "2106093146296008857",
+      "role": "source",
+      "authorHandle": "badlogicgames",
+      "url": "https://x.com/badlogicgames/status/2106093146296008857",
+      "tweetedAt": "2026-10-02T18:45:10.000Z",
+      "bestBit": "Cloudflare have integrated Pi Durable in the agents SDK",
+      "text": "Cloudflare have integrated Pi Durable in the agents SDK. Really happy how it turned out. Props to @mattzcarey et al. for getting this done on such short notice.\n\nIt \"just works\" :)\n\nhttps://t.co/iOcrfJOg4G"
+    },
+    {
+      "tweetId": "2105791360796397954",
+      "role": "commentary",
+      "authorHandle": "hwchase17",
+      "url": "https://x.com/hwchase17/status/2105791360796397954",
+      "tweetedAt": "2026-10-01T22:45:58.000Z",
+      "bestBit": "pretty clear every agent harness needs a durable runtime",
+      "text": "pretty clear every agent harness needs a durable runtime\n\npi :: pi-durable\n\ndeepagents :: langgraph",
+      "quotedTweetText": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours.\n\nhttps://t.co/oUPfVfvAZl"
+    },
+    {
+      "tweetId": "2105793363475886198",
+      "role": "commentary",
+      "authorHandle": "yoheinakajima",
+      "url": "https://x.com/yoheinakajima/status/2105793363475886198",
+      "tweetedAt": "2026-10-01T22:53:56.000Z",
+      "bestBit": "durable agents, so hot right now",
+      "text": "durable agents, so hot right now",
+      "quotedTweetText": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours.\n\nhttps://t.co/oUPfVfvAZl"
+    },
+    {
+      "tweetId": "2106029828302373354",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2106029828302373354",
+      "tweetedAt": "2026-10-02T14:33:33.000Z",
+      "bestBit": "Builders need coding agents and harnesses to be more malleable",
+      "text": "Learn to build a custom harness, folks. \n\nMods in Claude Code, DeepSeek Harness, and now Pi Durable.\n\nWhat do these all have in common?\n\nIncreased extensibility.\n\nBuilders need coding agents and harnesses to be more malleable. \n\nSay you are building a simple agentic app for your users, a personalized headless experience,  a software factory, or a domain-specific harness; you will quickly find that the generic harness won't cut it. Sometimes you need a different behavior in the UI. Sometimes you just need to easily add a new feature/plugin. Or sometimes you just want to build a completely new experience, like multiplayer support. \n\nYou can build it from scratch, as I recommend. I mean, it's not that hard. But if you want to hit the ground running, where do you go? Pi Durable and DeepSeek Harness seem to want to solve that problem.\n\nUsers want more customization in their harnesses. And those builders who understand how to build and maintain one will win big time from this next phase of more malleable harnesses. \n\nThe battle of the best harness will be very different from the first wave of generic harnesses.",
+      "quotedTweetText": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours.\n\nhttps://t.co/oUPfVfvAZl"
+    },
+    {
+      "tweetId": "2105975159219700141",
+      "role": "analysis",
+      "authorHandle": "seraandroid",
+      "url": "https://x.com/SeraAndroid/status/2105975159219700141",
+      "tweetedAt": "2026-10-02T10:56:19.000Z",
+      "bestBit": "codemode lets the agent write a script that orchestrates those calls, filters and combines the data, and returns the relevant result",
+      "text": "An agent can fill its context with tool output before it gets to the useful part.\n\nImagine checking tons of issues and PRs plus their comments. With individual tool calls, the model repeatedly receives raw results just to decide what to fetch or filter next.\n\ncodemode lets the agent write a script that orchestrates those calls, filters and combines the data, and returns the relevant result. Independent calls can run in parallel. Intermediate data can stay outside the model’s context.\n\nThe tools still do the work, but fewer steps need a model round trip. That can reduce latency and token costs while leaving more context for reasoning.\n\nPi Agent 1.0 is the latest example, adding codemode alongside deferred tool loading.\n\nI use @pidotdev as my daily driver. Its adoption is a useful example of harnesses evolving with both user needs and model capabilities: giving agents better ways to compose tools as workflows grow longer.\n\nhttps://t.co/i9buSIYi61"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "pi-ships-pi-10-with-pi-durable-runtime-84ad57d0",
+    "title": "Pi Ships Pi 1.0 With Pi Durable Runtime",
+    "publishedAt": "2026-10-01T22:55:18.627Z",
+    "eventTimeApprox": "2026-10-01T19:15:46.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 12,
+    "authorCount": 10
+  }
+}

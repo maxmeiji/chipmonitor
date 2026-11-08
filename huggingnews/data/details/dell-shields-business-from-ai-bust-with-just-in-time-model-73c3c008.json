@@ -1,0 +1,81 @@
+{
+  "slug": "dell-shields-business-from-ai-bust-with-just-in-time-model-73c3c008",
+  "title": "Dell Shields Business from AI Bust With Just in Time Model",
+  "publishedAt": "2026-10-16T16:40:51.516Z",
+  "eventTimeApprox": "2026-10-16T16:14:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "DELL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Dell Technologies Inc.",
+      "hubKey": "dell"
+    },
+    {
+      "ticker": "MU",
+      "kind": "equity",
+      "role": "related",
+      "name": "Micron Technology, Inc.",
+      "hubKey": "mu"
+    },
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "related",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    }
+  ],
+  "summary": "Dell Technologies is fulfilling a $95 billion backlog of AI servers through a customer-funded delivery system that limits the company's inventory exposure. CEO Michael Dell stated that utilizing just-in-time manufacturing and a negative cash conversion cycle creates a financial cushion to survive a potential downturn in AI spending, unlike the model used by more heavily indebted infrastructure providers. This approach currently serves over 6,500 AI customers and supports a projected 70% increase in fiscal-year revenue.\n\nMichael Dell also warned that memory chip shortages will intensify next year, with DRAM supply continuing to restrict deliveries. While some market participants express concern over a memory oversupply by 2027 that has weighed on Micron and SK Hynix, Dell noted that new fabrication plants are unlikely to provide meaningful relief until 2029 or 2030.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111128687718408436",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2111128687718408436",
+      "tweetedAt": "2026-10-16T16:14:36.000Z",
+      "bestBit": "Dell Technologies ($DELL ) is positioning itself to withstand a potential AI downturn through just-in-time manufacturing and a negative cash conversion cycle.",
+      "text": "MICHAEL DELL REVEALS HOW HIS COMPANY COULD SURVIVE AN AI BUST\n\nDell Technologies ($DELL ) is positioning itself to withstand a potential AI downturn through just-in-time manufacturing and a negative cash conversion cycle.\n\nUnlike heavily indebted AI infrastructure providers, Dell largely builds servers against customer orders, limiting inventory exposure.\n\n•  AI server backlog: $95 billion\n•  AI customers: 6,500+\n•  Projected fiscal-year revenue growth: 70%\n\nHowever, Michael Dell warns that memory chip shortages could worsen next year.\n\nThe key takeaway: Dell's customer-funded operating model may offer protection against an AI spending slowdown, although weaker demand could quickly hit revenue."
+    },
+    {
+      "tweetId": "2111131954787889205",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2111131954787889205",
+      "tweetedAt": "2026-10-16T16:27:35.000Z",
+      "bestBit": "new memory fabs unlikely to provide meaningful relief until 2029 or 2030",
+      "text": "$DELL CEO Michael Dell says memory shortage is going to “get worse” next year with ~$95B in AI server backlog and DRAM supply still limiting deliveries.\n\nWith new memory fabs unlikely to provide meaningful relief until 2029 or 2030, the 2027 oversupply fears weighing on $MU and $SKHY look really disconnected from what customers are actually seeing."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "google-research-develops-sleep-framework-for-continual-learning-in-llms-2bf15568",
+  "title": "Google Research Develops Sleep Framework for Continual Learning in LLMs",
+  "publishedAt": "2026-10-27T20:08:52.651Z",
+  "eventTimeApprox": "2026-10-27T18:03:03.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115136620446019795/HVp5VQBagAAIAXY-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115136620446019795/HVp5VQBagAAIAXY-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "googleresearch",
+      "tweetUrl": "https://x.com/GoogleResearch/status/2115136620446019795"
+    }
+  },
+  "summary": "A new AI training method from Google allows large language models to incorporate new information and refine their reasoning without the \"catastrophic forgetting\" typically seen when models are updated. The approach, called a \"sleep\" phase, is intended to replace the static knowledge cutoffs of conventional models by enabling a process of continual learning.\n\nThe proposed framework consists of two stages: memory consolidation and dreaming. During consolidation, the model employs imitation learning and reinforcement learning to move data from short-term parameters into persistent slow memories, while the dreaming phase generates synthetic data to independently improve model performance. The researchers validated the system's effectiveness in a joint paper and on the Google Research blog.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115136620446019795",
+      "role": "source",
+      "authorHandle": "googleresearch",
+      "url": "https://x.com/GoogleResearch/status/2115136620446019795",
+      "tweetedAt": "2026-10-27T17:40:42.000Z",
+      "bestBit": "new instance of a “sleep” phase in continual learning, which enables LLMs to continuously integrate new facts and enhance reasoning while mitigating catastrophic forgetting",
+      "text": "Today on the blog, learn about our new instance of a “sleep” phase in continual learning, which enables LLMs to continuously integrate new facts and enhance reasoning while mitigating catastrophic forgetting or static knowledge cutoffs.\n\nMore →https://t.co/5v9w5Pn4dw https://t.co/7Mms1x7hgl"
+    },
+    {
+      "tweetId": "2115170769689018780",
+      "role": "analysis",
+      "authorHandle": "mirrokni",
+      "url": "https://x.com/mirrokni/status/2115170769689018780",
+      "tweetedAt": "2026-10-27T19:56:24.000Z",
+      "bestBit": "The model uses imitation learning and RL to perform upward distillation (called knowledge seeding) and transfer knowledge from fragile short-term parameters to persistent slow memories.",
+      "text": "To move from conventional models to continual learning, we need to revisit even the fundamental concepts such as the traditional train and test phases.\n\nWe introduce a sleep framework in continual learning that enables LLMs to continuously integrate new facts and enhance reasoning while being robust to catastrophic forgetting.\n\nOur proposed sleep cycle consists of two phases:\n1️⃣ Memory consolidation: The model uses imitation learning and RL to perform upward distillation (called knowledge seeding) and transfer knowledge from fragile short-term parameters to persistent slow memories.\n2️⃣ Dreaming: The model generates diverse synthetic data to improve its own performance. \n\nWe validate the model both theoretically and empirically in this joint paper with @behrouz_ali @Farn8sh_h @AdelJavanmard : https://t.co/4QnCiyMzGm\n\n👉Read the full post on the Google Research Blog: https://t.co/IJmLYN6a9p",
+      "quotedTweetText": "Today on the blog, learn about our new instance of a “sleep” phase in continual learning, which enables LLMs to continuously integrate new facts and enhance reasoning while mitigating catastrophic forgetting or static knowledge cutoffs.\n\nMore →https://t.co/5v9w5Pn4dw https://t.co/7Mms1x7hgl"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "ai-unlocks-1669-free-ps5-games-in-first-accelerated-hardware-hack-834f7a94",
+  "title": "AI Unlocks 1,669 Free PS5 Games in First Accelerated Hardware Hack",
+  "publishedAt": "2026-10-12T12:39:21.131Z",
+  "eventTimeApprox": "2026-10-12T09:09:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SONY",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Sony Group Corporation American Depositary Shares (Each Representing One Share of Dollar Validated Common Stock)",
+      "hubKey": "sony"
+    },
+    {
+      "ticker": "TTWO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Take-Two Interactive Software Inc",
+      "hubKey": "ttwo"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109572231701385430/PbxFdNSXinhXlX91-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109572231701385430/PbxFdNSXinhXlX91-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2109571383814430721/vid/avc1/2600x1698/7itR8KSZ4buywyo-.mp4?tag=29",
+    "credit": {
+      "handle": "intcyberdigest",
+      "tweetUrl": "https://x.com/IntCyberDigest/status/2109572231701385430"
+    }
+  },
+  "summary": "A new store for jailbroken PlayStation 5 consoles now allows users to download titles, updates and DLCs for free. The homebrew app, known as Overdrive, was uploaded to GitHub on October 9 and sources its content from platforms such as MediaFire. This breach follows the Relapse jailbreak and was made possible by using artificial intelligence to reverse-engineer the console's hardware security in a matter of weeks.\n\nThe development is the first known case of AI significantly accelerating the process of hardware reverse engineering. While Sony has not commented, some market observers claim the release could cost game publishers billions of dollars in lost revenue, specifically citing a potential impact on the top line of Rockstar Games.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109572231701385430",
+      "role": "source",
+      "authorHandle": "intcyberdigest",
+      "url": "https://x.com/IntCyberDigest/status/2109572231701385430",
+      "tweetedAt": "2026-10-12T09:09:48.000Z",
+      "bestBit": "homebrew app called Overdrive turns jailbroken PS5s into a store of 1,669 games",
+      "text": "‼️ A homebrew app called Overdrive turns jailbroken PS5s into a store of 1,669 games.\n\nIt hit GitHub on 9 October, 10 days after the Relapse jailbreak, and pulls games from file hosts like MediaFire. https://t.co/wgbTceyv0s"
+    },
+    {
+      "tweetId": "2109517461921902780",
+      "role": "source",
+      "authorHandle": "0x0sojalsec",
+      "url": "https://x.com/0x0SojalSec/status/2109517461921902780",
+      "tweetedAt": "2026-10-12T05:32:10.000Z",
+      "bestBit": "first clear example of AI dramatically accelerating hardware reverse engineering",
+      "text": "AI reverse-engineered PS5 security in weeks.\n\nThe entire game library is now free.\nA full jailbreak store is already giving full access to the entire PS5 library, updates, and DLCs.\n\nThis is the first clear example of AI dramatically accelerating hardware reverse engineering. https://t.co/4FQ8qhmvPC"
+    },
+    {
+      "tweetId": "2109621638497259902",
+      "role": "commentary",
+      "authorHandle": "claud_fuen",
+      "url": "https://x.com/claud_fuen/status/2109621638497259902",
+      "tweetedAt": "2026-10-12T12:26:08.000Z",
+      "bestBit": "hit Rockstar’s top line hard. Cost in the billions.",
+      "text": "The timing of this is going to hit Rockstar’s top line hard.\n\nCost in the billions.",
+      "quotedTweetText": "AI reverse-engineered PS5 security in weeks.\n\nThe entire game library is now free.\nA full jailbreak store is already giving full access to the entire PS5 library, updates, and DLCs.\n\nThis is the first clear example of AI dramatically accelerating hardware reverse engineering. https://t.co/4FQ8qhmvPC"
+    }
+  ],
+  "isSuperseded": false
+}

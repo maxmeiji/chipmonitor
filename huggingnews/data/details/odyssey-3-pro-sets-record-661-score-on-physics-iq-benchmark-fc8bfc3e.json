@@ -1,0 +1,73 @@
+{
+  "slug": "odyssey-3-pro-sets-record-661-score-on-physics-iq-benchmark-fc8bfc3e",
+  "title": "Odyssey-3 Pro Sets Record 66.1 Score on Physics IQ Benchmark",
+  "publishedAt": "2026-10-08T17:28:08.720Z",
+  "eventTimeApprox": "2026-10-08T17:06:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108242054400950604/HUH6vH6bQAAw6Os-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108242054400950604/HUH6vH6bQAAw6Os-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2108242054400950604"
+    }
+  },
+  "summary": "The AI startup Odyssey has released a foundation world model that generates simulated environments and interactive experiences from text prompts in real time. The Odyssey-3 Pro version scored 66.1 on the Physics-IQ Verified video-to-video benchmark, the highest score reported for the test, and is currently available for free public access.\n\nThe model evaluates physical behavior across optics, solid mechanics, and fluid dynamics by predicting how real-world physics experiments continue. In robotics applications, the AI demonstrated emergent capabilities such as a robotic arm recovering from a missed grasp, a behavior that the developer noted was absent from the model's training demonstrations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108238378751967385",
+      "role": "source",
+      "authorHandle": "odysseyml",
+      "url": "https://x.com/odysseyml/status/2108238378751967385",
+      "tweetedAt": "2026-10-08T16:49:33.000Z",
+      "bestBit": "sets a new state of the art on Physics-IQ, and powers robots, trains AIs, and generates interactive experiences",
+      "text": "Today we're launching Odyssey-3, the most powerful foundation world model yet.\n\nIt sets a new state of the art on Physics-IQ, and powers robots, trains AIs, and generates interactive experiences. It's really cool.\n\nExperience the model today, all for free! https://t.co/LHWa7MPbKi"
+    },
+    {
+      "tweetId": "2108242054400950604",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2108242054400950604",
+      "tweetedAt": "2026-10-08T17:04:09.000Z",
+      "bestBit": "Odyssey-3 Pro scored 66.1 on Physics-IQ Verified’s video-to-video benchmark, the highest reported score",
+      "text": "Odyssey has launched Odyssey-3, an AI world model that generates interactive environments from a prompt in real time.\n\nPeople and AI agents can act inside these worlds and observe how they respond, creating potential uses in simulation, robotics and training AI through experience.\n\nOdyssey-3 Pro scored 66.1 on Physics-IQ Verified’s video-to-video benchmark, the highest reported score. \n\nThe benchmark tests physical behavior in areas such as fluid dynamics, optics and solid mechanics.",
+      "quotedTweetText": "Today we're launching Odyssey-3, the most powerful foundation world model yet.\n\nIt sets a new state of the art on Physics-IQ, and powers robots, trains AIs, and generates interactive experiences. It's really cool.\n\nExperience the model today, all for free! https://t.co/LHWa7MPbKi"
+    },
+    {
+      "tweetId": "2108245674961588672",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2108245674961588672",
+      "tweetedAt": "2026-10-08T17:18:32.000Z",
+      "bestBit": "the robot arm recovered from a missed grasp, a behavior that never appeared in those demos",
+      "text": "Huge release from @odysseyml.\n\nOdyssey-3 Pro sets a new top score on Physics-IQ Verified, a benchmark that asks models to continue videos of real physics experiments.\n\nThe robotics results stood out to me. With tens of hours of demos, the robot arm recovered from a missed grasp, a behavior that never appeared in those demos.",
+      "quotedTweetText": "Today we're launching Odyssey-3, the most powerful foundation world model yet.\n\nIt sets a new state of the art on Physics-IQ, and powers robots, trains AIs, and generates interactive experiences. It's really cool.\n\nExperience the model today, all for free! https://t.co/LHWa7MPbKi"
+    }
+  ],
+  "isSuperseded": false
+}

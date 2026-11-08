@@ -1,0 +1,91 @@
+{
+  "slug": "new-york-timess-ai-lawsuit-against-microsoft-and-openai-may-yield-over-1-1f3a17b3",
+  "title": "New York Times's AI Lawsuit Against Microsoft and OpenAI May Yield Over $1B Settlement",
+  "publishedAt": "2026-11-05T15:06:56.517Z",
+  "eventTimeApprox": "2026-11-03T20:58:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "culture"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "rumors",
+      "name": "Rumors"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NYT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "New York Times Co.",
+      "hubKey": "nyt"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The legal battle over the use of news articles to train generative artificial intelligence could result in a payment of more than $1 billion to the New York Times. The anticipated settlement would provide the publisher with a massive capital infusion that may prompt its ownership, including A.G. and Meredith, to pursue further corporate acquisitions.\n\nThe litigation targets OpenAI and Microsoft for copyright infringement, alleging the companies used protected content without authorization to build their AI systems. The Times's case has gained backing from major players in the Hollywood film and media industry as content creators seek to establish intellectual property protections against AI developers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118355839409156200",
+      "role": "source",
+      "authorHandle": "dylanbyers",
+      "url": "https://x.com/DylanByers/status/2118355839409156200",
+      "tweetedAt": "2026-11-05T14:52:43.000Z",
+      "bestBit": "The New York Times’s lawsuit against Microsoft and OpenAI could soon yield a settlement of more than a billion dollars",
+      "text": "NEW: The New York Times’s lawsuit against Microsoft and OpenAI could soon yield a settlement of more than a billion dollars—and set A.G. and Meredith on another M&amp;A spree.\n\nhttps://t.co/tsxkGtTlx2\n\n@PuckNews"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "hollywood-backs-new-york-times-in-ai-copyright-lawsuit-against-openai-an-d5332e30",
+    "title": "Hollywood Backs New York Times in AI Copyright Lawsuit Against OpenAI and Microsoft",
+    "publishedAt": "2026-11-03T18:08:40.029Z",
+    "eventTimeApprox": "2026-11-03T14:50:53.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "culture",
+      "us-politics"
+    ],
+    "tweetCount": 5,
+    "authorCount": 4
+  }
+}

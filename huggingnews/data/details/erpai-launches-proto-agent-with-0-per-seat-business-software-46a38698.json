@@ -1,0 +1,75 @@
+{
+  "slug": "erpai-launches-proto-agent-with-0-per-seat-business-software-46a38698",
+  "title": "ERP•AI Launches Proto Agent With $0 Per Seat Business Software",
+  "publishedAt": "2026-10-15T18:01:13.809Z",
+  "eventTimeApprox": "2026-10-15T16:50:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110772035366580272/aT39BLzd7878OCjQ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110772035366580272/aT39BLzd7878OCjQ-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2110771788368273408/vid/avc1/1920x1080/s5_886Fptr_y9hcz.mp4?tag=29",
+    "credit": {
+      "handle": "rohanpaul_ai",
+      "tweetUrl": "https://x.com/rohanpaul_ai/status/2110772035366580272"
+    }
+  },
+  "summary": "A new ecosystem from ERP•AI allows businesses to generate custom enterprise tools via a natural language prompt and operate them through an autonomous agent called Proto. The a platform, described as \"Headless SaaS,\" enables the agent to build systems for CRM, inventory, and invoice tracking, and subsequently execute workflows, manage records, and generate reports. To align with this agent-led model, the company abandoned per-user pricing and now charges $0 per seat, billing instead for machine-driven activity.\n\nUsage is managed via prepaid credits available in $5, $20, and $100 packs, and new accounts receive $100 in starting credit valid for one month. A $1 credit covers 4,000 record writes, 2,000 workflow runs, or 2,000 agent executions, while AI processing is billed at the model's base cost plus an 8% fee. Steve Papa and the founding team stated the goal is to move beyond the 25 year industry assumption that humans must be the primary operators of enterprise software.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110746192556749225",
+      "role": "source",
+      "authorHandle": "protosphinx",
+      "url": "https://x.com/protosphinx/status/2110746192556749225",
+      "tweetedAt": "2026-10-15T14:54:42.000Z",
+      "bestBit": "It manages records, runs workflows and executes actions inside the software you just created.",
+      "text": "For 25 years, Salesforce, SAP and enterprise software were built around one assumption: humans operate the software.\n\nWe’re changing that.\n\nIntroducing ERP•AI and Proto: business software built for agents, and an agent that operates business software.\n\nDescribe the system you need. ERP•AI builds it.\n\nThen Proto takes over. It manages records, runs workflows and executes actions inside the software you just created.\n\nThis is Headless SaaS.\n\n1: get ERP•AI\n2: build your SaaS\n3: post below\n\nBest one wins a MacBook. First 100 decent entries get $100.\n\n(a message from Steve Papa / founding team)"
+    },
+    {
+      "tweetId": "2110772035366580272",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2110772035366580272",
+      "tweetedAt": "2026-10-15T16:37:24.000Z",
+      "bestBit": "$1 buys 4,000 record writes, 2,000 workflow runs or 2,000 agent executions, and AI is billed at the model’s exact cost plus an 8% agent fee.",
+      "text": "AI agents are becoming the main user of company software, with humans approving its actions instead of entering data themselves.\nSo it should be metered accordingly.\n\nERP[.]AI has released a platform for business software that charges $0 per seat and bills the machines instead.\n\nSeats, apps, roles, permissions and manual record work in its interface cost nothing, while API-key access, imports, workflows, agents and AI draw down prepaid credits.\n\nThose credits come in one-time $5, $20 and $100 packs, and every new account gets $100 of starting credit that lasts 1 month.\n\nThe meter is fine-grained, because $1 buys 4,000 record writes, 2,000 workflow runs or 2,000 agent executions, and AI is billed at the model’s exact cost plus an 8% agent fee.\n\nMost of that metered work comes from Proto, a desktop agent that sets up data, approvals, permissions and dashboards in ERP[.]AI from a plain description of how a business runs.",
+      "quotedTweetText": "For 25 years, Salesforce, SAP and enterprise software were built around one assumption: humans operate the software.\n\nWe’re changing that.\n\nIntroducing ERP•AI and Proto: business software built for agents, and an agent that operates business software.\n\nDescribe the system you need. ERP•AI builds it.\n\nThen Proto takes over. It manages records, runs workflows and executes actions inside the software you just created.\n\nThis is Headless SaaS.\n\n1: get ERP•AI\n2: build your SaaS\n3: post below\n\nBest one wins a MacBook. First 100 decent entries get $100.\n\n(a message from Steve Papa / founding team)"
+    },
+    {
+      "tweetId": "2110789406399537656",
+      "role": "commentary",
+      "authorHandle": "intuitmachine",
+      "url": "https://x.com/IntuitMachine/status/2110789406399537656",
+      "tweetedAt": "2026-10-15T17:46:25.000Z",
+      "bestBit": "Always ask \"How does how we do X change because of AI?\" Here we have an example of how ERP evolves.",
+      "text": "Always ask \"How does how we do X change because of AI?\"   Here we have an example of how ERP evolves. https://t.co/bVbxIO1GQe",
+      "quotedTweetText": "For 25 years, Salesforce, SAP and enterprise software were built around one assumption: humans operate the software.\n\nWe’re changing that.\n\nIntroducing ERP•AI and Proto: business software built for agents, and an agent that operates business software.\n\nDescribe the system you need. ERP•AI builds it.\n\nThen Proto takes over. It manages records, runs workflows and executes actions inside the software you just created.\n\nThis is Headless SaaS.\n\n1: get ERP•AI\n2: build your SaaS\n3: post below\n\nBest one wins a MacBook. First 100 decent entries get $100.\n\n(a message from Steve Papa / founding team)"
+    }
+  ],
+  "isSuperseded": false
+}

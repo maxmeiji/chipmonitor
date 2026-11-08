@@ -1,0 +1,106 @@
+{
+  "slug": "xai-to-implement-invisible-text-watermarking-for-grok-api-to-comply-with-e0c94074",
+  "title": "xAI to Implement Invisible Text Watermarking for Grok API to Comply With EU Law",
+  "publishedAt": "2026-11-01T22:23:47.457Z",
+  "eventTimeApprox": "2026-11-01T03:39:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2116654648082022668/HV_eL1BaEAAoPid-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2116654648082022668/HV_eL1BaEAAoPid-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2116654648082022668"
+    }
+  },
+  "summary": "The developer of the Grok AI assistant will introduce a system for identifying machine-generated text within its API responses starting Nov. 7. These invisible identifiers will be enabled by default for all regional and global endpoints to ensure the company meets the transparency requirements of the EU AI Act, though team administrators can opt out of the feature for individual models through the management console.\n\nWhile other leading laboratories including Google and Meta have already adopted similar marking standards to track synthetic media, xAI had remained a notable outlier in the industry. The new implementation closes most of that gap, leaving the North American version of ChatGPT as one of the few remaining major AI models that does not default to text watermarking. It is not yet clear if these identifiers will be applied to Grok's direct chat interface.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116581472509591741",
+      "role": "source",
+      "authorHandle": "techdevnotes",
+      "url": "https://x.com/techdevnotes/status/2116581472509591741",
+      "tweetedAt": "2026-10-31T17:22:01.000Z",
+      "bestBit": "Text responses from supported Grok models include an invisible watermark.",
+      "text": "SpaceXSI has enabled Output Watermarking in API\n\nText responses from supported Grok models include an invisible watermark. Team admins can opt out in the SpaceXSI Console https://t.co/4Ypw2oJl7Q"
+    },
+    {
+      "tweetId": "2116818966567899211",
+      "role": "support",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2116818966567899211",
+      "tweetedAt": "2026-11-01T09:05:44.000Z",
+      "bestBit": "watermarking is enabled globally, not just in the EU! It applies to all SpaceXSI API endpoints, including the global endpoint and all regional endpoints.",
+      "text": "Many of my readers had questions about the upcoming text watermarking for Grok. Here's the official explanation from @spacexai's documentation!\n\nSupported Grok models will include an invisible watermark in their text output, allowing SpaceXSI to identify AI-generated text later. According to SpaceXSI, this is being implemented to comply with the EU AI Act.\n\nImportantly, watermarking is enabled globally, not just in the EU! It applies to all SpaceXSI API endpoints, including the global endpoint and all regional endpoints.\n\nThe good news: Watermarking can be disabled! Team admins can opt out for individual models through the SpaceXSI Console."
+    },
+    {
+      "tweetId": "2116596233171321128",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2116596233171321128",
+      "tweetedAt": "2026-10-31T18:20:41.000Z",
+      "bestBit": "It will be enabled by default starting November 7.",
+      "text": "Text watermarking is coming to Grok! 🚨\n\nIt will be enabled by default starting November 7. You might be able to opt out in certain countries, though it's still unclear how widely this option will be available.\n\nSad to see @spacexai joining the bandwagon, but I guess they didn't have much of a choice.\n\nWhat's your opinion on this? https://t.co/KoV7WyGYGG"
+    },
+    {
+      "tweetId": "2116654648082022668",
+      "role": "analysis",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2116654648082022668",
+      "tweetedAt": "2026-10-31T22:12:48.000Z",
+      "bestBit": "the only model left that (as far as I know) does not watermark text is ChatGPT, and only ChatGPT in North America.",
+      "text": "xAI announced today it is adding text watermarking to Grok. This appears to be rolling out globally. xAI was the last holdout, so the only model left that (as far as I know) does not watermark text is ChatGPT, and only ChatGPT in North America. https://t.co/pZqTxiQ4TV",
+      "quotedTweetText": "On OpenAI’s support page, updated nine days ago, regarding text watermarking. Anthropic, OpenAI, Google, Meta, Microsoft, and Mistral all signed the EU Code of Practice on Transparency of AI-Generated Content, so all must invisibly watermark text. xAI did not sign. https://t.co/C3szCQRVR2"
+    },
+    {
+      "tweetId": "2116874936329322942",
+      "role": "commentary",
+      "authorHandle": "xlr8harder",
+      "url": "https://x.com/xlr8harder/status/2116874936329322942",
+      "tweetedAt": "2026-11-01T12:48:09.000Z",
+      "bestBit": "Unclear from this note about watermarking for chat users.",
+      "text": "SpaxeXSI (xAI) is adding watermarking to API model output, though with an apparent opt out.\n\nUnclear from this note about watermarking for chat users. https://t.co/RplrQbUZTN"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "xai-to-enable-invisible-text-watermarking-for-grok-starting-nov-7-d080aeaf",
+    "title": "xAI to Enable Invisible Text Watermarking for Grok Starting Nov. 7",
+    "publishedAt": "2026-10-31T22:22:24.897Z",
+    "eventTimeApprox": "2026-10-31T18:20:41.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 5,
+    "authorCount": 4
+  }
+}

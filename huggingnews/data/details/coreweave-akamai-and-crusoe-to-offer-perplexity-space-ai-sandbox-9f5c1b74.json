@@ -1,0 +1,148 @@
+{
+  "slug": "coreweave-akamai-and-crusoe-to-offer-perplexity-space-ai-sandbox-9f5c1b74",
+  "title": "Coreweave Akamai and Crusoe to Offer Perplexity SPACE AI Sandbox",
+  "publishedAt": "2026-10-15T20:25:42.978Z",
+  "eventTimeApprox": "2026-10-15T17:26:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 27,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "cybersecurity",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:PPLX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Perplexity AI",
+      "hubKey": "perplexity-ai"
+    },
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "related",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    },
+    {
+      "ticker": "AKAM",
+      "kind": "equity",
+      "role": "related",
+      "name": "Akamai Technologies Inc",
+      "hubKey": "akam"
+    },
+    {
+      "ticker": "PVT:CRUS",
+      "kind": "private",
+      "role": "related",
+      "name": "Crusoe",
+      "hubKey": "crusoe"
+    }
+  ],
+  "summary": "A new series of partnerships will allow AI developers to access secure execution environments for autonomous agents through cloud infrastructure providers. Coreweave, Akamai, and Crusoe have agreed to offer Perplexity's open source SPACE sandbox to their customers to raise the security bar for agentic products. Perplexity CEO Aravind Srinivas stated that neoclouds must own a full inference platform rather than simply leasing GPUs to support the production grade traffic needed to scale agents for businesses.\n\nSPACE is the first component of Perplexity's Agentic Runtime Platform and is available under an Apache 2.0 license. The software uses Firecracker microVMs to run agent tasks, controlling credentials and outbound traffic from outside the virtual machine to prevent host breaches. In security testing, 9 model configurations with root access made 108 escape attempts, none of which succeeded. The platform currently powers Perplexity Computer and the company's internal reinforcement learning training and evaluation workloads.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110778478312481167",
+      "role": "source",
+      "authorHandle": "perplexity_ai",
+      "url": "https://x.com/perplexity_ai/status/2110778478312481167",
+      "tweetedAt": "2026-10-15T17:03:00.000Z",
+      "bestBit": "gives each agent task its own Firecracker microVM and controls credentials and outbound traffic from outside the VM",
+      "text": "We're open sourcing SPACE, the sandbox platform that runs every task in Perplexity Computer.\n\nSPACE gives each agent task its own Firecracker microVM and controls credentials and outbound traffic from outside the VM.\n\nAvailable now under Apache 2.0: https://t.co/DzSmq6o1xA"
+    },
+    {
+      "tweetId": "2110774425473982773",
+      "role": "support",
+      "authorHandle": "perplexity_ai",
+      "url": "https://x.com/perplexity_ai/status/2110774425473982773",
+      "tweetedAt": "2026-10-15T16:46:53.000Z",
+      "bestBit": "nine model configurations with root inside the VM made 108 escape attempts, and none reached the host",
+      "text": "We tested SPACE by attacking it with frontier models.\n\nIn Escaping SPACE: Part I, nine model configurations with root inside the VM made 108 escape attempts, and none reached the host.\n\nRead the research:\nhttps://t.co/UD6qHuCuO4"
+    },
+    {
+      "tweetId": "2110782821879144922",
+      "role": "source",
+      "authorHandle": "reedalbergotti",
+      "url": "https://x.com/ReedAlbergotti/status/2110782821879144922",
+      "tweetedAt": "2026-10-15T17:20:15.000Z",
+      "bestBit": "has partners like Akamai, Coreweave and Crusoe in the big push for AI security",
+      "text": "New from me: Perplexity is open sourcing its sandbox, called SPACE, and has partners like Akamai, Coreweave and Crusoe in the big push for AI security"
+    },
+    {
+      "tweetId": "2110816382099325030",
+      "role": "analysis",
+      "authorHandle": "aravsrinivas",
+      "url": "https://x.com/AravSrinivas/status/2110816382099325030",
+      "tweetedAt": "2026-10-15T19:33:37.000Z",
+      "bestBit": "Neoclouds can't just lease GPUs. They need to own the full agent inference platform",
+      "text": "Neoclouds can't just lease GPUs. They need to own the full agent inference platform: open-weight models (SGLang), fine-tuned models (Miles, River), and secure sandboxes (SPACE). We look forward to working with Coreweave, Akamai, Crusoe, and more partners.",
+      "quotedTweetText": "New from me: Perplexity is open sourcing its sandbox, called SPACE, and has partners like Akamai, Coreweave and Crusoe in the big push for AI security"
+    },
+    {
+      "tweetId": "2110785848958759165",
+      "role": "analysis",
+      "authorHandle": "aravsrinivas",
+      "url": "https://x.com/AravSrinivas/status/2110785848958759165",
+      "tweetedAt": "2026-10-15T17:32:17.000Z",
+      "bestBit": "serving millions of them under production-grade traffic requires a lot of detail to scale agents for businesses and consumers",
+      "text": "While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for businesses and consumers. We're open-sourcing the sandbox platform SPACE that powers all of Perplexity Computer to support the ecosystem. https://t.co/0lIp85buNJ"
+    },
+    {
+      "tweetId": "2110791712813592860",
+      "role": "support",
+      "authorHandle": "denisyarats",
+      "url": "https://x.com/denisyarats/status/2110791712813592860",
+      "tweetedAt": "2026-10-15T17:55:35.000Z",
+      "bestBit": "it powers Computer as well as our RL training and evaluation workloads",
+      "text": "we open-sourced SPACE, the sandbox platform we use internally for secure agentic runtimes. it powers Computer as well as our RL training and evaluation workloads.\n\nhttps://t.co/W2XKKCnzgX"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "perplexity-open-sources-space-first-component-of-agentic-runtime-platfor-12cd5662",
+    "title": "Perplexity Open Sources SPACE First Component of Agentic Runtime Platform",
+    "publishedAt": "2026-10-15T18:10:27.347Z",
+    "eventTimeApprox": "2026-10-15T17:03:09.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "cybersecurity",
+      "tech"
+    ],
+    "tweetCount": 11,
+    "authorCount": 6
+  }
+}

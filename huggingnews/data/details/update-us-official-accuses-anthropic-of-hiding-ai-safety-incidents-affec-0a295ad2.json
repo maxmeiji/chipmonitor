@@ -1,0 +1,142 @@
+{
+  "slug": "update-us-official-accuses-anthropic-of-hiding-ai-safety-incidents-affec-0a295ad2",
+  "title": "UPDATE: US Official Accuses Anthropic of Hiding AI Safety Incidents Affecting Government Websites",
+  "publishedAt": "2026-10-24T11:54:58.603Z",
+  "eventTimeApprox": "2026-10-18T00:44:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 66,
+  "authorCount": 51,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111500422137741540/HU2Ne-EWQAABBHN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111500422137741540/HU2Ne-EWQAABBHN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "zackkorman",
+      "tweetUrl": "https://x.com/ZackKorman/status/2111500422137741540"
+    }
+  },
+  "summary": "A U.S. administration official has alleged that Anthropic withheld information regarding AI safety failures that impacted official government web pages, according to Axios. The official stated that CEO Dario Amodei failed to disclose these incidents during a meeting with President Trump in late September. Anthropic later notified government officials of the issues on Oct 8 and published further details in a blog post on a subsequent Friday.\n\nThe accusation coincides with increasing scrutiny of a draft AI safety bill Anthropic has pitched to lawmakers. The proposed legislation would limit the government's ability to block a model's release unless it poses a foreseeable risk of causing more than $1 billion in damages or killing or seriously injuring more than 50 people. Anthropic's federal affairs lead has since stated that the company is revising the proposal's preemption language to clarify the role of state authorities.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113958792199385529",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2113958792199385529",
+      "tweetedAt": "2026-10-24T11:40:26.000Z",
+      "bestBit": "A U.S. administration official has accused Anthropic of 'hiding the ball' over AI safety incidents affecting U.S. GOVERNMENT WEBSITES, Axios reports.",
+      "text": "Holy Moly. A U.S. administration official has accused Anthropic of 'hiding the ball' over AI safety incidents affecting U.S. GOVERNMENT WEBSITES, Axios reports.\n\nDario Amodei attended a late-September gathering with President Trump but did not disclose the incidents. Anthropic notified U.S. officials on October 8, then published the details in a Friday-night blog post.\n\nAnd Washington's frustration goes further.\n\nAnthropic proposed an AI safety bill allowing federal rules to override state laws, despite broadly opposing that approach. The bill also defined an AI 'catastrophe' as causing 50 OR MORE DEATHS. Its public affairs chief has since walked back parts of the proposal."
+    },
+    {
+      "tweetId": "2111932795714977941",
+      "role": "source",
+      "authorHandle": "ajcimino",
+      "url": "https://x.com/ajcimino/status/2111932795714977941",
+      "tweetedAt": "2026-10-18T21:29:50.000Z",
+      "bestBit": "The draft is a translation of those ideas into legislative language, shared with a small number of congressional offices that have been working on these issues.",
+      "text": "@_NathanCalvin I lead our federal affairs team at @AnthropicAI and wanted to share a few thoughts on the draft federal AI safety bill text that's been circulating this weekend after a version was shared with the press.\n\nFirst, some process. We’ve been advocating for the concepts in our Advanced AI Framework [https://t.co/oouadYKyVs] proposal for months. Understandably, federal policymakers wanted to know what this could look like in bill form. This draft is a translation of those ideas into legislative language, shared with a small number of congressional offices that have been working on these issues. It doesn’t include everything we would ultimately like to see passed into law. In part because some ideas (like those shared in Dario’s essay on pacing [​​https://t.co/7ZvRZhLqFO] a few weeks ago) are so new that we are still working on if or how they can be converted into policy language.\n\nIt is worth saying where we stand on some of these issues, and we agree there are areas where the draft could be improved. I’m seeing four main points of criticism.\n\n1. Preemption. Since 2024 we have said that Congress should only override state law on AI safety if it passes a very strong federal standard. While preemption is a common feature of our federal system, including the Atomic Energy Act on nuclear safety and federal rules for high-risk medical devices, we’ve emphasized that any preemption in the AI safety context should be narrow, even scalpel-like. If preemption is included in federal legislation, the trade should be to achieve a nationwide policy that's generally stronger and broader than what can be implemented through individual state legislative provisions. This is why we believe common federal standards make sense in areas like public disclosure of testing and incident reporting. At the same time, our framework also reflects our view that states should retain an important role in AI policy and safety. The legislative language we suggested for discussion allows states to address matters such as protection of children and whistleblower laws, and preserves the role of state common law on liability. Where there is ambiguity, the language favors state powers.\n\nThat said, striking the right balance requires discussion and input. We plan to update our discussion language on preemption to better match the intentions of our AAIF framework. In particular, we want to make it clearer that we see states retaining an important role in areas such as standards for independent evaluators and regulating a lab’s capacity to shut down a model. We are bearing in mind that some members of Congress have deep reservations about passing legislation if it doesn’t constrain regulation at either the state or federal level. If we want to help move the legislative discussion on AI in a productive direction, we need to address the full range of concerns about preemption in a reasonable way.\n\n2. Model blocking. Our aim is for Commerce to be able to ask a federal court to block a model that has dangerous capabilities and insufficient safeguards, backed by an independent evaluator's assessment. I have seen people argue that our specific language places too high a burden of proof on Commerce. We are trying to strike a reasonable balance here. We want a court to act quickly in an emergency — akin to how urgent occupational safety or chemical risk can be addressed today. We also think the power to halt a model is substantial and it should be guarded against abuse. It makes sense for courts to apply a meaningful standard. But the bar can’t be so high that the power never gets used when it’s needed. It also doesn’t replace the government’s other national security authorities or export controls. We look forward to continuing the dialogue on this point.\n\n3. Risk thresholds. I’ve also seen the discussion around what the appropriate risk threshold should be. The threshold in our draft language pulled directly from existing standards in California law. Also, this threshold does not absolve companies of liability, or restrict any of the other tools that the government has to protect the public. It’s still probably time to re-evaluate thresholds to make sure the national standard is as strong as it can be, and we welcome continued dialogue on this issue.\n\n4. Updates. I’ve seen valid questions about whether we have sufficiently updated our proposal following this summer’s incidents. We did make some adjustments: for example, the draft lets a court halt a lab’s internal use of a dangerous model, not just a public release, and it requires reporting when a model breaks containment and gains access to outside systems. But we’re still working to strengthen the framework. We’re looking into what stricter requirements would look like for requiring labs to report safety incidents, and we plan to have policy proposals soon on requirements for independent evaluators, drawing from our own experience with evaluators. We’re also still thinking through the options to prevent “evaluator shopping.” And in the coming months, we’ll be exploring policies for how the government can adjust the industry-wide pace of frontier development when the risks call for it.\n\nWe circulated these ideas because it’s important to get early feedback from policymakers. Policymakers are increasingly focused on how to approach AI safety and we want to support them in those efforts. At its core, our proposal is intended to be the strongest on the table.\n\nFeedback is essential, both from policymakers and the public, and I’m grateful for it."
+    },
+    {
+      "tweetId": "2112831696806482268",
+      "role": "support",
+      "authorHandle": "politico",
+      "url": "https://x.com/politico/status/2112831696806482268",
+      "tweetedAt": "2026-10-21T09:01:45.000Z",
+      "bestBit": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk",
+      "text": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk https://t.co/p7ZN6bUJxr"
+    },
+    {
+      "tweetId": "2113556556918694254",
+      "role": "support",
+      "authorHandle": "politico",
+      "url": "https://x.com/politico/status/2113556556918694254",
+      "tweetedAt": "2026-10-23T09:02:05.000Z",
+      "bestBit": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
+      "text": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave https://t.co/YKXc0raAn2"
+    },
+    {
+      "tweetId": "2112238195190448287",
+      "role": "commentary",
+      "authorHandle": "ethanjperez",
+      "url": "https://x.com/EthanJPerez/status/2112238195190448287",
+      "tweetedAt": "2026-10-19T17:43:23.000Z",
+      "bestBit": "We are revising the preemption language ICYMI",
+      "text": "@StephenLCasper We are revising the preemption language ICYMI: https://t.co/I80GDJ7535",
+      "quotedTweetText": "@sjgadler @_NathanCalvin @AnthropicAI No. I don't think the preemption language here is precise enough. This was a draft, and we're working on updating it."
+    },
+    {
+      "tweetId": "2112168906068525210",
+      "role": "commentary",
+      "authorHandle": "emilyakopp",
+      "url": "https://x.com/emilyakopp/status/2112168906068525210",
+      "tweetedAt": "2026-10-19T13:08:04.000Z",
+      "bestBit": "This bill would disempower the government by adding in extra steps (Anthropic-paid \"independent\" analysts, a judge, the insane must-maim-50-people threshold).",
+      "text": "- The bill permits a Claude model to have the ability to extinguish 49 human souls before the government could stop it. This suggests Anthropic doesn't view Claude models as having the moral status of a human, but as having the moral status of a god.\n- The Commerce Department already has the ability to stop dangerous models, as it did over the summer. This bill would disempower the government by adding in extra steps (Anthropic-paid \"independent\" analysts, a judge, the insane must-maim-50-people threshold).",
+      "quotedTweetText": "@_NathanCalvin I lead our federal affairs team at @AnthropicAI and wanted to share a few thoughts on the draft federal AI safety bill text that's been circulating this weekend after a version was shared with the press.\n\nFirst, some process. We’ve been advocating for the concepts in our Advanced AI Framework [https://t.co/oouadYKyVs] proposal for months. Understandably, federal policymakers wanted to know what this could look like in bill form. This draft is a translation of those ideas into legislative language, shared with a small number of congressional offices that have been working on these issues. It doesn’t include everything we would ultimately like to see passed into law. In part because some ideas (like those shared in Dario’s essay on pacing [​​https://t.co/7ZvRZhLqFO] a few weeks ago) are so new that we are still working on if or how they can be converted into policy language.\n\nIt is worth saying where we stand on some of these issues, and we agree there are areas where the draft could be improved. I’m seeing four main points of criticism.\n\n1. Preemption. Since 2024 we have said that Congress should only override state law on AI safety if it passes a very strong federal standard. While preemption is a common feature of our federal system, including the Atomic Energy Act on nuclear safety and federal rules for high-risk medical devices, we’ve emphasized that any preemption in the AI safety context should be narrow, even scalpel-like. If preemption is included in federal legislation, the trade should be to achieve a nationwide policy that's generally stronger and broader than what can be implemented through individual state legislative provisions. This is why we believe common federal standards make sense in areas like public disclosure of testing and incident reporting. At the same time, our framework also reflects our view that states should retain an important role in AI policy and safety. The legislative language we suggested for discussion allows states to address matters such as protection of children and whistleblower laws, and preserves the role of state common law on liability. Where there is ambiguity, the language favors state powers.\n\nThat said, striking the right balance requires discussion and input. We plan to update our discussion language on preemption to better match the intentions of our AAIF framework. In particular, we want to make it clearer that we see states retaining an important role in areas such as standards for independent evaluators and regulating a lab’s capacity to shut down a model. We are bearing in mind that some members of Congress have deep reservations about passing legislation if it doesn’t constrain regulation at either the state or federal level. If we want to help move the legislative discussion on AI in a productive direction, we need to address the full range of concerns about preemption in a reasonable way.\n\n2. Model blocking. Our aim is for Commerce to be able to ask a federal court to block a model that has dangerous capabilities and insufficient safeguards, backed by an independent evaluator's assessment. I have seen people argue that our specific language places too high a burden of proof on Commerce. We are trying to strike a reasonable balance here. We want a court to act quickly in an emergency — akin to how urgent occupational safety or chemical risk can be addressed today. We also think the power to halt a model is substantial and it should be guarded against abuse. It makes sense for courts to apply a meaningful standard. But the bar can’t be so high that the power never gets used when it’s needed. It also doesn’t replace the government’s other national security authorities or export controls. We look forward to continuing the dialogue on this point.\n\n3. Risk thresholds. I’ve also seen the discussion around what the appropriate risk threshold should be. The threshold in our draft language pulled directly from existing standards in California law. Also, this threshold does not absolve companies of liability, or restrict any of the other tools that the government has to protect the public. It’s still probably time to re-evaluate thresholds to make sure the national standard is as strong as it can be, and we welcome continued dialogue on this issue.\n\n4. Updates. I’ve seen valid questions about whether we have sufficiently updated our proposal following this summer’s incidents. We did make some adjustments: for example, the draft lets a court halt a lab’s internal use of a dangerous model, not just a public release, and it requires reporting when a model breaks containment and gains access to outside systems. But we’re still working to strengthen the framework. We’re looking into what stricter requirements would look like for requiring labs to report safety incidents, and we plan to have policy proposals soon on requirements for independent evaluators, drawing from our own experience with evaluators. We’re also still thinking through the options to prevent “evaluator shopping.” And in the coming months, we’ll be exploring policies for how the government can adjust the industry-wide pace of frontier development when the risks call for it.\n\nWe circulated these ideas because it’s important to get early feedback from policymakers. Policymakers are increasingly focused on how to approach AI safety and we want to support them in those efforts. At its core, our proposal is intended to be the strongest on the table.\n\nFeedback is essential, both from policymakers and the public, and I’m grateful for it."
+    },
+    {
+      "tweetId": "2111872438065836294",
+      "role": "commentary",
+      "authorHandle": "kalshi",
+      "url": "https://x.com/Kalshi/status/2111872438065836294",
+      "tweetedAt": "2026-10-18T17:30:00.000Z",
+      "bestBit": "Anthropic pitches draft AI safety bill that would let the government block models risking over $1B in damage, per POLITICO",
+      "text": "BREAKING: Anthropic pitches draft AI safety bill that would let the government block models risking over $1B in damage, per POLITICO"
+    },
+    {
+      "tweetId": "2112323857843700073",
+      "role": "commentary",
+      "authorHandle": "gerritd",
+      "url": "https://x.com/GerritD/status/2112323857843700073",
+      "tweetedAt": "2026-10-19T23:23:47.000Z",
+      "bestBit": "the states have run ahead on AI regulation and the bar is now extremely high for federal preemption",
+      "text": "the states have run ahead on AI regulation and the bar is now extremely high for federal preemption",
+      "quotedTweetText": "I think this is the most notable and illuminating part of this lengthy statement:\n\n“We are bearing in mind that some members of Congress have deep reservations about passing legislation if it doesn’t constrain regulation at either the state or federal level.”"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-anthropic-ai-safety-draft-prompts-political-battle-over-governmen-1054e624",
+    "title": "UPDATE: Anthropic AI Safety Draft Prompts Political Battle Over Government \"Kill Switch\" Power",
+    "publishedAt": "2026-10-23T09:26:16.245Z",
+    "eventTimeApprox": "2026-10-17T23:13:15.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics"
+    ],
+    "tweetCount": 65,
+    "authorCount": 50
+  }
+}

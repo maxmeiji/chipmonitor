@@ -1,0 +1,67 @@
+{
+  "slug": "cerebras-denies-short-sellers-claim-that-its-wafers-wear-out-after-2-yea-60997cd1",
+  "title": "Cerebras Denies Short Seller's Claim That Its Wafers Wear Out After 2 Years",
+  "publishedAt": "2026-11-05T14:37:02.808Z",
+  "eventTimeApprox": "2026-11-05T14:06:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CBRS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cerebras",
+      "hubKey": "cerebras"
+    }
+  ],
+  "summary": "The hardware developer issued a formal response to a short seller's allegations concerning the durability of its system components. Cerebras said that a report by Culper Research claiming that its wafers wear out after approximately 2 years is based on an incorrect figure, which the company says invalidates the resulting financial findings.\n\nAndrew Feldman said the short seller's assertion that the company's business economics are fundamentally challenged was based on the false lifespan premise. Cerebras published a post on its blog to provide details on the engineering of its solutions and their intended operating life of several years.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118342671546851619",
+      "role": "source",
+      "authorHandle": "cerebras",
+      "url": "https://x.com/cerebras/status/2118342671546851619",
+      "tweetedAt": "2026-11-05T14:00:24.000Z",
+      "bestBit": "Nearly every financial conclusion in that report depends on that one number.",
+      "text": "Last week, short seller @CulperResearch, published a report arguing that Cerebras wafers wear out after about two years. Nearly every financial conclusion in that report depends on that one number.\n\nThat number is wrong.\n\nHow long our systems last is a fair question, so we want to address the topic plainly. Read our response on our blog. \n\nhttps://t.co/C38u3q3rhP"
+    },
+    {
+      "tweetId": "2118344222558552167",
+      "role": "source",
+      "authorHandle": "andrewdfeldman",
+      "url": "https://x.com/andrewdfeldman/status/2118344222558552167",
+      "tweetedAt": "2026-11-05T14:06:34.000Z",
+      "bestBit": "the report suggested that the economics of our business are fundamentally challenged",
+      "text": "Last week, a short seller, @CulperResearch, published a report arguing that @cerebras wafers wear out after about two years, and based on that premise the report suggested that the economics of our business are fundamentally challenged.  \n\nThat number is wrong, and given that the basis of the entire report is built upon that assumption, all of the assertions that follow are also wrong.\n\nWe do agree that the question of how long our systems last is a fair question, so we want to address the topic plainly.   \n\nIf you have a few minutes, I would encourage you to click on the link below, which will provide you with a better understanding of the pioneering work done by our engineering team over the past decade to ensure that the operating lifetime of our solutions is many, many years.\n \nLink Here: https://t.co/mGKI3dSHiw"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "update-spacex-credit-risk-hits-record-on-40b-debt-plan-for-nvidia-chips-b2ba6f63",
+  "title": "UPDATE: SpaceX Credit Risk Hits Record on $40B Debt Plan for Nvidia Chips",
+  "publishedAt": "2026-10-07T13:38:54.537Z",
+  "eventTimeApprox": "2026-10-07T01:39:50.000Z",
+  "isFreshStory": false,
+  "tweetCount": 80,
+  "authorCount": 49,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "APO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Apollo Global Management, Inc.",
+      "hubKey": "apo"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107821883039379683/HUB80BVb0AAxS8E-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107821883039379683/HUB80BVb0AAxS8E-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "edludlow",
+      "tweetUrl": "https://x.com/EdLudlow/status/2107821883039379683"
+    }
+  },
+  "summary": "Five year credit default swaps for SpaceX jumped to about 195 basis points on Tuesday, the highest since they began actively trading in June, after the company began arranging a $40B debt package to buy Nvidia chips. The financing effort, led by Apollo Global Management, is expected to consist of $10B in bank loans and $30B in investment grade debt, with a target close date in 2027. The rocket company's shares fell about 1.5% as investors reacted to the surge in borrowing.\n\nElon Musk is scaling AI compute and data center infrastructure by building exclusively on Nvidia's Vera Rubin architecture to avoid diluting current ownership with new stock. The move supports a burgeoning cloud business that could see Anthropic pay the company as much as $84.5B through 2029. Despite the recent spike in credit risk, Moody's and S&P currently rate the company as investment grade.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107648509859987660",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2107648509859987660",
+      "tweetedAt": "2026-10-07T01:45:37.000Z",
+      "bestBit": "seeking to raise $40bn in a financing effort led by Apollo Global Management to purchase Nvidia chips",
+      "text": "Elon Musk’s SpaceX is seeking to raise $40bn in a financing effort led by Apollo Global Management to purchase Nvidia chips as the AI and rocket group amplifies its bet on the chipmaker’s advanced technology. https://t.co/RfsSe6MtBT https://t.co/GTsEnUsy0e"
+    },
+    {
+      "tweetId": "2107633225648779719",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2107633225648779719",
+      "tweetedAt": "2026-10-07T00:44:53.000Z",
+      "bestBit": "includes roughly $10B in bank loans and $30B in investment-grade debt, with the transaction expected to close in 2027",
+      "text": "$SPCX SEEKS $40B TO FUND MASSIVE $NVDA CHIP PURCHASE: FT\n\nSpaceX is looking to raise about $40B in financing led by Apollo to fund purchases of Nvidia chips.\n\nThe plan includes roughly $10B in bank loans and $30B in investment-grade debt, with the transaction expected to close in 2027.\n\nElon Musk said in August that SpaceX had “decided to build exclusively on Nvidia,” specifically pointing to its Vera Rubin architecture, as the company ramps spending on AI and data-center infrastructure."
+    },
+    {
+      "tweetId": "2107821883039379683",
+      "role": "signal",
+      "authorHandle": "edludlow",
+      "url": "https://x.com/EdLudlow/status/2107821883039379683",
+      "tweetedAt": "2026-10-07T13:14:33.000Z",
+      "bestBit": "price of 5-year credit default swaps jumped to ~195 basis points — the highest since they began actively trading in June",
+      "text": "Key chart: SpaceX credit risk just hit a record high.\n\nThe price of 5-year credit default swaps jumped to ~195 basis points — the highest since they began actively trading in June — following reports SpaceX is seeking to raise $40 billion in debt to buy Nvidia chips.\n\n@CalMutua https://t.co/4PIO1dRq4n"
+    },
+    {
+      "tweetId": "2107620980013383815",
+      "role": "commentary",
+      "authorHandle": "sindap",
+      "url": "https://x.com/sindap/status/2107620980013383815",
+      "tweetedAt": "2026-10-06T23:56:13.000Z",
+      "bestBit": "Moody’s and S&P rated this company as investment grade and its debt is going to be all over retirement and annuity accounts",
+      "text": "Moody’s and S&amp;P rated this company as investment grade and its debt is going to be all over retirement and annuity accounts: https://t.co/gDKQ1Xosd6",
+      "quotedTweetText": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo https://t.co/SXzFV83Sfg"
+    },
+    {
+      "tweetId": "2107674781889765747",
+      "role": "commentary",
+      "authorHandle": "kalshi",
+      "url": "https://x.com/Kalshi/status/2107674781889765747",
+      "tweetedAt": "2026-10-07T03:30:01.000Z",
+      "bestBit": "SpaceX in talks to raise $40B in debt to buy Nvidia chips, per FT",
+      "text": "JUST IN: SpaceX in talks to raise $40B in debt to buy Nvidia chips, per FT"
+    },
+    {
+      "tweetId": "2107787216634441781",
+      "role": "commentary",
+      "authorHandle": "kakashiii111",
+      "url": "https://x.com/kakashiii111/status/2107787216634441781",
+      "tweetedAt": "2026-10-07T10:56:47.000Z",
+      "bestBit": "two-page deal memo with pictures of outer space and an arrow pointing out that the company was going to build data centres \"somewhere in the universe\"",
+      "text": "\"two-page deal memo with pictures of outer space and an arrow pointing out that the company was going to build data centres \"somewhere in the universe\". https://t.co/jbnvwiTErP",
+      "quotedTweetText": "SpaceX raised $100B as of the end of June 2026, and yet they look to borrow $40 billion, just less than 4 months after having such an amount, to buy more Nvidia chips?\n\nNothing surprising.\n\nElon is not rational when it comes to spending money and buying chips. Buy chips first, build datacenters around them later, and figure out what to do with them after that."
+    },
+    {
+      "tweetId": "2107642406099386669",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2107642406099386669",
+      "tweetedAt": "2026-10-07T01:21:22.000Z",
+      "bestBit": "SpaceX now runs a cloud business in which Anthropic could pay it up to $84.5B through 2029",
+      "text": "Bloomberg: SpaceX is in early talks to borrow $40B for Nvidia chips, with Apollo Global Management leading.\n\nThe package would pair about $10B in bank loans with $30B of investment-grade debt and should close in 2027, according to the Financial Times.\n\nMusk has earlier said SpaceX will build exclusively on Nvidia hardware.  Many of those chips get rented out, because SpaceX now runs a cloud business in which Anthropic could pay it up to $84.5B through 2029."
+    },
+    {
+      "tweetId": "2107601953438191947",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107601953438191947",
+      "tweetedAt": "2026-10-06T22:40:37.000Z",
+      "bestBit": "raise $40B of debt to buy $NVDA chips as it scales AI compute without issuing more stock",
+      "text": "$SPCX is looking to raise $40B of debt to buy $NVDA chips as it scales AI compute without issuing more stock.\n\nIf that capacity rents anywhere near ~$50 per watt then SpaceX can use debt to fund another cash generating layer across launch, power, connectivity &amp; compute. https://t.co/ibSLZONFFP"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "spacex-pursues-40b-debt-sale-to-buy-nvidia-ai-chips-e578eeeb",
+    "title": "SpaceX Pursues $40B Debt Sale to Buy Nvidia AI Chips",
+    "publishedAt": "2026-10-06T22:53:30.040Z",
+    "eventTimeApprox": "2026-10-06T22:35:58.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "business"
+    ],
+    "tweetCount": 43,
+    "authorCount": 33
+  }
+}

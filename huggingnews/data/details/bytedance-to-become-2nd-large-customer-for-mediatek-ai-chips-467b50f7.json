@@ -1,0 +1,51 @@
+{
+  "slug": "bytedance-to-become-2nd-large-customer-for-mediatek-ai-chips-467b50f7",
+  "title": "ByteDance to Become 2nd Large Customer for MediaTek AI Chips",
+  "publishedAt": "2026-10-15T05:38:45.742Z",
+  "eventTimeApprox": "2026-10-15T03:45:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:BYTE",
+      "kind": "private",
+      "role": "subject",
+      "name": "ByteDance",
+      "hubKey": "bytedance"
+    }
+  ],
+  "summary": "The Taiwanese semiconductor firm MediaTek is in advanced negotiations to supply data center artificial intelligence hardware to ByteDance to challenge Qualcomm’s market share. TikTok's parent company is close to an agreement to purchase application-specific integrated circuits (ASICs), which would make it the second large-scale customer for the hardware after Google, according to sources.\n\nThe planned acquisition is intended to secure vital semiconductor components for ByteDance's global data center operations. By adding the owner of TikTok to its client base, MediaTek can expand its capacity to compete with other chipmakers in the high-performance computing market and grow its footprint beyond its existing relationship with Google.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110604105135665662",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2110604105135665662",
+      "tweetedAt": "2026-10-15T05:30:06.000Z",
+      "bestBit": "a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm",
+      "text": "ByteDance is close to an agreement to buy MediaTek data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm https://t.co/sCGatLDgHJ"
+    }
+  ],
+  "isSuperseded": false
+}

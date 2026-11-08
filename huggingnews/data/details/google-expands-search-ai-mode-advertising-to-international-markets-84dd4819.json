@@ -1,0 +1,50 @@
+{
+  "slug": "google-expands-search-ai-mode-advertising-to-international-markets-84dd4819",
+  "title": "Google Expands Search AI Mode Advertising to International Markets",
+  "publishedAt": "2026-10-28T21:08:39.180Z",
+  "eventTimeApprox": "2026-10-28T20:44:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Google is adding sponsored listings to the AI-powered interface of its search engine for users in global markets to monetize conversational queries on a larger scale. This rollout marks the first time the company has expanded its AI Mode advertising beyond the U.S., where it is also introducing multi-turn ads that appear during an ongoing dialogue between the user and the AI.\n\nThe company stated that the move targets a segment of users whose AI queries are incremental rather than replacements for traditional search behavior. According to internal data, the click-through rates for sponsored product listings in AI Mode are currently comparable to those of organic listings.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115549109633609736",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115549109633609736",
+      "tweetedAt": "2026-10-28T20:59:47.000Z",
+      "bestBit": "Google says most AI Mode queries are incremental, opening new monetization opportunities.",
+      "text": "$GOOGL is expanding AI Mode ads internationally for the first time, with multi-turn ads coming to the U.S.\n\nGoogle says most AI Mode queries are incremental, opening new monetization opportunities.\n\nSponsored and organic product listings already have similar CTRs in AI Mode. https://t.co/Np6okHgcbL"
+    }
+  ],
+  "isSuperseded": false
+}

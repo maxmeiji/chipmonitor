@@ -1,0 +1,141 @@
+{
+  "slug": "midterm-election-pushback-wont-slow-openais-data-center-expansion-01b03d75",
+  "title": "Midterm Election Pushback Won't Slow OpenAI's Data Center Expansion",
+  "publishedAt": "2026-11-06T17:24:27.343Z",
+  "eventTimeApprox": "2026-11-05T17:11:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 56,
+  "authorCount": 44,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "The AI startup is currently seeking capital in a fundraising round that would set its pre-money valuation at $1.25T, even as it faces growing community opposition to its physical infrastructure. Sarah Friar, CFO of OpenAI, told CNBC that the company's continued spending on data centers is not dependent on the recent midterm election outcomes, as the organization remains constrained by a lack of computing power despite its enterprise business doubling in the third quarter.\n\nTo mitigate local backlash, the company has rebranded its facilities as \"Compute Campuses\" and introduced a National Community Compact. The new policy mandates that the company cover the full cost of electricity and grid upgrades for its company-owned sites, provide site-level reporting on water and noise, and end the use of most nondisclosure agreements with public officials. The shift follows a series of local ballot measures in 10 states where voters favored restrictions on data center development in 40 of 41 cases.\n\nCEO Sam Altman told employees that he recognizes the public's reluctance to live near such sites and suggested that the company could locate future installations in deserts. In response to OpenAI's pledges, Meta noted that it had already committed to covering its own energy and water costs several years ago.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118754732441313436",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2118754732441313436",
+      "tweetedAt": "2026-11-06T17:17:47.000Z",
+      "bestBit": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "text": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC https://t.co/qoS0mvAKtr"
+    },
+    {
+      "tweetId": "2118743594303389806",
+      "role": "source",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2118743594303389806",
+      "tweetedAt": "2026-11-06T16:33:31.000Z",
+      "bestBit": "OPENAI CURRENT FUNDRAISING ROUND AT A $1.25T PRE MONEY VALUATION",
+      "text": "*OPENAI WILL KEEP INVESTING IN AI DATA CENTERS DESPITE ELECTION RESULTS, CFO\n\n*OPENAI CURRENT FUNDRAISING ROUND AT A $1.25T PRE MONEY VALUATION \n\n*SPENDING IS NOT CONTINGENT ON POLITICAL OUT OMES\n\n*WE’RE COMPUTE CONSTRAINED STILL \n\n*ENTERPRISE BUSINESS DOUBLED IN Q 3 https://t.co/IPKB8WX5cI",
+      "quotedTweetText": "*TEXAS GOVERNOR-ELECT GINA HINOJOSA: WE NEED TO STOP WHAT WE ARE DOING WITH DATA CENTERS UNTIL WE HAVE MEASURES TO PROTECT TEXANS\n\n*HINOJOSA: ITS NOT THT I HATE DATA CENTRES, I HATE THE WAY THEY ARE TAKING ADVANTAGE OF TECAS AND THAT STOPS WHEN IM GOVERNOR https://t.co/6vqOhcCuip"
+    },
+    {
+      "tweetId": "2118285658947203530",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118285658947203530",
+      "tweetedAt": "2026-11-05T10:13:51.000Z",
+      "bestBit": "OpenAI is pledging to cover the full power costs of its future company-owned and operated data centers, publish construction plans, and avoid NDAs with public officials.",
+      "text": "OpenAI is pledging to cover the full power costs of its future company-owned and operated data centers, publish construction plans, and avoid NDAs with public officials.\n\nThe company will also seek input from local communities and is urging lawmakers to make similar commitments mandatory.\n\nThis comes just two days after voters rejected or backed restrictions on data center development in 40 of 41 local ballot measures across 10 states.\n\nSource: CNBC"
+    },
+    {
+      "tweetId": "2118350047058198612",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2118350047058198612",
+      "tweetedAt": "2026-11-05T14:29:42.000Z",
+      "bestBit": "No it won’t",
+      "text": "No it won’t",
+      "quotedTweetText": "OpenAI is pledging to cover the full power costs of its future company-owned and operated data centers, publish construction plans, and avoid NDAs with public officials.\n\nThe company will also seek input from local communities and is urging lawmakers to make similar commitments mandatory.\n\nThis comes just two days after voters rejected or backed restrictions on data center development in 40 of 41 local ballot measures across 10 states.\n\nSource: CNBC"
+    },
+    {
+      "tweetId": "2118368305719443887",
+      "role": "commentary",
+      "authorHandle": "hosseeb",
+      "url": "https://x.com/hosseeb/status/2118368305719443887",
+      "tweetedAt": "2026-11-05T15:42:16.000Z",
+      "bestBit": "OpenAI data centers rebranded to => compute campuses?",
+      "text": "LOL OpenAI data centers rebranded to =&gt; compute campuses?\n\nIt's kind of beautiful how quickly they pivoted to appeal to the left",
+      "quotedTweetText": "OpenAI kicked off its big charm offensive this morning after data center moratoriums went 43-1 during the midterms, and many candidates rode a wave of public opposition to the industry to huge victories.\n\nData centers have been rebranded as Compute Campuses. OpenAI has also released a National Community Compact and a Compute Campus Policy Blueprint.\n\nOpenAI’s National Community Compact: Building With Communities, Not Just In Them:\nhttps://t.co/ou7DVNl0p7\n\nAI Infrastructure That Works for America: Our Compute Campus Policy Blueprint:\nhttps://t.co/sQASaoifkL\n\nThe most significant change is probably no more NDAs, from page 7:"
+    },
+    {
+      "tweetId": "2118293987291431279",
+      "role": "commentary",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2118293987291431279",
+      "tweetedAt": "2026-11-05T10:46:57.000Z",
+      "bestBit": "OpenAI pledges to change how it handles data center deals, including avoiding nondisclosure agreements and cutting power usage, after Democrats' midterm wins",
+      "text": "OpenAI pledges to change how it handles data center deals, including avoiding nondisclosure agreements and cutting power usage, after Democrats' midterm wins (@dinabass / Bloomberg)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2118531841515032647",
+      "role": "commentary",
+      "authorHandle": "meghanbobrowsky",
+      "url": "https://x.com/MeghanBobrowsky/status/2118531841515032647",
+      "tweetedAt": "2026-11-06T02:32:06.000Z",
+      "bestBit": "Sam Altman said he understood why people might not want to live near data centers and at one point mused that OpenAI should put data centers in the *desert*",
+      "text": "SCOOP: During a Q&amp;A with employees Wednesday, Sam Altman said he understood why people might not want to live near data centers and at one point mused that OpenAI should put data centers in the *desert*, according to people familiar with the matter. https://t.co/jzmuhYLr68"
+    },
+    {
+      "tweetId": "2118343290890395877",
+      "role": "commentary",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118343290890395877",
+      "tweetedAt": "2026-11-05T14:02:52.000Z",
+      "bestBit": "Meta made a similar commitment years ago",
+      "text": "$META spokesperson Andy Stone welcomed OpenAI's pledge to cover its data center power costs, noting that Meta made a similar commitment years ago. https://t.co/PK9EtlvKL8",
+      "quotedTweetText": "This is a good thing. We're glad OpenAI is joining Meta in a long-ago commitment Meta made to pay our own energy and water costs so they're not passed onto consumers, fund new and upgraded grid infrastructure, and support local communities."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-launches-compute-campus-strategy-to-combat-local-resistance-to-ai-f5e1fa0c",
+    "title": "OpenAI Launches 'Compute Campus' Strategy to Combat Local Resistance to AI Data Centers",
+    "publishedAt": "2026-11-05T14:54:23.436Z",
+    "eventTimeApprox": "2026-11-05T11:32:03.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics",
+      "business"
+    ],
+    "tweetCount": 37,
+    "authorCount": 33
+  }
+}

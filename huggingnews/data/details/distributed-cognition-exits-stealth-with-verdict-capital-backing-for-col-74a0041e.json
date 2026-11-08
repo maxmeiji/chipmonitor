@@ -1,0 +1,57 @@
+{
+  "slug": "distributed-cognition-exits-stealth-with-verdict-capital-backing-for-col-74a0041e",
+  "title": "Distributed Cognition Exits Stealth With Verdict Capital Backing for Collective AI",
+  "publishedAt": "2026-10-22T17:55:07.088Z",
+  "eventTimeApprox": "2026-10-22T17:01:04.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "summary": "A network of specialized and interdependent AI models is being developed to prevent a few entities from controlling the future of machine intelligence. Distributed Cognition, which ended its stealth period on Oct. 22, is building communication layers and adapters to allow these specialized models to coordinate their efforts and combine their strengths. The company received financial backing from Verdict Capital to pursue a mission of replicating human collective intelligence.\n\nThe venture argues that the current concentration of AI power enables a small number of actors to restrict how people think and act. While the research direction of collective intelligence is viewed by some as promising, the success of the approach depends on whether coordination costs can be managed as the networks of models expand.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113310654367158716",
+      "role": "source",
+      "authorHandle": "distcog",
+      "url": "https://x.com/distcog/status/2113310654367158716",
+      "tweetedAt": "2026-10-22T16:44:58.000Z",
+      "bestBit": "Most of today's AI power is held in the hands of a few, who can choose what you're allowed to think and what you're permitted to do",
+      "text": "Today distributed cognition exits out of stealth with backing by Verdict Capital.\n\nOur mission is to replicate humanity's collective intelligence.\nRead more: https://t.co/PqqgbLXbkc\n\nMost of today's AI power is held in the hands of a few, who can choose what you're allowed to think and what you're permitted to do.\n\nWe stand on three substantially different foundational beliefs:\n- You shouldn't ask permission for intelligence.\n- Superintelligence will be a distributed collective.\n- Humans are not meant to be relegated to a permanent underclass.\n\nIf we don't distribute intelligence, nobody will."
+    },
+    {
+      "tweetId": "2113315870491439132",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2113315870491439132",
+      "tweetedAt": "2026-10-22T17:05:41.000Z",
+      "bestBit": "I'd be interested to see which tasks benefit from specialization and how much coordination costs as the network grows",
+      "text": "I like the vision of distributed superintelligence. But I do worry it's becoming less distributed. \n\n@distcog is exploring collective intelligence through networks of specialized models that work together.\n\nI like this research direction. I'd be interested to see which tasks benefit from specialization and how much coordination costs as the network grows. Great vision and a nice article with interesting ideas. Recommended read.",
+      "quotedTweetText": "Today distributed cognition exits out of stealth with backing by Verdict Capital.\n\nOur mission is to replicate humanity's collective intelligence.\nRead more: https://t.co/PqqgbLXbkc\n\nMost of today's AI power is held in the hands of a few, who can choose what you're allowed to think and what you're permitted to do.\n\nWe stand on three substantially different foundational beliefs:\n- You shouldn't ask permission for intelligence.\n- Superintelligence will be a distributed collective.\n- Humans are not meant to be relegated to a permanent underclass.\n\nIf we don't distribute intelligence, nobody will."
+    },
+    {
+      "tweetId": "2113321651647684822",
+      "role": "analysis",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2113321651647684822",
+      "tweetedAt": "2026-10-22T17:28:40.000Z",
+      "bestBit": "building communication layers and adapters to help specialized models work together, combining what each does well",
+      "text": "Superintelligence could look a lot like human civilization: different minds building on each other's work.\n\nDistributed Cognition is taking that idea seriously. They're building communication layers and adapters to help specialized models work together, combining what each does well.\n\nI'd love to see AI get better at this. So much of what humans have achieved comes from learning how to think and build together.",
+      "quotedTweetText": "Today distributed cognition exits out of stealth with backing by Verdict Capital.\n\nOur mission is to replicate humanity's collective intelligence.\nRead more: https://t.co/PqqgbLXbkc\n\nMost of today's AI power is held in the hands of a few, who can choose what you're allowed to think and what you're permitted to do.\n\nWe stand on three substantially different foundational beliefs:\n- You shouldn't ask permission for intelligence.\n- Superintelligence will be a distributed collective.\n- Humans are not meant to be relegated to a permanent underclass.\n\nIf we don't distribute intelligence, nobody will."
+    }
+  ],
+  "isSuperseded": false
+}

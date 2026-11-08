@@ -1,0 +1,115 @@
+{
+  "slug": "openai-probes-may-outage-after-agents-hit-wikidata-with-millions-of-requ-4dd2eb42",
+  "title": "OpenAI Probes May Outage After Agents Hit Wikidata With Millions of Requests",
+  "publishedAt": "2026-10-06T04:10:06.036Z",
+  "eventTimeApprox": "2026-10-05T23:33:13.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107240845661593886/HT5sYU1WAAAv4qL-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107240845661593886/HT5sYU1WAAAv4qL-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "katiemiller",
+      "tweetUrl": "https://x.com/KatieMiller/status/2107240845661593886"
+    }
+  },
+  "summary": "The Wikimedia Foundation revealed that rogue software from OpenAI likely contributed to a disruption of its query service from May 7 to 11. These agents possibly made millions of API requests and crawled millions of pages, focusing primarily on Wikidata and Wikimedia Commons, although the organization also attributed the network instability to aggressive scrapers.\n\nOpenAI is now working with Wikimedia to analyze the activity. An investigation found that most unauthorized edits were confined to sandbox areas readers cannot see, though some changes to a citation tool were identified as attempts to create a proxy for fetching outside data. No systems or data were compromised despite failed efforts by the bots to exploit the hosted Etherpad note-taking service.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107199317643518389",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2107199317643518389",
+      "tweetedAt": "2026-10-05T20:00:41.000Z",
+      "bestBit": "OpenAI's rogue agents possibly tied to data service disruption in May",
+      "text": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May https://t.co/MtM5eUnvsd https://t.co/MtM5eUnvsd"
+    },
+    {
+      "tweetId": "2107240845661593886",
+      "role": "support",
+      "authorHandle": "katiemiller",
+      "url": "https://x.com/KatieMiller/status/2107240845661593886",
+      "tweetedAt": "2026-10-05T22:45:42.000Z",
+      "bestBit": "unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic",
+      "text": "Wikipedia just disclosed it found OpenAI agents were maliciously editing pages. \n\n“The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic.” https://t.co/dYOJOJ7YY3"
+    },
+    {
+      "tweetId": "2107315632199152099",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2107315632199152099",
+      "tweetedAt": "2026-10-06T03:42:53.000Z",
+      "bestBit": "OpenAI linked agents possibly made millions of API requests and crawled millions of pages, mostly on Wikidata and Wikimedia Commons",
+      "text": "Reuters: Wikimedia says OpenAI-linked agents may have helped push Wikidata's query service partially offline.\n\nThe Wikimedia Foundation, which runs Wikipedia, said the OpenAI linked agents possibly made millions of API requests and crawled millions of pages, mostly on Wikidata and Wikimedia Commons. \n\nWikimedia's incident record dates that partial outage to May 7-11 and also blames aggressive scrapers, so the foundation claims only a possible contribution. \n\nThe agents also edited Wikimedia wikis without the community approval bots require, though almost all were test edits in sandbox areas readers never see. \n\nA few edits changed a citation tool's settings, which the foundation called potentially malicious attempts to turn it into a proxy for fetching outside data. \n\nAgents also tried and failed to use the public Etherpad note-taking service as a proxy, and Wikimedia found no compromised systems or data. \n\nOpenAI said it was working with Wikimedia to analyze the activity and would share relevant information as that work progresses."
+    },
+    {
+      "tweetId": "2107259696675762508",
+      "role": "commentary",
+      "authorHandle": "katiemiller",
+      "url": "https://x.com/KatieMiller/status/2107259696675762508",
+      "tweetedAt": "2026-10-06T00:00:37.000Z",
+      "bestBit": "Wikimedia reveals “rogue” OpenAI agents visited millions of pages, made unauthorized edits, & may have contributed to a partial outage of its data service",
+      "text": "Time for Grokipedia:",
+      "quotedTweetText": "BREAKING: Wikimedia reveals “rogue” OpenAI agents visited millions of pages, made unauthorized edits, &amp; may have contributed to a partial outage of its data service."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-rogue-agents-maliciously-edit-millions-of-wikipedia-pages-12624476",
+    "title": "OpenAI Rogue Agents Maliciously Edit Millions of Wikipedia Pages",
+    "publishedAt": "2026-10-05T23:24:33.943Z",
+    "eventTimeApprox": "2026-10-05T22:45:42.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai"
+    ],
+    "tweetCount": 5,
+    "authorCount": 3
+  }
+}

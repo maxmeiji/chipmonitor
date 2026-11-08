@@ -1,0 +1,85 @@
+{
+  "slug": "sabi-raises-50m-for-wearable-cap-to-prompt-ai-by-thinking-f77e2452",
+  "title": "Sabi Raises $50M for Wearable Cap to Prompt AI by Thinking",
+  "publishedAt": "2026-10-09T14:54:08.389Z",
+  "eventTimeApprox": "2026-10-09T14:22:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 20,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "wearables",
+      "name": "Wearables"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108563883283693889/HUMfq6VWMAA2ecw-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108563883283693889/HUMfq6VWMAA2ecw-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "intuitmachine",
+      "tweetUrl": "https://x.com/IntuitMachine/status/2108563883283693889"
+    }
+  },
+  "summary": "A brain-computer interface startup called Sabi is developing a non-invasive device to translate neural activity into commands for artificial intelligence agents. The company secured $50M in funding from investors including Khosla Ventures, Accel, Initialized, DST Global and Kevin Weil to build a wearable cap equipped with 100,000 sensors. Each sensor utilizes a 1 millimeter chip to capture brain signals, turning thought-based requests into text or prompts without the need for implants.\n\nSabi is training its own brain foundation model on neural data and worked with TSMC to fabricate a custom EEG chip that reads signals without touching the scalp. The company previously released a beanie prototype as part of its efforts to enable non-verbal communication. This hardware approach aims to allow users to interact with agents without typing or speaking, which the company says will unlock new research and personal agentic applications.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108558367258186220",
+      "role": "source",
+      "authorHandle": "rahulchhabra07",
+      "url": "https://x.com/rahulchhabra07/status/2108558367258186220",
+      "tweetedAt": "2026-10-09T14:01:04.000Z",
+      "bestBit": "raised $50M from Khosla Ventures, Accel, Initialized, Kevin Weil, DST Global",
+      "text": "we've raised $50M from Khosla Ventures, Accel, Initialized, Kevin Weil, DST Global\n\nto build the world's most wearable BCI cap at Sabi\n\nread more here: \nhttps://t.co/5onHFJnEXU"
+    },
+    {
+      "tweetId": "2108561804645323102",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2108561804645323102",
+      "tweetedAt": "2026-10-09T14:14:44.000Z",
+      "bestBit": "build their own chips for a cap that turns your thoughts into prompts",
+      "text": "Brain foundation models after reading my thoughts.\n\nThese guys just raised $50M to build their own chips for a cap that turns your thoughts into prompts. https://t.co/8M0PvE3wPD",
+      "quotedTweetText": "we've raised $50M from Khosla Ventures, Accel, Initialized, Kevin Weil, DST Global\n\nto build the world's most wearable BCI cap at Sabi\n\nread more here: \nhttps://t.co/5onHFJnEXU"
+    },
+    {
+      "tweetId": "2108565223200407611",
+      "role": "commentary",
+      "authorHandle": "highyieldharry",
+      "url": "https://x.com/HighyieldHarry/status/2108565223200407611",
+      "tweetedAt": "2026-10-09T14:28:19.000Z",
+      "bestBit": "getting a beanie that communicates your thoughts before we get AI that remembers the name of the person who just introduced themselves 30 seconds ago",
+      "text": "We’re getting a beanie that communicates your thoughts before we get AI that remembers the name of the person who just introduced themselves 30 seconds ago https://t.co/TpM8o0M1NX",
+      "quotedTweetText": "we've raised $50M from Khosla Ventures, Accel, Initialized, Kevin Weil, DST Global\n\nto build the world's most wearable BCI cap at Sabi\n\nread more here: \nhttps://t.co/5onHFJnEXU"
+    },
+    {
+      "tweetId": "2108565653682536887",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2108565653682536887",
+      "tweetedAt": "2026-10-09T14:30:01.000Z",
+      "bestBit": "outfitted with 100,000 sensors, that will enable people to talk to their AI agents just by thinking",
+      "text": "This is a big deal.\n\nSabi just raised $50M to build a brain-AI interface you wear as a cap, outfitted with 100,000 sensors, that will enable people to talk to their AI agents just by thinking.\n\nI did some BCI research during my PhD, but the tech wasn't that great.\n\nIt's great to see investment in improving the hardware, since current AI can unlock interesting research and personal agentic applications.",
+      "quotedTweetText": "we've raised $50M from Khosla Ventures, Accel, Initialized, Kevin Weil, DST Global\n\nto build the world's most wearable BCI cap at Sabi\n\nread more here: \nhttps://t.co/5onHFJnEXU"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "stuut-raises-525m-to-scale-first-ai-order-to-cash-coworker-2979b54e",
+  "title": "Stuut Raises $52.5M to Scale First AI Order to Cash Coworker",
+  "publishedAt": "2026-10-07T16:23:10.372Z",
+  "eventTimeApprox": "2026-10-07T16:03:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "Stuut currently serves more than 150 enterprise clients with software agents that automate the repetitive work between a customer order and the final payment. The company raised $52.5M in a Series B round led by Insight Partners, bringing its total funding to $93M. Other participants included a16z, Activant Capital, and M12, Microsoft's Venture Fund. Stuut has processed over $3B for customers such as ZoomInfo, Honeywell and PerkinElmer, and claims its technology unlocks 40% more cash flow for these enterprises.\n\nThe startup will use the new capital to meet demand from large companies that are rebuilding operations around AI but lack the staff to modernize their finance teams. Stuut plans to expand its product capabilities to manage every stage of a transaction from the initial sale until the cash is deposited in the bank.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107818778595831929",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2107818778595831929",
+      "tweetedAt": "2026-10-07T13:02:12.000Z",
+      "bestBit": "Stuut, which uses AI agents to automate enterprise order-to-cash cycles and serves 150+ clients, raised a $52.5M Series B",
+      "text": "Stuut, which uses AI agents to automate enterprise order-to-cash cycles and serves 150+ clients, raised a $52.5M Series B led by Insight, for $93M total funding (@mike_wheatley / SiliconANGLE)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2107864391060201512",
+      "role": "source",
+      "authorHandle": "realtarek",
+      "url": "https://x.com/realtarek/status/2107864391060201512",
+      "tweetedAt": "2026-10-07T16:03:27.000Z",
+      "bestBit": "moved over $3B for enterprises including ZoomInfo, Honeywell and PerkinElmer, with Stuut unlocking 40% more cash flow",
+      "text": "Today, we’re excited to share Stuut has raised a $52.5M Series B led by Insight Partners, bringing our total amount raised to $93M. \n\nI told the guy at my local bodega, and he couldn’t care less about our cash. Frankly, that’s fair. Our job is to care about yours. \n\nThe 1000s of juggernaut companies that run America are rebuilding around AI, and they're doing it with finance teams that are already swamped. Every enterprise we've spoken to says the same thing: they know AI can help, but they don't have the time or team to make it happen.\n\nStuut is the first AI coworker that does all of the work between order and cash for the world's leading enterprises. It's grinding, repetitive work. \n\nWe’ve already moved over $3B for enterprises including ZoomInfo, Honeywell and PerkinElmer, with Stuut unlocking 40% more cash flow for our customers.\n\nThis round is how we keep up with overwhelming demand, and how we go after the bigger job: carrying every transaction from the moment a company decides to sell something until the cash is in the bank. Our customers know we’re in this for the long haul.\n\nOur investors do too, and special thanks to Julian Marcu / Thomas Krane at @InsightPartners for believing in our vision. We're extremely grateful to @a16z, @ActivantCapital, and @M12vc Microsoft's Venture Fund, as well for joining.\n\nThanks to the @StuutAI team for their dedication.\n\nThanks to our customers for trusting us. \n\nAnd to the guy at my bodega: maybe the Series C will do it?"
+    }
+  ],
+  "isSuperseded": false
+}

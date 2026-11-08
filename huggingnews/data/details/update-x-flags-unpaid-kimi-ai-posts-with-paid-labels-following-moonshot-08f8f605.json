@@ -1,0 +1,148 @@
+{
+  "slug": "update-x-flags-unpaid-kimi-ai-posts-with-paid-labels-following-moonshot-08f8f605",
+  "title": "UPDATE: X Flags Unpaid Kimi AI Posts With Paid Labels Following Moonshot Ad Scandal",
+  "publishedAt": "2026-10-27T12:54:53.838Z",
+  "eventTimeApprox": "2026-10-24T09:20:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:MNSH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Moonshot AI",
+      "hubKey": "moonshot-ai"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115059943631999024/HVozKbgWcAAhnsJ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115059943631999024/HVozKbgWcAAhnsJ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "hesamation",
+      "tweetUrl": "https://x.com/Hesamation/status/2115059943631999024"
+    }
+  },
+  "summary": "AI analyst @hesamation says X restricted their account and required the addition of a \"Paid Partnership\" label to a post about the Kimi K3.1 Pro AI model, despite the creator stating they were never paid by Moonshot AI for the content. The analyst says the post was a quote of the company's official blog and contained no promotional talking points, and they have since appealed the platform's decision.\n\nThe enforcement occurs amid a scandal involving leaked promotional documents from Moonshot AI, which allegedly instructed influencers to avoid disclosing paid relationships and submit drafts for company approval before publishing. The briefing advised creators to claim that the Kimi model was a cheaper alternative to Anthropic's Opus 5.5 and that Chinese open-source models had narrowed the performance gap with U.S. frontier models to one month.\n\nWhile the K3.1 Pro model has gained technical traction, ranking 4th on the Artificial Analysis intelligence index, the controversy over its marketing has led some researchers to cut ties with the firm. Moonshot AI has not publicly commented on the leaked documents or the resulting platform violations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114218092620591596",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2114218092620591596",
+      "tweetedAt": "2026-10-25T04:50:48.000Z",
+      "bestBit": "allegations that influencers were asked to promote the model without disclosing a commercial relationship to Moonshot",
+      "text": "Kimi K3.1 Pro's debut draws scrutiny over allegations that influencers were asked to promote the model without disclosing a commercial relationship to Moonshot (@carlfranzen / VentureBeat)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2113710752741892476",
+      "role": "source",
+      "authorHandle": "elshayib_",
+      "url": "https://x.com/elshayib_/status/2113710752741892476",
+      "tweetedAt": "2026-10-23T19:14:48.000Z",
+      "bestBit": "I know all the influencers working with them and none of them are honest",
+      "text": "That's how Kimi AI are promoting their new model Kimi K3.1 pro and I know all the influencers working with them and none of them are honest,I have posted about it myself but I didn't join this and never used their templates that they provide.\n\nPROPAGANDA, I have more to share it's f**cked up I'm gonna have follow up for this"
+    },
+    {
+      "tweetId": "2113734602032312731",
+      "role": "source",
+      "authorHandle": "elshayib_",
+      "url": "https://x.com/elshayib_/status/2113734602032312731",
+      "tweetedAt": "2026-10-23T20:49:35.000Z",
+      "bestBit": "That's the creators campaign docs I got from Kimi AI after their Kimi K3.1 pro release and thats the narrative they want creators to push",
+      "text": "Post 2 exposing Kimi AI\n\nThat's the creators campaign docs I got from Kimi AI after their Kimi K3.1 pro release and thats the narrative they want creators to push, of course I'm out and I'm never gonna say something I don't test myself and give my honest opinion about and I don't want to be involved in this China vs US political situation."
+    },
+    {
+      "tweetId": "2113923642983690743",
+      "role": "source",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2113923642983690743",
+      "tweetedAt": "2026-10-24T09:20:45.000Z",
+      "bestBit": "the leaked campaign briefing apparently tells creators to send their posts for approval and not to disclose the paid partnership.",
+      "text": "Kimi K3.1 Pro is genuinely a good model, which makes this even more frustrating. it’s like cheating in a game you’re already good at. \n\nthe leaked campaign briefing apparently tells creators to send their posts for approval and not to disclose the paid partnership.\n\nundisclosed ads are unethical, but they’re also just so damn EASY TO SPOT. and stupid. no good ever comes out of it.\n\nI’ve NEVER taken a single cent for an undisclosed ad, from Kimi or anyone else, and didn’t receive any briefings either. only an early access (like 2 hours before launch!) to test the model and benchmark it.\n\nfor transparency, I did have a contact on Kimi’s team who’d occasionally send me updates they thought I’d find interesting, API credits to test their models (which I have mostly used to benchmark CrusaderBench), or even merch. but never money.\n\nthis was all in good faith and no different from how I communicate with other AI labs that want me to try what they’re building and share my honest opinions.\n\nbut after seeing this, I’ll be ending that relationship until Moonshot apologizes for this.\n\nthe researchers and engineers working on this model deserve better, and so did the people who freely shared their opinion about it.",
+      "quotedTweetText": "That's how Kimi AI are promoting their new model Kimi K3.1 pro and I know all the influencers working with them and none of them are honest,I have posted about it myself but I didn't join this and never used their templates that they provide.\n\nPROPAGANDA, I have more to share it's f**cked up I'm gonna have follow up for this"
+    },
+    {
+      "tweetId": "2115059943631999024",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2115059943631999024",
+      "tweetedAt": "2026-10-27T12:36:01.000Z",
+      "bestBit": "my account was locked last night forcing me to put a Paid Partnership label on a post I made about Kimi K3.1's launch which getting paid a cent for it.",
+      "text": "Kimi's undisclosed ad campaign is now hurting the creators who weren't part of it.\n\nmy account was locked last night forcing me to put a Paid Partnership label on a post I made about Kimi K3.1's launch which getting paid a cent for it.\n\nI even condemned Kimi’s undisclosed ads the next day, and my post was a normal quote of their blog, without ANY of the points they allegedly told creators to push from the brief screenshot.\n\nI’ve appealed and am waiting for the result now.\n\n> so the creators who did an undisclosed ad got their money,\n> Kimi got the exposure it wanted,\n> and many creators who reacted to the launch authentically got hit with a violation.\n\nso now quoting any launch post is like walking through a minefield because you never know what the company is doing behind the scenes.\n\nI dig through every model release (Anthropic, OpenAI, Qwen, etc.) and share what I find valuable, good or bad. but since now, I will not engage with any of Kimi’s launches until they make this right.",
+      "quotedTweetText": "Wtf is wrong with X banning creators who posted about Kimi K3.1 pro and forcing them to put the paid partnership label even tho they're not being paid and a lot of it is just their own content meanwhile they're not banning the official Kimi AI account that's ridiculous. Yes they should find a way to deal with it but this ain't it wth."
+    },
+    {
+      "tweetId": "2113864058290225615",
+      "role": "commentary",
+      "authorHandle": "nft_chen",
+      "url": "https://x.com/NFT_Chen/status/2113864058290225615",
+      "tweetedAt": "2026-10-24T05:23:59.000Z",
+      "bestBit": "Kimi K3.1 Pro 在 Artificial Analysis 智能指数直接冲到全球第4（55分）",
+      "text": "想不通了！好模型自己会讲话的！\n\nKimi K3.1 Pro 在 Artificial Analysis 智能指数直接冲到全球第4（55分），编码和 agent 能力大涨，价格还便宜了三分之一，开源权重也快来了……\n\n但海外推广须知写着：草稿先送审、别加 Paid Partnership 标签、别挂链接别@官号。\n\n这次模型都这么能打了，何必整这些？让大家自己去试不就行了 😂\n\n#KimiK31Pro #AI #MoonshotAI #开源模型 #人工智能",
+      "quotedTweetText": "That's how Kimi AI are promoting their new model Kimi K3.1 pro and I know all the influencers working with them and none of them are honest,I have posted about it myself but I didn't join this and never used their templates that they provide.\n\nPROPAGANDA, I have more to share it's f**cked up I'm gonna have follow up for this"
+    },
+    {
+      "tweetId": "2113939080203645198",
+      "role": "commentary",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2113939080203645198",
+      "tweetedAt": "2026-10-24T10:22:06.000Z",
+      "bestBit": "suggests claiming that 'China just made Opus 5.5 free to use for everyone,' GPT-6 Sol is 'no comparison,' and Chinese open-source models are just ONE MONTH behind US frontier models.",
+      "text": "WTF. This is genuinely shameful and disturbing. A creator has exposed \"Moonshot AI's Kimi K3.1 promotional brief\". Under 'Narratives You Can Consider,' it suggests claiming that 'China just made Opus 5.5 free to use for everyone,' GPT-6 Sol is 'no comparison,' and Chinese open-source models are just ONE MONTH behind US frontier models. It even invokes US chip restrictions to sell the narrative.\n\nNow look at this GTA demo claiming Kimi built it for $51.98 versus over $500 for Astra/Opus 5.5. That's strikingly similar to the campaign's cost-comparison pitch. I've watched demos from creators I trust, like Bijan Bowen, and the model doesn't look nearly as GOOD as advertised. At this point, how can anyone distinguish independent reviews from paid marketing?",
+      "quotedTweetText": "Post 2 exposing Kimi AI\n\nThat's the creators campaign docs I got from Kimi AI after their Kimi K3.1 pro release and thats the narrative they want creators to push, of course I'm out and I'm never gonna say something I don't test myself and give my honest opinion about and I don't want to be involved in this China vs US political situation."
+    },
+    {
+      "tweetId": "2113887405354987630",
+      "role": "analysis",
+      "authorHandle": "maxforai",
+      "url": "https://x.com/MaxForAI/status/2113887405354987630",
+      "tweetedAt": "2026-10-24T06:56:46.000Z",
+      "bestBit": "不要添加Paid Partnership（付费合作）标识（这是违反X用户规则的）",
+      "text": "Kimi这次在海外真的翻车了。。。\n\n@Kimi_Moonshot 的 K3.1 Pro刚刚发布，结果一位海外AI博主 @elshayib_  直接把疑似Kimi官方提供的网红营销文件给曝光了。\n\n根据他披露的文件，Kimi要求合作创作者在发布内容之前，先把稿件交给他们审核，得到批准后才能发布。\n\n更离谱的是，文件还明确写着：不要添加Paid Partnership（付费合作）标识（这是违反X用户规则的）。\n\n甚至还专门提醒，不需要挂Kimi的官网链接，也不需要@Kimi的官方账号。\n\n与此同时，文件还准备了一整套宣传话术，比如“Kimi就是开源版Opus 5.5，但便宜5倍”“中国把Opus 5.5免费提供给了所有人”“中国开源模型与美国前沿模型的差距已经缩小到一个月”。\n\n这位博主表示，自己拒绝参与这样的宣传，随后还因为批评其他创作者，遭到对方要求删除评论。\n\n事情传到Reddit之后，海外社区也吵起来了。有人直接搬出了美国FTC的广告披露要求，也有人开始质疑这些文件的真实性。\n\n但Kimi K3.1 Pro本身确实是一款值得关注的模型，技术能力也得到了不少认可。\n\n结果现在因为这场营销争议，很多人开始怀疑自己之前看到的那些推荐，到底有多少是真实评价。\n\n一个原本可以靠产品能力获得海外开发者认可的模型，最后却因为营销方式陷入了信任争议。\n\n挺可惜的。",
+      "quotedTweetText": "That's how Kimi AI are promoting their new model Kimi K3.1 pro and I know all the influencers working with them and none of them are honest,I have posted about it myself but I didn't join this and never used their templates that they provide.\n\nPROPAGANDA, I have more to share it's f**cked up I'm gonna have follow up for this"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "moonshot-ai-ordered-kimi-influencers-to-hide-paid-partnership-labels-in-e2c8085a",
+    "title": "Moonshot AI Ordered Kimi Influencers to Hide Paid Partnership Labels in Leaked Brief",
+    "publishedAt": "2026-10-24T10:39:45.300Z",
+    "eventTimeApprox": "2026-10-24T08:08:45.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 9,
+    "authorCount": 8
+  }
+}

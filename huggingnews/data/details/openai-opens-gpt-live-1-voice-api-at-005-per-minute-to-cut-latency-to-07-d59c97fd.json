@@ -1,0 +1,128 @@
+{
+  "slug": "openai-opens-gpt-live-1-voice-api-at-005-per-minute-to-cut-latency-to-07-d59c97fd",
+  "title": "OpenAI Opens GPT-Live-1 Voice API at $0.05 Per Minute to Cut Latency to 0.798 Seconds",
+  "publishedAt": "2026-09-10T18:55:19.946Z",
+  "eventTimeApprox": "2026-09-10T17:20:21.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2098099324509151532/HR3yUB2acAA65LB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2098099324509151532/HR3yUB2acAA65LB-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2098099282788466688/vid/avc1/1662x1080/I6GZkWIpJ5zOH2kb.mp4?tag=16",
+    "credit": {
+      "handle": "openaidevs",
+      "tweetUrl": "https://x.com/OpenAIDevs/status/2098099324509151532"
+    }
+  },
+  "summary": "Developers can now integrate a full duplex voice system into applications that distinguishes speech from background noise and supports natural interruptions. The model combines listening and speaking in a single architecture to eliminate handoffs between separate audio and text processes. Tool calling for spoken requests has an 87% pass rate, allowing AI agents to delegate complex reasoning to backend models such as GPT-6 Astra.\n\nThe new API costs $0.05 per minute for the voice layer and lowers turn taking latency to 0.798 seconds from 1.41 seconds for GPT-Realtime-2.1. Based on the technology provided to 1 billion ChatGPT users, the system achieves an 86.2% score on Tau3 voice tasks compared to 45.7% for the previous version. Early deployments include restaurant service tools from Yelp Host and Hatch, and language lessons from Speak, which saw nearly 80% fewer interruptions in early testing.",
+  "selectedTweets": [
+    {
+      "tweetId": "2098099269551149398",
+      "role": "source",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2098099269551149398",
+      "tweetedAt": "2026-09-10T17:20:21.000Z",
+      "bestBit": "voice agents that listen while they speak",
+      "text": "GPT-Live-1 is now available in the API.\n\nBring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose. https://t.co/gIl1gwsBDV"
+    },
+    {
+      "tweetId": "2098099372999446590",
+      "role": "analysis",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2098099372999446590",
+      "tweetedAt": "2026-09-10T17:20:45.000Z",
+      "bestBit": "handles listening and speaking in one model",
+      "text": "GPT-Live-1 handles listening and speaking in one model, cutting out extra handoffs so the conversation moves fasterrrrrrr 🏎️\n\nAnd you can keep talking while your backend model handles reasoning and tool calls. https://t.co/ouXFTBT0dH"
+    },
+    {
+      "tweetId": "2098099324509151532",
+      "role": "support",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2098099324509151532",
+      "tweetedAt": "2026-09-10T17:20:34.000Z",
+      "bestBit": "distinguishes speech from background noise, so café chatter doesn’t have to stop the conversation",
+      "text": "GPT-Live-1 finally makes conversations fluid.\n\nIt distinguishes speech from background noise, so café chatter doesn’t have to stop the conversation ☕\n\nYou can even add a detail you just thought of or change direction mid-conversation without waiting for the model to finish its speaking turn."
+    },
+    {
+      "tweetId": "2098102270332444922",
+      "role": "support",
+      "authorHandle": "juberti",
+      "url": "https://x.com/juberti/status/2098102270332444922",
+      "tweetedAt": "2026-09-10T17:32:16.000Z",
+      "bestBit": "less expensive - only $.05/minute!",
+      "text": "The GPT-Live API is now... live! Our newest voice model offers better conversation, faster responses, and controllable delegation to any model. Best of all, it's also less expensive - only $.05/minute!\nhttps://t.co/T7L8MN99oP",
+      "quotedTweetText": "GPT-Live-1 is now available in the API.\n\nBring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose. https://t.co/gIl1gwsBDV"
+    },
+    {
+      "tweetId": "2098105060186374280",
+      "role": "commentary",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2098105060186374280",
+      "tweetedAt": "2026-09-10T17:43:21.000Z",
+      "bestBit": "same voice system that we shipped to 1B users in ChatGPT",
+      "text": "You can now build on top of the same voice system that we shipped to 1B users in ChatGPT.\n\nSo many fun applications of a full duplex system with solid toolcalling. Going back to text-only experiences after this feels harder than I had expected.",
+      "quotedTweetText": "GPT-Live-1 is now available in the API.\n\nBring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose. https://t.co/gIl1gwsBDV"
+    },
+    {
+      "tweetId": "2098110480216883490",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2098110480216883490",
+      "tweetedAt": "2026-09-10T18:04:54.000Z",
+      "bestBit": "86.2% on Tau3 voice tasks when paired with Astra, vs. 45.7% for GPT-Realtime-2.1",
+      "text": "OPENAI LAUNCHES GPT-LIVE-1 IN THE API\n\nGPT-Live-1 brings ChatGPT’s real-time voice model to developers, allowing AI agents to listen and speak at the same time, handle interruptions naturally, and delegate deeper reasoning or actions to models like GPT-6 Astra.\n\nKey details:\n\nFull-duplex voice with 0.798s turn-taking latency vs. 1.41s for GPT-Realtime-2.1\n\n86.2% on Tau3 voice tasks when paired with Astra, vs. 45.7% for GPT-Realtime-2.1\n\n87% tool-calling pass rate on spoken requests\n\nSupports phone calls, background noise, long sessions and custom tone/pacing\n\nCan pair with OpenAI or third-party backend models\n\nNew voices across more accents, dialects and languages\n\nAvailable today at $0.05/min for the voice layer\n\nOpenAI says Speak saw nearly 80% fewer interruptions in early testing.\n\nhttps://t.co/tVhJ1iv33r"
+    },
+    {
+      "tweetId": "2098109685366915316",
+      "role": "signal",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2098109685366915316",
+      "tweetedAt": "2026-09-10T18:01:44.000Z",
+      "bestBit": "Yelp Host & @usehatchapp are among the first to deploy @OpenAI's GPT-Live-1",
+      "text": "RT @Yelp: Yelp Host &amp; @usehatchapp are among the first to deploy @OpenAI's GPT-Live-1. Our voice AI solutions for restaurants and service b…"
+    }
+  ],
+  "isSuperseded": false
+}

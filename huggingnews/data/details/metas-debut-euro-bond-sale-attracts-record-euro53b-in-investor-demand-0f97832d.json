@@ -1,0 +1,126 @@
+{
+  "slug": "metas-debut-euro-bond-sale-attracts-record-euro53b-in-investor-demand-0f97832d",
+  "title": "Meta's Debut Euro Bond Sale Attracts Record €53B in Investor Demand",
+  "publishedAt": "2026-11-04T12:53:03.235Z",
+  "eventTimeApprox": "2026-11-02T17:41:44.500Z",
+  "isFreshStory": false,
+  "tweetCount": 86,
+  "authorCount": 35,
+  "routingTopicKeys": [
+    "global-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "global-markets",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "Meta completed the issuance of its first euro-denominated bonds, attracting a record €53 billion in orders to secure approximately €8.25 billion across six tranches. The European sale concludes a broader fundraising drive to finance the company's AI infrastructure that included a $15 billion U.S. dollar bond offering on Tuesday. That USD sale also saw high demand, with investors submitting orders for as much as $58 billion, though Meta had to pay yields of up to 7.5% for the 30 year notes.\n\nThe borrowing spree comes as S&P shifted Meta's credit outlook to negative, citing the risk of burning cash for three straight years with a projected free cash flow deficit of $71 billion in 2027. Meta has combined these bond sales with common and preferred stock offerings to raise nearly $120 billion across its capital stack, funding a buildup that S&P estimates will see capital expenditures exceed $225 billion by 2027.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117961646874218562",
+      "role": "source",
+      "authorHandle": "marketnews_feed",
+      "url": "https://x.com/MarketNews_Feed/status/2117961646874218562",
+      "tweetedAt": "2026-11-04T12:46:21.000Z",
+      "bestBit": "$META GETS RECORD EUR 53B DEMAND FOR DEBUT EURO BOND SALE",
+      "text": "$META GETS RECORD EUR 53B DEMAND FOR DEBUT EURO BOND SALE"
+    },
+    {
+      "tweetId": "2117746521076863434",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117746521076863434",
+      "tweetedAt": "2026-11-03T22:31:31.000Z",
+      "bestBit": "• 30-year: $2.75B at 7.50%",
+      "text": "$META PRICED ITS $15 BILLION BOND SALE, PAYING UP TO 7.5% ON 30-YEAR DEBT\n\n• 5-year: $3.25B at 5.85%\n• 7-year: $3.25B at 6.25%\n• 10-year: $4B at 6.55%\n• 20-year: $1.75B at 7.35%\n• 30-year: $2.75B at 7.50%\n\nSpreads: 110–220 bps over Treasuries. Orders reached up to $58B."
+    },
+    {
+      "tweetId": "2117958770634465469",
+      "role": "support",
+      "authorHandle": "junkbondinvest",
+      "url": "https://x.com/junkbondinvest/status/2117958770634465469",
+      "tweetedAt": "2026-11-04T12:34:55.000Z",
+      "bestBit": "~EUR8.25bn across 6 tranches, ~30bps tighter across the curve, a day after a $15bn USD deal.",
+      "text": "$META debut euro deal, IPT -&gt; final:\n\n4Y: +140bps -&gt; +108bps\n6Y: +170 -&gt; +140\n8Y: +195 -&gt; +165\n12Y: +240 -&gt; +208\n18Y: +300 -&gt; +268\n38Y: +370 -&gt; +338\n\n~EUR8.25bn across 6 tranches, ~30bps tighter across the curve, a day after a $15bn USD deal."
+    },
+    {
+      "tweetId": "2117395077253435790",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2117395077253435790",
+      "tweetedAt": "2026-11-02T23:15:00.000Z",
+      "bestBit": "Meta burned $2.12 billion in cash last quarter, and S&P moved its outlook to negative on Friday.",
+      "text": "🦔Meta wants to raise at least $20 billion in new bonds, in dollars and euros, with some running as long as 38 years. That comes a week after it announced plans to sell up to about $97.5 billion in new stock. Meta burned $2.12 billion in cash last quarter, and S&P moved its outlook to negative on Friday. Alphabet and Oracle went to the markets for money today too.\n\nMy Take\nSelling bonds that run for decades to help pay for chips that wear out in five or six years is a strange match, and Meta will still owe on that debt long after today’s GPUs end up in a landfill. All that new stock dilutes everyone who already owns Meta, which includes most people with an index fund. Alphabet and Oracle doing the same thing on the same day makes me think Big Tech can’t fund this buildout from its own cash anymore.\n\nHedgie🤗"
+    },
+    {
+      "tweetId": "2116545816869601740",
+      "role": "analysis",
+      "authorHandle": "kylereidhead",
+      "url": "https://x.com/KyleReidhead/status/2116545816869601740",
+      "tweetedAt": "2026-10-31T15:00:20.000Z",
+      "bestBit": "It models free cash flow at -$22B in 2026, -$71B in 2027 and -$39B in 2028.",
+      "text": "S&P just put a number on $META's AI bill, and it's kinda ugly\n\nAfter the close Friday, S&P cut Meta's credit outlook to NEGATIVE\n\nIt kept the AA- rating, but it now sees Meta burning cash for 3 straight years\n\nIt models free cash flow at -$22B in 2026, -$71B in 2027 and -$39B in 2028. It used to expect Meta back in the positive by 2028\n\nThe reason is capex. S&P now sees over $225B in 2027 and $252B in 2028, way above its old forecasts of $163B and $178B\n\nIt also sees leverage topping 1.0x as early as 2027, the level that puts the AA- rating at risk\n\nAnd S&P says Meta's ability to make money from AI is more limited than its peers. Meta says it \"respectfully disagrees\"\n\nYesterday I said the fear right now is the BILL. S&P just made it official"
+    },
+    {
+      "tweetId": "2116916304275816620",
+      "role": "signal",
+      "authorHandle": "globalmktobserv",
+      "url": "https://x.com/GlobalMktObserv/status/2116916304275816620",
+      "tweetedAt": "2026-11-01T15:32:31.000Z",
+      "bestBit": "S&P expects Meta's CapEx to reach $140 billion in 2026 and accelerate to more than $225 billion in 2027",
+      "text": "Meta's AI spending is increasingly becoming a CREDIT risk:\n\nMeta's, $META, 5-year credit default swap (CDS) spread, which measures the cost of insuring against default, has surged to 127.9 basis points, up from just 49.9 bps a year ago and approaching its October 23rd high of 130.5 bps.\n\nMeanwhile, S&P Global Ratings lowered its outlook on the company from stable to negative, while affirming its AA- credit rating, citing rising leverage and growing pressure from AI-related spending.\n\nS&P expects Meta's CapEx to reach $140 billion in 2026 and accelerate to more than $225 billion in 2027, while leverage could exceed 1.0x next year, up from approximately 0.1x in 2025.\n\nThe firm has also disclosed more than $800 billion in future spending commitments, with nearly 50% tied to leases that have not yet begun, largely for data centers and energy infrastructure.\n\nCrucially, S&P considers Meta's ability to monetize its AI investments more limited than that of its peers, warning that it remains unclear when AI spending will generate enough revenue to offset rising costs.\n\nCredit risk is surging among Big Tech amid record debt issuance and AI spending."
+    },
+    {
+      "tweetId": "2116580355402834292",
+      "role": "analysis",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2116580355402834292",
+      "tweetedAt": "2026-10-31T17:17:35.000Z",
+      "bestBit": "The largest AI companies have accumulated an estimated $340 billion to $400 billion in debt",
+      "text": "Chamath Palihapitiya just raised a pretty serious concern about the AI boom and I think this could become one of the biggest issues facing the bond market over the next few years.\n\nFor context, the largest AI companies have accumulated an estimated $340 billion to $400 billion in debt, and the amount of money they need to raise is only getting bigger. Companies like Google, Amazon, and Meta are spending hundreds of billions building data centers, purchasing GPUs, expanding power infrastructure, and developing AI models. The problem is that even some of the most profitable companies in the world are reaching a point where their operating cash flow isn't enough to comfortably finance all that spending.\n\n@chamath estimates that the additional financing these companies will need through the end of 2027 could equal roughly 30% of everything the US Treasury is expected to issue over that same period. Think about what that means. Some of the largest corporations in America are now competing with the U.S. government for capital from the same institutional investors, pension funds, insurance companies, and bond funds. If these companies continue flooding the bond market with hundreds of billions in new debt, investors may demand higher yields to absorb all that supply. That creates the potential for upward pressure on borrowing costs across the economy, including mortgages, corporate loans, and government debt. And higher yields would also put pressure on stock valuations, especially growth companies whose valuations depend heavily on future earnings.\n\nWhat's particularly interesting is how dramatically the economics of Big Tech have changed. For years, companies like Google and Meta were essentially cash generating machines with relatively modest capital requirements. Now they're becoming some of the most capital intensive businesses in the world. They're spending enormous amounts of money today on infrastructure that may take years to generate sufficient returns, while committing themselves to additional spending as AI demand continues growing. And this extends well beyond Big Tech. Companies like Oracle, CoreWeave, and Nebius are also financing enormous AI infrastructure projects. The more dependent this entire ecosystem becomes on debt financing, the more sensitive it becomes to interest rates, credit conditions, and investors' willingness to provide capital.",
+      "quotedTweetText": "S&P just put a number on $META's AI bill, and it's kinda ugly\n\nAfter the close Friday, S&P cut Meta's credit outlook to NEGATIVE\n\nIt kept the AA- rating, but it now sees Meta burning cash for 3 straight years\n\nIt models free cash flow at -$22B in 2026, -$71B in 2027 and -$39B in 2028. It used to expect Meta back in the positive by 2028\n\nThe reason is capex. S&P now sees over $225B in 2027 and $252B in 2028, way above its old forecasts of $163B and $178B\n\nIt also sees leverage topping 1.0x as early as 2027, the level that puts the AA- rating at risk\n\nAnd S&P says Meta's ability to make money from AI is more limited than its peers. Meta says it \"respectfully disagrees\"\n\nYesterday I said the fear right now is the BILL. S&P just made it official"
+    },
+    {
+      "tweetId": "2117311372971159639",
+      "role": "commentary",
+      "authorHandle": "junkbondinvest",
+      "url": "https://x.com/junkbondinvest/status/2117311372971159639",
+      "tweetedAt": "2026-11-02T17:42:23.000Z",
+      "bestBit": "Nearly $120bn across the entire cap stack",
+      "text": "*META EYES AT LEAST $20B IN POTENTIAL US DOLLAR, EURO BOND SALE\n\nHere's a recap of Meta’s AI funding in the last 2 weeks:\n\n> $25bn of common stock\n> $12.5bn of preferred stock\n> Up to $60bn ATM program\n> Now $20bn+ of USD and debut EUR bonds\n\nMore IG supply coming to a market near you. Nearly $120bn across the entire cap stack\n\n$META"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "meta-starts-sale-of-first-euro-bonds-to-close-out-ai-funding-drive-5f6b37fe",
+    "title": "Meta Starts Sale of First Euro Bonds to Close Out AI Funding Drive",
+    "publishedAt": "2026-11-04T11:37:08.532Z",
+    "eventTimeApprox": "2026-11-02T15:57:30.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-markets"
+    ],
+    "tweetCount": 75,
+    "authorCount": 33
+  }
+}

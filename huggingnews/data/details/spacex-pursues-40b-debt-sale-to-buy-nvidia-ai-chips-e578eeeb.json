@@ -1,0 +1,78 @@
+{
+  "slug": "spacex-pursues-40b-debt-sale-to-buy-nvidia-ai-chips-e578eeeb",
+  "title": "SpaceX Pursues $40B Debt Sale to Buy Nvidia AI Chips",
+  "publishedAt": "2026-10-06T22:53:30.040Z",
+  "eventTimeApprox": "2026-10-06T22:35:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 43,
+  "authorCount": 33,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "APO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Apollo Global Management, Inc.",
+      "hubKey": "apo"
+    }
+  ],
+  "summary": "Apollo is coordinating a financing effort for a private aerospace firm to acquire artificial intelligence hardware. SpaceX is looking to raise $40B through the sale of debt to purchase chips from Nvidia, according to the Financial Times. This capital injection is intended to expand the company's AI compute capacity as it scales its digital infrastructure.\n\nThe shift toward debt financing allows the firm to grow its technological capabilities without issuing additional shares and diluting current ownership. The company aims to use this increased capacity to create a new revenue stream by integrating AI compute with its existing operations in satellite connectivity, power, and launch services.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107600658538914275",
+      "role": "source",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2107600658538914275",
+      "tweetedAt": "2026-10-06T22:35:28.000Z",
+      "bestBit": "SpaceX $SPCX is reportedly looking to raise $40 Billion by selling debt to buy Nvidia $NVDA chips",
+      "text": "SpaceX $SPCX is reportedly looking to raise $40 Billion by selling debt to buy Nvidia $NVDA chips - Financial Times https://t.co/PsO4SWWI7R"
+    },
+    {
+      "tweetId": "2107601953438191947",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107601953438191947",
+      "tweetedAt": "2026-10-06T22:40:37.000Z",
+      "bestBit": "$SPCX is looking to raise $40B of debt to buy $NVDA chips as it scales AI compute without issuing more stock",
+      "text": "$SPCX is looking to raise $40B of debt to buy $NVDA chips as it scales AI compute without issuing more stock.\n\nIf that capacity rents anywhere near ~$50 per watt then SpaceX can use debt to fund another cash generating layer across launch, power, connectivity &amp; compute. https://t.co/ibSLZONFFP"
+    }
+  ],
+  "isSuperseded": false
+}

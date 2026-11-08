@@ -1,0 +1,66 @@
+{
+  "slug": "imf-lifts-india-growth-to-70percent-on-ai-investment-330a9030",
+  "title": "IMF Lifts India Growth to 7.0% on AI Investment",
+  "publishedAt": "2026-10-13T03:54:18.947Z",
+  "eventTimeApprox": "2026-10-13T02:27:32.500Z",
+  "isFreshStory": false,
+  "tweetCount": 32,
+  "authorCount": 22,
+  "routingTopicKeys": [
+    "global-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "global-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "india",
+      "name": "India"
+    }
+  ],
+  "summary": "The International Monetary Fund raised the economic outlook for ASEAN-5 nations to 4.4% in its latest World Economic Outlook, citing a surge in high tech spending. India's growth projection was increased by 0.6 percentage points to 7.0% on the back of AI and data center investments, while the fund trimmed China's growth forecast to 4.5% as a property slump and high energy costs weighed on the region. AI-related demand is boosting connected economies, though it has increased costs for energy importers.\n\nGlobal real GDP growth is projected at 3.1% for 2026, an increase from the 3.0% estimate in July, and 3.4% for 2027. The IMF estimates global inflation at 4.7% in 2026 before easing to 4.1% in 2027. Despite the lift from AI, the organization cautioned that the resilience of the global economy remains under strain and risks widening income gaps.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109837598323524066",
+      "role": "analysis",
+      "authorHandle": "anasalhajji",
+      "url": "https://x.com/anasalhajji/status/2109837598323524066",
+      "tweetedAt": "2026-10-13T02:44:16.000Z",
+      "bestBit": "India is forecast at 7.0% (up 0.6 points) and ASEAN-5 at 4.4% (up from 4.1%), driven by data-center investment.",
+      "text": "India, ASEAN growth revised up in IMF's latest world outlook\n\n🌑The IMF’s latest World Economic Outlook revises growth higher for India and ASEAN-5 economies, supported by AI and high-tech investments. \n\n🌑The global economy is now projected to expand 3.1% in 2026 (up from 3.0%) and 3.4% in 2027, after 3.5% in 2025. India is forecast at 7.0% (up 0.6 points) and ASEAN-5 at 4.4% (up from 4.1%), driven by data-center investment.\n\n🌑China is revised slightly lower to 4.5%. AI-related demand boosts connected economies but raises costs for energy importers, risking wider income gaps. Global inflation is seen at 4.7% in 2026 before easing to 4.1% in 2027."
+    },
+    {
+      "tweetId": "2109833898553479220",
+      "role": "signal",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2109833898553479220",
+      "tweetedAt": "2026-10-13T02:29:34.000Z",
+      "bestBit": "IMF’s Tenreyro: China and India Drive Growth, With AI Demand Supporting Other Economies",
+      "text": "IMF’s Tenreyro: China and India Drive Growth, With AI Demand Supporting Other Economies"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "imf-lifts-2026-global-gdp-forecast-to-31percent-on-ai-investment-f944388b",
+    "title": "IMF Lifts 2026 Global GDP Forecast to 3.1% on AI Investment",
+    "publishedAt": "2026-10-13T02:38:01.925Z",
+    "eventTimeApprox": "2026-10-13T02:15:32.000Z",
+    "routingTopicKeys": [
+      "global-markets",
+      "ai"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

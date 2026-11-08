@@ -1,0 +1,84 @@
+{
+  "slug": "citi-bars-ai-agent-account-access-to-help-protect-16t-deposit-base-d148edc6",
+  "title": "Citi Bars AI Agent Account Access to Help Protect $1.6T Deposit Base",
+  "publishedAt": "2026-10-16T18:27:03.741Z",
+  "eventTimeApprox": "2026-10-16T17:21:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "C",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Citigroup Inc.",
+      "hubKey": "c"
+    },
+    {
+      "ticker": "JPM",
+      "kind": "equity",
+      "role": "related",
+      "name": "JPMorgan Chase & Co.",
+      "hubKey": "jpm"
+    },
+    {
+      "ticker": "BAC",
+      "kind": "equity",
+      "role": "related",
+      "name": "Bank of America Corporation",
+      "hubKey": "bac"
+    },
+    {
+      "ticker": "WFC",
+      "kind": "equity",
+      "role": "related",
+      "name": "Wells Fargo & Co.",
+      "hubKey": "wfc"
+    }
+  ],
+  "summary": "Citigroup has prohibited external software assistants from logging into customer accounts or executing monetary transfers within its digital banking platforms, the Financial Times reports. The lender joins JPMorgan Chase and Bank of America in restricting third party AI agents, with JPMorgan CEO Jamie Dimon previously warning that thousands of rogue agents could potentially operate inside the bank if such limits were not imposed.\n\nThe restrictions aim to prevent automated tools from shifting client funds from low-interest checking accounts, which pay about 0.1%, to fintech alternatives offering 3.3% to 5%. JPMorgan, Bank of America and Wells Fargo hold $1.6T in non-interest deposits, and banks could face annual costs of $47B to pay 3% interest on those funds, an amount nearly equal to half of their combined yearly earnings.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111111006105571811",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2111111006105571811",
+      "tweetedAt": "2026-10-16T15:04:21.000Z",
+      "bestBit": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+      "text": "Citi becomes latest US bank to restrict AI agents from accessing accounts https://t.co/3TxtWdG86C"
+    },
+    {
+      "tweetId": "2111145441421312174",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2111145441421312174",
+      "tweetedAt": "2026-10-16T17:21:11.000Z",
+      "bestBit": "JPMorgan, Bank of America and Wells Fargo hold $1.6T in non-interest deposits, and paying 3% on that money would cost $47B a year",
+      "text": "Citigroup now bars third-party AI agents from logging into customer accounts or moving money inside its digital banking platforms, according to the Financial Times.\n\nBank of America has imposed similar limits, joining JPMorgan Chase, which is restricting outside AI agents after Jamie Dimon warned that thousands of “rogue agents” could otherwise operate inside the bank.\n\nThe deeper threat is to bank funding, since agents comparing rates could move cash from checking accounts paying about 0.1% into fintech accounts paying 3.3% to 5%.\n\nJPMorgan, Bank of America and Wells Fargo hold $1.6T in non-interest deposits, and paying 3% on that money would cost $47B a year, close to half their combined annual earnings."
+    }
+  ],
+  "isSuperseded": false
+}

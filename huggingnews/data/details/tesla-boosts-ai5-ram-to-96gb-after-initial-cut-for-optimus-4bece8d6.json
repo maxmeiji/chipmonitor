@@ -1,0 +1,110 @@
+{
+  "slug": "tesla-boosts-ai5-ram-to-96gb-after-initial-cut-for-optimus-4bece8d6",
+  "title": "Tesla Boosts AI5 RAM to 96GB After Initial Cut for Optimus",
+  "publishedAt": "2026-10-02T08:25:18.773Z",
+  "eventTimeApprox": "2026-10-01T19:51:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105749332263846336/HTkfoAIbsAAuBmm-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105749332263846336/HTkfoAIbsAAuBmm-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2105749332263846336"
+    }
+  },
+  "summary": "Elon Musk modified the specification for the AI5 processor's memory capacity to ensure the hardware did not use the minimum available version of LP5 RAM. The chip now features 96GB of memory, a slight increase from the 72GB limit Musk announced on October 1. The initial decision to halve the AI5 RAM to 72GB was made to lower production costs and secure sufficient component supply for the mass manufacture of Optimus humanoid robots.\n\nTesla also cut the memory for its AI6 chip by one third to 144GB of LP6 to avoid supply bottlenecks. These adjustments will have a negligible effect on the performance of the Optimus robots because memory bandwidth is a larger limiting factor than total storage, Musk said. The company held memory bandwidth constant during these reductions to maintain the processing efficiency of the hardware.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105747471045370250",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2105747471045370250",
+      "tweetedAt": "2026-10-01T19:51:34.000Z",
+      "bestBit": "We cut our RAM in half for the Tesla AI5 chip (now 72GB of LP5) and 1/3 for AI6 (now 144GB of LP6).",
+      "text": "We cut our RAM in half for the Tesla AI5 chip (now 72GB of LP5) and 1/3 for AI6 (now 144GB of LP6). \n\nThis was the only way to get enough volume for Optimus production and greatly reduces cost. \n\nAs it turns out, we think this will have a negligible effect on Optimus performance, as memory bandwidth is a bigger limiting factor than total memory storage (bandwidth was held constant)."
+    },
+    {
+      "tweetId": "2105930010205024419",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2105930010205024419",
+      "tweetedAt": "2026-10-02T07:56:55.000Z",
+      "bestBit": "we decided to nudge AI5 up a little to 96GB, as Tesla would otherwise be the only company using the min RAM version of LP5",
+      "text": "@DirtyTesLa Actually, we decided to nudge AI5 up a little to 96GB, as Tesla would otherwise be the only company using the min RAM version of LP5"
+    },
+    {
+      "tweetId": "2105750854842368364",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2105750854842368364",
+      "tweetedAt": "2026-10-01T20:05:01.000Z",
+      "bestBit": "This was the only way to get enough volume for Optimus production and greatly reduces cost.",
+      "text": "Source:\n\nhttps://t.co/fRy2rvsGmH",
+      "quotedTweetText": "@DirtyTesLa We cut our RAM in half for the Tesla AI5 chip (now 72GB of LP5) and 1/3 for AI6 (now 144GB of LP6). \n\nThis was the only way to get enough volume for Optimus production and greatly reduces cost. \n\nAs it turns out, we think this will have a negligible effect on Optimus performance, as memory bandwidth is a bigger limiting factor than total memory storage (bandwidth was held constant)."
+    },
+    {
+      "tweetId": "2105855683090600434",
+      "role": "commentary",
+      "authorHandle": "brianroemmele",
+      "url": "https://x.com/BrianRoemmele/status/2105855683090600434",
+      "tweetedAt": "2026-10-02T03:01:34.000Z",
+      "bestBit": "This is an incredible memory reduction. It will also matriculate to higher speed and potentially lower power consumption!",
+      "text": "This is an incredible memory reduction. It will also matriculate to higher speed and potentially lower power consumption!",
+      "quotedTweetText": "@DirtyTesLa We cut our RAM in half for the Tesla AI5 chip (now 72GB of LP5) and 1/3 for AI6 (now 144GB of LP6). \n\nThis was the only way to get enough volume for Optimus production and greatly reduces cost. \n\nAs it turns out, we think this will have a negligible effect on Optimus performance, as memory bandwidth is a bigger limiting factor than total memory storage (bandwidth was held constant)."
+    },
+    {
+      "tweetId": "2105783595935683027",
+      "role": "commentary",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2105783595935683027",
+      "tweetedAt": "2026-10-01T22:15:07.000Z",
+      "bestBit": "Elon is literally cutting memory per chip because there isn’t enough supply to get the volume Tesla needs for Optimus.",
+      "text": "Elon is literally cutting memory per chip because there isn’t enough supply to get the volume Tesla needs for Optimus.\n\nI genuinely don’t own enough $MU.",
+      "quotedTweetText": "@DirtyTesLa We cut our RAM in half for the Tesla AI5 chip (now 72GB of LP5) and 1/3 for AI6 (now 144GB of LP6). \n\nThis was the only way to get enough volume for Optimus production and greatly reduces cost. \n\nAs it turns out, we think this will have a negligible effect on Optimus performance, as memory bandwidth is a bigger limiting factor than total memory storage (bandwidth was held constant)."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "tesla-cuts-ai5-chip-ram-to-72gb-for-optimus-volume-7b368bfe",
+    "title": "Tesla Cuts AI5 Chip RAM to 72GB for Optimus Volume",
+    "publishedAt": "2026-10-01T20:10:43.000Z",
+    "eventTimeApprox": "2026-10-01T19:51:34.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 12,
+    "authorCount": 11
+  }
+}

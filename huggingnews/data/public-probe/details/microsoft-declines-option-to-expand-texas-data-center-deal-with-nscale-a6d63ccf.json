@@ -1,0 +1,76 @@
+{
+  "slug": "microsoft-declines-option-to-expand-texas-data-center-deal-with-nscale-a6d63ccf",
+  "title": "Microsoft Declines Option to Expand Texas Data Center Deal With nScale",
+  "publishedAt": "2026-11-05T06:08:29.789Z",
+  "eventTimeApprox": "2026-11-05T05:17:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "The US technology giant has declined a proposal to increase the scale of its existing agreement for AI infrastructure in Texas with UK-based nScale. The deal would have more than doubled the size of the current contract, and its rejection complicates nScale's efforts to achieve a $35B valuation for its planned initial public offering, according to the Financial Times.\n\nThe decision is the latest setback for nScale, which previously saw Microsoft turn down a separate proposal to form a broader multibillion-dollar strategic alliance. That initial offer aimed to create a strategic partnership for nScale's AI operations involving a significant financial commitment from Microsoft.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118214768213319731",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2118214768213319731",
+      "tweetedAt": "2026-11-05T05:32:09.000Z",
+      "bestBit": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale",
+      "text": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale https://t.co/ZLJM4g7i5Z"
+    },
+    {
+      "tweetId": "2118218273183674600",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2118218273183674600",
+      "tweetedAt": "2026-11-05T05:46:05.000Z",
+      "bestBit": "Microsoft rejects an option to more than double its Texas data center contract with Nscale, dealing a fresh blow to Nscale's ambitions for a $35B IPO",
+      "text": "Sources: Microsoft rejects an option to more than double its Texas data center contract with Nscale, dealing a fresh blow to Nscale's ambitions for a $35B IPO (Financial Times)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "microsoft-rejects-multibillion-dollar-ai-partnership-with-nscale-e657ce84",
+    "title": "Microsoft Rejects Multibillion-Dollar AI Partnership With nScale",
+    "publishedAt": "2026-11-05T05:37:33.317Z",
+    "eventTimeApprox": "2026-11-05T05:03:13.000Z",
+    "routingTopicKeys": [
+      "business",
+      "ai"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

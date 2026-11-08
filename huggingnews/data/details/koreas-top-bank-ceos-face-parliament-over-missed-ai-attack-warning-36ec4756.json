@@ -1,0 +1,160 @@
+{
+  "slug": "koreas-top-bank-ceos-face-parliament-over-missed-ai-attack-warning-36ec4756",
+  "title": "Korea's Top Bank CEOs Face Parliament Over Missed AI Attack Warning",
+  "publishedAt": "2026-10-11T09:09:17.511Z",
+  "eventTimeApprox": "2026-10-08T09:29:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 72,
+  "authorCount": 42,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "south-korea",
+      "name": "South Korea"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SHG",
+      "kind": "equity",
+      "role": "related",
+      "name": "Shinhan Financial Group Co Ltd",
+      "hubKey": "shg"
+    },
+    {
+      "ticker": "KB",
+      "kind": "equity",
+      "role": "related",
+      "name": "KB Financial Group Inc",
+      "hubKey": "kb"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106676081856287054/HTxncfjbMAAnIb6-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106676081856287054/HTxncfjbMAAnIb6-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "choblin29",
+      "tweetUrl": "https://x.com/choblin29/status/2106676081856287054"
+    }
+  },
+  "summary": "Documents from the Financial Security Institute reveal South Korea warned financial firms of AI agent attacks on Sept. 17, about two weeks before the ARTEX tool was used to breach multiple institutions. This briefing, attended by about 160 security officials, disclosed the country's first confirmed AI agent intrusion involving a DeepSeek-based tool used to exploit Oracle WebLogic systems. The CEOs of South Korea's five largest banks are now due before parliament on Oct. 19 to answer for security failures that left banks vulnerable to these campaigns.\n\nThe intrusions targeted at least nine banks, including Shinhan, KB Kookmin, and Hana Bank, exposing data of 68,000 customers. CrowdStrike attributed the attacks to a 26 year old financially motivated operator in China who combined ARTEX with Claude Code and Grok 4.6. The attacker was identified after leaving his own server open, exposing session logs and an AI-generated resume containing his personal identity and location in Guangdong. The developer of ARTEX subsequently took the tool closed source after the breaches.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107492620515881348",
+      "role": "source",
+      "authorHandle": "kyleichan",
+      "url": "https://x.com/kyleichan/status/2107492620515881348",
+      "tweetedAt": "2026-10-06T15:26:10.000Z",
+      "bestBit": "open-source Chinese AI agentic cybersecurity tool called ARTEX",
+      "text": "Apparently this is an open-source Chinese AI agentic cybersecurity tool called ARTEX. It seems to be model agnostic--meaning you can plug in your own API keys and choose which models to use.",
+      "quotedTweetText": "Hackers used a Chinese AI agent to attack South Korea’s biggest banks—one of the first such AI-powered intrusions into the global financial system https://t.co/9nRHXjXdGc"
+    },
+    {
+      "tweetId": "2108062368005521812",
+      "role": "support",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2108062368005521812",
+      "tweetedAt": "2026-10-08T05:10:09.000Z",
+      "bestBit": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
+      "text": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks https://t.co/1PmtB0Cp8U https://t.co/1PmtB0Cp8U"
+    },
+    {
+      "tweetId": "2107416055790407796",
+      "role": "source",
+      "authorHandle": "wsj",
+      "url": "https://x.com/WSJ/status/2107416055790407796",
+      "tweetedAt": "2026-10-06T10:21:56.000Z",
+      "bestBit": "one of the first such AI-powered intrusions into the global financial system",
+      "text": "Hackers used a Chinese AI agent to attack South Korea’s biggest banks—one of the first such AI-powered intrusions into the global financial system https://t.co/9nRHXjXdGc"
+    },
+    {
+      "tweetId": "2108414719715397718",
+      "role": "support",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2108414719715397718",
+      "tweetedAt": "2026-10-09T04:30:16.000Z",
+      "bestBit": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+      "text": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack https://t.co/OfncYj1p4X https://t.co/OfncYj1p4X"
+    },
+    {
+      "tweetId": "2107520433410937319",
+      "role": "commentary",
+      "authorHandle": "deanwball",
+      "url": "https://x.com/deanwball/status/2107520433410937319",
+      "tweetedAt": "2026-10-06T17:16:41.000Z",
+      "bestBit": "it does feel very early to be making these claims though",
+      "text": "@NateWitkin it does feel very early to be making these claims though.",
+      "quotedTweetText": "Hackers used a Chinese AI agent to attack South Korea’s biggest banks—one of the first such AI-powered intrusions into the global financial system https://t.co/9nRHXjXdGc"
+    },
+    {
+      "tweetId": "2108110513033093369",
+      "role": "commentary",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2108110513033093369",
+      "tweetedAt": "2026-10-08T08:21:27.000Z",
+      "bestBit": "asked, “Can you write my résumé?” That pretty much handed them all his personal information",
+      "text": "This hacker is truly legendary. A complete amateur.\n\n1. He left directory listing enabled on his own server, so researchers could figure out who he was with barely any effort.\n2. They found files like CLAUDE.md and went through his Claude Code sessions.\n3. There were questions like, “Where can I sell this data?”\n4. He’d also asked, “Can you write my résumé?” That pretty much handed them all his personal information.\n5. Apparently, he’s a student at South China University of Technology living in Guangdong. His name, phone number, and where he lives have all been identified.",
+      "quotedTweetText": "Last week some of South Korea's biggest banks were hit by a cyberattack. Thanks to a report from CrowdStrike tonight, we now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code."
+    },
+    {
+      "tweetId": "2108438980089799068",
+      "role": "analysis",
+      "authorHandle": "lukolejnik",
+      "url": "https://x.com/lukOlejnik/status/2108438980089799068",
+      "tweetedAt": "2026-10-09T06:06:40.000Z",
+      "bestBit": "Agentic AI now automates reconnaissance, exploitation and exfiltration",
+      "text": "Chinese-speaking attacker breached South Korean banks and loan-status service used by brokers. Data stolen. Cyberattack done with the use of Chinese AI agentic pentesting tool running on DeepSeek v4.1-flash  with GLM-5.3 and Grok 4.6 powering additional Claude Code sessions. A single financially motivated operator with AI did several bank intrusions but the used tooling left an unusually detailed information trail allowing to completely recreate its tracks - CLAUDE.md  briefed the incident responders. Agentic AI now automates reconnaissance, exploitation and exfiltration. Operational security remains a manual process. https://t.co/In9wisEGtl"
+    },
+    {
+      "tweetId": "2108586520924012571",
+      "role": "commentary",
+      "authorHandle": "tftc21",
+      "url": "https://x.com/TFTC21/status/2108586520924012571",
+      "tweetedAt": "2026-10-09T15:52:56.000Z",
+      "bestBit": "breach at least nine South Korean banks. More than 68,000 people had their personal financial data stolen",
+      "text": "AI just made your bank's database cheaper to rob.\n\nA threat actor used ARTEX, a Chinese open-source AI pen-testing tool running on DeepSeek v4.1-flash, along with Claude Code sessions on GLM-5.3 and Grok 4.6, to breach at least nine South Korean banks. More than 68,000 people had their personal financial data stolen.\n\nAt Shinhan Bank alone, loan-application data for 25,000 customers was taken: names, phone numbers, annual incomes, loan limits, and for 66 of them, national ID numbers.\n\nThe attacker wasn't sophisticated. CrowdStrike found open directories the actor left exposed on their own infrastructure, stuffed with Claude Code session histories and Chinese-language pentesting instructions. They asked Claude how to find Korean Telegram groups that buy breach data, then asked it to write them a security-researcher résumé.\n\nCrowdStrike assesses with moderate confidence the actor is a Chinese speaker and financially motivated but hasn't established who was behind it.\n\nNobody cracked any encryption. They just had AI try random values on a loan-status page until one opened. Tedious grunt work you hand off to a machine.\n\nSouth Korea's president said it plainly: \"We have now reached a point where AI can make hacking easy for even those without special skills.\"\n\nThese databases are honeypots. Nothing shows a KYC rule caused this specific breach, but KYC/AML policies push companies to collect and hoard exactly the kind of data that got stolen. The cost of raiding these targets is collapsing. The cost of defending them isn't.\n\nHold your own keys. Hand over as little of yourself as possible. End KYC/AML."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-artex-ai-tool-goes-closed-source-after-korean-bank-hacks-468f0eca",
+    "title": "UPDATE: ARTEX AI Tool Goes Closed Source After Korean Bank Hacks",
+    "publishedAt": "2026-10-09T07:08:59.019Z",
+    "eventTimeApprox": "2026-10-08T08:18:34.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai"
+    ],
+    "tweetCount": 64,
+    "authorCount": 38
+  }
+}

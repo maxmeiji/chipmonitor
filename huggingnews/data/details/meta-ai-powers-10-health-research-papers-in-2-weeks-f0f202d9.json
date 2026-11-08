@@ -1,0 +1,67 @@
+{
+  "slug": "meta-ai-powers-10-health-research-papers-in-2-weeks-f0f202d9",
+  "title": "Meta AI Powers 10 Health Research Papers in 2 Weeks",
+  "publishedAt": "2026-10-14T21:08:41.431Z",
+  "eventTimeApprox": "2026-10-14T19:49:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "A small cohort of medical specialists produced original research across cardiology and oncology by utilizing an AI scaffold powered by Muse Spark 1.3 and Muse Wonder. The system gave the researchers access to 5M retrospective de-identified electronic health records to accelerate hypothesis generation, code execution, and drafting. The effort resulted in 10 manuscripts in approximately two weeks, although the humans maintained full authority over all scientific decisions.\n\nMeta's health workstream designed the tools to automate the synthesis of raw data into scientific understanding, a process Jason Wei, a project lead, suggests could increase researcher productivity by 10x to 100x. The group noted that human expertise remained essential for interpreting noisy real-world data and selecting the specific variables needed for causal analysis in health science.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110441716507693450",
+      "role": "source",
+      "authorHandle": "aiatmeta",
+      "url": "https://x.com/AIatMeta/status/2110441716507693450",
+      "tweetedAt": "2026-10-14T18:44:49.000Z",
+      "bestBit": "human-led research scaffold powered by Muse Spark 1.3 and Muse Wonder with access to 5M retrospective de-identified electronic health records",
+      "text": "We’re exploring how AI can accelerate health science research.\n\nWhile AI has made significant breakthroughs in formal sciences like mathematics, health data science depends on imperfect real-world data and consequential choices about cohorts, variables, and causal assumptions.\n\nTo explore how AI can assist health researchers, we built a human-led research scaffold powered by Muse Spark 1.3 and Muse Wonder with access to 5M retrospective de-identified electronic health records and publicly available data. A cohort of medical experts used the system to conduct original research, accelerate hypothesis generation, code execution, and manuscript drafting while maintaining full authority over scientific decisions.\n\nToday, we’re sharing 10 research manuscripts produced through this exploration, spanning cardiology, oncology, infectious disease, emergency medicine, and more.\n\nRead more in our research blog: https://t.co/26l6Du6vIk"
+    },
+    {
+      "tweetId": "2110443686782013909",
+      "role": "analysis",
+      "authorHandle": "_jasonwei",
+      "url": "https://x.com/_jasonwei/status/2110443686782013909",
+      "tweetedAt": "2026-10-14T18:52:39.000Z",
+      "bestBit": "They generated ten manuscripts in around two weeks, with one researcher (Paddy Ssentongo) generating three",
+      "text": "In our health workstream at Meta we did a project where we wanted to see what research papers medical experts could write using a Muse Wonder coding scaffold that could access a database of 5M electronic health records we licensed from a vendor. The goal is that with 5M patients in this database, AI could do research to answer arbitrary questions like “did people who take statin have higher rates of diabetes later in life”? The thing we were betting on here is on what happens when you put human experts, a strong coding model, and access to data all together\n\nWe worked with a small group of medical experts to help them use this AI tool and the punchline is that they all found that this setup enabled a much faster pace of health research. They generated ten manuscripts in around two weeks, with one researcher (Paddy Ssentongo) generating three. Throughout the process, they collaborated with each other to review manuscripts and write skill files to help our coding scaffold improve at doing research. The medical experts liked how quickly they could test different hypotheses and choose the best ones to continue working on\n\nHealth research is pretty unique in that it is super important to be able to interpret noisy data and have taste to know which variables are important, which was still a significant value add from human researchers. Given that medicine is one of the oldest fields in human history and it is ultimately about humans, keeping a substantial human component in this type of research is probably important. In the near future I see AI primarily as a tool to facilitate human-led research. With the right scaffold I believe health researchers can be 10x or even 100x more productive using AI tools that have appropriate access to the wealth of data that the world has collected about human health\n\nOne way to see this work is through the broader lens of AI for science. You can think of science as two parts: (1) collecting raw data about the world, and (2) synthesizing that raw data into understanding. In this project we already had existing data about the world and we aimed to accelerate part (2) using AI. Eventually, I imagine a world where we have such great AI tools that the time to synthesize raw data into understanding is driven towards zero. In that world, science will be substantially faster and most of the work will be focused on collecting the right raw data via physical experiments\n\nWe did this in a pretty short amount of time (which was the point) and I think the future of scientific research will be more faster and more exciting than ever",
+      "quotedTweetText": "We’re exploring how AI can accelerate health science research.\n\nWhile AI has made significant breakthroughs in formal sciences like mathematics, health data science depends on imperfect real-world data and consequential choices about cohorts, variables, and causal assumptions.\n\nTo explore how AI can assist health researchers, we built a human-led research scaffold powered by Muse Spark 1.3 and Muse Wonder with access to 5M retrospective de-identified electronic health records and publicly available data. A cohort of medical experts used the system to conduct original research, accelerate hypothesis generation, code execution, and manuscript drafting while maintaining full authority over scientific decisions.\n\nToday, we’re sharing 10 research manuscripts produced through this exploration, spanning cardiology, oncology, infectious disease, emergency medicine, and more.\n\nRead more in our research blog: https://t.co/26l6Du6vIk"
+    }
+  ],
+  "isSuperseded": false
+}

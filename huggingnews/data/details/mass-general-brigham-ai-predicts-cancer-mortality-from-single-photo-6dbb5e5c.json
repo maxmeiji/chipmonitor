@@ -1,0 +1,58 @@
+{
+  "slug": "mass-general-brigham-ai-predicts-cancer-mortality-from-single-photo-6dbb5e5c",
+  "title": "Mass General Brigham AI Predicts Cancer Mortality From Single Photo",
+  "publishedAt": "2026-10-20T19:07:44.141Z",
+  "eventTimeApprox": "2026-10-20T18:39:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112614587262722201/HVGDxWsbMAAtQGR-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112614587262722201/HVGDxWsbMAAtQGR-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "maxmarchione",
+      "tweetUrl": "https://x.com/maxmarchione/status/2112614587262722201"
+    }
+  },
+  "summary": "A team in Boston created a foundation model that estimates survival rates for oncology patients based on facial biomarkers. The system analyzes a single photograph to provide a mortality risk score, turning a doctor's visual impression into a quantifiable number. A study in The Lancet Digital Health found that patients in the model's highest-risk quarter had more than three times the mortality rate of those in the lowest tier, even after adjusting for standard clinical factors. In a test cohort of 3,820 people, 64 of the 122 patients with the highest risk scores died within 90 days of their picture.\n\nThe model is not yet ready for clinical use as it was trained primarily on white patients from the Boston area using more than 40 million photos. Mass General Brigham has filed a patent for the technology, although Matthew Liao, a bioethicist at NYU, cautioned that insurers or employers could misuse the data. Lead researcher Ray Mak noted that facial analysis is more cost-effective than traditional blood tests because it requires only a smartphone rather than a lab, nurse, and refrigeration.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112604831588200916",
+      "role": "source",
+      "authorHandle": "washingtonpost",
+      "url": "https://x.com/washingtonpost/status/2112604831588200916",
+      "tweetedAt": "2026-10-20T18:00:16.000Z",
+      "bestBit": "new AI foundation model trained on more than 40 million facial photographs that can help predict mortality risk in patients with cancer",
+      "text": "Researchers say they’ve developed a new AI foundation model trained on more than 40 million facial photographs that can help predict mortality risk in patients with cancer. https://t.co/ix7AuHQwLo"
+    },
+    {
+      "tweetId": "2112617949349691860",
+      "role": "commentary",
+      "authorHandle": "martinvars",
+      "url": "https://x.com/martinvars/status/2112617949349691860",
+      "tweetedAt": "2026-10-20T18:52:24.000Z",
+      "bestBit": "In one test group of 3,820 patients, 64 of the 122 with the highest scores died within ninety days of the picture",
+      "text": "Doctors are taught to walk into a room, look at the patient and decide how sick they are. Ray Mak, a radiation oncologist at Mass General Brigham in Boston, calls that what it is: a subjective assessment. So his team turned it into a number.\n\nIn a study published yesterday in The Lancet Digital Health, they trained an AI on more than 40 million photos of faces and then taught it two things: to estimate a person's biological age, and to predict how long a cancer patient will live from a single photo. Patients in the highest-risk quarter had more than three times the mortality of those in the lowest, even after adjusting for the usual clinical factors. In one test group of 3,820 patients, 64 of the 122 with the highest scores died within ninety days of the picture. Makeup, lighting, smiling or frowning didn't fool it.\n\nIt is not ready for the clinic. The cancer model was trained mostly on white patients from the Boston area, and the hospital already has a patent pending. Matthew Liao, a bioethicist at NYU, warns that insurers or employers could use it. Fair point, but that is a question of rules about who gets to use the data, not a reason to stop the science.\n\nI spend my days building medical AI, and what strikes me is the cost. A blood test needs a lab, a nurse and a fridge. A face photo needs a phone that billions of people already carry. Some of the best biomarkers of the next decade may be the ones we already share every day without thinking.\n\nYour face has been telling doctors the truth for centuries. Now someone is finally taking notes."
+    }
+  ],
+  "isSuperseded": false
+}

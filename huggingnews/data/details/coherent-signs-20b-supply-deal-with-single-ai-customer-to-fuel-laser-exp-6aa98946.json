@@ -1,0 +1,99 @@
+{
+  "slug": "coherent-signs-20b-supply-deal-with-single-ai-customer-to-fuel-laser-exp-6aa98946",
+  "title": "Coherent Signs $20B Supply Deal With Single AI Customer to Fuel Laser Expansion",
+  "publishedAt": "2026-11-05T04:53:56.683Z",
+  "eventTimeApprox": "2026-11-04T21:10:04.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "us-markets",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "COHR",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Coherent Corp.",
+      "hubKey": "cohr"
+    }
+  ],
+  "summary": "The supplier of optical components aims to reach its first quarterly revenue total of $3B by the end of fiscal 2027, forecasting that the company's total pro forma revenue for the year will grow by more than 60%. Coherent said it has already sold out its capacity for 2027 to meet the rise in AI datacenter connectivity demand, with some existing long-term agreements extending into 2030.\n\nThis growth target is supported by a new five-year supply contract worth $20B signed with a single customer for high-power lasers. The deal follows a first-quarter revenue of $2.37B and adjusted earnings of $2.09 per share, with datacenter and communications sales jumping 79% to $1.95B. For the second quarter, Coherent forecast revenue between $2.55B and $2.75B and adjusted earnings between $2.28 and $2.48 per share.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118088134315438150",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118088134315438150",
+      "tweetedAt": "2026-11-04T21:08:58.000Z",
+      "bestBit": "FY27 Pro Forma Revenue Growth: exceeds 60%",
+      "text": "COHERENT $COHR Q1’27 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $2.37B (Est. $2.31B) 🟢; +50% YoY\n🔹 Adj. EPS: $2.09 (Est. $1.97) 🟢; +80% YoY\n🔹 Non-GAAP Oper Income: $550M (Est. $527M) 🟢\n🔹 Non-GAAP Gross Margin: 40.6% (Est. 40.4%) 🟢; +184 bps YoY\n\nQ2 Guide:\n🔹 Adj. EPS: $2.28-$2.48 (Est. $2.21) 🟢\n🔹 Non-GAAP Gross Margin: 40%-42%\n\nSegment Revenue:\n🔹 Datacenter & Communications: $1.95B (Est. $1.86B) 🟢; +79% YoY\n🔹 Industrial: $418.6M (Est. $447.5M) 🔴; -15% YoY\n\nKey Updates:\n🔹 FY27 Pro Forma Revenue Growth: exceeds 60%\n\nComments:\n🔸 “We expect fiscal 2027 pro forma revenue growth to exceed 60%.”\n\n🔸 “We expect to achieve our first quarter with non-GAAP gross margin above 45% before the end of calendar 2028.”"
+    },
+    {
+      "tweetId": "2118088414209638647",
+      "role": "support",
+      "authorHandle": "marketnews_feed",
+      "url": "https://x.com/MarketNews_Feed/status/2118088414209638647",
+      "tweetedAt": "2026-11-04T21:10:04.000Z",
+      "bestBit": "SEES Q2 REV: $2.55B TO $2.75B (EST $2.55B)",
+      "text": "$COHR | COHERENT CORP Q1 27 EARNINGS:\n• REV: $2.37B (EST $2.31B)\n• ADJ EPS: $2.09 (EST $2.02)\n• NON-GAAP OPER INCOME: $550M (EST $531.5M)\n• SEES Q2 REV: $2.55B TO $2.75B (EST $2.55B)\n• SEES Q2 ADJ EPS: $2.28 TO $2.48 (EST $2.24)\n• SEES Q2 ADJ GROSS MARGIN: 40% TO 42% (EST 40.8%)"
+    },
+    {
+      "tweetId": "2118088911536967731",
+      "role": "analysis",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2118088911536967731",
+      "tweetedAt": "2026-11-04T21:12:03.000Z",
+      "bestBit": "Two days ago $MRVL agreed to buy $LITE, Coherent's biggest rival in AI lasers.",
+      "text": "$COHR earnings:\n- Revenue: $2.37bn vs $2.31bn est 🟢- - EPS: $2.09 vs $2.02 est 🟢\n- Q2 revenue guide: $2.55–2.75bn vs $2.55bn est 🟢\n- Q2 EPS guide: $2.28–2.48 vs $2.24 est 🟢\n- Q2 gross margin guide: 40–42% vs 40.8% est 🟢\n\nCoherent just did $2.37bn in a quarter, up about 50% from a year ago and beat on revenue, EPS and operating income. \n\nThen it guided next quarter well above the Street, with even the bottom of the range matching what analysts expected.\n\nThe margin worry has been the big debate on this stock. \n\nInvestors feared lower margin transceivers would cap gross margin near 40%. Management just guided 40–42%, with the midpoint above consensus. In our view, that debate is getting answered quarter by quarter and will be dead by the next one! \n\nThe timing is perfect too. Two days ago $MRVL agreed to buy $LITE, Coherent's biggest rival in AI lasers. \n\nEvery customer that competes with Marvell now has a reason to put more of its business with Coherent. \n\nAI clusters need more optics every generation, and only a handful of companies can make them at scale. Coherent is one of them and it keeps beating. Overweight, $385 PT.",
+      "quotedTweetText": "$COHR earnings preview:\n- Revenue guide: $2.2–2.4bn (+45% y/y)\n- EPS guide: $1.85–2.05 (vs $1.16 y/y)\n\n$MRVL just bought $LITE, Coherent's biggest rival in AI optics. Anyone who competes with Marvell now needs a second source for lasers and in our view that's Coherent. Overweight, $385 PT."
+    },
+    {
+      "tweetId": "2118200689453314341",
+      "role": "commentary",
+      "authorHandle": "aleabitoreddit",
+      "url": "https://x.com/aleabitoreddit/status/2118200689453314341",
+      "tweetedAt": "2026-11-05T04:36:13.000Z",
+      "bestBit": "Massive new $20B 5Y LTA, anchored by UHP CW lasers, with other optical products mixed in",
+      "text": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ: Loop Capital asked about 2028 laser industry oversupply.\n\nA: No oversupply risk by 2028. Coherent’s entire current internal InP production is consumed by its own products while its expanding capacity.\n\nQ: On Chinese laser competition for CPO UHP lasers\n\nA: “We really only have one competitor” (hinting at $LITE). \n\nQ: On financing concerns for capacity expansion during this market scare\n\nA: Customer LTAs have prepayments, which are used for product capacity orders\n\n2027 completely sold out, LTAs extend to 2030, customers placing orders into 2028.\n\nQ: On laser technology for CPO scale up from Bernstein, whether it’s VCSELs or CW lasers.\n\nA: CW for CPO scale out and scale up for 2026-2027.\n\n2029-2030 sees scale in and chip to chip using micro-VCSELs, and 2028 opportunities for NPO scale up.\n\nSo technology of choice is CW for CPO.\n\n- Coherent is seeing pricing power and raising margin targets, supporting view optical players get additional leverage for margin expansion\n\n- Massive new $20B 5Y LTA, anchored by UHP CW lasers, with other optical products mixed in\n\n- demand comes from growth in DC and conversion of copper interconnects to optics. The latter is bandwidth requirements, independent of DC growth.\n\nslower compute growth can coexist with sharply rising optical content per system\n\nTLDR:\n\n- nothing quite showing optical demand like $20B in LTAs anchored by high power lasers from 1 customer alone (not your frontier labs type commitments)\n\n- no industry wide laser oversupply risk by 2028 for InP lasers/EML \n\n- financing funded by revenue from LTAs and purchase orders.\n\n- doesn’t see Chinese competition for high end lasers, commentary casts doubts over China capability + capacity expansion claims\n\n- CW lasers weapon of choice for CPO, blended margins going up for optical players\n\n- optics more isolated in the event of a DC slowdown \n\nQuite wild to see fundamentals of optical players improve so much, while overall valuations crash."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "coherents-datacenter-business-drives-first-quarter-revenue-growth-to-237-cbe5df35",
+    "title": "Coherent's Datacenter Business Drives First Quarter Revenue Growth to $2.37B",
+    "publishedAt": "2026-11-04T21:24:52.780Z",
+    "eventTimeApprox": "2026-11-04T21:09:56.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "tech",
+      "us-markets",
+      "ai"
+    ],
+    "tweetCount": 8,
+    "authorCount": 6
+  }
+}

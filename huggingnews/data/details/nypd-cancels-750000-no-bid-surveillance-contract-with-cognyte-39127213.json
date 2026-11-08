@@ -1,0 +1,79 @@
+{
+  "slug": "nypd-cancels-750000-no-bid-surveillance-contract-with-cognyte-39127213",
+  "title": "NYPD Cancels $750,000 No-Bid Surveillance Contract With Cognyte",
+  "publishedAt": "2026-10-28T01:39:03.635Z",
+  "eventTimeApprox": "2026-10-28T00:26:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "business",
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-domestic-policy",
+      "name": "US Domestic Policy"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CGNT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cognyte Software Ltd. Ordinary Shares",
+      "hubKey": "cgnt"
+    }
+  ],
+  "summary": "The New York City Police Department will restart the procurement process for a cell-site simulator after abandoning a proposed deal for phone-tracking technology with the Israeli firm Cognyte. The $750,000 agreement for the FalcoNet AI-driven tracker, which can be hidden in backpacks or mounted on vehicles to mimic cell towers, was structured as a three year no-bid contract.\n\nA police department spokesperson said the procurement did not meet sole-source criteria, prompting the city to move toward an open bidding process. The decision follows reporting by the New York Daily News and subsequent pushback facing Mayor Zohran Mamdani's administration, although the NYPD continues to seek the surveillance technology.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115226462542238112",
+      "role": "source",
+      "authorHandle": "josiestratman",
+      "url": "https://x.com/JosieStratman/status/2115226462542238112",
+      "tweetedAt": "2026-10-27T23:37:42.000Z",
+      "bestBit": "It did not meet the criteria for a sole source procurement, so we are moving to an open, competitive procurement process",
+      "text": "Mamdani admin now backing away from a $750k no-bid contract w/ Israeli surveillance firm (after a Daily News report).\n\n“It did not meet the criteria for a sole source procurement, so we are moving to an open, competitive procurement process” PD spox sez\nhttps://t.co/3RpV3FmWzH"
+    },
+    {
+      "tweetId": "2115227575635394631",
+      "role": "commentary",
+      "authorHandle": "ryangrim",
+      "url": "https://x.com/ryangrim/status/2115227575635394631",
+      "tweetedAt": "2026-10-27T23:42:07.000Z",
+      "bestBit": "NYPD backing away from its no-bid contract with an Israeli surveillance firm after pushback.",
+      "text": "!! NYPD backing away from its no-bid contract with an Israeli surveillance firm after pushback.",
+      "quotedTweetText": "Mamdani admin now backing away from a $750k no-bid contract w/ Israeli surveillance firm (after a Daily News report).\n\n“It did not meet the criteria for a sole source procurement, so we are moving to an open, competitive procurement process” PD spox sez\nhttps://t.co/3RpV3FmWzH"
+    },
+    {
+      "tweetId": "2115250157088326085",
+      "role": "support",
+      "authorHandle": "dropsitenews",
+      "url": "https://x.com/DropSiteNews/status/2115250157088326085",
+      "tweetedAt": "2026-10-28T01:11:51.000Z",
+      "bestBit": "The three-year deal was for Cognyte's FalcoNet, an AI-driven tracker that can be mounted on police cars and drones or hidden in a backpack.",
+      "text": "🚨 The NYPD has backed away from a $750,000 no-bid contract with Israeli surveillance firm Cognyte after New York City Mayor Zohran Mamdani faced backlash over the deal, the New York Daily News reported.\n\nThe department confirmed it is restarting the procurement process and will accept competing bids for the technology, a cell-site simulator that mimics a cell tower to locate and track phones.\n\nThe three-year deal was for Cognyte's FalcoNet, an AI-driven tracker that can be mounted on police cars and drones or hidden in a backpack. Mamdani's office had said it was \"reviewing the proposed contract.\"\n\nThe move reopens the contract to other bidders but doesn't drop the technology itself. Full story linked in reply.",
+      "quotedTweetText": "⚡️ Mayor Zohran Mamdani's NYPD is poised to sign a three-year, $750,500 no-bid contract with Israeli surveillance firm Cognyte for FalcoNet, an AI-driven device that mimics a cell tower to track phones and can be mounted on police cars and drones or hidden in a backpack, the New York Daily News reported.\n\nCognyte won a tender to sell intercept spyware to Myanmar's state telecom weeks before the 2021 military coup, Reuters previously reported. Meta banned the firm the same year, saying its customers used fake accounts to target journalists and politicians in Kenya, Mexico and Indonesia.\n\nThe firm is part of an Israeli surveillance industry that grew big as a result of the military's monitoring of Palestinians, whose phone calls Israel's Unit 8200 has intercepted and stored by the millions, including to carry out genocide in Gaza and enforce a brutal illegal occupation in Jerusalem and the West Bank."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "firmus-abandons-5b-australia-ipo-over-30b-ai-valuation-c2771407",
+  "title": "Firmus Abandons $5B Australia IPO Over $30B AI Valuation",
+  "publishedAt": "2026-10-10T16:09:54.271Z",
+  "eventTimeApprox": "2026-10-09T01:18:30.500Z",
+  "isFreshStory": false,
+  "tweetCount": 63,
+  "authorCount": 33,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "JPM",
+      "kind": "equity",
+      "role": "related",
+      "name": "JPMorgan Chase & Co.",
+      "hubKey": "jpm"
+    },
+    {
+      "ticker": "MS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Morgan Stanley",
+      "hubKey": "ms"
+    },
+    {
+      "ticker": "BAC",
+      "kind": "equity",
+      "role": "related",
+      "name": "Bank of America Corporation",
+      "hubKey": "bac"
+    }
+  ],
+  "summary": "The Nvidia-backed operator of Firmus Grid withdrew its bid to list on the Australian Securities Exchange this week after global fund managers rejected the proposed price of its shares. The company had sought to raise up to $5.5 billion at a valuation of $30.6 billion, but investors balked at the figures given that Firmus reported only $50.8 million in revenue and a $68.2 million loss for fiscal year 2026. Operational data center capacity stood at 46 MW against more than 900 MW contracted, leading JPM, Morgan Stanley, and BofA to explore share price cuts from A$11 to A$8.25 before the deal collapsed.\n\nFirmus is now pursuing private capital to finance Nvidia GPU purchases for an Indonesian data center project with DayOne Data Centers. The failed listing, which would have been the second-largest in Australia's history, follows the collapse of a 1.6 GW partnership with CDC and scrutiny over a co-founder's prior prison sentence for insider trading. Analysts suggest the flop is an ominous sign for other AI infrastructure firms as public markets begin to reject high valuations for companies lacking significant revenue.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107959254334492905",
+      "role": "source",
+      "authorHandle": "markdistef",
+      "url": "https://x.com/MarkDiStef/status/2107959254334492905",
+      "tweetedAt": "2026-10-07T22:20:24.000Z",
+      "bestBit": "Firmus now looking for bids at $8",
+      "text": "It was 11. \n\nThen 9. \n\nFirmus now looking for bids at $8… https://t.co/1XIRF614IM"
+    },
+    {
+      "tweetId": "2108368118083195262",
+      "role": "source",
+      "authorHandle": "jg_nuke",
+      "url": "https://x.com/JG_Nuke/status/2108368118083195262",
+      "tweetedAt": "2026-10-09T01:25:05.000Z",
+      "bestBit": "In FY2026 Firmus lost $68 million on $51 million in revenue",
+      "text": "In FY2026 Firmus lost $68 million on $51 million in revenue.  Firmus has $30 billion in debt. Firmus has 46 MW of installed datacenter capacity. Firmus wants a  $44 billion IPO valuation.\n\nFirmus just called off their IPO.\n\nYa think? https://t.co/nmePnmjLpJ"
+    },
+    {
+      "tweetId": "2108341712963690612",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2108341712963690612",
+      "tweetedAt": "2026-10-08T23:40:10.000Z",
+      "bestBit": "ominous sign for other proposed listings, coming after a string of disappointing debuts for artificial intelligence infrastructure firms",
+      "text": "The expected postponement of Nvidia-backed data center company Firmus’s Australian IPO is an ominous sign for other proposed listings, coming after a string of disappointing debuts for artificial intelligence infrastructure firms https://t.co/4pgmohAq3N"
+    },
+    {
+      "tweetId": "2108363733823050026",
+      "role": "commentary",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2108363733823050026",
+      "tweetedAt": "2026-10-09T01:07:40.000Z",
+      "bestBit": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+      "text": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility https://t.co/e2Xuh5Yp41"
+    },
+    {
+      "tweetId": "2108558154892288159",
+      "role": "commentary",
+      "authorHandle": "rhouseresearch",
+      "url": "https://x.com/RHouseResearch/status/2108558154892288159",
+      "tweetedAt": "2026-10-09T14:00:13.000Z",
+      "bestBit": "demand at $30B+ USD.. when they just raised at $10.5B USD two months ago",
+      "text": "I mean in what universe did Firmus actually think there was demand at $30B+ USD.. when they just raised at $10.5B USD two months ago..? https://t.co/5RTrVxN8JG"
+    },
+    {
+      "tweetId": "2108582955790573823",
+      "role": "commentary",
+      "authorHandle": "matthew_sigel",
+      "url": "https://x.com/matthew_sigel/status/2108582955790573823",
+      "tweetedAt": "2026-10-09T15:38:46.000Z",
+      "bestBit": "Bankers reportedly stood to collect A$215M in fees and explored a 50% price cut before abandoning the deal",
+      "text": "Good riddance to Firmus' failed $30B IPO and shame on the lead bankers (JPM, MS, BofA) who tried to dump this crap on public investors.\n\nThe failure hammered public data center stocks yesterday, but longer term, it's healthy for the sector that investors rejected this extractive structure:\n\n>58% of shares freely tradable from day 1, with no lock-up restrictions, despite a capital-intensive business needing years of funding.\n>Only ~46MW operational against 900MW+ contracted.\n>Valuation nearly tripled in two months, to $30B equity; wildly overpriced vs public comps\n>Founder and co-CEO previously served prison time for insider trading.\n>Major 1.6GW development partnership with CDC fell apart during the bookbuild.\n>Bankers reportedly stood to collect A$215M in fees and explored a 50% price cut before abandoning the deal.\n\nPublic shareholders shouldn't be expected to provide overpriced exit liquidity for insiders while underwriting nearly all the execution risk.\n\nEstablished listed operators with access to capital markets, proven execution and funded development pipelines should take share from these less disciplined private competitors as capital becomes more discriminating.\n\nLet this be a lesson to boards and investment bankers across the sector.\n\nGood work to the market for pushing back on this 💩"
+    },
+    {
+      "tweetId": "2108598178652311605",
+      "role": "commentary",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2108598178652311605",
+      "tweetedAt": "2026-10-09T16:39:16.000Z",
+      "bestBit": "Firmus had only 46 MW of operational capacity out of more than 900 MW contracted",
+      "text": "$30 BILLION valuation and the IPO collapsed in less than 48 hours.\n\nAn Nvidia backed Australian AI data center company, Firmus Grid, was looking to go public at a valuation nearly 3X what it was worth less than three months ago.\n\nThe company was hoping to raise roughly $5.5 billion, but investors weren't willing to pay that price, forcing it to abandon the IPO.\n\nAnd I can see why.\n\nAccording to the FT, Firmus had only 46 MW of operational capacity out of more than 900 MW contracted.\n\nIn other words, investors were being asked to pay an enormous premium for infrastructure that largely hasn't even been built yet.\n\nTo me, this looks more like a poorly priced IPO than any fundamental problem with the broader AI infrastructure industry.\n\nI remain extremely bullish on AI infrastructure demand, but that doesn't mean every company deserves a $30 billion valuation just because it has ambitious data center expansion plans.\n\nThere's a HUGE difference between having contracted power, actually deploying that capacity, and generating meaningful revenue from it.\n\nAnd that's exactly why I continue to focus on execution, customer demand, financing and actual deployments when evaluating companies like $NBIS, $CRWV and $IREN.\n\nThe AI infrastructure boom can continue growing while individual companies struggle to justify their valuations.\n\nBoth things can be true."
+    },
+    {
+      "tweetId": "2108600628029087984",
+      "role": "analysis",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2108600628029087984",
+      "tweetedAt": "2026-10-09T16:49:00.000Z",
+      "bestBit": "Firmus pulled its $5 billion IPO on Friday, citing market volatility and bad offering terms",
+      "text": "🦔Nvidia-backed Firmus pulled its $5 billion IPO on Friday, citing market volatility and bad offering terms. The Australian AI data center builder wanted a $30.6 billion valuation, roughly triple what investors paid in August.\n\nMy Take\nFirmus brought in $50.8 million in revenue last fiscal year and lost $68.2 million. It runs two data centers and needs about $37.7 billion to build five more. Asking public investors to pay $30.6 billion for that was a huge swing, and Australian fund managers said so in the press all week before the deal fell apart.\n\nFirmus was also one of the first companies to sign up for Nvidia's offer to rent back unused chips if customers don't show up. Even with the biggest name in AI standing behind it, buyers still said no at that price. I think the IPO window is closing for AI infrastructure companies without serious revenue, and I expect the next neocloud listings, like Nscale and Lambda, to face the same hard questions.\n\nHedgie🤗"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "firmus-withdraws-asx-listing-to-seek-private-capital-a11d356d",
+    "title": "Firmus Withdraws ASX Listing to Seek Private Capital",
+    "publishedAt": "2026-10-08T22:56:32.542Z",
+    "eventTimeApprox": "2026-10-08T15:40:38.500Z",
+    "routingTopicKeys": [
+      "startups",
+      "business",
+      "ai"
+    ],
+    "tweetCount": 47,
+    "authorCount": 28
+  }
+}

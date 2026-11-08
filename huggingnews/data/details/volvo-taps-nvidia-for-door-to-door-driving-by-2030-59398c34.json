@@ -1,0 +1,73 @@
+{
+  "slug": "volvo-taps-nvidia-for-door-to-door-driving-by-2030-59398c34",
+  "title": "Volvo Taps Nvidia for Door to Door Driving by 2030",
+  "publishedAt": "2026-10-15T18:39:49.930Z",
+  "eventTimeApprox": "2026-10-15T18:13:23.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "automobile",
+      "name": "Automobile"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110799078497960084/HUsQe6aXEAAAZuT-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110799078497960084/HUsQe6aXEAAAZuT-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "nvidia",
+      "tweetUrl": "https://x.com/nvidia/status/2110799078497960084"
+    }
+  },
+  "summary": "Volvo Cars will introduce a point-to-point autonomous system in its next-generation vehicles through an expanded partnership with Nvidia. The system will allow cars to navigate door to door across highways, busy city streets, and parking areas using Nvidia's Hyperion sensors and computer, Halos OS, and Alpamayo driving software.\n\nThe automaker aims to launch a Level 2++ hands-free driving system by 2030, gradually rolling out \"eyes-off\" and \"mind-off\" capabilities. The initiative combines Volvo's safety expertise with Nvidia's AI to move beyond current driver-assist features toward full automation in urban and rural environments.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110799078497960084",
+      "role": "source",
+      "authorHandle": "nvidia",
+      "url": "https://x.com/nvidia/status/2110799078497960084",
+      "tweetedAt": "2026-10-15T18:24:51.000Z",
+      "bestBit": "Volvo’s safety expertise will come together with the NVIDIA Hyperion, Halos OS and Alpamayo Stack driving software, debuting in a next-generation Volvo car.",
+      "text": "When the brand synonymous with car safety for almost 100 years teams up with AI, amazing things happen. 🚗\n\nWe’re expanding our partnership with Volvo Cars to advance safe automated driving: Volvo’s safety expertise will come together with the NVIDIA Hyperion, Halos OS and Alpamayo Stack driving software, debuting in a next-generation Volvo car.\n\nRead the news: https://t.co/NrqeVYGLC4"
+    },
+    {
+      "tweetId": "2110796192837746785",
+      "role": "support",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2110796192837746785",
+      "tweetedAt": "2026-10-15T18:13:23.000Z",
+      "bestBit": "\"Eyes-off\" and \"mind-off\" driving will roll out gradually",
+      "text": "VOLVO CARS IS EXPANDING ITS PARTNERSHIP WITH NVIDIA $NVDA ON SELF-DRIVING TECH\n\nFuture Volvos will use Nvidia's hardware and software to drive door to door, per Volvo Cars.\n\n- Covers highways, busy city streets, and parking\n- Uses Nvidia's Hyperion sensors and computer, Halos OS, and Alpamayo driving software\n- Debuts in a next-generation Volvo car\n- \"Eyes-off\" and \"mind-off\" driving will roll out gradually"
+    }
+  ],
+  "isSuperseded": false
+}

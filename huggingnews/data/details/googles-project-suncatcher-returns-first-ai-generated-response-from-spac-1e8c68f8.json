@@ -1,0 +1,73 @@
+{
+  "slug": "googles-project-suncatcher-returns-first-ai-generated-response-from-spac-1e8c68f8",
+  "title": "Google's Project Suncatcher Returns First AI-Generated Response From Space",
+  "publishedAt": "2026-10-30T17:23:37.218Z",
+  "eventTimeApprox": "2026-10-30T17:11:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 56,
+  "authorCount": 42,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "The Tensor Processing Unit (TPU) aboard a prototype satellite from Google's Project Suncatcher initiative answered an AI prompt transmitted from Earth. The orbiting craft booted its onboard hardware to process the request and transmitted a haiku back to ground stations, marking the company's first complete AI-generated response returned from space.\n\nThe craft was launched several weeks ago to evaluate the capability of the company's custom AI hardware to perform inference in an orbital environment. The trial confirmed the hardware could boot and operate in space to handle commands and return data independently from terrestrial processing.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116214866444943853",
+      "role": "source",
+      "authorHandle": "sundarpichai",
+      "url": "https://x.com/sundarpichai/status/2116214866444943853",
+      "tweetedAt": "2026-10-30T17:05:16.000Z",
+      "bestBit": "successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - a haiku!",
+      "text": "A ‘hello world’ milestone for Project Suncatcher 🚀\n\nAfter launching our prototype satellite a few weeks ago, we’ve now successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - a haiku! https://t.co/kOFmETUskm"
+    },
+    {
+      "tweetId": "2116215659214561518",
+      "role": "engagement",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2116215659214561518",
+      "tweetedAt": "2026-10-30T17:08:25.000Z",
+      "bestBit": "Cool",
+      "text": "Cool",
+      "quotedTweetText": "A ‘hello world’ milestone for Project Suncatcher 🚀\n\nAfter launching our prototype satellite a few weeks ago, we’ve now successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - a haiku! https://t.co/kOFmETUskm"
+    },
+    {
+      "tweetId": "2116217212763881748",
+      "role": "commentary",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2116217212763881748",
+      "tweetedAt": "2026-10-30T17:14:35.000Z",
+      "bestBit": "Google has reported being able to prompt a TPU running on a satellite as part of its Suncatcher Project.",
+      "text": "GOOGLE 🔥: AI is running in space now! Google has reported being able to prompt a TPU running on a satellite as part of its Suncatcher Project. \n\nShould've been a \"pelican on a bike\" test 👀 https://t.co/sITZQhuYwY"
+    }
+  ],
+  "isSuperseded": false
+}

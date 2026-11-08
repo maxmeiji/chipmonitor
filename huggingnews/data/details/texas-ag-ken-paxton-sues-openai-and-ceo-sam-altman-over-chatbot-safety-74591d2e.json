@@ -1,0 +1,69 @@
+{
+  "slug": "texas-ag-ken-paxton-sues-openai-and-ceo-sam-altman-over-chatbot-safety-74591d2e",
+  "title": "Texas AG Ken Paxton Sues OpenAI and CEO Sam Altman Over Chatbot Safety",
+  "publishedAt": "2026-10-23T20:53:28.497Z",
+  "eventTimeApprox": "2026-10-23T19:44:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113702968616759352/HVVhpNxW0AI_cND-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113702968616759352/HVVhpNxW0AI_cND-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "breannamorello",
+      "tweetUrl": "https://x.com/BreannaMorello/status/2113702968616759352"
+    }
+  },
+  "summary": "The top legal official in Texas filed a lawsuit against OpenAI and its chief executive, Ken Paxton alleging that the creators of the ChatGPT chatbot misled customers about the tool's safety and reliability. The suit claims the company failed to protect users, including children, from harm caused by the artificial intelligence assistant.\n\nPaxton is the 10th attorney general in the US to launch legal action against OpenAI regarding safety issues.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113703742780428516",
+      "role": "source",
+      "authorHandle": "kenpaxtontx",
+      "url": "https://x.com/KenPaxtonTX/status/2113703742780428516",
+      "tweetedAt": "2026-10-23T18:46:57.000Z",
+      "bestBit": "I sued OpenAI and its CEO Sam Altman for lying to users and harming Texans.",
+      "text": "BREAKING: I sued OpenAI and its CEO Sam Altman for lying to users and harming Texans. https://t.co/hFFiZBTDCZ"
+    },
+    {
+      "tweetId": "2113732289091748151",
+      "role": "support",
+      "authorHandle": "politico",
+      "url": "https://x.com/politico/status/2113732289091748151",
+      "tweetedAt": "2026-10-23T20:40:23.000Z",
+      "bestBit": "Texas sues OpenAI, Sam Altman over product safety",
+      "text": "Texas sues OpenAI, Sam Altman over product safety https://t.co/DaVpKtQclc"
+    }
+  ],
+  "isSuperseded": false
+}

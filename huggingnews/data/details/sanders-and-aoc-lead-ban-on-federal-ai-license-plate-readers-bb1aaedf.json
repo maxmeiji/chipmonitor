@@ -1,0 +1,58 @@
+{
+  "slug": "sanders-and-aoc-lead-ban-on-federal-ai-license-plate-readers-bb1aaedf",
+  "title": "Sanders and AOC Lead Ban on Federal AI License Plate Readers",
+  "publishedAt": "2026-10-02T15:11:01.502Z",
+  "eventTimeApprox": "2026-10-02T13:53:35.000Z",
+  "isFreshStory": false,
+  "tweetCount": 25,
+  "authorCount": 20,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-legislation",
+      "name": "US Legislation"
+    }
+  ],
+  "summary": "Senators Bernie Sanders and Jeff Merkley and Rep. Alexandria Ocasio-Cortez introduced legislation on Oct. 2 to ban the use of automatic license plate readers by federal agencies. The Ban Flock Act would also strip federal funding from state and local governments that deploy the AI surveillance technology to track Americans across the country.\n\nThe bill specifically targets cameras utilized for automatic license plate recognition (ALPR) in an effort to stop the proliferation of these tools. By restricting federal access and removing financial incentives for local municipalities, the lawmakers intend to make the operation of such surveillance systems untenable.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106019768931082635",
+      "role": "source",
+      "authorHandle": "moreperfectus",
+      "url": "https://x.com/MorePerfectUS/status/2106019768931082635",
+      "tweetedAt": "2026-10-02T13:53:35.000Z",
+      "bestBit": "The Ban Flock Act would prohibit federal agencies from using automatic license plate readers (ALPRs) and block federal funding from state and local governments that use this technology",
+      "text": "BREAKING: Bernie Sanders, AOC, and Jeff Merkley are introducing the Ban Flock Act.\n\nThis bill would effectively put an end to AI surveillance cameras that track Americans.\n\nThe Ban Flock Act would prohibit federal agencies from using automatic license plate readers (ALPRs) and block federal funding from state and local governments that use this technology, making it untenable for these AI surveillance cameras to continue proliferating across the country."
+    },
+    {
+      "tweetId": "2106033587547943227",
+      "role": "support",
+      "authorHandle": "politico",
+      "url": "https://x.com/politico/status/2106033587547943227",
+      "tweetedAt": "2026-10-02T14:48:30.000Z",
+      "bestBit": "Sanders, AOC, Merkley propose bill to ban Flock cameras",
+      "text": "Sanders, AOC, Merkley propose bill to ban Flock cameras https://t.co/u4Ea3zjshA"
+    }
+  ],
+  "isSuperseded": false
+}

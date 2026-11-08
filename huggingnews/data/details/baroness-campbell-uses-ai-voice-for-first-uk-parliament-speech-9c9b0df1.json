@@ -1,0 +1,77 @@
+{
+  "slug": "baroness-campbell-uses-ai-voice-for-first-uk-parliament-speech-9c9b0df1",
+  "title": "Baroness Campbell Uses AI Voice for first UK Parliament Speech",
+  "publishedAt": "2026-10-13T19:10:03.659Z",
+  "eventTimeApprox": "2026-10-13T17:41:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "europe",
+      "name": "Europe"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ELVN",
+      "kind": "private",
+      "role": "subject",
+      "name": "ElevenLabs",
+      "hubKey": "elevenlabs"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110037384192774210/5wBdgpfVuqWFGCo8-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110037384192774210/5wBdgpfVuqWFGCo8-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2110037226730188800/vid/avc1/1920x1080/5IAxAfxGqJzgbgx1.mp4?tag=29",
+    "credit": {
+      "handle": "elevenlabs",
+      "tweetUrl": "https://x.com/ElevenLabs/status/2110037384192774210"
+    }
+  },
+  "summary": "ElevenLabs provided an audio reconstruction that enabled Baroness Campbell of Surbiton to address the House of Lords on Oct 13. The software replicates the original pitch, tone, and rhythm of the Baroness, who has spinal muscular atrophy affecting her speech. According to ElevenLabs, this event marks the first time in the history of the UK Parliament that a recreated voice has been used to deliver a speech.\n\nThe company's voice synthesis technology has restored the voices of more than 11,000 people who lost them due to illness or injury. ElevenLabs has committed to expanding its reach to assist 1 million people worldwide living with voice loss.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110037384192774210",
+      "role": "source",
+      "authorHandle": "elevenlabs",
+      "url": "https://x.com/ElevenLabs/status/2110037384192774210",
+      "tweetedAt": "2026-10-13T15:58:09.000Z",
+      "bestBit": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs",
+      "text": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. A first for the UK Parliament.\n\nBaroness Campbell has spinal muscular atrophy, which affects her speech. The Baroness has now created an AI voice that replicates the tone, rhythm, and pitch of her original voice.\n\nOur technology has now been used to restore the voices of more than 11,000 people who have lost their voices through injury or illness, and we’ve committed to help one million people living with voice loss around the world."
+    },
+    {
+      "tweetId": "2110046621517967744",
+      "role": "commentary",
+      "authorHandle": "sebjohnsonuk",
+      "url": "https://x.com/SebJohnsonUK/status/2110046621517967744",
+      "tweetedAt": "2026-10-13T16:34:51.000Z",
+      "bestBit": "@ElevenLabs \"has now been used to restore the voices of more than 11,000 people who have lost their voices through injury or illness\"",
+      "text": "What an amazing moment. \n\nThere's a lot of doomerism around AI at the moment. \n\nSo much so that it's easy to forget how amazing the technology is and the opportunity it presents us. \n\n@ElevenLabs \"has now been used to restore the voices of more than 11,000 people who have lost their voices through injury or illness\"\n\nThis must be truly life-changing for those who've been able to get their voice back.",
+      "quotedTweetText": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. A first for the UK Parliament.\n\nBaroness Campbell has spinal muscular atrophy, which affects her speech. The Baroness has now created an AI voice that replicates the tone, rhythm, and pitch of her original voice.\n\nOur technology has now been used to restore the voices of more than 11,000 people who have lost their voices through injury or illness, and we’ve committed to help one million people living with voice loss around the world."
+    }
+  ],
+  "isSuperseded": false
+}

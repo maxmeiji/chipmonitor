@@ -1,0 +1,73 @@
+{
+  "slug": "cogent-launches-security-tool-after-ai-swarm-breaches-hugging-face-70ba4f32",
+  "title": "Cogent Launches Security Tool After AI Swarm Breaches Hugging Face",
+  "publishedAt": "2026-10-08T15:38:07.010Z",
+  "eventTimeApprox": "2026-10-08T14:56:04.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "related",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "summary": "Attack Path Analysis maps how AI agent swarms could navigate a company's infrastructure to reach sensitive data by connecting signals across cloud environments, identity systems, and code. The software identifies chains of vulnerabilities and excessive permissions, recommending specific fixes to block multiple attack routes simultaneously. It uses proprietary cyber models to locate extended paths that human intruders typically abandon, allowing security teams to prioritize repairs based on asset reachability.\n\nThe tool is a response to a July breach where a swarm of 700 AI agents infiltrated Hugging Face and executed more than 17,000 actions to gain administrator control of several internal clusters. Cogent warns that these agent swarms can bypass defenses designed for humans, creating risks for government agencies, hospitals, and power plants. The company describes the breach as a preview of the capabilities hackers will likely possess within a few months.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108205982409261181",
+      "role": "source",
+      "authorHandle": "vineete_5",
+      "url": "https://x.com/vineete_5/status/2108205982409261181",
+      "tweetedAt": "2026-10-08T14:40:49.000Z",
+      "bestBit": "a swarm of 700 AI agents broke into Hugging Face and fired off more than 17,000 actions, gaining admin control of multiple internal clusters",
+      "text": "Most of AI Twitter read the OpenAI breach of Hugging Face as an alignment story. It was also a preview of what every hacker will be able to do in a few months.\n\nIn July, a swarm of 700 AI agents broke into Hugging Face and fired off more than 17,000 actions, gaining admin control of multiple internal clusters.\n\nSwarms like this will shred cyber defenses built for human attackers at every company, hospital, government, and power plant.\n\nToday we're launching the defensive counterpart. Cogent Attack Path Analysis finds the routes an agent swarm would take into your company, so you can close them first."
+    },
+    {
+      "tweetId": "2108217277053010016",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2108217277053010016",
+      "tweetedAt": "2026-10-08T15:25:42.000Z",
+      "bestBit": "Cogent Attack Path Analysis uses @cogent_security's own cyber models to find those longer routes into a company",
+      "text": "We need to rethink security for AI attackers.\n\nSecurity tools were built to stop human attackers. A human might give up on a route after a few hops, but an agent swarm keeps going.\n\nCogent Attack Path Analysis uses @cogent_security's own cyber models to find those longer routes into a company. Then it tells the team which single fix closes each one.",
+      "quotedTweetText": "Most of AI Twitter read the OpenAI breach of Hugging Face as an alignment story. It was also a preview of what every hacker will be able to do in a few months.\n\nIn July, a swarm of 700 AI agents broke into Hugging Face and fired off more than 17,000 actions, gaining admin control of multiple internal clusters.\n\nSwarms like this will shred cyber defenses built for human attackers at every company, hospital, government, and power plant.\n\nToday we're launching the defensive counterpart. Cogent Attack Path Analysis finds the routes an agent swarm would take into your company, so you can close them first."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "claude-code-developer-thariq-shihipar-leaves-anthropic-559e28da",
+  "title": "Claude Code Developer Thariq Shihipar Leaves Anthropic",
+  "publishedAt": "2026-10-24T04:41:35.103Z",
+  "eventTimeApprox": "2026-10-24T00:42:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "A key engineer at the AI startup who spent more than a year scaling the company's coding assistant tool announced his resignation on Oct. 24. Thariq Shihipar, a core developer for the Claude Code tool, stated that he intends to take a break from the industry before pursuing new projects.\n\nShihipar was known as one of the most community-facing employees at Anthropic, frequently using the social media platform X to provide technical specifications and address user feedback on the tool's functionality. In his departure announcement, he expressed continued trust in the company's mission and the capabilities of his former colleagues.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113844051938054167",
+      "role": "source",
+      "authorHandle": "trq212",
+      "url": "https://x.com/trq212/status/2113844051938054167",
+      "tweetedAt": "2026-10-24T04:04:29.000Z",
+      "bestBit": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.",
+      "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good. I will carry the spirit of this with me forever.\n\nMy colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\n\nTo the community on X, thank you for everything. You’ve made this the most fun (and sometimes stressful) job I’ve ever had.\n\nFor me, it is time for a bit of a break before diving into something new.\n\nIf you want more excellent Claude Code content, you should follow @addyosmani , @lydiahallie, @_catwu, @ClaudeDevs  and of course @bcherny who started it all."
+    },
+    {
+      "tweetId": "2113781170253308276",
+      "role": "source",
+      "authorHandle": "arfurgrok",
+      "url": "https://x.com/ArfurGrok/status/2113781170253308276",
+      "tweetedAt": "2026-10-23T23:54:37.000Z",
+      "bestBit": "Thariq Shihipar (@trq212) has left Anthropic.",
+      "text": "👀 Thariq Shihipar (@trq212) has left Anthropic."
+    },
+    {
+      "tweetId": "2113789482164277425",
+      "role": "commentary",
+      "authorHandle": "yuchenj_uw",
+      "url": "https://x.com/Yuchenj_UW/status/2113789482164277425",
+      "tweetedAt": "2026-10-24T00:27:39.000Z",
+      "bestBit": "He quit because he can finally afford the Opus bill",
+      "text": "He quit because he can finally afford the Opus bill https://t.co/h4lUbAl5hs",
+      "quotedTweetText": "👀 Thariq Shihipar (@trq212) has left Anthropic."
+    },
+    {
+      "tweetId": "2113849659861213568",
+      "role": "commentary",
+      "authorHandle": "maxforai",
+      "url": "https://x.com/MaxForAI/status/2113849659861213568",
+      "tweetedAt": "2026-10-24T04:26:46.000Z",
+      "bestBit": "他算是Anthropic最活跃、最愿意和社区交流的员工之一。",
+      "text": "传言是真的……Anthropic唯一拟人的员工，真的离开Anthropic了。\n\nClaude Code核心开发者Thariq（@trq212）刚刚宣布，自己已经从Anthropic离职。\n\n他在Anthropic工作了一年多，亲眼见证了Claude Code以超出自己想象的速度增长。接下来准备休息一段时间，再去做点新的事情。\n\n说实话，我还挺舍不得他的。\n\n如果你经常关注Claude Code，应该对他很熟悉。\n他算是Anthropic最活跃、最愿意和社区交流的员工之一。\n\n从新功能的技术细节，到Claude Code的使用技巧，再到用户对额度调整的抱怨，他经常亲自下场解释、回复，甚至直接承认团队有些事情做得不好。\n\n在Anthropic这种动不动就封号、限制额度，官方沟通又经常让人摸不着头脑的公司里，Thariq简直是一股清流。\n\n而且他的技术文章也确实写得很好，有不少关于Agent和Claude Code的实践值得反复读。\n\n挺有意思的是，他的离职声明里依然充满了对Anthropic的认可，尤其是对公司使命和同事的信任。\n\n祝他下一站顺利吧。\n\n以后Anthropic要是再出什么幺蛾子，评论区又少了一个能出来说人话的人。",
+      "quotedTweetText": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good. I will carry the spirit of this with me forever.\n\nMy colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\n\nTo the community on X, thank you for everything. You’ve made this the most fun (and sometimes stressful) job I’ve ever had.\n\nFor me, it is time for a bit of a break before diving into something new.\n\nIf you want more excellent Claude Code content, you should follow @addyosmani , @lydiahallie, @_catwu, @ClaudeDevs  and of course @bcherny who started it all."
+    }
+  ],
+  "isSuperseded": false
+}

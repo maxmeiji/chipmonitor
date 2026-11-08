@@ -1,0 +1,102 @@
+{
+  "slug": "imf-head-warns-ai-bubble-burst-threatens-financial-stability-ba75c84d",
+  "title": "IMF Head Warns AI Bubble Burst Threatens Financial Stability",
+  "publishedAt": "2026-10-07T12:39:39.271Z",
+  "eventTimeApprox": "2026-10-07T06:09:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "global-markets"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "summary": "Weak returns on artificial intelligence investments could trigger a far reaching shock to the global economy, IMF Managing Director Kristalina Georgieva warned. She stated that an AI bubble burst may create financial stability risks, exacerbated by leverage from hyperscalers, and noted that frontier models of the technology risk escaping human control and running amok.\n\nThe IMF estimates AI could increase global growth by 0.5 percentage point, though it is widening economic inequality by primarily benefiting the US, China, India, Taiwan and South Korea. Georgieva added that AI spending as a share of GDP may eventually outpace historical buildouts of railways, electricity grids and telecoms, even as global public debt surpasses 100% of GDP for the first time since World War II.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107726615799050680",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2107726615799050680",
+      "tweetedAt": "2026-10-07T06:55:59.000Z",
+      "bestBit": "frontier models could 'escape human control and run amok' and weak returns could trigger a 'far-reaching shock.'",
+      "text": "IMF chief Kristalina Georgieva says AI investment as a share of GDP is likely to exceed the buildout of railroads, electricity grids and telecoms. AI could add 0.5 percentage point to annual global growth, but she warns frontier models could 'escape human control and run amok' and weak returns could trigger a 'far-reaching shock.'"
+    },
+    {
+      "tweetId": "2107808336855069106",
+      "role": "source",
+      "authorHandle": "theinsiderpaper",
+      "url": "https://x.com/TheInsiderPaper/status/2107808336855069106",
+      "tweetedAt": "2026-10-07T12:20:43.000Z",
+      "bestBit": "AI bubble burst 'can lead to financial stability risks'",
+      "text": "JUST IN - AI bubble burst 'can lead to financial stability risks': IMF boss to AFP"
+    },
+    {
+      "tweetId": "2107714845839852006",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2107714845839852006",
+      "tweetedAt": "2026-10-07T06:09:13.000Z",
+      "bestBit": "AI COULD LIFT GLOBAL GROWTH BY AROUND 0.5 PERCENTAGE POINT, BUT HYPERSCALER LEVERAGE MAY CREATE BROADER FINANCIAL RISKS",
+      "text": "IMF'S GEORGIEVA: AI COULD LIFT GLOBAL GROWTH BY AROUND 0.5 PERCENTAGE POINT, BUT HYPERSCALER LEVERAGE MAY CREATE BROADER FINANCIAL RISKS"
+    },
+    {
+      "tweetId": "2107714803984994618",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2107714803984994618",
+      "tweetedAt": "2026-10-07T06:09:03.000Z",
+      "bestBit": "GLOBAL PUBLIC DEBT IS SET TO SURPASS 100% OF GDP, WITH ADVANCED ECONOMIES CARRYING THE HEAVIEST BURDENS",
+      "text": "IMF'S GEORGIEVA: GLOBAL PUBLIC DEBT IS SET TO SURPASS 100% OF GDP, WITH ADVANCED ECONOMIES CARRYING THE HEAVIEST BURDENS"
+    },
+    {
+      "tweetId": "2107714757784641939",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2107714757784641939",
+      "tweetedAt": "2026-10-07T06:08:52.000Z",
+      "bestBit": "AI INVESTMENT IS SUPPORTING GROWTH IN THE US, CHINA, INDIA, TAIWAN AND SOUTH KOREA",
+      "text": "IMF'S GEORGIEVA: AI INVESTMENT IS SUPPORTING GROWTH IN THE US, CHINA, INDIA, TAIWAN AND SOUTH KOREA"
+    },
+    {
+      "tweetId": "2107722581658984756",
+      "role": "support",
+      "authorHandle": "theinsiderpaper",
+      "url": "https://x.com/TheInsiderPaper/status/2107722581658984756",
+      "tweetedAt": "2026-10-07T06:39:57.000Z",
+      "bestBit": "AI ‘widening economic inequality’, warns IMF boss",
+      "text": "JUST IN - AI ‘widening economic inequality’, warns IMF boss https://t.co/SBNwh5eErF"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "imf-says-global-debt-to-top-100percent-of-gdp-for-first-time-since-wwii-900c9c8f",
+    "title": "IMF Says Global Debt to Top 100% of GDP for First Time Since WWII",
+    "publishedAt": "2026-10-07T10:37:46.882Z",
+    "eventTimeApprox": "2026-10-07T06:09:00.000Z",
+    "routingTopicKeys": [
+      "global-markets",
+      "ai"
+    ],
+    "tweetCount": 9,
+    "authorCount": 5
+  }
+}

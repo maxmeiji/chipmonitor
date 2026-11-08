@@ -1,0 +1,60 @@
+{
+  "slug": "world-labs-debuts-frameboy-demo-for-real-time-interaction-with-ai-worlds-a970b946",
+  "title": "World Labs Debuts Frameboy Demo for Real-Time Interaction With AI Worlds",
+  "publishedAt": "2026-11-05T20:08:20.603Z",
+  "eventTimeApprox": "2026-11-05T19:47:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "summary": "The company's newly released interactive tool lets users explore artificially created environments through a combination of gaming controls and cloud-based GPU streaming. World Labs' Frameboy demo uses an optimized version of its Atlas autoregressive world model to generate visual content at rates of up to 15 fps, responding to mouse and WASD inputs.\n\nAtlas generates output frame by frame to ensure each new image reflects the most recent camera input, a method designed to eliminate the navigation lag common in chunk-based AI generation. Internal tests show the model responds in roughly 70ms, with total end-to-end latency from user input to screen display remaining under 200ms.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118424455873741028",
+      "role": "source",
+      "authorHandle": "theworldlabs",
+      "url": "https://x.com/theworldlabs/status/2118424455873741028",
+      "tweetedAt": "2026-11-05T19:25:23.000Z",
+      "bestBit": "streaming from cloud GPUs at up to 15 fps",
+      "text": "Two months ago, we introduced Atlas, an autoregressive world model with pixel-perfect camera control.\n\nToday, we're releasing Frameboy, a demo allowing you to explore worlds in real-time with a highly optimized version of Atlas, streaming from cloud GPUs at up to 15 fps. https://t.co/kvBLxz7ZTk"
+    },
+    {
+      "tweetId": "2118429957110341943",
+      "role": "analysis",
+      "authorHandle": "ychngji6",
+      "url": "https://x.com/ychngji6/status/2118429957110341943",
+      "tweetedAt": "2026-11-05T19:47:14.000Z",
+      "bestBit": "In our tests, we're seeing ~70ms for the model to respond, and under 200ms from pressing a key to seeing the result on your screen, network included",
+      "text": "Okay, this is what I meant by REAL real-time :)\n\nFrameboy is finally out! If you've tried Genie, the idea will feel familiar: WASD to move, mouse to look around, with an AI model generating the world as you explore - https://t.co/aGGIvy5aTX\n\nBut one thing we've been paying a lot of attention to is how quickly the world responds to your actions. In our tests, we're seeing ~70ms for the model to respond, and under 200ms from pressing a key to seeing the result on your screen, network included. It's starting to feel much closer to cloud gaming🎮\n\nWhy does this matter? One thing I've noticed while trying different real-time world models is that 30 FPS doesn't necessarily mean 30 opportunities to respond to your input every second.\n\nMany approaches use chunk-based generation. For example, a model might generate 12 frames at a time, producing 24 FPS but only accepting new controls twice per second. You move your mouse to the left, but the camera might keep turning right until the next chunk. The video looks smooth, yet controlling it can feel surprisingly awkward, sometimes even disorienting.\n\nWith Atlas's architecture, we generate frame by frame, taking the latest camera input for each new frame. Combined with low end-to-end latency, this makes a big difference when you're actually exploring rather than just watching a demo!\n\nReally happy you can finally try it! Huge thanks to everyone who made this happen, especially @wendlerch @BenMildenhall ❤️",
+      "quotedTweetText": "Two months ago, we introduced Atlas, an autoregressive world model with pixel-perfect camera control.\n\nToday, we're releasing Frameboy, a demo allowing you to explore worlds in real-time with a highly optimized version of Atlas, streaming from cloud GPUs at up to 15 fps. https://t.co/kvBLxz7ZTk"
+    },
+    {
+      "tweetId": "2118431468217414036",
+      "role": "support",
+      "authorHandle": "jcjohnss",
+      "url": "https://x.com/jcjohnss/status/2118431468217414036",
+      "tweetedAt": "2026-11-05T19:53:15.000Z",
+      "bestBit": "It's a vision for the future of interactive media might look like, with frames streamed directly from a powerful generative model",
+      "text": "We've released a demo of real-time world generation powered by our new Atlas model!\n\nThis is a spiritual successor to our RTFM demo from last year. It's a vision for the future of interactive media might look like, with frames streamed directly from a powerful generative model",
+      "quotedTweetText": "Two months ago, we introduced Atlas, an autoregressive world model with pixel-perfect camera control.\n\nToday, we're releasing Frameboy, a demo allowing you to explore worlds in real-time with a highly optimized version of Atlas, streaming from cloud GPUs at up to 15 fps. https://t.co/kvBLxz7ZTk"
+    }
+  ],
+  "isSuperseded": false
+}

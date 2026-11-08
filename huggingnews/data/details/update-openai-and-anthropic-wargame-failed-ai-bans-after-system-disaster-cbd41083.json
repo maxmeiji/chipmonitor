@@ -1,0 +1,133 @@
+{
+  "slug": "update-openai-and-anthropic-wargame-failed-ai-bans-after-system-disaster-cbd41083",
+  "title": "UPDATE: OpenAI and Anthropic Wargame Failed AI Bans After System Disaster",
+  "publishedAt": "2026-10-09T18:24:30.814Z",
+  "eventTimeApprox": "2026-10-09T13:43:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 51,
+  "authorCount": 39,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "Industry insiders expect a catastrophic AI-driven crisis within 6 to 12 months, prompting top executives to privately simulate the subsequent government response. Leaders at OpenAI and Anthropic are wargaming \"the day after\" a disaster they believe could trigger a widespread public and political revolt. These simulations specifically envision scenarios where political officials in power attempt to shut down AI development through pauses, total bans or the activation of emergency kill switches, but ultimately fail to do so.\n\nThe simulated failures center on large scale cyberattacks that disable banking, power, water and internet access, with some scenarios assuming an event in 2027. OpenAI confirmed it runs preparedness drills for various circumstances but states these outcomes are not treated as inevitable, while Anthropic declined to comment. The planning focuses on managing the fallout of a crisis that could suddenly end current regulatory gridlock in Washington.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108495293620650261",
+      "role": "source",
+      "authorHandle": "jimvandehei",
+      "url": "https://x.com/JimVandeHei/status/2108495293620650261",
+      "tweetedAt": "2026-10-09T09:50:26.000Z",
+      "bestBit": "gaming out scenarios for a public and political revolt after a catastrophic AI event",
+      "text": "Scoop: Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event…They assume one in ‘27…\n https://t.co/Jro9TigbgH"
+    },
+    {
+      "tweetId": "2108499354252181521",
+      "role": "support",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2108499354252181521",
+      "tweetedAt": "2026-10-09T10:06:34.000Z",
+      "bestBit": "most likely a cyberattack disrupting banking, internet access, power or water",
+      "text": "Executives at OpenAI, Anthropic and other AI companies are reportedly preparing for a public and political backlash after a catastrophic AI event, possibly as early as 2027 (via Axios).\n\nAxios reports that many industry insiders expect a major incident within the next 6–12 months, most likely a cyberattack disrupting banking, internet access, power or water.\n\nOpenAI confirms it runs preparedness exercises, but says: \"These scenarios are not treated as inevitable, but are meant to help us prepare for a variety of circumstances.\"\n\nAnthropic declined to comment.",
+      "quotedTweetText": "Scoop: Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event…They assume one in ‘27…\n https://t.co/Jro9TigbgH"
+    },
+    {
+      "tweetId": "2108542758130487739",
+      "role": "support",
+      "authorHandle": "m_ccuri",
+      "url": "https://x.com/m_ccuri/status/2108542758130487739",
+      "tweetedAt": "2026-10-09T12:59:03.000Z",
+      "bestBit": "assume Democrats in power will try -- and fail -- to shut down AI through bans, pauses or kill switches",
+      "text": "Scoop: Top execs at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for \"the day after\" an inevitable catastrophic AI event  in the next 6-12 months. They assume Democrats in power will try -- and fail -- to shut down AI through bans, pauses or kill switches. \n\nhttps://t.co/bWV5dJSBMt"
+    },
+    {
+      "tweetId": "2108561854998196239",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2108561854998196239",
+      "tweetedAt": "2026-10-09T14:14:56.000Z",
+      "bestBit": "wargaming scenarios for the aftermath of a catastrophic event in the next 6 - 12 months",
+      "text": "Axios is reporting that the top labs are wargaming scenarios for the aftermath of a catastrophic event in the next 6 - 12 months, that some executives now see as being inevitable. https://t.co/xaN44WbEmG"
+    },
+    {
+      "tweetId": "2108510800084078893",
+      "role": "commentary",
+      "authorHandle": "niubi",
+      "url": "https://x.com/niubi/status/2108510800084078893",
+      "tweetedAt": "2026-10-09T10:52:03.000Z",
+      "bestBit": "lawyers will have a field day going after the executives personally for all the gains they made",
+      "text": "If this happens, lawyers will have a field day going after the executives personally for all the gains they made from selling their company shares while gaming out these kinds of risks.",
+      "quotedTweetText": "Scoop: Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event…They assume one in ‘27…\n https://t.co/Jro9TigbgH"
+    },
+    {
+      "tweetId": "2108585496691515820",
+      "role": "commentary",
+      "authorHandle": "jon_stokes",
+      "url": "https://x.com/jon_stokes/status/2108585496691515820",
+      "tweetedAt": "2026-10-09T15:48:52.000Z",
+      "bestBit": "blame open-source AI, and get a kind of Patriot Act for Compute in place that locks down the open threat",
+      "text": "Attribution is notoriously difficult, which is why cyberattacks appeal to state actors -- they can attack w/out giving a clear casus belli. We're currently fighting multiple such actors, so yeah it's logical to expect an attack.\n\nWhat I see here is a plan to step into the uncertain aftermath of a cyber-9/11, where it's not entirely clear who's responsible, and blame open-source AI, and get a kind of Patriot Act for Compute in place that locks down the open threat to the labs' margins.\n\nAnd before you say it: Yes, I'm certain they're genuinely, earnestly worried about an open-model-powered cyberattack, and I'm also sure they would greatly prefer for such a thing to not happen. AND I think they're genuinely worried about the threat to their survival from frontier open weights models, and they'd greatly prefer these models be restricted.\n\n\"Enlightened self-interest\" is a halmark of the California Ideology, and if you're going to pretend that the only two options are \"earnest self-sacrifice\" or \"cynical 4D chess\", then please keep that out of my replies because I am tired of hearing from people (most of whom should know better) that it's either-or.\n\nAnyway, everyone who would be opposed to a Patriot Act for Compute had better make their own plan for the immediate aftermath of a cyber-9/11.",
+      "quotedTweetText": "Axios is reporting that the top labs are wargaming scenarios for the aftermath of a catastrophic event in the next 6 - 12 months, that some executives now see as being inevitable. https://t.co/xaN44WbEmG"
+    },
+    {
+      "tweetId": "2108616663570755861",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2108616663570755861",
+      "tweetedAt": "2026-10-09T17:52:43.000Z",
+      "bestBit": "I guess they'll need bunkers after all",
+      "text": "Oh? I guess they'll need bunkers after all? https://t.co/2AX3Z0nLLl",
+      "quotedTweetText": "Axios is reporting that the top labs are wargaming scenarios for the aftermath of a catastrophic event in the next 6 - 12 months, that some executives now see as being inevitable. https://t.co/xaN44WbEmG"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "ai-execs-plan-for-public-revolt-after-disasters-expected-within-12-month-558c8187",
+    "title": "AI Execs Plan for Public Revolt After Disasters Expected Within 12 Months",
+    "publishedAt": "2026-10-09T11:07:24.281Z",
+    "eventTimeApprox": "2026-10-09T10:28:11.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "cybersecurity",
+      "us-politics"
+    ],
+    "tweetCount": 34,
+    "authorCount": 26
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "apple-will-lower-daily-ai-usage-limits-for-some-staff-to-as-low-as-25-eac9a1d1",
+  "title": "Apple Will Lower Daily AI Usage Limits for Some Staff to as Low as $25",
+  "publishedAt": "2026-11-04T20:07:14.168Z",
+  "eventTimeApprox": "2026-11-04T19:47:39.500Z",
+  "isFreshStory": false,
+  "tweetCount": 40,
+  "authorCount": 33,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    }
+  ],
+  "summary": "The tech company is intensifying its crackdown on corporate spending by introducing tighter restrictions on the amount employees can spend on artificial intelligence tools. Apple plans to lower the daily usage caps to $100 for certain engineers, while other teams may see their limits drop to $25.\n\nThese measures follow a previous reduction that saw daily caps for some engineering staff fall from $300 to $200. The spending cuts occur as Apple continues to push its workers to integrate the technology more frequently into their daily operations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118068667103453360",
+      "role": "source",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2118068667103453360",
+      "tweetedAt": "2026-11-04T19:51:36.000Z",
+      "bestBit": "Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.",
+      "text": "NEW: Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25. https://t.co/4tnOIaxpDz"
+    },
+    {
+      "tweetId": "2118067420984164633",
+      "role": "commentary",
+      "authorHandle": "negligible_cap",
+      "url": "https://x.com/negligible_cap/status/2118067420984164633",
+      "tweetedAt": "2026-11-04T19:46:39.000Z",
+      "bestBit": "APPLE CUTS INTERNAL AI USAGE BUDGETS IN MOVE TO REDUCE SPENDING",
+      "text": "*APPLE CUTS INTERNAL AI USAGE BUDGETS IN MOVE TO REDUCE SPENDING\n*APPLE LOWERED DAILY AI CAP FOR SOME ENGINEERS TO $200 FROM $300\n\n$AAPL really leaning into being the anti-AI trade"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "apple-lowers-daily-ai-spending-caps-for-some-engineers-to-200-b59409bf",
+    "title": "Apple Lowers Daily AI Spending Caps for Some Engineers to $200",
+    "publishedAt": "2026-11-04T19:53:12.626Z",
+    "eventTimeApprox": "2026-11-04T19:46:39.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 6
+  }
+}

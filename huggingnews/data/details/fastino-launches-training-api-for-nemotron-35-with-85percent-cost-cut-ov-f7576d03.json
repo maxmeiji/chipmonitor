@@ -1,0 +1,58 @@
+{
+  "slug": "fastino-launches-training-api-for-nemotron-35-with-85percent-cost-cut-ov-f7576d03",
+  "title": "Fastino Launches Training API for Nemotron 3.5 with 85% Cost Cut Over Tinker",
+  "publishedAt": "2026-10-16T22:24:24.282Z",
+  "eventTimeApprox": "2026-10-16T06:43:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110752331705053564/HUrl_DCaAAA5OVB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110752331705053564/HUrl_DCaAAA5OVB-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "george_onx",
+      "tweetUrl": "https://x.com/george_onx/status/2110752331705053564"
+    }
+  },
+  "summary": "ML teams can now perform supervised fine-tuning and reinforcement learning via Fastino's hosted GPU infrastructure without provisioning their own hardware. The service provides immediate support for Nvidia's Nemotron 3.5 Super VL and Nemotron 3.5 Lightning models, allowing users to write post-training loops in Python while billing is based on tokens processed rather than hourly GPU rentals.\n\nThe tool is compatible with the Tinker SDK, letting users migrate existing workloads to reduce expenses by 25% to 85% compared to Tinker's published rates. Fastino also released two specialized open weight models for finance and healthcare built on the Nemotron 3.5 Super VL architecture, which the company says improved performance across 15 benchmarks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110752331705053564",
+      "role": "source",
+      "authorHandle": "george_onx",
+      "url": "https://x.com/george_onx/status/2110752331705053564",
+      "tweetedAt": "2026-10-15T15:19:06.000Z",
+      "bestBit": "releasing two start-of-the-art open weight models fine-tuned on NVIDIA Nemotron 3.5 Super VL, specialized for finance and healthcare",
+      "text": "Today we’re launching the Fastino Training API for supervised fine-tuning and reinforcement learning.\n\nThe Fastino Training API includes day-zero support for @NVIDIAAI Nemotron 3.5 Super VL, alongside Nemotron 3.5 Lightning.\n\nOur API gives ML and research teams low-level control over post-training without requiring them to provision GPUs or operate separate training and generation systems.\n\nA few highlights:\n\n• Write your own SFT and RL loops in Python\n• Train with importance sampling, PPO, CISPO, or DRO\n• Run grouped sampling with token log probabilities\n• Save and resume adapter and optimizer checkpoints\n• Pay per token processed, not per GPU hour\n• Spend 25% to 85% less than Tinker’s published rates\n• Migrate existing Tinker workloads by changing only the server address and API key\n\nAlong with the Training API, we’re releasing two start-of-the-art open weight models fine-tuned  on NVIDIA Nemotron 3.5 Super VL, specialized for finance and healthcare. Together, they improved performance across all 15 held-out benchmarks we measured.\n\nAnd for a limited time, we’re offering discounted pricing on training for NVIDIA Nemotron 3.5 Super VL through the Fastino Training API.\n\nTry it now: https://t.co/f4dEil3Req"
+    }
+  ],
+  "isSuperseded": false
+}

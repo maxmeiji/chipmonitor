@@ -1,0 +1,75 @@
+{
+  "slug": "microsoft-ai-outdiagnoses-doctors-up-to-4x-in-science-study-0d7c6919",
+  "title": "Microsoft AI Outdiagnoses Doctors Up to 4x in Science Study",
+  "publishedAt": "2026-10-22T18:55:06.719Z",
+  "eventTimeApprox": "2026-10-22T18:36:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113339058374017138/HVQWpzcaMAAyAjN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113339058374017138/HVQWpzcaMAAyAjN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "choblin29",
+      "tweetUrl": "https://x.com/choblin29/status/2113339058374017138"
+    }
+  },
+  "summary": "A new medical diagnostic system from Microsoft has outperformed human physicians across multiple benchmarks in a study published in the journal Science. The Diagnostic Orchestrator utilizes GPT-5 to simulate panels of medical experts that debate diagnoses and order tests, achieving accuracy rates up to 4x higher than doctors in some cases. Using historical data, the AI reached 80% accuracy for emergency department cases compared to 47% for physicians, and 83% accuracy for complex cases from the New England Journal of Medicine versus 36% for doctors.\n\nThe system is 1.7x more accurate than emergency department physicians even when those doctors are permitted to use the web for reference. Microsoft AI CEO Mustafa Suleyman stated the tool costs less and requires fewer medical tests to reach a diagnosis than human practitioners. To move beyond simulations, Microsoft is partnering with Beth Israel Deaconess Medical Center for a prospective study involving direct patient interactions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113332931423039945",
+      "role": "source",
+      "authorHandle": "mustafasuleyman",
+      "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
+      "tweetedAt": "2026-10-22T18:13:29.000Z",
+      "bestBit": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up",
+      "text": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up.\n\nIt's also lower cost &amp; does fewer medical tests to get to its diagnosis.\n\nPublished in the journal Science today... https://t.co/kPX3PkE6k0"
+    },
+    {
+      "tweetId": "2113338734632693807",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2113338734632693807",
+      "tweetedAt": "2026-10-22T18:36:32.000Z",
+      "bestBit": "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors",
+      "text": "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors (@theroberthart / The Verge)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

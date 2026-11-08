@@ -1,0 +1,46 @@
+{
+  "slug": "g7-agrees-to-simulate-ai-cyberattacks-on-financial-systems-8b3bfb4e",
+  "title": "G7 Agrees to Simulate AI Cyberattacks on Financial Systems",
+  "publishedAt": "2026-10-16T07:53:17.932Z",
+  "eventTimeApprox": "2026-10-16T06:30:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "geopolitics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "summary": "Finance ministers from the world's most developed nations will use machine learning to launch mock strikes against the defenses of banks and monetary hubs. These tabletop exercises, agreed upon by G7 leaders, aim to test how effectively member states can respond to AI-driven disruptions to the banking sector and broader monetary infrastructure.\n\nThe decision follows an increase in digital threats targeting the global economy and rising fears over the vulnerability of systemic institutions. The coordinated tests are intended to identify gaps in existing security protocols and refine mitigation strategies used by the nations involved.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111000712796635160",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2111000712796635160",
+      "tweetedAt": "2026-10-16T07:46:05.000Z",
+      "bestBit": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
+      "text": "G7 economies plan simulated AI attacks on banks as cyber fears rise https://t.co/T4jhlEn427"
+    }
+  ],
+  "isSuperseded": false
+}

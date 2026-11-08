@@ -1,0 +1,67 @@
+{
+  "slug": "bob-mcgrews-arda-raises-230m-at-15b-valuation-for-manufacturing-ai-79c59076",
+  "title": "Bob McGrew's Arda Raises $230M at $1.5B Valuation for Manufacturing AI",
+  "publishedAt": "2026-10-20T14:23:02.211Z",
+  "eventTimeApprox": "2026-10-20T13:25:56.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 19,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANDU",
+      "kind": "private",
+      "role": "related",
+      "name": "Anduril",
+      "hubKey": "anduril"
+    }
+  ],
+  "summary": "The former research head of OpenAI is building software agents that automate assembly line programming to streamline industrial production. Arda has raised $230 million in funding, giving the startup a valuation of $1.5 billion, as it develops tools that eliminate the manual coding bottlenecks typically faced by manufacturing engineers.\n\nThe AI platform is already being used by defense contractor Anduril to optimize its assembly processes. Bob McGrew, who previously served as OpenAI's Chief Research Officer, stated that the company's tools function for industrial engineers similarly to how agents like Claude or Cursor support programmers, with the ultimate goal of reviving manufacturing in the United States.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112532541286527437",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2112532541286527437",
+      "tweetedAt": "2026-10-20T13:13:01.000Z",
+      "bestBit": "betting AI can revive U.S. manufacturing",
+      "text": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing https://t.co/4MQQ4YibKC"
+    },
+    {
+      "tweetId": "2112544969114403307",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2112544969114403307",
+      "tweetedAt": "2026-10-20T14:02:24.000Z",
+      "bestBit": "already being used by Anduril",
+      "text": "Bob McGrew, OpenAI's former Chief Research Officer, has raised $230 million at a $1.5 billion valuation for his startup, Arda.\n\nHe said their agent 'does for manufacturing engineers what Claude or Cursor does for programmers' and is already being used by Anduril. https://t.co/LAft8iDuiC"
+    }
+  ],
+  "isSuperseded": false
+}

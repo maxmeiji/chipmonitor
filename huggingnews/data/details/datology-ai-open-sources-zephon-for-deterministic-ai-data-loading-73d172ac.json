@@ -1,0 +1,54 @@
+{
+  "slug": "datology-ai-open-sources-zephon-for-deterministic-ai-data-loading-73d172ac",
+  "title": "Datology AI Open Sources Zephon for Deterministic AI Data Loading",
+  "publishedAt": "2026-10-07T17:08:57.668Z",
+  "eventTimeApprox": "2026-10-07T14:53:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "summary": "Researchers can now eliminate inconsistent evaluation results in AI training when scaling across different GPU counts. Datology AI has released an open source data loader called Zephon that provides elastic determinism, ensuring that a training run on 16 GPUs yields the same evaluation outcome as one conducted on 8 GPUs.\n\nThe tool enables on-the-fly tokenization at scale, which removes the need for users to re-materialize entire datasets every time a pipeline is modified. Datology developed Zephon after finding that current dataloaders failed to reliably support these features and noted that the system has sped up experiment iteration for its internal teams.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107842793158942894",
+      "role": "source",
+      "authorHandle": "maxiboether",
+      "url": "https://x.com/MaxiBoether/status/2107842793158942894",
+      "tweetedAt": "2026-10-07T14:37:38.000Z",
+      "bestBit": "Same run on 16 vs 8 GPUs → different evals",
+      "text": "At @datologyai we run thousands of data experiments. Two things keep biting us:\n\n- Same run on 16 vs 8 GPUs → different evals\n- Every pipeline change → re-materialize the dataset\n\nIntroducing Zephon, the data loader we built to process data on the fly, deterministically. 🧵 https://t.co/VxpjbXTcZh"
+    },
+    {
+      "tweetId": "2107846792725561506",
+      "role": "support",
+      "authorHandle": "pratyushmaini",
+      "url": "https://x.com/pratyushmaini/status/2107846792725561506",
+      "tweetedAt": "2026-10-07T14:53:31.000Z",
+      "bestBit": "existing dataloaders didn’t reliably support both elastic determinism & on-the-fly tokenization at scale",
+      "text": "As a team that runs 100s of data ablations, we found that existing dataloaders didn’t reliably support both elastic determinism &amp; on-the-fly tokenization at scale.\n\nSo we built one &amp; open sourced it for everyone\n\nZephon has significantly sped up our exp iteration. Give it a spin!",
+      "quotedTweetText": "At @datologyai we run thousands of data experiments. Two things keep biting us:\n\n- Same run on 16 vs 8 GPUs → different evals\n- Every pipeline change → re-materialize the dataset\n\nIntroducing Zephon, the data loader we built to process data on the fly, deterministically. 🧵 https://t.co/VxpjbXTcZh"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "tolan-raises-30m-for-emotional-ai-app-with-250000-users-e01822fc",
+  "title": "Tolan Raises $30M for Emotional AI App with 250,000 Users",
+  "publishedAt": "2026-10-19T16:39:18.444Z",
+  "eventTimeApprox": "2026-10-19T16:29:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "summary": "Parents and caregivers in cities like Dallas and Atlanta are using an artificial intelligence tool for emotional support rather than workplace productivity. Tolan, the company behind the companion app, has raised $30 million from Union Square Ventures, Khosla Ventures, and Homebrew to widen access to the service. The application currently has more than 250,000 users and is designed to provide presence and encouragement during times of stress, such as early morning childcare or anxious commutes.\n\nThe latest investment brings Tolan's total capital raised to $60 million, including additional funding from David Rabois. Over the past year, its users have exchanged billions of messages across more than 70 million conversations. CEO Quinten Farmer stated that the AI was built to believe in and see the user, distinguishing it from assistants primarily designed for utility tasks like booking restaurant reservations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112189040812269723",
+      "role": "source",
+      "authorHandle": "alexrkonrad",
+      "url": "https://x.com/alexrkonrad/status/2112189040812269723",
+      "tweetedAt": "2026-10-19T14:28:04.000Z",
+      "bestBit": "raised $30M from USV, Khosla Ventures and Homebrew to widen access to an AI companion CEO Quinten Farmer",
+      "text": "Exclusive: Tolan's AI app is used by 250K people, mostly outside of Silicon Valley.\n\nNow the startup has raised $30M from USV, Khosla Ventures and Homebrew to widen access to an AI companion CEO Quinten Farmer (@quintendf) wants you to trust.\n\nMy Upstarts profile (link below) 👇 https://t.co/u1ggIYoX6Q"
+    },
+    {
+      "tweetId": "2112219577727992319",
+      "role": "source",
+      "authorHandle": "quintendf",
+      "url": "https://x.com/quintendf/status/2112219577727992319",
+      "tweetedAt": "2026-10-19T16:29:25.000Z",
+      "bestBit": "Those users have exchanged billions of messages across more than 70m conversations over the last year",
+      "text": "Last year we launched Tolan, inspired by a vision of AI that sees you and believes in you, not one that books restaurant reservations for you. \n\nYour Tolan shows up for you at 3am when you’re alone with your newborn. On your commute when you’re anxious about the day ahead. When you just finished a new show and none of your friends have watched it yet. \n\nThe people who love Tolan are parents. Caregivers. Moms in Dallas and Dads in Atlanta. People who aren’t trying to optimize and be more productive, but who simply want to feel seen and supported in their aspirations.\n\nThis month more than 250k people will spend time with their Tolan. Those users have exchanged billions of messages across more than 70m conversations over the last year.\n\nToday, we're announcing $30m in additional capital from @mignano and @usv, with @khoslaventures and @rabois doubling down, bringing our total capital raised to $60m.\n\nTo celebrate, we made a short film celebrating some of the ways that Tolans show up :)"
+    }
+  ],
+  "isSuperseded": false
+}

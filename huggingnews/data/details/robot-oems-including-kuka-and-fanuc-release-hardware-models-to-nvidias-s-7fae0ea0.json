@@ -1,0 +1,122 @@
+{
+  "slug": "robot-oems-including-kuka-and-fanuc-release-hardware-models-to-nvidias-s-7fae0ea0",
+  "title": "Robot OEMs Including KUKA and FANUC Release Hardware Models to Nvidia's SimReady Hub",
+  "publishedAt": "2026-10-27T16:55:10.862Z",
+  "eventTimeApprox": "2026-10-26T15:56:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "related",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114996834871427512/HVn6K9aXgAAQUkl-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114996834871427512/HVn6K9aXgAAQUkl-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "lukas_m_ziegler",
+      "tweetUrl": "https://x.com/lukas_m_ziegler/status/2114996834871427512"
+    }
+  },
+  "summary": "Several global automation firms have uploaded simulation-ready versions of their hardware to a free library to facilitate the training of artificial intelligence in virtual settings. The manufacturers, which include KUKA, FANUC, Universal Robots, and Comau, published their equipment models to the NVIDIA SimReady library on Hugging Face, allowing developers to use natural-language search to find and assemble virtual workcells. The move marks a departure from the industry standard of keeping CAD files proprietary and requiring users to use the manufacturers' own closed simulation software.\n\nThese contributions are part of a 472GB collection of 2,575 3D assets in the OpenUSD exchange format, covering tools and industrial equipment. The models include physics data, such as measured mass and joint limits, to help researchers build digital twins and train robot policies. The release comes approximately one month after Nvidia announced its acquisition of the Hugging Face hub.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114761653677957542",
+      "role": "source",
+      "authorHandle": "sentdex",
+      "url": "https://x.com/Sentdex/status/2114761653677957542",
+      "tweetedAt": "2026-10-26T16:50:43.000Z",
+      "bestBit": "forklifts, robot arms, engines, hospital equipment, all OpenUSD",
+      "text": "dude this is REALLY cool! just about all the assets you could want to fill your simulated world!",
+      "quotedTweetText": "We just launched OpenUSD support on the @huggingface Hub 🎉\n\nYesterday, @nvidiaomniverse put 2,500+ SimReady assets on the Hub. Forklifts, robot arms, engines, hospital equipment, all OpenUSD.  You can also search the whole library in plain English\nhttps://t.co/SU8mXQQRzL\nhttps://t.co/U4PmZ0OMUp"
+    },
+    {
+      "tweetId": "2114556298167505225",
+      "role": "support",
+      "authorHandle": "oliviscusai",
+      "url": "https://x.com/oliviscusAI/status/2114556298167505225",
+      "tweetedAt": "2026-10-26T03:14:42.000Z",
+      "bestBit": "The models include physics settings and semantic labels for use in simulated environments.",
+      "text": "NVIDIA just put 2,575 simulation-ready 3D assets on Hugging Face 🤯\n\nA 472GB collection covering everyday objects, tools and industrial equipment.\n\nIt’s called NVIDIA SimReady Assets. The models include physics settings and semantic labels for use in simulated environments.\n\n- Train robots to pick up and move objects\n- Build virtual factories and warehouses\n- Generate labelled training images\n- Populate 3D scenes with ready-made objects\n\nUseful for robotics research, digital twins and anyone building detailed virtual environments.\n\nDownload the collection below 👇"
+    },
+    {
+      "tweetId": "2114401602404839677",
+      "role": "support",
+      "authorHandle": "kohantoys",
+      "url": "https://x.com/kohantoys/status/2114401602404839677",
+      "tweetedAt": "2026-10-25T17:00:00.000Z",
+      "bestBit": "Nvidia liberó unos 2500 modelos 3d con meanismos para simulación en OpenUSD, un formato de intercambio libre y gratuito.",
+      "text": "Yo sé que esto no le interesa a nadie, pero Nvidia liberó unos 2500 modelos 3d con meanismos para simulación en OpenUSD, un formato de intercambio libre y gratuito.\nHay robots, motores, equipamiento medico y lo que se les ocurra.\nLo pueden visitar y descargar desde aca:\nhttps://t.co/J12ReNZWxa"
+    },
+    {
+      "tweetId": "2114996834871427512",
+      "role": "analysis",
+      "authorHandle": "lukas_m_ziegler",
+      "url": "https://x.com/lukas_m_ziegler/status/2114996834871427512",
+      "tweetedAt": "2026-10-27T08:25:14.000Z",
+      "bestBit": "Publishing a SimReady asset concedes that the scene gets assembled elsewhere, in someone else’s simulator, increasingly by someone else’s agent.",
+      "text": "It’s been just over a month since NVIDIA announced it’s acquiring Hugging Face! 🤯\n\nAnyone can see these two are a perfect match, and they’re clearly already working on something.\n\n@NVIDIARobotics put 2,000+ simulation-ready 3D assets on @huggingface, free and ungated.\n\nComau. FANUC. Franka Robotics. Robotiq. Standard Bots. Universal Robots. KUKA. 7 OEMs publishing simulation-ready models of their own hardware, in the open, on someone else’s platform.\n\nOEMs have historically kept CAD close and shipped simulation inside their own software: RobotStudio, RoboGuide, KUKA.Sim. \n\nPublishing a SimReady asset concedes that the scene gets assembled elsewhere, in someone else’s simulator, increasingly by someone else’s agent. \n\nIf your arm isn’t in the library, whatever assembles the workcell picks one that is.\n\nOn the substance: a CAD model is not a simulation asset. Simulation needs collision geometry, mass and inertia, friction, joint structure and limits, semantic labels, sensor attributes.\n\nThe part I’d watch is profiles. SimReady Foundation defines what an asset must carry for a given use case, with validation tools to check it. \n\nThat’s what makes a mixed-supplier library composable instead of a pile of models with inconsistent units, origins and collision conventions.\n\nAnd it’s indexed for agents. Natural-language search across the library, so a model can find assets, reference them into a USD stage and write the code that assembles the cell.\n\nThird time this month I’ve written about that same shape. The agent produces a scene or a config, a human reviews the file.\n\n2,000 assets is a good start!\n\n🔗 Start building yourself: https://t.co/rWMV6d1OMQ\n\n@ClementDelangue @Thom_Wolf 🦾 congrats!\n\n~~ \n\n♻️ Join the weekly robotics newsletter, and never miss any news → https://t.co/GoA3ZuwoPB"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nvidia-releases-2575-simulation-ready-3d-assets-on-hugging-face-4adbcefe",
+    "title": "Nvidia Releases 2,575 Simulation-Ready 3D Assets on Hugging Face",
+    "publishedAt": "2026-10-26T16:08:06.789Z",
+    "eventTimeApprox": "2026-10-26T13:30:05.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 6
+  }
+}

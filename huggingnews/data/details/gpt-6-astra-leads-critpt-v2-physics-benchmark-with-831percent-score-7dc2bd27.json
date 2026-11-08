@@ -1,0 +1,93 @@
+{
+  "slug": "gpt-6-astra-leads-critpt-v2-physics-benchmark-with-831percent-score-7dc2bd27",
+  "title": "GPT-6 Astra Leads CritPt v2 Physics Benchmark With 83.1% Score",
+  "publishedAt": "2026-10-22T18:09:38.649Z",
+  "eventTimeApprox": "2026-10-22T16:18:37.500Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113182085385273507/HVOB87laEAA21IM-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113182085385273507/HVOB87laEAA21IM-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "minihui_zhu",
+      "tweetUrl": "https://x.com/MiniHui_zhu/status/2113182085385273507"
+    }
+  },
+  "summary": "OpenAI's GPT-6.1 Sol and Claude Opus 5.5 are among the top performers on a new set of 70 research-level physics challenges released on October 22. The newly launched CritPt v2 benchmark saw GPT-6 Astra (max) achieve a leading 83.1% accuracy, followed by GPT-6.1 Sol (max) at 82% and Claude Opus 5.5 at 78%. The CritPt team revised 47 of the challenges to fix mistakes and underspecifications after reports from Anthropic and HuggingFace. Models now solve these problems using an agentic approach with access to a code-execution tool in an offline sandbox, marking a jump from the 29% score recorded by GPT-5 (high) in August 2025.\n\nResults for CritPt v2 are not directly comparable to the original version, where GPT-6 Astra scored 32%. Artificial Analysis, which hosts the leaderboard, stated that the increase in performance is primarily due to the revised problem set rather than the addition of coding tools. The CritPt team is providing free access to its grading API for approved research labs. Artificial Analysis will update its Intelligence Index in late October to include the updated figures.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113182085385273507",
+      "role": "source",
+      "authorHandle": "minihui_zhu",
+      "url": "https://x.com/MiniHui_zhu/status/2113182085385273507",
+      "tweetedAt": "2026-10-22T08:14:04.000Z",
+      "bestBit": "From 28.9% in Nov 2025 (GPT-5 high, coding tool) to 83.1% now (GPT-6 Astra max, coding tool), the progress AI has made on well-posed physics problems is remarkable in a year",
+      "text": "After 4 months of careful expert review, we release CritPt v2. GPT-6 Astra leads the way with 83.1% accuracy (average of 5).\n\nWe made changes to 47 challenges in total, which breaks down to:\n- 5 corrections to mistakes in the problem statement (e.g., wrong number, self-contradictory constraints)\n- 19 revisions to address underspecification (e.g., missing conventions/constraints that gives ambiguity to final answers)\n- 16 grader fixes (e.g., grader unstable, error tolerant range too tight) without revision to the problem statement\n- 7 refinements even though no issues were found (e.g., rephrased to be less searchable, worded more rigorously)\nWe also fixed some minor typos (spelling, grammar) which are unlikely to affect model performance.\n\nHere’s how we found the issues:\n- David Louapre @dlouapre from HuggingFace reported 10 issues across 8 challenges in June 2026. We accepted 8 issues and revised 8 challenges accordingly. We also thank David’s helpful revision suggestions.\n- Anthropic sent a list of ~65 issues across 31 challenges in Aug 2026. Upon careful review of the full list, we accepted ~28 issues and revised 19 challenges accordingly (two overlapping with David’s list).\n- We conducted an internal expert review of all problems, including newly revised ones, involving cross checking full responses of GPT-6 Astra (max) with CritPt experts. We ended up fixing/refining 20 additional problems.\n\nFrom 28.9% in Nov 2025 (GPT-5 high, coding tool) to 83.1% now (GPT-6 Astra max, coding tool), the progress AI has made on well-posed physics problems is remarkable in a year. CritPt consists of entry-level research problems for junior researchers: the kinds of warm-up exercises a hands-on advisor might pose for a fresh grad student, but still demand solid physics training and nontrivial physical reasoning.\n\nIn this sense, frontier models are crossing a “critical point”, but there’s a lot more beyond this transitioning point in real scientific discovery. Asking a good question can be much harder than solving one. A good question can be fundamentally ambiguous and constantly changing as we explore. And ultimately, decisive tests of physics require experiments. There is so much more to explore.\n\nWe sincerely thank our evaluation partner @ArtificialAnlys, who will co-host the leaderboard of CritPt v2 soon!\n\nCritPt Website: https://t.co/VkFiF2tjqM\nGitHub: https://t.co/RcCRhYhSOX\nHuggingFace: https://t.co/ikcOAyYd2m"
+    },
+    {
+      "tweetId": "2113328435196276879",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2113328435196276879",
+      "tweetedAt": "2026-10-22T17:55:37.000Z",
+      "bestBit": "GPT-6 Astra (max) and GPT-6.1 Sol (max) score highest at 83% and 82%, followed by Claude Opus 5.5 (max with fallback) at 78% and GPT-5.6 Sol (max) at 75%",
+      "text": "CritPt v2 has launched on Artificial Analysis: the CritPt authors have revised all 70 research-level physics challenges, and models now solve them with a code-execution tool\n\nFollowing feedback from the research community, the CritPt team and physics expert collaborators reviewed every challenge, corrected underspecified statements, errors, and typos, and improved the stability of the grader. We now run CritPt v2 agentically: models can write and run code in an offline sandbox with tools for computation.\n\nWe’ll be updating the Intelligence Index in late October, including changes to CritPt.\n\nKey takeaways:\n\n➤ Recent OpenAI releases top the leaderboard: GPT-6 Astra (max) and GPT-6.1 Sol (max) score highest at 83% and 82%, followed by Claude Opus 5.5 (max with fallback) at 78% and GPT-5.6 Sol (max) at 75%\n\n➤ CritPt v2 shows the rapid progress at the frontier on research-level physics: GPT-5 (high), released in August 2025, scores 29% on CritPt v2, 54 points below GPT-6 Astra (max)\n\nThank you to @MiniHui_zhu, @MinyangTian1, @haopeng_uiuc and the broader CritPt team for their work on this revision and their continued collaboration"
+    },
+    {
+      "tweetId": "2113328437440188824",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2113328437440188824",
+      "tweetedAt": "2026-10-22T17:55:37.000Z",
+      "bestBit": "GPT-6 Astra (max) scores 83% on v2, up from 32% on v1",
+      "text": "CritPt v2 scores are generally higher than v1 and are not directly comparable. GPT-6 Astra (max) scores 83% on v2, up from 32% on v1. Both changes contribute: in our testing, most of the increase comes from the revised challenges, with code-execution tool access adding a smaller gain. With leading models now above 80%, CritPt v2 leaves less headroom at the frontier than v1 did."
+    },
+    {
+      "tweetId": "2113279617821704625",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2113279617821704625",
+      "tweetedAt": "2026-10-22T14:41:38.000Z",
+      "bestBit": "Absurd dominance from 6.1 Sol. Same cost as V4.1F, radically better results.",
+      "text": "Absurd dominance from 6.1 Sol. Same cost as V4.1F, radically better results.\nAnd a hole in \"V4.1F-1017 is a 5.6 Sol replacement\" (though this was known in this case, 5.6 was already maxing out the soft ceiling of the original CritPt)\nGrok 4.7, on the other hand, surges to parity https://t.co/SusyPJSydt",
+      "quotedTweetText": "After 4 months of careful expert review, we release CritPt v2. GPT-6 Astra leads the way with 83.1% accuracy (average of 5).\n\nWe made changes to 47 challenges in total, which breaks down to:\n- 5 corrections to mistakes in the problem statement (e.g., wrong number, self-contradictory constraints)\n- 19 revisions to address underspecification (e.g., missing conventions/constraints that gives ambiguity to final answers)\n- 16 grader fixes (e.g., grader unstable, error tolerant range too tight) without revision to the problem statement\n- 7 refinements even though no issues were found (e.g., rephrased to be less searchable, worded more rigorously)\nWe also fixed some minor typos (spelling, grammar) which are unlikely to affect model performance.\n\nHere’s how we found the issues:\n- David Louapre @dlouapre from HuggingFace reported 10 issues across 8 challenges in June 2026. We accepted 8 issues and revised 8 challenges accordingly. We also thank David’s helpful revision suggestions.\n- Anthropic sent a list of ~65 issues across 31 challenges in Aug 2026. Upon careful review of the full list, we accepted ~28 issues and revised 19 challenges accordingly (two overlapping with David’s list).\n- We conducted an internal expert review of all problems, including newly revised ones, involving cross checking full responses of GPT-6 Astra (max) with CritPt experts. We ended up fixing/refining 20 additional problems.\n\nFrom 28.9% in Nov 2025 (GPT-5 high, coding tool) to 83.1% now (GPT-6 Astra max, coding tool), the progress AI has made on well-posed physics problems is remarkable in a year. CritPt consists of entry-level research problems for junior researchers: the kinds of warm-up exercises a hands-on advisor might pose for a fresh grad student, but still demand solid physics training and nontrivial physical reasoning.\n\nIn this sense, frontier models are crossing a “critical point”, but there’s a lot more beyond this transitioning point in real scientific discovery. Asking a good question can be much harder than solving one. A good question can be fundamentally ambiguous and constantly changing as we explore. And ultimately, decisive tests of physics require experiments. There is so much more to explore.\n\nWe sincerely thank our evaluation partner @ArtificialAnlys, who will co-host the leaderboard of CritPt v2 soon!\n\nCritPt Website: https://t.co/VkFiF2tjqM\nGitHub: https://t.co/RcCRhYhSOX\nHuggingFace: https://t.co/ikcOAyYd2m"
+    }
+  ],
+  "isSuperseded": false
+}

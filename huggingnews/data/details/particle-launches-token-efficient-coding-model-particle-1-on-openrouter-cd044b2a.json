@@ -1,0 +1,94 @@
+{
+  "slug": "particle-launches-token-efficient-coding-model-particle-1-on-openrouter-cd044b2a",
+  "title": "Particle Launches Token-Efficient Coding Model Particle-1 on OpenRouter",
+  "publishedAt": "2026-10-28T23:08:06.717Z",
+  "eventTimeApprox": "2026-10-28T22:14:03.500Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPRT",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenRouter",
+      "hubKey": "openrouter"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115561456733397266/HVv77t9bgAA42bt-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115561456733397266/HVv77t9bgAA42bt-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "modelsonor",
+      "tweetUrl": "https://x.com/ModelsOnOR/status/2115561456733397266"
+    }
+  },
+  "summary": "The new AI assistant from Particle is now accessible through the OpenRouter platform as part of a new partnership to deliver a streamlined inference service. The tool, known as Particle-1, is a coding model post-trained on DeepSeek V4.1 Flash and is engineered to reduce the resource load of AI tasks, cutting output token usage by 28% to 52% across four coding benchmarks.\n\nParticle says the model's average token reduction of approximately 45% will lower costs and completion times for autonomous agent tasks while maintaining accuracy levels near those of the base model. Particle-1 costs $0.25 per million input tokens and $1 per million output tokens, and it features a 1.05M context window.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115561456733397266",
+      "role": "source",
+      "authorHandle": "modelsonor",
+      "url": "https://x.com/ModelsOnOR/status/2115561456733397266",
+      "tweetedAt": "2026-10-28T21:48:51.000Z",
+      "bestBit": "Particle reports it uses ~45% fewer tokens on average with accuracy close to the base model, so agent tasks finish sooner and cost less",
+      "text": "Particle-1 from @particle_api is live on OpenRouter.\n\nA token-efficient coding model post-trained on DeepSeek V4.1 Flash. Particle reports it uses ~45% fewer tokens on average with accuracy close to the base model, so agent tasks finish sooner and cost less.\n\n$0.25/M input, $1/M output, 1.05M context.\n\nhttps://t.co/VHqYbDkxyR"
+    },
+    {
+      "tweetId": "2115564621717512295",
+      "role": "support",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2115564621717512295",
+      "tweetedAt": "2026-10-28T22:01:25.000Z",
+      "bestBit": "Particle-1 from @particle_api uses 28–52% fewer output tokens than DeepSeek V4.1 Flash across four coding benchmarks, per Particle",
+      "text": "Fewer tokens, same work. Particle-1 from @particle_api uses 28–52% fewer output tokens than DeepSeek V4.1 Flash across four coding benchmarks, per Particle. Now on OpenRouter.",
+      "quotedTweetText": "Particle-1 from @particle_api is live on OpenRouter.\n\nA token-efficient coding model post-trained on DeepSeek V4.1 Flash. Particle reports it uses ~45% fewer tokens on average with accuracy close to the base model, so agent tasks finish sooner and cost less.\n\n$0.25/M input, $1/M output, 1.05M context.\n\nhttps://t.co/VHqYbDkxyR"
+    },
+    {
+      "tweetId": "2115570981716852970",
+      "role": "source",
+      "authorHandle": "suhail",
+      "url": "https://x.com/Suhail/status/2115570981716852970",
+      "tweetedAt": "2026-10-28T22:26:42.000Z",
+      "bestBit": "Very excited to announce partnering with @OpenRouter and launching our Inference service.",
+      "text": "Very excited to announce partnering with @OpenRouter and launching our Inference service. \n\nparticle-1 is live! Please send us feedback. Will respond to all DMs if you find any issues.\n\nHappy to fix things.",
+      "quotedTweetText": "Fewer tokens, same work. Particle-1 from @particle_api uses 28–52% fewer output tokens than DeepSeek V4.1 Flash across four coding benchmarks, per Particle. Now on OpenRouter."
+    }
+  ],
+  "isSuperseded": false
+}

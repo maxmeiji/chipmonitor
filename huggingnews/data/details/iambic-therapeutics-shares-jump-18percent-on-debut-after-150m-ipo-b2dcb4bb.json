@@ -1,0 +1,81 @@
+{
+  "slug": "iambic-therapeutics-shares-jump-18percent-on-debut-after-150m-ipo-b2dcb4bb",
+  "title": "Iambic Therapeutics Shares Jump 18% on Debut After $150M IPO",
+  "publishedAt": "2026-10-15T21:24:16.450Z",
+  "eventTimeApprox": "2026-10-15T21:01:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "us-markets",
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "pharma",
+      "name": "Pharma"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110838602485604736/HUs0hdAXQAIqRvR-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110838602485604736/HUs0hdAXQAIqRvR-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "alphaspace",
+      "tweetUrl": "https://x.com/alphaspace/status/2110838602485604736"
+    }
+  },
+  "summary": "The AI-driven cancer drugmaker reached a total valuation of nearly $900 million as shares climbed during its first day of trading. Iambic Therapeutics raised $150 million in a US initial public offering, with the stock finishing the session nearly 18% higher than its offering price.\n\nThe San Diego based firm is backed by Nvidia and will use the IPO proceeds to advance three early-stage cancer drug candidates. Iambic Therapeutics operates as a clinical-stage technology company that employs artificial intelligence to accelerate oncology drug discovery.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110778246522401062",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2110778246522401062",
+      "tweetedAt": "2026-10-15T17:02:04.000Z",
+      "bestBit": "shares soared 16% in its trading debut",
+      "text": "Iambic Therapeutics shares soared 16% in its trading debut after the clinical-stage cancer drugmaker and technology firm raised $150 million in a US initial public offering https://t.co/hwHpITgenz"
+    },
+    {
+      "tweetId": "2110838602485604736",
+      "role": "support",
+      "authorHandle": "alphaspace",
+      "url": "https://x.com/alphaspace/status/2110838602485604736",
+      "tweetedAt": "2026-10-15T21:01:54.000Z",
+      "bestBit": "giving the Nvidia-backed firm a market cap just shy of $900 million",
+      "text": "Iambic Therapeutics shares jumped nearly 18% in their trading debut after the AI-driven cancer drugmaker raised $150 million in its IPO, giving the Nvidia-backed firm a market cap just shy of $900 million.\n\nThe San Diego biotech plans to use the proceeds to advance three early-stage cancer drug candidates."
+    }
+  ],
+  "isSuperseded": false
+}

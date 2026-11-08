@@ -1,0 +1,71 @@
+{
+  "slug": "fields-medalist-jacob-tsimerman-forgoes-openai-role-to-lead-new-maisi-8d5062bb",
+  "title": "Fields Medalist Jacob Tsimerman Forgoes OpenAI Role to Lead New MAISI",
+  "publishedAt": "2026-10-15T20:25:20.471Z",
+  "eventTimeApprox": "2026-10-15T19:37:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "OpenAI has committed $10 million in API credits and access to its latest frontier models to support the Mathematical AI Safety Institute (MAISI). Jacob Tsimerman, a Fields medalist, will lead the new independent research organization as its founding Scientific Director and opted not to join OpenAI as an employee. Tsimerman aims to recruit other mathematicians to transition into AI safety roles to provide research for the wider industry.\n\nThe institute is currently organizing a multi-lab AI safety workshop for next year and is in discussions with other frontier AI labs and safety organizations to establish collaborations. Tsimerman described the need for action on AI safety as extremely urgent in his announcement on Oct. 15.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110808490197582122",
+      "role": "source",
+      "authorHandle": "jacob_tsimerman",
+      "url": "https://x.com/Jacob_Tsimerman/status/2110808490197582122",
+      "tweetedAt": "2026-10-15T19:02:15.000Z",
+      "bestBit": "participating in a multi-lab AI safety workshop we are organizing for next year with other frontier AI labs",
+      "text": "I’m excited to announce that I will be working at the Mathematical AI Safety Institute (MAISI) full-time as its founding Scientific Director! This means I will not be joining OpenAI as an employee, though I will still be collaborating with them, and I’m happy to announce that OpenAI will be supporting MAISI. They have offered us $10MM in API credits, and access to their latest models for our research use. Moreover, they will be participating in a multi-lab AI safety workshop we are organizing for next year with other frontier AI labs.\n\nAs an independent research institute, we are also in conversations with other labs and AI safety orgs about how MAISI can collaborate with them and contribute quickly to AI safety research across the industry. As we’ve seen over the past few weeks, the need for action on AI safety is extremely urgent. Research is an important part of that, and mathematicians have an important role to play!"
+    },
+    {
+      "tweetId": "2110823058256560576",
+      "role": "support",
+      "authorHandle": "_nathancalvin",
+      "url": "https://x.com/_NathanCalvin/status/2110823058256560576",
+      "tweetedAt": "2026-10-15T20:00:08.000Z",
+      "bestBit": "helping other mathematicians transition into this work as well",
+      "text": "Jacob is brilliant and i'm very happy he is bringing his considerable talents and energy to urgently contribute on AI safety and helping other mathematicians transition into this work as well. \n\nIf someone reading this is or knows any math faculty who are interested in working on AI safety with a fields medalist who deeply feels the urgency of getting this issue right, tell them to apply at  https://t.co/Tm8YsX0Aja. \n\nThis work is an ideal way for them to productively channel their AI <> Math related malaise!",
+      "quotedTweetText": "I’m excited to announce that I will be working at the Mathematical AI Safety Institute (MAISI) full-time as its founding Scientific Director! This means I will not be joining OpenAI as an employee, though I will still be collaborating with them, and I’m happy to announce that OpenAI will be supporting MAISI. They have offered us $10MM in API credits, and access to their latest models for our research use. Moreover, they will be participating in a multi-lab AI safety workshop we are organizing for next year with other frontier AI labs.\n\nAs an independent research institute, we are also in conversations with other labs and AI safety orgs about how MAISI can collaborate with them and contribute quickly to AI safety research across the industry. As we’ve seen over the past few weeks, the need for action on AI safety is extremely urgent. Research is an important part of that, and mathematicians have an important role to play!"
+    }
+  ],
+  "isSuperseded": false
+}

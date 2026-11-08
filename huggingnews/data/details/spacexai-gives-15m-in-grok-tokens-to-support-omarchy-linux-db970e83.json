@@ -1,0 +1,63 @@
+{
+  "slug": "spacexai-gives-15m-in-grok-tokens-to-support-omarchy-linux-db970e83",
+  "title": "SpaceXAI Gives $1.5M in Grok Tokens to Support Omarchy Linux",
+  "publishedAt": "2026-10-08T14:24:26.304Z",
+  "eventTimeApprox": "2026-10-08T14:05:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "summary": "Developers of the Omarchy open source Linux system will use $1.5 million in Grok tokens from SpaceXAI to automate code reviews and expand hardware compatibility. The grant provides access to Grok 4.7, which will power AI agents designed to help programmers fix software bugs and build new features for the operating system created by DHH.\n\nSpaceXAI is joining the Omacom Foundation as a Founding Corporate Patron as part of the donation. The partnership aims to support the growth of the open source project by integrating the company's AI resources into the foundation's development ecosystem.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108186690913182147",
+      "role": "source",
+      "authorHandle": "asfoundx",
+      "url": "https://x.com/AsFoundX/status/2108186690913182147",
+      "tweetedAt": "2026-10-08T13:24:09.000Z",
+      "bestBit": "Grok 4.7 will power AI agents that review code. Developers can use the tokens to fix bugs, build features, and get Omarchy running on more hardware",
+      "text": "🚨 SPACEXAI BACKS OPEN SOURCE LINUX WITH $1.5 MILLION\n\nSpaceXAI is donating $1.5 million in Grok tokens to support Omarchy, the open-source Linux system from DHH.\n\nGrok 4.7 will power AI agents that review code. Developers can use the tokens to fix bugs, build features, and get Omarchy running on more hardware."
+    },
+    {
+      "tweetId": "2108197257249947730",
+      "role": "support",
+      "authorHandle": "techdevnotes",
+      "url": "https://x.com/techdevnotes/status/2108197257249947730",
+      "tweetedAt": "2026-10-08T14:06:09.000Z",
+      "bestBit": "SpaceXAI is joining the Omacom Foundation as a Founding Corporate Patron, donating $1.5 million in Grok tokens",
+      "text": "SpaceXAI is joining the Omacom Foundation as a Founding Corporate Patron, donating $1.5 million in Grok tokens https://t.co/Ye7D2TwnSr"
+    }
+  ],
+  "isSuperseded": false
+}

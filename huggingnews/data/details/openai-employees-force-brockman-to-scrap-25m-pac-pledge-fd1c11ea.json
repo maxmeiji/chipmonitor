@@ -1,0 +1,134 @@
+{
+  "slug": "openai-employees-force-brockman-to-scrap-25m-pac-pledge-fd1c11ea",
+  "title": "OpenAI Employees Force Brockman to Scrap $25M PAC Pledge",
+  "publishedAt": "2026-10-02T23:55:15.008Z",
+  "eventTimeApprox": "2026-09-30T21:11:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 29,
+  "authorCount": 19,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-elections",
+      "name": "US Elections"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Internal pushback at the artificial intelligence developer led the company's president to withdraw a promised financial contribution to a political action committee. Reporting from Semafor, the Wall Street Journal, and the New York Times indicates that staff pressure influenced Greg Brockman's decision to scrap a second $25 million payment to the Leading the Future super PAC. In a leaked Slack message, Brockman told employees that the political group had become a \"distraction\" for the firm and that he felt terrible the organization continued to reflect on the company.\n\nBrockman has already provided an initial $25 million in funding, a commitment he first made in August 2025. The amount withdrawn represents less than 0.1% of his personal fortune, which Forbes listed this month at $25.5 billion based on his stake in OpenAI. This reversal in political spending comes as the company navigates growing sensitivity toward AI regulation among its workforce and the public ahead of the midterm elections.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105405198185459821",
+      "role": "source",
+      "authorHandle": "teddyschleifer",
+      "url": "https://x.com/teddyschleifer/status/2105405198185459821",
+      "tweetedAt": "2026-09-30T21:11:30.000Z",
+      "bestBit": "Greg Brockman, the OpenAI co-founder, is no longer making the second $25 million donation promised to the super PAC Leading the Future",
+      "text": "NEWS.\n\nMore AI fallout ahead of the midterms.\n\nGreg Brockman, the OpenAI co-founder, is no longer making the second $25 million donation promised to the super PAC Leading the Future.\n\nScoop with @MikeIsaac.\n\nhttps://t.co/NYAXEHS5D9"
+    },
+    {
+      "tweetId": "2105415108901945830",
+      "role": "source",
+      "authorHandle": "teddyschleifer",
+      "url": "https://x.com/teddyschleifer/status/2105415108901945830",
+      "tweetedAt": "2026-09-30T21:50:53.000Z",
+      "bestBit": "I feel terrible about the fact that LTF keeps reflecting on the company and become so much of a distraction for people here",
+      "text": "OpenAI billionaire Greg Brockman:\n\n“I also want to say that I feel terrible about the fact that LTF keeps reflecting on the company and become so much of a distraction for people here,” Mr. Brockman wrote that month in a Slack message obtained by The New York Times. “I’ve been thinking hard about how to turn the ship on it. We’ve donated $25m so far, and have no plans to donate more at this time.”"
+    },
+    {
+      "tweetId": "2105753903405109345",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2105753903405109345",
+      "tweetedAt": "2026-10-01T20:17:08.000Z",
+      "bestBit": "the withdrawn sum is under 0.1% of Brockman's estimated $25.5B fortune, so affordability was never the constraint",
+      "text": "WSJ: OpenAI President Greg Brockman quietly scrapped a pledged second $25M gift to pro-AI super PAC Leading the Future.\n\nIn June, he told OpenAI staff in a Slack message, obtained by the Times, that he had no plans to give more.\n\n----\n\nthe withdrawn sum is under 0.1% of Brockman's estimated $25.5B fortune, so affordability was never the constraint.\n(Brockman debuted on the Forbes 400 earlier this month as its wealthiest newcomer, with an estimated net worth of $25.5 billion stemming from his stake in OpenAI.)"
+    },
+    {
+      "tweetId": "2105436790467236170",
+      "role": "commentary",
+      "authorHandle": "ryangrim",
+      "url": "https://x.com/ryangrim/status/2105436790467236170",
+      "tweetedAt": "2026-09-30T23:17:02.000Z",
+      "bestBit": "You were right, it was my mistake to pledge $25 million to this AI super PAC",
+      "text": "You were right, it was my mistake to pledge $25 million to this AI super PAC",
+      "quotedTweetText": "NEWS.\n\nMore AI fallout ahead of the midterms.\n\nGreg Brockman, the OpenAI co-founder, is no longer making the second $25 million donation promised to the super PAC Leading the Future.\n\nScoop with @MikeIsaac.\n\nhttps://t.co/NYAXEHS5D9"
+    },
+    {
+      "tweetId": "2105440867268149483",
+      "role": "commentary",
+      "authorHandle": "ethanjperez",
+      "url": "https://x.com/EthanJPerez/status/2105440867268149483",
+      "tweetedAt": "2026-09-30T23:33:14.000Z",
+      "bestBit": "huge kudos to @gdb for changing his political giving based on recent events and feedback from staff",
+      "text": "If this is true, huge kudos to @gdb for changing his political giving based on recent events and feedback from staff. Bullish on @OpenAI",
+      "quotedTweetText": "NEWS.\n\nMore AI fallout ahead of the midterms.\n\nGreg Brockman, the OpenAI co-founder, is no longer making the second $25 million donation promised to the super PAC Leading the Future.\n\nScoop with @MikeIsaac.\n\nhttps://t.co/NYAXEHS5D9"
+    },
+    {
+      "tweetId": "2105441886861443195",
+      "role": "commentary",
+      "authorHandle": "ethanjperez",
+      "url": "https://x.com/EthanJPerez/status/2105441886861443195",
+      "tweetedAt": "2026-09-30T23:37:17.000Z",
+      "bestBit": "huge kudos to @gdb for cutting his anti-regulatory political giving based on recent events and feedback from staff",
+      "text": "If this is true, huge kudos to @gdb for cutting his anti-regulatory political giving based on recent events and feedback from staff. Bullish on @OpenAI",
+      "quotedTweetText": "NEWS.\n\nMore AI fallout ahead of the midterms.\n\nGreg Brockman, the OpenAI co-founder, is no longer making the second $25 million donation promised to the super PAC Leading the Future.\n\nScoop with @MikeIsaac.\n\nhttps://t.co/NYAXEHS5D9"
+    },
+    {
+      "tweetId": "2106166478517256607",
+      "role": "commentary",
+      "authorHandle": "mattyglesias",
+      "url": "https://x.com/mattyglesias/status/2106166478517256607",
+      "tweetedAt": "2026-10-02T23:36:33.000Z",
+      "bestBit": "People across the industry should realize they have the ability to influence their bosses political activities",
+      "text": "Great reporting and good job by OpenAI employees here. \n\nPeople across the industry should realize they have the ability to influence their bosses political activities.",
+      "quotedTweetText": "How OpenAI employees forced its president to back down\n\nExclusive reporting from inside OpenAI's slack by @GarrisonLovely for @semafor\n\nhttps://t.co/QnV6Nsk0ar https://t.co/s40pgjflCP"
+    },
+    {
+      "tweetId": "2105468311391940949",
+      "role": "analysis",
+      "authorHandle": "zeffmax",
+      "url": "https://x.com/ZeffMax/status/2105468311391940949",
+      "tweetedAt": "2026-10-01T01:22:17.000Z",
+      "bestBit": "it’s remarkable how much the national discourse around AI regulation has changed since greg initially made this commitment in August 2025",
+      "text": "Great scoop\n\nalso, it’s remarkable how much the national discourse around AI regulation has changed since greg initially made this commitment in August 2025. Don’t think many expected it would become quite this big an issue so quickly",
+      "quotedTweetText": "NEWS.\n\nMore AI fallout ahead of the midterms.\n\nGreg Brockman, the OpenAI co-founder, is no longer making the second $25 million donation promised to the super PAC Leading the Future.\n\nScoop with @MikeIsaac.\n\nhttps://t.co/NYAXEHS5D9"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-president-greg-brockman-cuts-second-25m-super-pac-donation-92db8a91",
+    "title": "OpenAI President Greg Brockman Cuts Second $25M Super PAC Donation",
+    "publishedAt": "2026-09-30T21:37:59.258Z",
+    "eventTimeApprox": "2026-09-30T21:11:30.000Z",
+    "routingTopicKeys": [
+      "us-politics",
+      "ai"
+    ],
+    "tweetCount": 24,
+    "authorCount": 16
+  }
+}

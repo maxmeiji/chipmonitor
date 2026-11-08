@@ -1,0 +1,60 @@
+{
+  "slug": "meta-removes-ai-news-scraping-clause-in-revised-commercial-terms-f2eadc8c",
+  "title": "Meta Removes AI News Scraping Clause in Revised Commercial Terms",
+  "publishedAt": "2026-10-17T19:29:43.238Z",
+  "eventTimeApprox": "2026-10-17T16:54:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "The company has purged language from its upcoming business terms that might have permitted the collection of journalistic content to train artificial intelligence. The change follows claims from the News/Media Alliance that the previous policy was \"outrageous and probably illegal,\" prompting a reversal of the proposed conditions.\n\nThe revised terms take effect October 30 and still allow Meta to crawl websites linked to business accounts, including the use of \"test credentials\" for ads, business products, and security. While Meta stated it never intended to scrape news sites and pointed to its adherence to robots.txt, legal experts warn the updated wording may still enable AI scraping. Businesses cannot currently opt out of this crawling without forfeiting commercial use of Meta's platforms.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111501118509302219",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2111501118509302219",
+      "tweetedAt": "2026-10-17T16:54:31.000Z",
+      "bestBit": "after the News/Media Alliance called the policy 'outrageous and probably illegal.'",
+      "text": "Meta has removed language from its upcoming commercial terms that could have let it scrape news sites and use 'any content' to train its AI, after the News/Media Alliance called the policy 'outrageous and probably illegal.' \n\nBut the revised terms, which take effect October 30, still let Meta crawl and collect content from sites tied to business accounts, and even create 'test credentials' to access them, now only for ads, business products and security. \n\nMeta says it never meant to scrape news sites and points to robots.txt. Businesses still can't opt out of crawling without giving up commercial use of Meta's platforms."
+    },
+    {
+      "tweetId": "2111531475740840016",
+      "role": "support",
+      "authorHandle": "justthenews",
+      "url": "https://x.com/JustTheNews/status/2111531475740840016",
+      "tweetedAt": "2026-10-17T18:55:08.000Z",
+      "bestBit": "Meta’s new terms could allow it to scrape news websites for AI training, legal experts warn",
+      "text": "Meta’s new terms could allow it to scrape news websites for AI training, legal experts warn https://t.co/HzUkLXrbzW"
+    }
+  ],
+  "isSuperseded": false
+}

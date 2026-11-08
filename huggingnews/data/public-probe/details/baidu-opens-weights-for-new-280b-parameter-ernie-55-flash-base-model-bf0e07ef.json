@@ -1,0 +1,91 @@
+{
+  "slug": "baidu-opens-weights-for-new-280b-parameter-ernie-55-flash-base-model-bf0e07ef",
+  "title": "Baidu Opens Weights for New 280B Parameter ERNIE 5.5 Flash Base Model",
+  "publishedAt": "2026-11-05T14:23:12.073Z",
+  "eventTimeApprox": "2026-11-05T14:05:31.500Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BIDU",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Baidu, Inc.",
+      "hubKey": "bidu"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118342822516437115/HWVWMt8bIAA_jfF-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118342822516437115/HWVWMt8bIAA_jfF-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "baidu_ernie",
+      "tweetUrl": "https://x.com/Baidu_ERNIE/status/2118342822516437115"
+    }
+  },
+  "summary": "Baidu has made the raw weights of its ERNIE-5.5-Flash-Base available for public research, enabling developers to perform domain adaptation and instruction tuning. The open mixture-of-experts (MoE) model features 280B total parameters with 14B activated per token and was pre-trained on 33.5T tokens. It supports a context window of 1M tokens for inference and fine-tuning and is available on Hugging Face and ModelScope.\n\nThe model recorded an 82.3% pass rate on the HumanEval+ benchmark, surpassing the 69.5% posted by DeepSeek-V4-Flash-Base under the same setup. Baidu launched a vLLM-ERNIE plugin for deployment on Nvidia GB200 and H100 hardware, while the SGLang and vLLM frameworks announced immediate support. Baidu said a post-trained version of ERNIE 5.5 Flash will be released soon.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118342822516437115",
+      "role": "source",
+      "authorHandle": "baidu_ernie",
+      "url": "https://x.com/Baidu_ERNIE/status/2118342822516437115",
+      "tweetedAt": "2026-11-05T14:01:00.000Z",
+      "bestBit": "128K training context, 1M for fine-tuning and inference",
+      "text": "Introducing ERNIE-5.5-Flash-Base, the pre-trained base of ERNIE 5.5 Flash before any mid- or post-training. The post-trained ERNIE 5.5 Flash is coming soon. \n• 280B total / 14B activated MoE \n• 33.5T pre-training tokens \n• 128K training context, 1M for fine-tuning and inference"
+    },
+    {
+      "tweetId": "2118346340333969758",
+      "role": "support",
+      "authorHandle": "vllm_project",
+      "url": "https://x.com/vllm_project/status/2118346340333969758",
+      "tweetedAt": "2026-11-05T14:14:59.000Z",
+      "bestBit": "Code highlights: 82.3% HumanEval+ and 40.1% LiveCodeBench pass@1 (both 1-shot), versus 69.5% and 31.9% for DeepSeek-V4-Flash-Base under the same evaluation setup.",
+      "text": "🎉 Day-0 support for @Baidu_Inc’s ERNIE 5.5 Flash Base with vLLM!\n\n280B total parameters, 14B active per token. Pre-trained on 33.5T tokens, with 128K training context and up to 1M tokens for fine-tuning and inference. Open Base weights for domain adaptation, instruction tuning and RL research.\n\nCode highlights: 82.3% HumanEval+ and 40.1% LiveCodeBench pass@1 (both 1-shot), versus 69.5% and 31.9% for DeepSeek-V4-Flash-Base under the same evaluation setup.\n\nEfficiency is built into the architecture: 37 compressed-attention layers + 6 MLA-DSA layers, Multi-Router Latent MoE, and ECHO — reusing the final layer as a speculative draft.\n\nServe FP8 or BF16 with Baidu’s vLLM-ERNIE plugin on vLLM 0.32.0. ECHO runs through vLLM’s MTP path; recipes include expert parallelism, KV offload and prefill/decode disaggregation, with runs verified on @NVIDIA GB200 and H100.\n\nWeights are on @huggingface and @ModelScope2022.\n\nRecipe: https://t.co/OhlAm9XYKB\nFP8: https://t.co/pzNsf3LBb9\nBF16: https://t.co/igWS26BQ62",
+      "quotedTweetText": "Introducing ERNIE-5.5-Flash-Base, the pre-trained base of ERNIE 5.5 Flash before any mid- or post-training. The post-trained ERNIE 5.5 Flash is coming soon. \n• 280B total / 14B activated MoE \n• 33.5T pre-training tokens \n• 128K training context, 1M for fine-tuning and inference"
+    },
+    {
+      "tweetId": "2118345098291556755",
+      "role": "support",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2118345098291556755",
+      "tweetedAt": "2026-11-05T14:10:03.000Z",
+      "bestBit": "ERNIE-5.5-Flash-Base is here, packed with new architecture, and SGLang runs all of it from day 0",
+      "text": "ERNIE-5.5-Flash-Base is here, packed with new architecture, and SGLang runs all of it from day 0 🚀\n• ECHO speculative decoding with @Baidu_ERNIE's built-in draft\n• Up to 1M-token context\n• FP8 on 2× B300 or 8× H100, BF16 on 4× B300\n\nServe it with SGLang : https://t.co/lknhzUMNWR",
+      "quotedTweetText": "Introducing ERNIE-5.5-Flash-Base, the pre-trained base of ERNIE 5.5 Flash before any mid- or post-training. The post-trained ERNIE 5.5 Flash is coming soon. \n• 280B total / 14B activated MoE \n• 33.5T pre-training tokens \n• 128K training context, 1M for fine-tuning and inference"
+    },
+    {
+      "tweetId": "2118274780918903009",
+      "role": "support",
+      "authorHandle": "adinayakup",
+      "url": "https://x.com/AdinaYakup/status/2118274780918903009",
+      "tweetedAt": "2026-11-05T09:30:38.000Z",
+      "bestBit": "New open MoE model from @BaiduAI_News",
+      "text": "ERNIE-5.5-Flash-Base 🔥 New open MoE model from @BaiduAI_News \n\n- 280B / A 14B \n- 33.5T pre-training tokens\n- Up to 1M context\n- Hybrid sparse attention\n- Raw base checkpoint, no post training\n- Custom license https://t.co/RMtigeILoS"
+    }
+  ],
+  "isSuperseded": false
+}

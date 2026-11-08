@@ -1,0 +1,53 @@
+{
+  "slug": "china-launches-national-data-group-for-300b-ai-infrastructure-plan-12dd7e35",
+  "title": "China Launches National Data Group for $300B AI Infrastructure Plan",
+  "publishedAt": "2026-10-20T15:39:18.778Z",
+  "eventTimeApprox": "2026-10-20T14:01:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "summary": "The central government in Beijing now directly administers a new state owned company tasked with the development and utilization of data resources. This entity, known as the National Data Group, is a state owned enterprise created to consolidate data assets and strengthen the technological framework required for artificial intelligence.\n\nThe launch coincides with plans to invest roughly $300 billion in data centers over the next 5 years. This centralized approach aims to foster technological breakthroughs and ensure the necessary data infrastructure is in place to meet the nation's broader AI ambitions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112515616091631918",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112515616091631918",
+      "tweetedAt": "2026-10-20T12:05:46.000Z",
+      "bestBit": "China inaugurates the National Data Group, a new state-owned enterprise that will focus on developing and utilizing data resources",
+      "text": "Chinese state media: China inaugurates the National Data Group, a new state-owned enterprise that will focus on developing and utilizing data resources (Reuters)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2112565798887715012",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2112565798887715012",
+      "tweetedAt": "2026-10-20T15:25:10.000Z",
+      "bestBit": "established a new state-owned data group directly administered by the central government as Beijing seeks to strengthen its data infrastructure",
+      "text": "China has established a new state-owned data group directly administered by the central government as Beijing seeks to strengthen its data infrastructure and foster technological development to support its artificial intelligence ambitions https://t.co/TBylKlI3xZ"
+    }
+  ],
+  "isSuperseded": false
+}

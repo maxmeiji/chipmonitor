@@ -1,0 +1,110 @@
+{
+  "slug": "morgan-stanley-reaffirms-300-spacex-target-as-shares-reach-june-high-815443db",
+  "title": "Morgan Stanley Reaffirms $300 SpaceX Target as Shares Reach June High",
+  "publishedAt": "2026-10-06T12:11:08.458Z",
+  "eventTimeApprox": "2026-10-05T19:05:03.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "TSM",
+      "kind": "equity",
+      "role": "related",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "hubKey": "tsm"
+    },
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107435709401325699/HT8dm9qWMAEh93_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107435709401325699/HT8dm9qWMAEh93_-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "coinmarketcap",
+      "tweetUrl": "https://x.com/CoinMarketCap/status/2107435709401325699"
+    }
+  },
+  "summary": "Analyst Adam Jonas of Morgan Stanley describes SpaceX as \"cheap and getting cheaper\" and identifies a unique opportunity for investors to enter the company. Shares of the company rose 7.6% on Monday to approximately $171.09, the highest closing price since June, following confirmation from Elon Musk that SpaceX is in early stage talks with TSMC. These discussions involve \"Terafab,\" a Texas based chip venture tied to Tesla and xAI that could eventually invest $119B to manufacture chips for AI infrastructure and robotics.\n\nMorgan Stanley reiterated an Overweight rating and a $300 price target, noting that SpaceX trades roughly 40% below mega cap AI peers when growth is factored in. Jonas indicates significant upside in compute services, where recent short term contracts are closer to $40 per watt compared to the $17 consensus across 4.1 GW of capacity; an increase of $10 per watt could add about $41B in revenue. Other upcoming catalysts for the stock include Starship Flight 15, Q3 earnings, and new Grok releases.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107069125302325403",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2107069125302325403",
+      "tweetedAt": "2026-10-05T11:23:21.000Z",
+      "bestBit": "Analyst Adam Jonas says SpaceX trades roughly 40% below mega-cap AI peers on a growth-adjusted basis.",
+      "text": "$SPCX  - MORGAN STANLEY: SPACEX “CHEAP AND GETTING CHEAPER”\n\nMorgan Stanley reiterates Overweight on SpaceX with a $300 price target, arguing the stock looks cheap once its growth profile is considered.\n\nAnalyst Adam Jonas says SpaceX trades roughly 40% below mega-cap AI peers on a growth-adjusted basis.\n\nPotential catalysts include upcoming Starship flights, Q3 earnings, Grok releases and additional neocloud deals, with a successful Starship catch potentially the biggest catalyst since the IPO."
+    },
+    {
+      "tweetId": "2107279215720907082",
+      "role": "support",
+      "authorHandle": "amitisinvesting",
+      "url": "https://x.com/amitisinvesting/status/2107279215720907082",
+      "tweetedAt": "2026-10-06T01:18:11.000Z",
+      "bestBit": "SpaceX $SPCX rose about 7.6% on Monday to roughly $171.09 after Elon Musk confirmed that discussions with TSMC are real",
+      "text": "A TON OF THINGS HAPPENED IN THE STOCK MARKET TODAY.\n\nHere's a full recap:\n\n1. SpaceX $SPCX rose about 7.6% on Monday to roughly $171.09 after Elon Musk confirmed that discussions with TSMC are real, though still in the early stages. The talks follow reports that TSMC is exploring a role in Terafab, the Texas chip venture tied to Tesla, SpaceX, and xAI, which could eventually invest $119B to manufacture chips for products including Optimus, Cybercab, and future AI infrastructure. The prospect of TSMC participating was viewed as strengthening SpaceX’s long-term AI chip supply strategy and potentially reducing Intel’s future role in the project, helping send Intel shares lower while TSMC reached a new all-time high. A reiterated Morgan Stanley Overweight rating and $300 price target provided additional support for the stock.\n\n2. Meta $META and Microsoft $MSFT are reportedly reducing internal use of Anthropic’s Claude as they increasingly shift employees toward their own AI tools, according to The Information. Microsoft had been on pace to spend at least $1B annually on internal Claude usage earlier this year but has since reduced that level by more than one-third. At Meta, the number of Claude Code users has reportedly fallen to about 30,000 from roughly 60,000 earlier this year, while MetaCode now has more than 30,000 users and Muse Code has surpassed 6,000. Despite the shift, Meta still spent more than $105M on Claude Code over a recent 28-day period.\n\n3. JPMorgan expects the memory market $MU $SNDK $WDC $SKHY $STX to remain supply-constrained through at least 2028, with customer order discussions already extending as far out as 2031. The firm forecasts HBM bit demand to grow 63%, non-HBM server DRAM demand to increase 37%, and CY2027 HBM blended ASPs to rise 54% year over year. JPM also believes Micron’s expectation of having more than 35% of revenue covered by long-term supply agreements through 2030 may prove conservative, noting that several Asian memory manufacturers already have 50%+ of their capacity secured under similar long-term agreements.\n\n4. RBC Capital Markets reiterated its Outperform rating on Zeta $ZETA and raised its price target to $40 from $31, implying roughly 22.6% upside. Analyst Matt Swanson said recent investor meetings highlighted growing momentum around strategic partnerships and adoption of Athena, while emphasizing that RBC does not believe these opportunities are materially reflected in either current guidance or the company’s 2030 outlook. RBC also argued that Zeta has increasingly differentiated itself from traditional ad-tech peers and is now being valued more like a software company. The latest increase marks RBC’s third price target raise on Zeta this calendar year.\n\n5. Ondas $ONDS secured a $56M order for Electronic Safe & Arm Devices (ESADs) supporting a European loitering munition program. The contract will be fulfilled through Ondas' recently acquired Bron Technologies and GATE Technologies businesses. ESADs manage a munition’s safety, arming, and initiation functions, with production set to move forward using technology that has already been qualified for deployment. The award further expands Ondas’ presence in the growing European defense and precision munitions market.\n\n6. Bank of America, Citi, and Morgan Stanley have begun syndicating a $60B debt package tied to Anthropic’s lease of Google-designed TPUs supplied through Broadcom $AVGO, making it the largest chip-financing deal to date. The package includes $42B of senior secured debt backed by Broadcom and $18B of junior debt without Broadcom guarantees, with Blackstone already committing roughly $9B to the junior tranche. The financing is expected to fund Anthropic’s 2027 chip orders, with Broadcom’s support helping reduce borrowing costs and potentially allowing the senior debt to be refinanced into the investment-grade market. The deal centers on Google $GOOGL TPUs, developed with Broadcom as an alternative to NVIDIA $NVDA GPUs for large-scale AI workloads, while Broadcom filings also indicate Anthropic could issue up to $42B of convertible notes to Broadcom to cover future lease payments.\n\n7. U.S. Strategic Petroleum Reserve (SPR) inventories fell another 767,000 barrels last week to 283M barrels, the lowest level since 1982. The decline marks the 28th consecutive weekly drawdown, leaving the SPR down nearly 133M barrels from its recent peak. As a result, America's emergency crude oil reserves continue to sit near their lowest levels in more than four decades, underscoring the limited strategic buffer available despite elevated geopolitical risks.\n\n8. The Consumer Confidence Index fell 6.7 points in September to 81.9, its lowest level since April 2014, marking a fourth consecutive monthly decline and an 11.2-point drop over that period. The Present Situation Index declined 7.9 points to 109.3, its weakest reading since February 2021, while the Expectations Index fell 5.9 points to 63.6, its lowest since April 2025 and a third straight monthly decline. Confidence has weakened across all age groups and nearly all income brackets over the past six months. Consumers increasingly cited high prices, the cost of goods and services, and oil and gasoline prices as the primary factors weighing on the economic outlook.\n\n9. Brazilian markets rallied after Flávio Bolsonaro finished ahead of President Luiz Inácio Lula da Silva in the first round of Brazil’s presidential election, with investors reacting positively to the prospect of a more market-friendly policy agenda ahead of the October 25 runoff. Brazilian assets including Nu Holdings $NU, the iShares MSCI Brazil ETF $EWZ, and other Brazil-exposed equities such as MercadoLibre $MELI outperformed following the result. The market reaction reflected optimism around potential fiscal and economic policy changes, though the election remains undecided with a runoff still to come.\n\n10. The top 10 most active options today by contracts traded were $NVDA with 4.0M contracts, $TSLA with 3.2M contracts, $SPCX with 1.7M contracts, $AAPL with 1.1M contracts, $MSFT with 874K contracts, $MU with 872K contracts, $AMZN with 844K contracts, $INTC with 835K contracts, $META with 790K contracts, and $GOOGL with 502K contracts.\n\n11. OpenAI is reportedly in talks with UAE investment funds, including MGX, and BlackRock $BLK to anchor a new $30B+ funding round at a valuation of roughly $1.4T, according to Bloomberg. UAE investors have discussed contributing as much as $10B collectively, while existing backers Thrive Capital and Andreessen Horowitz are also considering additional investments, alongside discussions with the University of California endowment. Rather than negotiating with a lead investor, OpenAI is reportedly presenting investors with a fixed ~$1.4T pre-money valuation. The fundraising comes as OpenAI continues to delay an IPO until at least 2027 while raising unprecedented amounts of capital to fund AI model development and large-scale infrastructure expansion.\n\n12. Melius upgraded Microsoft $MSFT to Buy with a $665 price target, arguing that growing concerns around AI safety are actually strengthening Microsoft's competitive position. The firm said enterprises are increasingly choosing to spend on a secure AI wrapper that can route models to the right tasks, manage AI agents, and provide governance rather than relying directly on frontier AI labs. Melius believes Satya Nadella and Microsoft's leadership are becoming the \"adults in charge\" for AI security and governance, and now expects Azure revenue growth to accelerate to above 50% by F4Q27.\n\nWALL STREET IS THE GREATEST SHOW ON EARTH."
+    },
+    {
+      "tweetId": "2106986698156421537",
+      "role": "commentary",
+      "authorHandle": "marsrepublica",
+      "url": "https://x.com/marsrepublica/status/2106986698156421537",
+      "tweetedAt": "2026-10-05T05:55:49.000Z",
+      "bestBit": "$100B+ ARR, $2T+ valuation",
+      "text": "A $300 $SPCX sounds absurd today, but 4 months ago, $100B 2026 ARR was absurd. Yet here we are: $100B+ ARR, $2T+ valuation, as predicted. And that’s merely existing compute converting to deals. Next year’s CapEx kicks off the real bull run. Our model supports $300 on multi-$100B ARR.",
+      "quotedTweetText": "Morgan Stanley's Adam Jonas in new @SpaceX note:\n\n\"We think that over the next few weeks (ahead of Starship Flight 15), investors can take advantage of a unique opportunity to buy shares that look unusually cheap. We expect developments over the next few months will help investors better appreciate the role of SPCX in addressing the critical bottlenecks of power and chip making, potentially unlocking earnings growth and multiple expansion for the stock.\"\n\nPrice target the same at $300."
+    },
+    {
+      "tweetId": "2107082104274096549",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107082104274096549",
+      "tweetedAt": "2026-10-05T12:14:56.000Z",
+      "bestBit": "every extra $10 per watt can add ~$41B of revenue without adding capacity",
+      "text": "Morgan Stanley’s Adam Jonas says “not a single hand went up” when he asked 40 clients who owned $SPCX despite a $300 target.\n\nThe upside he sees is largely in compute with consensus at ~$17 per watt across 4.1 GW while recent short term contracts are closer to ~$40 so every extra $10 per watt can add ~$41B of revenue without adding capacity.\n\nAnd thats before giving full credit to how launch, Starlink and AI compute reinforce each other so upside comes from how the pieces work together rather than any one business alone."
+    }
+  ],
+  "isSuperseded": false
+}

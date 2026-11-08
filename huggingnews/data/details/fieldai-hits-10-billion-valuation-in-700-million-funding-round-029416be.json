@@ -1,0 +1,45 @@
+{
+  "slug": "fieldai-hits-10-billion-valuation-in-700-million-funding-round-029416be",
+  "title": "FieldAI Hits $10 Billion Valuation in $700 Million Funding Round",
+  "publishedAt": "2026-10-02T17:24:17.357Z",
+  "eventTimeApprox": "2026-10-02T16:30:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "summary": "FieldAI is developing a unified intelligence system intended to function as a \"universal general-purpose brain\" for various robot hardware platforms. The startup raised $700 million in a funding round that values the company at $10 billion, according to a person familiar with the transaction. This latest valuation more than quadruples the firm's market worth in just over 12 months.\n\nThe funding brings FieldAI's value closer to industry rivals Physical Intelligence, valued at roughly $11 billion, and Skild AI, which is valued at more than $14 billion. The company's valuation stood at $2 billion in 2025 before this most recent capital injection.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106048045985235081",
+      "role": "source",
+      "authorHandle": "ryajetha",
+      "url": "https://x.com/ryajetha/status/2106048045985235081",
+      "tweetedAt": "2026-10-02T15:45:57.000Z",
+      "bestBit": "robotics startup FieldAI has raised $700 million at a $10 billion valuation, according to a person familiar with the deal, more than quadrupling its valuation in just over a year.",
+      "text": "Scoop: robotics startup FieldAI has raised $700 million at a $10 billion valuation, according to a person familiar with the deal, more than quadrupling its valuation in just over a year.\n\nThe round brings FieldAI's valuation closer to its competitors, including Physical Intelligence, valued at roughly $11 billion, and Skild AI, valued at more than $14 billion.\n\n🎁 link below"
+    }
+  ],
+  "isSuperseded": false
+}

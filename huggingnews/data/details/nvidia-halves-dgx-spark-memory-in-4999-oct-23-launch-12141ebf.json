@@ -1,0 +1,77 @@
+{
+  "slug": "nvidia-halves-dgx-spark-memory-in-4999-oct-23-launch-12141ebf",
+  "title": "Nvidia Halves DGX Spark Memory in $4,999 Oct 23 Launch",
+  "publishedAt": "2026-10-02T13:40:58.737Z",
+  "eventTimeApprox": "2026-10-02T13:09:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106010630843224372/HToM657aQAA7Xww-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106010630843224372/HToM657aQAA7Xww-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2106010630843224372"
+    }
+  },
+  "summary": "The semiconductor giant will release a 64GB DGX Spark workstation that can handle local AI models of up to 100B parameters. The system launches on Oct. 23 with a starting price of $4,999 through partners including Acer, ASUS, Dell, Gigabyte, HP, and MSI. Utilizing the GB10 Grace Blackwell chip, the units can be linked over 200GbE via Nvidia Sync to pool 128GB of memory, permitting the use of 200B parameter models and delivering up to 1.7x the performance of a single system.\n\nMarket observers noted the hardware reduces memory in half compared to the previous 128GB version while maintaining a similar street price. This transition to lower memory specifications coincides with a forecast from Micron that memory supply will remain tight through 2028, a condition some analysts suggest has increased pricing power for hardware providers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106010630843224372",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2106010630843224372",
+      "tweetedAt": "2026-10-02T13:17:16.000Z",
+      "bestBit": "Two units can be linked over 200GbE to pool 128GB of memory and run models up to 200B parameters",
+      "text": "NVIDIA $NVDA is launching a new 64GB DGX Spark on Oct. 23, starting at $4,999 through Acer, ASUS, Dell, Gigabyte, HP and MSI.\n\nIt keeps the GB10 Grace Blackwell chip and supports models up to 100B parameters locally.\n\nTwo units can be linked over 200GbE to pool 128GB of memory and run models up to 200B parameters, with NVIDIA reporting up to 1.7x performance vs. one system.\n\nNVIDIA Sync will automatically configure the two-system cluster."
+    },
+    {
+      "tweetId": "2106013830438350856",
+      "role": "commentary",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2106013830438350856",
+      "tweetedAt": "2026-10-02T13:29:59.000Z",
+      "bestBit": "New Nvidia DGX Spark SKU has been de-specced to 64GB, cutting its memory in half, yet it sells at roughly the same street price as the previous 128GB version",
+      "text": "Yuck. New Nvidia DGX Spark SKU has been de-specced to 64GB, cutting its memory in half, yet it sells at roughly the same street price as the previous 128GB version. https://t.co/smg1sF0UZn https://t.co/ORn2zbDroH"
+    },
+    {
+      "tweetId": "2106012536684556774",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2106012536684556774",
+      "tweetedAt": "2026-10-02T13:24:51.000Z",
+      "bestBit": "you can now get half the memory for 25% more than original 128GB system and need two units to get back to 128GB",
+      "text": "$NVDA is launching a new 64GB DGX Spark for $4,999 giving developers another way to build and scale local AI on same GB10 Grace Blackwell chip.\n\nReally interesting that you can now get half the memory for 25% more than original 128GB system and need two units to get back to 128GB.\n\nThat lines up with $TSLA cutting AI5 memory and $MU saying supply tightens through 2028 which is another sign memory is where pricing power sits."
+    }
+  ],
+  "isSuperseded": false
+}

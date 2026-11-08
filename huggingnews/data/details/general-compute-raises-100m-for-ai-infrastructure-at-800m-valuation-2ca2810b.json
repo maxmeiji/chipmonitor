@@ -1,0 +1,81 @@
+{
+  "slug": "general-compute-raises-100m-for-ai-infrastructure-at-800m-valuation-2ca2810b",
+  "title": "General Compute Raises $100M for AI Infrastructure at $800M Valuation",
+  "publishedAt": "2026-10-27T16:39:05.620Z",
+  "eventTimeApprox": "2026-10-27T16:21:53.500Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CBRS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Cerebras",
+      "hubKey": "cerebras"
+    },
+    {
+      "ticker": "PVT:SMBN",
+      "kind": "private",
+      "role": "related",
+      "name": "SambaNova",
+      "hubKey": "sambanova"
+    }
+  ],
+  "summary": "An AI neocloud startup focused on high-speed inference secured new funding from venture capital firms Abstract and Blackbird to grow its bare-metal computing network. The $100 million Series A round values General Compute at $800 million post-money, which represents a 13-fold increase in the company's valuation over the last five months.\n\nThe provider leverages specialized chips from SambaNova, Cerebras, and Positron to scale its inference infrastructure. To avoid building new data centers from scratch, the company repurposes existing facilities and former Bitcoin mining sites for AI workloads. The funding follows a new customer agreement generating $100 million in annual recurring revenue, and the startup targets the deployment of 75MW of computing capacity by 2027.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115073993372012988",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2115073993372012988",
+      "tweetedAt": "2026-10-27T13:31:50.000Z",
+      "bestBit": "Neocloud General Compute, which specializes in bare-metal infrastructure, raised a $100M Series A led by Blackbird and Abstract",
+      "text": "Neocloud General Compute, which specializes in bare-metal infrastructure, raised a $100M Series A led by Blackbird and Abstract at an $800M post-money valuation (@timfernholz / TechCrunch)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2115114419067727995",
+      "role": "source",
+      "authorHandle": "general_compute",
+      "url": "https://x.com/general_compute/status/2115114419067727995",
+      "tweetedAt": "2026-10-27T16:12:29.000Z",
+      "bestBit": "We believe demand for fast inference is many times larger than demand for slow inference, and it’s about to go exponential.",
+      "text": "🚨 Big news today: We’ve raised $100M for our Series A! 🎉 🚀\n\nWe believe demand for fast inference is many times larger than demand for slow inference, and it’s about to go exponential.\n\nThanks to our co-leads @BlackbirdVC and @Abstractvc. Two visionary partners join our journey 🎉 🚀"
+    },
+    {
+      "tweetId": "2115118287529152628",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115118287529152628",
+      "tweetedAt": "2026-10-27T16:27:51.000Z",
+      "bestBit": "Rather than building large data centers from scratch, the company leases existing facilities and converts former Bitcoin mining sites to run AI workloads.",
+      "text": "GENERAL COMPUTE RAISES $100M SERIES A AT AN $800M VALUATION; 13x IN 5 MONTHS\n\nGeneral Compute is an AI neocloud startup focused on inference, providing computing infrastructure using specialized chips from SambaNova, Cerebras, and Positron.\n\nRather than building large data centers from scratch, the company leases existing facilities and converts former Bitcoin mining sites to run AI workloads.\n\nThe funding round, co-led by Blackbird Ventures and Abstract Ventures, follows a major customer agreement worth $100M in annual recurring revenue.\n\nGeneral Compute expects to deploy 75MW of computing capacity in 2027.\n\nhttps://t.co/4XSG1zLmih",
+      "quotedTweetText": "🚨 Big news today: We’ve raised $100M for our Series A! 🎉 🚀\n\nWe believe demand for fast inference is many times larger than demand for slow inference, and it’s about to go exponential.\n\nThanks to our co-leads @BlackbirdVC and @Abstractvc. Two visionary partners join our journey 🎉 🚀"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "tesla-integrates-grok-bot-into-cybercab-for-passenger-voice-tasks-cc0744bf",
+  "title": "Tesla Integrates Grok @Bot Into Cybercab for Passenger Voice Tasks",
+  "publishedAt": "2026-10-12T05:09:05.696Z",
+  "eventTimeApprox": "2026-10-12T04:16:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109490463635914867/bnCYYVwaqC10h9H0-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109490463635914867/bnCYYVwaqC10h9H0-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2109490064350654464/vid/avc1/3840x2160/ZFTgz332SwJrLM3u.mp4?tag=29",
+    "credit": {
+      "handle": "sawyermerritt",
+      "tweetUrl": "https://x.com/SawyerMerritt/status/2109490463635914867"
+    }
+  },
+  "summary": "Riders of the company's autonomous ride-hailing vehicles can now use the Grok @Bot assistant to manage finances and send emails through voice commands. The integration allows passengers to execute a variety of tasks, such as placing coffee orders or updating calendars, while inside the vehicle. To ensure user privacy, the system automatically logs the passenger out of the assistant upon exiting the car.\n\nThe assistant requires a one-time sign-in to make a user's personalized bots available for all future rides, with the vehicle automatically re-authenticating the user upon entry. Elon Musk promoted the launch on Oct. 12, with early demonstrations showing the AI's ability to add items to an Amazon shopping cart via voice.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109490463635914867",
+      "role": "source",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2109490463635914867",
+      "tweetedAt": "2026-10-12T03:44:53.000Z",
+      "bestBit": "It can also send emails, place your coffee order, manage your calendar, finances, or other tasks using just your voice in the robotaxi.",
+      "text": "You can now use Grok @Bot in a Tesla Cybercab.\n\nYou just sign into Grok once, and your Bots will be available on all future rides, and automatically logged out when you exit the vehicle to maintain privacy.\n\nI tried it tonight by adding laundry detergent to my Amazon cart. It can also send emails, place your coffee order, manage your calendar, finances, or other tasks using just your voice in the robotaxi.\n\nOn your next ride, you’ll automatically be signed in to all the apps you previously logged into as soon as you enter the vehicle."
+    },
+    {
+      "tweetId": "2109507243007979558",
+      "role": "signal",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2109507243007979558",
+      "tweetedAt": "2026-10-12T04:51:34.000Z",
+      "bestBit": "You can now use Grok @Bot in a Tesla Cybercab.",
+      "text": "Try Grok @Bot",
+      "quotedTweetText": "You can now use Grok @Bot in a Tesla Cybercab.\n\nYou just sign into Grok once, and your Bots will be available on all future rides, and automatically logged out when you exit the vehicle to maintain privacy.\n\nI tried it tonight by adding laundry detergent to my Amazon cart. It can also send emails, place your coffee order, manage your calendar, finances, or other tasks using just your voice in the robotaxi.\n\nOn your next ride, you’ll automatically be signed in to all the apps you previously logged into as soon as you enter the vehicle."
+    }
+  ],
+  "isSuperseded": false
+}

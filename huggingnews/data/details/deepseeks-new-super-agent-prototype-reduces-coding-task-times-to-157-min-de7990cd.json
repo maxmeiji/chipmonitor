@@ -1,0 +1,139 @@
+{
+  "slug": "deepseeks-new-super-agent-prototype-reduces-coding-task-times-to-157-min-de7990cd",
+  "title": "DeepSeek's New Super-Agent Prototype Reduces Coding Task Times to 15.7 Minutes",
+  "publishedAt": "2026-11-02T03:08:42.133Z",
+  "eventTimeApprox": "2026-11-01T11:23:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 19,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117085704853528882/HWFmOo4bMAAXja9-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117085704853528882/HWFmOo4bMAAXja9-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "brianroemmele",
+      "tweetUrl": "https://x.com/BrianRoemmele/status/2117085704853528882"
+    }
+  },
+  "summary": "DeepSeek's latest autonomous coding framework utilized a two-layer architecture to reduce the 95th percentile of task completion times for synthetic coding work to 15.7 minutes, down from 29.5 minutes for agents using a single session with subagents. The tool, dubbed \"Super-Agent,\" employs a \"Router\" session to coordinate with human users and a separate fleet of \"Worker\" sessions to execute complex code fixes in parallel, according to a detailed research essay and a corresponding GitHub repository released by the lab.\n\nThe MIT-licensed prototype is designed to identify and resolve bugs independently by monitoring GitHub events and group chats, a move intended to rival Anthropic's Claude Code. While the framework shows promise in internal tests, DeepSeek cautioned that the public release is an exploratory version that differs from its internal system and has not yet been deployed beyond a small, trusted environment. Coinciding with the release, the firm sought to hire more product managers and designers to help refine its agent-based products.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116532996258066516",
+      "role": "source",
+      "authorHandle": "mashiro_0619",
+      "url": "https://x.com/Mashiro_0619/status/2116532996258066516",
+      "tweetedAt": "2026-10-31T14:09:24.000Z",
+      "bestBit": "能监听 GitHub/飞书，自主创建任务并提交 PR，还配备了需要人工介入的 Web 管理面板",
+      "text": "就在刚刚，DeepSeek官方 开源了 主动式编程智能体 dsh-superagent-prototype\n\n一款专为单个代码仓库打造的主动式编程智能体研究原型。基于“少占用人类精力，提供最大价值”的理念，它能监听 GitHub/飞书，自主创建任务并提交 PR，还配备了需要人工介入的 Web 管理面板。\n\nhttps://t.co/x7cKbtfBdR"
+    },
+    {
+      "tweetId": "2116859582639403080",
+      "role": "source",
+      "authorHandle": "tianyi",
+      "url": "https://x.com/tianyi/status/2116859582639403080",
+      "tweetedAt": "2026-11-01T11:47:08.000Z",
+      "bestBit": "欢迎想做世界一流 Agent 产品的优秀产品经理和产品设计师给 DeepSeek 产品部投简历",
+      "text": "Super-agent 文章的官方英文版发布啦～\n\n做 Agent 产品，DeepSeek 有一流的模型、算法、基建，有优秀的研究员和工程师。但是，目前优秀的产品经理和设计师的数量还远远不够。\n\n欢迎想做世界一流 Agent 产品的优秀产品经理和产品设计师给 DeepSeek 产品部投简历。 https://t.co/SgCRyct0wP"
+    },
+    {
+      "tweetId": "2116757553707368817",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2116757553707368817",
+      "tweetedAt": "2026-11-01T05:01:42.000Z",
+      "bestBit": "DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions",
+      "text": "DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions (@debbywuintaipei / Bloomberg)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2116856872003375236",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2116856872003375236",
+      "tweetedAt": "2026-11-01T11:36:22.000Z",
+      "bestBit": "China's DeepSeek launches \"Super-Agent,\" a new open-source AI coding agent designed to rival Anthropic's Claude Code",
+      "text": "little Whale has come so far\nnot long ago their models received no interest\nnow a half-baked prototype from the harness team, in a github repo dropped without any English announcement, gets insta-covered by Bloomberg https://t.co/2yMjAwXoL5",
+      "quotedTweetText": "DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic’s popular Claude Code https://t.co/7VFHRdFuHF"
+    },
+    {
+      "tweetId": "2116905923109089285",
+      "role": "analysis",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2116905923109089285",
+      "tweetedAt": "2026-11-01T14:51:16.000Z",
+      "bestBit": "In their own test, p95 completion time dropped from 29.5 to 15.7 min compared with a single session using subagents",
+      "text": "DeepSeek just open-sourced its Super-agent prototype. One router session talks to people and hands out work, and isolated workers run tasks in parallel off GitHub events. In their own test, p95 completion time dropped from 29.5 to 15.7 min compared with a single session using subagents.\n\nThe whale open sourced again.",
+      "quotedTweetText": "https://t.co/gwwIHtyCRQ"
+    },
+    {
+      "tweetId": "2117074480636010559",
+      "role": "analysis",
+      "authorHandle": "zhihufrontier",
+      "url": "https://x.com/ZhihuFrontier/status/2117074480636010559",
+      "tweetedAt": "2026-11-02T02:01:04.000Z",
+      "bestBit": "The prototype has only been validated in a small, trusted environment inside the company.",
+      "text": "DeepSeek’s Super-agent: A Final Reviewer Explains the Design and Its Limits\nZhihu contributor @tianyi (崔添翼), from DeepSeek’s product department and one of the final reviewers of its Super-agent design article, explains the proposal’s central trade-off: continuity across tasks versus task throughput.\nHe credits his DeepSeek Harness colleagues, especially lead author Yujia Qiao, with the main write-up, architecture, code and experiments.\n\n\"Super\" means a layer above the working agent\nThe name describes an architectural relationship. A Super-agent adds a layer above the main agent doing the work, whereas a sub-agent adds one below it. \"Super\" is not a claim of superior intelligence.\nCui explicitly rejects the idea that the team has introduced an entirely new theory. In conversations with other teams, he found similar architectures had already been explored months earlier. The harder challenge, he argues, is identifying and committing to the right long-term direction.\n\nThe two-layer design responds to an unresolved memory problem\nThere is still no consensus on how to implement long-term agent memory. As of his post, DeepSeek Harness itself had no built-in long-term memory spanning sessions, though he suggested that might change soon.\nAgainst that backdrop, the team sees maintaining continuity across tasks and sustaining task throughput as a fundamental trade-off in long-running agent systems.\nThe two-layer architecture offers a way to decompose that problem. Cui does not claim its particular implementation is optimal.\n\nThe prototype implements only part of the proposed design\nThe repository, dsh-superagent-prototype, remains an exploratory prototype.\nSome ideas discussed in the article, including decoupling computation from state and execution environments, still require substantial work to implement in DeepSeek Harness. The released code should therefore not be read as a complete implementation of every architectural proposal.\n\nInternal validation leaves substantial deployment questions\nCui attributes the system’s relatively low complexity in internal use partly to deliberate simplifications in engineering and operating scenarios.\nThe prototype has only been validated in a small, trusted environment inside the company. Broader deployment still faces the open questions identified in Section 8: extending the two-layer architecture, human-agent collaboration beyond sessions, context boundaries and agent-to-agent communication, and security and privacy.\nHis account presents Super-agent as a direction to investigate, with working internal experience and explicit limits on what has been demonstrated."
+    },
+    {
+      "tweetId": "2117085708674633778",
+      "role": "analysis",
+      "authorHandle": "brianroemmele",
+      "url": "https://x.com/BrianRoemmele/status/2117085708674633778",
+      "tweetedAt": "2026-11-02T02:45:41.000Z",
+      "bestBit": "the repository states that the code is a research prototype, not an official DeepSeek product, that it differs from the internal system",
+      "text": "An internal instance running on DeepSeek Harness already exhibits the intended behavior. The same development task continues across group chat and GitHub. The instance also monitors public discussion, identifies the root cause of a reported defect without being mentioned, and opens a fix pull request.\nThe team published preliminary measurements on synthetic traffic. \n\nEach round contained roughly three hundred messages, of which about twenty were work requests; the rest were chatter and CI noise. \n\nCoding work was replaced by a time-consuming tool so that the numbers reflected scheduling rather than code quality. Across five runs the Super-agent completed tasks with a median of 12.4 minutes and a 95th percentile of 15.7 minutes. A single session given a neutral prompt and a subagent tool never delegated and finished at a 95th percentile of 29.5 minutes. \n\nA single session given an explicit delegation prompt delegated in four of five runs but still showed a longer tail. Removing the direct-delivery subscription path left completion times essentially unchanged while raising Router decisions by about 30 percent and cached tokens from 23.23 million to 31.77 million. \n\nIn a separate Router stress test, raising the arrival rate from one to forty Triggers per minute increased average batch size from 1.0 to 2.8 and per-request duration from 2.5 to 3.9 seconds, while amortized inference time per decision fell from 6.4 to 1.6 seconds.\n\nThe same day the essay appeared, the team released dsh-superagent-prototype on GitHub under the MIT license. The repository states that the code is a research prototype, not an official DeepSeek product, that it differs from the internal system, and that some designs in the essay are future directions not present in the published code. The prototype listens to one GitHub repository and, optionally, Feishu. An authorized request opens a Ticket; the work proceeds in its own session and directory; the result returns in the original conversation, often as a pull request. A web panel surfaces items that need a person. The README’s operating principle is explicit: the agent acts only when asked or when a written rule allows it, and it speaks only when someone must act or can use a result.\n\nThe essay lists open problems. Sharding the Router would raise throughput but reduce the global continuity the design relies on. Long-running agents will need memory mechanisms that survive context-window limits. Once sessions are no longer the user-facing unit, the mapping between tasks and human attention must be redesigned. Safe collaboration across organizational boundaries and across separate Super-agent instances remains unsolved. Security is called out directly: a compromised cloud loop could reach every attached machine, and credentials must be kept out of model context.\n\nThe original Chinese essay is at https://t.co/4ntPusl5tT. A full English translation is at https://t.co/8xXpHWi18V. The research prototype is at https://t.co/MtC5WRiVWc. DeepSeek Harness itself is documented at https://t.co/8rBU6OK7AX. \n\nThe measurements and internal examples come from the design essay; the prototype README states that it does not implement every element described there."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "deepseek-open-sources-autonomous-coding-agent-to-rival-claude-code-ce79c18b",
+    "title": "DeepSeek Open Sources Autonomous Coding Agent to Rival Claude Code",
+    "publishedAt": "2026-11-01T05:22:22.134Z",
+    "eventTimeApprox": "2026-11-01T04:48:53.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 15,
+    "authorCount": 14
+  }
+}

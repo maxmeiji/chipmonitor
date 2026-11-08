@@ -1,0 +1,76 @@
+{
+  "slug": "trump-orders-ban-on-artificial-intelligence-term-in-government-documents-0db87d79",
+  "title": "Trump Orders Ban on 'Artificial Intelligence' Term in Government Documents",
+  "publishedAt": "2026-10-27T18:24:16.853Z",
+  "eventTimeApprox": "2026-10-27T16:40:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 26,
+  "authorCount": 23,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "executive-orders",
+      "name": "Executive Orders"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115143084518564336/HVp_a-RWwAAc8_9-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115143084518564336/HVp_a-RWwAAc8_9-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "atrupar",
+      "tweetUrl": "https://x.com/atrupar/status/2115143084518564336"
+    }
+  },
+  "summary": "The White House will stop using the term \"Artificial Intelligence\" in official documentation following a directive from President Donald Trump. He characterized the name as a \"very bad\" description of the technology and ordered that the label be replaced by \"Super Intelligence,\" or \"SI,\" in federal records.\n\nThe new terminology will be adopted in \"short order\" and is intended to apply to relevant agency papers as well as all other government communications. Trump specifically criticized the Wall Street Journal for its continued use of the term \"AI,\" asserting that nearly all other organizations would soon use the SI designation.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115143084518564336",
+      "role": "source",
+      "authorHandle": "atrupar",
+      "url": "https://x.com/atrupar/status/2115143084518564336",
+      "tweetedAt": "2026-10-27T18:06:23.000Z",
+      "bestBit": "We will be officially BANNING the term, 'AI/Artificial Intelligence,' in all relevant documents, and everything else, due to its inaccuracy",
+      "text": "Trump: \"We will be officially BANNING the term, 'AI/Artificial Intelligence,' in all relevant documents, and everything else, due to its inaccuracy. Thank you for your attention to this matter. President DONALD J. TRUMP\" https://t.co/jvA7IqoFln"
+    },
+    {
+      "tweetId": "2115119834593988959",
+      "role": "commentary",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2115119834593988959",
+      "tweetedAt": "2026-10-27T16:34:00.000Z",
+      "bestBit": "Trump declared AI a “a very bad and inaccurate name” and said the government would officially stop using it in relevant documents",
+      "text": "🇺🇸 Trump is now threatening to BAN the term “Artificial Intelligence.” 🤦\n\nAnd he's calling out the Wall Street Journal for refusing to call it “Super Intelligence” instead.\n\nTrump declared AI a “very bad and inaccurate name” and said the government would officially stop using it in relevant documents.\n\nHe insists virtually everyone will soon be calling it SI.\n\nYeah right.\n\nWriter: Oliver"
+    },
+    {
+      "tweetId": "2115133187974115368",
+      "role": "support",
+      "authorHandle": "hqnewsnow",
+      "url": "https://x.com/HQNewsNow/status/2115133187974115368",
+      "tweetedAt": "2026-10-27T17:27:03.000Z",
+      "bestBit": "Trump announces he will be \"officially BANNING\" the term 'AI' after the Wall Street Journal used it in an article",
+      "text": "Trump announces he will be \"officially BANNING\" the term 'AI' after the Wall Street Journal used it in an article. https://t.co/iIoIT4Pf7f"
+    }
+  ],
+  "isSuperseded": false
+}

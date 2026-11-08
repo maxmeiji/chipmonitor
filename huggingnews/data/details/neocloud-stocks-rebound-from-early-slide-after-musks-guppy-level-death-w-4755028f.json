@@ -1,0 +1,180 @@
+{
+  "slug": "neocloud-stocks-rebound-from-early-slide-after-musks-guppy-level-death-w-4755028f",
+  "title": "Neocloud Stocks Rebound From Early Slide After Musk's 'Guppy-Level Death' Warning",
+  "publishedAt": "2026-10-27T21:06:30.474Z",
+  "eventTimeApprox": "2026-10-25T20:57:42.000Z",
+  "isFreshStory": false,
+  "tweetCount": 144,
+  "authorCount": 94,
+  "routingTopicKeys": [
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "WULF",
+      "kind": "equity",
+      "role": "subject",
+      "name": "TeraWulf Inc. Common Stock",
+      "hubKey": "wulf"
+    },
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "subject",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    },
+    {
+      "ticker": "IREN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "IREN Limited Ordinary Shares",
+      "hubKey": "iren"
+    },
+    {
+      "ticker": "NBIS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nebius Group N.V. Class A Ordinary Shares",
+      "hubKey": "nbis"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "C",
+      "kind": "equity",
+      "role": "related",
+      "name": "Citigroup Inc.",
+      "hubKey": "c"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112221644781424706/HVAeY4-XgAAsFX2-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112221644781424706/HVAeY4-XgAAsFX2-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "globalmktobserv",
+      "tweetUrl": "https://x.com/GlobalMktObserv/status/2112221644781424706"
+    }
+  },
+  "summary": "Neocloud shares rebounded from a 5% to 6% morning slide on Monday, with TeraWulf rising 9.9%, Iren climbing 5.9% and CoreWeave gaining 5% after Elon Musk warned that more than 200 AI cloud operators face \"guppy-level death and consolidation.\" Investor Dan Niles said the intraday reversal in CoreWeave, Nebius and Iren following an \"unambiguously negative\" catalyst could mark a short term bottom in the AI selloff after a 19% decline in the SOX index from Oct. 6 to Oct. 22, though he remains bearish on neoclouds over the long term.\n\nMusk said on Sunday that debt markets have \"almost entirely shut off access to money\" for companies lacking substantial revenue outside AI data centers and predicted \"a lot of stranded compute in partially complete data centers.\" By contrast, he confirmed SpaceX closed $40B in callable debt for GPU deliveries in the first half of 2027, supported by its investment grade credit rating and revenue from Starlink and rocket launches. In response to Musk's warning, TeraWulf's CEO said, \"What others call stranded assets, we may call a development pipeline.\"\n\nThe warning follows tightening credit conditions across the sector, with Nebius CEO Arkady Volozh saying asset backed and debt markets had temporarily closed since the prior week, leaving the company to rely on customer advances and a $3.5B one year bridge loan from Citigroup. Balance sheets across AI cloud builders vary widely, with TeraWulf carrying $35.30 of debt per $1 of book equity ($5.21B of debt against $148M of equity as of June 30), compared with 9.9x at Cipher, 7.0x at CoreWeave and $0.83 per $1 of equity at Nebius.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114434646914068862",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2114434646914068862",
+      "tweetedAt": "2026-10-25T19:11:18.000Z",
+      "bestBit": "SpaceX closed $40B of debt for GPUs, but we’re investment grade and have Starlink & launch revenue.",
+      "text": "@chamath Pretty much. \n\nAs of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers. \n\nSpaceX closed $40B of debt for GPUs, but we’re investment grade and have Starlink & launch revenue.\n\nThat means the 200+ neoclouds are going to see guppy-level death and consolidation. Some will make it through, but not many."
+    },
+    {
+      "tweetId": "2114790122608611599",
+      "role": "support",
+      "authorHandle": "kalshi_finance",
+      "url": "https://x.com/Kalshi_Finance/status/2114790122608611599",
+      "tweetedAt": "2026-10-26T18:43:50.000Z",
+      "bestBit": "Neoclouds rip back after Musk's warning: $WULF up 9.9%, $IREN up 5.9%, $CRWV up 5%",
+      "text": "JUST IN: Neoclouds rip back after Musk's warning: $WULF up 9.9%, $IREN up 5.9%, $CRWV up 5%"
+    },
+    {
+      "tweetId": "2113398247469555993",
+      "role": "commentary",
+      "authorHandle": "chamath",
+      "url": "https://x.com/chamath/status/2113398247469555993",
+      "tweetedAt": "2026-10-22T22:33:01.000Z",
+      "bestBit": "This SpaceX paper is money good and better than most sovereign debt. Also means that everyone else except IG-grade hypers will price at 10-12% in 2027.",
+      "text": "This SpaceX paper is money good and better than most sovereign debt. Also means that everyone else except IG-grade hypers will price at 10-12% in 2027.",
+      "quotedTweetText": "SpaceX $SPCX is finalizing a $40 billion debt raise at sharply higher borrowing costs than its previous financing, according to Semafor.\n\nThe lowest-rated portion is expected to carry an interest rate of around 8.3%, while a safer portion backed by AI chips could price near 7.75%.\n\nThe safer portion is expected to price more than 1 percentage point above where SpaceX's existing bonds trade.\n\nThe deal, led by Apollo and Goldman Sachs, is expected to be finalized next week."
+    },
+    {
+      "tweetId": "2114474190174847237",
+      "role": "commentary",
+      "authorHandle": "matthewstoller",
+      "url": "https://x.com/matthewstoller/status/2114474190174847237",
+      "tweetedAt": "2026-10-25T21:48:26.000Z",
+      "bestBit": "Elon Musk just said the neoclouds - which are the off-balance sheet Nvidia vehicles - are cooked.",
+      "text": "Elon Musk just said the neoclouds - which are the off-balance sheet Nvidia vehicles - are cooked. SpaceX, of course, is also a neocloud, though it has some assets outside of AI. https://t.co/GJdGA2Vzb5",
+      "quotedTweetText": "@chamath Pretty much. \n\nAs of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers. \n\nSpaceX closed $40B of debt for GPUs, but we’re investment grade and have Starlink & launch revenue.\n\nThat means the 200+ neoclouds are going to see guppy-level death and consolidation. Some will make it through, but not many."
+    },
+    {
+      "tweetId": "2114748540069015916",
+      "role": "commentary",
+      "authorHandle": "jackprandelli",
+      "url": "https://x.com/jackprandelli/status/2114748540069015916",
+      "tweetedAt": "2026-10-26T15:58:36.000Z",
+      "bestBit": "Yesterday its CEO answered Elon Musk’s “stranded compute” warning: “What others call stranded assets, we may call a development pipeline.”",
+      "text": "$35 of debt for every $1 of equity.\n\nThat’s TeraWulf $WULF on its 30 June balance sheet: $ 5.21bn of debt against $148m of book equity.\n\nYesterday its CEO answered Elon Musk’s “stranded compute” warning: “What others call stranded assets, we may call a development pipeline.”\n\nMaybe.\n\nThe top 3 AI cloud builders by debt per $1 of equity.\n\nTeraWulf 35.3x\nCipher 9.9x\nCoreWeave 7.0x\n\nAt the bottom, Nebius carries $0.83 of debt per $1 of equity.\n\nSame AI boom. \nVery different cushions.\n\nMusk says debt markets have almost entirely shut for companies without real revenue outside AI.\n\nMeanwhile oil companies are using their cash to pay down debt.\n\nTech Made You Rich. \nCan Oil Keep You Rich? \n\nLink:https://t.co/vK7SMKa1I2"
+    },
+    {
+      "tweetId": "2114581370270093531",
+      "role": "commentary",
+      "authorHandle": "8teapi",
+      "url": "https://x.com/8teAPi/status/2114581370270093531",
+      "tweetedAt": "2026-10-26T04:54:20.000Z",
+      "bestBit": "One thing about a lot of the neocloud guys that I think Elon does not understand… they came from crypto mining. Literally survived multiple 80% drawdowns.",
+      "text": "One thing about a lot of the neocloud guys that I think Elon does not understand… they came from crypto mining. Literally survived multiple 80% drawdowns. \n\nAI is the most stable market they’ve ever had",
+      "quotedTweetText": "@chamath Pretty much. \n\nAs of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers. \n\nSpaceX closed $40B of debt for GPUs, but we’re investment grade and have Starlink & launch revenue.\n\nThat means the 200+ neoclouds are going to see guppy-level death and consolidation. Some will make it through, but not many."
+    },
+    {
+      "tweetId": "2114750952682950925",
+      "role": "commentary",
+      "authorHandle": "danieltniles",
+      "url": "https://x.com/DanielTNiles/status/2114750952682950925",
+      "tweetedAt": "2026-10-26T16:08:11.000Z",
+      "bestBit": "Now $CRWV $NBIS $IREN all up 4-7%. This clearing event might mark at least a short-term bottom in the AI selloff.",
+      "text": "The @elonmusk reply that “200+ neoclouds are going to see guppy-level death and consolidation” (I agree) caused neo-clouds to get hit again this morning for 5-6%. Now $CRWV $NBIS $IREN all up 4-7%. This clearing event might mark at least a short-term bottom in the AI selloff.\n\nShort-term bottoms can never be known except in hindsight. But after a large decline already that has occurred over some time (this recent 19% decline in the SOX Index as a proxy for the AI names started back on 10/6 to 10/22), an event that is unambiguously negative like the post above, that initially leads to a large sell-off in the worst names in the sector (neo-clouds in my opinion) and that then reverses during the day is generally a good sign in my experience.\n\nTo be clear, I do not like the neo-clouds longer-term though they they may bounce the hardest short-term given they were some of the most oversold.  But this gives me more conviction that this is a potentially good time to put capital to work in the best positioned companies such as in the hyper-scalers, semis, power, construction, EPC, platforms etc.\n\nObviously poor earnings results from one of the big hyperscalers $MSFT $GOOGL $AMZN later this week could derail this but there is a lot of negativity priced in already."
+    },
+    {
+      "tweetId": "2114642163120361519",
+      "role": "commentary",
+      "authorHandle": "briansozzi",
+      "url": "https://x.com/BrianSozzi/status/2114642163120361519",
+      "tweetedAt": "2026-10-26T08:55:54.000Z",
+      "bestBit": "In case you're confused about what's going on with Elon Musk tanking the neoclouds, here's the timeline",
+      "text": "RT @optionscjp: In case you're confused about what's going on with Elon Musk tanking the neoclouds, here's the timeline of everything that'…"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "elon-musk-warns-debt-markets-have-shut-off-funding-for-ai-only-neoclouds-8982e520",
+    "title": "Elon Musk Warns Debt Markets Have Shut Off Funding For AI-Only Neoclouds",
+    "publishedAt": "2026-10-25T22:54:33.435Z",
+    "eventTimeApprox": "2026-10-22T14:53:55.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-markets"
+    ],
+    "tweetCount": 142,
+    "authorCount": 94
+  }
+}

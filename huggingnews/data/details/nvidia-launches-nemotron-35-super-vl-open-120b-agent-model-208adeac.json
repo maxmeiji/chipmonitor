@@ -1,0 +1,117 @@
+{
+  "slug": "nvidia-launches-nemotron-35-super-vl-open-120b-agent-model-208adeac",
+  "title": "Nvidia Launches Nemotron 3.5 Super VL Open 120B Agent Model",
+  "publishedAt": "2026-10-15T15:48:11.745Z",
+  "eventTimeApprox": "2026-10-15T15:10:50.000Z",
+  "isFreshStory": false,
+  "tweetCount": 145,
+  "authorCount": 86,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110749840141652118/HUrjT9-bkAAEnQP-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110749840141652118/HUrjT9-bkAAEnQP-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "nvidiaai",
+      "tweetUrl": "https://x.com/NVIDIAAI/status/2110749840141652118"
+    }
+  },
+  "summary": "This multimodal system combines reasoning and tool use to power autonomous AI agents capable of interpreting images, video, and documents natively. The model uses a Mixture-of-Experts architecture with 120B total parameters and 12B active per token, featuring a 1M token context window for long-running workflows. Nvidia released the weights, data, and recipes openly via Hugging Face, with day 0 deployment on platforms including Baseten, fal, OpenRouter, and Together AI. The system completes 10,000 coding tasks up to 4x faster and scores 51.78% on SWE-bench Pro.\n\nThe update also includes the Nemotron 3.5 Bolt and Lightning models, the latter being a 30B parameter text-only system. The Super VL model is highly optimized for Blackwell GPUs using NVFP4 quantization, which Lambda reports can reach a peak output of 1,860 tok/s on a single GPU. Nvidia trained the architecture across GB200 and GB300 hardware to eliminate the need to pass context between separate text and vision models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110749836450713896",
+      "role": "source",
+      "authorHandle": "nvidiaai",
+      "url": "https://x.com/NVIDIAAI/status/2110749836450713896",
+      "tweetedAt": "2026-10-15T15:09:11.000Z",
+      "bestBit": "120B total parameters with 12B active",
+      "text": "Meet NVIDIA Nemotron 3.5 Super VL\n\nOur new open model combines reasoning and tool use with text, image, document, and video understanding for long-running AI agents.\n\n120B total parameters with 12B active 🧵 https://t.co/BcbED05qSG"
+    },
+    {
+      "tweetId": "2110747917229211691",
+      "role": "support",
+      "authorHandle": "togethercompute",
+      "url": "https://x.com/togethercompute/status/2110747917229211691",
+      "tweetedAt": "2026-10-15T15:01:33.000Z",
+      "bestBit": "always-on agents that see, reason, and act across documents, screens, and video",
+      "text": ".@NVIDIA Nemotron 3.5 Super VL is now live on Together AI.\n\nAn open-weight multimodal model built for visual reasoning and always-on agents that see, reason, and act across documents, screens, and video. https://t.co/ATvjj0nZW3"
+    },
+    {
+      "tweetId": "2110748142958465051",
+      "role": "analysis",
+      "authorHandle": "lambdaapi",
+      "url": "https://x.com/LambdaAPI/status/2110748142958465051",
+      "tweetedAt": "2026-10-15T15:02:27.000Z",
+      "bestBit": "One NVIDIA Blackwell GPU at NVFP4 out-throughputs two NVIDIA Blackwell GPUs at BF16 on the same 8,192-in / 1,024-out workload",
+      "text": "Nemotron 3.5 Super VL is the latest open model from @NVIDIA with vision built in natively (120B total, 12B active per token, 1M-token context, text + image + document + GUI + video input).\n\nWe benchmarked both deployment paths on Lambda with @sglang_proj:\n\n* NVFP4 on 1× NVIDIA Blackwell GPU, 1,860 tok/s peak (C16), 587 tok/s/user (C1)\n\n* BF16 on 2× NVIDIA Blackwell GPUs, 1,669 tok/s peak (C16), 530 tok/s/user (C1)\n\nOne NVIDIA Blackwell GPU at NVFP4 out-throughputs two NVIDIA Blackwell GPUs at BF16 on the same 8,192-in / 1,024-out workload, roughly 2.2× the per-GPU throughput, because Blackwell runs FP4 natively.\n\nBoth deployments run speculative decoding with multi-token prediction (EAGLE, 5 steps, 6 draft tokens).\n\nModel card and full deployment instructions at https://t.co/aMVK4yeFOP"
+    },
+    {
+      "tweetId": "2110753734603186422",
+      "role": "analysis",
+      "authorHandle": "gordic_aleksa",
+      "url": "https://x.com/gordic_aleksa/status/2110753734603186422",
+      "tweetedAt": "2026-10-15T15:24:40.000Z",
+      "bestBit": "Super scores 51.78% on SWE-bench Pro (better than Nemotron 3 Ultra despite ~4.6× fewer active params!)",
+      "text": "Very excited to announce our new models: Nemotron 3.5 Super and Lightning! \n\nThis also feels like a good time to share that a few months ago I joined the amazing Nemotron Pretraining team. We're cooking some very large and very strong models for you!\n\nHere is a tech summary for 3.5:\n\n* Super is a 120B total / 12B active vision language model (VLM)\n\n* Lightning is a 30B total / 3B active text-only LLM\n\n* Super scores 51.78% on SWE-bench Pro (better than Nemotron 3 Ultra despite ~4.6× fewer active params!)\n\n* arch: MoE Hybrid Mamba-Transformer designed for efficient inference, with a 1M token ctx window, and native speculative decoding (via MTP)\n\n* training is done across our GB200 and GB300 (and deployment validated across all imaginable SKUs, including consumer (RTX) and DGX Spark)\n\nA few details on how we train these:\n\n-- Pretraining\n\n* pipeline: initialize with Nemotron 3 base -> custom MTP initialization + 100B-token MTP warm-up -> 1T-token distillation from the next larger N3 teacher\n\n* Lightning then goes through a 21B token long-context (LC) stage (@ 1M ctx)\n\n* Super goes through:\n\n- Indic CPT: 100B tokens at 8K (10B Indic + 90B replay, we built a synthetic corpus with 2.83T toks across 22 Indian langs! Indic benchmarks improve by up to 9.82%)\n\n- LC extension: 35B tokens at 1M\n\n- Agentic SWE mid-training: 65.4B tokens at 256K (uses whole repos, issue-PR pairs, commit histories, etc.); DeepSWE pass@1 improves from 6.4 -> 10.4\n\n- LC recovery: 9B tokens at 1M (as we observed regression after mid-training)\n\n-- Post-training\n\n* Super: two-stage SFT -> joint RLVR/RLHF -> specialist teachers -> two-stage MOPD -> MTP boosting\n\n* Lightning uses a lighter text-only pipeline: single-stage SFT -> RLVR\n\n* Super's SFT transforms the text-only base into a VLM using vision, agentic, reasoning, chat, safety, LC data\n\n* A few examples of RLVR environments:\n\n- Olympiad-level competitive programming\n\n- Finance agents using SEC search, document parsing, evidence retrieval, and tool use\n\n* Specialist teachers include Agentic, Reasoning, Video reasoning and tracking, Vision tool-use, Vision-reasoning, and an Alignment/RLHF teacher\n\n* Two-stage MOPD consolidates these specialist capabilities into one model\n\n* Post-training ends with MTP boosting to better align the drafter and reduce recursive train–inference mismatch; this improves Super's SPEED-Bench acceptance length by 21.8% (to 4.612 tokens)\n\n-- Inference\n\nThe model is highly optimized for inference (with plenty of quantized options to choose from)! A few data points:\n\n* On a GB200, Super reaches 4,856 output toks/s/GPU with ≥50 toks/s/user on a 20-turn agentic workload\n\n* Super provides 2.34x the throughput of Qwen3.5 122B-A10B and 1.90x the throughput of Qwen3.8 Flash-Next\n\n* Native MTP is complemented by standalone parallel drafters: LiLiCorr for Super, and DFlash and DSpark for Lightning\n\nLooking forward to seeing what you do with 3.5! Phase shift for Nemotron incoming! :)) (with the usual this will be our weakest model ever, but really really so)\n\npaper: https://t.co/OiXb2FmXsP"
+    },
+    {
+      "tweetId": "2110747012152865132",
+      "role": "support",
+      "authorHandle": "miaai_lab",
+      "url": "https://x.com/MiaAI_lab/status/2110747012152865132",
+      "tweetedAt": "2026-10-15T14:57:58.000Z",
+      "bestBit": "Weights ~75 GB, fits a solo DGX Spark",
+      "text": "NVIDIA releases Nemotron 3.5 Super VL 🔥\n\n- 120B MoE, 12B active\n- Weights ~75 GB, fits a solo DGX Spark\n- Supports image and video input\n- LiLiCorr speculative drafter\n\nHF link below. https://t.co/4yhfK4kn1N"
+    },
+    {
+      "tweetId": "2110753351545843811",
+      "role": "support",
+      "authorHandle": "unslothai",
+      "url": "https://x.com/UnslothAI/status/2110753351545843811",
+      "tweetedAt": "2026-10-15T15:23:09.000Z",
+      "bestBit": "NVIDIA releases 2 new models: Nemotron-3.5-Bolt and Nemotron-3.5-Super-VL",
+      "text": "NVIDIA releases 2 new models: Nemotron-3.5-Bolt and Nemotron-3.5-Super-VL.\n\nNemotron-3.5-Bolt-74B-A9B runs on 24GB RAM. It delivers top-tier performance for its size.\n\nSuper-VL-120B-A12B runs on 82GB RAM.\n\nBolt GGUF: https://t.co/TSweBjpIpj\nGuide: https://t.co/3f6hI4TKVL\nSuper GGUF: https://t.co/sEXHsxzkLo",
+      "quotedTweetText": "Meet NVIDIA Nemotron 3.5 Super VL\n\nOur new open model combines reasoning and tool use with text, image, document, and video understanding for long-running AI agents.\n\n120B total parameters with 12B active 🧵 https://t.co/BcbED05qSG"
+    }
+  ],
+  "isSuperseded": false
+}

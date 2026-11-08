@@ -1,0 +1,82 @@
+{
+  "slug": "crowdstrike-and-partners-launch-agentic-ai-security-accelerator-70bed4db",
+  "title": "CrowdStrike and Partners Launch Agentic AI Security Accelerator",
+  "publishedAt": "2026-10-06T12:38:42.591Z",
+  "eventTimeApprox": "2026-10-06T12:17:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "startups",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "startups",
+      "name": "Startups"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CRWD",
+      "kind": "equity",
+      "role": "subject",
+      "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
+      "hubKey": "crwd"
+    },
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Up to 10 finalists from a new startup cohort will pitch their security products at RSAC 2027 to compete for investment from the Falcon Fund. The 2027 intake of a global cybersecurity accelerator by CrowdStrike, AWS, and Nvidia focuses on companies building for the agentic AI era, providing access to the Falcon Foundry, AWS technical and go-to-market support, and Nvidia Inception resources.\n\nThis fourth iteration of the partnership has supported more than 90 startups to date, which have collectively raised nearly $1B. Shares of CrowdStrike rose 1.9% in premarket trading following the announcement.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107446531150524593",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2107446531150524593",
+      "tweetedAt": "2026-10-06T12:23:02.000Z",
+      "bestBit": "The program has supported more than 90 startups to date, which have collectively raised nearly $1B.",
+      "text": "Crowdstrike $CRWD is expanding its cybersecurity startup accelerator with AWS and Nvidia, with the 2027 program focused on startups building for the agentic AI era.\n\nParticipants will get access to CrowdStrike’s Falcon Foundry and APIs, AWS technical and go-to-market support, and NVIDIA Inception resources.\n\nThe program has supported more than 90 startups to date, which have collectively raised nearly $1B. \n\nUp to 10 finalists will pitch at RSAC 2027, with participants also eligible for potential investment from CrowdStrike’s Falcon Fund."
+    },
+    {
+      "tweetId": "2107447145737454045",
+      "role": "support",
+      "authorHandle": "openoutcrier",
+      "url": "https://x.com/OpenOutcrier/status/2107447145737454045",
+      "tweetedAt": "2026-10-06T12:25:28.000Z",
+      "bestBit": "$CRWD (+1.9% pre) CrowdStrike launches fourth cybersecurity startup accelerator with $AMZN AWS, $NVDA Nvidia",
+      "text": "$CRWD (+1.9% pre) CrowdStrike launches fourth cybersecurity startup accelerator with $AMZN AWS, $NVDA Nvidia\n\nhttps://t.co/sRMMvfHjB4"
+    }
+  ],
+  "isSuperseded": false
+}

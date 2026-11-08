@@ -1,0 +1,111 @@
+{
+  "slug": "cat-wu-joins-openai-to-lead-product-management-for-core-products-ed80ff07",
+  "title": "Cat Wu Joins OpenAI to Lead Product Management for Core Products",
+  "publishedAt": "2026-11-05T00:53:40.150Z",
+  "eventTimeApprox": "2026-11-04T14:35:05.500Z",
+  "isFreshStory": false,
+  "tweetCount": 34,
+  "authorCount": 29,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The former product head for Anthropic's AI coding tools has moved to a leadership role at OpenAI overseeing the management of its \"Core Products.\" Wu said her new focus at the firm will include building AI agents designed to automate professional team workflows while keeping the user in control.\n\nThe appointment follows a recent series of departures from the Claude Code development team, including engineer Thariq Shihipar and desktop developer Anthony Morris, who both exited Anthropic on Oct. 24. Wu's tenure with the firm ended on Oct. 31, after she spent two years scaling the Claude Code programming assistant from an internal tool into a commercial product capable of executing complex migrations autonomously.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118137612577968402",
+      "role": "source",
+      "authorHandle": "_catwu",
+      "url": "https://x.com/_catwu/status/2118137612577968402",
+      "tweetedAt": "2026-11-05T00:25:34.000Z",
+      "bestBit": "I’m joining OpenAI to lead product management for Core Products!",
+      "text": "Some news: I’m joining OpenAI to lead product management for Core Products!\n\nI have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great products are core to the mission.\n\nI’m excited to work with @thsottiaux, an incredible PM team, and everyone across OpenAI. Together, we’ll build agents that have your back and your team’s, and keep you in control, so you get more time for the people and work you love.\n\nLots to learn, and lots to build. Please keep your feedback coming!"
+    },
+    {
+      "tweetId": "2117731934340337676",
+      "role": "source",
+      "authorHandle": "_catwu",
+      "url": "https://x.com/_catwu/status/2117731934340337676",
+      "tweetedAt": "2026-11-03T21:33:33.000Z",
+      "bestBit": "Today, the default is trusting Claude's judgment to auto-approve. Claude does large migrations and builds new products.",
+      "text": "Friday was my last day at Anthropic.\n\nTwo years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hooked, and I joined the team.\n\nWhen we first launched, most people approved every permission prompt by hand and mostly used Claude to answer questions and write tests. \n\nToday, the default is trusting Claude's judgment to auto-approve. Claude does large migrations and builds new products. \n\nHelping build Claude Code into an industry-defining product has been the journey of a lifetime. \n\nThank you to the incredible team behind Claude Code, Cowork, and Tag. These products are the sum of thousands of great ideas from you. I'll miss working with you all.\n\nThank you to our users for embracing a new way of working. Your constant feedback shaped so much of what we shipped and your stories made the work so meaningful.\n\nExcited to see what you all make next!"
+    },
+    {
+      "tweetId": "2117779087611883783",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2117779087611883783",
+      "tweetedAt": "2026-11-04T00:40:55.000Z",
+      "bestBit": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month",
+      "text": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (@stephencouncil / Business Insider)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2117785525969170505",
+      "role": "commentary",
+      "authorHandle": "trace_cohen",
+      "url": "https://x.com/Trace_Cohen/status/2117785525969170505",
+      "tweetedAt": "2026-11-04T01:06:30.000Z",
+      "bestBit": "$100M seed incoming",
+      "text": "$100M seed incoming",
+      "quotedTweetText": "Friday was my last day at Anthropic.\n\nTwo years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hooked, and I joined the team.\n\nWhen we first launched, most people approved every permission prompt by hand and mostly used Claude to answer questions and write tests. \n\nToday, the default is trusting Claude's judgment to auto-approve. Claude does large migrations and builds new products. \n\nHelping build Claude Code into an industry-defining product has been the journey of a lifetime. \n\nThank you to the incredible team behind Claude Code, Cowork, and Tag. These products are the sum of thousands of great ideas from you. I'll miss working with you all.\n\nThank you to our users for embracing a new way of working. Your constant feedback shaped so much of what we shipped and your stories made the work so meaningful.\n\nExcited to see what you all make next!"
+    },
+    {
+      "tweetId": "2117831009106637196",
+      "role": "commentary",
+      "authorHandle": "maxforai",
+      "url": "https://x.com/MaxForAI/status/2117831009106637196",
+      "tweetedAt": "2026-11-04T04:07:14.000Z",
+      "bestBit": "10月24日，工程师Thariq Shihipar和Claude Code桌面版开发者Anthony Morris先后公开告别Anthropic",
+      "text": "Claude Code的产品负责人Cat Wu也离开Anthropic了.....\n\n今天， @_catwu  在X上宣布，上周五已经是她在Anthropic的最后一天。\n她是Claude Code的核心产品负责人之一，曾与Boris Cherny一起推动这个产品从内部工具走向市场，同时参与了Cowork和Tag的建设。\n\n她在告别信中回忆，两年前Claude Code还只是一个很小的内部工具。\n她曾花费几十个小时指导它构建一个强化学习（RL）环境，全程没有亲手写过一行代码。\n最终项目成功运行，她也因此彻底被Claude Code吸引，加入了团队。\n\n当时，大多数用户还需要手动批准Claude Code的每一次权限请求，主要用它回答问题、编写测试。\n而现在，用户已经开始信任Claude自主判断和执行任务，甚至把大型代码迁移、新产品开发这样的工作交给它。\n\n值得关注的是，过去不到两周，Claude Code团队已经有三位重要成员陆续宣布离职。\n10月24日，工程师Thariq Shihipar和Claude Code桌面版开发者Anthony Morris先后公开告别Anthropic。如今，连产品负责人Cat Wu也离开了。\n\n目前三人都没有公开说明完整的离职原因，也没有证据表明这些离职存在关联。\n\n从一个需要人类逐步批准操作的编程助手，到能够独立承担复杂开发任务的Agent，Cat Wu参与并见证了Claude Code最重要的一段发展历程。\n\n两年时间，AI编程的工作方式已经发生了相当大的变化。\n\n而推动这场变化的几位核心成员，也开始陆续离开了。",
+      "quotedTweetText": "Friday was my last day at Anthropic.\n\nTwo years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hooked, and I joined the team.\n\nWhen we first launched, most people approved every permission prompt by hand and mostly used Claude to answer questions and write tests. \n\nToday, the default is trusting Claude's judgment to auto-approve. Claude does large migrations and builds new products. \n\nHelping build Claude Code into an industry-defining product has been the journey of a lifetime. \n\nThank you to the incredible team behind Claude Code, Cowork, and Tag. These products are the sum of thousands of great ideas from you. I'll miss working with you all.\n\nThank you to our users for embracing a new way of working. Your constant feedback shaped so much of what we shipped and your stories made the work so meaningful.\n\nExcited to see what you all make next!"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "cat-wu-and-2-key-staff-exit-anthropics-claude-code-group-f41037ea",
+    "title": "Cat Wu and 2 Key Staff Exit Anthropic's Claude Code Group",
+    "publishedAt": "2026-11-04T04:24:33.092Z",
+    "eventTimeApprox": "2026-11-04T00:53:42.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "nvidia-launches-ai-tools-to-speed-chip-workflows-by-50x-21afc653",
+  "title": "Nvidia Launches AI Tools to Speed Chip Workflows by 50x",
+  "publishedAt": "2026-10-14T22:38:18.096Z",
+  "eventTimeApprox": "2026-10-14T18:59:14.500Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "SNPS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Synopsys Inc",
+      "hubKey": "snps"
+    },
+    {
+      "ticker": "KLAC",
+      "kind": "equity",
+      "role": "related",
+      "name": "KLA Corporation Common Stock",
+      "hubKey": "klac"
+    },
+    {
+      "ticker": "AMAT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Applied Materials Inc",
+      "hubKey": "amat"
+    },
+    {
+      "ticker": "CDNS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Cadence Design Systems",
+      "hubKey": "cdns"
+    },
+    {
+      "ticker": "LRCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Lam Research Corp",
+      "hubKey": "lrcx"
+    }
+  ],
+  "summary": "Synopsys, KLA and Applied Materials are integrating new artificial intelligence into their chip design and fabrication processes. Nvidia's CUDA-X tools target semiconductor design, manufacturing and factory automation, with the company reporting speed improvements of up to 50x in selected workflows. Other early adopters of the software include Cadence and Lam Research.\n\nThe move marks a strategic expansion beyond powering AI data centers toward transforming the physical production of semiconductors. By applying AI to factory automation, the company is extending its influence into the foundational design and manufacturing stages of the chip supply chain.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110403255591141525",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2110403255591141525",
+      "tweetedAt": "2026-10-14T16:12:00.000Z",
+      "bestBit": "Nvidia is expanding beyond powering AI data centers to using AI to transform how semiconductors themselves are designed and manufactured",
+      "text": "NVIDIA UNVEILS AI TOOLS TO TRANSFORM CHIP MANUFACTURING\n\nNvidia ($NVDA ) is launching new CUDA-X AI tools to accelerate semiconductor design, manufacturing and factory automation.\n\nMajor companies, including Synopsys, Cadence, Applied Materials, Lam Research and KLA, are adopting the technology, with Nvidia reporting speed improvements of up to 50x in selected workflows.\n\nThe bigger picture: Nvidia is expanding beyond powering AI data centers to using AI to transform how semiconductors themselves are designed and manufactured."
+    }
+  ],
+  "isSuperseded": false
+}

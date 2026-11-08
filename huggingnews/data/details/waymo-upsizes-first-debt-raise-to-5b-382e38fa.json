@@ -1,0 +1,54 @@
+{
+  "slug": "waymo-upsizes-first-debt-raise-to-5b-382e38fa",
+  "title": "Waymo Upsizes First Debt Raise to $5B",
+  "publishedAt": "2026-10-06T22:24:50.786Z",
+  "eventTimeApprox": "2026-10-06T19:45:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "automobile",
+      "name": "Automobile"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Increasing expenses related to artificial intelligence have led Alphabet to seek additional capital for its driverless car service. The company is expanding its robotaxi fleet and requires more funding to manage the intensive compute and infrastructure needs of its software.\n\nWaymo increased the size of its first debt offering from over $3 billion to $5 billion as it pushes to grow its operations globally. This inaugural borrowing marks the first time the autonomous driving unit has tapped the debt markets to sustain its long term growth.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107592991875432887",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2107592991875432887",
+      "tweetedAt": "2026-10-06T22:05:01.000Z",
+      "bestBit": "Waymo increased the size of its inaugural debt raise to $5 billion as it pushes to expand globally",
+      "text": "Waymo increased the size of its inaugural debt raise to $5 billion as it pushes to expand globally https://t.co/ZfDssQLZRT"
+    }
+  ],
+  "isSuperseded": false
+}

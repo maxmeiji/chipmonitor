@@ -1,0 +1,61 @@
+{
+  "slug": "cognizant-and-google-cloud-form-18000-person-ai-group-for-gemini-8ca6a4ac",
+  "title": "Cognizant and Google Cloud Form 18,000 Person AI Group for Gemini",
+  "publishedAt": "2026-10-19T18:54:06.546Z",
+  "eventTimeApprox": "2026-10-19T16:55:42.500Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CTSH",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cognizant Technology Solutions",
+      "hubKey": "ctsh"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Enterprises using generative AI tools are gaining a new path to production as a partnership of technical experts prepares to scale corporate deployments. Cognizant and Google Cloud are expanding their alliance by forming the Gemini Enterprise Frontier Capability Group, which assigns 18,000 certified associates to help business customers transition AI agents from testing phases to real world use.\n\nMore than 55,000 Cognizant employees have already completed training on the Gemini platform. The company is currently rolling out the AI tools to 100,000 of its internal staff this year and intends to increase that number to 200,000 users.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112239679018008681",
+      "role": "source",
+      "authorHandle": "thomasortk",
+      "url": "https://x.com/ThomasOrTK/status/2112239679018008681",
+      "tweetedAt": "2026-10-19T17:49:17.000Z",
+      "bestBit": "@googlecloud and @Cognizant announced the new Gemini Enterprise Frontier Capability Group, bringing 18,000 certified associates to help customers go from pilot to production",
+      "text": "Today, @googlecloud and @Cognizant announced the new Gemini Enterprise Frontier Capability Group, bringing 18,000 certified associates to help customers go from pilot to production. https://t.co/io19x7haFw"
+    }
+  ],
+  "isSuperseded": false
+}

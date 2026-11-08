@@ -1,0 +1,93 @@
+{
+  "slug": "trump-posts-ai-video-of-himself-wrestling-tiger-from-fatal-attack-7a80cd61",
+  "title": "Trump Posts AI Video of Himself Wrestling Tiger From Fatal Attack",
+  "publishedAt": "2026-10-14T04:08:47.183Z",
+  "eventTimeApprox": "2026-10-14T01:30:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 19,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "culture",
+    "ai"
+  ],
+  "primaryRoutingTopic": "culture",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110215379448689039/OukiYtXr8OuSSbmT-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110215379448689039/OukiYtXr8OuSSbmT-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2110215340210704384/vid/avc1/646x776/oBrAsvT1lQFskTfC.mp4?tag=29",
+    "credit": {
+      "handle": "marionawfal",
+      "tweetUrl": "https://x.com/MarioNawfal/status/2110215379448689039"
+    }
+  },
+  "summary": "An AI-edited clip shared by President Trump on Truth Social depicts him pinning and then hugging a tiger that killed a man at a Yorkshire wildlife park. The modified footage alters the original recording of the lethal encounter to portray the president intervening in the attack and wrestling the animal into submission.\n\nThe post followed other videos shared on Oct. 13 showing lions and tigers attacking humans, including graphic footage of the British park fatality. Trump amplified the original recording of the man's final moments with the caption \"Don’t ever mess with nature! President DJT,\" in a series of posts that users noted included some AI-generated content.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110097775300137029",
+      "role": "source",
+      "authorHandle": "jdawsey1",
+      "url": "https://x.com/jdawsey1/status/2110097775300137029",
+      "tweetedAt": "2026-10-13T19:58:08.000Z",
+      "bestBit": "Trump just posted on Truth Social the video of the tiger killing the man in the zoo enclosure",
+      "text": "Trump just posted on Truth Social the video of the tiger killing the man in the zoo enclosure: \"Don’t ever mess with nature! President DJT\""
+    },
+    {
+      "tweetId": "2110215379448689039",
+      "role": "source",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2110215379448689039",
+      "tweetedAt": "2026-10-14T03:45:27.000Z",
+      "bestBit": "posted an AI-edited clip of the Yorkshire tiger video showing himself pinning the tiger, then hugging it",
+      "text": "🚨🇺🇸 Trump has added “tiger wrestler” to his AI résumé\n\nThe President posted an AI-edited clip of the Yorkshire tiger video showing himself pinning the tiger, then hugging it.\n\nNext week: Trump arm wrestles a grizzly bear and gets it to sign a trade deal😂\n\nWriter: Daniel https://t.co/i8oD5mIBl0"
+    },
+    {
+      "tweetId": "2110181302691332365",
+      "role": "support",
+      "authorHandle": "washingtonpost",
+      "url": "https://x.com/washingtonpost/status/2110181302691332365",
+      "tweetedAt": "2026-10-14T01:30:02.000Z",
+      "bestBit": "amplifying graphic footage of a person’s final moments at a British wildlife park",
+      "text": "President Trump reposted a video of a man being attacked by a tiger on social media, amplifying graphic footage of a person’s final moments at a British wildlife park.\n\n“Don’t ever mess with nature! President DJT,” the president wrote alongside the video. https://t.co/M1KQySaXer"
+    },
+    {
+      "tweetId": "2110098527229477161",
+      "role": "commentary",
+      "authorHandle": "brendanpedersen",
+      "url": "https://x.com/BrendanPedersen/status/2110098527229477161",
+      "tweetedAt": "2026-10-13T20:01:07.000Z",
+      "bestBit": "posting multiple (AI?) videos of people being attacked by tigers and lions this afternoon",
+      "text": "It is cool that the president is posting multiple (AI?) videos of people being attacked by tigers and lions this afternoon \n\n“Don’t ever mess with nature! President DJT” https://t.co/V2RxGx0Ks7"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "trump-posts-graphic-video-of-tiger-killing-man-on-truth-social-5584a29b",
+    "title": "Trump Posts Graphic Video of Tiger Killing Man on Truth Social",
+    "publishedAt": "2026-10-14T01:40:37.960Z",
+    "eventTimeApprox": "2026-10-13T20:01:07.000Z",
+    "routingTopicKeys": [
+      "culture"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

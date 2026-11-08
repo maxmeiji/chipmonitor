@@ -1,0 +1,76 @@
+{
+  "slug": "fal-launches-flux-3-max-tied-for-no-1-image-to-video-quality-801ab94e",
+  "title": "fal Launches FLUX 3 Max Tied for No. 1 Image to Video Quality",
+  "publishedAt": "2026-10-19T18:54:11.204Z",
+  "eventTimeApprox": "2026-10-19T18:34:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 31,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112251022047412492/HVA5FljWMAA8U2I-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112251022047412492/HVA5FljWMAA8U2I-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "fal",
+      "tweetUrl": "https://x.com/fal/status/2112251022047412492"
+    }
+  },
+  "summary": "The new AI video generator by fal Research and Black Forest Labs produces a 10 second clip in roughly 12 seconds at 720p or 768p resolution. Named FLUX 3 Max, the model is tied for No. 1 in image to video quality based on independent third party benchmarks. It debuted at No. 6 on Design Arena leaderboards for both video and image to video categories, the highest ranking for any fal model to date.\n\nThe tool is currently available for text to video, image to video, and keyframe generation on the fal platform. To mark the launch, the company is offering a 75% discount for three weeks to target the most affordable pricing for a frontier video model of this quality. The release places the firm alongside other industry leaders including Google DeepMind and Alibaba Wan.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112251022047412492",
+      "role": "source",
+      "authorHandle": "fal",
+      "url": "https://x.com/fal/status/2112251022047412492",
+      "tweetedAt": "2026-10-19T18:34:22.000Z",
+      "bestBit": "For the next three weeks, FLUX 3 Max is 75% off, making it the most affordable frontier video model at its quality level.",
+      "text": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.\n\nFLUX 3 Max is tied for #1 in image-to-video quality on independent third-party benchmarks, generating a 10-second, 720/768p video in ~12 seconds.\n\nFor the next three weeks, FLUX 3 Max is 75% off, making it the most affordable frontier video model at its quality level."
+    },
+    {
+      "tweetId": "2112253553335218615",
+      "role": "support",
+      "authorHandle": "designarena",
+      "url": "https://x.com/DesignArena/status/2112253553335218615",
+      "tweetedAt": "2026-10-19T18:44:25.000Z",
+      "bestBit": "FLUX 3 Max by @fal lands at #6 in Video and Image-to-Video on Design Arena, debuting in the top 10 for both leaderboards",
+      "text": "BREAKING: FLUX 3 Max by @fal lands at #6 in Video and Image-to-Video on Design Arena, debuting in the top 10 for both leaderboards.\n\nThis is the highest fal model yet on the Video leaderboard. This also places @fal's new model alongside leading video models from @Alibaba_Wan, @bfl_ai, and @GoogleDeepMind.\n\nCongrats to the @fal team on the launch!"
+    },
+    {
+      "tweetId": "2112251052665819519",
+      "role": "source",
+      "authorHandle": "fal",
+      "url": "https://x.com/fal/status/2112251052665819519",
+      "tweetedAt": "2026-10-19T18:34:29.000Z",
+      "bestBit": "FLUX 3 Max is now available on fal",
+      "text": "@bfl_ai FLUX 3 Max is now available on fal.\n\nText to video: https://t.co/rPqiZmMFS8\nImage to video: https://t.co/tCbRSwb6jz \nKeyframes: https://t.co/S5OPXLk4hd"
+    }
+  ],
+  "isSuperseded": false
+}

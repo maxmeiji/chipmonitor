@@ -1,0 +1,85 @@
+{
+  "slug": "anthropic-co-founder-advances-ai-self-improvement-timeline-to-2027-e886d58d",
+  "title": "Anthropic Co-Founder Advances AI Self-Improvement Timeline to 2027",
+  "publishedAt": "2026-10-13T17:17:31.190Z",
+  "eventTimeApprox": "2026-10-13T15:45:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109958813868573167/HUgUJbKXcAAjRYQ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109958813868573167/HUgUJbKXcAAjRYQ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "robertwiblin",
+      "tweetUrl": "https://x.com/robertwiblin/status/2109958813868573167"
+    }
+  },
+  "summary": "Breakthroughs in AI creativity and mathematical reasoning have prompted a new timeline for the development of autonomous system upgrades. Jack Clark, a co-founder of Anthropic, now believes full recursive self-improvement, or RSI, will likely be possible by 2027, accelerating his previous 2028 forecast. Clark identified model creativity as the final missing component required for artificial intelligence to discover novel ways to improve its own architecture.\n\nThe shift follows a trend where AI \"research taste\" doubles every 3 months and internal models like OpenAI's \"Aeon\" achieve complex math results in 1 shot, utilizing an average of 3 hours of thinking per problem. While Clark frames these advancements as markers of an invisible frontier, some critics have questioned that Anthropic executives report on these developments as if they were external events rather than the results of their own engineering.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109958813868573167",
+      "role": "source",
+      "authorHandle": "robertwiblin",
+      "url": "https://x.com/robertwiblin/status/2109958813868573167",
+      "tweetedAt": "2026-10-13T10:45:57.000Z",
+      "bestBit": "Jack Clark of Anthropic now thinks it's more likely we see full RSI become possible in 2027 than in 2028",
+      "text": "Jack Clark of Anthropic now thinks it's more likely we see full RSI become possible in 2027 than in 2028. https://t.co/ttga3JItKY"
+    },
+    {
+      "tweetId": "2110049675873030580",
+      "role": "commentary",
+      "authorHandle": "peterwildeford",
+      "url": "https://x.com/peterwildeford/status/2110049675873030580",
+      "tweetedAt": "2026-10-13T16:47:00.000Z",
+      "bestBit": "Jack Clark thinks full runaway RSI is more likely than not to be possible in 2027",
+      "text": "Jack Clark thinks full runaway RSI is more likely than not to be possible in 2027.\n\nIt's very annoying to me when people at Anthropic report on AI developments as if they were the weather, when people at Anthropic are directly the ones making these things happen.",
+      "quotedTweetText": "Jack Clark of Anthropic now thinks it's more likely we see full RSI become possible in 2027 than in 2028. https://t.co/ttga3JItKY"
+    },
+    {
+      "tweetId": "2110031945484931116",
+      "role": "commentary",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2110031945484931116",
+      "tweetedAt": "2026-10-13T15:36:32.000Z",
+      "bestBit": "He now says it is likely that full RSI will become possible in 2027, and that creativity was the last piece",
+      "text": "Significant update from Jack Clark this morning. His RSI timelines have moved up. He now says it is likely that full RSI will become possible in 2027, and that creativity was the last piece. I think we are less than six months away from closing the loop. https://t.co/bN2iyk0cKz",
+      "quotedTweetText": "Most of the recent math results were not reached by a swarm, the way Navier–Stokes was. I think that part got lost in the excitement around the release. OpenAI's unnamed internal model, which I'm going to call Aeon, reached most of them in one shot, from a single prompt, with no interruptions. This model did not even exist before the end of August, and it is still training. Notice how the returns are not dropping off? That chart is from a month ago. It is a log scale. What does Aeon look like now? \n\nOn average, each result used three hours of thinking. Aeon was given 4000 problems to work on by OpenAI. How many more have been solved in the last three days? That number is not zero. \n\nIt's like hearing notes in a song that is slowly rising. I don't think Pacing the Frontier was just about Hugging Face or hacking. They've seen how close we are to closing the loop, and as the hour draws near, their resolve begins to quaver. The last piece was model creativity, and I think that threshold was crossed internally by Anthropic and OpenAI in September. You see it in Opus 5.5, which gets it from Fable 5.5. You see it in the math results from Aeon.\n\nAll that was needed to start the event was the ability for models to think of novel ways to improve themselves. That was the last piece. This is directly analogous to the ability to think of strange, alien ways to solve math problems: solutions so inhuman that they are difficult to express in existing human terms, so the proof winds up incomprehensible. I think these same kinds of alien solutions are now being applied to model improvements internally. That's what all this recent consternation is really about. They see the invisible frontier. And they see what is about to happen."
+    }
+  ],
+  "isSuperseded": false
+}

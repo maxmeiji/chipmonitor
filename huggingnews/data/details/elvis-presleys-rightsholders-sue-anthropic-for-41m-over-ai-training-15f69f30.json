@@ -1,0 +1,51 @@
+{
+  "slug": "elvis-presleys-rightsholders-sue-anthropic-for-41m-over-ai-training-15f69f30",
+  "title": "Elvis Presley's Rightsholders Sue Anthropic for $41M Over AI Training",
+  "publishedAt": "2026-10-26T16:52:38.226Z",
+  "eventTimeApprox": "2026-10-26T11:30:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "culture",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The family and legal representatives of the late musician are pursuing damages from the maker of the Claude AI bot for the allegedly unauthorized use of copyrighted work. The lawsuit, which targets Anthropic, seeks more than $41M in compensation and claims that 274 of Elvis Presley's songs were used to train the company's artificial intelligence models.\n\nAnthropic stated that it disagrees with the claims and intends to defend itself in court.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114642246503108629",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2114642246503108629",
+      "tweetedAt": "2026-10-26T08:56:14.000Z",
+      "bestBit": "Elvis Presley's rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+",
+      "text": "Elvis Presley's rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself (@derrickbryson / New York Times)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

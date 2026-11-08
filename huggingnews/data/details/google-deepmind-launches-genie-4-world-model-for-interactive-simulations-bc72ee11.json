@@ -1,0 +1,104 @@
+{
+  "slug": "google-deepmind-launches-genie-4-world-model-for-interactive-simulations-bc72ee11",
+  "title": "Google DeepMind Launches Genie 4 World Model for Interactive Simulations",
+  "publishedAt": "2026-10-27T16:23:29.319Z",
+  "eventTimeApprox": "2026-10-27T16:12:17.000Z",
+  "isFreshStory": false,
+  "tweetCount": 90,
+  "authorCount": 65,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115114238943568324/d9VX08ehiAo74R1M-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115114238943568324/d9VX08ehiAo74R1M-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2115113026135392256/vid/avc1/1662x914/KeX1DALBWU-ZweEw.mp4?tag=29",
+    "credit": {
+      "handle": "venturetwins",
+      "tweetUrl": "https://x.com/venturetwins/status/2115114238943568324"
+    }
+  },
+  "summary": "The new AI system creates explorable virtual spaces where users can introduce objects, modify weather, or alter camera angles using text commands. Built on Gemini Omni, Genie 4 simulates real world physics, such as aerodynamics and collisions, to generate interactive environments from a single prompt. The model includes native audio for ambient sound and dialogue, and uses Gemini reasoning to plan multi-step events to ensure the scenes remain coherent as they evolve.\n\nGoogle DeepMind is currently rolling out the model as a research preview to trusted testers, with future access planned for early access partners via the Gemini API and Google AI Studio. The model will also be available to Google AI Ultra subscribers through Project Genie. DeepMind is using the tool in robotics research, pairing Genie 4 with Gemini 4 Argon to test how agents navigate simulated scenarios before they are deployed in the physical world.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115114028338962672",
+      "role": "source",
+      "authorHandle": "googledeepmind",
+      "url": "https://x.com/GoogleDeepMind/status/2115114028338962672",
+      "tweetedAt": "2026-10-27T16:10:55.000Z",
+      "bestBit": "Explore dynamic environments in real time to see how the scene responds, sounds, and how the people in it move, react, and speak.",
+      "text": "This is Genie 4, our most realistic and interactive world model yet. 🌐\n\nExplore dynamic environments in real time to see how the scene responds, sounds, and how the people in it move, react, and speak."
+    },
+    {
+      "tweetId": "2115114030503166385",
+      "role": "source",
+      "authorHandle": "googledeepmind",
+      "url": "https://x.com/GoogleDeepMind/status/2115114030503166385",
+      "tweetedAt": "2026-10-27T16:10:56.000Z",
+      "bestBit": "These capabilities are a step toward developing safe virtual environments to see how agents and robots navigate their surroundings.",
+      "text": "Here’s what’s new with Genie 4:\n🔵 Photorealism: Built on Gemini Omni for lifelike detail across spaces and subjects\n🔵 Advanced physics: Aerodynamics, collisions, and people who move naturally\n🔵 Real-time controls: Prompt to change the scene, add elements, or interact with characters\n🔵 Native audio: Ambient sound, music, background noise, and interactive dialogue\n🔵 Gemini reasoning: Plans multi-step events to maintain coherence as scenes evolve\n\nThese capabilities are a step toward developing safe virtual environments to see how agents and robots navigate their surroundings.\n\nWe’re exploring early use cases with trusted testers first, before bringing the model to Google AI Ultra subscribers in Project Genie and early access partners in our API and @GoogleAIStudio soon.\n\nFind out more → https://t.co/vWUFo3QpnC"
+    },
+    {
+      "tweetId": "2115114238943568324",
+      "role": "source",
+      "authorHandle": "venturetwins",
+      "url": "https://x.com/venturetwins/status/2115114238943568324",
+      "tweetedAt": "2026-10-27T16:11:46.000Z",
+      "bestBit": "This is a fully generated, interactive world from a single starting prompt (environment + character)",
+      "text": "Had early access to Genie 4 from @GoogleDeepMind.\n\nThis is a fully generated, interactive world from a single starting prompt (environment + character) 🤯\n\nFeels like a massive step forward - you can now prompt to change the world and interact with it. With native audio! https://t.co/0Fjg5ILaoE"
+    },
+    {
+      "tweetId": "2115114430660849981",
+      "role": "support",
+      "authorHandle": "google",
+      "url": "https://x.com/Google/status/2115114430660849981",
+      "tweetedAt": "2026-10-27T16:12:31.000Z",
+      "bestBit": "We paired Genie 4 with Gemini 4 Argon in our @GoogleDeepMind robotics research — showing the possibilities of simulating a breadth of scenarios in imagined worlds",
+      "text": "Interactive world models like Genie 4 advance our ability to test simulated scenarios before bringing them into the physical world.\n\nWe paired Genie 4 with Gemini 4 Argon in our @GoogleDeepMind robotics research — showing the possibilities of simulating a breadth of scenarios in imagined worlds 🤖"
+    },
+    {
+      "tweetId": "2115114432263028864",
+      "role": "support",
+      "authorHandle": "google",
+      "url": "https://x.com/Google/status/2115114432263028864",
+      "tweetedAt": "2026-10-27T16:12:32.000Z",
+      "bestBit": "It’s coming soon to Google AI Ultra subscribers in Project Genie and early access partners in the Gemini API and @GoogleAIStudio.",
+      "text": "We’ve started rolling out Genie 4 as a research preview to trusted testers. It’s coming soon to Google AI Ultra subscribers in Project Genie and early access partners in the Gemini API and @GoogleAIStudio.\n\nLearn more ↓ https://t.co/J3N7rx1czM"
+    }
+  ],
+  "isSuperseded": false
+}

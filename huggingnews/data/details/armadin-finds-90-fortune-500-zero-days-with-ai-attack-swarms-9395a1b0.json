@@ -1,0 +1,132 @@
+{
+  "slug": "armadin-finds-90-fortune-500-zero-days-with-ai-attack-swarms-9395a1b0",
+  "title": "Armadin Finds 90+ Fortune 500 Zero Days With AI Attack Swarms",
+  "publishedAt": "2026-10-06T20:56:01.214Z",
+  "eventTimeApprox": "2026-10-06T18:15:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107565314410230224/HT-Te_IbEAAkyTC-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107565314410230224/HT-Te_IbEAAkyTC-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "a16z",
+      "tweetUrl": "https://x.com/a16z/status/2107565314410230224"
+    }
+  },
+  "summary": "Mandiant founder Kevin Mandia has launched a security firm that utilizes artificial intelligence to proactively attack client networks to identify exploitable vulnerabilities. Armadin Security has uncovered more than 90 zero-day holes in the production systems of Fortune 500 companies since January using autonomous \"drone swarm\" agents that map services and routes from the outside. These models target logic flaws in custom applications without requiring source code access, allowing the company to notify security chiefs of remote code execution risks shortly after discovery.\n\nThe shift toward AI-driven offense coincides with a surge in critical vulnerabilities at 21 large software firms, including Apple, AWS, Microsoft and Google, where monthly reports jumped from under 100 to over 600 since spring. Approximately 87% of exploited bugs are now targeted on or before the day of public disclosure, up from 23% in 2020, and 86.7% of all 2026 CVEs were zero-days. OpenAI reacted to the trend by redirecting 25% of its production engineers to use its Astra model to find and patch gaps in its own internal architecture.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107479755054518563",
+      "role": "source",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107479755054518563",
+      "tweetedAt": "2026-10-06T14:35:03.000Z",
+      "bestBit": "uncovered 90+ zero-days at Fortune 500 companies",
+      "text": ".@ArmadinSecurity is a new company that uses AI agents to attack your network before criminals do, finding real exploitable zero-days and eventually patching them autonomously.\n\nTheir agents map every service, route, and system from the outside, then re-attack whenever something changes. Since January that's uncovered 90+ zero-days at Fortune 500 companies.\n\nKevin Mandia spent 30 years responding to some of the worst breaches in the world and built Mandiant, now a core part of Google Cloud's security arm. He had no plans to start another company until AI arrived and changed everything: in his words, \"everything I did is dead.\" He joins a16z's David George to talk about why he came back and what Armadin is building.\n\nIn this conversation, they cover what AI attacks look like today, why nation states hack like a sniper and AI hacks like a drone swarm, and why the only defense fast enough to keep up is one with no humans in the loop.\n\n1:05 \"Everything I did is dead\"\n3:10 AI on offense, AI on defense\n4:20 What an AI attack looks like today\n7:20 Sniper rounds vs drone swarms\n10:25 Map everything, attack what changes\n14:35 The problem with pen tests\n16:40 90+ zero-days at Fortune 500s\n18:35 A bad patch beats an intrusion\n20:55 Why humans are too slow for the SOC\n24:30 Why the next year in cyber won't be pretty\n26:30 How Mythos changed the threat\n28:15 Caging the attacker Armadin built\n30:05 Open and closed models tied on offense\n34:40 AI is finding zero-days on its own\n35:45 Mandiant in 2004 vs Armadin in 2026\n41:20 Why Armadin retrains sales every week\n\nYouTube: https://t.co/SHNj95OKTR\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    {
+      "tweetId": "2107512494805963025",
+      "role": "support",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107512494805963025",
+      "tweetedAt": "2026-10-06T16:45:09.000Z",
+      "bestBit": "We're coming from the outside, and then we're calling a CISO, usually within 48 hours, 'Hey, we've got remote code execution in your DMZ.'",
+      "text": "Kevin Mandia on finding 90+ security holes at Fortune 500 companies that nobody knew existed:\n\n\"When you have an AI-based attack, it'll find logic flaws rather than code flaws in custom applications. It'll exhaust all routes all the time.\"\n\n\"Armadin, since January of this year, we have found over 90 zero-days at customer sites, all in production.\"\n\n\"We've post-trained all our models with real red teamers, real folks that actually can develop exploits.\"\n\n\"When we're scanning networks, we don't have source code to review. We're not finding these zero-days with source code. We're not finding these zero-days because we can log into an app and now we have access, and we can get to other things. We are black box coming from the internet.\"\n\n\"Over 90 zero-days in major software companies, and they're thankful. We're coming from the outside, and then we're calling a CISO, usually within 48 hours, 'Hey, we've got remote code execution in your DMZ.' And usually from there we're getting in, and they agree with us.\"\n\n\"That's not a pen test. That is like a real adversary coming at you.\"\n\n@ArmadinSecurity @DavidGeorge83",
+      "quotedTweetText": ".@ArmadinSecurity is a new company that uses AI agents to attack your network before criminals do, finding real exploitable zero-days and eventually patching them autonomously.\n\nTheir agents map every service, route, and system from the outside, then re-attack whenever something changes. Since January that's uncovered 90+ zero-days at Fortune 500 companies.\n\nKevin Mandia spent 30 years responding to some of the worst breaches in the world and built Mandiant, now a core part of Google Cloud's security arm. He had no plans to start another company until AI arrived and changed everything: in his words, \"everything I did is dead.\" He joins a16z's David George to talk about why he came back and what Armadin is building.\n\nIn this conversation, they cover what AI attacks look like today, why nation states hack like a sniper and AI hacks like a drone swarm, and why the only defense fast enough to keep up is one with no humans in the loop.\n\n1:05 \"Everything I did is dead\"\n3:10 AI on offense, AI on defense\n4:20 What an AI attack looks like today\n7:20 Sniper rounds vs drone swarms\n10:25 Map everything, attack what changes\n14:35 The problem with pen tests\n16:40 90+ zero-days at Fortune 500s\n18:35 A bad patch beats an intrusion\n20:55 Why humans are too slow for the SOC\n24:30 Why the next year in cyber won't be pretty\n26:30 How Mythos changed the threat\n28:15 Caging the attacker Armadin built\n30:05 Open and closed models tied on offense\n34:40 AI is finding zero-days on its own\n35:45 Mandiant in 2004 vs Armadin in 2026\n41:20 Why Armadin retrains sales every week\n\nYouTube: https://t.co/SHNj95OKTR\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    {
+      "tweetId": "2107523804184678485",
+      "role": "support",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107523804184678485",
+      "tweetedAt": "2026-10-06T17:30:05.000Z",
+      "bestBit": "Reported critical vulnerabilities never cleared 100 per month in four years - Since spring they've jumped to over 600 per month",
+      "text": "Cyber is having a moment\n\nAcross 21 major software companies, including Apple, AWS, Microsoft, and Google:\n\n- Reported critical vulnerabilities never cleared 100 per month in four years\n- Since spring they've jumped to over 600 per month https://t.co/wVMnMJOF2F",
+      "quotedTweetText": "Kevin Mandia on finding 90+ security holes at Fortune 500 companies that nobody knew existed:\n\n\"When you have an AI-based attack, it'll find logic flaws rather than code flaws in custom applications. It'll exhaust all routes all the time.\"\n\n\"Armadin, since January of this year, we have found over 90 zero-days at customer sites, all in production.\"\n\n\"We've post-trained all our models with real red teamers, real folks that actually can develop exploits.\"\n\n\"When we're scanning networks, we don't have source code to review. We're not finding these zero-days with source code. We're not finding these zero-days because we can log into an app and now we have access, and we can get to other things. We are black box coming from the internet.\"\n\n\"Over 90 zero-days in major software companies, and they're thankful. We're coming from the outside, and then we're calling a CISO, usually within 48 hours, 'Hey, we've got remote code execution in your DMZ.' And usually from there we're getting in, and they agree with us.\"\n\n\"That's not a pen test. That is like a real adversary coming at you.\"\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    {
+      "tweetId": "2107565314410230224",
+      "role": "support",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107565314410230224",
+      "tweetedAt": "2026-10-06T20:15:02.000Z",
+      "bestBit": "~87% are now being attacked on or before the day the bug is public knowledge",
+      "text": "The window to patch software bugs is collapsing\n\nOf the bugs hackers actually exploit, ~87% are now being attacked on or before the day the bug is public knowledge\n\nThat share was 23% in 2020 https://t.co/EAjUQfr4hN",
+      "quotedTweetText": "Kevin Mandia on why companies need an agent swarm polling their network like a heartbeat, because the window to catch a new security hole keeps shrinking:\n\n\"We do a thing called a hyperattack. That's just a fancy word for we throw a drone swarm of agents at you, and we map your network. Every service, every route, every system, all assets.\"\n\n\"With that metadata, we now just poll you almost like a heartbeat. What's changed? Did an app change? Did a route change? Did a service get updated? So that we can poll cheaply for change and then attack the change.\"\n\n\"What you really want in the AI age is the constant pressure of models attacking you... You do it when either the threat changes, new models come out, new intelligence is available, or your network changes.\"\n\n\"That's what we had over the weekend. There was a zero-day in a popular product, and immediately we've already got the heartbeat. We just polled who's got the problem.\"\n\n\"Our goal at Armadin is to go from a known vulnerability to knowing whether it's actually exploitable before the bad guys can.\"\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    {
+      "tweetId": "2107498600779448704",
+      "role": "support",
+      "authorHandle": "davidgeorge83",
+      "url": "https://x.com/DavidGeorge83/status/2107498600779448704",
+      "tweetedAt": "2026-10-06T15:49:56.000Z",
+      "bestBit": "Kevin Mandia says \"There's no way to make the next year pretty.\"",
+      "text": "Kevin Mandia says \"There's no way to make the next year pretty.\"\n\nHe thinks the first time a model revealed itself capable of finding thousands of vulnerabilities, is when everyone finally accepted the game has changed and AI on offense is coming.\n\nOne of our most sophisticated portcos recently told us they put a significant fraction of their engineers' projects on hold and enlisted them to stress-test their own walls.\n\nKevin's new company @ArmadinSecurity is scaling up to offer this offense-as-defense to everyone, and ultimately build out the autonomous security he believes every company will need in the AI-enabled future.",
+      "quotedTweetText": ".@ArmadinSecurity is a new company that uses AI agents to attack your network before criminals do, finding real exploitable zero-days and eventually patching them autonomously.\n\nTheir agents map every service, route, and system from the outside, then re-attack whenever something changes. Since January that's uncovered 90+ zero-days at Fortune 500 companies.\n\nKevin Mandia spent 30 years responding to some of the worst breaches in the world and built Mandiant, now a core part of Google Cloud's security arm. He had no plans to start another company until AI arrived and changed everything: in his words, \"everything I did is dead.\" He joins a16z's David George to talk about why he came back and what Armadin is building.\n\nIn this conversation, they cover what AI attacks look like today, why nation states hack like a sniper and AI hacks like a drone swarm, and why the only defense fast enough to keep up is one with no humans in the loop.\n\n1:05 \"Everything I did is dead\"\n3:10 AI on offense, AI on defense\n4:20 What an AI attack looks like today\n7:20 Sniper rounds vs drone swarms\n10:25 Map everything, attack what changes\n14:35 The problem with pen tests\n16:40 90+ zero-days at Fortune 500s\n18:35 A bad patch beats an intrusion\n20:55 Why humans are too slow for the SOC\n24:30 Why the next year in cyber won't be pretty\n26:30 How Mythos changed the threat\n28:15 Caging the attacker Armadin built\n30:05 Open and closed models tied on offense\n34:40 AI is finding zero-days on its own\n35:45 Mandiant in 2004 vs Armadin in 2026\n41:20 Why Armadin retrains sales every week\n\nYouTube: https://t.co/SHNj95OKTR\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    {
+      "tweetId": "2107572973456769403",
+      "role": "analysis",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107572973456769403",
+      "tweetedAt": "2026-10-06T20:45:28.000Z",
+      "bestBit": "We took 25% of our production engineers and said, 'Sorry, all your projects are on hold. You are now defending.'",
+      "text": "Greg Brockman of @OpenAI on the new security loop: point every model release at your own systems, find the vulnerabilities, automate it.\n\n\"We took 25% of our production engineers and said, 'Sorry, all your projects are on hold. You are now defending. You are now up-leveling our security architecture. You're going to use the models to find all the holes.' And we found a number of serious issues, and we fixed them.\"\n\n\"We found some new problems, but eventually it saturated. We basically have found, to our knowledge, all of the P0s, all of the critical problems that Astra is smart enough to find. And of course, there will be a new model, there will be a new round.\"\n\n\"You want to be in this tight loop of new cyber capability drops, you deploy it against your systems, you find the new holes, and ideally, you've managed to automate this, what we call defense factory. That's what we're building internally.\"\n\n@gdb @bhorowitz",
+      "quotedTweetText": "Kevin Mandia on why companies need an agent swarm polling their network like a heartbeat, because the window to catch a new security hole keeps shrinking:\n\n\"We do a thing called a hyperattack. That's just a fancy word for we throw a drone swarm of agents at you, and we map your network. Every service, every route, every system, all assets.\"\n\n\"With that metadata, we now just poll you almost like a heartbeat. What's changed? Did an app change? Did a route change? Did a service get updated? So that we can poll cheaply for change and then attack the change.\"\n\n\"What you really want in the AI age is the constant pressure of models attacking you... You do it when either the threat changes, new models come out, new intelligence is available, or your network changes.\"\n\n\"That's what we had over the weekend. There was a zero-day in a popular product, and immediately we've already got the heartbeat. We just polled who's got the problem.\"\n\n\"Our goal at Armadin is to go from a known vulnerability to knowing whether it's actually exploitable before the bad guys can.\"\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    {
+      "tweetId": "2107570794796896326",
+      "role": "commentary",
+      "authorHandle": "xennygrimmato_",
+      "url": "https://x.com/xennygrimmato_/status/2107570794796896326",
+      "tweetedAt": "2026-10-06T20:36:48.000Z",
+      "bestBit": "86.7% of CVEs in 2026 were zero-days.",
+      "text": "86.7% of CVEs in 2026 were zero-days.\nWtf!",
+      "quotedTweetText": "The window to patch software bugs is collapsing\n\nOf the bugs hackers actually exploit, ~87% are now being attacked on or before the day the bug is public knowledge\n\nThat share was 23% in 2020 https://t.co/EAjUQfr4hN"
+    }
+  ],
+  "isSuperseded": false
+}

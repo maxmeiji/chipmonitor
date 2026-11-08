@@ -1,0 +1,107 @@
+{
+  "slug": "update-musk-and-zuckerberg-adopt-super-intelligence-terminology-on-earni-c04c51dc",
+  "title": "UPDATE: Musk and Zuckerberg Adopt 'Super Intelligence' Terminology on Earnings Calls",
+  "publishedAt": "2026-10-30T11:53:03.169Z",
+  "eventTimeApprox": "2026-10-27T17:43:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 29,
+  "authorCount": 26,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "executive-orders",
+      "name": "Executive Orders"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115845065742360615/HVz9xPJXQAAhYbw-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115845065742360615/HVz9xPJXQAAhYbw-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "mikulaja",
+      "tweetUrl": "https://x.com/mikulaja/status/2115845065742360615"
+    }
+  },
+  "summary": "A handful of high-profile technology leaders have begun updating their public corporate language to align with a federal effort to rename the artificial intelligence industry. Elon Musk and Mark Zuckerberg both used the phrase \"super intelligence\" to describe the technology during recent earnings calls, although other executives in the sector continued to use the traditional \"AI\" label during their financial briefings.\n\nThe shifts follow a directive from President Donald Trump to officially ban the terms \"Artificial Intelligence\" and \"AI\" from government records, which he described as an inaccurate name. Adoption of the new terminology has varied across federal agencies; while the Consumer Financial Protection Bureau updated its website to the \"SI\" branding, the agency did not revise a compliance plan published on Sept. 26.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115143084518564336",
+      "role": "source",
+      "authorHandle": "atrupar",
+      "url": "https://x.com/atrupar/status/2115143084518564336",
+      "tweetedAt": "2026-10-27T18:06:23.000Z",
+      "bestBit": "We will be officially BANNING the term, 'AI/Artificial Intelligence,' in all relevant documents, and everything else, due to its inaccuracy.",
+      "text": "Trump: \"We will be officially BANNING the term, 'AI/Artificial Intelligence,' in all relevant documents, and everything else, due to its inaccuracy. Thank you for your attention to this matter. President DONALD J. TRUMP\" https://t.co/jvA7IqoFln"
+    },
+    {
+      "tweetId": "2116132536485044625",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2116132536485044625",
+      "tweetedAt": "2026-10-30T11:38:07.000Z",
+      "bestBit": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls.",
+      "text": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not https://t.co/NWdvbPsM6i"
+    },
+    {
+      "tweetId": "2115845065742360615",
+      "role": "commentary",
+      "authorHandle": "mikulaja",
+      "url": "https://x.com/mikulaja/status/2115845065742360615",
+      "tweetedAt": "2026-10-29T16:35:48.000Z",
+      "bestBit": "the CFPB put out an \"AI compliance plan\" on Sept 26.",
+      "text": "You can't make this shit up: the CFPB put out an \"AI compliance plan\" on Sept 26.\n\nThey hastily updated the page on their site (top) to use \"Super Intelligence (SI)\", but didn't bother to edit the compliance plan (bottom).\n\n10/10, no notes, perfect. https://t.co/OlW8vOxhGS"
+    },
+    {
+      "tweetId": "2115171392908079137",
+      "role": "commentary",
+      "authorHandle": "julianklymochko",
+      "url": "https://x.com/JulianKlymochko/status/2115171392908079137",
+      "tweetedAt": "2026-10-27T19:58:52.000Z",
+      "bestBit": "\"Artificial Intelligence\" - 6 \"AI\" - 614 \"Super Intelligence\" - 1 \"SI\" - 0",
+      "text": "Anthropic S-1 word count analysis:\n\n\"Artificial Intelligence\" - 6\n\"AI\" - 614\n\"Super Intelligence\" - 1\n\"SI\" - 0",
+      "quotedTweetText": "BREAKING: President Trump says he is banning the terms “Artificial Intelligence” and “AI.” https://t.co/Wxygzflnrn"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "trump-orders-ban-on-artificial-intelligence-term-in-government-documents-0db87d79",
+    "title": "Trump Orders Ban on 'Artificial Intelligence' Term in Government Documents",
+    "publishedAt": "2026-10-27T18:24:16.853Z",
+    "eventTimeApprox": "2026-10-27T16:40:26.000Z",
+    "routingTopicKeys": [
+      "us-politics",
+      "ai"
+    ],
+    "tweetCount": 26,
+    "authorCount": 23
+  }
+}

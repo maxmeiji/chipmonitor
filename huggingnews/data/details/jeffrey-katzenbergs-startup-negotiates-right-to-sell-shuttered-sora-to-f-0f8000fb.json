@@ -1,0 +1,82 @@
+{
+  "slug": "jeffrey-katzenbergs-startup-negotiates-right-to-sell-shuttered-sora-to-f-0f8000fb",
+  "title": "Jeffrey Katzenberg's Startup Negotiates Right to Sell Shuttered Sora to Film Studios",
+  "publishedAt": "2026-10-12T14:54:03.614Z",
+  "eventTimeApprox": "2026-10-12T14:31:33.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "rumors",
+      "name": "Rumors"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Former Dropbox CFO Sujay Jaswa and other executives are working to secure deep access to a discontinued video generation tool from OpenAI. An unnamed firm, also co-founded by Bill Peebles—who previously led the Sora project—and movie mogul Jeffrey Katzenberg, intends to customize the model into specialized software for cinematic production. Under the terms being discussed, OpenAI would receive an undisclosed equity stake in the venture in exchange for the rights to modify and monetize the technology.\n\nThe effort, reported by The Information, seeks to revive a version of the decommissioned Sora model after OpenAI shuttered the tool. The partnership would combine Peebles' technical knowledge of the original model with Katzenberg's connections to the movie industry to integrate AI video into professional studio workflows.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109648528998039641",
+      "role": "source",
+      "authorHandle": "steph_palazzolo",
+      "url": "https://x.com/steph_palazzolo/status/2109648528998039641",
+      "tweetedAt": "2026-10-12T14:12:59.000Z",
+      "bestBit": "A stealthy startup cofounded by Hollywood mogul Jeffrey Katzenberg and ex Sora lead Bill Peebles is in talks with OpenAI to tweak and sell the model to film studios",
+      "text": "OpenAI’s Sora could be coming back…ish. A stealthy startup cofounded by Hollywood mogul Jeffrey Katzenberg and ex Sora lead Bill Peebles is in talks with OpenAI to tweak and sell the model to film studios. \n\nw/ @coryweinberg \n\nhttps://t.co/V7LDPBQjGb"
+    },
+    {
+      "tweetId": "2109653202681659808",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2109653202681659808",
+      "tweetedAt": "2026-10-12T14:31:33.000Z",
+      "bestBit": "the startup could heavily customize Sora and sell software built on it, while OpenAI would get an undisclosed equity stake",
+      "text": "The Information just reported a filmmaker-focused startup is negotiating deep access to OpenAI’s shuttered Sora video model.\n\nJeffrey Katzenberg, former Sora research lead Bill Peebles and ex-Dropbox CFO Sujay Jaswa co-founded that unnamed startup to build AI video for filmmakers.\n\nUnder the terms being discussed, the startup could heavily customize Sora and sell software built on it, while OpenAI would get an undisclosed equity stake."
+    },
+    {
+      "tweetId": "2109650763408720184",
+      "role": "commentary",
+      "authorHandle": "nicdunz",
+      "url": "https://x.com/nicdunz/status/2109650763408720184",
+      "tweetedAt": "2026-10-12T14:21:52.000Z",
+      "bestBit": "why would anyone use this old ass video model for filmmaking",
+      "text": "why would anyone use this old ass video model for filmmaking",
+      "quotedTweetText": "OpenAI’s Sora could be coming back…ish. A stealthy startup cofounded by Hollywood mogul Jeffrey Katzenberg and ex Sora lead Bill Peebles is in talks with OpenAI to tweak and sell the model to film studios. \n\nw/ @coryweinberg \n\nhttps://t.co/V7LDPBQjGb"
+    }
+  ],
+  "isSuperseded": false
+}

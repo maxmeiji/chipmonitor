@@ -1,0 +1,86 @@
+{
+  "slug": "anthropic-ai-disproves-3sum-conjecture-with-new-algorithm-e1a12548",
+  "title": "Anthropic AI Disproves 3SUM Conjecture With New Algorithm",
+  "publishedAt": "2026-10-06T11:08:42.872Z",
+  "eventTimeApprox": "2026-10-06T07:00:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "math",
+      "name": "Math"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107365411356656080/HT7drFjboAEHq7C-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107365411356656080/HT7drFjboAEHq7C-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2107365411356656080"
+    }
+  },
+  "summary": "An algorithm discovered by an AI model refutes the APSP and Exact Triangle hypotheses and resolves the All-Pairs Shortest Paths problem in truly subcubic time. A new paper and accompanying Lean formalization claim these results disprove the Randomized Integer Word-RAM 3SUM Conjecture, which is listed as one of the most important open problems in mathematics by some LLM-based rankings.\n\nAnthropic, the creator of the Claude model used to find the proof, employed an internal research model to certify the findings after the authors finished the initial draft. To finalize the publication, the company provided academic experts with compensation and access to Claude to assist with the write-up after identifying the proof and formalization.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107349990087458854",
+      "role": "source",
+      "authorHandle": "lechmazur",
+      "url": "https://x.com/LechMazur/status/2107349990087458854",
+      "tweetedAt": "2026-10-06T05:59:24.000Z",
+      "bestBit": "Claude, an AI model developed by Anthropic, discovered the algorithm that refutes the3SUM, APSP, and Exact Triangle hypotheses.",
+      "text": "A new paper, accompanied by a Lean formalization, claims to disprove the Randomized Integer Word-RAM 3SUM Conjecture, ranked #159 in my LLM-based ranking of the most important open problems in mathematics:\n\nhttps://t.co/Uhks7eFiSK.\n\n\"Claude, an AI model developed by Anthropic, discovered the algorithm that refutes the3SUM, APSP, and Exact Triangle hypotheses.\"\n\nThe paper also claims to resolve #243, \"All-Pairs Shortest Paths in Truly Subcubic Time.\"\n\nLean formalization: https://t.co/rLVBFSC8KH\n\nhttps://t.co/ArIV77LbjT"
+    },
+    {
+      "tweetId": "2107365411356656080",
+      "role": "commentary",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2107365411356656080",
+      "tweetedAt": "2026-10-06T07:00:41.000Z",
+      "bestBit": "After the paper was completely written, Anthropic used an internal research model to certify this paper's main results",
+      "text": "What is this, math night. \n'After the paper was completely written, Anthropic used an internal research model to certify this paper's main results' https://t.co/YPgiqDFKZC",
+      "quotedTweetText": "A new paper, accompanied by a Lean formalization, claims to disprove the Randomized Integer Word-RAM 3SUM Conjecture, ranked #159 in my LLM-based ranking of the most important open problems in mathematics:\n\nhttps://t.co/Uhks7eFiSK.\n\n\"Claude, an AI model developed by Anthropic, discovered the algorithm that refutes the3SUM, APSP, and Exact Triangle hypotheses.\"\n\nThe paper also claims to resolve #243, \"All-Pairs Shortest Paths in Truly Subcubic Time.\"\n\nLean formalization: https://t.co/rLVBFSC8KH\n\nhttps://t.co/ArIV77LbjT"
+    },
+    {
+      "tweetId": "2107425685866156430",
+      "role": "commentary",
+      "authorHandle": "prz_chojecki",
+      "url": "https://x.com/prz_chojecki/status/2107425685866156430",
+      "tweetedAt": "2026-10-06T11:00:12.000Z",
+      "bestBit": "Anthropic finds the proof together with a Lean formalization (so they know it's correct)",
+      "text": "Another amazing result (towards P=NP?), and a very interesting release scheme:\n\n- Anthropic finds the proof together with a Lean formalization (so they know it's correct);\n- They contact the experts - the authors - offer compensation and access to Claude for a help with a write-up. \n\nTbh, this looks like one of the good approaches to AI-academia collaboration.",
+      "quotedTweetText": "The what now?!\nhttps://t.co/xHsLmQJkff"
+    }
+  ],
+  "isSuperseded": false
+}

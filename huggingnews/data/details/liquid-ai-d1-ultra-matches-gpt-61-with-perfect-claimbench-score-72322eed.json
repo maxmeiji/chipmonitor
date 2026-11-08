@@ -1,0 +1,102 @@
+{
+  "slug": "liquid-ai-d1-ultra-matches-gpt-61-with-perfect-claimbench-score-72322eed",
+  "title": "Liquid AI d1-ultra Matches GPT-6.1 with Perfect ClaimBench Score",
+  "publishedAt": "2026-10-23T00:26:09.393Z",
+  "eventTimeApprox": "2026-10-21T00:58:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113419379505602916/HVRadebaQAA751H-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113419379505602916/HVRadebaQAA751H-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "valsai",
+      "tweetUrl": "https://x.com/ValsAI/status/2113419379505602916"
+    }
+  },
+  "summary": "A specialized decision model from Liquid achieved 100% accuracy on a financial verification benchmark, equaling the performance of general purpose models including GPT-6.1 Sol and the Claude 5.5 family. The d1-ultra model correctly identified all 1,960 claims on the ClaimBench test, which requires AI to determine if 10-K corporate excerpts support, contradict, or ignore specific statements. It costs $0.21 per 1,000 claims and responds in under a second, making it roughly 12x cheaper and 5x faster than Haiku 5.5, the most affordable general model to hit the same score.\n\nVals AI launched the ClaimBench benchmark on October 20, initially testing 15 models to evaluate trust in decision-specific AI. While Perplexity's Decider v1.2 led initial subsets with a score of 67.1%, d1-ultra is now the only decision-oriented system to match frontier LLMs. This version improves upon Liquid's previous d1 model, which missed 26 claims due to subtle contradictions in wording, although the newer d1-ultra costs about twice as much to operate as the original.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112575292527239306",
+      "role": "source",
+      "authorHandle": "valsai",
+      "url": "https://x.com/ValsAI/status/2112575292527239306",
+      "tweetedAt": "2026-10-20T16:02:54.000Z",
+      "bestBit": "evaluated 15 models on 1,960 claims paired with 10-K excerpts",
+      "text": "Today we’re releasing ClaimBench, our new benchmark targeted towards decision models. It tests whether a model can tell if a financial document supports, contradicts, or doesn’t address a claim.\n\nWe evaluated 15 models on 1,960 claims paired with 10-K excerpts, with Decider V1.2 leading the pack of decision models."
+    },
+    {
+      "tweetId": "2113419379505602916",
+      "role": "source",
+      "authorHandle": "valsai",
+      "url": "https://x.com/ValsAI/status/2113419379505602916",
+      "tweetedAt": "2026-10-22T23:57:00.000Z",
+      "bestBit": "Liquid AI's d1-ultra is the only decision model to get all 1,960 ClaimBench claims right",
+      "text": "Liquid AI's d1-ultra is the only decision model to get all 1,960 ClaimBench claims right. That matches Opus 5.5, Sonnet 5.5, Haiku 5.5 and GPT-6.1 Sol. https://t.co/6qpML13EPJ"
+    },
+    {
+      "tweetId": "2113419379971137710",
+      "role": "support",
+      "authorHandle": "valsai",
+      "url": "https://x.com/ValsAI/status/2113419379971137710",
+      "tweetedAt": "2026-10-22T23:57:00.000Z",
+      "bestBit": "costs $0.21 per 1,000 claims and answers in under a second",
+      "text": "It costs $0.21 per 1,000 claims and answers in under a second. Haiku 5.5, the cheapest of those language models, costs 12x more and takes about 5 seconds.\n\nLiquid's earlier d1 missed 26 claims, and most of those were subtle contradictions, where one small wording change makes the claim wrong. d1-ultra got every one of them. It costs about twice what d1 does."
+    },
+    {
+      "tweetId": "2112602415627399418",
+      "role": "source",
+      "authorHandle": "aravsrinivas",
+      "url": "https://x.com/AravSrinivas/status/2112602415627399418",
+      "tweetedAt": "2026-10-20T17:50:40.000Z",
+      "bestBit": "Perplexity Decider pareto-optimal on Financial ClaimBench of Vals AI",
+      "text": "Perplexity Decider pareto-optimal on Financial ClaimBench of Vals AI https://t.co/uBac0vOK15",
+      "quotedTweetText": "Today we’re releasing ClaimBench, our new benchmark targeted towards decision models. It tests whether a model can tell if a financial document supports, contradicts, or doesn’t address a claim.\n\nWe evaluated 15 models on 1,960 claims paired with 10-K excerpts, with Decider V1.2 leading the pack of decision models."
+    },
+    {
+      "tweetId": "2112710083058811309",
+      "role": "commentary",
+      "authorHandle": "zekiworks",
+      "url": "https://x.com/zekiworks/status/2112710083058811309",
+      "tweetedAt": "2026-10-21T00:58:30.000Z",
+      "bestBit": "Perplexity’s Decider v1.2 led the 9 shared models on our test too, scoring 67.1%",
+      "text": "Perplexity’s Decider v1.2 led the 9 shared models on our test too, scoring 67.1%.\n\nLiquid’s d1-ultra is not on ClaimBench. On the same questions, it scored 77.1%, 10.0 points ahead of Decider v1.2.\n\nhttps://t.co/XUfG4AJEXi https://t.co/uKSG9MOPqS",
+      "quotedTweetText": "pplx-decider-v1.2 is the highest scoring decision model on ClaimBench.\n\nTry pplx-decider-v1.2 and pplx-decider-flash-v1.2 on OpenRouter or Perplexity API Console.\n\nhttps://t.co/6HlP9lsdpP"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "liquid-d1-ultra-beats-perplexity-leader-by-10-points-40c1f833",
+    "title": "Liquid d1-ultra Beats Perplexity Leader by 10 Points",
+    "publishedAt": "2026-10-21T02:23:50.487Z",
+    "eventTimeApprox": "2026-10-20T17:38:51.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 8,
+    "authorCount": 7
+  }
+}

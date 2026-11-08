@@ -1,0 +1,60 @@
+{
+  "slug": "zenzap-raises-44m-to-let-ai-agents-work-in-team-chats-70db2b95",
+  "title": "Zenzap Raises $44M to Let AI Agents Work in Team Chats",
+  "publishedAt": "2026-10-14T19:53:55.930Z",
+  "eventTimeApprox": "2026-10-14T15:28:08.500Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "A new coordination tool allows staff to automate repetitive business tasks using bots that coexist with humans in group messages. Zenzap's 'multiplayer' AI platform connects to more than 400 apps, including CRMs and shift-scheduling tools, to enable agents to handle workflows directly within a conversation. Users can deploy an agent in under 90 seconds by describing a task in a chat message, though any modifications to data on connected services require human approval.\n\nThe company raised $44 million in a funding round led by Bessemer, Lightspeed, and The Garage to support the service rollout. Zenzap targets teams that primarily use phones for coordination, such as retail and restaurant staff, and has already integrated thousands of teams via an early access program to improve daily operations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110387887023751398",
+      "role": "source",
+      "authorHandle": "guyweisszz",
+      "url": "https://x.com/GuyWeissZZ/status/2110387887023751398",
+      "tweetedAt": "2026-10-14T15:10:56.000Z",
+      "bestBit": "Everyone can bring their team and create AI agents in 90 secs (even from your phone)",
+      "text": "AI is everywhere, but walk into almost any company and work hasn’t changed\n\nMeet @Zenzap_chat, the Multiplayer AI platform.\n\nNow, people and proactive AI agents are in the same group chats,\nautomating workflows with shared context across business tools and teams\n\nEveryone can bring their team and create AI agents in 90 secs (even from your phone). CISOs and CIOs love it\n\nThousand of teams from our early access program already transformed their day to day\n\nAI agents have joined the team"
+    },
+    {
+      "tweetId": "2110455001906630990",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2110455001906630990",
+      "tweetedAt": "2026-10-14T19:37:37.000Z",
+      "bestBit": "Zenzap raised $44 million in a recent round led by investors including Bessemer, Lightspeed, and The Garage",
+      "text": "Zenzap raised $44 million in a recent round led by investors including Bessemer, Lightspeed, and The Garage, and launched AI agents in its workplace chat app.\n\nZenzap is a work chat app for teams that typically coordinate on their phones, such as restaurant and store staff.\n\n> Inside the app, groups include both humans and AI agents that collaborate on tasks.\n\n> Agents can connect to more than 400 apps, including CRMs and shift-scheduling tools.\n\n> Users can schedule a recurring task by describing it in a chat message, and any changes to data on a connected service require the user’s approval.",
+      "quotedTweetText": "Zenzap introduces people and Al agents collaborating securely across work group chats, with some of the agents accessing your most sensitive business data.\nKeeping your CISO sleeping soundly took an innovative architecture to match 👇 https://t.co/QP884NAlM0"
+    }
+  ],
+  "isSuperseded": false
+}

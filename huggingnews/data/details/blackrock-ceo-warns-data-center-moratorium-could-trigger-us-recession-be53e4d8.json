@@ -1,0 +1,46 @@
+{
+  "slug": "blackrock-ceo-warns-data-center-moratorium-could-trigger-us-recession-be53e4d8",
+  "title": "BlackRock CEO Warns Data Center Moratorium Could Trigger US Recession",
+  "publishedAt": "2026-10-14T18:24:18.349Z",
+  "eventTimeApprox": "2026-10-14T17:58:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai",
+    "us-markets",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "summary": "Larry Fink cautions that halting the construction of digital infrastructure across the United States could push the country into a recession. The BlackRock chief executive warned that a moratorium on building data centers poses a risk to the national economy.\n\nFink, who leads the world's largest asset manager, issued the warning on Oct 14. His statements tie the continued growth of data center capacity to the avoidance of a broader macroeconomic contraction.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110390789612196065",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2110390789612196065",
+      "tweetedAt": "2026-10-14T15:22:28.000Z",
+      "bestBit": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+      "text": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession https://t.co/DKFqpx6G4I"
+    }
+  ],
+  "isSuperseded": false
+}

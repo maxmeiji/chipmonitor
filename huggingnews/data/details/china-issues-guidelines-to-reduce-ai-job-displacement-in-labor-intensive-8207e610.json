@@ -1,0 +1,90 @@
+{
+  "slug": "china-issues-guidelines-to-reduce-ai-job-displacement-in-labor-intensive-8207e610",
+  "title": "China Issues Guidelines to Reduce AI Job Displacement in Labor Intensive Sectors",
+  "publishedAt": "2026-10-23T13:24:39.891Z",
+  "eventTimeApprox": "2026-10-23T09:40:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "world",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113617128754712611/HVUPpgUaAAAQVME-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113617128754712611/HVUPpgUaAAAQVME-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "maxforai",
+      "tweetUrl": "https://x.com/MaxForAI/status/2113617128754712611"
+    }
+  },
+  "summary": "China's State Council General Office released new guidelines aimed at mitigating the negative effects of artificial intelligence on the national workforce. The document calls for a steady and prudent approach to the scope, intensity, and pace of AI implementation within labor-intensive industries to limit the impact of automation on employees.\n\nThe guidelines encourage businesses to explore the establishment of unemployment buffer period systems and outline plans to accelerate the growth of new jobs within the AI sector. The move follows the rapid adoption of AI agents to automate tasks in fields including coding, design, customer service, and administration.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113566204254437455",
+      "role": "source",
+      "authorHandle": "kalshi",
+      "url": "https://x.com/Kalshi/status/2113566204254437455",
+      "tweetedAt": "2026-10-23T09:40:25.000Z",
+      "bestBit": "China issues guidelines to reduce AI's \"negative impact\" on employment",
+      "text": "JUST IN: China issues guidelines to reduce AI's \"negative impact\" on employment"
+    },
+    {
+      "tweetId": "2113556805347656048",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2113556805347656048",
+      "tweetedAt": "2026-10-23T09:03:05.000Z",
+      "bestBit": "CHINA PLANS TO SPEED UP THE GROWTH OF NEW JOBS IN THE AI SECTOR.",
+      "text": "CHINA PLANS TO SPEED UP THE GROWTH OF NEW JOBS IN THE AI SECTOR."
+    },
+    {
+      "tweetId": "2113578492965060841",
+      "role": "commentary",
+      "authorHandle": "poezhao0605",
+      "url": "https://x.com/poezhao0605/status/2113578492965060841",
+      "tweetedAt": "2026-10-23T10:29:15.000Z",
+      "bestBit": "The guideline calls for a steady and prudent (稳慎, wěnshèn) approach to \"the scope, intensity and pace\" of AI use in labor-intensive industries",
+      "text": "\"In the future, robots will handle all deliveries. There won't be any need for couriers.\"\n\nRichard Liu, founder and chairman of https://t.co/YvafJjQH94, one of China's largest e-commerce groups, said that at a business forum in Beijing on June 21. I quoted him in a piece that month.\n\nChina's State Council General Office has issued a guideline on adapting to AI and building an \"employment-friendly\" development model, Jiemian, a Chinese business news outlet, reported on October 23. The guideline calls for a steady and prudent (稳慎, wěnshèn) approach to \"the scope, intensity and pace\" of AI use in labor-intensive industries, to reduce the impact on workers as far as possible.\n\nI read 稳慎 as Beijing claiming a say over how fast AI reaches labor-intensive work. Delivery looks to me like exactly that kind of work. The test is whether any ministry turns \"scope, intensity and pace\" into a rule with numbers."
+    },
+    {
+      "tweetId": "2113617128754712611",
+      "role": "commentary",
+      "authorHandle": "maxforai",
+      "url": "https://x.com/MaxForAI/status/2113617128754712611",
+      "tweetedAt": "2026-10-23T13:02:47.000Z",
+      "bestBit": "鼓励企业探索建立失业缓冲期制度",
+      "text": "重磅！中国政府出台文件，要给AI替代人类工作的速度踩刹车🔥\n\n今天，国务院办公厅正式印发文件，明确提出：\n“减缓人工智能应用就业替代影响。”\n\n提出尤其是在劳动密集型行业，要稳慎把握AI应用的范围、力度和节奏。\n\n甚至提出了一个非常值得关注的措施：鼓励企业探索建立失业缓冲期制度。\n\n这件事情，我觉得比今天发布任何一个大模型都值得关注。\n\n过去几年，整个AI行业都在疯狂追求一件事：让AI能够替代越来越多的人类工作。\n\n从写代码、做设计，到客服、销售、行政，大家都在研究怎么让Agent接管更多工作，怎么让一个人干过去十个人的活。\n\n结果现在，国家已经开始考虑，怎么减缓这种替代带来的就业冲击了。\n\n还有人觉得AI抢你工作是杞人忧天么？"
+    }
+  ],
+  "isSuperseded": false
+}

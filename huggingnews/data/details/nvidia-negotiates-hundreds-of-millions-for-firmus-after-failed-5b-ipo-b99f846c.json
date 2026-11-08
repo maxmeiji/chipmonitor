@@ -1,0 +1,124 @@
+{
+  "slug": "nvidia-negotiates-hundreds-of-millions-for-firmus-after-failed-5b-ipo-b99f846c",
+  "title": "Nvidia Negotiates Hundreds of Millions for Firmus After Failed $5B IPO",
+  "publishedAt": "2026-10-22T16:25:09.417Z",
+  "eventTimeApprox": "2026-10-21T03:38:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 31,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "Firmus is seeking at least $2B in private capital to stabilize its balance sheet after it withdrew its registration with the public markets earlier this month. The Australian AI cloud provider is in talks with Nvidia for an investment of several hundred million dollars to cover working capital needs and debts, according to The Information. Firmus previously attempted to raise $5B at a valuation of approximately $30B, but the move collapsed after investors pushed back on the pricing.\n\nCEO Jensen Huang recently stated that while demand for \"neocloud\" GPU providers is \"off the charts,\" the companies often struggle to find necessary funding. Nvidia already owns 7.2% of Firmus, following a $500M investment earlier this year, and has provided credit support for the company to purchase $15B in server racks featuring 170,000 Blackwell and Rubin GPUs. Firmus also signed a deal last month with Meta to provide GPU capacity in Southeast Asia.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112692477149032714",
+      "role": "source",
+      "authorHandle": "_pheebini",
+      "url": "https://x.com/_pheebini/status/2112692477149032714",
+      "tweetedAt": "2026-10-20T23:48:33.000Z",
+      "bestBit": "invest many $100s of millions in Australian neocloud Firmus, which abruptly pulled its IPO early this month",
+      "text": "Nvidia is in talks to invest many $100s of millions in Australian neocloud Firmus, which abruptly pulled its IPO early this month. \n\nMore details in @theinformation: \n\nhttps://t.co/N4JJ7jISGu"
+    },
+    {
+      "tweetId": "2113202114549707222",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2113202114549707222",
+      "tweetedAt": "2026-10-22T09:33:40.000Z",
+      "bestBit": "Demand is really high, they just need working capital.",
+      "text": "\"Demand is really high, they just need working capital.\"\n\nNvidia CEO Jensen Huang tells @TomMackenzieTV that neoclouds are a \"good investment\" https://t.co/2eZw4Vf60t https://t.co/OsryOOWgLN"
+    },
+    {
+      "tweetId": "2112691072870863098",
+      "role": "commentary",
+      "authorHandle": "amir",
+      "url": "https://x.com/amir/status/2112691072870863098",
+      "tweetedAt": "2026-10-20T23:42:58.000Z",
+      "bestBit": "news about the neocloud liquidity &amp; credit crisis",
+      "text": "👀news about the neocloud liquidity &amp; credit crisis:\n\nNvidia in talks to invest many hundreds of millions of dollars in Firmus, which just pulled its IPO https://t.co/CdKpoHGtg7"
+    },
+    {
+      "tweetId": "2112833250510934385",
+      "role": "commentary",
+      "authorHandle": "ljkawa",
+      "url": "https://x.com/LJKawa/status/2112833250510934385",
+      "tweetedAt": "2026-10-21T09:07:56.000Z",
+      "bestBit": "Tired: Credit wrapping Re-Wired: Equity wrapping",
+      "text": "Tired: Credit wrapping\n\nRe-Wired: Equity wrapping",
+      "quotedTweetText": "$NVDA IN TALKS TO INVEST HUNDREDS OF MILLIONS IN FIRMUS AFTER FAILED $5B IPO PUSH\n\nNvidia is reportedly considering another major investment in Australian AI cloud provider Firmus, which recently withdrew its planned public listing amid market volatility and investor concerns over its roughly $30B valuation, according to The Information.\n\nFirmus is now seeking to raise at least $2B privately, with Nvidia potentially contributing hundreds of millions.\n\nThe company has already raised more than $13B, including roughly $10B in debt, and counts Blackstone, Coatue and Jane Street among its backers.\n\nNvidia previously agreed to provide credit support for Firmus to purchase server racks containing at least 170,000 Blackwell and Rubin GPUs, estimated to cost around $15B.\n\nThe potential investment comes as AI cloud providers face growing scrutiny over debt levels, infrastructure spending and their ability to generate enough revenue to support expansion.\n\nDiscussions remain ongoing, and the financing is not guaranteed.\n\nSource: The Information."
+    },
+    {
+      "tweetId": "2112827638087565438",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2112827638087565438",
+      "tweetedAt": "2026-10-21T08:45:38.000Z",
+      "bestBit": "Nvidia previously agreed to provide credit support for Firmus to purchase server racks containing at least 170,000 Blackwell and Rubin GPUs, estimated to cost around $15B",
+      "text": "$NVDA IN TALKS TO INVEST HUNDREDS OF MILLIONS IN FIRMUS AFTER FAILED $5B IPO PUSH\n\nNvidia is reportedly considering another major investment in Australian AI cloud provider Firmus, which recently withdrew its planned public listing amid market volatility and investor concerns over its roughly $30B valuation, according to The Information.\n\nFirmus is now seeking to raise at least $2B privately, with Nvidia potentially contributing hundreds of millions.\n\nThe company has already raised more than $13B, including roughly $10B in debt, and counts Blackstone, Coatue and Jane Street among its backers.\n\nNvidia previously agreed to provide credit support for Firmus to purchase server racks containing at least 170,000 Blackwell and Rubin GPUs, estimated to cost around $15B.\n\nThe potential investment comes as AI cloud providers face growing scrutiny over debt levels, infrastructure spending and their ability to generate enough revenue to support expansion.\n\nDiscussions remain ongoing, and the financing is not guaranteed.\n\nSource: The Information."
+    },
+    {
+      "tweetId": "2112767589684539552",
+      "role": "commentary",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2112767589684539552",
+      "tweetedAt": "2026-10-21T04:47:01.000Z",
+      "bestBit": "Firmus was trying to raise about $5 billion at a valuation of around $30 billion, but investors pushed back on the price",
+      "text": "Nvidia is now writing checks to keep its own customers alive.\n\nAccording to The Information, $NVDA is in talks to invest hundreds of millions of dollars in Firmus, the Australian AI cloud provider that just pulled its IPO.\n\nFirmus was trying to raise about $5 billion at a valuation of around $30 billion, but investors pushed back on the price and the company walked away earlier this month.\n\nNvidia already owns about 7.2% of Firmus and put roughly $500 million into its funding round earlier this year.\n\nFirmus also signed a deal with Meta last month to provide GPU capacity at its data centers in Southeast Asia.\n\nPublic markets are getting NERVOUS about neoclouds, so Nvidia is stepping in privately to keep the buildout moving.",
+      "quotedTweetText": "The majority of neocloud companies will NOT survive.\n\nI strongly believe we're going to see a MASSIVE amount of consolidation across this industry over the next several years, and only a handful of companies will come out on top. Personally, I think $CRWV and $NBIS will be the top 2.  Just look at how competitive this industry is becoming. You have the traditional hyperscalers like Microsoft, Amazon, and Google spending hundreds of billions of dollars building their own AI infrastructure. Then you have companies like CoreWeave, Nebius, Crusoe, Lambda, and several others trying to capture a piece of that same market.\n\nAs we know, building a neocloud is EXTREMELY capital intensive. We're talking billions of dollars in GPUs, data centers, power infrastructure, networking equipment, and everything else required to operate these facilities. And that's before you even consider the cost of financing all of this. Not every company is going to have access to the capital necessary to compete, and more importantly, not every company is going to have customers willing to sign multibillion dollar contracts. This is why I believe we're eventually going to see smaller neoclouds either go bankrupt or get acquired by larger players. I wouldn't be surprised if the industry eventually becomes dominated by just a few major independent GPU cloud providers.\n\nBut here's why I'm particularly bullish on CoreWeave and Nebius. Both companies have already demonstrated that some of the largest technology companies in the world are willing to commit billions of dollars to their infrastructure. CoreWeave has built an enormous contracted backlog, while Nebius has secured major agreements with Microsoft and Meta.  And then there's $NVDA, which I think is one of the most underrated parts of this entire conversation. Jensen Huang has a HUGE incentive to make sure the neocloud industry succeeds. Think about it. Why would Nvidia want the entire AI infrastructure market controlled by Microsoft, Amazon, Google, and Meta when it can help create another group of major customers buying billions of dollars worth of GPUs? We've already seen Nvidia make strategic investments across this ecosystem, including its investment in Nebius. Now, that doesn't mean Jensen is going to bail out every struggling neocloud, but I do believe Nvidia will continue supporting strategically important partners where it makes financial sense.\n\nAnd this brings me back to what's happening with CoreWeave right now. Investors are absolutely freaking out over its borrowing costs, and I understand why. Financing an enormous infrastructure buildout when interest rates are elevated is not easy, especially when you're already carrying significant debt. But I think people are confusing financing risk with demand risk. The demand for AI compute hasn't suddenly disappeared. If anything, the latest growth we're seeing from companies like Anthropic suggests we're going to need substantially MORE computing capacity over the next several years. That doesn't guarantee CoreWeave or Nebius will succeed. Both still need to execute, manage their capital requirements, and eventually demonstrate that their businesses can generate sustainable free cash flow. But I think the companies that survive this period could emerge in a MUCH stronger competitive position as weaker players get pushed out of the market.\n\nYou can check out the full podcast here: https://t.co/sShRsqUUHG"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nvidia-negotiates-hundreds-of-millions-investment-in-firmus-after-ipo-wi-b6b0a84b",
+    "title": "Nvidia Negotiates Hundreds of Millions Investment in Firmus After IPO Withdrawal",
+    "publishedAt": "2026-10-20T23:53:53.497Z",
+    "eventTimeApprox": "2026-10-20T23:42:58.000Z",
+    "routingTopicKeys": [
+      "startups",
+      "ai",
+      "business",
+      "tech"
+    ],
+    "tweetCount": 27,
+    "authorCount": 17
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "update-togethers-post-training-b200-gpu-rates-drop-to-9-an-hour-for-ai-f-8e656a44",
+  "title": "UPDATE: Together's Post-Training B200 GPU Rates Drop to $9 an Hour for AI Fine-Tuning",
+  "publishedAt": "2026-10-29T18:54:15.323Z",
+  "eventTimeApprox": "2026-10-20T10:44:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:TGAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "Together AI",
+      "hubKey": "together-ai"
+    },
+    {
+      "ticker": "0100",
+      "kind": "equity",
+      "role": "related",
+      "name": "MiniMax Group",
+      "hubKey": "minimax"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:DEEL",
+      "kind": "private",
+      "role": "related",
+      "name": "Deel",
+      "hubKey": "deel"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114535735562809433/HVhXC8BWYAAtgqr-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114535735562809433/HVhXC8BWYAAtgqr-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "togethercompute",
+      "tweetUrl": "https://x.com/togethercompute/status/2114535735562809433"
+    }
+  },
+  "summary": "The AI infrastructure provider has added the MiniMax M3.1 Flash model to its suite of supported large language models and adjusted its hardware pricing to attract more developers to its custom training service. Together now charges $9 per Nvidia B200 GPU hour for the first eight weeks of use on its Post-Training platform, a reduction from the previous $11 hourly rate.\n\nThe platform enables companies to use supervised fine-tuning (SFT) and reinforcement learning (RL) to convert open-weight models into proprietary tools while keeping the training loops in their own Python code. Deel's data science team utilized the service to fine-tune its Pangaea K1 model using more than 43,500 pages of knowledge, while the hiring firm Jack & Jill developed a candidate prediction model that matched the quality of closed-source AI alternatives.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112241595273621857",
+      "role": "source",
+      "authorHandle": "togethercompute",
+      "url": "https://x.com/togethercompute/status/2112241595273621857",
+      "tweetedAt": "2026-10-19T17:56:54.000Z",
+      "bestBit": "Turn open models into custom models you own, with SFT or RL.",
+      "text": "Together Post-Training is live\n\nTurn open models into custom models you own, with SFT or RL.\n\nYou define the data, rewards, environments and the training loop itself. We run the hard infrastructure underneath it, tuned for quality and speed."
+    },
+    {
+      "tweetId": "2112602433239318894",
+      "role": "source",
+      "authorHandle": "togethercompute",
+      "url": "https://x.com/togethercompute/status/2112602433239318894",
+      "tweetedAt": "2026-10-20T17:50:44.000Z",
+      "bestBit": "together post-training on b200s is $9/gpu-hour for the first eight weeks, down from $11",
+      "text": "together post-training on b200s is $9/gpu-hour for the first eight weeks, down from $11\n\nrun sft or rl, iterate on more experiments, and keep the training loop in your own code\n\nhttps://t.co/0WHnc47Psw https://t.co/GtIRRo7cJ4"
+    },
+    {
+      "tweetId": "2114535735562809433",
+      "role": "source",
+      "authorHandle": "togethercompute",
+      "url": "https://x.com/togethercompute/status/2114535735562809433",
+      "tweetedAt": "2026-10-26T01:53:00.000Z",
+      "bestBit": "minimax m3.1 flash is now available for post-training on together ai",
+      "text": "minimax m3.1 flash is now available for post-training on together ai\n\nrun sft or rl with your own data, rewards + environments, while keeping the training loop in your own python code\n\ntake m3.1 flash and shape it for the agentic workload you need\nhttps://t.co/0WHnc47hCY https://t.co/2be5CAQ5Li"
+    },
+    {
+      "tweetId": "2113336838983426378",
+      "role": "source",
+      "authorHandle": "togethercompute",
+      "url": "https://x.com/togethercompute/status/2113336838983426378",
+      "tweetedAt": "2026-10-22T18:29:00.000Z",
+      "bestBit": ".@deel’s data science team went from setup to real rl experiments on together post-training in a couple of hours",
+      "text": ".@deel’s data science team went from setup to real rl experiments on together post-training in a couple of hours\n\nthey then ran up to five experiments at once on the same gpu capacity\n\nmore experiments per gpu means a much faster iteration loop\n\nhttps://t.co/0WHnc47Psw https://t.co/2Am5TBieQK"
+    },
+    {
+      "tweetId": "2113368604842311752",
+      "role": "support",
+      "authorHandle": "deel",
+      "url": "https://x.com/deel/status/2113368604842311752",
+      "tweetedAt": "2026-10-22T20:35:14.000Z",
+      "bestBit": "Deel’s Pangaea K1 model is trained on 43,500+ pages of expert knowledge and fine-tuned on @togethercompute.",
+      "text": "Better AI for global work starts with better training. \n\nDeel’s Pangaea K1 model is trained on 43,500+ pages of expert knowledge and fine-tuned on @togethercompute. \n\nThe result: faster, more accurate answers for teams everywhere. Thanks for the partnership.",
+      "quotedTweetText": ".@deel’s data science team went from setup to real rl experiments on together post-training in a couple of hours\n\nthey then ran up to five experiments at once on the same gpu capacity\n\nmore experiments per gpu means a much faster iteration loop\n\nhttps://t.co/0WHnc47Psw https://t.co/2Am5TBieQK"
+    },
+    {
+      "tweetId": "2115873969257554012",
+      "role": "source",
+      "authorHandle": "togethercompute",
+      "url": "https://x.com/togethercompute/status/2115873969257554012",
+      "tweetedAt": "2026-10-29T18:30:39.000Z",
+      "bestBit": "in offline evals, they matched a closed-source model’s quality on an open-source model that’s significantly cheaper to serve",
+      "text": "jack &amp; jill used together post-training to train a model that predicts which candidates a hiring manager will want to meet\n\nin offline evals, they matched a closed-source model’s quality on an open-source model that’s significantly cheaper to serve\n\nhttps://t.co/0WHnc47hCY https://t.co/Mb4TAnOj5l"
+    },
+    {
+      "tweetId": "2112263652070043733",
+      "role": "commentary",
+      "authorHandle": "tri_dao",
+      "url": "https://x.com/tri_dao/status/2112263652070043733",
+      "tweetedAt": "2026-10-19T19:24:33.000Z",
+      "bestBit": "We now have a platform for SFT & RL. This is why open weight models are great",
+      "text": "We now have a platform for SFT &amp; RL. This is why open weight models are great",
+      "quotedTweetText": "Together Post-Training is live\n\nTurn open models into custom models you own, with SFT or RL.\n\nYou define the data, rewards, environments and the training loop itself. We run the hard infrastructure underneath it, tuned for quality and speed."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "together-launches-post-training-platform-for-custom-ai-models-3da55cad",
+    "title": "Together Launches Post Training Platform for Custom AI Models",
+    "publishedAt": "2026-10-19T19:37:38.774Z",
+    "eventTimeApprox": "2026-10-19T19:14:42.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 21,
+    "authorCount": 10
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "figma-forecasts-up-to-1499b-in-2026-revenue-following-q3-sales-beat-fc7d3152",
+  "title": "Figma Forecasts Up to $1.499B in 2026 Revenue Following Q3 Sales Beat",
+  "publishedAt": "2026-11-04T21:38:23.661Z",
+  "eventTimeApprox": "2026-11-04T21:18:23.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "FIG",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Figma, Inc.",
+      "hubKey": "fig"
+    }
+  ],
+  "summary": "The design software firm reported third-quarter revenue of $391.4M, exceeding the $376M analyst estimate as sales climbed 43% from a year earlier. Adjusted earnings per share were $0.10, compared with an estimated $0.05, and non-GAAP operating income reached $47M, nearly double the $23.5M forecast.\n\nFigma raised its full-year 2026 revenue guidance to between $1.497B and $1.499B, up from previous expectations of $1.47B, and increased its annual non-GAAP operating income outlook to a range of $158M to $163M. Despite the beats, shares fell as much as 7% in after-hours trading. The company noted that about 65% of customers with more than $10,000 in annual recurring revenue have adopted its new AI agent.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118087599252283767",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118087599252283767",
+      "tweetedAt": "2026-11-04T21:06:50.000Z",
+      "bestBit": "Figma agent: 65% of >$10K ARR customers using it; >80% consuming AI credits",
+      "text": "FIGMA $FIG Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $391.4M (Est. $376M) 🟢; +43% YoY\n🔹 Adj. EPS: $0.10 (Est. $0.05) 🟢\n🔹 Non-GAAP Oper Income: $47.0M (Est. $23.5M) 🟢\n🔹 Non-GAAP Gross Margin: 82% (Est. 81.0%) 🟢; -400 bps YoY\n\nRaises FY26 Guide:\n🔹 Revenue: $1.497B-$1.499B (Est. $1.47B) 🟢; from prior guidance\n🔹 Non-GAAP Oper Income: $158M-$163M (Est. $135M) 🟢\n\nQ4 Guide:\n🔹 Revenue: $402M-$404M (Est. $390M) 🟢\n\nOther Q3 Metrics:\n🔹 Net Dollar Retention Rate: 131%\n🔹 >$10K ARR Customers: 16,566\n🔹 >$100K ARR Customers: 1,717\n🔹 Free Cash Flow: $41.5M\n\nAnnouncements:\n🔹 MCP: 3x usage QoQ; 4x write-back; 20 partners\n🔹 Code Layers: Open beta launched October 14\n🔹 AI Model: Work share more than doubled\n\nKey Updates:\n🔹 Figma agent: 65% of >$10K ARR customers using it; >80% consuming AI credits\n🔹 Weekly Credit Users: Increased almost 50%\n\nComments:\n🔸 “That momentum, alongside improvements in AI cost efficiency, gives us confidence to raise our full-year revenue and non-GAAP operating income outlook while continuing to invest in our AI capabilities.” — Praveer Melwani, Figma’s CFO\n\n🔸 “We're building the full-stack canvas for visual-first development: one that's built for collaboration, increasingly powered by our first-party model and native to the way teams design and build with AI.” — Dylan Field, Figma’s CEO and co-founder"
+    },
+    {
+      "tweetId": "2118087995782033560",
+      "role": "source",
+      "authorHandle": "zoink",
+      "url": "https://x.com/zoink/status/2118087995782033560",
+      "tweetedAt": "2026-11-04T21:08:25.000Z",
+      "bestBit": "$1.7B in cash, cash equivalents and marketable securities",
+      "text": "$FIG Q3 results:\n\n→ $391M in revenue, 43% YoY growth rate and $16M above high-end of prior guidance\n→ 131% net dollar retention rate\n→ 36% YoY growth in non-GAAP gross profit\n→ $1.7B in cash, cash equivalents and marketable securities\n→ Raising our outlook for FY 2026 https://t.co/k4G6vTxACF"
+    },
+    {
+      "tweetId": "2118090507884650987",
+      "role": "signal",
+      "authorHandle": "trendspider",
+      "url": "https://x.com/TrendSpider/status/2118090507884650987",
+      "tweetedAt": "2026-11-04T21:18:23.000Z",
+      "bestBit": "-7% in after-hours",
+      "text": "$FIG Q3 EARNINGS \n\nAdj EPS: $0.10 vs $0.06 est ✅\nSales: $391.4M vs $375.8M est ✅\n\n🟥 -7% in after-hours https://t.co/uBTl0D8RZg"
+    }
+  ],
+  "isSuperseded": false
+}

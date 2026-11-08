@@ -1,0 +1,106 @@
+{
+  "slug": "china-plans-39t-grid-buildout-to-turn-wasted-power-into-ai-edge-2bb50408",
+  "title": "China Plans $3.9T Grid Buildout to Turn Wasted Power Into AI Edge",
+  "publishedAt": "2026-10-12T08:09:47.452Z",
+  "eventTimeApprox": "2026-10-08T07:37:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "summary": "Beijing intends to capture the approximately 9% of renewable energy output that was wasted in 2026 to fuel its computing infrastructure goals. The government is planning a $3.9T grid buildout through 2049 to transport surplus wind and solar power from the hinterlands to AI data centers, repurposing domestic energy gluts into a strategic advantage in artificial intelligence.\n\nChina currently has 24 GW of operational compute capacity with another 50 GW planned or under construction, compared to 56 GW operational in the US. This expansion is concentrated in energy-rich regions such as Ulanqab in Inner Mongolia, where 15 GW of capacity is planned, as China seeks to become the pre-eminent tech superpower.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109551078580932921",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2109551078580932921",
+      "tweetedAt": "2026-10-12T07:45:45.000Z",
+      "bestBit": "bid to turn excess wind and solar energy into an AI edge via a $3.9T grid buildout through 2049",
+      "text": "A look at China's bid to turn excess wind and solar energy into an AI edge via a $3.9T grid buildout through 2049, as ~9% of renewable output was wasted in 2026 (Bloomberg)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2108066356986019878",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2108066356986019878",
+      "tweetedAt": "2026-10-08T05:26:00.000Z",
+      "bestBit": "China has 24 GW of operational compute capacity and another 50 GW planned or under construction, compared to 56 GW operational in the US",
+      "text": "SemiAnalysis: China has 24 GW of operational compute capacity and another 50 GW planned or under construction, compared to 56 GW operational in the US (Financial Times)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2108047389001216294",
+      "role": "support",
+      "authorHandle": "zijing_wu",
+      "url": "https://x.com/zijing_wu/status/2108047389001216294",
+      "tweetedAt": "2026-10-08T04:10:37.000Z",
+      "bestBit": "breakneck build-out of AI infrastructure as it seeks to become the pre-eminent tech superpower",
+      "text": "This is the first in a three-part series examining China’s breakneck build-out of AI infrastructure as it seeks to become the pre-eminent tech superpower. With @EleanorOlcott and @WillLangley96 from the hinterlands of Ulanqab to Shaoguan\n\nLimited free link\nhttps://t.co/VqLr6UcmyW"
+    },
+    {
+      "tweetId": "2108048751575355811",
+      "role": "commentary",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2108048751575355811",
+      "tweetedAt": "2026-10-08T04:16:02.000Z",
+      "bestBit": "Data centers are the solution to electricity oversupply",
+      "text": "China is absolutely insane. As if a pork glut weren’t enough, now it has an electricity glut too…\n\nJust think about how insane this sentence sounds: “Data centers are the solution to electricity oversupply.” https://t.co/GwCN1Xfvzr",
+      "quotedTweetText": "This is the first in a three-part series examining China’s breakneck build-out of AI infrastructure as it seeks to become the pre-eminent tech superpower. With @EleanorOlcott and @WillLangley96 from the hinterlands of Ulanqab to Shaoguan\n\nLimited free link\nhttps://t.co/VqLr6UcmyW"
+    },
+    {
+      "tweetId": "2108099460064538982",
+      "role": "commentary",
+      "authorHandle": "kyleichan",
+      "url": "https://x.com/kyleichan/status/2108099460064538982",
+      "tweetedAt": "2026-10-08T07:37:32.000Z",
+      "bestBit": "15 GW capacity planned for Ulanqab alone",
+      "text": "Great piece looking at China’s massive data center buildout in Inner Mongolia.\n\n15 GW capacity planned for Ulanqab alone. https://t.co/I6iocLnHxK",
+      "quotedTweetText": "This is the first in a three-part series examining China’s breakneck build-out of AI infrastructure as it seeks to become the pre-eminent tech superpower. With @EleanorOlcott and @WillLangley96 from the hinterlands of Ulanqab to Shaoguan\n\nLimited free link\nhttps://t.co/VqLr6UcmyW"
+    },
+    {
+      "tweetId": "2108354828028289314",
+      "role": "commentary",
+      "authorHandle": "pmddomingos",
+      "url": "https://x.com/pmddomingos/status/2108354828028289314",
+      "tweetedAt": "2026-10-09T00:32:16.000Z",
+      "bestBit": "Watch as China zooms past America in data center capacity",
+      "text": "Watch as China zooms past America in data center capacity.\nhttps://t.co/M6nBANmrw2"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "china-builds-ai-data-centers-in-hinterland-to-absorb-excess-power-3e0256d0",
+    "title": "China Builds AI Data Centers in Hinterland to Absorb Excess Power",
+    "publishedAt": "2026-10-08T04:22:06.138Z",
+    "eventTimeApprox": "2026-10-08T01:00:06.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 11,
+    "authorCount": 10
+  }
+}

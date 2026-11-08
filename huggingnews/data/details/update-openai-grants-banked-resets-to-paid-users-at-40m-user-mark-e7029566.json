@@ -1,0 +1,140 @@
+{
+  "slug": "update-openai-grants-banked-resets-to-paid-users-at-40m-user-mark-e7029566",
+  "title": "UPDATE: OpenAI Grants Banked Resets to Paid Users at 40M User Mark",
+  "publishedAt": "2026-10-07T19:40:28.482Z",
+  "eventTimeApprox": "2026-10-05T18:31:44.000Z",
+  "isFreshStory": false,
+  "tweetCount": 39,
+  "authorCount": 25,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107677164405735497/HT_5NTya8AELGtL-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107677164405735497/HT_5NTya8AELGtL-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "theo",
+      "tweetUrl": "https://x.com/theo/status/2107677164405735497"
+    }
+  },
+  "summary": "Tibo Sottiaux’s team restored consumption balances for paying members of the company's developer tools on Oct 7. The lead for Codex at OpenAI granted this \"banked reset\" to every paid account for Codex and ChatGPT Work to celebrate reaching a new peak of 40M active users across those platforms. This allocation of usage limits was distributed automatically to all subscription members, bypassing the usual community polling process used during the event.\n\nThe reset is the third event in a 28 day daily shipping cycle that began on Oct 4, in which the company releases either a functional improvement or a system reset every 24 hours. Previous updates in the sprint included a 50% speed increase for GPT-6 Astra and GPT-6.1 Sol, which raised throughput from 30 to 50 tokens per second. These optimizations apply to all subscription products and partners using Sign in With ChatGPT, including Devin, Pi, and Amp.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106845241357824205",
+      "role": "source",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2106845241357824205",
+      "tweetedAt": "2026-10-04T20:33:43.000Z",
+      "bestBit": "each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset",
+      "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin.",
+      "quotedTweetText": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it."
+    },
+    {
+      "tweetId": "2107158998495748264",
+      "role": "support",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2107158998495748264",
+      "tweetedAt": "2026-10-05T17:20:29.000Z",
+      "bestBit": "optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol",
+      "text": "Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be felt within the next two hours.",
+      "quotedTweetText": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin."
+    },
+    {
+      "tweetId": "2107676072871600470",
+      "role": "source",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2107676072871600470",
+      "tweetedAt": "2026-10-07T03:35:09.000Z",
+      "bestBit": "the vote is clear and the community demands a reset... therefore ... the reset has been processed",
+      "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!",
+      "quotedTweetText": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to improve the experience."
+    },
+    {
+      "tweetId": "2107913931071148357",
+      "role": "source",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2107913931071148357",
+      "tweetedAt": "2026-10-07T19:20:18.000Z",
+      "bestBit": "a new high of 40M active users across Codex and ChatGPT Work",
+      "text": "Banked reset for everyone, without a poll. Thanks Tibo! Appreciate it!",
+      "quotedTweetText": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow!"
+    },
+    {
+      "tweetId": "2107392817459052604",
+      "role": "commentary",
+      "authorHandle": "leroyli311063",
+      "url": "https://x.com/LeroyLi311063/status/2107392817459052604",
+      "tweetedAt": "2026-10-06T08:49:35.000Z",
+      "bestBit": "Speed is increased because the bank resets issued on September 4/5 had expired",
+      "text": "Speed is increased because the bank resets issued on September 4/5 had expired\n\nPrior to that, they intentionally slow it down to prevent the servers from crashing."
+    },
+    {
+      "tweetId": "2107162023129723241",
+      "role": "commentary",
+      "authorHandle": "reach_vb",
+      "url": "https://x.com/reach_vb/status/2107162023129723241",
+      "tweetedAt": "2026-10-05T17:32:30.000Z",
+      "bestBit": "optimised inference for GPT 6 Astra and 6.1 Sol to be 50% faster",
+      "text": "LFG!! Team optimised inference for GPT 6 Astra and 6.1 Sol to be 50% faster!!\n\nAcross Sign-in with ChatGPT and plans\n\nRolling out over the next couple hours - Enjoy!",
+      "quotedTweetText": "Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be felt within the next two hours."
+    },
+    {
+      "tweetId": "2107257858467475787",
+      "role": "commentary",
+      "authorHandle": "gauravisnotme",
+      "url": "https://x.com/gauravisnotme/status/2107257858467475787",
+      "tweetedAt": "2026-10-05T23:53:19.000Z",
+      "bestBit": "first announcement is about reaching 50 tps",
+      "text": "28 days of improvements and the first announcement is about reaching 50 tps. Frontier throughput"
+    },
+    {
+      "tweetId": "2107677164405735497",
+      "role": "commentary",
+      "authorHandle": "theo",
+      "url": "https://x.com/theo/status/2107677164405735497",
+      "tweetedAt": "2026-10-07T03:39:29.000Z",
+      "bestBit": "We got a global Codex reset *and* the day's improvements",
+      "text": ":) https://t.co/UFfyzbzy8M",
+      "quotedTweetText": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-openai-executes-global-codex-reset-following-community-vote-52284a89",
+    "title": "UPDATE: OpenAI Executes Global Codex Reset Following Community Vote",
+    "publishedAt": "2026-10-07T08:54:31.028Z",
+    "eventTimeApprox": "2026-10-05T18:25:04.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 34,
+    "authorCount": 24
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "isomorphic-labs-targets-40-billion-to-50-billion-valuation-b6765df5",
+  "title": "Isomorphic Labs Targets $40 Billion to $50 Billion Valuation",
+  "publishedAt": "2026-10-08T04:53:13.736Z",
+  "eventTimeApprox": "2026-10-08T04:35:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "vc",
+      "name": "VC"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Isomorphic Labs is currently in discussions with investors to secure a new round of funding to expand its artificial intelligence platform for pharmaceutical research. The company is negotiating a valuation of at least $40 billion, according to sources familiar with the matter.\n\nThe venture is a spinout from Google's DeepMind unit and aims to use generative AI to accelerate the drug discovery process. Sources indicate the funding talks could potentially push the startup's valuation as high as $50 billion if the round is completed at the upper end of investor expectations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108050050433839440",
+      "role": "source",
+      "authorHandle": "rebeccatorrenc5",
+      "url": "https://x.com/RebeccaTorrenc5/status/2108050050433839440",
+      "tweetedAt": "2026-10-08T04:21:12.000Z",
+      "bestBit": "The AI drug discovery startup, spun out of DeepMind, could notch a valuation as high as $50 billion with this raise",
+      "text": "SCOOP: Isomorphic Labs is in new funding talks for a valuation of $40 billion or more, per our sources.\n\nThe AI drug discovery startup, spun out of DeepMind, could notch a valuation as high as $50 billion with this raise.\n\nw/ @mhbergen @nmasc_ @EdLudlow👇"
+    }
+  ],
+  "isSuperseded": false
+}

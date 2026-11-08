@@ -1,0 +1,79 @@
+{
+  "slug": "dc-advances-bill-to-allow-waymo-with-first-in-nation-automation-tax-30191b98",
+  "title": "DC Advances Bill to Allow Waymo With First-in-Nation Automation Tax",
+  "publishedAt": "2026-11-05T19:22:23.478Z",
+  "eventTimeApprox": "2026-11-05T01:37:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "us-politics",
+    "tech",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-legislation",
+      "name": "US Legislation"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117965450369741103/HWSGWevXUAEtr0w-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117965450369741103/HWSGWevXUAEtr0w-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "ashleyschapitl",
+      "tweetUrl": "https://x.com/AshleySchapitl/status/2117965450369741103"
+    }
+  },
+  "summary": "Councilmember Charles Allen scheduled a markup for Nov. 9 on proposed legislation that would authorize Waymo to operate its autonomous vehicle ride-hailing service in Washington. The bill would establish a tax on automation to generate revenue for the city's public transit systems and provide financial support for gig workers who lack access to traditional social safety nets due to their 1099 employment status.\n\nProponents of the measure say the bill would create hundreds of full-time jobs in the District and offer a new strategy to reduce the 37 traffic injuries and fatalities recorded in the city this year. Backers also claim that allowing autonomous vehicles into urban markets increases driver earnings for competitors like Uber and Lyft by forcing them to offer higher per-trip and per-hour pay.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117965450369741103",
+      "role": "source",
+      "authorHandle": "ashleyschapitl",
+      "url": "https://x.com/AshleySchapitl/status/2117965450369741103",
+      "tweetedAt": "2026-11-04T13:01:27.000Z",
+      "bestBit": "by creating competition with Uber/Lyft there’s evidence that they pay their drivers MORE in cities with Waymo",
+      "text": "Today in Capital Commonsense—@charlesallen is holding a markup on the bill to allow Waymo 11/9. He has secured big concessions and by creating competition with Uber/Lyft there’s evidence that they pay their drivers MORE in cities with Waymo. More from @AVGregR. https://t.co/lMojXAZ9p3"
+    },
+    {
+      "tweetId": "2118155703030305101",
+      "role": "analysis",
+      "authorHandle": "ethanteicher",
+      "url": "https://x.com/ethanteicher/status/2118155703030305101",
+      "tweetedAt": "2026-11-05T01:37:27.000Z",
+      "bestBit": "tax automation to support transit and workers who are barred from the social safety net by a 1099",
+      "text": "D.C. has studied AVs for nearly 15 years. The result is @charlesallen’s first-in-the-nation bill that would tax automation to support transit and workers who are barred from the social safety net by a 1099.\n\nPassing this bill would unlock significant investment and hundreds of full time jobs for the District, and give Washington another tool to address traffic injuries and fatalities, of which there are 37 so far this year. \n\nAll this, while reports are beginning to show the real impact of AVs on drivers: higher per-trip and per-hour pay, subsidized by platforms taking less of drivers’ hard earned fare.",
+      "quotedTweetText": "Today in Capital Commonsense—@charlesallen is holding a markup on the bill to allow Waymo 11/9. He has secured big concessions and by creating competition with Uber/Lyft there’s evidence that they pay their drivers MORE in cities with Waymo. More from @AVGregR. https://t.co/lMojXAZ9p3"
+    }
+  ],
+  "isSuperseded": false
+}

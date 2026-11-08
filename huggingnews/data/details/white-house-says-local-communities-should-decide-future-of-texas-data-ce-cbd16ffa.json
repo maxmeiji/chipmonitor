@@ -1,0 +1,126 @@
+{
+  "slug": "white-house-says-local-communities-should-decide-future-of-texas-data-ce-cbd16ffa",
+  "title": "White House Says Local Communities Should Decide Future of Texas Data Center Approvals",
+  "publishedAt": "2026-11-07T01:53:31.401Z",
+  "eventTimeApprox": "2026-11-06T00:57:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 60,
+  "authorCount": 46,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "summary": "The White House said that decisions on the approval and placement of new data centers in Texas should be left to local residents. The response follows a pledge by Governor-elect Gina Hinojosa to freeze new construction permits for the industry until the state enacts laws to protect water availability and prevent electricity price increases for rural consumers.\n\nThe proposed moratorium will not affect projects that have already secured permits, which Hinojosa said covers most facilities scheduled for delivery through 2028. The freeze would remain in effect until the state legislature passes new protections, potentially during the next session that runs for 140 days between January and May 2027.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118881233711022582",
+      "role": "source",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2118881233711022582",
+      "tweetedAt": "2026-11-07T01:40:27.000Z",
+      "bestBit": "White House Says 'Communities' Should Decide",
+      "text": "Texas Governor-Elect Wants Data Center Pause; White House Says 'Communities' Should Decide https://t.co/2cirNDV8mF"
+    },
+    {
+      "tweetId": "2118420042283102604",
+      "role": "source",
+      "authorHandle": "gavinsbaker",
+      "url": "https://x.com/GavinSBaker/status/2118420042283102604",
+      "tweetedAt": "2026-11-05T19:07:51.000Z",
+      "bestBit": "all currently permitted datacenters in Texas will be allowed to finish construction",
+      "text": "The governor-elect of Texas, Gina Hinojosa, has explicitly said that all currently permitted datacenters in Texas will be allowed to finish construction. This essentially covers all of the 2027 and likely well into 2028.\n\nShe is going to pass laws that ensure that all *newly* permitted datacenters going forward for delivery in 2028/2029 will pay taxes, commit to no increase in power prices for consumers, don’t impact water availability for people, be constructed with union labor and give “Texans a seat at the table.”\n\nSounds reasonable. She doesn’t want to lose a lot of good blue collar jobs and property taxes for small towns in rural Texas.\n\nDatacenter commentary starts at 6:30 in this interview.\n\nAlso attaching her official campaign position from her website in the next post.\n\nSidenote: After watching a bunch of her speeches and interviews, I do think she is a political talent and probably has a future in national politics.\n\nhttps://t.co/shCGNcdu9d"
+    },
+    {
+      "tweetId": "2118420782304899367",
+      "role": "commentary",
+      "authorHandle": "nic_carter",
+      "url": "https://x.com/nic_carter/status/2118420782304899367",
+      "tweetedAt": "2026-11-05T19:10:47.000Z",
+      "bestBit": "I don't think leadership in these states would be so suicidal as to nuke thousands of working class jobs",
+      "text": "having said that, I don't think leadership in these states would be so suicidal as to nuke thousands of working class jobs and the main engine of GDP growth by fully slamming the door shut on the DC builout. I do think it will be meaningfully impaired, but not stop altogether. see EG Texas Gov Hinojosa' position: \n\nhttps://t.co/mnchX2ZQu4",
+      "quotedTweetText": "The governor-elect of Texas, Gina Hinojosa, has explicitly said that all currently permitted datacenters in Texas will be allowed to finish construction. This essentially covers all of the 2027 and likely well into 2028.\n\nShe is going to pass laws that ensure that all *newly* permitted datacenters going forward for delivery in 2028/2029 will pay taxes, commit to no increase in power prices for consumers, don’t impact water availability for people, be constructed with union labor and give “Texans a seat at the table.”\n\nSounds reasonable. She doesn’t want to lose a lot of good blue collar jobs and property taxes for small towns in rural Texas.\n\nDatacenter commentary starts at 6:30 in this interview.\n\nAlso attaching her official campaign position from her website in the next post.\n\nSidenote: After watching a bunch of her speeches and interviews, I do think she is a political talent and probably has a future in national politics.\n\nhttps://t.co/shCGNcdu9d"
+    },
+    {
+      "tweetId": "2118518297901895691",
+      "role": "commentary",
+      "authorHandle": "saxena_puru",
+      "url": "https://x.com/saxena_puru/status/2118518297901895691",
+      "tweetedAt": "2026-11-06T01:38:17.000Z",
+      "bestBit": "Gina Hinojosa has just clarified that she is NOT planning to ban data-centres",
+      "text": "Gina Hinojosa has just clarified that she is NOT planning to ban data-centres. She just wants legislation around electricity, water and labour. \n\nThe data-centres will get built, the AI-genie isn't going back in the lamp."
+    },
+    {
+      "tweetId": "2118595700233826663",
+      "role": "commentary",
+      "authorHandle": "chamath",
+      "url": "https://x.com/chamath/status/2118595700233826663",
+      "tweetedAt": "2026-11-06T06:45:51.000Z",
+      "bestBit": "we need to stop what we’re doing with data centers until we have those protections",
+      "text": "“So the difference is we will have laws to protect Texans and we need to stop what we’re doing with data centers until we have those protections.”\n\nThis doesn’t sound bullish.",
+      "quotedTweetText": "Texas Governor-elect Gina Hinojosa: “It is not that I hate data centers. I hate the way they are taking advantage of Texas”\n\nAsked whether data centers still have a future in Texas:\n\nHINOJOSA: “Right. Well, we have always been a pro-business state in Texas. But what changes now with me as governor is it has to be a partnership that benefits Texans. And right now what has happened is data centers have moved into mostly rural communities and there are no rules and laws to protect Texans and Texans are being taken advantage of. So the difference is we will have laws to protect Texans and we need to stop what we’re doing with data centers until we have those protections. We can have a strong economy, strong industry and protections for the people of Texas. Those things are not mutually exclusive, and I’ll make sure as governor I lead to ensure that that happens.”\n\nTAPPER: “So you’re not ruling out that data centers will be able to be built in Texas, it’s just you want there to be regulations to protect communities, is that right?”\n\nHINOJOSA: “And that communities have a seat at the table to decide if and how these data centers come into their communities. Texas is like a country. We are so diverse in all the ways. Different communities have different needs. And those communities have to be able to walk away from the table to leverage what they need for their community. So absolutely, we need to make sure they are partners in this effort. And that has always been my position. It is not that I hate data centers. I hate the way they are taking advantage of Texas. And that stops when I’m governor.”"
+    },
+    {
+      "tweetId": "2118453414929596629",
+      "role": "analysis",
+      "authorHandle": "rhouseresearch",
+      "url": "https://x.com/RHouseResearch/status/2118453414929596629",
+      "tweetedAt": "2026-11-05T21:20:27.000Z",
+      "bestBit": "TCEQ permitting likely reopens in December for a month or so before she takes office",
+      "text": "@GavinSBaker Her proposed policies are very reasonable and in line with how responsible operators have been operating in the state for years. \n\nAlso important to remember that TCEQ permitting likely reopens in December for a month or so before she takes office. I strongly suspect folks currently lacking permits but planning to deliver 2028 data center capacity will be able to get approved for construction during this window. And in any event, I think both parties in TX are on-board with her position, so more comprehensive legislation (which also reopens the TCEQ permitting process) will likely come months, not years after she takes office.\n\nIMO net impact is that some of the ill-prepared, disorganized, more speculative projects get started ~6-9 months later than planned (or cancelled outright).. But folks intimate with the TX regulatory processes with years of experience building in TX could end up largely unaffected."
+    },
+    {
+      "tweetId": "2118456942100459852",
+      "role": "analysis",
+      "authorHandle": "deredleritt3r",
+      "url": "https://x.com/deredleritt3r/status/2118456942100459852",
+      "tweetedAt": "2026-11-05T21:34:28.000Z",
+      "bestBit": "legislative sessions run for 140 days *every 2 years*",
+      "text": "@GavinSBaker Great post, and here are a few additional points around the margins:\n\n- She indeed says that there will be a moratorium ON APPROVALS until a new law is passed that gives Texans a seat at the table.  Yes, this does mean that previously approved data centers can continue construction.\n\n- On the new law being passed: Texas has an odd legislative calendar, in which legislative sessions run for 140 days *every 2 years*.  The next one runs between January and May 2027.  If the law that Hinojosa is talking about fails to be enacted as a result of this legislative session, the next one doesn't start until January 2029.\n\nThe bad news is that this is a very short time window, which means that interested parties need to start working with legislature members on this bill NOW.  I hope the industry's government relations teams are already on it.\n\nThe good news is that, if the bill is successfully passed, the moratorium won't be long at all - probably one year at most (and could even be significantly shorter)."
+    },
+    {
+      "tweetId": "2118679576456925289",
+      "role": "commentary",
+      "authorHandle": "bkclaims",
+      "url": "https://x.com/Bkclaims/status/2118679576456925289",
+      "tweetedAt": "2026-11-06T12:19:08.000Z",
+      "bestBit": "What happens to projects already in the pipeline that need another approval? The devil’s in the details.",
+      "text": "I understand that beating up on data centers is politically popular. But what problem are we actually solving?\n\nThe Community Note helps, but “new permits/approvals” still leaves a lot unanswered. What happens to projects already in the pipeline that need another approval? The devil’s in the details. Let’s see what she actually proposes.\n\nWe were involved in the Brazos bankruptcy. I have no illusions about how messy the Texas power market can get. But interruptible demand has value: crypto miners can curtail, and suitably designed data centers can shift or reduce certain workloads when the grid is stressed. Build that flexibility into the deal.\n\nMake developers pay for the infrastructure they require. Address water use based on the actual cooling system and local supply. Require enforceable curtailment commitments where feasible.\n\nThat sounds like policy. “Halt data centers” sounds like political grandstanding.\n\nSpeaking as a distressed investor: bring on the volatility. More opportunity for us. Still a lousy way to encourage investment.",
+      "quotedTweetText": "BREAKING: Texas Governor-elect Gina Hinojosa calls for a “halt” on AI data center development until new laws are enacted, per CNN.\n\n“We need to stop what we are doing with data centers until we have those protections,” she said.\n\nHinojosa will be Texas’ first Democratic governor since 1995."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "texas-governor-elect-hinojosa-vows-to-pause-new-data-center-permits-unti-76dc7c82",
+    "title": "Texas Governor-Elect Hinojosa Vows To Pause New Data Center Permits Until Rural Protections Are Passed",
+    "publishedAt": "2026-11-06T05:07:59.156Z",
+    "eventTimeApprox": "2026-11-05T23:56:36.000Z",
+    "routingTopicKeys": [
+      "us-politics",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 59,
+    "authorCount": 46
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "liquid-exchange-contracts-value-anthropic-at-17-trillion-in-pre-ipo-slid-f601e8cc",
+  "title": "Liquid Exchange Contracts Value Anthropic at $1.7 Trillion in Pre-IPO Slide",
+  "publishedAt": "2026-10-30T16:08:34.140Z",
+  "eventTimeApprox": "2026-10-29T15:35:14.500Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "crypto",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "crypto-markets",
+      "name": "Crypto Markets"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2116190757552017687/HV44Ii-WkAADvN2-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2116190757552017687/HV44Ii-WkAADvN2-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "liquidtrading",
+      "tweetUrl": "https://x.com/liquidtrading/status/2116190757552017687"
+    }
+  },
+  "summary": "The speculative market price for shares in AI developer Anthropic has fallen further on cryptocurrency platforms following the disclosure of the firm's official listing documents. Trading contracts for the startup's equity on the Liquid exchange now imply a total market valuation of $1.7 trillion.\n\nThis figure marks a continued decline from a peak of about $1.9 trillion recorded earlier this week and represents a drop of nearly 20% over the last month. These pre-IPO perpetual futures allow speculators to trade the perceived value of a company's stock before it formally begins trading on a public exchange, and prices have slid since the company's S-1 filing became public on Monday.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116190757552017687",
+      "role": "source",
+      "authorHandle": "liquidtrading",
+      "url": "https://x.com/liquidtrading/status/2116190757552017687",
+      "tweetedAt": "2026-10-30T15:29:28.000Z",
+      "bestBit": "Anthropic Pre-IPO perpetual falls to an implied valuation of only $1.7 Trillion",
+      "text": "JUST IN: Anthropic Pre-IPO perpetual falls to an implied valuation of only $1.7 Trillion https://t.co/HMfb3QJcLC"
+    },
+    {
+      "tweetId": "2115833109900099645",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115833109900099645",
+      "tweetedAt": "2026-10-29T15:48:18.000Z",
+      "bestBit": "Anthropic's pre-IPO perpetual futures on Liquid have been sliding since its S-1 filing",
+      "text": "Anthropic's pre-IPO perpetual futures on Liquid have been sliding since its S-1 filing, with the contract now implying a valuation of roughly $1.8 trillion. https://t.co/BjjlAfgsK8",
+      "quotedTweetText": "JUST IN: Anthropic pre-ipo perpetual plummets and now has an implied valuation of only $1.8 Trillion. https://t.co/2RyA6A7uEq"
+    },
+    {
+      "tweetId": "2115801772581437887",
+      "role": "support",
+      "authorHandle": "laurashin",
+      "url": "https://x.com/laurashin/status/2115801772581437887",
+      "tweetedAt": "2026-10-29T13:43:46.000Z",
+      "bestBit": "Crypto exchanges already price it at about $1.9 trillion",
+      "text": "1/\nAnthropic made its IPO filing public Monday. Crypto exchanges already price it at about $1.9 trillion. Is crypto overpricing it?"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropics-implied-pre-ipo-valuation-drops-to-18-trillion-on-crypto-futu-96ce800d",
+    "title": "Anthropic's Implied Pre-IPO Valuation Drops to $1.8 Trillion on Crypto Futures",
+    "publishedAt": "2026-10-29T16:09:34.139Z",
+    "eventTimeApprox": "2026-10-29T15:17:59.500Z",
+    "routingTopicKeys": [
+      "startups",
+      "crypto",
+      "ai"
+    ],
+    "tweetCount": 6,
+    "authorCount": 4
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "google-explains-why-ai-tool-refuses-to-name-2020-election-winner-8c0a0eb6",
+  "title": "Google Explains Why AI Tool Refuses to Name 2020 Election Winner",
+  "publishedAt": "2026-10-28T20:11:42.336Z",
+  "eventTimeApprox": "2026-10-28T18:42:35.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115532312100102170/HVvhbP5WIAAMsP_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115532312100102170/HVvhbP5WIAAMsP_-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "ryangrim",
+      "tweetUrl": "https://x.com/ryangrim/status/2115532312100102170"
+    }
+  },
+  "summary": "Google has provided a response to reports that its conversational AI tool prevents users from identifying the winner of the 2020 U.S. presidential election. While the tool provides results for various other election cycles, including Donald Trump's victories in 2016 and 2024, it blocks responses to queries regarding the 2020 race.\n\nThe restriction was documented by users who noted that changing only the year in a query for election results triggered the block specifically for the 2020 outcome. The limitation on the AI tool follows assertions by Trump that Google CEO Sundar Pichai will follow his directions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115507395010908471",
+      "role": "source",
+      "authorHandle": "hqnewsnow",
+      "url": "https://x.com/HQNewsNow/status/2115507395010908471",
+      "tweetedAt": "2026-10-28T18:14:01.000Z",
+      "bestBit": "Trump has publicly stated that Google CEO Sundar Pichai will \"do what I say.\"",
+      "text": "Users are finding that Google's AI chat feature refuses to say who won the 2020 election, but gives an answer for any other election year.\n\nThis comes after Trump has publicly stated that Google CEO Sundar Pichai will \"do what I say.\" https://t.co/bY4ndhhJ5V"
+    },
+    {
+      "tweetId": "2115509390040076427",
+      "role": "commentary",
+      "authorHandle": "hausfath",
+      "url": "https://x.com/hausfath/status/2115509390040076427",
+      "tweetedAt": "2026-10-28T18:21:57.000Z",
+      "bestBit": "Google has specifically prevented its AI tool from telling users who won the 2020 presidential election, even though it happily tells us that Trump won in 2016 and 2024.",
+      "text": "Google has specifically prevented its AI tool from telling users who won the 2020 presidential election, even though it happily tells us that Trump won in 2016 and 2024. This sort of political intervention into LLM responses is deeply problematic. (h/t to Charles Mann) https://t.co/9R0ArXTCyJ"
+    },
+    {
+      "tweetId": "2115532312100102170",
+      "role": "source",
+      "authorHandle": "ryangrim",
+      "url": "https://x.com/ryangrim/status/2115532312100102170",
+      "tweetedAt": "2026-10-28T19:53:02.000Z",
+      "bestBit": "The two queries were about a minute apart and identical except for a single digit.",
+      "text": "Here’s Google’s explanation for why it hesitates on 2020 but can tell you who won every other election https://t.co/LV1uGhaLZU",
+      "quotedTweetText": "I had real trouble believing that Google was actually doing this, but I just duplicated the result myself. The two queries were about a minute apart and identical except for a single digit. https://t.co/AEwN4WqU5k"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "googles-ai-tool-refuses-to-name-winner-of-2020-us-election-79d82ae3",
+    "title": "Google's AI Tool Refuses to Name Winner of 2020 U.S. Election",
+    "publishedAt": "2026-10-28T19:10:20.553Z",
+    "eventTimeApprox": "2026-10-28T18:21:57.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

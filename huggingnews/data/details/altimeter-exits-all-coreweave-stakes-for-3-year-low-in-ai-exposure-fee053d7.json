@@ -1,0 +1,93 @@
+{
+  "slug": "altimeter-exits-all-coreweave-stakes-for-3-year-low-in-ai-exposure-fee053d7",
+  "title": "Altimeter Exits All CoreWeave Stakes for 3 Year Low in AI Exposure",
+  "publishedAt": "2026-10-15T20:24:36.539Z",
+  "eventTimeApprox": "2026-10-15T20:00:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "vc",
+      "name": "VC"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "subject",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110823105258217829/2DM1v5oSTv-aKEKc-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110823105258217829/2DM1v5oSTv-aKEKc-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2110821442925301760/vid/avc1/1920x1080/Qy8DrEtMI0w-c2Mw.mp4?tag=29",
+    "credit": {
+      "handle": "financelancelot",
+      "tweetUrl": "https://x.com/FinanceLancelot/status/2110823105258217829"
+    }
+  },
+  "summary": "Brad Gerstner has stripped Altimeter Capital of its entire position in CoreWeave after concluding that artificial intelligence valuations have overshot their reasonable limit. During a CNBC appearance, Gerstner stated the firm has reduced overall AI exposure over the past 3 months, rotating 10% of the fund's book into Meta and Tesla. The exit follows an August 14 filing showing Altimeter held 6 million CoreWeave shares as of June 30, including 1.5 million shares added during the second quarter.\n\nThe fund's AI holdings are now at the lowest levels they have been in 3 years, Gerstner told the network. This liquidation has drawn criticism from market observers who note a disconnect between the fund's actual trading activity and Gerstner's continued public promotion of AI technologies.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110777126672589161",
+      "role": "source",
+      "authorHandle": "amitisinvesting",
+      "url": "https://x.com/amitisinvesting/status/2110777126672589161",
+      "tweetedAt": "2026-10-15T16:57:37.000Z",
+      "bestBit": "WE HAVE SOLD ALL OUR $CRWV COREWEAVE, DON'T OWN ANY OF IT TODAY",
+      "text": "BRAD GERSTNER: \n\n- WE HAVE SOLD ALL OUR $CRWV COREWEAVE, DON'T OWN ANY OF IT TODAY\n\n- WE'VE TAKEN EXPOSURE DOWN OVER THE LAST 3 MONTHS, WE FELT AI HAD OVERSHOT AND WOULD LEAD TO A PERIOD OF CONSOLIDATION\n\n- MOVED 10% OF OUR BOOK INTO $META AND $TSLA \n\nas of the last 13f filing on 8/14, which accounts for all trades up until 6/30, Altimeter reported a stake of 6M shares in which they added 1.5M shares in Q2\n\nsince then, they seemed to have liquidated the entire position and rotated"
+    },
+    {
+      "tweetId": "2110823105258217829",
+      "role": "commentary",
+      "authorHandle": "financelancelot",
+      "url": "https://x.com/FinanceLancelot/status/2110823105258217829",
+      "tweetedAt": "2026-10-15T20:00:20.000Z",
+      "bestBit": "our exposures are the lowest they've been in 3 years",
+      "text": "Yup, it's the top! Brad Gerstner was on CNBC an hour ago shilling AI, when an unexpected question came up.\n\n\"I did... uh... uh... uh... a presentation about a month ago... our exposures are the lowest they've been in 3 years\"\n\nMeanwhile, he just sold most of his AI investments 🤥 https://t.co/P3SZx6Q1SE"
+    },
+    {
+      "tweetId": "2110825197645525446",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2110825197645525446",
+      "tweetedAt": "2026-10-15T20:08:39.000Z",
+      "bestBit": "why would brad's exposure be so low if his conviction is so high....",
+      "text": "why would brad's exposure be so low if his conviction is so high....",
+      "quotedTweetText": "Yup, it's the top! Brad Gerstner was on CNBC an hour ago shilling AI, when an unexpected question came up.\n\n\"I did... uh... uh... uh... a presentation about a month ago... our exposures are the lowest they've been in 3 years\"\n\nMeanwhile, he just sold most of his AI investments 🤥 https://t.co/P3SZx6Q1SE"
+    }
+  ],
+  "isSuperseded": false
+}

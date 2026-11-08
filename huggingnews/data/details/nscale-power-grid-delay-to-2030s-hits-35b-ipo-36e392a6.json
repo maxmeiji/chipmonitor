@@ -1,0 +1,141 @@
+{
+  "slug": "nscale-power-grid-delay-to-2030s-hits-35b-ipo-36e392a6",
+  "title": "Nscale Power Grid Delay to 2030s Hits $35B IPO",
+  "publishedAt": "2026-10-18T13:55:21.680Z",
+  "eventTimeApprox": "2026-10-18T06:15:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 33,
+  "authorCount": 24,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111810751669375484/HU6op-BWYAE8Iw0-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111810751669375484/HU6op-BWYAE8Iw0-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "stockmktnewz",
+      "tweetUrl": "https://x.com/StockMKTNewz/status/2111810751669375484"
+    }
+  },
+  "summary": "The British neocloud provider is searching for alternative energy sources for its Loughton, Essex facility after the site lost its only announced customer. Microsoft has canceled a deal to rent 23,000 Nvidia AI chips at the center because UK grid officials stated that electrical power will not be available for the location until the 2030s. Nscale remains committed to the project and is investigating non-grid power options to salvage the site.\n\nThese operational failures come as Nscale pursues a Wall Street listing targeting a $35 billion valuation. The company’s $103 billion contract pipeline is heavily concentrated, with Microsoft and Anthropic accounting for 85% of its total backlog. Other assets are similarly troubled; a flagship Norway site currently operates only 6.4 MW of a planned 30 MW following a December fire and cooling leaks, while Nvidia has provided $1 billion in pre-IPO convertible notes to support the firm's expansion.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111705325686632883",
+      "role": "source",
+      "authorHandle": "jamestitcomb",
+      "url": "https://x.com/jamestitcomb/status/2111705325686632883",
+      "tweetedAt": "2026-10-18T06:25:57.000Z",
+      "bestBit": "Microsoft cancels UK data centre deal with Nscale. Comes just as Nscale hopes to pull off a $35 billion IPO",
+      "text": "Exclusive: Microsoft cancels UK data centre deal with Nscale. Comes just as Nscale hopes to pull off a $35 billion IPO https://t.co/TkRbMuiAR3"
+    },
+    {
+      "tweetId": "2110848368431845439",
+      "role": "source",
+      "authorHandle": "oliviasolon",
+      "url": "https://x.com/oliviasolon/status/2110848368431845439",
+      "tweetedAt": "2026-10-15T21:40:43.000Z",
+      "bestBit": "Nscale has a massive $103 billion data center pipeline but only has a tiny fraction online",
+      "text": "NEW: Nscale has a massive $103 billion data center pipeline but only has a tiny fraction online. We set out to investigate how its buildout is going and found delays and setbacks including equipment failures, power constraints &amp; alleged labor violations.\n\nhttps://t.co/0uLVthk9PI"
+    },
+    {
+      "tweetId": "2111117533667291235",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2111117533667291235",
+      "tweetedAt": "2026-10-16T15:30:17.000Z",
+      "bestBit": "Nscale has $103 billion in data center contracts, mostly with Anthropic and Microsoft",
+      "text": "Nscale has $103 billion in data center contracts, mostly with Anthropic and Microsoft, but its projects are grappling with teething issues. Here’s why it matters. https://t.co/BeHO8yx02Y"
+    },
+    {
+      "tweetId": "2111810751669375484",
+      "role": "commentary",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2111810751669375484",
+      "tweetedAt": "2026-10-18T13:24:53.000Z",
+      "bestBit": "Microsoft $MSFT has reportedly pulled out of a data center deal in the United Kingdom",
+      "text": "Microsoft $MSFT has reportedly pulled out of a data center deal in the United Kingdom 🇬🇧 with British neocloud Nscale - Telegraph https://t.co/lqX3uDDtue"
+    },
+    {
+      "tweetId": "2111148416168247425",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2111148416168247425",
+      "tweetedAt": "2026-10-16T17:33:00.000Z",
+      "bestBit": "Only 6.4 of a planned 30 megawatts run there after cooling leaks, a December fire and construction delays",
+      "text": "🦔Nscale, the British AI data center company planning an IPO at up to $35 billion, is six months behind on its flagship site in Norway, Bloomberg reports. Only 6.4 of a planned 30 megawatts run there after cooling leaks, a December fire and construction delays, and late capacity has already cost it millions in penalties. Back in March, investors valued the whole company at $14.6 billion.\n\nMy Take\nThe pitch is $103 billion in signed contracts. About 85% of that comes from two customers, Microsoft and Anthropic, and Nscale admits it hasn’t lined up the money or the chips for Anthropic’s $44.6 billion deal yet. Anthropic can cancel parts of that contract with no penalty if capacity shows up late, and Nscale can’t get 30 megawatts running on time in Norway. A contract the customer can walk away from doesn’t count for much as backlog.\n\nNvidia also put $1 billion into Nscale’s pre-IPO convertible notes, so the chipmaker is once again funding a company that buys its chips, same as it did with CoreWeave. The grid power for Nscale’s next big Norway expansion probably won’t arrive before 2037 either. My guess is the price comes down well below $35 billion before this lists, or the date slides into next year.\n\nHedgie🤗"
+    },
+    {
+      "tweetId": "2111700272468967765",
+      "role": "commentary",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2111700272468967765",
+      "tweetedAt": "2026-10-18T06:05:53.000Z",
+      "bestBit": "rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK",
+      "text": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (@jamestitcomb / Telegraph)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2111766381960049113",
+      "role": "commentary",
+      "authorHandle": "vijarkohli",
+      "url": "https://x.com/VijarKohli/status/2111766381960049113",
+      "tweetedAt": "2026-10-18T10:28:34.000Z",
+      "bestBit": "Microsoft & Anthropic account for 85% of Nscale's backlog",
+      "text": "Nscale is one of Europe's more notable data center companies that were planning to IPO. It looks like delays with the energy grid resulted in Microsoft backing out.\n\nThis is a major fumble, as Microsoft & Anthropic account for 85% of Nscale's backlog. Nscale & Anthropic are both planning IPOs.\n\nThis energy grid delay may be out of their control, or it is Europe masquerading as the internet police again. Either way it is a fumble and will cost everyone involved.",
+      "quotedTweetText": "Exclusive: Microsoft cancels UK data centre deal with Nscale. Comes just as Nscale hopes to pull off a $35 billion IPO https://t.co/TkRbMuiAR3"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-microsoft-cancels-anchor-deal-for-23000-ai-chips-at-nscale-c9cda5f5",
+    "title": "UPDATE: Microsoft Cancels Anchor Deal for 23,000 AI Chips at Nscale",
+    "publishedAt": "2026-10-18T06:24:00.762Z",
+    "eventTimeApprox": "2026-10-16T08:16:06.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "tech",
+      "startups"
+    ],
+    "tweetCount": 19,
+    "authorCount": 13
+  }
+}

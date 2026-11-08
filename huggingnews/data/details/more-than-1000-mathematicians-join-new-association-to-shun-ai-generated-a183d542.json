@@ -1,0 +1,73 @@
+{
+  "slug": "more-than-1000-mathematicians-join-new-association-to-shun-ai-generated-a183d542",
+  "title": "More Than 1,000 Mathematicians Join New Association to Shun AI-Generated Research",
+  "publishedAt": "2026-10-25T10:22:46.020Z",
+  "eventTimeApprox": "2026-10-25T04:10:13.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "math",
+      "name": "Math"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114153199414157752/HVb7INOXkAAPbFc-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114153199414157752/HVb7INOXkAAPbFc-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "hesamation",
+      "tweetUrl": "https://x.com/Hesamation/status/2114153199414157752"
+    }
+  },
+  "summary": "Members of the newly formed Association for Human Mathematics (AHM) have pledged to reject the use of artificial intelligence in publishing mathematical papers and to avoid collaborations with frontier AI labs. More than 1,000 mathematicians have joined the organization, while 654 of those members committed to avoiding all AI tools in their research.\n\nThe movement has drawn criticism from observers who describe the mathematicians' resistance as a case study in how not to handle the AI transition. Other critics argue the effort to create AI-free spaces is futile, claiming the technology has already reached escape velocity in the field of mathematics.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114153199414157752",
+      "role": "source",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2114153199414157752",
+      "tweetedAt": "2026-10-25T00:32:56.000Z",
+      "bestBit": "654 of them went even further to NOT even use AI in their research, at all",
+      "text": "Wow, over 1,000 mathematicians have now joined the Association for Human Mathematics (AHM), committing to:\n&gt; NOT publish AI generated math papers\n&gt; NOT work with frontier labs\n&gt; 654 of them went even further to NOT even use AI in their research, at all https://t.co/McjhsDYgha"
+    },
+    {
+      "tweetId": "2114207879402291694",
+      "role": "commentary",
+      "authorHandle": "pmddomingos",
+      "url": "https://x.com/pmddomingos/status/2114207879402291694",
+      "tweetedAt": "2026-10-25T04:10:13.000Z",
+      "bestBit": "Mathematicians are a case study in how to not handle the AI transition.",
+      "text": "Mathematicians are a case study in how to not handle the AI transition.",
+      "quotedTweetText": "Wow, over 1,000 mathematicians have now joined the Association for Human Mathematics (AHM), committing to:\n&gt; NOT publish AI generated math papers\n&gt; NOT work with frontier labs\n&gt; 654 of them went even further to NOT even use AI in their research, at all https://t.co/McjhsDYgha"
+    },
+    {
+      "tweetId": "2114298113360027982",
+      "role": "analysis",
+      "authorHandle": "francoisfleuret",
+      "url": "https://x.com/francoisfleuret/status/2114298113360027982",
+      "tweetedAt": "2026-10-25T10:08:46.000Z",
+      "bestBit": "AI has reached escape velocity in math.",
+      "text": "It is IMO totally legitimate to ask for AI-free spaces.\n\nHowever here it feels as if the math community believes that AI is stealing and repackaging humans' work, and that not \"cooperating\" will make it go away.\n\nThis ship has sailed: AI has reached escape velocity in math.",
+      "quotedTweetText": "Wow, over 1,000 mathematicians have now joined the Association for Human Mathematics (AHM), committing to:\n&gt; NOT publish AI generated math papers\n&gt; NOT work with frontier labs\n&gt; 654 of them went even further to NOT even use AI in their research, at all https://t.co/McjhsDYgha"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "mastercard-debuts-ai-agent-payments-to-enable-agentic-commerce-6a59dc7a",
+  "title": "Mastercard Debuts AI Agent Payments to Enable Agentic Commerce",
+  "publishedAt": "2026-10-20T17:56:30.391Z",
+  "eventTimeApprox": "2026-10-20T17:29:19.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "fintech",
+      "name": "Fintech"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Mastercard Incorporated",
+      "hubKey": "ma"
+    },
+    {
+      "ticker": "COIN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Coinbase Global, Inc. Class A Common Stock",
+      "hubKey": "coin"
+    },
+    {
+      "ticker": "NET",
+      "kind": "equity",
+      "role": "related",
+      "name": "Cloudflare, Inc. Class A common stock, par value $0.001 per share",
+      "hubKey": "net"
+    }
+  ],
+  "summary": "Autonomous software can now settle costs for internet services through a new early access program called Agent Pay for Machines. The system allows artificial intelligence agents to conduct financial transactions using the x402 standard on the Base network to interact with digital service providers.\n\nMastercard launched the functionality after completing pilots with Coinbase, Base, and Cloudflare to develop a framework for agentic commerce. Coinbase provides the infrastructure and a facilitator tool that powers the agents' payment capabilities, allowing them to independently purchase digital services.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112574605072257446",
+      "role": "source",
+      "authorHandle": "theblockco",
+      "url": "https://x.com/TheBlockCo/status/2112574605072257446",
+      "tweetedAt": "2026-10-20T16:00:10.000Z",
+      "bestBit": "opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
+      "text": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare https://t.co/yo3LPES6rP"
+    },
+    {
+      "tweetId": "2112597037623713895",
+      "role": "source",
+      "authorHandle": "coinbasedev",
+      "url": "https://x.com/CoinbaseDev/status/2112597037623713895",
+      "tweetedAt": "2026-10-20T17:29:18.000Z",
+      "bestBit": "Coinbase provides the agentic payments infrastructure to power each @Mastercard agent using @Cloudflare",
+      "text": "Mastercard is now helping agents pay for digital services.\n\nCoinbase provides the agentic payments infrastructure to power each @Mastercard agent using @Cloudflare. Powered by x402 and the Coinbase facilitator.\n\nIf you’re building in agentic commerce, let’s talk. https://t.co/TYSNWDkfLK"
+    },
+    {
+      "tweetId": "2112597360358375762",
+      "role": "support",
+      "authorHandle": "coinbase",
+      "url": "https://x.com/coinbase/status/2112597360358375762",
+      "tweetedAt": "2026-10-20T17:30:35.000Z",
+      "bestBit": "Mastercard and Cloudflare are getting into agentic payments",
+      "text": "Mastercard and Cloudflare are getting into agentic payments.\n\nWe’re helping them do it.",
+      "quotedTweetText": "Mastercard is now helping agents pay for digital services.\n\nCoinbase provides the agentic payments infrastructure to power each @Mastercard agent using @Cloudflare. Powered by x402 and the Coinbase facilitator.\n\nIf you’re building in agentic commerce, let’s talk. https://t.co/TYSNWDkfLK"
+    },
+    {
+      "tweetId": "2112598431504196047",
+      "role": "support",
+      "authorHandle": "base",
+      "url": "https://x.com/base/status/2112598431504196047",
+      "tweetedAt": "2026-10-20T17:34:50.000Z",
+      "bestBit": "Agent Pay for Machines lets AI agents pay for digital services using x402 on Base",
+      "text": "Mastercard is building agent payments with Cloudflare\n\nAgent Pay for Machines lets AI agents pay for digital services using x402 on Base https://t.co/vnbnFOyaSQ"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "christian-leaders-challenge-ai-labs-over-artificial-consciousness-564ca9fb",
+  "title": "Christian Leaders Challenge AI Labs Over Artificial Consciousness",
+  "publishedAt": "2026-10-12T12:25:51.267Z",
+  "eventTimeApprox": "2026-10-12T10:30:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "world"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    }
+  ],
+  "summary": "Baptist churches and the Vatican are coordinating a formal religious critique of the developers of generative AI to oppose the pursuit of machine awareness. In South Carolina, 74-year-old Baptist pastor Joseph Hutchinson warned his congregation that chatbots \"want to be God,\" noting that no event in his 50 years of preaching has unsettled his flock more than the rise of artificial intelligence. Pope Leo XIV has similarly likened the technology to the Tower of Babel in a recent encyclical.\n\nThis pushback is emerging earlier than the religious response to previous technological shifts. While Silicon Valley has traditionally managed pressures from regulators, lawyers, and the US Senate, it now faces a coordinated front including a summit by Presbyterians and an official statement from American evangelicals. These leaders argue that the goal of creating a new form of consciousness constitutes a theological transgression.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109577468646731787",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2109577468646731787",
+      "tweetedAt": "2026-10-12T09:30:37.000Z",
+      "bestBit": "Christian leaders are weighing in on AI earlier than they did with other tech, as AI leaders' talk of creating a new consciousness fuels religious concerns",
+      "text": "Christian leaders are weighing in on AI earlier than they did with other tech, as AI leaders' talk of creating a new consciousness fuels religious concerns (@timkhiggins / Wall Street Journal)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

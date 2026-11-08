@@ -1,0 +1,77 @@
+{
+  "slug": "spacex-signs-130-firms-to-new-grok-ai-partner-network-d3abcca7",
+  "title": "SpaceX Signs 130 Firms to New Grok AI Partner Network",
+  "publishedAt": "2026-10-22T16:24:00.058Z",
+  "eventTimeApprox": "2026-10-22T14:58:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "APO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Apollo Global Management, Inc.",
+      "hubKey": "apo"
+    }
+  ],
+  "summary": "Nvidia and Apollo Global Management are joining a new collaboration designed to integrate the Grok artificial intelligence system into corporate workflows. More than 130 companies have entered the early-access phase of the SpaceX Super Intelligence Partner Network to help deploy and improve the AI's capabilities, according to an announcement regarding the program's launch. The initiative targets firms building with Grok to increase the commercial adoption of SpaceX's artificial intelligence offerings.\n\nThe network provides a structured framework for enterprises to refine Grok through real-world business applications and iterative testing. By partnering with dozens of external organizations, SpaceX aims to transform its AI system into a scalable tool for institutional use, moving beyond its initial utility as a general-purpose chatbot.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113302367881789742",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2113302367881789742",
+      "tweetedAt": "2026-10-22T16:12:02.000Z",
+      "bestBit": "working with Apollo Global Management, Nvidia and dozens of other firms on a new partnership program to deploy and improve its Grok AI systems",
+      "text": "SpaceX is working with Apollo Global Management, Nvidia and dozens of other firms on a new partnership program to deploy and improve its Grok AI systems, part of a bid to bolster business adoption of its artificial intelligence offerings https://t.co/P4W3xvBEFR"
+    },
+    {
+      "tweetId": "2113280067849638070",
+      "role": "support",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2113280067849638070",
+      "tweetedAt": "2026-10-22T14:43:25.000Z",
+      "bestBit": "over 130 companies join early-access phase",
+      "text": "SpaceXSI launches SpaceX Super Intelligence Partner Network for companies building with Grok; over 130 companies join early-access phase $SPCX"
+    }
+  ],
+  "isSuperseded": false
+}

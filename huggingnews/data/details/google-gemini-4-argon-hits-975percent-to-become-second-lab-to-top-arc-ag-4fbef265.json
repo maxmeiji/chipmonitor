@@ -1,0 +1,78 @@
+{
+  "slug": "google-gemini-4-argon-hits-975percent-to-become-second-lab-to-top-arc-ag-4fbef265",
+  "title": "Google Gemini 4 Argon Hits 97.5% to Become Second Lab to Top ARC-AGI-3",
+  "publishedAt": "2026-10-15T17:11:11.367Z",
+  "eventTimeApprox": "2026-10-15T16:33:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110768288523251762/HUr0knyXsAANlKB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110768288523251762/HUr0knyXsAANlKB-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "arcprize",
+      "tweetUrl": "https://x.com/arcprize/status/2110768288523251762"
+    }
+  },
+  "summary": "A reasoning model from Google DeepMind has surpassed the 95% accuracy barrier on a test for artificial general intelligence, achieving a score of 97.5% using a provider adapter harness that cost $4.8K. The Gemini 4 Argon model scored 49.8% on the standard harness at a cost of $5.8K, while also recording 91.3% on the ARC-AGI-2 benchmark at $0.32 per task and 98.5% on ARC-AGI-1 at $0.16 per task. This performance makes the company the second frontier AI lab to exceed 95% on the ARC-AGI-3 benchmark.\n\nFrançois Chollet noted that Argon's performance profile on the benchmark is similar to Astra's, indicating that Google has returned to the AI frontier. Other observers attribute the jump in scores to reinforcement learning on games, with one analyst estimating an 85% probability that RL drove the result compared to a 15% chance that 'loopers' were responsible, citing similar trends in the Opus 5 data.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110768288523251762",
+      "role": "source",
+      "authorHandle": "arcprize",
+      "url": "https://x.com/arcprize/status/2110768288523251762",
+      "tweetedAt": "2026-10-15T16:22:30.000Z",
+      "bestBit": "Google DeepMind is the second frontier AI lab to score above 95% on ARC-AGI-3",
+      "text": "Gemini 4 Argon from @Google on ARC-AGI (Verified):\n\n- ARC-AGI-3: 97.5%, $4.8K (provider adapter harness), 49.8%, $5.8K (standard harness)\n- ARC-AGI-2: 91.3%, $0.32/task\n- ARC-AGI-1: 98.5%, $0.16/task\n\nGoogle DeepMind is the second frontier AI lab to score above 95% on ARC-AGI-3. https://t.co/8siwgfBJcr"
+    },
+    {
+      "tweetId": "2110775560846914009",
+      "role": "commentary",
+      "authorHandle": "fchollet",
+      "url": "https://x.com/fchollet/status/2110775560846914009",
+      "tweetedAt": "2026-10-15T16:51:24.000Z",
+      "bestBit": "Argon has a similar performance profile on ARC-AGI-3 as Astra. Google is back at the frontier.",
+      "text": "Argon has a similar performance profile on ARC-AGI-3 as Astra. Google is back at the frontier.",
+      "quotedTweetText": "Gemini 4 Argon from @Google on ARC-AGI (Verified):\n\n- ARC-AGI-3: 97.5%, $4.8K (provider adapter harness), 49.8%, $5.8K (standard harness)\n- ARC-AGI-2: 91.3%, $0.32/task\n- ARC-AGI-1: 98.5%, $0.16/task\n\nGoogle DeepMind is the second frontier AI lab to score above 95% on ARC-AGI-3. https://t.co/8siwgfBJcr"
+    },
+    {
+      "tweetId": "2110771148736671908",
+      "role": "analysis",
+      "authorHandle": "scaling01",
+      "url": "https://x.com/scaling01/status/2110771148736671908",
+      "tweetedAt": "2026-10-15T16:33:52.000Z",
+      "bestBit": "overall I think I am at 85% RL on games and 15% looping for what caused this sudden jump",
+      "text": "I'm not quite sure what role loopers played in saturating ARC-AGI-3\n\nbut I definitely believe it's solvable by just a shit ton of RL on games. loopers probably just made it a lot cheaper\n\noverall I think I am at 85% RL on games and 15% looping for what caused this sudden jump, mostly because of the Opus 5 datapoint and general trends in AI (everything can be RL'd)",
+      "quotedTweetText": "Gemini 4 Argon from @Google on ARC-AGI (Verified):\n\n- ARC-AGI-3: 97.5%, $4.8K (provider adapter harness), 49.8%, $5.8K (standard harness)\n- ARC-AGI-2: 91.3%, $0.32/task\n- ARC-AGI-1: 98.5%, $0.16/task\n\nGoogle DeepMind is the second frontier AI lab to score above 95% on ARC-AGI-3. https://t.co/8siwgfBJcr"
+    }
+  ],
+  "isSuperseded": false
+}

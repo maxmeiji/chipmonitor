@@ -1,0 +1,72 @@
+{
+  "slug": "antlingagi-open-sources-560b-parameter-ling-31-flash-model-4ec5cc4e",
+  "title": "AntLingAGI Open-Sources 560B Parameter Ling-3.1-flash Model",
+  "publishedAt": "2026-10-14T15:54:15.646Z",
+  "eventTimeApprox": "2026-10-14T15:39:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "summary": "Developers can now generate interactive mobile UIs and web pages from rough briefs using a new open-weights reasoning model. AntLingAGI released Ling-3.1-flash, a 560B parameter mixture-of-experts model with 25B active parameters per token and a 1M token context window, to target coding, office, and agent tasks. The model's performance has been benchmarked on GDPVal-AA, FrontierSWE, and Terminal-Bench 4.0.\n\nThe model has immediate support from the vLLM and SGLang inference frameworks for serving on private infrastructure. By applying MXFP4 and block-FP8 quantization, SGLang reduces the weights of the model from 534GB to 292GB, enabling the system to fit on 4 Hopper GPUs.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110390124743970952",
+      "role": "source",
+      "authorHandle": "antlingagi",
+      "url": "https://x.com/AntLingAGI/status/2110390124743970952",
+      "tweetedAt": "2026-10-14T15:19:49.000Z",
+      "bestBit": "Ling-3.1-flash is now open source: ~560B total parameters, ~25B active per token and up to 1M context",
+      "text": "Ling-3.1-flash is now open source: ~560B total parameters, ~25B active per token and up to 1M context. \nBuilt for real work, it can turn a rough brief into a page, mobile UI or interactive prototype teams can review and refine. See the demo. https://t.co/F0rQ7pJ5uq"
+    },
+    {
+      "tweetId": "2110395037997731891",
+      "role": "support",
+      "authorHandle": "vllm_project",
+      "url": "https://x.com/vllm_project/status/2110395037997731891",
+      "tweetedAt": "2026-10-14T15:39:20.000Z",
+      "bestBit": "Day-0 support for Ling-3.1-flash is here in vLLM!",
+      "text": "🎉 Day-0 support for Ling-3.1-flash is here in vLLM!\n~560B total parameters, ~25B active per token, and up to 1M context. From a rough brief to websites, mobile UIs, and interactive prototypes—serve it on your own infrastructure with vLLM.\nCongrats to @AntLingAGI!",
+      "quotedTweetText": "Ling-3.1-flash is now open source: ~560B total parameters, ~25B active per token and up to 1M context. \nBuilt for real work, it can turn a rough brief into a page, mobile UI or interactive prototype teams can review and refine. See the demo. https://t.co/F0rQ7pJ5uq"
+    },
+    {
+      "tweetId": "2110395099687645220",
+      "role": "support",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2110395099687645220",
+      "tweetedAt": "2026-10-14T15:39:35.000Z",
+      "bestBit": "MXFP4 + block-FP8 quantization cuts weights from ~534GB to ~292GB, fitting on 4 Hopper GPUs",
+      "text": "SGLang has Day-0 support for Ling-3.1-flash from @AntLingAGI!\n\nA 560B MoE hybrid reasoning model, 25B active, 1M context, built for real work: it turns a rough brief into a page, mobile UI, or interactive prototype.  \n✅ MXFP4 + block-FP8 quantization cuts weights from ~534GB to ~292GB, fitting on 4 Hopper GPUs \n✅ Strong on real-world agent, office, and coding tasks, including GDPVal-AA, FrontierSWE, and Terminal-Bench 4.0.\n\nGet started with SGLang:",
+      "quotedTweetText": "Ling-3.1-flash is now open source: ~560B total parameters, ~25B active per token and up to 1M context. \nBuilt for real work, it can turn a rough brief into a page, mobile UI or interactive prototype teams can review and refine. See the demo. https://t.co/F0rQ7pJ5uq"
+    }
+  ],
+  "isSuperseded": false
+}

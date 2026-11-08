@@ -1,0 +1,102 @@
+{
+  "slug": "ai-investment-bust-could-cut-global-growth-13-points-by-2028-bae00d8f",
+  "title": "AI Investment Bust Could Cut Global Growth 1.3 Points by 2028",
+  "publishedAt": "2026-10-16T11:24:32.155Z",
+  "eventTimeApprox": "2026-10-13T12:08:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "global-markets",
+    "ai",
+    "us-markets",
+    "startups"
+  ],
+  "primaryRoutingTopic": "global-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110007753200554064/HUhAzxHXoAEe68M-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110007753200554064/HUhAzxHXoAEe68M-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "hedgiemarkets",
+      "tweetUrl": "https://x.com/HedgieMarkets/status/2110007753200554064"
+    }
+  },
+  "summary": "The International Monetary Fund warns that a failure to realize expected returns on artificial intelligence could trigger a global economic contraction. Under a downside scenario, the fund projects that an investment bust would reduce global GDP growth by up to 1.3 percentage points in 2028, while U.S. infrastructure spending on the technology could exceed $10 trillion through 2032. Advanced Asian economies are particularly vulnerable to this slowdown due to their heavy reliance on AI-driven exports.\n\nThis quantified risk coincides with findings from the Financial Times that stock markets face a growing threat of an AI-driven crunch. These fears are linked to \"wrong way risk\" in circular financing, where large tech firms have provided $300 billion in equity and $650 billion in debt to startups in exchange for revenue promises. The IMF also maintains that disorderly spikes in government bond yields and severe cyberattacks remain critical threats to worldwide financial stability.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111050584220430636",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2111050584220430636",
+      "tweetedAt": "2026-10-16T11:04:15.000Z",
+      "bestBit": "the IMF warns that an AI investment bust could reduce global economic growth by up to 1.3 percentage points in 2028",
+      "text": "IMF WARNS AI BUBBLE BURST COULD HIT GLOBAL ECONOMY\n\nThe IMF warns that an AI investment bust could reduce global economic growth by up to 1.3 percentage points in 2028, according to a downside scenario, not its baseline forecast.\n\nU.S. AI infrastructure spending could exceed $10 trillion through 2032, while Asian economies increasingly depend on AI-driven exports.\n\nThe key risk: If AI profits and productivity fail to meet expectations, falling investment could trigger a global stock selloff and economic slowdown."
+    },
+    {
+      "tweetId": "2110779909438075150",
+      "role": "support",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2110779909438075150",
+      "tweetedAt": "2026-10-15T17:08:41.000Z",
+      "bestBit": "Risk of an AI crunch for stock markets is rising",
+      "text": "Risk of an AI crunch for stock markets is rising https://t.co/vti7uJ4ZTB"
+    },
+    {
+      "tweetId": "2109849163164778886",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2109849163164778886",
+      "tweetedAt": "2026-10-13T03:30:14.000Z",
+      "bestBit": "A surge in government bond yields is the biggest emerging risk to the global financial system, a top official at the International Monetary Fund said",
+      "text": "A surge in government bond yields is the biggest emerging risk to the global financial system, a top official at the International Monetary Fund said, as the IMF presented its twice-yearly report on the financial stability outlook. https://t.co/EnDMV24PpP"
+    },
+    {
+      "tweetId": "2110007753200554064",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2110007753200554064",
+      "tweetedAt": "2026-10-13T14:00:25.000Z",
+      "bestBit": "big tech put about $300 billion of equity and $650 billion of debt into weaker AI firms",
+      "text": "🦔The IMF just named an AI stock and debt correction as one of the three biggest threats to financial markets. It reviewed 14 deals since 2023 where big tech put about $300 billion of equity and $650 billion of debt into weaker AI firms, and got back $1.4 trillion in promises to buy their chips and cloud services.\n\nMy Take\nI’ve called this circular financing for months, and the IMF’s name for it is wrong way risk. If one of those weaker firms stumbles, the investor loses on the stock, the loan, and the revenue promise all at once. Hyperscalers went from issuing under 1% of the world’s investment grade bonds in 2024 to 10% now, because AI spending ate their free cash flow.\n\nThe IMF expects advanced Asian markets to take the worst hit, and Korea’s market already dropped as much as 6% overnight on chip worries. Single stock bets now make up 28% of leveraged ETFs, up from 16%, so plenty of regular people are borrowing to ride this too. My guess is the crack shows up when a weaker borrower can’t refinance, and then everybody finds out how tangled these deals are.\n\nHedgie🤗"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "imf-names-ai-asset-correction-one-of-3-top-global-risks-81f106dc",
+    "title": "IMF Names AI Asset Correction One of 3 Top Global Risks",
+    "publishedAt": "2026-10-13T17:17:48.480Z",
+    "eventTimeApprox": "2026-10-13T10:20:16.000Z",
+    "routingTopicKeys": [
+      "global-markets",
+      "ai",
+      "tech",
+      "us-markets",
+      "startups"
+    ],
+    "tweetCount": 15,
+    "authorCount": 10
+  }
+}

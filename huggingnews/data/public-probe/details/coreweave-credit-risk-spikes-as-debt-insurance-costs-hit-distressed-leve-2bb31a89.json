@@ -1,0 +1,141 @@
+{
+  "slug": "coreweave-credit-risk-spikes-as-debt-insurance-costs-hit-distressed-leve-2bb31a89",
+  "title": "CoreWeave Credit Risk Spikes as Debt Insurance Costs Hit Distressed Levels",
+  "publishedAt": "2026-11-06T02:53:41.751Z",
+  "eventTimeApprox": "2026-10-29T12:14:51.500Z",
+  "isFreshStory": false,
+  "tweetCount": 70,
+  "authorCount": 35,
+  "routingTopicKeys": [
+    "ai",
+    "us-markets"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "subject",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118531599570538585/HWaJNT_XcAA_COt-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118531599570538585/HWaJNT_XcAA_COt-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "zerohedge",
+      "tweetUrl": "https://x.com/zerohedge/status/2118531599570538585"
+    }
+  },
+  "summary": "The premium to protect the debt of AI cloud provider CoreWeave from default jumped 125 basis points to reach 22/23 points upfront, a level that signifies the company's credit is now trading on recovery value. This shift reflects a deepening lack of confidence in the company's ability to repay creditors in full, with some market indicators now pricing in a 62% chance of default. The spike follows a period of extreme volatility for the firm's bonds, some of which have recently traded at yields exceeding 17% and prices as low as 73 cents on the dollar.\n\nThe distress at CoreWeave mirrors a broader credit squeeze across the AI infrastructure sector, where a Goldman Sachs basket of data center credit default swaps recently hit a record high above 500 points. Lenders have become more selective as AI-related debt issuance climbed to $655 billion in 2026, pushing the cost of capital for many data center projects above 10% a year. While Treasury Secretary Scott Bessent says the government is monitoring the trend and sees no immediate cause for concern, market analysts warn that proposed restrictions on data center construction in states such as Texas, Ohio, and Georgia could jeopardize up to 30% of planned capacity additions by 2028.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118531599570538585",
+      "role": "source",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2118531599570538585",
+      "tweetedAt": "2026-11-06T02:31:08.000Z",
+      "bestBit": "CRWV CDS +125bps to 22/23 points up. Trading on recovery value now",
+      "text": "CRWV CDS +125bps to 22/23 points up. Trading on recovery value now https://t.co/nY3kadGKUN"
+    },
+    {
+      "tweetId": "2118405001013862413",
+      "role": "support",
+      "authorHandle": "globalmktobserv",
+      "url": "https://x.com/GlobalMktObserv/status/2118405001013862413",
+      "tweetedAt": "2026-11-05T18:08:04.000Z",
+      "bestBit": "CoreWeave bonds fell as low as 78 cents on the dollar, while its 2031 unsecured debt traded at 79.5 cents",
+      "text": "CoreWeave bonds are COLLAPSING:\n\nCoreWeave bonds fell as low as 78 cents on the dollar, while its 2031 unsecured debt traded at 79.5 cents, implying discounts exceeding 20% to face value.\n\nIts 2030 and 2032 bonds also plunged, with yields exceeding 15%, levels widely associated with distressed debt.\n\nInvestors are dumping the bonds as CoreWeave takes on more debt to finance its costly data-center expansion, while rising interest expenses and uncertain AI returns raise concerns about its ability to repay creditors.\n\nThe selloff intensified following victories by candidates advocating restrictions on data-center construction, including Texas governor-elect Gina Hinojosa, who has called for an immediate moratorium.\n\nIncoming governors in Ohio and Georgia have also supported slowing data-center development.\n\nMeanwhile, CoreWeave says it does not expect these political changes to affect existing customer commitments or its backlog.\n\nMeanwhile, shares dropped -9.9% on Wednesday, to $48.42, their lowest closing level since May 2025, \n\nThe data center trade is facing a brutal reality check."
+    },
+    {
+      "tweetId": "2118426522709282988",
+      "role": "support",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2118426522709282988",
+      "tweetedAt": "2026-11-05T19:33:36.000Z",
+      "bestBit": "Goldman Sachs' Data Center CDS Basket just climbed above 500, after sitting below 300 as recently as July",
+      "text": "The cost of insuring data center debt just hit a RECORD high.\n\nGoldman Sachs' Data Center CDS Basket just climbed above 500, after sitting below 300 as recently as July.\n\nCredit default swaps work like insurance against a borrower defaulting, so a higher reading means investors are paying more to protect themselves from losses.\n\nThe spike comes as markets worry that the Democratic midterm sweep could slow the AI data center buildout in the United States, with UBS estimating around 30% of expected 2028 capacity additions could be at risk.\n\nInvestors have been piling into this trade for months, with AI related CDS climbing to nearly $30 billion in net notional value from under $7 billion a year ago, according to Barclays.\n\nThe AI buildout is now being funded with HUGE amounts of debt, and the credit market is becoming one of the most important places to watch.\n\n$ORCL $CRWV $NVDA $META",
+      "quotedTweetText": "A $22B hedge fund is getting absolutely HAMMERED and what’s happening behind the scenes is even more concerning.\n\nAccording to The Wall Street Journal, Arini Capital Management has been forced to sell roughly $800 MILLION worth of debt holdings in recent weeks after suffering massive losses and facing margin calls from its banks. For some context, Arini’s flagship fund manages approximately $7 billion and was already down more than 20% this year as of mid-October, with losses reportedly getting even worse toward the end of the month.\n\nSo what went wrong?\n\nArini made some aggressive bets on distressed debt, essentially lending to or buying the debt of financially struggling companies at discounted prices, hoping to make substantial profits when those companies recovered or restructured. A lot of those bets were concentrated in telecommunications companies like Altice, Optimum, Virgin Media, and Brightspeed. The problem is that many of these companies are drowning in debt, facing enormous financing pressures, and, in some cases, potentially heading toward bankruptcy.\n\nAnd here’s where things get REALLY ugly.\nArini was using leverage, meaning it had borrowed money or taken on leveraged exposure to amplify its investment returns. As the value of its positions declined, banks started demanding additional collateral through margin calls.\nThat means Arini couldn’t necessarily afford to just sit around and wait for these investments to recover. It had to raise cash, including by selling investments that were easier to unload.\nThis can create a dangerous cycle. Investments lose value, banks demand more collateral, funds are forced to sell assets, and those sales can put even more downward pressure on prices. If enough highly leveraged funds are holding similar positions, the selling can spread throughout the credit market.\n\nAnd that’s what I find particularly concerning about this entire situation. We’re seeing growing signs of stress in lower quality corporate debt, especially among companies that borrowed heavily when financing was cheap and are now struggling with higher interest costs, weaker fundamentals, and refinancing risks. This doesn’t automatically mean we’re heading toward another 2008 financial crisis. But it’s a reminder that some of the biggest problems in financial markets don’t necessarily start with stocks. They can start in credit markets, where leverage, liquidity problems, and forced selling can quickly turn manageable losses into something much bigger."
+    },
+    {
+      "tweetId": "2118415403500138867",
+      "role": "commentary",
+      "authorHandle": "beaniemaxi",
+      "url": "https://x.com/beaniemaxi/status/2118415403500138867",
+      "tweetedAt": "2026-11-05T18:49:25.000Z",
+      "bestBit": "$CRWV CDS pricing in a 62% chance of default",
+      "text": "$CRWV CDS pricing in a 62% chance of default. To put this in perspective, it's higher rated risk than Lehman Brothers days before bankruptcy in 2008. And AIG hit a similar level and got a government bailout to prevent systemic collapse. Will government come in and save CoreWeave?"
+    },
+    {
+      "tweetId": "2118395484129960011",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2118395484129960011",
+      "tweetedAt": "2026-11-05T17:30:15.000Z",
+      "bestBit": "There are now two CoreWeave bonds trading at over 17%, with one at 16.81%",
+      "text": "There are now two CoreWeave bonds trading at over 17%, with one at 16.81%. https://t.co/Jnl0P60XEq",
+      "quotedTweetText": "Two of CoreWeave's bonds are currently trading above 16%, with one at 16.47% lol https://t.co/83M6qb0Yuk"
+    },
+    {
+      "tweetId": "2116241567455576455",
+      "role": "commentary",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2116241567455576455",
+      "tweetedAt": "2026-10-30T18:51:22.000Z",
+      "bestBit": "When we move into financing the expansion vs funding from CFO, you are prone to the reflexivity between credit and macro",
+      "text": "When we move into financing the expansion vs funding from CFO, you are prone to the reflexivity between credit and macro",
+      "quotedTweetText": "After this tweet, a GPU provider we already wired $3M to called and asked for $5M more upfront. Said it’s now riskier. He tried to renegotiate a signed contract.\n\nThen banks we were in talks with cut their lending offers in half, saying their IC got scared.\n\nOne reply moved capital markets against everyone building in this space except the people big enough to be immune to it.\nhttps://t.co/IK3NCDT3pN"
+    },
+    {
+      "tweetId": "2115505986504954244",
+      "role": "analysis",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2115505986504954244",
+      "tweetedAt": "2026-10-28T18:08:26.000Z",
+      "bestBit": "At least 18 data center deals now have to pay lenders more than 10% a year",
+      "text": "🦔Bloomberg talked to more than 30 bankers and money managers who finance AI data centers, and all of them said raising money has gotten much harder in just a few months. At least 18 data center deals now have to pay lenders more than 10% a year. The cost of insuring Oracle, SpaceX and Meta debt against default hit records last week.\n\nMy Take\nFor two years the hard limit on AI was physical, mostly power and grid connections. Now money is short too. Banks are close to the most they’ll lend to this sector, and some insurers that take on part of the risk say they’re already full. Some tenants can walk away if a data center opens 90 to 180 days late, and Oracle already filed a force majeure notice to put off payments on a delayed site in New Mexico. Lenders thought a big tech tenant guaranteed the payments, and in some deals a construction delay is enough to undo that.\n\nThe biggest tech companies will still get loans because lenders trust their balance sheets. The smaller GPU rental companies won’t. Expect more AI firms to sell stock for cash instead, which shrinks every existing shareholder’s slice. Chipmakers that promised to back their customers’ debt take on more of the risk, and Nvidia’s default insurance hit a record too. New deals at these higher rates also push down the price of older AI bonds, which bond funds and insurers hold for a lot of people’s retirement.\n\nHedgie🤗"
+    },
+    {
+      "tweetId": "2115550648821284917",
+      "role": "support",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2115550648821284917",
+      "tweetedAt": "2026-10-28T21:05:54.000Z",
+      "bestBit": "Treasury Secretary Scott Bessent said “we monitor” it, but that it didn’t need to cause concern",
+      "text": "When asked by CNBC's Brian Sullivan about bond yields on AI-related debt, Treasury Secretary Scott Bessent said “we monitor” it, but that it didn’t need to cause concern. \n\nFind more here: https://t.co/Wgc24hN4Eu https://t.co/6C3SJnaog5"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "coreweave-bonds-drop-to-73-cents-as-ai-credit-market-squeeze-deepens-c143b7cb",
+    "title": "CoreWeave Bonds Drop to 73 Cents as AI Credit Market Squeeze Deepens",
+    "publishedAt": "2026-11-05T18:23:50.118Z",
+    "eventTimeApprox": "2026-10-29T11:03:29.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-markets"
+    ],
+    "tweetCount": 65,
+    "authorCount": 34
+  }
+}

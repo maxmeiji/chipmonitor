@@ -1,0 +1,79 @@
+{
+  "slug": "together-and-stanford-cut-llm-costs-3x-with-hybrid-reasoning-agents-e7ee981e",
+  "title": "Together and Stanford Cut LLM Costs 3x With Hybrid Reasoning Agents",
+  "publishedAt": "2026-10-14T16:23:56.688Z",
+  "eventTimeApprox": "2026-10-14T16:00:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:TGAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "Together AI",
+      "hubKey": "together-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110370289334816861/HUkle4JaMAAT406-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110370289334816861/HUkle4JaMAAT406-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "arankomatsuzaki",
+      "tweetUrl": "https://x.com/arankomatsuzaki/status/2110370289334816861"
+    }
+  },
+  "summary": "A new agent architecture increases AI task performance by 10.4% by eliminating the need to generate a text token for every internal thought. Developed by Together and Stanford, the system known as Hybrid Reasoning Agents allows AI to process complex calculations and logic in latent space before outputting text for tool usage or human interaction, moving away from the conventional requirement for models to 'think out loud' token by token.\n\nThis method reduces token usage by roughly 40% and speeds up inference nearly 2x, which leads to approximately 3x cost savings. The researchers have released the associated code, papers, and models, stating that any existing large language model can be integrated into the framework. The team added that the internal latent thoughts remain readable to ensure the reasoning process is not an opaque black box.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110370289334816861",
+      "role": "source",
+      "authorHandle": "arankomatsuzaki",
+      "url": "https://x.com/arankomatsuzaki/status/2110370289334816861",
+      "tweetedAt": "2026-10-14T14:01:00.000Z",
+      "bestBit": "Improves performance by 10.4%, while delivering ~40% token reduction, ~2× faster inference, and ~3× cost saving",
+      "text": "Together + Stanford present Hybrid Reasoning Agents\n\nCombines efficient latent reasoning with text-based inspection and tool interaction\n\nImproves performance by 10.4%, while delivering ~40% token reduction, ~2× faster inference, and ~3× cost saving\n\nrepo: https://t.co/kAlejuObiu\nabs: https://t.co/s1IqWOHGzZ"
+    },
+    {
+      "tweetId": "2110400256647340476",
+      "role": "source",
+      "authorHandle": "jiaru_zou",
+      "url": "https://x.com/Jiaru_Zou/status/2110400256647340476",
+      "tweetedAt": "2026-10-14T16:00:05.000Z",
+      "bestBit": "Any LLM can become a HybridAgent",
+      "text": "Your LLM agent has to think out loud, token by token, before it can search, run code, or act in the world.\n\nWe humans don’t. We ponder in silence and speak when it matters.\n\nHuman language was never meant to be the limit of machine thought.\n\nIntroducing 🌗Hybrid Reasoning Agents\n- Think in latent space, act through text\n- Two modes, one unified multi-turn flow\n- No black box, fully readable latent thoughts\n- Any LLM can become a HybridAgent"
+    }
+  ],
+  "isSuperseded": false
+}

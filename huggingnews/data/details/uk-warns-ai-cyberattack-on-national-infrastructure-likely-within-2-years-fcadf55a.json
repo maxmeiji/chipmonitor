@@ -1,0 +1,50 @@
+{
+  "slug": "uk-warns-ai-cyberattack-on-national-infrastructure-likely-within-2-years-fcadf55a",
+  "title": "UK Warns AI Cyberattack on National Infrastructure Likely Within 2 Years",
+  "publishedAt": "2026-11-03T05:52:47.815Z",
+  "eventTimeApprox": "2026-11-03T02:23:04.500Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "geopolitics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "summary": "The National Cyber Security Centre told Britain on Tuesday that its core utility and government networks are facing a heightened threat of machine-learning-based intrusions. The agency cautioned that the country must prepare for a high-tech digital assault on its critical national infrastructure within the next 24 months.\n\nThe security agency stated that China is likely the most capable actor in the world to conduct such operations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117469330925400539",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2117469330925400539",
+      "tweetedAt": "2026-11-03T04:10:03.000Z",
+      "bestBit": "the UK's National Cyber Security Centre said, adding that China was likely the best equipped to conduct such operations",
+      "text": "Britain should be prepared for an AI-powered cyberattack on its critical national infrastructure in the next two years, the UK's National Cyber Security Centre said, adding that China was likely the best equipped to conduct such operations https://t.co/chzxx5XfYq"
+    }
+  ],
+  "isSuperseded": false
+}

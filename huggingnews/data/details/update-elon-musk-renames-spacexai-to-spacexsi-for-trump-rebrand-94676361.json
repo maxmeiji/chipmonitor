@@ -1,0 +1,145 @@
+{
+  "slug": "update-elon-musk-renames-spacexai-to-spacexsi-for-trump-rebrand-94676361",
+  "title": "UPDATE: Elon Musk Renames SpaceXAI to SpaceXSI for Trump Rebrand",
+  "publishedAt": "2026-10-04T12:40:25.966Z",
+  "eventTimeApprox": "2026-09-29T14:40:17.000Z",
+  "isFreshStory": false,
+  "tweetCount": 159,
+  "authorCount": 84,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "executive-orders",
+      "name": "Executive Orders"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105032272030334990/iinIzLFyZcPjdEPv-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105032272030334990/iinIzLFyZcPjdEPv-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2105030563203547136/vid/avc1/1920x1080/feOgRgZSjZFOJeT8.mp4?tag=29",
+    "credit": {
+      "handle": "stocksavvyshay",
+      "tweetUrl": "https://x.com/StockSavvyShay/status/2105032272030334990"
+    }
+  },
+  "summary": "SpaceX is adopting a new nomenclature for its advanced computing division to mirror recent changes in United States government policy. Elon Musk announced the renaming of SpaceXAI to \"SpaceXSI,\" stating that super intelligence is a superior term to artificial intelligence. This shift follows an executive order from President Trump that bans the terms \"AI\" and \"Artificial Intelligence\" in all official federal communications, directing agencies to use \"Super Intelligence\" or \"SI\" instead.\n\nThe directive sparked a registration surge for Slovenia's .si web domains, which reached 44,000 in September compared to approximately 2,000 in August, with one site, AI.si, listed for $700K. Reports indicate some insiders profited hundreds of millions of dollars from the shift. Meanwhile, California Governor Gavin Newsom rejected the federal rebrand by ordering state agencies to continue using \"artificial intelligence\" and signing the No Robo Bosses Act to bar employers from using solely AI systems to fire or discipline staff.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105062312424206553",
+      "role": "source",
+      "authorHandle": "mkratsios47",
+      "url": "https://x.com/mkratsios47/status/2105062312424206553",
+      "tweetedAt": "2026-09-29T22:29:00.000Z",
+      "bestBit": "SUPER INTELLIGENCE It’s official. The EO",
+      "text": "SUPER INTELLIGENCE\n\nIt’s official. \n\nThe EO: https://t.co/IR53QKXojh https://t.co/BAYyPK4GOz"
+    },
+    {
+      "tweetId": "2106717082373235072",
+      "role": "source",
+      "authorHandle": "kobeissiletter",
+      "url": "https://x.com/KobeissiLetter/status/2106717082373235072",
+      "tweetedAt": "2026-10-04T12:04:28.000Z",
+      "bestBit": "Elon Musk says SpaceXAI will be renamed to \"SpaceXSI\" after President Trump changed the name of \"Artificial Intelligence (AI)\" to \"Super Intelligence (SI).\"",
+      "text": "BREAKING: Elon Musk says SpaceXAI will be renamed to \"SpaceXSI\" after President Trump changed the name of \"Artificial Intelligence (AI)\" to \"Super Intelligence (SI).\"\n\n\"No more AI. SI. It’s better,\" Elon Musk says. https://t.co/yahKCp8C7k"
+    },
+    {
+      "tweetId": "2106037960403779588",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2106037960403779588",
+      "tweetedAt": "2026-10-02T15:05:52.000Z",
+      "bestBit": "Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August",
+      "text": "Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI \"super intelligence\" (@cressup / BBC)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2106683303571177933",
+      "role": "support",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2106683303571177933",
+      "tweetedAt": "2026-10-04T09:50:14.000Z",
+      "bestBit": "Someone is trying to sell the domain name AI .si for $700K",
+      "text": "@elonmusk Someone is trying to sell the domain name AI .si for $700K 😅 https://t.co/59nCSHwWK3"
+    },
+    {
+      "tweetId": "2105090417611898965",
+      "role": "commentary",
+      "authorHandle": "adamscochran",
+      "url": "https://x.com/adamscochran/status/2105090417611898965",
+      "tweetedAt": "2026-09-30T00:20:40.000Z",
+      "bestBit": "Trump’s inner circle massively profited on this policy change",
+      "text": "15/15\n\nTL;DR:\n\n-Trump made the SI executive order to try and force companies to brand as “SI” instead of “AI”\n\n-In the past 60 days insiders bought thousands of .si domain names\n\n-They’ve profited hundreds of millions of dollars so far. https://t.co/e1KUMsz6ew"
+    },
+    {
+      "tweetId": "2105032272030334990",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2105032272030334990",
+      "tweetedAt": "2026-09-29T20:29:37.000Z",
+      "bestBit": "Elon Musk nearly said AI before catching himself with “SI… super intelligence” right in front of President Trump.",
+      "text": "$SPCX CEO Elon Musk nearly said AI before catching himself with “SI… super intelligence” right in front of President Trump.\n\nTrump immediately hit him with a “thank you” and a slap on the arm after spending the week pushing the SI rebrand. \n https://t.co/nPdRKJ9dH2"
+    },
+    {
+      "tweetId": "2106091908195848550",
+      "role": "commentary",
+      "authorHandle": "stevenlevy",
+      "url": "https://x.com/StevenLevy/status/2106091908195848550",
+      "tweetedAt": "2026-10-02T18:40:14.000Z",
+      "bestBit": "when POTUS said he's ordering the US to BAN the term not one spoke out against this insane idea",
+      "text": "Our tech overloads have pinned their businesses and their identities around \"artificial intelligence.\" Yet when POTUS said he's ordering the US to BAN the term not one spoke out against this insane idea. https://t.co/K0jpSiYteH"
+    },
+    {
+      "tweetId": "2105503788995879098",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2105503788995879098",
+      "tweetedAt": "2026-10-01T03:43:16.000Z",
+      "bestBit": "California Gov. Gavin Newsom signed an executive order today (30 sep) declaring that Artificial Intelligence will be called \"Artificial Intelligence\" in California.",
+      "text": "California Gov. Gavin Newsom signed an executive order today (30 sep) declaring that Artificial Intelligence will be called \"Artificial Intelligence\" in California.\n\n> Employers can't use AI to read workers' emotions. AB 1883 bans AI surveillance tools that recognize or predict an employee's emotional state, or that collect neural data, such as readings from brain or nervous system sensors. \n\n> AI can't make firing decisions alone, and AI layoffs must be disclosed. Employers can't rely only on AI for discipline or termination. They must also tell workers if a mass layoff, relocation, or termination is caused by an AI system. \n\n> The wider package goes beyond the workplace. It protects doctors' own judgment when clinical AI tools are used, bans deleting AI watermarks, strengthens likeness protections against deepfakes, and requires gene synthesis companies to verify their customers and screen what they ship.",
+      "quotedTweetText": "I just signed an executive order permanently declaring Artificial Intelligence “Artificial Intelligence” in California.\n\nYou’re welcome, America. https://t.co/84LZb02jxz"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-newsom-bans-ai-emotion-tracking-and-sole-ai-firing-decisions-a070a18e",
+    "title": "UPDATE: Newsom Bans AI Emotion Tracking and Sole AI Firing Decisions",
+    "publishedAt": "2026-10-01T09:57:16.083Z",
+    "eventTimeApprox": "2026-09-29T14:40:17.000Z",
+    "routingTopicKeys": [
+      "us-politics",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 100,
+    "authorCount": 60
+  }
+}

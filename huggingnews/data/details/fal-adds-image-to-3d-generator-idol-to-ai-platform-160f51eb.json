@@ -1,0 +1,87 @@
+{
+  "slug": "fal-adds-image-to-3d-generator-idol-to-ai-platform-160f51eb",
+  "title": "fal Adds Image-to-3D Generator Idol to AI Platform",
+  "publishedAt": "2026-10-30T22:37:07.934Z",
+  "eventTimeApprox": "2026-10-30T02:35:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115973313138692456/HV1yevpXoAALKpt-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115973313138692456/HV1yevpXoAALKpt-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "halcyonrayes",
+      "tweetUrl": "https://x.com/halcyonrayes/status/2115973313138692456"
+    }
+  },
+  "summary": "The AI platform fal now supports the generation of 3D Gaussian splats using the Idol model, allowing users to convert a single image into a 3D object in about 10 seconds. The integration enables customizable output density from 32K to 1M Gaussians and provides exports in .ply and .glb formats for 3D rendering.\n\nDeveloped by Sperid Labs, Idol is an open-source 3D-DiT model with 600M parameters, accessible under the Apache 2.0 license. The tool is designed to operate on consumer GPUs requiring less than 7.2 GB of VRAM, and a demo version is currently available on Hugging Face.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115890658636656826",
+      "role": "source",
+      "authorHandle": "speridlabs",
+      "url": "https://x.com/speridlabs/status/2115890658636656826",
+      "tweetedAt": "2026-10-29T19:36:59.000Z",
+      "bestBit": "Pre-trained from scratch, contains only 600M parameters, it runs on consumer GPUs, using less than 7.2 GB of VRAM",
+      "text": "Meet Idol, an open image-to-3D model. A 3D-DiT that generates complete 3D objects from just an image.\n\nPre-trained from scratch, contains only 600M parameters, it runs on consumer GPUs, using less than 7.2 GB of VRAM and can generate 1M splats in 3 seconds. Try it today.\n\nFully open: weights, code and demo (Apache 2.0)\nhttps://t.co/Cf0slnSI5C"
+    },
+    {
+      "tweetId": "2116293689685287242",
+      "role": "source",
+      "authorHandle": "fal",
+      "url": "https://x.com/fal/status/2116293689685287242",
+      "tweetedAt": "2026-10-30T22:18:29.000Z",
+      "bestBit": "Choose the density, from 32K up to 1M Gaussians",
+      "text": "Idol by Sperid Labs is now available on fal\n\nTurns a single image into a 3D Gaussian splat in about 10 seconds\nChoose the density, from 32K up to 1M Gaussians\nExports a .ply splat plus a .glb preview, for photos and renders https://t.co/06Nms0vGeY"
+    },
+    {
+      "tweetId": "2115973313138692456",
+      "role": "support",
+      "authorHandle": "halcyonrayes",
+      "url": "https://x.com/halcyonrayes/status/2115973313138692456",
+      "tweetedAt": "2026-10-30T01:05:25.000Z",
+      "bestBit": "they also have a @huggingface space for you to go play with!",
+      "text": "huge new model drop with idol! \n\nthe results are amazing, and they also have a @huggingface space for you to go play with! \n\ni tried putting a microduck image in there, and it absolutely did not disappoint! huge kudos to the team! https://t.co/CtcJKknrBa",
+      "quotedTweetText": "Meet Idol, an open image-to-3D model. A 3D-DiT that generates complete 3D objects from just an image.\n\nPre-trained from scratch, contains only 600M parameters, it runs on consumer GPUs, using less than 7.2 GB of VRAM and can generate 1M splats in 3 seconds. Try it today.\n\nFully open: weights, code and demo (Apache 2.0)\nhttps://t.co/Cf0slnSI5C"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "speridlabs-releases-open-source-idol-model-for-image-to-3d-generation-fcc0149a",
+    "title": "Speridlabs Releases Open-Source Idol Model for Image-to-3D Generation",
+    "publishedAt": "2026-10-30T01:37:39.830Z",
+    "eventTimeApprox": "2026-10-29T21:19:26.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 9,
+    "authorCount": 9
+  }
+}

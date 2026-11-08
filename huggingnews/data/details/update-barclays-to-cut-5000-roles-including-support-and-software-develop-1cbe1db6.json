@@ -1,0 +1,123 @@
+{
+  "slug": "update-barclays-to-cut-5000-roles-including-support-and-software-develop-1cbe1db6",
+  "title": "UPDATE: Barclays to Cut 5,000 Roles Including Support and Software Developers",
+  "publishedAt": "2026-10-23T14:54:57.082Z",
+  "eventTimeApprox": "2026-10-22T14:00:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 39,
+  "authorCount": 28,
+  "routingTopicKeys": [
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BCS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Barclays PLC",
+      "hubKey": "bcs"
+    }
+  ],
+  "summary": "Support functions and software developers will account for about 60% of the job losses announced by Barclays on Thursday. The bank plans to eliminate around 5,000 roles, or roughly 5% of its 93,000 staff, by the end of 2026, citing productivity gains from artificial intelligence. About 1,000 of those positions were already removed in the first half of 2026, with the remainder to be cut by year end.\n\nThe reductions come as Barclays posted a 12% increase in third-quarter pre-tax profit to £2.3B and announced a £500M share buyback. Chief Executive C.S. Venkatakrishnan described AI as the \"icing rather than the cake,\" noting that savings depend on prior infrastructure. Similar AI-related cuts have been reported at American Express, Netflix, and eBay, while rivals HSBC and Standard Chartered are also weighing role reductions in corporate functions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113216811181170833",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2113216811181170833",
+      "tweetedAt": "2026-10-22T10:32:04.000Z",
+      "bestBit": "developers bearing the brunt of the cuts as the UK bank adopts AI across its operations",
+      "text": "Barclays plans to axe 5,000 jobs this year, with developers bearing the brunt of the cuts as the UK bank adopts AI across its operations. The cuts equate to about 5% of the workforce, the bank said on Thursday, and are part of a broader cost-cutting drive https://t.co/g5UvYmSanN https://t.co/LzzXY44yrE"
+    },
+    {
+      "tweetId": "2113177557965365254",
+      "role": "source",
+      "authorHandle": "disclosetv",
+      "url": "https://x.com/disclosetv/status/2113177557965365254",
+      "tweetedAt": "2026-10-22T07:56:05.000Z",
+      "bestBit": "cut  5,000 jobs, 5% of its workforce, to save costs and drive efficiency through investment in AI",
+      "text": "JUST IN - Barclays bank to cut  5,000 jobs, 5% of its workforce, to save costs and drive efficiency through investment in AI — Sky"
+    },
+    {
+      "tweetId": "2113614555276251298",
+      "role": "support",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2113614555276251298",
+      "tweetedAt": "2026-10-23T12:52:33.000Z",
+      "bestBit": "AMERICAN EXPRESS TO CUT 5% OF JOBS, ABOUT 3,500 EMPLOYEES",
+      "text": "The AI layoffs are here: \n\n*AMERICAN EXPRESS TO CUT 5% OF JOBS, ABOUT 3,500 EMPLOYEES\n\n*BARCLAYS TO CUT 5,000 JOBS AS AI STARTS CREATING EFFICIENCY\n\n*EBAY CONFIRMS JOB CUTS OF ABOUT 9%\n\n*NETFLIX TO LAY OFF 6% OF GLOBAL STAFF, OR ABOUT 1,000 JOBS: WSJ"
+    },
+    {
+      "tweetId": "2113198228812505131",
+      "role": "commentary",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2113198228812505131",
+      "tweetedAt": "2026-10-22T09:18:13.000Z",
+      "bestBit": "Barclays is spending more than £100M to cut jobs, mostly on the UK high street.",
+      "text": "5,000 jobs cut at Barclays. \nDue to AI? Doubtful. https://t.co/MAp53QeUvd",
+      "quotedTweetText": "Barclays is spending more than £100M to cut jobs, mostly on the UK high street. £125M of UK restructuring lands this quarter alone.\n\nThe July analyst call laid it out: £100M of 'structural cost actions' in H1, up to £500M more in H2, £600M for the year. The payback target is 100% within 12 months. That math only works with people.\n\nBarclays was on my Feb 6 watchlist. Q3 results are Thursday. Listen for the word 'simplify.’"
+    },
+    {
+      "tweetId": "2113240830416678936",
+      "role": "commentary",
+      "authorHandle": "layoffai",
+      "url": "https://x.com/LayoffAI/status/2113240830416678936",
+      "tweetedAt": "2026-10-22T12:07:30.000Z",
+      "bestBit": "Pre-tax profit rose 12% last quarter to £2.3 billion. It also announced a £500 million buyback.",
+      "text": "BARCLAYS SAYS AI MEANS IT NEEDS FEWER DEVELOPERS - CUTS 5,000 JOBS\n\nThe bank plans to cut about 5,000 jobs, roughly 5% of its 93,000 staff. Its CFO said about 60% of the cuts fall on support functions, \"including fewer developers as AI makes our people more productive.\"\n\nPre-tax profit rose 12% last quarter to £2.3 billion. It also announced a £500 million buyback.\n\nIts US units still got 640 H-1B filings from October 2025 to June 2026. Of those, 256 were for software developers.\n\nA bank that needs fewer developers should explain why it still files for them.",
+      "quotedTweetText": "BREAKING: Barclays cutting 5,000 jobs in AI-led efficiency drive \n\nhttps://t.co/iepqIFw2B9"
+    },
+    {
+      "tweetId": "2113258189009654265",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2113258189009654265",
+      "tweetedAt": "2026-10-22T13:16:29.000Z",
+      "bestBit": "About 1,000 of those roles went in the first half of 2026, and the rest go before year end.",
+      "text": "WSJ: Barclays will cut about 5,000 jobs this year, roughly 5% of staff, citing AI efficiency gains.\n\nAbout 1,000 of those roles went in the first half of 2026, and the rest go before year end.\n\nAround 60% of the cuts fall on support functions, “including fewer developers as AI makes our people more productive,” said Chief Executive C.S. Venkatakrishnan.\n\nAll these while 3rd-quarter pretax profit rose 12% to £2.3B. \nAmong rivals, HSBC is reportedly weighing up to 20,000 role cuts over the coming years, while Standard Chartered plans to shrink corporate function roles by more than 15% by 2030.\n\nVenkatakrishnan calls AI the icing rather than the cake, because its savings depend on infrastructure built beforehand."
+    },
+    {
+      "tweetId": "2113322284316561831",
+      "role": "commentary",
+      "authorHandle": "highyieldharry",
+      "url": "https://x.com/HighyieldHarry/status/2113322284316561831",
+      "tweetedAt": "2026-10-22T17:31:10.000Z",
+      "bestBit": "cost center back & middle office is more at risk from AI than front office revenue generation at the moment",
+      "text": "1) It's Barclays, this is like when Square said they AI-driven productivity layoffs\n\n2) Pretty obvious that cost center back &amp; middle office is more at risk from AI than front office revenue generation at the moment.",
+      "quotedTweetText": "Barclays plans to cut 5,000 jobs (5% of its workforce) in an effort drive AI-related efficiency.\n\n60% of the cuts are expected to be in support functions, including developers. https://t.co/feXO0pkOJL"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "barclays-cuts-5000-jobs-in-ai-efficiency-push-29bb7106",
+    "title": "Barclays Cuts 5,000 Jobs in AI Efficiency Push",
+    "publishedAt": "2026-10-22T08:08:38.233Z",
+    "eventTimeApprox": "2026-10-22T07:43:23.000Z",
+    "routingTopicKeys": [
+      "business",
+      "ai"
+    ],
+    "tweetCount": 28,
+    "authorCount": 21
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "slug": "meta-cash-flow-flips-negative-as-ai-leases-reach-825-billion-44aa04c7",
+  "title": "Meta Cash Flow Flips Negative as AI Leases Reach $825 Billion",
+  "publishedAt": "2026-10-22T16:25:05.651Z",
+  "eventTimeApprox": "2026-10-21T16:43:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 59,
+  "authorCount": 37,
+  "routingTopicKeys": [
+    "earnings",
+    "us-markets",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "ORCL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Oracle Corp",
+      "hubKey": "orcl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113290928580362451/HVPptLAWAAACyq_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113290928580362451/HVPptLAWAAACyq_-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "hedgiemarkets",
+      "tweetUrl": "https://x.com/HedgieMarkets/status/2113290928580362451"
+    }
+  },
+  "summary": "Meta's shares fell approximately 6% after the company reported free cash flow of negative $2.1 billion for the last quarter, a reversal from the positive $10.6 billion it saw a year earlier. The stock drop and a decline in corporate bonds followed the disclosure of roughly $825 billion in future leases and contracts for AI computing, up from $700 billion in July. These spending plans pushed the cost of insuring Meta's debt against default to a record, with 5-year credit default swaps reaching between 114.5 and 119 basis points.\n\nThe spike in Meta's credit risk reflects broader instability in AI-linked financing, with trading volumes for default insurance on major chipmakers and hyperscalers reaching $140 billion through September. AI-related debt issuance rose to an estimated $466 billion in 2026, compared to $101 billion in 2025. Other sector giants have faced similar pressure: Nvidia's 5-year credit default swaps hit a record 101 basis points, and Oracle's climbed to 343 basis points, implying a 24% probability of default.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113260717218693232",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2113260717218693232",
+      "tweetedAt": "2026-10-22T13:26:32.000Z",
+      "bestBit": "META PLATFORM'S 5-YEAR CREDIT DEFAULT SWAPS HITS ALL-TIME HIGH, LAST AT 114.5 BPS",
+      "text": "$META  - META PLATFORM'S 5-YEAR CREDIT DEFAULT SWAPS HITS ALL-TIME HIGH, LAST AT 114.5 BPS - MARKIT DATA"
+    },
+    {
+      "tweetId": "2113264116169056472",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2113264116169056472",
+      "tweetedAt": "2026-10-22T13:40:02.000Z",
+      "bestBit": "plans to ramp up capital spending reignited fears that tech giants will issue more debt for AI buildout in an already saturated market",
+      "text": "A gauge of Meta’s credit risk surged to a fresh record Thursday and its bonds sank, as plans to ramp up capital spending reignited fears that tech giants will issue more debt for AI buildout in an already saturated market https://t.co/QtN5qt2uDx"
+    },
+    {
+      "tweetId": "2113290928580362451",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2113290928580362451",
+      "tweetedAt": "2026-10-22T15:26:35.000Z",
+      "bestBit": "Meta’s free cash flow also turned negative last quarter, at minus $2.1 billion, compared with plus $10.6 billion a year earlier",
+      "text": "🦔The cost of insuring Meta’s debt against default hit a record today, and its bonds fell, after Meta said it has now agreed to about $825 billion in future leases and contracts, mostly for AI computing. That figure was close to $700 billion in July. Meta’s free cash flow also turned negative last quarter, at minus $2.1 billion, compared with plus $10.6 billion a year earlier. The stock dropped almost 6%.\n\nMy Take\nMeta’s default insurance costs about 119 basis points a year, well below Oracle near 290 or CoreWeave near 1,200 last week, so lenders still see Meta as a safe borrower. I’m a bit rattled by the speed though. Meta piled on roughly $125 billion of new commitments in three months, and its ad business, one of the best cash machines in corporate America, no longer covers the spending by itself. If Meta has to borrow to keep up, I can’t think of an AI spender that won’t.\n\nBond buyers are already looking at a wall of AI debt, with SpaceX shopping a $40 billion deal and Broadcom lining up $60 billion of chip financing for Anthropic. Every new deal has to pay a little more to get noticed. We'll probably see Meta sell a large bond before year end at a higher rate than it would have paid in the spring. It raised the low end of its spending forecast for this year and wouldn’t give one for next year, so free cash flow probably stays negative for a while.\n\nHedgie🤗"
+    },
+    {
+      "tweetId": "2113263249319960691",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2113263249319960691",
+      "tweetedAt": "2026-10-22T13:36:35.000Z",
+      "bestBit": "Meta is still AA-rated with ~$82B in cash and a massive ads business generating ~$250B annually",
+      "text": "Seeing a lot of fear around $META 5-year credit default swaps hitting an all-time high but I think people are reading way too much into this.\n\nMeta is still AA-rated with ~$82B in cash and a massive ads business generating ~$250B annually giving it a much stronger credit profile so the recent spike could have more to do with banks hedging exposure to Meta's massive AI debt financing than actual default risk.\n\nReally important not to confuse rising CDS spreads as some type of signal for a weakening business because thats not whats happening here."
+    },
+    {
+      "tweetId": "2112660630507561338",
+      "role": "commentary",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2112660630507561338",
+      "tweetedAt": "2026-10-20T21:42:00.000Z",
+      "bestBit": "AI-linked CDS trading went from under $2B a week in July to $9B+ in September",
+      "text": "Five days ago the credit market was pricing CoreWeave and Oracle.\n\nNow it's pricing Meta and Nvidia.\n\nMeta's 5-year CDS: 108 bps, a record. \n\nNvidia: 101, a record. \n\nAlphabet and Amazon at all-time highs.\n\nEven Microsoft is climbing.\n\nAI-linked CDS trading went from under $2B a week in July to $9B+ in September. AI debt raised this year is $466B, against $101B at this point last year.\n\nAnd Goldman's prime book shows hedge funds cutting tech at the fastest pace since 2016.\n\nWhen the \"safe\" names need default insurance, it isn't a neocloud problem anymore….. it’s straight up a funding problem.\n\nAnd funding problems always end up on the headcount line. \n\nListen for \"efficiency\" on the Q3 calls. H127 looks to be bad for the workforce.",
+      "quotedTweetText": "Credit just put a number on my March thesis.\n\nReuters also confirms today's figures: CoreWeave above 1,000 bps and Oracle at 288 bps, up from 260 a week earlier. \n\nBack in March, I argued that when infrastructure becomes the primary asset of the business, labor gets repriced... and now we're watching the other side of that equation.\n\nThe workforce gets restructured to fund the buildout. The buildout gets financed with debt. And the credit market starts asking whether the cash flow can support either."
+    },
+    {
+      "tweetId": "2112536616732352668",
+      "role": "commentary",
+      "authorHandle": "kieranwgoodwin",
+      "url": "https://x.com/kieranwgoodwin/status/2112536616732352668",
+      "tweetedAt": "2026-10-20T13:29:13.000Z",
+      "bestBit": "$ORCL CDS trading at 350 bps today",
+      "text": "$ORCL CDS trading at 350 bps today \n\nCredit widens gradually then suddenly",
+      "quotedTweetText": "$ORCL CDS closed at 325 bps which is 75 wider on the month. \n\nThe moves wider are accelerating in CDS and bond spreads. \n\nIMO, $ORCL best move to stop the widening which is weighing on the stock is to issue more equity as painful as that might be."
+    },
+    {
+      "tweetId": "2113137869095137442",
+      "role": "analysis",
+      "authorHandle": "philippilk",
+      "url": "https://x.com/philippilk/status/2113137869095137442",
+      "tweetedAt": "2026-10-22T05:18:22.000Z",
+      "bestBit": "Insuring hyperscalers is now very expensive. At the same time, multiples are contracting",
+      "text": "You can see the pressure building in the CDS market. Insuring hyperscalers is now very expensive. At the same time, multiples are contracting. The sector is finally coming under pressure. https://t.co/pXoTRecRlL",
+      "quotedTweetText": "Markets are becoming frightened by AI Capex. The whole dog and pony show in the stock market runs on Capex, too little and it collapses. But now cash flow is turning negative and investors are also scared of too much. I doubt there is a “just right” balance here. 📉 https://t.co/ftxMS1FYKR"
+    },
+    {
+      "tweetId": "2112821581911126443",
+      "role": "commentary",
+      "authorHandle": "burggrabenh",
+      "url": "https://x.com/BurggrabenH/status/2112821581911126443",
+      "tweetedAt": "2026-10-21T08:21:34.000Z",
+      "bestBit": "its 5-year CDS now implies a 24% cum default probability",
+      "text": "The cost of insuring Oracle’s debt against default over five years is exploding. Assuming 40% recovery, its 5-year CDS now implies a 24% cum default probability. \n\nIt’s a similar shitshow across Oracle’s maturities, let alone weaker data centre and neocloud borrowers.\n\nThis feels eerily similar to Q3 1999. I would not be surprised if we’re witnessing peak AI growth right here, right now and it’s all downhill from here.",
+      "quotedTweetText": "Betting the farm with money you don’t have, via a static wager in a brutally dynamic market, is a rookie mistake. Full stop.\n\nSo how does this happen to Larry Ellison, a living tech legend and richest man in the world who spent decades ruthlessly defending his moat, obsessing over margins, and refusing to chase unprofitable growth?\n\nOne word comes to mind: Torschlusspanik. Call it AI FOMO. Call it Old Man Big Dick FOMO. Call it running-out-of-time anxiety. Call it the urge of an 81-year-old ego that wants to prove one last time that he still has it. I don’t know and, frankly, I couldn’t care less.\n\nWhat matters is this: the Stargate bet reeks of urgency, not inevitability. It’s a gigantic, leveraged-long duration bet in a market defined by uncertainty, optionality, and rapid regime shifts. It’s just ridiculous\n\nIt’s not how Larry built his massive and enduring database moat but it’s certainly the fastest way how balance sheets get stressed.\n\nIf this goes pear-shaped, and I think it will, it won’t change Larry’s database legacy. But it may well become the most expensive case study of “Torschlusspanik” in modern tech history and it will certainly pupp the AI bubble - 2000-style."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-meta-credit-risk-hits-all-time-high-on-ai-debt-concerns-1b423557",
+    "title": "UPDATE: Meta Credit Risk Hits All Time High on AI Debt Concerns",
+    "publishedAt": "2026-10-22T13:55:15.705Z",
+    "eventTimeApprox": "2026-10-21T13:21:47.000Z",
+    "routingTopicKeys": [
+      "us-markets",
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 38,
+    "authorCount": 24
+  }
+}

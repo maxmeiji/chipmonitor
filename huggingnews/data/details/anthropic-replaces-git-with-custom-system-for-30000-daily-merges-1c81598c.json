@@ -1,0 +1,73 @@
+{
+  "slug": "anthropic-replaces-git-with-custom-system-for-30000-daily-merges-1c81598c",
+  "title": "Anthropic Replaces Git With Custom System for 30,000 Daily Merges",
+  "publishedAt": "2026-10-13T16:54:02.827Z",
+  "eventTimeApprox": "2026-10-13T16:38:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 37,
+  "authorCount": 28,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110045012667072568/HUhiwP6aUAAHo1a-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110045012667072568/HUhiwP6aUAAHo1a-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2110045012667072568"
+    }
+  },
+  "summary": "The machine learning startup shifted its engineering workflow to a proprietary architecture to accommodate a volume of code revisions that had outgrown industry standards. Anthropic migrated its entire monorepo away from Git over a 5 month period after daily code merges rose from approximately 2,500 in May to more than 30,000 in September. The company stated that developer infrastructure designed for human programmers became a bottleneck as Claude AI agents began autonomously iterating on research loops and building new services.\n\nA team of 7 engineers developed the new version control system and a code review tool called Scion, which requires 200x less CPU and memory than the previous mirroring infrastructure. These changes also reduced CPU capacity use in continuous integration by 25%. Engineers who built the system now rate Claude as a more capable coder than themselves, noting that a preview of Claude Mythos once rewrote a pipeline to run 4x faster with 20x less memory without receiving further instructions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110047081414987957",
+      "role": "source",
+      "authorHandle": "anthropicai",
+      "url": "https://x.com/AnthropicAI/status/2110047081414987957",
+      "tweetedAt": "2026-10-13T16:36:41.000Z",
+      "bestBit": "In May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day",
+      "text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.  \n\nHere, we share how we built a new version control system—and fully migrated our monorepo from git—in five months: https://t.co/wzNkwHs7IN"
+    },
+    {
+      "tweetId": "2110047576204640523",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2110047576204640523",
+      "tweetedAt": "2026-10-13T16:38:39.000Z",
+      "bestBit": "Scion uses 200x less CPU and memory than Anthropic's previous Git mirroring infrastructure",
+      "text": "Insane. Anthropic has replaced Git with its own version control system after Claude-driven coding pushed daily code merges from 2,500 to over 30,000 in just four months.\n\nA team of seven built Scion, a new code review tool and several related systems in five months. Scion uses 200x less CPU and memory than Anthropic's previous Git mirroring infrastructure, while CI saves 25% of CPU capacity.\n\nAn early Claude Mythos Preview rewrote a hand-built pipeline to use 20x less memory and run 4x faster, with no further instructions.\n\nAll the engineers who built the system now rate Claude as better at writing code than themselves.",
+      "quotedTweetText": "Anthropic's code changes merged per day has 10x since May. \n\n'Claude is able to autonomously iterate on research loops, micro-optimize complex programs, and build new services from the ground up at a speed and scale we haven’t seen before.' https://t.co/KsUDDAfkMM"
+    }
+  ],
+  "isSuperseded": false
+}

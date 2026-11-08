@@ -1,0 +1,66 @@
+{
+  "slug": "ami-launches-first-hierarchical-world-model-for-long-horizon-visual-plan-8645b2a0",
+  "title": "AMI Launches First Hierarchical World Model for Long Horizon Visual Planning",
+  "publishedAt": "2026-10-06T16:08:40.109Z",
+  "eventTimeApprox": "2026-10-06T14:34:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107470948265779593/HT8oTrfbsAAx6O7-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107470948265779593/HT8oTrfbsAAx6O7-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "arankomatsuzaki",
+      "tweetUrl": "https://x.com/arankomatsuzaki/status/2107470948265779593"
+    }
+  },
+  "summary": "The H-JEPA model improved success on the Visual AntMaze benchmark from 18% to 73% while decreasing the amount of planning compute required. The system learns world models at various levels of abstraction and performs planning by moving from coarse goals down to finer actions to handle long horizon visual tasks.\n\nAMI presented H-JEPA as the first end-to-end learned hierarchical world model for this application. The architecture is built atop SIGReg/LeWM and employs a stable training recipe that allows semantic abstractions to emerge naturally across its levels.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107470948265779593",
+      "role": "source",
+      "authorHandle": "arankomatsuzaki",
+      "url": "https://x.com/arankomatsuzaki/status/2107470948265779593",
+      "tweetedAt": "2026-10-06T14:00:03.000Z",
+      "bestBit": "Raises success from 18% to 73% on Visual AntMaze, while using less planning compute",
+      "text": "AMI presents H-JEPA\n\nLearns world models at different levels of abstraction and plans from coarse goals down to finer actions\n\nRaises success from 18% to 73% on Visual AntMaze, while using less planning compute.\n\nproj: https://t.co/PaYW26L8sB\nabs: https://t.co/ZgVjOBIWIJ https://t.co/9Qre2rWAIL"
+    },
+    {
+      "tweetId": "2107479655150436504",
+      "role": "source",
+      "authorHandle": "randall_balestr",
+      "url": "https://x.com/randall_balestr/status/2107479655150436504",
+      "tweetedAt": "2026-10-06T14:34:39.000Z",
+      "bestBit": "the first end-to-end learned hierarchical world model for long-horizon visual planning",
+      "text": "Introducing H-JEPA: the first end-to-end learned hierarchical world model for long-horizon visual planning!\nBuilt atop SIGReg/LeWM, H-JEPA provides a stable training recipe where semantic abstractions naturally emerge across levels... \nPaper+Code: https://t.co/Ozsn6x6W3i 🧵👇 https://t.co/oLXdoSP22N"
+    }
+  ],
+  "isSuperseded": false
+}

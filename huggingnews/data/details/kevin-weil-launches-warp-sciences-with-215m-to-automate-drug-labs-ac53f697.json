@@ -1,0 +1,63 @@
+{
+  "slug": "kevin-weil-launches-warp-sciences-with-215m-to-automate-drug-labs-ac53f697",
+  "title": "Kevin Weil Launches Warp Sciences With $215M to Automate Drug Labs",
+  "publishedAt": "2026-10-22T15:54:18.905Z",
+  "eventTimeApprox": "2026-10-22T15:35:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 31,
+  "authorCount": 26,
+  "routingTopicKeys": [
+    "startups",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "pharma",
+      "name": "Pharma"
+    }
+  ],
+  "summary": "A newly formed venture is seeking to bring pharmaceutical research back to the US by replacing manual processing with robotic systems. Warp Sciences has raised a $215M Series A led by Lightspeed Venture Partners to build fully robotic laboratories that accelerate the discovery of medicines and reduce the reliance of drug companies on overseas providers in China.\n\nKevin Weil, the former head of AI-for-science at OpenAI, co-founded the startup with DJ Patil, FAIR co-founder Manohar Paluri, and Sol Reisberg. The venture aims to transition frontier AI from software interfaces into physical laboratories and has recruited specialized personnel, including B.K. Spears, who contributed to achieving Q>1 fusion at Lawrence Livermore National Laboratory.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113292814008172713",
+      "role": "source",
+      "authorHandle": "rebeccatorrenc5",
+      "url": "https://x.com/RebeccaTorrenc5/status/2113292814008172713",
+      "tweetedAt": "2026-10-22T15:34:04.000Z",
+      "bestBit": "build a fully robotic laboratory to automate a key step in drug development that pharma companies have long outsourced to China",
+      "text": "Exclusive: OpenAI's former AI-for-science head is launching a new startup with $215 million in funding.\n\nKevin Weil's Warp Sciences wants to build a fully robotic laboratory to automate a key step in drug development that pharma companies have long outsourced to China.👇"
+    },
+    {
+      "tweetId": "2113294657673466060",
+      "role": "source",
+      "authorHandle": "kevinweil",
+      "url": "https://x.com/kevinweil/status/2113294657673466060",
+      "tweetedAt": "2026-10-22T15:41:24.000Z",
+      "bestBit": "raised a $215M Series A led by @lightspeedvp to bring frontier AI out of the browser and into the lab",
+      "text": "💥 Introducing Warp Sciences, a new company applying AI and robotics to help the world develop new medicines faster. \n\nWe’ve raised a $215M Series A led by @lightspeedvp to bring frontier AI out of the browser and into the lab, and build scientific capacity here in America.\n\nI co-founded Warp with my long-time friend @dpatil, FAIR co-founder @manohar_paluri, and drug hunter Sol Reisberg. The early team is full of incredible people like @bkspears9, who helped achieve Q>1 fusion at LLNL."
+    }
+  ],
+  "isSuperseded": false
+}

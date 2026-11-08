@@ -1,0 +1,78 @@
+{
+  "slug": "supermimic-cuts-humanoid-control-training-to-1-gpu-and-3-hours-04fdc3d7",
+  "title": "SuperMimic Cuts Humanoid Control Training to 1 GPU and 3 Hours",
+  "publishedAt": "2026-10-21T19:15:24.764Z",
+  "eventTimeApprox": "2026-10-21T17:25:44.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112936035911135695/0Sv_SjatUic8DyXD-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112936035911135695/0Sv_SjatUic8DyXD-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2112928512357412864/vid/avc1/1080x1080/tR7usDgbnTV9JZ4q.mp4?tag=29",
+    "credit": {
+      "handle": "qiayuanliao",
+      "tweetUrl": "https://x.com/qiayuanliao/status/2112936035911135695"
+    }
+  },
+  "summary": "A new algorithm enables the training of humanoid robots across 129,514 motions using a fraction of the compute required by current industry standards. The SuperMimic system trains a generalist whole-body tracker in 3 hours with 1 GPU, surpassing a state-of-the-art benchmark that required 128 GPUs running for 7 days. This represents a reduction in total GPU-hours of more than 1000x for the development of full-body robot control.\n\nThe system utilizes a 'world model + APG' paradigm, which Pieter Abbeel called a game changer for the field. This approach increases efficiency because the world model runs faster than traditional simulations and backpropagation through time captures more signal than policy gradients. The result allows for the creation of a single policy across all movements in a dataset using significantly less hardware and time.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112936035911135695",
+      "role": "source",
+      "authorHandle": "qiayuanliao",
+      "url": "https://x.com/qiayuanliao/status/2112936035911135695",
+      "tweetedAt": "2026-10-21T15:56:22.000Z",
+      "bestBit": "We found a way to scale humanoid control that reduces GPU-hours by more than 1000×",
+      "text": "We found a way to scale humanoid control that reduces GPU-hours by more than 1000×.\n\nAcross 129,514 motions, SuperMimic surpasses the state of the art (128 GPUs, 7 days) with 1 GPU in 3 hours.\n\nProject: https://t.co/6gc9WKm9qY\nDemo: https://t.co/OHRvx5ogQY"
+    },
+    {
+      "tweetId": "2112950889808097708",
+      "role": "analysis",
+      "authorHandle": "pabbeel",
+      "url": "https://x.com/pabbeel/status/2112950889808097708",
+      "tweetedAt": "2026-10-21T16:55:23.000Z",
+      "bestBit": "Now it's superfast (and cheap, just one GPU) to train a single policy on *all* the motions",
+      "text": "Game changer for humanoid full-body control training.  Now it's superfast (and cheap, just one GPU) to train a single policy on *all* the motions.  How come:\n(1) World model much faster than regular sim\n(2) Backprop through time collects way more signal than policy gradients",
+      "quotedTweetText": "We found a way to scale humanoid control that reduces GPU-hours by more than 1000×.\n\nAcross 129,514 motions, SuperMimic surpasses the state of the art (128 GPUs, 7 days) with 1 GPU in 3 hours.\n\nProject: https://t.co/6gc9WKm9qY\nDemo: https://t.co/OHRvx5ogQY"
+    },
+    {
+      "tweetId": "2112958525617905680",
+      "role": "commentary",
+      "authorHandle": "chongzzzhang",
+      "url": "https://x.com/ChongZzZhang/status/2112958525617905680",
+      "tweetedAt": "2026-10-21T17:25:44.000Z",
+      "bestBit": "It is a new paradigm -- world model + APG. This enables 1000x faster training of generalist whole-body tracker.",
+      "text": "It is a new paradigm -- world model + APG. This enables 1000x faster training of generalist whole-body tracker. And opus 5.5 high can reproduce it within 1h for lafan.\n\nRecently I wonder if we are turning dumb and falling into scaling slop. We need more @qiayuanliao . https://t.co/PibOlJLPVa",
+      "quotedTweetText": "We found a way to scale humanoid control that reduces GPU-hours by more than 1000×.\n\nAcross 129,514 motions, SuperMimic surpasses the state of the art (128 GPUs, 7 days) with 1 GPU in 3 hours.\n\nProject: https://t.co/6gc9WKm9qY\nDemo: https://t.co/OHRvx5ogQY"
+    }
+  ],
+  "isSuperseded": false
+}

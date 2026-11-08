@@ -1,0 +1,102 @@
+{
+  "slug": "nscale-banks-on-us-data-center-project-to-justify-35b-ipo-target-03696b83",
+  "title": "Nscale Banks on US Data Center Project to Justify $35B IPO Target",
+  "publishedAt": "2026-10-30T09:54:01.711Z",
+  "eventTimeApprox": "2026-10-29T09:23:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The London-based AI infrastructure provider is seeking to raise the market price for its upcoming public debut as it expands its operations into the United States. Nscale is now targeting a $35 billion valuation for its planned initial public offering on a US exchange, an increase from earlier goals of $30 billion, relying on the growth of a vast Texas data center project to justify the pricing despite financing risks and local opposition.\n\nThe company's founder and CEO, Josh Payne, transitioned the firm from a small cryptocurrency mining operation into a 'neocloud' business that borrows heavily to purchase chips and build facilities. This growth is heavily supported by Nvidia, which has provided more than $1.17 billion in equity funding and lease guarantees to help the company manage about $24 billion in outstanding equipment commitments for 2026 and 2027.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116100326172295325",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2116100326172295325",
+      "tweetedAt": "2026-10-30T09:30:07.000Z",
+      "bestBit": "despite mounting construction setbacks, local opposition and financing risks",
+      "text": "Nscale, one of the UK’s most valuable AI start-ups, is banking on a vast US data centre project to underpin its planned $35bn IPO, despite mounting construction setbacks, local opposition and financing risks. https://t.co/ICXQaRtZMW https://t.co/lt501rPwF1"
+    },
+    {
+      "tweetId": "2115653784701387016",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2115653784701387016",
+      "tweetedAt": "2026-10-29T03:55:43.000Z",
+      "bestBit": "the 32-year-old Australian turned a small Bitcoin miner into an infrastructure provider at the center of the AI boom in less than three years.",
+      "text": "As founder and CEO of Nscale, the 32-year-old Australian turned a small Bitcoin miner into an infrastructure provider at the center of the AI boom in less than three years.\n\nNow Payne must convince public market investors that his London-based neocloud – a business that borrows heavily to build data centers, purchase chips and rent out computing power – is worth betting on at a tumultuous moment. https://t.co/p8f9oK0oLY\n\n📷️: Charlotte Hadden/NYTNS/Redux"
+    },
+    {
+      "tweetId": "2115699966186500477",
+      "role": "commentary",
+      "authorHandle": "oliviasolon",
+      "url": "https://x.com/oliviasolon/status/2115699966186500477",
+      "tweetedAt": "2026-10-29T06:59:14.000Z",
+      "bestBit": "Is he the smartest guy in the room? No. Is he one of the most cunning and savvy? Absolutely.",
+      "text": "“Is he the smartest guy in the room? No. Is he one of the most cunning and savvy? Absolutely.” - Steve Bellotti, an early Nscale investor, said of the neocloud's CEO Josh Payne",
+      "quotedTweetText": "Nscale's unproven CEO is braving the AI turmoil with his bid for a $30 billion IPO. Now he must convince investors to bet on his neocloud. https://t.co/st1FiWhIp9"
+    },
+    {
+      "tweetId": "2115953023667077240",
+      "role": "analysis",
+      "authorHandle": "kakashiii111",
+      "url": "https://x.com/kakashiii111/status/2115953023667077240",
+      "tweetedAt": "2026-10-29T23:44:48.000Z",
+      "bestBit": "Nvidia has invested over $1.17B in the Series B and C funding rounds, owning approx. 18% of Nscale as an investor",
+      "text": "Nvidia needs Nscale to IPO.",
+      "quotedTweetText": "Nscale, which filed its S-1 and is looking to start its roadshow soon, is a former lessor of data center infrastructure to crypto mining companies that de facto made the shift to AI by 2025. Nscale, leasing and operating dozens of MWs only, with dozens of millions in revenue, has big dreams. Luckily for Nscale, it was adopted by a very rich Uncle, whose name is Jensen.\n\nJensen adopted the very micro neocloud, which had basically only one customer in 2024, as NVIDIA’s very own SPV.\n\nNVIDIA has invested over $1.17B in the Series B and C funding rounds, owning approx. 18% of Nscale as an investor (but with 0% of the voting power so it won’t appear in holders table)\n\nBesides that, NVIDIA has committed another $1B out of $3.1B in convertible loan notes, which will convert into shares in the upcoming IPO.\n\nNVIDIA has provided a backstop PO worth $1.2B over a term of 12-48 months, and a lease guarantee of up to $860M for Nscale’s facility in Ward County, Texas.\n\nNVIDIA has been matchmaking Microsoft, Figure AI and possibility of Anthropic in order to inflate Nscale’s RPO, which less than 2 years ago was not even $1B, and to boost IPO pricing.\n\nNVIDIA has a very big reason for all of that. Nscale has $24B worth of outstanding equipment commitments (NVIDIA systems) for 2026 and 2027.\n\nTo pay for that, so NVIDIA will get these $24B worth of POs, they need this IPO.\n\nAnd that’s just the tip of the iceberg of what is called Nscale.\n\nAn article, as part of “The Neoclouds Series”, is coming soon."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nscale-ceo-josh-payne-advances-30b-us-ipo-target-despite-investor-pushba-212ccc5e",
+    "title": "Nscale CEO Josh Payne Advances $30B US IPO Target Despite Investor Pushback",
+    "publishedAt": "2026-10-30T00:08:22.959Z",
+    "eventTimeApprox": "2026-10-29T09:08:34.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "startups",
+      "tech"
+    ],
+    "tweetCount": 7,
+    "authorCount": 5
+  }
+}

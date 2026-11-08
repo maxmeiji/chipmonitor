@@ -1,0 +1,75 @@
+{
+  "slug": "vercels-annualized-revenue-hits-600-million-driven-by-ai-agents-ed5f93c7",
+  "title": "Vercel’s Annualized Revenue Hits $600 Million Driven by AI Agents",
+  "publishedAt": "2026-10-03T20:24:30.705Z",
+  "eventTimeApprox": "2026-10-03T18:30:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:VRCL",
+      "kind": "private",
+      "role": "subject",
+      "name": "Vercel",
+      "hubKey": "vercel"
+    },
+    {
+      "ticker": "PVT:SUPA",
+      "kind": "private",
+      "role": "related",
+      "name": "Supabase",
+      "hubKey": "supabase"
+    }
+  ],
+  "summary": "Approximately 50% of new business for Vercel now stems from autonomous coding tools, a surge from the less than 3% recorded in January. The company’s annualized revenue has reached $600 million, representing 148% growth over the previous year, as the integration of AI agents became a primary driver for customer acquisition.\n\nVercel and database provider Supabase have emerged as the preferred infrastructure choices for developers building AI agents. This transition toward the agentic AI ecosystem has allowed Vercel to expand its market share among automated software engineering tools.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106451724663714294",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2106451724663714294",
+      "tweetedAt": "2026-10-03T18:30:01.000Z",
+      "bestBit": "Agents now account for about half of new business, up from less than 3% at the start of the year",
+      "text": "Vercel is generating $600 million in annualized revenue, up 148% from a year earlier, as coding agents become a major source of new business. \n\nAgents now account for about half of new business, up from less than 3% at the start of the year. \n\nRead more details: https://t.co/Orp3l5Z68H"
+    },
+    {
+      "tweetId": "2106477073657376831",
+      "role": "commentary",
+      "authorHandle": "jasonlk",
+      "url": "https://x.com/jasonlk/status/2106477073657376831",
+      "tweetedAt": "2026-10-03T20:10:45.000Z",
+      "bestBit": "Vercal + Supabase have both become the default choices for agents",
+      "text": "Many solutions out there ofc but Vercal + Supabase have both become the default choices for agents\n\nThe power of being the #1 choice for agents is really, really something\n\nMake sure you are in your category, too.  And if you don’t now … man … you are behind",
+      "quotedTweetText": "Vercel is generating $600 million in annualized revenue, up 148% from a year earlier, as coding agents become a major source of new business. \n\nAgents now account for about half of new business, up from less than 3% at the start of the year. \n\nRead more details: https://t.co/Orp3l5Z68H"
+    }
+  ],
+  "isSuperseded": false
+}

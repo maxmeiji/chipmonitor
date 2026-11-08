@@ -1,0 +1,18 @@
+node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+dist/
+.next/
+.vinext/
+.wrangler/
+.sites-runtime/
+*.tsbuildinfo
+.DS_Store
+
+# Runtime secrets and local developer state
+.dev.vars*
+*.log
+.npmrc.local

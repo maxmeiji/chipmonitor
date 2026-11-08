@@ -1,0 +1,119 @@
+{
+  "slug": "tenstorrent-raises-15b-to-deploy-galaxy-ai-chips-globally-569e745c",
+  "title": "Tenstorrent Raises $1.5B to Deploy Galaxy AI Chips Globally",
+  "publishedAt": "2026-10-21T07:09:02.100Z",
+  "eventTimeApprox": "2026-10-19T14:15:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Morgan Stanley",
+      "hubKey": "ms"
+    },
+    {
+      "ticker": "SNDK",
+      "kind": "equity",
+      "role": "related",
+      "name": "Sandisk Corporation Common Stock",
+      "hubKey": "sndk"
+    },
+    {
+      "ticker": "VIRT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Virtu Financial, Inc. Class A",
+      "hubKey": "virt"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112188372588617909/HVAAIJLacAAsMTM-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112188372588617909/HVAAIJLacAAsMTM-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "thelatentco",
+      "tweetUrl": "https://x.com/TheLatentCo/status/2112188372588617909"
+    }
+  },
+  "summary": "Tether Investments and several other institutional firms have backed Tenstorrent in a capital raise to support the manufacturing of AI hardware. Trace Capital and Innovation X led the Series E round, which raised $1.5 billion and values the AI chip startup at $6.2 billion post-money. Tenstorrent will use the funds for the global rollout of its Galaxy compute systems and to scale volume manufacturing, with further participation from Morgan Stanley, ARK Invest, Fidelity Management & Research Company, SanDisk, and Virtu Financial.\n\nThe current valuation more than doubles the company's previous $2.6 billion valuation established after it raised $700 million in December 2024. This expansion comes after Tenstorrent attracted interest from potential acquirers earlier this year as it seeks to grow its footprint in the AI compute market.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112153470258303029",
+      "role": "source",
+      "authorHandle": "tenstorrent",
+      "url": "https://x.com/tenstorrent/status/2112153470258303029",
+      "tweetedAt": "2026-10-19T12:06:43.000Z",
+      "bestBit": "lead investors Trace Capital and Innovation X for backing that growth",
+      "text": "We raised $1.5B to deploy Galaxy globally.\n\nThanks to our lead investors Trace Capital and Innovation X for backing that growth.\n\nMore to come: https://t.co/G4J4wHoJkP"
+    },
+    {
+      "tweetId": "2112187045225361571",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2112187045225361571",
+      "tweetedAt": "2026-10-19T14:20:08.000Z",
+      "bestBit": "after attracting takeover interest earlier this year, has raised $1.5 billion",
+      "text": "AI chip startup Tenstorrent, after attracting takeover interest earlier this year, has raised $1.5 billion from investors in a funding round that boosts its valuation to $6.2 billion, according to a statement provided to Bloomberg News. https://t.co/9ZaCtmFOit"
+    },
+    {
+      "tweetId": "2112190445912805479",
+      "role": "support",
+      "authorHandle": "theblockco",
+      "url": "https://x.com/TheBlockCo/status/2112190445912805479",
+      "tweetedAt": "2026-10-19T14:33:39.000Z",
+      "bestBit": "Tether Investments has participated in AI chip startup Tenstorrent's $1.5 billion Series E",
+      "text": "Tether Investments has participated in AI chip startup Tenstorrent's $1.5 billion Series E, which valued the company at $6.2 billion post-money.",
+      "quotedTweetText": "THE LATENT: AI chip startup Tenstorrent has raised $1.5 billion in Series E funding at a $6.2 billion post-money valuation, more than doubling its valuation from its previous round in December 2024.\n\nTrace Capital and Innovation X led the round, with participation from investors including ARK Invest, Fidelity Management & Research Company, Morgan Stanley, SanDisk, Tether Investments, and Virtu Financial. Tenstorrent said the funding will support volume manufacturing and global expansion."
+    },
+    {
+      "tweetId": "2112148258885935555",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112148258885935555",
+      "tweetedAt": "2026-10-19T11:46:01.000Z",
+      "bestBit": "valuation, up from $2.6B after raising $700M in 2024",
+      "text": "AI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024 (Bloomberg)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "tenstorrent-raises-15b-at-62b-valuation-226b879a",
+    "title": "Tenstorrent Raises $1.5B at $6.2B Valuation",
+    "publishedAt": "2026-10-19T13:08:15.401Z",
+    "eventTimeApprox": "2026-10-19T12:16:02.000Z",
+    "routingTopicKeys": [
+      "startups",
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 11,
+    "authorCount": 11
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "booms-water-free-turbines-target-ai-energy-bottlenecks-0e3a3364",
+  "title": "Boom’s Water-Free Turbines Target AI Energy Bottlenecks",
+  "publishedAt": "2026-10-23T01:24:21.975Z",
+  "eventTimeApprox": "2026-10-22T21:34:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113374110889963748/HVQ2jWXaAAASoPb-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113374110889963748/HVQ2jWXaAAASoPb-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "bscholl",
+      "tweetUrl": "https://x.com/bscholl/status/2113374110889963748"
+    }
+  },
+  "summary": "The ability to manufacture specialized engine components and secure power independently is critical to the pursuit of artificial intelligence superintelligence, CEO Blake Scholl of Boom Supersonic said. Scholl stated that data centers often face years-long wait times or extreme secondary-market prices for turbines because they cannot draw enough power from the electrical grid. To address this, Boom is developing turbines that require no water for cooling—unlike standard turbine cooling which drives most data center water usage—and is building an all-digital foundry to reduce the time from blade design to single crystal casting to 24 hours.\n\nThese strategic goals follow the Oct. 22 unveiling of the company's first completed supersonic turbine core and a 2GW Superpower Superfactory in south Denver that has begun producing parts. The specialized turbine blades are designed to spin at 10,000 RPM in temperatures of 3,000 degrees, a manufacturing challenge Scholl says is currently a bottleneck in the energy industry because only a few companies globally possess the capacity to cast them.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113359011445932198",
+      "role": "source",
+      "authorHandle": "bscholl",
+      "url": "https://x.com/bscholl/status/2113359011445932198",
+      "tweetedAt": "2026-10-22T19:57:07.000Z",
+      "bestBit": "world's most advanced all-digital foundry to cast single crystal turbine blades and vanes",
+      "text": "Today Boom unveils our first completed supersonic turbine core, a 2GW Superfactory, and—one more thing—the world's most advanced all-digital foundry to cast single crystal turbine blades and vanes https://t.co/q2KpL3dZi2"
+    },
+    {
+      "tweetId": "2113374110889963748",
+      "role": "support",
+      "authorHandle": "bscholl",
+      "url": "https://x.com/bscholl/status/2113374110889963748",
+      "tweetedAt": "2026-10-22T20:57:07.000Z",
+      "bestBit": "our 2GW Superpower Superfactory in south Denver is already making parts",
+      "text": "Three major announcements today:\n1/ our first supersonic turbine core is complete and shipping to test \n2/ our 2GW Superpower Superfactory in south Denver is already making parts \n3/ we are building our own advanced all-digital foundry to make single crystal turbine blades https://t.co/lVKUiyVsqq"
+    },
+    {
+      "tweetId": "2113434778477420932",
+      "role": "source",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2113434778477420932",
+      "tweetedAt": "2026-10-23T00:58:11.000Z",
+      "bestBit": "Those blades are the bottleneck in all of turbines, and turbines are the bottleneck in all of energy, and energy is the bottleneck in superintelligence",
+      "text": "Boom Supersonic CEO @bscholl explains why the race to AI superintelligence could come down to turbine blades that only a couple of companies on Earth can manufacture:\n\n\"The hardest stuff are the turbine blades that spin at ten thousand RPM in an environment that is about three thousand degrees, hotter than Starship on re-entry.\"\n\n\"They have to be actively cooled, or they will melt. @elonmusk talked about this a couple days ago on the SpaceX earnings call.\"\n\n\"Those blades are the bottleneck in all of turbines, and turbines are the bottleneck in all of energy, and energy is the bottleneck in superintelligence.\"\n\n\"You take this molten metal, and it freezes in such a way that the atoms all line up in one perfect grid. Billions and trillions of atoms in one perfect grid. There are only a couple companies on the planet that can do this, they’re supply-constrained, and they’re certainly not gonna hand their manufacturing capacity to a startup.\"\n\n\"We’re gonna be doing that ourselves. We are building an all-digital foundry. Our goal is to go in twenty-four hours from a turbine blade design to the world’s most advanced single crystal casting. I don’t think there’s anywhere you can actually do that today.\"\n@boomsupersonic",
+      "quotedTweetText": "Today Boom unveils our first completed supersonic turbine core, a 2GW Superfactory, and—one more thing—the world's most advanced all-digital foundry to cast single crystal turbine blades and vanes https://t.co/q2KpL3dZi2"
+    },
+    {
+      "tweetId": "2113437340698136935",
+      "role": "source",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2113437340698136935",
+      "tweetedAt": "2026-10-23T01:08:22.000Z",
+      "bestBit": "This turbine doesn’t need a drop of water, and it lets you make your own electricity",
+      "text": "Boom Supersonic CEO @bscholl reveals why most data center water usage comes from cooling turbines, not servers, and how his new turbine doesn't need a single drop:\n\n\"Number one is you just can’t get power from the grid, so now you gotta get turbines. Can’t get turbines without waiting for years or paying exorbitant prices on the secondary market.\"\n\n\"The public’s got concerns. If you’re gonna pull electricity from the grid, our electricity price is gonna go up. What about water usage? The dirty little secret is that most data center water usage isn’t the server cooling, it’s actually the turbine cooling. This turbine doesn’t need a drop of water, and it lets you make your own electricity.\"\n\n\"The third thing is noise. We’re gonna make this an ultra quiet turbine. It’s from the same team that made sonic boom go away entirely, so I’m pretty sure we can make a turbine quiet too.\"\n@boomsupersonic",
+      "quotedTweetText": "Today Boom unveils our first completed supersonic turbine core, a 2GW Superfactory, and—one more thing—the world's most advanced all-digital foundry to cast single crystal turbine blades and vanes https://t.co/q2KpL3dZi2"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "boom-unveils-first-completed-supersonic-turbine-core-and-2gw-superfactor-9d812311",
+    "title": "Boom Unveils First Completed Supersonic Turbine Core and 2GW Superfactory",
+    "publishedAt": "2026-10-22T20:38:32.533Z",
+    "eventTimeApprox": "2026-10-22T20:10:07.000Z",
+    "routingTopicKeys": [
+      "tech"
+    ],
+    "tweetCount": 9,
+    "authorCount": 7
+  }
+}

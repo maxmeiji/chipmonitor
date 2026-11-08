@@ -1,0 +1,67 @@
+{
+  "slug": "stanford-delm-beats-claude-code-accuracy-by-175-percentage-points-92c6da37",
+  "title": "Stanford DeLM Beats Claude Code Accuracy by 17.5 Percentage Points",
+  "publishedAt": "2026-10-08T20:54:45.220Z",
+  "eventTimeApprox": "2026-10-08T18:32:47.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108246628574617780/HUH_IvEagAEgUjZ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108246628574617780/HUH_IvEagAEgUjZ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "azaliamirh",
+      "tweetUrl": "https://x.com/Azaliamirh/status/2108246628574617780"
+    }
+  },
+  "summary": "A new coordination system for AI agents allows parallel workers to solve software engineering problems without a central controller. Researchers at Stanford released an updated version of DeLM, a decentralized framework that outperforms Codex and Claude Code on benchmarks including Terminal-Bench 4.0, DeepSWE v1.1, and ProgramBench. Utilizing GPT-6-Astra and Claude Opus 5.5, DeLM improved accuracy by up to 17.5 percentage points over the strongest baseline and ran up to 2.49x faster than the systems it builds upon.\n\nThe system eliminates the traditional main agent, substituting it with a shared context and a task queue where agents claim tasks asynchronously to reduce idle time and redundancy. On ProgramBench, the framework beat Claude Code's test pass rate by up to 19.9 points while maintaining a 120 minute budget. The team is open-sourcing the code and all trajectories, enabling users to run the collaborating agents directly within Codex and Claude Code.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107999019066929204",
+      "role": "source",
+      "authorHandle": "mao_yuzhen",
+      "url": "https://x.com/Mao_Yuzhen/status/2107999019066929204",
+      "tweetedAt": "2026-10-08T00:58:25.000Z",
+      "bestBit": "DeLM beats Claude Code's test pass rate by up to 19.9 points within the same 120-minute budget",
+      "text": "Agents are becoming increasingly powerful, but does adding more agents actually help us solve tasks more efficiently? In many everyday settings, the answer seems to be: “Hmm… not really.”\n\nReintroducing DeLM, much faster, more capable multi-agent systems through decentralized coordination. ⚡\n\nCompared with our first version in early June, the updated paper expands the evaluation beyond SWE-bench to include Terminal-Bench 4.0, DeepSWE v1.1, and ProgramBench!\n\nA quick recap: DeLM enables parallel agents to coordinate through a shared context and a task queue, with no main agent in the loop. Agents share discoveries, reuse intermediate results, and correct one another as they work, reducing both idle time and redundant work.\n\nEvaluated on 10 long-horizon tasks each from Terminal-Bench 4.0 and DeepSWE v1.1, with GPT-6-Astra and Claude Opus 5.5, DeLM improves accuracy by up to 17.5 percentage points over the strongest baseline, while running up to 2.49× faster than the harness it builds on. On ProgramBench, where agents rebuild entire programs from scratch, DeLM beats Claude Code's test pass rate by up to 19.9 points within the same 120-minute budget.\n\nWe’re open-sourcing our code and all DeLM trajectories so you can explore how this collaboration unfolds!\n\n🌐 Project & code: https://t.co/e0qdIfE5zw\n📄 Paper: https://t.co/8oQKdZawNP\n🤗 Trajectories: https://t.co/Y6HwrIaXb5\n\nMore on the coordination design in the thread below 🧵"
+    },
+    {
+      "tweetId": "2108246628574617780",
+      "role": "support",
+      "authorHandle": "azaliamirh",
+      "url": "https://x.com/Azaliamirh/status/2108246628574617780",
+      "tweetedAt": "2026-10-08T17:22:20.000Z",
+      "bestBit": "the main agent is replaced by a shared context and a task queue",
+      "text": "We introduce DeLM, a decentralized approach to multi-agent systems.\n\nDeLM improves accuracy by up to 17.5 percent points and runs up to 2.49× faster than the Codex and Claude Code harnesses on long-horizon tasks from Terminal-Bench 4.0, DeepSWE v1.1, and ProgramBench.\n\nHow it works: the main agent is replaced by a shared context and a task queue. Agents claim tasks asynchronously and build on or correct each other’s progress, and every agent’s status is visible to the others.\n\nYou can run DeLM’s collaborating agents directly in Codex and Claude Code:\nhttps://t.co/MIlsppRw8R \n\nGive it a try!\n\nGreat work led by @Mao_Yuzhen!",
+      "quotedTweetText": "Agents are becoming increasingly powerful, but does adding more agents actually help us solve tasks more efficiently? In many everyday settings, the answer seems to be: “Hmm… not really.”\n\nReintroducing DeLM, much faster, more capable multi-agent systems through decentralized coordination. ⚡\n\nCompared with our first version in early June, the updated paper expands the evaluation beyond SWE-bench to include Terminal-Bench 4.0, DeepSWE v1.1, and ProgramBench!\n\nA quick recap: DeLM enables parallel agents to coordinate through a shared context and a task queue, with no main agent in the loop. Agents share discoveries, reuse intermediate results, and correct one another as they work, reducing both idle time and redundant work.\n\nEvaluated on 10 long-horizon tasks each from Terminal-Bench 4.0 and DeepSWE v1.1, with GPT-6-Astra and Claude Opus 5.5, DeLM improves accuracy by up to 17.5 percentage points over the strongest baseline, while running up to 2.49× faster than the harness it builds on. On ProgramBench, where agents rebuild entire programs from scratch, DeLM beats Claude Code's test pass rate by up to 19.9 points within the same 120-minute budget.\n\nWe’re open-sourcing our code and all DeLM trajectories so you can explore how this collaboration unfolds!\n\n🌐 Project & code: https://t.co/e0qdIfE5zw\n📄 Paper: https://t.co/8oQKdZawNP\n🤗 Trajectories: https://t.co/Y6HwrIaXb5\n\nMore on the coordination design in the thread below 🧵"
+    }
+  ],
+  "isSuperseded": false
+}

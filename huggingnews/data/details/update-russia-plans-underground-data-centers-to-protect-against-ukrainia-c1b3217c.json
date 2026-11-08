@@ -1,0 +1,95 @@
+{
+  "slug": "update-russia-plans-underground-data-centers-to-protect-against-ukrainia-c1b3217c",
+  "title": "UPDATE: Russia Plans Underground Data Centers to Protect Against Ukrainian Drone Strikes",
+  "publishedAt": "2026-11-04T23:52:33.019Z",
+  "eventTimeApprox": "2026-11-02T17:40:09.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "war",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "russia",
+      "name": "Russia"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "war",
+      "name": "War"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117472839129575640/HWJrDKdWYAEH5Ts-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117472839129575640/HWJrDKdWYAEH5Ts-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "intcyberdigest",
+      "tweetUrl": "https://x.com/IntCyberDigest/status/2117472839129575640"
+    }
+  },
+  "summary": "The Kremlin is exploring the construction of subterranean server facilities to ensure the continuity of its digital services and protect them from long-range munitions. This shift toward underground infrastructure follows a series of Ukrainian drone strikes that hit data centers operated by Russia's largest tech firm, Yandex, and the state-backed Sberbank.\n\nThe move to harden facilities follows other emergency measures to shore up the country's tech sector. Vladimir Putin previously decreed that private data center providers must reserve 10% of their total capacity for government use, with a mandate to surrender that capacity within 24 hours if requested. Russia also granted limited permission for companies to use foreign data centers, provided they obtain approval from the Federal Security Service (FSB).",
+  "selectedTweets": [
+    {
+      "tweetId": "2117310811974537598",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2117310811974537598",
+      "tweetedAt": "2026-11-02T17:40:09.000Z",
+      "bestBit": "Russia will temporarily allow the use of data centers outside of its borders after a series of Ukrainian attacks that targeted tech giant Yandex’s facilities.",
+      "text": "Russia will temporarily allow the use of data centers outside of its borders after a series of Ukrainian attacks that targeted tech giant Yandex’s facilities. https://t.co/59gn7OpjQZ"
+    },
+    {
+      "tweetId": "2117472839129575640",
+      "role": "source",
+      "authorHandle": "intcyberdigest",
+      "url": "https://x.com/IntCyberDigest/status/2117472839129575640",
+      "tweetedAt": "2026-11-03T04:24:00.000Z",
+      "bestBit": "Putin has ordered Russia's private data centres to reserve 10% of their capacity for the state, to be handed over within 24 hours on demand.",
+      "text": "❗️ Putin has ordered Russia's private data centres to reserve 10% of their capacity for the state, to be handed over within 24 hours on demand.\n\nThe decree comes weeks after Ukrainian drones hit data centres run by Russian giants Yandex and Sberbank.\n\nIt also allows the use of data centres abroad, with FSB approval."
+    },
+    {
+      "tweetId": "2118124207863373876",
+      "role": "source",
+      "authorHandle": "sambendett",
+      "url": "https://x.com/sambendett/status/2118124207863373876",
+      "tweetedAt": "2026-11-04T23:32:18.000Z",
+      "bestBit": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "text": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers\n https://t.co/tWjVv0IjdV"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "putin-orders-russian-private-data-centers-to-reserve-10percent-capacity-c7988c3d",
+    "title": "Putin Orders Russian Private Data Centers to Reserve 10% Capacity for State",
+    "publishedAt": "2026-11-03T04:37:22.727Z",
+    "eventTimeApprox": "2026-11-02T17:37:37.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "cybersecurity",
+      "business",
+      "war"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

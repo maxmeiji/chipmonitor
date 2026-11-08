@@ -1,0 +1,55 @@
+{
+  "slug": "applied-compute-hits-325b-valuation-following-new-350m-investment-d5e469b6",
+  "title": "Applied Compute Hits $3.25B Valuation Following New $350M Investment",
+  "publishedAt": "2026-11-02T17:38:22.870Z",
+  "eventTimeApprox": "2026-11-02T17:25:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "summary": "An AI startup led by former OpenAI researchers has surged from zero to a $100M annual revenue run rate in 18 months. Applied Compute reported that its growth supported a new funding round led by Elad Gil, providing the firm with $350M in capital and establishing a corporate valuation of $3.25B.\n\nThe company's workforce has grown threefold since January, with engineers and researchers making up 85% of the staff. Its customers include Microsoft, Shopify and DoorDash, with Applied Compute noting that its inference service reached 1 trillion tokens a day just 12 weeks after launching. Currently, 40% of its clients use the platform for both custom model training and production inference.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117305151627411557",
+      "role": "source",
+      "authorHandle": "ypatil125",
+      "url": "https://x.com/ypatil125/status/2117305151627411557",
+      "tweetedAt": "2026-11-02T17:17:40.000Z",
+      "bestBit": "inference serving 1T tokens a day after launching 12 weeks ago",
+      "text": "Applied Compute update:\n\n- crossed ⁠$100M annualized revenue run rate up from zero 18 months ago\n- raised $350M at $3.25B led by Elad Gil\n- 40% of customers use AC for both custom model training + production inference\n- inference serving 1T tokens a day after launching 12 weeks ago\n- 2X enterprise customers since last raise\n- 3X team since January, 85% are researchers and engineers\n⁠- Working with customers like Microsoft, Shopify, Harvey, DoorDash, Cognition, Clay, Decagon and others\n\nTo move even faster we need people who are extremely technical AND extremely practical. If this is you, please reach out."
+    },
+    {
+      "tweetId": "2117307005849522232",
+      "role": "support",
+      "authorHandle": "eladgil",
+      "url": "https://x.com/eladgil/status/2117307005849522232",
+      "tweetedAt": "2026-11-02T17:25:02.000Z",
+      "bestBit": "Amazing post-training team out of OpenAI with ⭐ customers",
+      "text": "Very excited for Gil&amp;Co to lead this round in Applied Compute 🔥\n\nAmazing post-training team out of OpenAI with ⭐️ customers",
+      "quotedTweetText": "Applied Compute update:\n\n- crossed ⁠$100M annualized revenue run rate up from zero 18 months ago\n- raised $350M at $3.25B led by Elad Gil\n- 40% of customers use AC for both custom model training + production inference\n- inference serving 1T tokens a day after launching 12 weeks ago\n- 2X enterprise customers since last raise\n- 3X team since January, 85% are researchers and engineers\n⁠- Working with customers like Microsoft, Shopify, Harvey, DoorDash, Cognition, Clay, Decagon and others\n\nTo move even faster we need people who are extremely technical AND extremely practical. If this is you, please reach out."
+    }
+  ],
+  "isSuperseded": false
+}

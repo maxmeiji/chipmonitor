@@ -1,0 +1,67 @@
+{
+  "slug": "navitas-and-nvidia-build-24-kw-board-to-cut-ai-power-stage-7588c05e",
+  "title": "Navitas and Nvidia Build 24 kW Board to Cut AI Power Stage",
+  "publishedAt": "2026-10-12T22:22:24.218Z",
+  "eventTimeApprox": "2026-10-12T20:29:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVTS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Navitas Semiconductor Corporation Common Stock",
+      "hubKey": "nvts"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "A new 800V to 12V direct conversion board developed by Navitas and Nvidia aims to reduce electricity waste by eliminating an intermediate power stage in AI racks. The 24 kW board, designed for the MGX ecosystem, removes the standard 50V intermediate bus to bring power closer to the GPU and minimize heat loss, according to the Navitas CEO. Built with 16 NV6034 GaN FETs, the 400 by 60 mm hardware targets 97% efficiency at full load and a power density exceeding 2,000 W/in³.\n\nThe reference design was presented at the Open Compute Project summit this week and is intended for next-generation infrastructure including Nvidia's Vera Rubin. While Navitas stated the board is a collaboration rather than a volume order, the company noted that a 1.5 percentage point efficiency increase could reclaim approximately 15 MW of power for every 1 GW of AI capacity to support additional compute.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109743293055775071",
+      "role": "source",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2109743293055775071",
+      "tweetedAt": "2026-10-12T20:29:32.000Z",
+      "bestBit": "Even a 1.5 percentage point efficiency improvement could free up ~15 MW for every GW of AI capacity to power more compute",
+      "text": "$NVTS just unveiled a 24 kW power board developed with $NVDA for its MGX ecosystem converting 800V directly to 12V for the next generation of AI racks.\n\nNavitas CEO says goal is to “bring power closer to the GPU” by eliminating an entire conversion step that would otherwise waste electricity as heat.\n\nEven a 1.5 percentage point efficiency improvement could free up ~15 MW for every GW of AI capacity to power more compute giving Navitas an early position in the power infrastructure Nvidia is building for Vera Rubin."
+    },
+    {
+      "tweetId": "2109769561234952484",
+      "role": "analysis",
+      "authorHandle": "singularityres",
+      "url": "https://x.com/SingularityRes/status/2109769561234952484",
+      "tweetedAt": "2026-10-12T22:13:55.000Z",
+      "bestBit": "Planned for Nvidia's MGX Wall at OCP this week — collaboration / reference design, not a volume order",
+      "text": "NAVITAS + NVIDIA: 24 KW BOARD THAT CUTS OUT THE 50V STAGE\n\n• 800 VDC → 12 VDC in a single stage, powered by GaNFast, per Navitas PR Oct 12\n• Target 97% efficiency at full load, power density >2,000 W/in³\n• 400 × 60 mm form factor, meant to sit on the compute tray next to the xPUs\n• 16× NV6034 (650 V) GaN FETs; builds on their earlier 20 kW 800→6V board with Nvidia\n• Planned for Nvidia's MGX Wall at OCP this week — collaboration / reference design, not a volume order\n\nThis morning we said 800V is about cutting amps and copper. The quieter story is the stage that disappears. The 50V intermediate bus is still in most AI rack budgets. If racks actually ship this way, that brick gets deleted and the content shifts to high-voltage GaN on the way in and whatever sits millimeters from the GPU on the way out.\n\n$NVTS $NVDA $VICR $MPWR",
+      "quotedTweetText": "OCP day one in San Jose, and the GPU was the least interesting part of it.\n\nThe action is everything around the GPU now.\n\nCPUs. Nvidia published a design spec for a Vera CPU rack, built for tool calling, orchestration and sandboxed execution. Same morning, AMD showed Helion, a rack that can ship with zero GPUs. When the GPU company puts out a rack built around CPUs, agents eating CPU isn't a niche call anymore.\n\nOptics. Nvidia has been pushing co-packaged optics hard, and it still put its name on a brand new pluggable with Cisco. USFP is built for 400G per lane, 16 lanes to start with plans for 32, about 4x the bandwidth density of 200G-per-lane modules. TE Connectivity and Amphenol are working on the cages and connectors. Nvidia is clearly planning for pluggables to stick around another generation.\n\nPower. The new MGX 1.2 spec supports racks up to 250 kW and adds a liquid-cooled 5,000-amp busbar. Yes, the busbar needs liquid cooling now. That's why Nvidia, Google and Microsoft are pushing 800V DC, and back in August Nvidia counted more than 80 equipment and infrastructure companies already building to that spec. Visionbay's planned 800V K-1 AI factory uses Vertiv power and thermal tech.\n\nQuick math: 250 kW at 50V is 5,000 amps. At 800V it's about 310. Copper doesn't scale, voltage does.\n\nAnd Meta is adopting Nvidia's Spectrum-6 102.4T switches for its Vera Rubin build-outs.\n\nThis morning I said agents eat CPU. Last week Lumentum said it's sold out into early 2029. OCP is the same story from another angle. The AI capex money is spreading out from the GPU to everything bolted around it.\n\nNames I'd watch from today: $AMD for CPUs, $VRT for power, $APH and $TEL for the connectors nobody models. $NVDA wins either way since it's writing the specs."
+    }
+  ],
+  "isSuperseded": false
+}

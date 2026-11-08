@@ -1,0 +1,183 @@
+{
+  "slug": "sierra-and-meta-release-first-draft-of-personal-agent-protocol-and-add-3-2c4ef29a",
+  "title": "Sierra and Meta Release First Draft of Personal Agent Protocol and Add 35 Partners",
+  "publishedAt": "2026-10-09T21:23:39.004Z",
+  "eventTimeApprox": "2026-10-06T18:49:03.000Z",
+  "isFreshStory": false,
+  "tweetCount": 33,
+  "authorCount": 22,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "PVT:SIER",
+      "kind": "private",
+      "role": "subject",
+      "name": "Sierra AI",
+      "hubKey": "sierra-ai"
+    },
+    {
+      "ticker": "WMT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Walmart Inc. Common Stock",
+      "hubKey": "wmt"
+    },
+    {
+      "ticker": "SHOP",
+      "kind": "equity",
+      "role": "related",
+      "name": "Shopify Inc. Class A subordinate voting shares",
+      "hubKey": "shop"
+    },
+    {
+      "ticker": "PVT:STRP",
+      "kind": "private",
+      "role": "related",
+      "name": "Stripe",
+      "hubKey": "stripe"
+    },
+    {
+      "ticker": "RKT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Rocket Companies, Inc.",
+      "hubKey": "rkt"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108245197440307584/uu9XLc5jcgIzFp3Z-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108245197440307584/uu9XLc5jcgIzFp3Z-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2108243099877281792/vid/avc1/1920x1080/GZ1IZykQ6nMVbzJJ.mp4?tag=29",
+    "credit": {
+      "handle": "sierraplatform",
+      "tweetUrl": "https://x.com/SierraPlatform/status/2108245197440307584"
+    }
+  },
+  "summary": "A demo recently showcased Meta's Muse AI assistant collaborating with a mortgage agent to pre-approve a home loan, illustrating a new way for autonomous bots to engage with companies. On Oct 9, the consortium led by Sierra and Meta published the initial draft of the Personal Agent Protocol and added 35 new design partners to help refine how AI agents are recognized and authenticated by merchants. The open standard is intended to give consumers more control over their data and prevent companies from facing the technical chaos of unstandardized AI bot traffic.\n\nThe effort began Oct 6 with founding partners including Walmart, Shopify, Stripe, Genesys, Instinct, and Rocket to move away from bots that simulate human browsing by clicking web pages. A v0.1 specification due later this month will implement OAuth-based sessions and allow businesses to restrict agents to read-only access by default. The protocol provides a secure alternative for merchants at a time when major platforms like Amazon have moved to block autonomous agents from their sites.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108663336393208233",
+      "role": "source",
+      "authorHandle": "btaylor",
+      "url": "https://x.com/btaylor/status/2108663336393208233",
+      "tweetedAt": "2026-10-09T20:58:11.000Z",
+      "bestBit": "publishing the first draft of the protocol at https://t.co/Qao9yEfzx4 and announcing 35 new design partners",
+      "text": "On Tuesday, Sierra announced Personal Agent Protocol with Meta, Genesys, Instinct, Rocket, Shopify, Stripe, and Walmart. The response has been incredible and today we’re publishing the first draft of the protocol at https://t.co/Qao9yEfzx4 and announcing 35 new design partners.\n\nAs personal agents take on more, our goal is simple: consumers have choice and control, and companies know when they’re dealing with an agent and who it represents.\n\nThis draft is a starting point. We’d love for companies, developers, and personal agent builders to read it, give feedback, and help us build an open standard together."
+    },
+    {
+      "tweetId": "2107531483837862324",
+      "role": "source",
+      "authorHandle": "sierraplatform",
+      "url": "https://x.com/SierraPlatform/status/2107531483837862324",
+      "tweetedAt": "2026-10-06T18:00:36.000Z",
+      "bestBit": "open standard @Meta and @SierraPlatform are developing along with industry partners at @Genesys, @instinct, @RocketOTD, @Shopify, @stripe, and @Walmart",
+      "text": "Today we’re announcing Personal Agent Protocol — an open standard @Meta and @SierraPlatform are developing along with industry partners at @Genesys, @instinct, @RocketOTD, @Shopify, @stripe, and @Walmart. It will help define how personal agents interact with businesses and is open for anyone to implement.\n\nRead more: https://t.co/9cWCVlCv8H"
+    },
+    {
+      "tweetId": "2108270213150232803",
+      "role": "source",
+      "authorHandle": "btaylor",
+      "url": "https://x.com/btaylor/status/2108270213150232803",
+      "tweetedAt": "2026-10-08T18:56:03.000Z",
+      "bestBit": "Muse directly communicating with the Rocket agent, discovered, authenticated, and governed by PAP",
+      "text": "Personal Agent Protocol got a lot of attention earlier this week. Here is Alex McGillis from Rocket doing a live demo of it in action - Muse directly communicating with the Rocket agent, discovered, authenticated, and governed by PAP",
+      "quotedTweetText": "Watch the Personal Agent Protocol in action. @Redfin and @RocketOTD agents working with Muse to find homes in Michigan and get a user pre-approved for a mortgage. Thank you to Alex McGillis for a great demo. https://t.co/7k4b9nfyIn"
+    },
+    {
+      "tweetId": "2107545935777792171",
+      "role": "commentary",
+      "authorHandle": "sytaylor",
+      "url": "https://x.com/sytaylor/status/2107545935777792171",
+      "tweetedAt": "2026-10-06T18:58:02.000Z",
+      "bestBit": "Amazon is blocking agents",
+      "text": "Huge! \n\nMeta and Sierra just published a standard for how your personal AI agent logs in to a business. Meta, Instinct, Stripe, Shopify and Walmart signed on.\n\nThis is some of the biggest distribution platforms in agents AND e-commerce behind one protocol. \n\n---\n\nSierra (Bret Taylor and Clay Bavor) and Meta announced Personal Agent Protocol today with Genesys, Instinct, Rocket, Shopify, Stripe and Walmart. The v0.1 spec lands later this month.\n\nToday a personal agent uses your website the way a human does. It clicks through pages, fills in forms, and phones support when it gets stuck. It's slow and it often fails.\n\nUnder Personal Agent Protocol (PAP):\n\n- The agent reads your website to find what you offer and how to connect.\n- It starts as a guest or signs in to the customer's account.\n- The customer chooses read-only or write access. The session runs on OAuth.\n- You choose the door: your website, your APIs (MCP, OpenAPI), or your own agent.\n\n---\n\nAmazon is blocking agents. \n\nPAP is an alternative to welcome them through the front door, albeit making them go through the security line. \n\nIf you run an e-commerce website or online brand, your customer's agent arrives at your login page either way. PAP lets you recognize it, give it read-only by default, and route anything that moves money to your own agent.\n\nAgentic everything feels more pragmatic by the day.",
+      "quotedTweetText": "Today we’re announcing Personal Agent Protocol — an open standard @Meta and @SierraPlatform are developing along with industry partners at @Genesys, @instinct, @RocketOTD, @Shopify, @stripe, and @Walmart. It will help define how personal agents interact with businesses and is open for anyone to implement.\n\nRead more: https://t.co/9cWCVlCv8H"
+    },
+    {
+      "tweetId": "2107563018599211261",
+      "role": "commentary",
+      "authorHandle": "sriramk",
+      "url": "https://x.com/sriramk/status/2107563018599211261",
+      "tweetedAt": "2026-10-06T20:05:54.000Z",
+      "bestBit": "how will large retailers and aggregators - Amazon, airlines, etc react and handle an era where they can't own the final user experience",
+      "text": "this reminds me of when oauth was developed in the early 2000s - something that needs to be built cross-industry as an open standard and have buy in.\n\nthe larger question is how will large retailers and aggregators - Amazon, airlines, etc react and handle an era where they can't own the final user experience.",
+      "quotedTweetText": "Today we’re announcing Personal Agent Protocol — an open standard @Meta and @SierraPlatform are developing along with industry partners at @Genesys, @instinct, @RocketOTD, @Shopify, @stripe, and @Walmart. It will help define how personal agents interact with businesses and is open for anyone to implement. You can read more here - and if anyone is interested in joining let me know! https://t.co/Yb90VEHMnn"
+    },
+    {
+      "tweetId": "2107557179415036311",
+      "role": "commentary",
+      "authorHandle": "tarunchitra",
+      "url": "https://x.com/tarunchitra/status/2107557179415036311",
+      "tweetedAt": "2026-10-06T19:42:42.000Z",
+      "bestBit": "design communication and security protocols for consumers agents that resemble crypto more than centralized systems",
+      "text": "It is honestly pretty funny to see SF AI people design communication and security protocols for consumers agents that resemble crypto more than centralized systems\n\nPerhaps the threat models of open, permissionless networks was more right than the many detractors want to admit",
+      "quotedTweetText": "Today we’re announcing Personal Agent Protocol — an open standard @Meta and @SierraPlatform are developing along with industry partners at @Genesys, @instinct, @RocketOTD, @Shopify, @stripe, and @Walmart. It will help define how personal agents interact with businesses and is open for anyone to implement. You can read more here - and if anyone is interested in joining let me know! https://t.co/Yb90VEHMnn"
+    },
+    {
+      "tweetId": "2108164634834579605",
+      "role": "commentary",
+      "authorHandle": "ksimback",
+      "url": "https://x.com/KSimback/status/2108164634834579605",
+      "tweetedAt": "2026-10-08T11:56:31.000Z",
+      "bestBit": "the ~3% card processors charge will go to agent platforms in the future",
+      "text": "It’s very clear to me that the ~3% card processors charge will go to agent platforms in the future\n\nThis is why Stripe+Tempo makes sense\n\nAgent platforms will also capture rev share from the sellers so their total take rate will be &gt;3%\n\nThat’s how they afford inference",
+      "quotedTweetText": "Today we’re announcing Personal Agent Protocol — an open standard @Meta and @SierraPlatform are developing along with industry partners at @Genesys, @instinct, @RocketOTD, @Shopify, @stripe, and @Walmart. It will help define how personal agents interact with businesses and is open for anyone to implement. You can read more here - and if anyone is interested in joining let me know! https://t.co/Yb90VEHMnn"
+    },
+    {
+      "tweetId": "2107533670315692306",
+      "role": "analysis",
+      "authorHandle": "mcfazeli",
+      "url": "https://x.com/mcfazeli/status/2107533670315692306",
+      "tweetedAt": "2026-10-06T18:09:17.000Z",
+      "bestBit": "adds the important layer for authentication, authorization, and agent-to-agent conversations between personal agents and merchants",
+      "text": "@SierraPlatform @Meta @Genesys @instinct @RocketOTD @Shopify @stripe @Walmart Excited to be partnering on this. After the work on UCP and WebMCP, Personal Agent Protocol adds the important layer for authentication, authorization, and agent-to-agent conversations between personal agents and merchants."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "meta-and-sierra-launch-open-standard-for-personal-ai-agent-interaction-83312066",
+    "title": "Meta and Sierra Launch Open Standard for Personal AI Agent Interaction",
+    "publishedAt": "2026-10-06T18:24:39.803Z",
+    "eventTimeApprox": "2026-10-06T18:09:17.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 27,
+    "authorCount": 19
+  }
+}

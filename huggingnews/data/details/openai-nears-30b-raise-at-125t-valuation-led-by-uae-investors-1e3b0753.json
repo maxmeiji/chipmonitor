@@ -1,0 +1,132 @@
+{
+  "slug": "openai-nears-30b-raise-at-125t-valuation-led-by-uae-investors-1e3b0753",
+  "title": "OpenAI Nears $30B Raise at $1.25T Valuation Led by UAE Investors",
+  "publishedAt": "2026-10-22T20:41:31.565Z",
+  "eventTimeApprox": "2026-10-20T13:23:54.500Z",
+  "isFreshStory": false,
+  "tweetCount": 92,
+  "authorCount": 51,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "vc",
+      "name": "VC"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The maker of ChatGPT has submitted a confidential filing to go public and expects a listing in 2027, according to internal communications from CFO Sarah Friar. The company is now finalizing a private funding round of up to $30B led by investors from the UAE and Coatue. This capital raise carries a $1.25T pre-money valuation, a decrease from the $1.4T benchmark previously targeted. OpenAI intends to secure signatures for the round by the end of next week, positioning the investment as an opportunistic bridge to its eventual market debut.\n\nThe accelerated fundraising is designed to lock in commitments before rival Anthropic's scheduled mid-November IPO to avoid direct financial comparisons once public filings are released. OpenAI is also negotiating a commercial agreement with the UAE to expand its computing capacity. The firm is pitching investors on $50B in annualized revenue, targeting $70B by year-end, to justify the new valuation over the $852B it reached in March.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113364977562087600",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2113364977562087600",
+      "tweetedAt": "2026-10-22T20:20:49.000Z",
+      "bestBit": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "text": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors https://t.co/gw1Xtx3Z66"
+    },
+    {
+      "tweetId": "2113365478802641207",
+      "role": "support",
+      "authorHandle": "iponewsroom_",
+      "url": "https://x.com/IPONewsroom_/status/2113365478802641207",
+      "tweetedAt": "2026-10-22T20:22:49.000Z",
+      "bestBit": "OpenAI has already filed confidentially to go public, and CFO Sarah Friar has told employees a listing will likely come in 2027",
+      "text": "OPENAI IS REPORTEDLY NEARING A FUNDING ROUND OF UP TO $30 BILLION AT A $1.25 TRILLION VALUATION\n\nInvestors from the UAE are leading the round alongside Coatue, per CNBC\n\nAnd it's being positioned as a bridge to something bigger\n\nOpenAI has already filed confidentially to go public, and CFO Sarah Friar has told employees a listing will likely come in 2027.\n\nThe $1.25 trillion is a pre-money valuation, meaning it doesn't include the new capital being raised. OpenAI told investors Thursday that it aims to secure signatures by the end of next week, and the final size of the round is still being determined.\n\nOpenAI is also negotiating a commercial deal with the UAE that would secure more computing capacity as it expands."
+    },
+    {
+      "tweetId": "2113365120411746497",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2113365120411746497",
+      "tweetedAt": "2026-10-22T20:21:23.000Z",
+      "bestBit": "Dubai made clammy sammy drop the valuation",
+      "text": "lmfao Dubai made clammy sammy drop the valuation",
+      "quotedTweetText": "*OPENAI NEARS UP TO $30B FUNDING ROUND AT $1.25T VALUATION:CNBC\n\nFunding round led by UAE investors https://t.co/uVmQhTle4D"
+    },
+    {
+      "tweetId": "2112326915906490640",
+      "role": "commentary",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2112326915906490640",
+      "tweetedAt": "2026-10-19T23:35:56.000Z",
+      "bestBit": "racing to secure investor commitments before Anthropic's expected IPO in mid-November",
+      "text": "OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-November; SoftBank and MGX are in talks to join the round of about $30 billion.\n\nThe same SoftBank whose CDS just hit a 4 year high? https://t.co/AvvG3aDlik"
+    },
+    {
+      "tweetId": "2112331330109280529",
+      "role": "commentary",
+      "authorHandle": "negligible_cap",
+      "url": "https://x.com/negligible_cap/status/2112331330109280529",
+      "tweetedAt": "2026-10-19T23:53:28.000Z",
+      "bestBit": "could value the ChatGPT maker at over $1.4 trillion, according to two people familiar with the matter",
+      "text": "*OPENAI ACCELERATING FUNDRAISING AHEAD OF ANTHROPIC IPO: RTRS\n\n“OpenAI is racing to secure investor commitments before rival Anthropic's expected public market debut in mid-November, in an unusually fast fundraising that could value the ChatGPT maker at over $1.4 trillion, according to two people familiar with the matter.”\n\nIf OpenAI can pull off a raise at $1.4T in the private markets then Anthropic should not be IPOing at $1.5T in the public markets. Unless they really need capital I guess"
+    },
+    {
+      "tweetId": "2112331227206394126",
+      "role": "analysis",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2112331227206394126",
+      "tweetedAt": "2026-10-19T23:53:04.000Z",
+      "bestBit": "UAE funds have been discussing as much as $10B together for this round",
+      "text": "Now this is interesting!!!\n\nUAE funds have been discussing as much as $10B together for this round, at roughly a $1.4T valuation.\n\nMGX already owns a piece of Anthropic too. \n\nSo whichever lab gets to market first, Abu Dhabi is already on the cap table.",
+      "quotedTweetText": "SoftBank, MGX in discussions to join OpenAI fundraising round, source says"
+    },
+    {
+      "tweetId": "2112601490716254242",
+      "role": "analysis",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2112601490716254242",
+      "tweetedAt": "2026-10-20T17:47:00.000Z",
+      "bestBit": "In frontier models, that's Anthropic and OpenAI",
+      "text": "With AI… the cap table matters more than the horse, and Abu Dhabi is on both. \n\nGartner's chief forecaster said: almost every AI market is collapsing into a duopoly. In frontier models, that's Anthropic and OpenAI.\n\nThe harder question for Gulf capital is the layer underneath. Gartner sees $3.5T of AI infrastructure exposed to impairment by 2030 and 80% of neoclouds losing their independence. Owning the duopoly is the easy part though…  the write-downs land on whoever owns the compute.",
+      "quotedTweetText": "Now this is interesting!!!\n\nUAE funds have been discussing as much as $10B together for this round, at roughly a $1.4T valuation.\n\nMGX already owns a piece of Anthropic too. \n\nSo whichever lab gets to market first, Abu Dhabi is already on the cap table."
+    },
+    {
+      "tweetId": "2112455383356989598",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+      "tweetedAt": "2026-10-20T08:06:25.000Z",
+      "bestBit": "OpenAI wants commitments before Anthropic’s filings invite side-by-side comparisons",
+      "text": "Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public. \n\nThat would put OpenAI at least 64% above the $852B valuation it reached in March. \n\nBoth labs court overlapping long-only and sovereign wealth funds, and OpenAI wants commitments before Anthropic’s filings invite side-by-side comparisons.\n\nThose comparisons are messy: OpenAI books revenue net of partner shares, while Anthropic counts the full value of sales through cloud providers. \nLocking in $1.4T before Anthropic’s public S-1 and mid-November debut spares OpenAI a direct comparison now\n\nAnthropic’s third-quarter revenue rose 45% to $16.8B after more than doubling in the second, and the slowdown has some investors arguing for $1.5T instead of $2T. \n\nInvestors say OpenAI needs cash for infrastructure commitments in case a market that erased $1.6T from chip stocks in under 2 weeks further delays its 2027 listing."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-targets-14-trillion-valuation-with-30b-raise-before-anthropic-ipo-6d9084b9",
+    "title": "OpenAI Targets $1.4 Trillion Valuation With $30B Raise Before Anthropic IPO",
+    "publishedAt": "2026-10-20T00:03:56.821Z",
+    "eventTimeApprox": "2026-10-19T23:30:52.000Z",
+    "routingTopicKeys": [
+      "startups",
+      "ai"
+    ],
+    "tweetCount": 43,
+    "authorCount": 29
+  }
+}

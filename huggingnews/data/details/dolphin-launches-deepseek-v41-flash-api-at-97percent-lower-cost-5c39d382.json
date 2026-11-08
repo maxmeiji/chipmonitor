@@ -1,0 +1,58 @@
+{
+  "slug": "dolphin-launches-deepseek-v41-flash-api-at-97percent-lower-cost-5c39d382",
+  "title": "Dolphin Launches DeepSeek V4.1 Flash API at 97% Lower Cost",
+  "publishedAt": "2026-10-11T17:07:48.497Z",
+  "eventTimeApprox": "2026-10-11T16:09:19.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "The first 1,000 users to sign up for a new artificial intelligence tool are receiving $30 in free credits to test its agentic and coding capabilities. The Dolphin Inference API is now live, utilizing DeepSeek V4.1 Flash to provide performance on par with Opus 5 models. This infrastructure allows developers to run operations at a cost that is 97% lower than that of other frontier models.\n\nThe service targets software builders who require direct API access rather than the monthly subscription plans used by general consumers. Some industry observers suggest that subsidized monthly planos for inference are unsustainable, creating a need for market-priced options like the system developed by Dolphin.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109297046780055762",
+      "role": "source",
+      "authorHandle": "dphnai",
+      "url": "https://x.com/dphnAI/status/2109297046780055762",
+      "tweetedAt": "2026-10-11T14:56:19.000Z",
+      "bestBit": "delivers Opus 5-class coding & agentic performance at 97% lower cost than frontier models",
+      "text": "The Dolphin Inference API is now live\n\nPowered by DeepSeek V4.1 Flash, it delivers Opus 5-class coding & agentic performance at 97% lower cost than frontier models\n\n$30 free credits for the first 1,000 signups\n\nStart building with the cheapest API on the market → https://t.co/izrWuq0l9H"
+    },
+    {
+      "tweetId": "2109325434626130308",
+      "role": "commentary",
+      "authorHandle": "ksimback",
+      "url": "https://x.com/KSimback/status/2109325434626130308",
+      "tweetedAt": "2026-10-11T16:49:07.000Z",
+      "bestBit": "many builders can only use API inference",
+      "text": "Great example of inference capital markets\n\nToday most of us consume inference via subsidized monthly plans, but these won’t last forever and many builders can only use API inference\n\nThat’s where markets like @dphnAI come in, congrats on this going live!",
+      "quotedTweetText": "The Dolphin Inference API is now live\n\nPowered by DeepSeek V4.1 Flash, it delivers Opus 5-class coding & agentic performance at 97% lower cost than frontier models\n\n$30 free credits for the first 1,000 signups\n\nStart building with the cheapest API on the market → https://t.co/izrWuq0l9H"
+    }
+  ],
+  "isSuperseded": false
+}

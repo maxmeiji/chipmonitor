@@ -1,0 +1,65 @@
+{
+  "slug": "google-removes-gemini-pro-from-free-and-plus-plans-on-oct-9-3767b7fa",
+  "title": "Google Removes Gemini Pro from Free and Plus Plans on Oct 9",
+  "publishedAt": "2026-10-03T19:39:14.322Z",
+  "eventTimeApprox": "2026-10-03T15:49:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106324275829281101/HTsqwgiXcAAbJth-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106324275829281101/HTsqwgiXcAAbJth-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "geminiupda0kkb",
+      "tweetUrl": "https://x.com/GeminiUpda0kkb/status/2106324275829281101"
+    }
+  },
+  "summary": "Access to advanced artificial intelligence models is becoming more restricted within the Gemini ecosystem. Starting Oct 9, Google will limit access to its Gemini Pro models exclusively to subscribers of the AI Pro and AI Ultra plans. Users on the free tier will be limited to the Flash-Lite model, while AI Plus subscribers will lose Pro access and be restricted to the Flash model. In a partial expansion of benefits, the AI Pro tier will now include the Deep Think feature, which was previously available only to Ultra users.\n\nThe realignment of subscription tiers comes as Google prepares for the launch of the Gemini 4 Argon model. The upcoming model is more expensive to operate than previous versions, which may have prompted the company to move higher-tier models behind the most expensive paid subscriptions, according to market commentary.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106324275829281101",
+      "role": "source",
+      "authorHandle": "geminiupda0kkb",
+      "url": "https://x.com/GeminiUpda0kkb/status/2106324275829281101",
+      "tweetedAt": "2026-10-03T10:03:35.000Z",
+      "bestBit": "Google is changing Gemini model access starting Oct 9",
+      "text": "Google is changing Gemini model access starting Oct 9:\n\n• Free → Flash-Lite only\n• AI Plus → loses Pro models, Flash only\n• AI Pro &amp; Ultra → retain access to Pro models https://t.co/n3dIM1p6Yi"
+    },
+    {
+      "tweetId": "2106464316182479324",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2106464316182479324",
+      "tweetedAt": "2026-10-03T19:20:03.000Z",
+      "bestBit": "The Gemini Pro models will only be available for Pro and Ultra plans, but not in the cheaper Plus plan",
+      "text": "Some changes to the @GoogleDeepMind Gemini plans:\n\nThe Gemini Pro models will only be available for Pro and Ultra plans, but not in the cheaper Plus plan.\n\nThis is clearly a step in preparation of the upcoming Gemini 4 Argon model, which is more expensive to run.",
+      "quotedTweetText": "Google is changing Gemini model access starting Oct 9:\n\n• Free → Flash-Lite only\n• AI Plus → loses Pro models, Flash only\n• AI Pro &amp; Ultra → retain access to Pro models https://t.co/n3dIM1p6Yi"
+    }
+  ],
+  "isSuperseded": false
+}

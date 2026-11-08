@@ -1,0 +1,49 @@
+{
+  "slug": "gemini-4-argon-beats-gpt-6-astra-on-scale-ai-reasoning-benchmark-46561661",
+  "title": "Gemini 4 Argon Beats GPT-6-Astra on Scale AI Reasoning Benchmark",
+  "publishedAt": "2026-10-14T21:22:35.155Z",
+  "eventTimeApprox": "2026-10-14T19:55:18.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Google's Gemini 4 Argon recorded a 55.4% score on the Humanity's Sixth Sense benchmark to take the lead over OpenAI's GPT-6-Astra, which scored 53.6%. Scale AI announced the results on Oct. 14, identifying the model as the top performer for intuitive reasoning.\n\nThe HSS benchmark measures an AI's ability to reason beyond visible information, including the identification of hidden objects, prediction of upcoming events, and understanding of human behavior. Scale AI is now analyzing performance across various specific categories to further assess these capabilities.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110455008450040176",
+      "role": "source",
+      "authorHandle": "scaleailabs",
+      "url": "https://x.com/ScaleAILabs/status/2110455008450040176",
+      "tweetedAt": "2026-10-14T19:37:39.000Z",
+      "bestBit": "Gemini 4 Argon for taking the top spot of our Humanity's Sixth Sense (HSS) benchmark with a score of 55.4%, edging out GPT-6-Astra at 53.6%",
+      "text": "Congrats to @GoogleAI's Gemini 4 Argon for taking the top spot of our Humanity's Sixth Sense (HSS) benchmark with a score of 55.4%, edging out GPT-6-Astra at 53.6%. 🥇\n\nHSS tests AI’s ability to reason beyond what’s visible, from hidden objects to predicting what happens next and understanding human behavior.\n\nWe took a closer look at performance across categories, and that’s where things get interesting. 👀🧵"
+    }
+  ],
+  "isSuperseded": false
+}

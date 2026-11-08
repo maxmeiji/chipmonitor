@@ -1,0 +1,133 @@
+{
+  "slug": "global-smartphone-shipments-plunge-22percent-in-record-quarterly-decline-8eede9bd",
+  "title": "Global Smartphone Shipments Plunge 22% in Record Quarterly Decline",
+  "publishedAt": "2026-10-19T13:09:58.153Z",
+  "eventTimeApprox": "2026-10-15T10:40:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111852961500406266/HU6zxUFX0AAmvqS-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111852961500406266/HU6zxUFX0AAmvqS-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "kobeissiletter",
+      "tweetUrl": "https://x.com/KobeissiLetter/status/2111852961500406266"
+    }
+  },
+  "summary": "Worldwide handset deliveries fell to 255.3 million units in the third quarter of 2026, according to data from IDC. Shipments dropped 22% year-over-year, marking the steepest quarterly contraction in the industry's history as AI data center demand diverted the supply of memory chips. These constraints drove component costs up approximately 350% since last year, forcing manufacturers to raise retail prices and reduce the availability of budget-tier models.\n\nChinese brands faced the most severe declines, with Xiaomi shipments falling 29.2% to 30.7 million units, Oppo dropping 34.5% to 25.6 million, and Vivo sliding 31.5% to 19.1 million. Samsung and Apple saw smaller decreases of 5.8% and 4.0% respectively by focusing on premium device segments. IDC Research Director Nabila Popal warned that the market has not yet reached its bottom and that growth may not recover until 2028 at the earliest.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110597032734044251",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2110597032734044251",
+      "tweetedAt": "2026-10-15T05:02:00.000Z",
+      "bestBit": "Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop",
+      "text": "Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines (IDC)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2111852961500406266",
+      "role": "support",
+      "authorHandle": "kobeissiletter",
+      "url": "https://x.com/KobeissiLetter/status/2111852961500406266",
+      "tweetedAt": "2026-10-18T16:12:37.000Z",
+      "bestBit": "memory costs have surged +350% since last year, driven by AI-related demand",
+      "text": "Global smartphone purchases have collapsed.\n\nWorldwide smartphone shipments dropped -22.0% YoY in Q3 2026, to 255.3 million units, their largest quarterly decline on record.\n\nSamsung's shipments fell -5.8% YoY, to 57.8 million units, while Apple's declined -4.0% to 57.3 million units.\n\nAt the same time, Xiaomi shipments fell -29.2% YoY to 30.7 million units, Oppo dropped -34.5%, to 25.6 million units, while Vivo fell -31.5%, to 19.1 million units.\n\nThis comes as memory costs have surged +350% since last year, driven by AI-related demand, putting further pressure on smartphone manufacturers.\n\nAs a result, soaring component costs are forcing vendors to raise prices and reduce budget-focused offerings, with consumers increasingly keeping their existing devices for longer.\n\nGlobal smartphone sales are contracting amid surging prices."
+    },
+    {
+      "tweetId": "2112165115420156116",
+      "role": "support",
+      "authorHandle": "kawzinvests",
+      "url": "https://x.com/KawzInvests/status/2112165115420156116",
+      "tweetedAt": "2026-10-19T12:53:00.000Z",
+      "bestBit": "Growth isn’t expected to recover until 2028 at the earliest",
+      "text": "RAMmageddon continues to show up in phone shipments.\n\nIDC says global smartphone shipments fell 22% in Q3, the worst decline on record. Growth isn’t expected to recover until 2028 at the earliest.\n\nIDC research director Nabila Popal says the smartphone market “has not yet reached the bottom.”\n\n“Memory costs have surged approximately 350% since last year and are still rising.”\n\n“The worst is yet to come.”\n\n$MU $SNDK $AAPL $QCOM"
+    },
+    {
+      "tweetId": "2110851312183345241",
+      "role": "commentary",
+      "authorHandle": "bowtiedbull",
+      "url": "https://x.com/BowTiedBull/status/2110851312183345241",
+      "tweetedAt": "2026-10-15T21:52:25.000Z",
+      "bestBit": "iPhone 18 and Pro Max were weaker than expected",
+      "text": "Yeah everyone needs to flex with the Duo\n\nWe're entirely serious here. The rich are going to buy it just to show they are rich. \n\nWhy is anyone surprised iPhone 18 and Pro Max were weaker than expected. Not even remotely close to confusing",
+      "quotedTweetText": "JUST IN: The global smartphone market has had its worst quarter ever, per Bloomberg"
+    },
+    {
+      "tweetId": "2110403639684841872",
+      "role": "commentary",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2110403639684841872",
+      "tweetedAt": "2026-10-14T16:13:31.000Z",
+      "bestBit": "plummeting consumer smartphone sales is bad for Qualcomm",
+      "text": "It doesn't take a rocket scientist to figure out that plummeting consumer smartphone sales is bad for Qualcomm.",
+      "quotedTweetText": "\"Global smartphone shipments declined 20% YoY in Q3 2026, the lowest Q3 level since 2012, according to preliminary estimates from Counterpoint Research\" https://t.co/S50yVl8PUr"
+    },
+    {
+      "tweetId": "2111041215596748820",
+      "role": "commentary",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2111041215596748820",
+      "tweetedAt": "2026-10-16T10:27:01.000Z",
+      "bestBit": "AI data centers are bidding memory away from handsets",
+      "text": "Global smartphone shipments just had their WORST quarter on record.\n\nIDC says shipments fell about 22% in Q3 to 255.3 million units. Memory costs driven by AI demand are crushing phone makers.\n\nChinese brands got hit the hardest, while Samsung and Apple held up better by sticking to premium phones.\n\nAI data centers are bidding memory away from handsets. That shows up as higher DRAM and NAND prices, and then as fewer cheap phones shipped.\n\nLong term, that is BULLISH for the pricing power of $MU, Samsung and SK Hynix. Near term, it is messy for consumer electronics.\n\nThe AI buildout is reshaping the ENTIRE memory market.",
+      "quotedTweetText": "South Korea's stock market is in FREE FALL and the panic surrounding the memory trade is getting completely out of control.\n\nThe KOSPI just plunged another 7%, bringing its decline to roughly 40% from its June highs. Samsung and SK Hynix are getting absolutely destroyed, and the selling pressure is spreading across the entire AI infrastructure trade. I went on Making Money with @cvpayne today to talk about the memory selloff and why I believe investors are losing sight of what's actually happening in this industry.\n\nAnd now we're getting ANOTHER warning out of South Korea. A new column published by Maeil Business Newspaper is raising concerns that the global memory industry could face oversupply beginning in 2029 as new manufacturing capacity starts coming online. The argument is that South Korea has become increasingly dependent on Samsung and SK Hynix, and that the country has roughly two to three years to develop other growth industries before the memory cycle potentially reverses. Now, I think this is something investors should absolutely pay attention to but here's where I disagree with the panic.\n\nWe're talking about a potential oversupply problem in 2029 while the industry is still struggling to meet demand TODAY. Memory manufacturers are already dealing with capacity constraints, AI customers are securing long term supply agreements, and demand for HBM continues to grow as Nvidia $NVDA and other AI chipmakers push toward increasingly memory intensive systems. And people need to understand that building additional manufacturing capacity doesn't automatically mean we're going to have an oversupply problem. These fabs take years to construct, equipment needs to be installed, production yields need to improve, and manufacturers still have to qualify their products with customers. Not to mention, HBM manufacturing is substantially more complicated than traditional DRAM, and not all additional memory capacity can immediately be used to produce the most advanced AI memory products.\n\nNow, could we eventually see oversupply in 2029? ABSOLUTELY. Memory is a cyclical industry and I've never argued that these companies will enjoy record pricing and margins forever. But there's a massive difference between acknowledging that possibility and acting like the memory cycle is already over. I still believe the fundamentals of the memory trade remain incredibly strong, especially for companies positioned to benefit from HBM and the broader AI infrastructure buildout. Bullish on memory and if you want to see how I’m investing through this selloff and check out my full  portfolio below. https://t.co/Hkywss4Ugh"
+    },
+    {
+      "tweetId": "2110185931130999165",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2110185931130999165",
+      "tweetedAt": "2026-10-14T01:48:25.000Z",
+      "bestBit": "A basic DRAM chip that cost $6.30 a year ago went for about $26 at the end of September",
+      "text": "🦔Global smartphone shipments fell 20% in the third quarter from a year ago, the weakest third quarter since 2012, according to Counterpoint Research. Memory chip prices shot up, phone makers passed the cost along, and phone prices are up about 20% this year.\n\nMy Take\nAI data centers are outbidding regular people for memory chips. A basic DRAM chip that cost $6.30 a year ago went for about $26 at the end of September, and NAND storage runs about eight times what it did. Samsung posted a record $80 billion operating profit last quarter on the back of those prices, while phone sales shrink. It's basically an AI tax in the price of your next phone and laptop, even if you never touch a chatbot.\n\nI don’t think it lasts forever. Memory booms usually end with too many factories, and China’s CXMT should have almost as much capacity as Micron by the end of this year. My guess is phone prices start easing sometime in 2027 once that supply shows up. Until then, a $90 battery replacement beats a $1,000 phone, and a lot of people are reaching the same conclusion.\n\nHedgie🤗"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "global-smartphone-shipments-plunge-20percent-to-14-year-low-8e30d2fa",
+    "title": "Global Smartphone Shipments Plunge 20% to 14 Year Low",
+    "publishedAt": "2026-10-12T14:24:04.870Z",
+    "eventTimeApprox": "2026-10-12T13:57:01.500Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 21,
+    "authorCount": 15
+  }
+}

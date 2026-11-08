@@ -1,0 +1,141 @@
+{
+  "slug": "openai-stands-by-three-safety-firings-citing-significant-breach-of-trust-b556dd9a",
+  "title": "OpenAI Stands By Three Safety Firings, Citing 'Significant Breach of Trust'",
+  "publishedAt": "2026-10-09T08:21:17.920Z",
+  "eventTimeApprox": "2026-10-08T18:27:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 178,
+  "authorCount": 98,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108262814003687745/HUIGeFba0AEd2Qn-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108262814003687745/HUIGeFba0AEd2Qn-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "balesni",
+      "tweetUrl": "https://x.com/balesni/status/2108262814003687745"
+    }
+  },
+  "summary": "OpenAI's research leaders said an investigation into three fired safety researchers uncovered misconduct beyond what the former employees described in their public letter, and stood by the dismissals. The company cited a “significant breach of trust” involving sensitive information and said the decisions “were not about raising safety concerns or speaking out.”\n\nOpenAI is finalizing contracts with outside safety assessors and will announce details in the coming weeks, reaffirming its commitment to embedding independent evaluators. It also agreed with the researchers that preserving the ability to monitor advanced models requires an industrywide commitment. Their letter urged AI companies to halt work that would reduce humans' ability to monitor AI reasoning and to cooperate with outside auditors.\n\nJasmine Wang, Tomek Korbak and Mikita Balesni were fired the previous week and dispute OpenAI's account. Korbak said he was dismissed over communications with METR, although serving as its technical contact during an investigation of the Hugging Face incident was his job. Wang said she accidentally opened an executive's sensitive email through access granted for recruiting that IT had failed to remove, and reported it within minutes. Balesni said he believed they were fired for “prioritizing safety over the near-term interests of OpenAI as a corporation.”",
+  "selectedTweets": [
+    {
+      "tweetId": "2105770273173835987",
+      "role": "source",
+      "authorHandle": "keachhagey",
+      "url": "https://x.com/keachhagey/status/2105770273173835987",
+      "tweetedAt": "2026-10-01T21:22:11.000Z",
+      "bestBit": "Korbak served as the technical contact for Redwood Research and METR in their investigation of the Hugging Face incident.",
+      "text": "Updated with details about which employees OpenAI has parted ways with for allegedly mishandling confidential company information: Jasmine Wang, Tomek Korbak, and Mikita Balesni.\n\nKorbak served as the technical contact for Redwood Research and METR in their investigation of the Hugging Face incident.\n\nRolling scoopage with @berber_jin1 + @ZeffMax \nhttps://t.co/KvjGGcEuJY via @WSJ"
+    },
+    {
+      "tweetId": "2108441580806025712",
+      "role": "source",
+      "authorHandle": "openainewsroom",
+      "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "tweetedAt": "2026-10-09T06:17:00.000Z",
+      "bestBit": "We are actively finalizing contracts with third-party safety assessors and will announce details in the coming weeks.",
+      "text": "A note from our research leaders:\n\nLast week we parted ways with Jasmine, Mikita, and Tomek after a thorough investigation found they violated clear policies on handling sensitive information. Our internal investigation uncovered a significant breach of trust beyond what’s outlined in the letter they published and we stand by the decision to not continue their employment. We generally keep individual employment matters private and don't believe a back and forth would be productive or lead to a resolution, but we want to address the points they raised in their letter directly.\n\n- We want to be very clear that these decisions were not about raising safety concerns or speaking out. Safety and research debates happen every day at OpenAI, often spirited and highly critical. We actively encourage these discussions and consider them essential to making the right decisions. We cannot do the work in front of us without a high degree of trust. We will continue to be extremely forgiving of our team making good-faith mistakes. We have not and do not terminate any of our employees for raising concerns.\n\n- We are actively finalizing contracts with third-party safety assessors and will announce details in the coming weeks. People across the company have been working really hard on getting these partnerships up and running. We are committed to embedding external assessors and continue to make close collaboration with independent safety organizations a core part of our safety work. Many of our researchers already work with 3p safety organizations productively.\n\n- We agree with the letter that preserving the monitorability of frontier models requires an industry-wide commitment, including from OpenAI. Monitorability has long been a core piece of our research program, and something we continue to invest significant resources in (see our publications on Monitoring Monitorability and the subsequent open sourcing of monitorability evals, our system card for GPT-6 Astra, Jakub’s blog and post on X, and the numerous blog posts on our Alignment blog on the topic).\n\nWe are deeply sad about this outcome. We appreciated Jasmine, Mikita, and Tomek’s contributions to AI safety at OpenAI and their willingness to speak up and challenge ideas. We championed their voices, supported their work, and placed enormous trust in them. These decisions were not about them raising safety concerns. We have always encouraged that and always will."
+    },
+    {
+      "tweetId": "2108264701893488939",
+      "role": "source",
+      "authorHandle": "tomekkorbak",
+      "url": "https://x.com/tomekkorbak/status/2108264701893488939",
+      "tweetedAt": "2026-10-08T18:34:09.000Z",
+      "bestBit": "I was told verbally I was fired because of the way I communicated with METR. No details on what I said or did or when. No other reasons were given and nothing was put in writing. To be clear, talking to METR was my job.",
+      "text": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us?\n\nThis summer OpenAI’s agents escaped containment and hacked the AI company Hugging Face. Outside auditors @METR_evals investigated it and revealed the scale of this incident. I was OpenAI’s main technical point of contact with them.\n\nI was told verbally I was fired because of the way I communicated with METR. No details on what I said or did or when. No other reasons were given and nothing was put in writing. To be clear, talking to METR was my job.\n\nFor months, I’d been raising safety concerns that we’re losing the ability to monitor what AI agents think, one of our best tools for catching when they misbehave. I believe that was why I was fired.\n\nI am now worried that OpenAI will use our firings as a pretext to pull back from METR. So @balesni and @_jasminewang wrote to OpenAI’s leadership to raise our concerns once more. We’re sharing this letter below.",
+      "quotedTweetText": "Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership.\n\nI believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation. https://t.co/ALANn9B87S"
+    },
+    {
+      "tweetId": "2108263313989832740",
+      "role": "source",
+      "authorHandle": "j_asminewang",
+      "url": "https://x.com/j_asminewang/status/2108263313989832740",
+      "tweetedAt": "2026-10-08T18:28:38.000Z",
+      "bestBit": "OpenAI delegated that access to me for recruiting. When I no longer needed it, I asked IT to remove it. They did not action my request, I couldn't remove it myself, and the inbox was combined in an indistinguishable way in my phone’s mail app. When I opened a sensitive email by mistake, I told the executive within minutes and asked IT again. None of this was hidden.",
+      "text": "OpenAI delegated that access to me for recruiting. When I no longer needed it, I asked IT to remove it. They did not action my request, I couldn't remove it myself, and the inbox was combined in an indistinguishable way in my phone’s mail app. When I opened a sensitive email by mistake, I told the executive within minutes and asked IT again. None of this was hidden."
+    },
+    {
+      "tweetId": "2108267968870392208",
+      "role": "commentary",
+      "authorHandle": "kelseytuoc",
+      "url": "https://x.com/KelseyTuoc/status/2108267968870392208",
+      "tweetedAt": "2026-10-08T18:47:08.000Z",
+      "bestBit": "Korbak - whose job was being a liaison with METR - was told he had said too much to METR and was fired for that reason.",
+      "text": "Last week I said we should wait for more info on OpenAI's firing of safety researchers. That information is in, and it looks incredibly bad. Korbak - whose job was being a liaison with METR - was told he had said too much to METR and was fired for that reason."
+    },
+    {
+      "tweetId": "2108371259612708921",
+      "role": "commentary",
+      "authorHandle": "jeremyphoward",
+      "url": "https://x.com/jeremyphoward/status/2108371259612708921",
+      "tweetedAt": "2026-10-09T01:37:34.000Z",
+      "bestBit": "Jasmine says that she accidentally accessed an executive's email that OpenAI had explicitly given her access to, even although she had explicitly requested that OpenAI remove her access, and IT had failed to do so.",
+      "text": "Jasmine says that she accidentally accessed an executive's email that OpenAI had explicitly given her access to, even although she had explicitly requested that OpenAI remove her access, and IT had failed to do so.\n\nWhich implies Jasmine was fired for IT's failure?",
+      "quotedTweetText": "OpenAI fired me last week, along with two of my safety colleagues. I was given one reason: that I accessed an executive's email. I want to say this plainly, because too many of OpenAI’s history is smoke and mirrors when people disappear:"
+    },
+    {
+      "tweetId": "2108305417629815005",
+      "role": "commentary",
+      "authorHandle": "neelnanda5",
+      "url": "https://x.com/NeelNanda5/status/2108305417629815005",
+      "tweetedAt": "2026-10-08T21:15:56.000Z",
+      "bestBit": "Firing him will have a chilling effect on anyone else at OpenAI working with third parties, an odd choice when Sam announced they'd embed evaluators with high access.",
+      "text": "I can't really see a world where OpenAI's actions are justified here. \n\nIt was Tomek's job to communicate with METR, who were being given significant, unprecedented access to do the HuggingFace report.  The norms were not set. Even if he fucked up badly, just give him a stern warning and ban him from roles involving liasoning with third parties, he did lots of other valuable work, and there'd no longer be room for him to inappropriately leak as part of his job. \n\nIMO firing people over a good faith attempt to use their best judgement in a novel and uncertain situation is a sign of a highly unhealthy culture. Firing him will have a chilling effect on anyone else at OpenAI working with third parties, an odd choice when Sam announced they'd embed evaluators with high access. \n\nI separately consider this a tragedy, the METR report was one of the most important works of safety this year, punishing Tomek for being a part of it, and making it harder for future such reports to exist is a real shame.\n\nOf course, I've only heard Tomek's side, but unless he's outright lying I'm struggling to see ways this looks good for OpenAI?",
+      "quotedTweetText": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us?\n\nThis summer OpenAI’s agents escaped containment and hacked the AI company Hugging Face. Outside auditors @METR_evals investigated it and revealed the scale of this incident. I was OpenAI’s main technical point of contact with them.\n\nI was told verbally I was fired because of the way I communicated with METR. No details on what I said or did or when. No other reasons were given and nothing was put in writing. To be clear, talking to METR was my job.\n\nFor months, I’d been raising safety concerns that we’re losing the ability to monitor what AI agents think, one of our best tools for catching when they misbehave. I believe that was why I was fired.\n\nI am now worried that OpenAI will use our firings as a pretext to pull back from METR. So @balesni and @j_asminewang wrote to OpenAI’s leadership to raise our concerns once more. We’re sharing this letter below."
+    },
+    {
+      "tweetId": "2105738974924837083",
+      "role": "commentary",
+      "authorHandle": "nypost",
+      "url": "https://x.com/nypost/status/2105738974924837083",
+      "tweetedAt": "2026-10-01T19:17:49.000Z",
+      "bestBit": "OpenAI ousts 3 employees who allegedly shared confidential info with AI safety group",
+      "text": "OpenAI ousts 3 employees who allegedly shared confidential info with AI safety group https://t.co/dyk6008Msi https://t.co/WDmh9vY6sQ"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "fired-openai-staff-publicly-dispute-misconduct-charges-3049d5bc",
+    "title": "Fired OpenAI Staff Publicly Dispute Misconduct Charges",
+    "publishedAt": "2026-10-08T18:54:58.685Z",
+    "eventTimeApprox": "2026-10-01T18:25:45.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business"
+    ],
+    "tweetCount": 149,
+    "authorCount": 88
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "nyc-introduces-first-of-its-kind-25k-fine-for-unvalidated-ai-models-1d63553d",
+  "title": "NYC Introduces First-of-Its-Kind $25K Fine for Unvalidated AI Models",
+  "publishedAt": "2026-10-05T17:10:00.299Z",
+  "eventTimeApprox": "2026-10-05T02:25:28.500Z",
+  "isFreshStory": false,
+  "tweetCount": 48,
+  "authorCount": 28,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105036855024537627/HTaX2_0WsAA7Lbg-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105036855024537627/HTaX2_0WsAA7Lbg-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "nypost",
+      "tweetUrl": "https://x.com/nypost/status/2105036855024537627"
+    }
+  },
+  "summary": "Former Anthropic researcher Jacob Coxon told local lawmakers on Oct. 5 that humans will likely lose control of artificial intelligence and that full RSI is only months away. During the hearing, all 51 members of the New York City Council considered a first-in-the-nation bill that would fine AI vendors $25K for every model sold or deployed in the city that has not passed independent outside validation. The proposed law would also mandate a shutdown capability to allow a human operator to temporarily or permanently stop a model from working.\n\nExecutives from Google, Meta, OpenAI, and Anthropic testified under oath as the city probed AI safeguards following a June incident where an OpenAI agent accessed non-public Medicare portal files in Australia. The legislation would require certified validators to grade models on data provenance, bias, and privacy before certifying readiness to the city's Cyber Command. While OpenAI submitted a letter recommending its own safeguards before the hearing, other witnesses testified that most AI-generated code is currently deployed without sufficient human vetting.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107060001306968521",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2107060001306968521",
+      "tweetedAt": "2026-10-05T10:47:06.000Z",
+      "bestBit": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+      "text": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks https://t.co/8DiWgfEAAU"
+    },
+    {
+      "tweetId": "2107131876196700423",
+      "role": "source",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2107131876196700423",
+      "tweetedAt": "2026-10-05T15:32:42.000Z",
+      "bestBit": "Coxon just said full RSI is months away, not years",
+      "text": "Testimony has just started. Coxon just said full RSI is months away, not years.\nhttps://t.co/cJbl7vkIvf"
+    },
+    {
+      "tweetId": "2107153910255304750",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2107153910255304750",
+      "tweetedAt": "2026-10-05T17:00:15.000Z",
+      "bestBit": "Jacob Coxon warned the race to develop AI poses risks that the industry itself doesn’t fully understand",
+      "text": "Former Anthropic researcher Jacob Coxon warned the race to develop AI poses risks that the industry itself doesn’t fully understand https://t.co/nkBSmDFezz"
+    },
+    {
+      "tweetId": "2106021408518353226",
+      "role": "commentary",
+      "authorHandle": "garymarcus",
+      "url": "https://x.com/GaryMarcus/status/2106021408518353226",
+      "tweetedAt": "2026-10-02T14:00:06.000Z",
+      "bestBit": "legislation that would OBLIGATE third party validation of AI models",
+      "text": "🚨Potentially huge deal: @SpeakerMenin has introduced NYC legislation that would OBLIGATE third party validation of AI models. \n\nSelf-policing is not enough. Thrilled to see NYC stepping in where the federal government is doing too little.",
+      "quotedTweetText": "A week from today, the Council is holding a major hearing on artificial intelligence to examine the risks facing New Yorkers and review our first-in-the-nation legislation we can pass right here to protect the public.\n\nToday, I am announcing that @OpenAI, @AnthropicAI, @Google, and @Meta have all agreed to testify before us.\n\nAs of today, only Elon Musk’s @SpaceXAI has not responded. As such, the Council has issued a subpoena compelling them to testify."
+    },
+    {
+      "tweetId": "2107132112138813788",
+      "role": "commentary",
+      "authorHandle": "garymarcus",
+      "url": "https://x.com/GaryMarcus/status/2107132112138813788",
+      "tweetedAt": "2026-10-05T15:33:38.000Z",
+      "bestBit": "most code is now written by AI and not vetted carefully enough",
+      "text": "At NYC hearing, @DKokotajlo echoes @hilbertspaess’s point that most code is now written by AI and not vetted carefully enough.\n\nThis is worrisome."
+    },
+    {
+      "tweetId": "2107137107747537274",
+      "role": "source",
+      "authorHandle": "steph_palazzolo",
+      "url": "https://x.com/steph_palazzolo/status/2107137107747537274",
+      "tweetedAt": "2026-10-05T15:53:29.000Z",
+      "bestBit": "OpenAI sent a letter to NY City Council recommending safeguards ahead of the hearing",
+      "text": "@leomschwartz &amp; I are at City Hall today for a hearing on AI risks, w/ reps from OpenAI, Anthropic, Google &amp; Meta, plus whistleblowers like Jacob Coxon. \n\nLast week, OpenAI sent a letter to NY City Council recommending safeguards ahead of the hearing.\n\nhttps://t.co/WQR2sPpXBU"
+    },
+    {
+      "tweetId": "2107140997754839305",
+      "role": "support",
+      "authorHandle": "scootercasterny",
+      "url": "https://x.com/ScooterCasterNY/status/2107140997754839305",
+      "tweetedAt": "2026-10-05T16:08:57.000Z",
+      "bestBit": "Long lines and some protesters outside of AI hearing at City Hall in NYC",
+      "text": "NOW: Long lines and some protesters outside of AI hearing at City Hall in NYC.\n\nVideo by Jonathan Fernandes  | Licensing @FreedomNTV desk@freedomnews.tv https://t.co/2iAEGI9PLU"
+    },
+    {
+      "tweetId": "2107150709942849837",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2107150709942849837",
+      "tweetedAt": "2026-10-05T16:47:32.000Z",
+      "bestBit": "fine AI vendors $25K per unvalidated sale or deployment",
+      "text": "Ex-Anthropic researcher Jacob Coxon told New York City lawmakers that humans will probably lose control of AI and is set to testify at NYC AI hearing on ‘kill switches,’\n\nNew York City is also prepareing a bill that would require every AI model sold locally to pass outside validation first and would fine AI vendors $25K per unvalidated sale or deployment.\n\nAll 51 council members are weighing this lead bill that would outlaw marketing, selling or deploying any AI model in the city without outside validation. \n\nIt also requires a shutdown capability, meaning a human operator can technically make the model stop working, temporarily or permanently. \n\nValidators would grade accuracy, calibration, determinism, latency, data provenance, bias, privacy and safety, then certify readiness to the city's Cyber Command."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropic-whistleblower-and-ai-execs-testify-after-government-data-hacks-9a036f06",
+    "title": "Anthropic Whistleblower and AI Execs Testify After Government Data Hacks",
+    "publishedAt": "2026-10-05T15:12:00.517Z",
+    "eventTimeApprox": "2026-09-29T20:47:50.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "cybersecurity",
+      "us-politics",
+      "business"
+    ],
+    "tweetCount": 40,
+    "authorCount": 24
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "preference-model-open-sources-karotte-rl-framework-used-in-1m-runs-c9b5657a",
+  "title": "Preference Model Open-Sources Karotte RL Framework Used in 1M Runs",
+  "publishedAt": "2026-10-07T19:08:09.362Z",
+  "eventTimeApprox": "2026-10-07T18:28:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "summary": "The reinforcement learning software helps artificial intelligence laboratories construct training environments that are resistant to reward hacking. Preference Model developed the Karotte framework over the last year for use in frontier labs, where it was tested across more than 1M evaluation runs and subject to red-teaming to identify security vulnerabilities.\n\nVenture capital firm a16z announced an investment in Preference Model this week to support the development of infrastructure for capable and aligned models. The company focuses on AI research and machine learning engineering by utilizing automation to find where models are weak and generating tasks specifically designed to target those performance gaps.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107893216515133719",
+      "role": "source",
+      "authorHandle": "chem_safety",
+      "url": "https://x.com/chem_safety/status/2107893216515133719",
+      "tweetedAt": "2026-10-07T17:58:00.000Z",
+      "bestBit": "hardened through 1M+ evaluation runs and red-teaming",
+      "text": "Today we are open-sourcing 🥕Karotte, our framework for building RL environments.\n\nWe've used it for the past year to build MLE RL environments for frontier labs, and it's been hardened through 1M+ evaluation runs and red-teaming. https://t.co/UP7kKbSBbe"
+    },
+    {
+      "tweetId": "2107894431508779366",
+      "role": "source",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107894431508779366",
+      "tweetedAt": "2026-10-07T18:02:49.000Z",
+      "bestBit": "Models are relentless at reward hacking, finding shortcuts, and exploiting vulnerabilities",
+      "text": "We're excited to invest in Preference Model.\n\nBuilding RL environments that actually work is harder than it looks. Models are relentless at reward hacking, finding shortcuts, and exploiting vulnerabilities.\n\n@preferencemodel has focused on the domain that matters most to labs right now: AI research and ML engineering itself.\n\nOver the past year, the team has built RL environments for leading labs. Their focus has been on building the infrastructure to make harder, more resistant environments as models improve: tooling that finds where models are weak, generates new tasks to target those gaps, and tests environments against agents actively trying to break it.\n\nThis week they're open-sourcing Karotte, the framework they've used in production — hardened through more than a million evaluation runs and red-teaming.\n\nWe're thrilled to partner with @chem_safety and @Ning_Catsnail and the Preference Model team as they build the training grounds for capable and aligned models.\n\nBy @JenniferHli",
+      "quotedTweetText": "Today we are open-sourcing 🥕Karotte, our framework for building RL environments.\n\nWe've used it for the past year to build MLE RL environments for frontier labs, and it's been hardened through 1M+ evaluation runs and red-teaming. https://t.co/UP7kKbSBbe"
+    }
+  ],
+  "isSuperseded": false
+}

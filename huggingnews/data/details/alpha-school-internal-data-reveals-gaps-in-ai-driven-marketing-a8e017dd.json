@@ -1,0 +1,41 @@
+{
+  "slug": "alpha-school-internal-data-reveals-gaps-in-ai-driven-marketing-a8e017dd",
+  "title": "Alpha School Internal Data Reveals Gaps in 'A.I.-Driven' Marketing",
+  "publishedAt": "2026-10-23T14:38:07.087Z",
+  "eventTimeApprox": "2026-10-23T14:20:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "summary": "Journalist Dana Goldstein published an investigation into Alpha School that reveals the network's internal learning and enrollment data for the first time. The report alleges a disconnect between the school's \"A.I.-driven\" marketing claims and the reality of its internal operations.\n\nThe disclosure comes as the school network expands its reach into the public education sector.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113596166591910344",
+      "role": "source",
+      "authorHandle": "danagoldstein",
+      "url": "https://x.com/DanaGoldstein/status/2113596166591910344",
+      "tweetedAt": "2026-10-23T11:39:29.000Z",
+      "bestBit": "My deep dive on the \"A.I.-driven\" Alpha School, revealing their internal learning and enrollment data for the first time, just as the network expands into public education.",
+      "text": "My deep dive on the \"A.I.-driven\" Alpha School, revealing their internal learning and enrollment data for the first time, just as the network expands into public education. \n\nThere is a big gap between the marketing and reality.\n\nhttps://t.co/2U4aJrm04v"
+    }
+  ],
+  "isSuperseded": false
+}

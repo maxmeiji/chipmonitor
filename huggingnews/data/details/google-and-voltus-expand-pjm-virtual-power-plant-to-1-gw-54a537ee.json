@@ -1,0 +1,69 @@
+{
+  "slug": "google-and-voltus-expand-pjm-virtual-power-plant-to-1-gw-54a537ee",
+  "title": "Google and Voltus Expand PJM Virtual Power Plant to 1 GW",
+  "publishedAt": "2026-10-23T01:39:47.228Z",
+  "eventTimeApprox": "2026-10-22T20:28:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "tech",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "energy-markets",
+      "name": "Energy Markets"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Google and Voltus are growing their joint capacity to manage distributed energy resources within the United States' largest electricity market. The two companies are scaling their virtual power plant (VPP) initiative in the PJM region to more than 1 GW, up from 100MW, to better balance power loads for large data centers. This tenfold increase in capacity allows the firms to integrate a wider array of distributed assets into the grid.\n\nThe expansion signals a move toward flexible data center operations that can adjust electricity draw based on demand. By aggregating small-scale power sources to function as a single utility-scale plant, the project reflects growing confidence in the ability of VPP technology to maintain grid stability for hyperscale users.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113287901857403280",
+      "role": "source",
+      "authorHandle": "ben_geman",
+      "url": "https://x.com/Ben_Geman/status/2113287901857403280",
+      "tweetedAt": "2026-10-22T15:14:33.000Z",
+      "bestBit": "Google and distributed #energy player Voltus are greatly expanding their virtual power plant initiative in PJM to north of 1 gigawatt",
+      "text": "⚡ICYMI in this morning's @axios Future of Energy newsletter, #Google and distributed #energy player Voltus are greatly expanding their virtual power plant initiative in PJM to north of 1 gigawatt. (1/3)"
+    },
+    {
+      "tweetId": "2113366805037121982",
+      "role": "commentary",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2113366805037121982",
+      "tweetedAt": "2026-10-22T20:28:05.000Z",
+      "bestBit": "This Voltus-Google deal is going from 100MW to 1GW (yes, 10x!), that's a HUGE win",
+      "text": "This Voltus-Google deal is going from 100MW to 1GW (yes, 10x!), that's a HUGE win. Huge sign of confidence in VPPs and confidence from a very aggressive hyper. Props to @JigarShahDC for calling this out as an avenue for most of the last few years.\n\nThe era of flexible data centers is here",
+      "quotedTweetText": "⚡ICYMI in this morning's @axios Future of Energy newsletter, #Google and distributed #energy player Voltus are greatly expanding their virtual power plant initiative in PJM to north of 1 gigawatt. (1/3)"
+    }
+  ],
+  "isSuperseded": false
+}

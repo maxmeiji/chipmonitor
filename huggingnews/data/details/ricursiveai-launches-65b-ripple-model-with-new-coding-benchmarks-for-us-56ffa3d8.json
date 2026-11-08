@@ -1,0 +1,73 @@
+{
+  "slug": "ricursiveai-launches-65b-ripple-model-with-new-coding-benchmarks-for-us-56ffa3d8",
+  "title": "RicursiveAI Launches 65B Ripple Model With New Coding Benchmarks for U.S. Open-Weight AI",
+  "publishedAt": "2026-11-04T18:52:28.144Z",
+  "eventTimeApprox": "2026-11-04T18:41:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 67,
+  "authorCount": 44,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118052356495389041/HWTUqMEWMAAtigi-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118052356495389041/HWTUqMEWMAAtigi-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "teortaxestex",
+      "tweetUrl": "https://x.com/teortaxesTex/status/2118052356495389041"
+    }
+  },
+  "summary": "A new open-weight large language model developed by RicursiveAI is targeting the top performance ranking for U.S.-based AI in agentic coding tasks. The company says the Ripple-65B Preview, which has 65B parameters and was pretrained from scratch, exceeds the capabilities of models with far higher parameter counts, including Nemotron 3 Ultra-550B and Inkling-975B.\n\nThe model was developed with a $32M compute budget, which RicursiveAI says enabled a 16x increase in compute efficiency. While some researchers credited the release as a successful effort by a small, focused U.S. team, others have questioned the company's benchmarks, arguing that the model's performance is lower than that of the 284B parameter V4 Flash.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118046765857546733",
+      "role": "source",
+      "authorHandle": "ricursiveai",
+      "url": "https://x.com/RicursiveAI/status/2118046765857546733",
+      "tweetedAt": "2026-11-04T18:24:35.000Z",
+      "bestBit": "Ripple sets a new state-of-the-art for U.S. open-weight models in agentic coding tasks, surpassing significantly larger models including Muse Spark Open-816B, Beam-501B, Inkling-975B, and Nemotron 3 Ultra-550B.",
+      "text": "Today we release Ripple-65B Preview, our 65B dense LLM we pretrained from scratch.\n\nRipple sets a new state-of-the-art for U.S. open-weight models in agentic coding tasks, surpassing significantly larger models including Muse Spark Open-816B, Beam-501B, Inkling-975B, and Nemotron 3 Ultra-550B.\n\nLearn more: https://t.co/Pe04ZKhkE9"
+    },
+    {
+      "tweetId": "2118052356495389041",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2118052356495389041",
+      "tweetedAt": "2026-11-04T18:46:47.000Z",
+      "bestBit": "But it actually loses to V4 Flash 284B?",
+      "text": "1) what\n2) 65B dense? \n3) \"16x compute efficiency\"?\n3) \"only $32M compute budget?\" \n4) But it actually loses to V4 Flash 284B? \nwhat's going on here https://t.co/KGSsqfX1zC",
+      "quotedTweetText": "Today we release Ripple-65B Preview, our 65B dense LLM we pretrained from scratch.\n\nRipple sets a new state-of-the-art for U.S. open-weight models in agentic coding tasks, surpassing significantly larger models including Muse Spark Open-816B, Beam-501B, Inkling-975B, and Nemotron 3 Ultra-550B.\n\nLearn more: https://t.co/Pe04ZKhkE9"
+    },
+    {
+      "tweetId": "2118049168967290897",
+      "role": "commentary",
+      "authorHandle": "natolambert",
+      "url": "https://x.com/natolambert/status/2118049168967290897",
+      "tweetedAt": "2026-11-04T18:34:07.000Z",
+      "bestBit": "Hoping more US labs follow suit, showing they can also make solid models with small focused teams.",
+      "text": "Love this scrappy project. Hoping more US labs follow suit, showing they can also make solid models with small focused teams. This also intellectually follows on the olmo lineage, so super cool to see what our baby looks like scaled up.",
+      "quotedTweetText": "Today we release Ripple-65B Preview, our 65B dense LLM we pretrained from scratch.\n\nRipple sets a new state-of-the-art for U.S. open-weight models in agentic coding tasks, surpassing significantly larger models including Muse Spark Open-816B, Beam-501B, Inkling-975B, and Nemotron 3 Ultra-550B.\n\nLearn more: https://t.co/Pe04ZKhkE9"
+    }
+  ],
+  "isSuperseded": false
+}

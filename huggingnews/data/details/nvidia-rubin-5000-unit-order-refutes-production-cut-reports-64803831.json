@@ -1,0 +1,90 @@
+{
+  "slug": "nvidia-rubin-5000-unit-order-refutes-production-cut-reports-64803831",
+  "title": "Nvidia Rubin 5,000 Unit Order Refutes Production Cut Reports",
+  "publishedAt": "2026-10-13T03:39:51.984Z",
+  "eventTimeApprox": "2026-10-13T00:02:30.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "rumors",
+      "name": "Rumors"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The actual shipment volume for the latest AI platform from Nvidia was the baseline amount planned for this year. Delivery numbers for the Rubin platform show that 5,000 systems were always the intended volume for 2026, rather than a result of a production decrease from 10,000 units. This clarification disputes earlier reports that original design manufacturers were failing to meet an inflated target.\n\nPrevious claims attributed the alleged shortfall to yield and capacity constraints. Those reports specifically cited shortages in GPUs, power systems, and orthogonal backplanes as bottlenecks limiting the scale of the product rollout. Updated data suggests these components did not lead to a downward revision of the initial order book.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109791845542990332",
+      "role": "source",
+      "authorHandle": "g2aistack",
+      "url": "https://x.com/G2AIStack/status/2109791845542990332",
+      "tweetedAt": "2026-10-12T23:42:28.000Z",
+      "bestBit": "Rubin shipment expectations have been cut from roughly 10,000 systems to around 5,000, mainly due to yield and capacity constraints affecting GPUs, orthogonal backplanes, power systems, and related components.",
+      "text": "Rubin shipment expectations have been cut from roughly 10,000 systems to around 5,000, mainly due to yield and capacity constraints affecting GPUs, orthogonal backplanes, power systems, and related components. \nOur checks with ODMs confirm that Rubin shipments are indeed falling short of expectations."
+    },
+    {
+      "tweetId": "2109792838724817133",
+      "role": "commentary",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2109792838724817133",
+      "tweetedAt": "2026-10-12T23:46:25.000Z",
+      "bestBit": "Rubin shipment expectations have been cut from roughly 10,000 systems to around 5,000",
+      "text": "\"Rubin shipment expectations have been cut from roughly 10,000 systems to around 5,000\"\n\nIt's over.",
+      "quotedTweetText": "Rubin shipment expectations have been cut from roughly 10,000 systems to around 5,000, mainly due to yield and capacity constraints affecting GPUs, orthogonal backplanes, power systems, and related components. \nOur checks with ODMs confirm that Rubin shipments are indeed falling short of expectations."
+    },
+    {
+      "tweetId": "2109844468614746138",
+      "role": "commentary",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2109844468614746138",
+      "tweetedAt": "2026-10-13T03:11:34.000Z",
+      "bestBit": "Rubin今年的出货量是5,000台。这个数字本身没错，但据说并没有下调，原本的订单量就是5,000台。",
+      "text": "@tuolaji2024 我核实了一下，Rubin今年的出货量是5,000台。这个数字本身没错，但据说并没有下调，原本的订单量就是5,000台。"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nvidia-rubin-shipment-expectations-cut-to-5000-systems-from-10000-a9fc5e53",
+    "title": "Nvidia Rubin Shipment Expectations Cut to 5,000 Systems from 10,000",
+    "publishedAt": "2026-10-13T00:37:50.080Z",
+    "eventTimeApprox": "2026-10-12T23:46:25.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "business"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

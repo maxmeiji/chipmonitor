@@ -1,0 +1,143 @@
+{
+  "slug": "update-openai-math-papers-destroyed-careers-nyu-professor-says-3ef326f8",
+  "title": "UPDATE: OpenAI Math Papers Destroyed Careers, NYU Professor Says",
+  "publishedAt": "2026-10-09T20:07:30.105Z",
+  "eventTimeApprox": "2026-10-07T14:11:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 310,
+  "authorCount": 173,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107632427892195347/HT_O7nIa4AAmPqO-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107632427892195347/HT_O7nIa4AAmPqO-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "rohanpaul_ai",
+      "tweetUrl": "https://x.com/rohanpaul_ai/status/2107632427892195347"
+    }
+  },
+  "summary": "NYU math professor Tristan Buckmaster said he had heard of three people whose entire research programs were “obliterated” by OpenAI’s Oct. 6 release of 722 AI-generated mathematical manuscripts. “This recent dump of papers on Tuesday destroyed the careers of early career mathematicians. We had whole research programs wiped out,” he said. The Verge interviewed more than three dozen mathematicians, with others reporting that grant proposals had been wiped out and some results could have put human researchers in contention for a Fields Medal.\n\nBuckmaster also accused OpenAI of a conflict of interest, alleging that research proposals summarized by panelists using AI end up in its training data. “They have all the mathematicians and scientists' research programs in their training data and how they're going to go about it,” he said. The release contains 372 families of related results from an unreleased internal model, rather than solutions to 722 separate open problems. OpenAI has withdrawn three manuscripts and revised 14 others.\n\nOther researchers are building on the work. Rohan Arun published four improvements covering van der Waerden, Sidorenko, unit distances and matrix multiplication, including a conditional 500-fold increase in an exponent coefficient for the van der Waerden result. Separately, contributor SJ Swapnil Jain raised the exponent saving parameter in OpenAI’s theoretical integer multiplication bound to 6.6857 × 10⁻⁴ from the original 2⁻¹⁸². The increase concerns a parameter, not practical multiplication speed. Jain wrote, “We seem to be approaching a wall. Gains now come in fractions of a percent.”",
+  "selectedTweets": [
+    {
+      "tweetId": "2108623530116178422",
+      "role": "source",
+      "authorHandle": "thursdai_pod",
+      "url": "https://x.com/thursdai_pod/status/2108623530116178422",
+      "tweetedAt": "2026-10-09T18:20:00.000Z",
+      "bestBit": "@ldjconfirmed counts results on 92 of the 500 most important open problems.",
+      "text": "OpenAI pushed 722 math manuscripts to GitHub from a model nobody outside OpenAI can use. @ldjconfirmed counts results on 92 of the 500 most important open problems.\n\nMathematicians are split. @altryne, @petergostev and @yampeleg on why 👇\nhttps://t.co/1l5XHzDnWi"
+    },
+    {
+      "tweetId": "2107596713791767021",
+      "role": "source",
+      "authorHandle": "openai",
+      "url": "https://x.com/OpenAI/status/2107596713791767021",
+      "tweetedAt": "2026-10-06T22:19:48.000Z",
+      "bestBit": "We’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public recommendations to inform how we release these results.",
+      "text": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nWe’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public recommendations to inform how we release these results. \n\nhttps://t.co/7N6TPlft1P"
+    },
+    {
+      "tweetId": "2108523972589429069",
+      "role": "source",
+      "authorHandle": "rohanarun",
+      "url": "https://x.com/RohanArun/status/2108523972589429069",
+      "tweetedAt": "2026-10-09T11:44:24.000Z",
+      "bestBit": "Wow we just also published 4 new improvements on the OpenAI papers!\n\nvan der Waerden: 500× exponent coefficient (conditional)",
+      "text": "Wow we just also published 4 new improvements on the OpenAI papers!\n\nvan der Waerden: 500× exponent coefficient (conditional)\n\nSidorenko: tighter counting\n\nUnit distances: smaller proof grid\n\nMatrix multiplication: sector-method limits\n\nhttps://t.co/Nafm6EKAxt\nhttps://t.co/McCUimTUcB\nhttps://t.co/WlPVLrZfNz\nhttps://t.co/Ku6OAT8UJN",
+      "quotedTweetText": "Validated and merged Rohan's PR. Big gain on a really difficult regime (that frankly I was stuck at). Incredible work.\n\nκ = 2⁻¹⁵  (tightened from κ = 2⁻¹⁸²)\n\nA 500 thousand fold improvement over the previous result and a 2 ^ 167 fold improvement over the original OpenAI result.\n\nThis result was a true community effort that combined techniques from a number of contributors. I want to take time to highlight each of them, but for now getting these results verified and published as fast as possible so everyone working on the problem is at the leading edge."
+    },
+    {
+      "tweetId": "2108544965630648526",
+      "role": "source",
+      "authorHandle": "sj_swapnil_jain",
+      "url": "https://x.com/SJ_Swapnil_Jain/status/2108544965630648526",
+      "tweetedAt": "2026-10-09T13:07:49.000Z",
+      "bestBit": "Eleventh update to OpenAI problem #109 (integer multiplication): κ rises to 2⁻¹⁰·⁵⁴⁷, still past 2⁻¹¹.\n\nWitness value: κ = 2⁻¹⁰·⁵⁴⁷ = 6.6857 × 10⁻⁴ \n(tightened from κ = 2⁻¹⁸²)",
+      "text": "Eleventh update to OpenAI problem #109 (integer multiplication): κ rises to 2⁻¹⁰·⁵⁴⁷, still past 2⁻¹¹.\n\nWitness value: κ = 2⁻¹⁰·⁵⁴⁷ = 6.6857 × 10⁻⁴ \n(tightened from κ = 2⁻¹⁸²)\n\nThis κ is about 1.09 fold our previous witness value κ = 2⁻¹⁰·⁶⁶⁶ = 6.1534 × 10⁻⁴, and a 2¹⁷¹ fold improvement in κ over the original OAI result.\n\nWe seem to be approaching a wall. Gains now come in fractions of a percent. The next real jump needs a big breakthrough which we are unable to find yet."
+    },
+    {
+      "tweetId": "2108572891784622176",
+      "role": "analysis",
+      "authorHandle": "ofirpress",
+      "url": "https://x.com/OfirPress/status/2108572891784622176",
+      "tweetedAt": "2026-10-09T14:58:47.000Z",
+      "bestBit": "OpenAI math problems are now open source RL environments",
+      "text": "if you're wondering how openai achieved the math stuff, it's probably this. they just create a lot of RL envs with Lean formalizations of math problems. at first they were probably creating simpler ones by hand but then models got good enough at autonomously creating envs and then they could just go for a large quantity of problems based on arxiv papers.",
+      "quotedTweetText": "OpenAI math problems are now open source RL environments https://t.co/BQWhZPRGVr"
+    },
+    {
+      "tweetId": "2108383344589447617",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2108383344589447617",
+      "tweetedAt": "2026-10-09T02:25:35.000Z",
+      "bestBit": "they withdrew only some of the specific papers,",
+      "text": "@ifbuilder they withdrew only some of the specific papers,"
+    },
+    {
+      "tweetId": "2107185660289225116",
+      "role": "commentary",
+      "authorHandle": "conjectureinst",
+      "url": "https://x.com/ConjectureInst/status/2107185660289225116",
+      "tweetedAt": "2026-10-05T19:06:25.000Z",
+      "bestBit": "As of October 4th, 2026, the letter was ultimately signed by over 8,000 (and counting) mathematicians and academics in related fields.",
+      "text": "Fields Medalists Are Wrong: Why AI Is an Accelerant, Not a Bane, to Progress in Mathematics\n\nOn the heels of OpenAI having solved the Navier–Stokes Millennium Prize Problem, about half of the living Fields Medalists signed an open letter titled “A Severe Misalignment of AI in Mathematics”. \n\nAs of October 4th, 2026, the letter was ultimately signed by over 8,000 (and counting) mathematicians and academics in related fields.\n\nConjecture Institute Fellow and mathematician @PaulRRobichaud  and President @ChipkinLogan disagree with the spirit of the letter, which is essentially that AI is a problem for mathematics. \n\nOn the contrary, it is a catalyst that opens entirely new vistas to mathematicians that were heretofore unreachable.\n\nBelow is Paul and Logan’s response to the letter.\n\n👇"
+    },
+    {
+      "tweetId": "2108613459239915856",
+      "role": "commentary",
+      "authorHandle": "harrydcrane",
+      "url": "https://x.com/HarryDCrane/status/2108613459239915856",
+      "tweetedAt": "2026-10-09T17:39:59.000Z",
+      "bestBit": "NYU math professor Tristan Buckmaster says OpenAI’s Tuesday drop of 722 AI-generated math papers wiped out entire research programs:\n\n“This recent dump of papers on Tuesday destroyed the careers of early career mathematicians.”",
+      "text": "The existential crisis in math is primarily because many mathematicians believed they would be the last to be replaced by AI, and it turns out they are the first.",
+      "quotedTweetText": "NYU math professor Tristan Buckmaster says OpenAI’s Tuesday drop of 722 AI-generated math papers wiped out entire research programs:\n\n“This recent dump of papers on Tuesday destroyed the careers of early career mathematicians.” https://t.co/0yiz7G9wwr"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "openai-withdraws-three-math-papers-as-navier-stokes-proof-faces-verifica-15a4e93e",
+    "title": "OpenAI Withdraws Three Math Papers as Navier-Stokes Proof Faces Verification Challenge",
+    "publishedAt": "2026-10-08T15:40:21.070Z",
+    "eventTimeApprox": "2026-10-07T02:32:53.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 299,
+    "authorCount": 168
+  }
+}

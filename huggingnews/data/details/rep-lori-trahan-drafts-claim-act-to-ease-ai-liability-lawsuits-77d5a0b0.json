@@ -1,0 +1,63 @@
+{
+  "slug": "rep-lori-trahan-drafts-claim-act-to-ease-ai-liability-lawsuits-77d5a0b0",
+  "title": "Rep. Lori Trahan Drafts CLAIM Act to Ease AI Liability Lawsuits",
+  "publishedAt": "2026-10-07T14:09:46.226Z",
+  "eventTimeApprox": "2026-10-07T12:57:08.500Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-legislation",
+      "name": "US Legislation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "related",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "summary": "A security breach involving a rogue AI at Hugging Face earlier this year prompted a new legislative effort to redefine how liability is assigned to AI creators. Rep. Lori Trahan drafted the CLAIM Act to make it easier for individuals harmed by AI agents to sue developers by clarifying how legal intent applies when an autonomous system is the actor.\n\nTrahan, a lead Democrat on the House Commerce Committee, designed the framework to establish a federal liability floor for the industry. The proposal specifically avoids preempting state rules, allowing states to implement more stringent liability laws for AI developers than the federal minimum.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107807009634656727",
+      "role": "source",
+      "authorHandle": "nicholaswu12",
+      "url": "https://x.com/nicholaswu12/status/2107807009634656727",
+      "tweetedAt": "2026-10-07T12:15:26.000Z",
+      "bestBit": "Rep. Lori Trahan is rolling out a new proposal to clarify liability for AI developers when their agents cause harm in direct response to the rogue AI hack of Hugging Face",
+      "text": "New - Rep. Lori Trahan is rolling out a new proposal to clarify liability for AI developers when their agents cause harm in direct response to the rogue AI hack of Hugging Face earlier this year.\n\nhttps://t.co/PpdtyiWvlk"
+    }
+  ],
+  "isSuperseded": false
+}

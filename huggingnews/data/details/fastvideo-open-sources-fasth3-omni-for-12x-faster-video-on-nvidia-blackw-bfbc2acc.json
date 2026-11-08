@@ -1,0 +1,75 @@
+{
+  "slug": "fastvideo-open-sources-fasth3-omni-for-12x-faster-video-on-nvidia-blackw-bfbc2acc",
+  "title": "FastVideo Open Sources FastH3 Omni for 12x Faster Video on Nvidia Blackwell",
+  "publishedAt": "2026-10-21T00:53:38.662Z",
+  "eventTimeApprox": "2026-10-20T19:55:18.500Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "0100",
+      "kind": "equity",
+      "role": "subject",
+      "name": "MiniMax Group",
+      "hubKey": "minimax"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The weights and training code for the MiniMax FastH3 Omni video generation model are now available as open source via the FastVideo project. The model achieves real time generation speeds 12x faster on Nvidia Blackwell GPUs and supports NVFP4 and FP8 formats for Spark and RTX hardware. Developed in collaboration with Nvidia AI, Nuva Lab, and Reactor, the system enables 8 step reference to video generation.\n\nThe release provides day 0 support for ComfyUI and vLLM Omni, which allows the model to be served on consumer RTX GPUs. Some early users state that the performance and end to end open source nature of the project make the model a rival to the H3 Max developed by fal.ai.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112625528805208257",
+      "role": "source",
+      "authorHandle": "haoailab",
+      "url": "https://x.com/haoailab/status/2112625528805208257",
+      "tweetedAt": "2026-10-20T19:22:31.000Z",
+      "bestBit": "Real-time gen @ 12x faster on NVIDIA Blackwell",
+      "text": "As promised, FastVideo open-sources @MiniMax_AI  FastH3 Omni, training code included! 🚀\n\n- Real-time gen @ 12x faster on NVIDIA Blackwell\n- NVFP4/FP8 for Spark + RTX!\n- ComfyUI day-0\n\nCollab with @NVIDIAAI , Nuva Lab @nuvalab and Reactor @reactorworld\n\nOpen source must win! ♥️ https://t.co/aBfZ4hfbl5"
+    },
+    {
+      "tweetId": "2112635820611977250",
+      "role": "support",
+      "authorHandle": "multimodalart",
+      "url": "https://x.com/multimodalart/status/2112635820611977250",
+      "tweetedAt": "2026-10-20T20:03:25.000Z",
+      "bestBit": "high quality 8 step reference-to-video, fully end-to-end open source (including training code)",
+      "text": "yay! FastH3 Omni is now open weights! 📹 \n\nhigh quality 8 step reference-to-video, fully end-to-end open source (including training code)\n\nthis is the model many said rivals fal's H3 Max 👀\n\n▶️ on Spaces https://t.co/C3eQBwQ0LN\n\n📁 Model https://t.co/gKFzE2r5mv",
+      "quotedTweetText": "As promised, FastVideo open-sources @MiniMax_AI  FastH3 Omni, training code included! 🚀\n\n- Real-time gen @ 12x faster on NVIDIA Blackwell\n- NVFP4/FP8 for Spark + RTX!\n- ComfyUI day-0\n\nCollab with @NVIDIAAI , Nuva Lab @nuvalab and Reactor @reactorworld\n\nOpen source must win! ♥️ https://t.co/aBfZ4hfbl5"
+    }
+  ],
+  "isSuperseded": false
+}

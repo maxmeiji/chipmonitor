@@ -1,0 +1,138 @@
+{
+  "slug": "update-openai-adds-mobile-support-and-codex-integration-for-dot-agents-0fe32adf",
+  "title": "UPDATE: OpenAI Adds Mobile Support and Codex Integration for Dot Agents",
+  "publishedAt": "2026-10-09T19:39:21.456Z",
+  "eventTimeApprox": "2026-10-01T14:29:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 46,
+  "authorCount": 24,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108636745915052037/HUNiHEya0AAtNOR-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108636745915052037/HUNiHEya0AAtNOR-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2108635550609821696/vid/avc1/1920x1080/ndUI_B7VwjyWZj2X.mp4?tag=29",
+    "credit": {
+      "handle": "chatgpt",
+      "tweetUrl": "https://x.com/ChatGPT/status/2108636745915052037"
+    }
+  },
+  "summary": "Users can now build \"dots\" agents directly from the ChatGPT applications on iOS and Android. These agents are newly capable of delegating tasks within Codex, which allows them to initiate work, track progress on existing threads, and manage \"Scheduled Tasks\" within the ChatGPT Work environment. The update enables the agents to utilize previous ChatGPT conversations, Codex history, and automation data to determine whether to maintain a thread or start a new one.\n\nThese features follow the debut of dots at OpenAI's DevDay event one week ago. The agents operate alongside Codex Cloud, which provide reusable development environments and a command line interface featuring voice steering and multi-agent tracking. Théo Sottiaux, head of ChatGPT and Codex, has stated that these agents are intended to become the primary interface for AI interaction to replace manual loop and graph configurations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108636745915052037",
+      "role": "source",
+      "authorHandle": "chatgpt",
+      "url": "https://x.com/ChatGPT/status/2108636745915052037",
+      "tweetedAt": "2026-10-09T19:12:31.000Z",
+      "bestBit": "you can now create your dot straight from your phone in the ChatGPT app on iOS and Android",
+      "text": "Fresh updates for dots.\n\nFirst up: you can now create your dot straight from your phone in the ChatGPT app on iOS and Android. https://t.co/ZHOqBx6tLI"
+    },
+    {
+      "tweetId": "2108636748217770180",
+      "role": "source",
+      "authorHandle": "chatgpt",
+      "url": "https://x.com/ChatGPT/status/2108636748217770180",
+      "tweetedAt": "2026-10-09T19:12:32.000Z",
+      "bestBit": "Your dot can now start work in Codex and follow up on existing threads, drawing on your ChatGPT conversations, Codex threads, and automations",
+      "text": "Delegate work in Codex to your dot.\n\nYour dot can now start work in Codex and follow up on existing threads, drawing on your ChatGPT conversations, Codex threads, and automations. It’s also better at deciding when to keep a thread going or start fresh.\n\nYour dot can also review and edit Scheduled Tasks in ChatGPT Work, too. Ask what’s scheduled or update a recurring task as plans change."
+    },
+    {
+      "tweetId": "2107613388729974839",
+      "role": "support",
+      "authorHandle": "therohanvarma",
+      "url": "https://x.com/TheRohanVarma/status/2107613388729974839",
+      "tweetedAt": "2026-10-06T23:26:04.000Z",
+      "bestBit": "One week since we launched dots!",
+      "text": "One week since we launched dots! \n\nWe’ve been working through your feedback and shipped a bunch of improvements:\n- Faster cloud browsing\n- Fixed extra phone notifications while you’re already using ChatGPT\n- Cleaner code blocks and attachments on web\n- Fewer pauses while waiting for a reply\n- Faster sidebar loading, smoother animations and less loading jank\n- Fixed character rendering in Safari and Firefox\n- Fixed Outlook setup getting stuck\n- Clearer plan guidance + a way to retry failed activity loads\n- More stable safety banners on web\n- Fixed clipped approval buttons and oversized Gmail previews hiding approvals\n- Fixed enterprise access issues on web and when starting voice\n- Better dot organization of when to use new versus existing codex threads\n\nUp next:\n- Voice reliability (being improved everyday, but we’ll shout when it’s up to par with our expectations)\n- Increasing dot’s control of your Codex app: manage project folders, have full Codex thread context, rename threads, and more\n- Better organization to know what your dot is working on at any given moment\n- Connect your dot to multiple computers\n- Better Windows support for local computer control\n- what else?\n\nThanks for trying our product and giving us lots of feedback. Keep it coming!"
+    },
+    {
+      "tweetId": "2107147127516500056",
+      "role": "support",
+      "authorHandle": "lennysan",
+      "url": "https://x.com/lennysan/status/2107147127516500056",
+      "tweetedAt": "2026-10-05T16:33:18.000Z",
+      "bestBit": "heading towards Dots being the primary way you talk to AI",
+      "text": "\"Having to set up and fiddle with your loops… I don't think this is the way that it's going to work.\"\n\n@thsottiaux (Head of ChatGPT &amp; Codex) says we are heading towards Dots being the primary way you talk to AI.\n\nFull conversation: https://t.co/vJzQZc0dzB https://t.co/z3Y3xlLkFa",
+      "quotedTweetText": "My conversation with Head of ChatGPT and Codex, @thsottiaux\n\nWe discuss:\n🔸 Why the model picker is likely going away\n🔸 Why loops and graphs are a passing phase\n🔸 Why most actions on the internet will soon be taken by agents\n🔸 OpenAI’s approach to AI safety\n\nListen now 👇\nhttps://t.co/RMkL9Hekyh"
+    },
+    {
+      "tweetId": "2107617278288425380",
+      "role": "commentary",
+      "authorHandle": "pvncher",
+      "url": "https://x.com/pvncher/status/2107617278288425380",
+      "tweetedAt": "2026-10-06T23:41:31.000Z",
+      "bestBit": "Dot for managing everything in codex incoming",
+      "text": "Dot for managing everything in codex incoming",
+      "quotedTweetText": "One week since we launched dots! \n\nWe’ve been working through your feedback and shipped a bunch of improvements:\n- Faster cloud browsing\n- Fixed extra phone notifications while you’re already using ChatGPT\n- Cleaner code blocks and attachments on web\n- Fewer pauses while waiting for a reply\n- Faster sidebar loading, smoother animations and less loading jank\n- Fixed character rendering in Safari and Firefox\n- Fixed Outlook setup getting stuck\n- Clearer plan guidance + a way to retry failed activity loads\n- More stable safety banners on web\n- Fixed clipped approval buttons and oversized Gmail previews hiding approvals\n- Fixed enterprise access issues on web and when starting voice\n- Better dot organization of when to use new versus existing codex threads\n\nUp next:\n- Voice reliability (being improved everyday, but we’ll shout when it’s up to par with our expectations)\n- Increasing dot’s control of your Codex app: manage project folders, have full Codex thread context, rename threads, and more\n- Better organization to know what your dot is working on at any given moment\n- Connect your dot to multiple computers\n- Better Windows support for local computer control\n- what else?\n\nThanks for trying our product and giving us lots of feedback. Keep it coming!"
+    },
+    {
+      "tweetId": "2104988806848078004",
+      "role": "commentary",
+      "authorHandle": "venturetwins",
+      "url": "https://x.com/venturetwins/status/2104988806848078004",
+      "tweetedAt": "2026-09-29T17:36:55.000Z",
+      "bestBit": "Codex is now fully in the cloud",
+      "text": "“Codex is now fully in the cloud”\n\nIdk why, my previous setup of leaving my laptop on the car floor plugged into a power bank was working just fine https://t.co/2dOqYEFQ9q"
+    },
+    {
+      "tweetId": "2107844931591000289",
+      "role": "commentary",
+      "authorHandle": "pvncher",
+      "url": "https://x.com/pvncher/status/2107844931591000289",
+      "tweetedAt": "2026-10-07T14:46:08.000Z",
+      "bestBit": "shipped a bunch of improvements: - Faster cloud browsing - Fixed extra phone notifications while you’re already using ChatGPT",
+      "text": "@n3uronick @thsottiaux @romainhuet https://t.co/xRemvVI0oQ",
+      "quotedTweetText": "One week since we launched dots! \n\nWe’ve been working through your feedback and shipped a bunch of improvements:\n- Faster cloud browsing\n- Fixed extra phone notifications while you’re already using ChatGPT\n- Cleaner code blocks and attachments on web\n- Fewer pauses while waiting for a reply\n- Faster sidebar loading, smoother animations and less loading jank\n- Fixed character rendering in Safari and Firefox\n- Fixed Outlook setup getting stuck\n- Clearer plan guidance + a way to retry failed activity loads\n- More stable safety banners on web\n- Fixed clipped approval buttons and oversized Gmail previews hiding approvals\n- Fixed enterprise access issues on web and when starting voice\n- Better dot organization of when to use new versus existing codex threads\n\nUp next:\n- Voice reliability (being improved everyday, but we’ll shout when it’s up to par with our expectations)\n- Increasing dot’s control of your Codex app: manage project folders, have full Codex thread context, rename threads, and more\n- Better organization to know what your dot is working on at any given moment\n- Connect your dot to multiple computers\n- Better Windows support for local computer control\n- what else?\n\nThanks for trying our product and giving us lots of feedback. Keep it coming!"
+    },
+    {
+      "tweetId": "2108304671836148011",
+      "role": "commentary",
+      "authorHandle": "pvncher",
+      "url": "https://x.com/pvncher/status/2108304671836148011",
+      "tweetedAt": "2026-10-08T21:12:58.000Z",
+      "bestBit": "There’s a lot being done to make cloud threads able to use your local machine though. Dots threads do this now.",
+      "text": "@ryancarson You can just make all your tasks remote. Local still makes a lot of sense for computer use, local dev where you need to test on hardware, game dev where the cloud machine isn’t powerful enough.\n\nThere’s a lot being done to make cloud threads able to use your local machine though. Dots threads do this now.\n\nIt’s a bit messy atm but being streamlined fast"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "openai-launches-codex-cloud-and-agents-api-with-computer-use-0e3c4121",
+    "title": "OpenAI Launches Codex Cloud and Agents API with Computer Use",
+    "publishedAt": "2026-09-29T17:56:26.439Z",
+    "eventTimeApprox": "2026-09-29T17:30:52.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 37,
+    "authorCount": 19
+  }
+}

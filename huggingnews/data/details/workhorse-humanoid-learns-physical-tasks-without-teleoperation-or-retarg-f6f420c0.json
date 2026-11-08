@@ -1,0 +1,57 @@
+{
+  "slug": "workhorse-humanoid-learns-physical-tasks-without-teleoperation-or-retarg-f6f420c0",
+  "title": "Workhorse Humanoid Learns Physical Tasks Without Teleoperation or Retargeting",
+  "publishedAt": "2026-10-06T20:52:22.403Z",
+  "eventTimeApprox": "2026-10-06T20:24:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107564859164623206/isz1dF0kBk-qhPWx-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107564859164623206/isz1dF0kBk-qhPWx-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2107564424060129281/vid/avc1/1920x1080/xC1su0j_sdKTPQUD.mp4?tag=29",
+    "credit": {
+      "handle": "qiayuanliao",
+      "tweetUrl": "https://x.com/qiayuanliao/status/2107564859164623206"
+    }
+  },
+  "summary": "Researchers have developed a system that allows the G1 humanoid robot to master whole-body movement and manipulation using only human examples. Named Workhorse, the system enables the robot to learn without teleoperation, retargeting, or the use of a robot during the initial data collection phase. In real-time autonomous tests, the G1 robot caught a thrown box, climbed a suitcase, and sorted items using its hands and a kick.\n\nThe team tested the robot's durability by attempting to force failures during one-take demonstrations, which the robot navigated autonomously. The research focuses on removing traditional robotic teaching interfaces by allowing humanoids to acquire physical skills directly from human demonstrations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107561109385580608",
+      "role": "source",
+      "authorHandle": "songbo_",
+      "url": "https://x.com/songbo_/status/2107561109385580608",
+      "tweetedAt": "2026-10-06T19:58:19.000Z",
+      "bestBit": "our G1 topples and climbs a suitcase, catches a thrown box, and sorts boxes with hands and a kick",
+      "text": "Can a humanoid learn robust whole-body loco-manipulation directly from a human? No robot, no teleop, no retargeting.\nMeet Workhorse 🐴: our G1 topples and climbs a suitcase, catches a thrown box, and sorts boxes with hands and a kick. Fully autonomous.\nMore videos at https://t.co/HrxCv199F7"
+    },
+    {
+      "tweetId": "2107564859164623206",
+      "role": "support",
+      "authorHandle": "qiayuanliao",
+      "url": "https://x.com/qiayuanliao/status/2107564859164623206",
+      "tweetedAt": "2026-10-06T20:13:13.000Z",
+      "bestBit": "learn whole-body loco-manipulation skills from human demos without teleop",
+      "text": "Meet Workhorse 🐴: we study how to learn whole-body loco-manipulation skills from human demos without teleop. \nHere is my favourite video: we tried everything to make it fail🏒. \nOne take, real-time, fully autonomous. https://t.co/iEmXo1W60U",
+      "quotedTweetText": "Can a humanoid learn robust whole-body loco-manipulation directly from a human? No robot, no teleop, no retargeting.\nMeet Workhorse 🐴: our G1 topples and climbs a suitcase, catches a thrown box, and sorts boxes with hands and a kick. Fully autonomous.\nMore videos at https://t.co/HrxCv199F7"
+    }
+  ],
+  "isSuperseded": false
+}

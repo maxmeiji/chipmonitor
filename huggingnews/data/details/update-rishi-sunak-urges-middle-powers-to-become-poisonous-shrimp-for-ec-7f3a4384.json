@@ -1,0 +1,98 @@
+{
+  "slug": "update-rishi-sunak-urges-middle-powers-to-become-poisonous-shrimp-for-ec-7f3a4384",
+  "title": "UPDATE: Rishi Sunak Urges Middle Powers to Become Poisonous Shrimp for Economic Leverage",
+  "publishedAt": "2026-10-15T06:23:54.339Z",
+  "eventTimeApprox": "2026-10-13T08:05:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "geopolitics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "geopolitics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "india",
+      "name": "India"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110610261857988931/HUpk2Q8WoAAJFer-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110610261857988931/HUpk2Q8WoAAJFer-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2110610188851871744/vid/avc1/1080x1920/GEsonaFrB6zn1Z2E.mp4?tag=16",
+    "credit": {
+      "handle": "business",
+      "tweetUrl": "https://x.com/business/status/2110610261857988931"
+    }
+  },
+  "summary": "Former UK Prime Minister Rishi Sunak called for stricter governance of artificial intelligence during a summit of business leaders and politicians in India. Speaking at the Bloomberg New Economy Forum in New Delhi, Sunak urged mid-sized nations to become a \"poisonous shrimp\" to carve out strategic economic leverage within a more turbulent global environment.\n\nThe comments follow an opening warning from Indian Prime Minister Narendra Modi that global supply chains, trade, and technology have been weaponized as instruments of coercion. Other summit attendees include Blackstone COO Jonathan Gray and Tata Sons Chairman Natarajan Chandrasekaran, who said his group will continue to build infrastructure essential to the world even if projects are slow to deliver.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110611194486607909",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2110611194486607909",
+      "tweetedAt": "2026-10-15T05:58:16.000Z",
+      "bestBit": "urged so-called middle powers to become a “poisonous shrimp” to carve out strategic economic leverage in a more turbulent global environment",
+      "text": "Rishi Sunak, former UK prime minister, has urged so-called middle powers to become a “poisonous shrimp” to carve out strategic economic leverage in a more turbulent global environment https://t.co/Q7hTrQrhwm"
+    },
+    {
+      "tweetId": "2110610261857988931",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2110610261857988931",
+      "tweetedAt": "2026-10-15T05:54:34.000Z",
+      "bestBit": "Rishi Sunak speaks on AI and the need for better governance at Bloomberg’s New Economy Forum, held in New Delhi",
+      "text": "Former UK Prime Minister Rishi Sunak speaks on AI and the need for better governance at Bloomberg’s New Economy Forum, held in New Delhi. Read more: https://t.co/EzyN3Uars3 https://t.co/yTMir3hyes"
+    },
+    {
+      "tweetId": "2109886913205219363",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2109886913205219363",
+      "tweetedAt": "2026-10-13T06:00:14.000Z",
+      "bestBit": "interconnected systems that once united the world such as supply chains, trade and technology have become instruments of coercion",
+      "text": "Indian PM Narendra Modi warns that the interconnected systems that once united the world such as supply chains, trade and technology have become instruments of coercion https://t.co/yAgCO7pToe"
+    },
+    {
+      "tweetId": "2109856290143089049",
+      "role": "support",
+      "authorHandle": "saritharai",
+      "url": "https://x.com/SarithaRai/status/2109856290143089049",
+      "tweetedAt": "2026-10-13T03:58:33.000Z",
+      "bestBit": "starting with a panel featuring Tata Sons Chairman Natarajan Chandrasekaran, former UK Prime Minister Rishi Sunak and Blackstone COO Jonathan Gray",
+      "text": "Bloomberg's New Economy Forum 2026 is live in New Delhi -- starting with a panel featuring Tata Sons Chairman Natarajan Chandrasekaran, former UK Prime Minister Rishi Sunak and Blackstone COO Jonathan Gray.  \n\nFollow our Live Blog here!\n\nhttps://t.co/uPXvKKh9aZ https://t.co/V4Jc61lQ52"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "modi-warns-global-trade-and-tech-now-instruments-of-coercion-eaa8309a",
+    "title": "Modi Warns Global Trade and Tech Now Instruments of Coercion",
+    "publishedAt": "2026-10-13T07:08:18.719Z",
+    "eventTimeApprox": "2026-10-13T04:29:57.000Z",
+    "routingTopicKeys": [
+      "geopolitics",
+      "global-markets"
+    ],
+    "tweetCount": 18,
+    "authorCount": 7
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "most-widely-cited-findings-on-llm-behavior-fade-within-15-months-bc8cdb89",
+  "title": "Most Widely Cited Findings On LLM Behavior Fade Within 15 Months",
+  "publishedAt": "2026-11-02T18:07:42.848Z",
+  "eventTimeApprox": "2026-11-02T17:38:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "Research into the stability of artificial intelligence claims shows that most results regarding how large language models behave lose their validity within 15 months of publication. The study re-tested 50 of the most widely cited behavioral findings—including those focusing on biases and hallucinations—to determine whether the original observations still held true.\n\nThe researchers found that the majority of the tested claims either no longer occurred or showed diminished effects over the 15 month period. The study suggests that findings on LLMs have a short shelf life, necessitating a regular review of AI knowledge as the models evolve.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117306610318283050",
+      "role": "source",
+      "authorHandle": "oq_35",
+      "url": "https://x.com/oq_35/status/2117306610318283050",
+      "tweetedAt": "2026-11-02T17:23:28.000Z",
+      "bestBit": "In our new study, we revisit 50 findings to see what fades, what persists, and what gets stronger.",
+      "text": "1/n Within 15 months of publication, most of the LLM claims we tested either no longer held or showed substantially diminished effects. How long does our knowledge of AI hold up? In our new study, we revisit 50 findings to see what fades, what persists, and what gets stronger. 🧵 https://t.co/6cOeUc9jqD"
+    },
+    {
+      "tweetId": "2117310373661700604",
+      "role": "support",
+      "authorHandle": "james_y_zou",
+      "url": "https://x.com/james_y_zou/status/2117310373661700604",
+      "tweetedAt": "2026-11-02T17:38:25.000Z",
+      "bestBit": "We re-tested 50 widely cited findings about LLM behavior (various biases, hallucination, etc).",
+      "text": "How long does a finding about LLMs stay true?\n\nWe re-tested 50 widely cited findings about LLM behavior (various biases, hallucination, etc). Within 15 months, most no longer held or had substantially reduced effects.\n\nLLM findings has short shelf life https://t.co/MUWm6INyX8\n\nGreat job by @oq_35!",
+      "quotedTweetText": "1/n Within 15 months of publication, most of the LLM claims we tested either no longer held or showed substantially diminished effects. How long does our knowledge of AI hold up? In our new study, we revisit 50 findings to see what fades, what persists, and what gets stronger. 🧵 https://t.co/6cOeUc9jqD"
+    }
+  ],
+  "isSuperseded": false
+}

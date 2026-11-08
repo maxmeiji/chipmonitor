@@ -1,0 +1,99 @@
+{
+  "slug": "coreweave-unsecured-notes-hit-1000-bps-spread-for-first-time-ef7ca446",
+  "title": "CoreWeave Unsecured Notes Hit 1,000 bps Spread for First Time",
+  "publishedAt": "2026-10-13T17:16:46.296Z",
+  "eventTimeApprox": "2026-10-13T15:28:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "subject",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110018879930130553/HUhJTUrWsAARhdz-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110018879930130553/HUhJTUrWsAARhdz-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "junkbondinvest",
+      "tweetUrl": "https://x.com/junkbondinvest/status/2110018879930130553"
+    }
+  },
+  "summary": "Unsecured debt from CoreWeave reached a yield of 15.1% on October 13 as investors flagged insolvency risks for the AI data center operator. The bonds' spread over Treasuries widened to 1,000 basis points, causing the instruments to appear in CCC collateralized loan obligations and signaling a likely credit downgrade to CCC.\n\nThe high-yield market is pricing a decline in the value of the H100 GPU fleet that serves as collateral for the company's senior loans, which sit above these unsecured notes. List rental prices for H100 chips have dropped about 12% in one month, leading some traders to view the debt spike as a correction to the hardware's actual value. Other investors argue the bonds are mispriced and represent a buying opportunity.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110004402232975761",
+      "role": "source",
+      "authorHandle": "rdd147",
+      "url": "https://x.com/rdd147/status/2110004402232975761",
+      "tweetedAt": "2026-10-13T13:47:06.000Z",
+      "bestBit": "$CRWV bonds blow up to 15.1% in a day as company faces existential bankruptcy risks",
+      "text": "$CRWV bonds blow up to 15.1% in a day as company faces existential bankruptcy risks. https://t.co/rrMtCBOsrh",
+      "quotedTweetText": "$CRWV bonds break 14%, hitting a high of 14.15% today. \n\nBonds begin appearing in CCC CLOs; likely have credit downgrade incoming to CCC https://t.co/Tky1Lco23o"
+    },
+    {
+      "tweetId": "2110018879930130553",
+      "role": "source",
+      "authorHandle": "junkbondinvest",
+      "url": "https://x.com/junkbondinvest/status/2110018879930130553",
+      "tweetedAt": "2026-10-13T14:44:37.000Z",
+      "bestBit": "Either this is terribly mispriced and a buy or the HY market is telling you something about the AI build-out",
+      "text": "CoreWeave’s unsecured notes are officially 1,000bps STW, now yielding ~15%.\n\nEither this is terribly mispriced and a buy or the HY market is telling you something about the AI build-out\n\nWhich one is it?\n\nrobinhood:0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3 https://t.co/5i6bbpzy5p"
+    },
+    {
+      "tweetId": "2110029946710331549",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2110029946710331549",
+      "tweetedAt": "2026-10-13T15:28:36.000Z",
+      "bestBit": "It’s actually good 👍",
+      "text": "It’s actually good 👍",
+      "quotedTweetText": "CoreWeave’s unsecured notes are officially 1,000bps STW, now yielding ~15%.\n\nEither this is terribly mispriced and a buy or the HY market is telling you something about the AI build-out\n\nWhich one is it?\n\nrobinhood:0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3 https://t.co/5i6bbpzy5p"
+    },
+    {
+      "tweetId": "2110038919870042324",
+      "role": "analysis",
+      "authorHandle": "tengyanai",
+      "url": "https://x.com/tengyanAI/status/2110038919870042324",
+      "tweetedAt": "2026-10-13T16:04:15.000Z",
+      "bestBit": "h100 list rent in our tracker is down ~12% in a month while newer chips get pricier",
+      "text": "@junkbondinvest a bit of both imo. the unsecureds sit behind the gpu backed loans, and a lot of that collateral is h100s. h100 list rent in our tracker is down ~12% in a month while newer chips get pricier, so HY is prob pricing what that fleet is worth when the debt comes due"
+    }
+  ],
+  "isSuperseded": false
+}

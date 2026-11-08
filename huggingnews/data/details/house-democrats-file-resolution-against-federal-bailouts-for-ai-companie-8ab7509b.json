@@ -1,0 +1,49 @@
+{
+  "slug": "house-democrats-file-resolution-against-federal-bailouts-for-ai-companie-8ab7509b",
+  "title": "House Democrats File Resolution Against Federal Bailouts for AI Companies",
+  "publishedAt": "2026-10-28T19:07:12.062Z",
+  "eventTimeApprox": "2026-10-28T18:02:44.000Z",
+  "isFreshStory": false,
+  "tweetCount": 20,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-legislation",
+      "name": "US Legislation"
+    }
+  ],
+  "summary": "A measure introduced in the U.S. House of Representatives would prevent the government from using public funds to rescue artificial intelligence firms facing insolvency during a financial crisis. The resolution stipulates that any failing AI companies must undergo the standard bankruptcy process rather than receiving a federal bailout.\n\nHouse Democrats described the filing as a pre-emptive effort to ensure the sector is not granted special status or emergency funding if the industry collapses. The proposal was introduced on Oct. 28, though no timeline for a vote has been established.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115442010723418617",
+      "role": "source",
+      "authorHandle": "ddayen",
+      "url": "https://x.com/ddayen/status/2115442010723418617",
+      "tweetedAt": "2026-10-28T13:54:13.000Z",
+      "bestBit": "House Democrats have introduced a resolution that Congress should not bail out AI firms in the event of a financial crisis and should be subjected to the ordinary bankruptcy process.",
+      "text": "NEW: In a pre-emptive move, House Democrats have introduced a resolution that Congress should not bail out AI firms in the event of a financial crisis and should be subjected to the ordinary bankruptcy process.\nhttps://t.co/QSaDGaWO0d https://t.co/nWgNnUHGTP"
+    }
+  ],
+  "isSuperseded": false
+}

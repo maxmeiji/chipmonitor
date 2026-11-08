@@ -1,0 +1,128 @@
+{
+  "slug": "llamacpp-ships-multimodal-decision-model-support-in-v060-83953cb8",
+  "title": "Llama.cpp Ships Multimodal Decision Model Support in v0.6.0",
+  "publishedAt": "2026-10-08T13:25:16.945Z",
+  "eventTimeApprox": "2026-10-02T17:11:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 21,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107296837774500296/HT6fSujWsAA1D8B-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107296837774500296/HT6fSujWsAA1D8B-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "lucataco",
+      "tweetUrl": "https://x.com/lucataco/status/2107296837774500296"
+    }
+  },
+  "summary": "The Clef and Clef-Flash models are now available for local deployment on the latest version of the llama.cpp inference engine. This update, released as v0.6.0, introduces multimodal support for decision models and includes performance enhancements for the Metal API to accelerate on-device execution on Apple hardware. Users can now serve these models using a single llama serve command for visual and text-based analysis.\n\nThe engine utilizes a /v1/systemone endpoint for Jev-style inference, which allows agents to route tickets, moderate content, or rank options by providing probabilities without generating text. The project supports various open models ranging from 144M to 27B parameters. Community testing shows the 421M parameter Laya model performs nearly as well as Qwen 4B while operating at 12x the speed.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106027722019394048",
+      "role": "source",
+      "authorHandle": "ngxson",
+      "url": "https://x.com/ngxson/status/2106027722019394048",
+      "tweetedAt": "2026-10-02T14:25:11.000Z",
+      "bestBit": "already 5 open models supported, from 144M to 27B",
+      "text": "llama.cpp now supports decision models 🚦\n\nRoute tickets, moderate content, or pick an agent's next step: ask typed questions, get a probability for every option.\n\nalready 5 open models supported, from 144M to 27B:\nhttps://t.co/zKxoqvxJdY"
+    },
+    {
+      "tweetId": "2106029758350032937",
+      "role": "source",
+      "authorHandle": "ggerganov",
+      "url": "https://x.com/ggerganov/status/2106029758350032937",
+      "tweetedAt": "2026-10-02T14:33:17.000Z",
+      "bestBit": "The /v1/systemone endpoint is available in the latest llama builds",
+      "text": "Decision models in llama.cpp are now available\n\nThe `/v1/systemone` endpoint is available in the latest llama builds. Use it to do Jev-style inference locally, efficiently and privately. Multiple open models are supported with more to come.\n\nhttps://t.co/D3MUi78kXn"
+    },
+    {
+      "tweetId": "2108180061627019735",
+      "role": "support",
+      "authorHandle": "mervenoyann",
+      "url": "https://x.com/mervenoyann/status/2108180061627019735",
+      "tweetedAt": "2026-10-08T12:57:49.000Z",
+      "bestBit": "new Llama.cpp release ships with (multimodal!) Jev-like models support, performance upgrade for Metal and more!",
+      "text": "new Llama.cpp release ships with (multimodal!) Jev-like models support, performance upgrade for Metal and more!  🔥\nsuper simple: llama serve -hf ggml-org/Clef-Flash-GGUF\n\nbrowse all the decision models here https://t.co/pkx71xAn5N\n\nwe also polished Llama App website & docs https://t.co/cwTzlPcuOm 🌟",
+      "quotedTweetText": "llama.cpp v0.6.0\n\nhttps://t.co/3dRJ4VWZdb"
+    },
+    {
+      "tweetId": "2106039777778876778",
+      "role": "support",
+      "authorHandle": "vanstriendaniel",
+      "url": "https://x.com/vanstriendaniel/status/2106039777778876778",
+      "tweetedAt": "2026-10-02T15:13:06.000Z",
+      "bestBit": "Decision models now run on device in llama.cpp. Free, fast, private!",
+      "text": "RT @ClementDelangue: Decision models now run on device in llama.cpp. Free, fast, private!\n\nllama serve -hf ggml-org/Kev-4B-GGUF https://t.c…"
+    },
+    {
+      "tweetId": "2107400052612145396",
+      "role": "analysis",
+      "authorHandle": "victormustar",
+      "url": "https://x.com/victormustar/status/2107400052612145396",
+      "tweetedAt": "2026-10-06T09:18:20.000Z",
+      "bestBit": "tried Laya (421M) on llama.cpp in a little apple-picking benchmark, it's almost as good as Qwen 4B at 12x the speed",
+      "text": "decision models + local ai = ❤️\n\ntried Laya (421M) on llama.cpp in a little apple-picking benchmark, it's almost as good as Qwen 4B at 12x the speed. https://t.co/deDcDdWJbC",
+      "quotedTweetText": "Decision models in llama.cpp are now available\n\nThe `/v1/systemone` endpoint is available in the latest llama builds. Use it to do Jev-style inference locally, efficiently and privately. Multiple open models are supported with more to come.\n\nhttps://t.co/D3MUi78kXn"
+    },
+    {
+      "tweetId": "2107296837774500296",
+      "role": "support",
+      "authorHandle": "lucataco",
+      "url": "https://x.com/lucataco/status/2107296837774500296",
+      "tweetedAt": "2026-10-06T02:28:12.000Z",
+      "bestBit": "You can now run Clef via llama.cpp!",
+      "text": "You can now run Clef via llama.cpp!\n\nllama serve -hf ggml-org/Clef-GGUF\n\nOllama vs llama.cpp speed test on my M5 Max MBP: https://t.co/sTec3RvOk1",
+      "quotedTweetText": "The new v0.6.0 release packs a lot of good stuff:\n\n- Clef support (text + vision)\n- High-quality support for Qwen3.8-Flash-Next\n- Massive performance improvement with Metal\n- New `llama_batch_ext` API\n\nAlso the website got a nice refresh: https://t.co/9akc1jmG9t"
+    },
+    {
+      "tweetId": "2106036451150536895",
+      "role": "support",
+      "authorHandle": "calebfahlgren",
+      "url": "https://x.com/calebfahlgren/status/2106036451150536895",
+      "tweetedAt": "2026-10-02T14:59:52.000Z",
+      "bestBit": "run the popular open jev alternatives via llama.cpp! it's also compatible with @typesafeai sdk",
+      "text": "Super cool! You can now run the popular open jev alternatives via llama.cpp! it's also compatible with @typesafeai sdk\n\nkudos @ngxson https://t.co/u7BtY73igN",
+      "quotedTweetText": "llama.cpp now supports decision models 🚦\n\nRoute tickets, moderate content, or pick an agent's next step: ask typed questions, get a probability for every option.\n\nalready 5 open models supported, from 144M to 27B:\nhttps://t.co/zKxoqvxJdY"
+    },
+    {
+      "tweetId": "2107147631340229014",
+      "role": "analysis",
+      "authorHandle": "fffiloni",
+      "url": "https://x.com/fffiloni/status/2107147631340229014",
+      "tweetedAt": "2026-10-05T16:35:18.000Z",
+      "bestBit": "Give Julia-1 a situation: it ranks options, estimates a yes/no probability, and scores an ordered scale. No generated text.",
+      "text": "I built a @gradio playground to make this tangible 🔀 cc @victormustar \n\nGive Julia-1 a situation: it ranks options, estimates a yes/no probability, and scores an ordered scale. No generated text. \n\nChange the context and see how the decisions shift 👇\nhttps://t.co/WsomJcGlPy https://t.co/YVXXUx16nb",
+      "quotedTweetText": "Decision models in llama.cpp are now available\n\nThe `/v1/systemone` endpoint is available in the latest llama builds. Use it to do Jev-style inference locally, efficiently and privately. Multiple open models are supported with more to come.\n\nhttps://t.co/D3MUi78kXn"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "llamacpp-adds-decision-model-support-for-5-open-models-d9652cb1",
+    "title": "Llama.cpp Adds Decision Model Support for 5 Open Models",
+    "publishedAt": "2026-10-02T14:39:40.871Z",
+    "eventTimeApprox": "2026-10-02T14:25:11.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 19,
+    "authorCount": 13
+  }
+}

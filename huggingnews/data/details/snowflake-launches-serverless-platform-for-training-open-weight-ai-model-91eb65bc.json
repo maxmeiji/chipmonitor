@@ -1,0 +1,73 @@
+{
+  "slug": "snowflake-launches-serverless-platform-for-training-open-weight-ai-model-91eb65bc",
+  "title": "Snowflake Launches Serverless Platform for Training Open-Weight AI Models",
+  "publishedAt": "2026-11-03T20:07:00.029Z",
+  "eventTimeApprox": "2026-11-03T19:40:26.500Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SNOW",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Snowflake Inc.",
+      "hubKey": "snow"
+    }
+  ],
+  "summary": "The cloud company's new Cortex Training service allows developers to build and deploy customized versions of open-weight models without managing the underlying GPU infrastructure. The platform gives AI teams control over reinforcement learning, supervised fine-tuning and custom training loops while the company handles the hardware operations usually required to run GPU clusters.\n\nThe offering integrates with the OpenHands agent harness to let developers post-train models using their existing agent tasks and configurations. Cortex Training was developed over the course of this year by Snowflake's AI Research team and its Arctic RL group.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117695731436069088",
+      "role": "source",
+      "authorHandle": "stasbekman",
+      "url": "https://x.com/StasBekman/status/2117695731436069088",
+      "tweetedAt": "2026-11-03T19:09:41.000Z",
+      "bestBit": "AI teams retain fine-grained control over SFT, RL and custom training loops, while Snowflake manages the GPU infrastructure so developers can focus on improving models rather than operating clusters",
+      "text": "@Snowflake is Introducing Cortex Training, this is the project my AI Research team has been working on since the beginning of this year\n\nhttps://t.co/5uwUh0E3AP\n\nCortex Training is Snowflake’s serverless offering for building and deploying customized open-weight models. AI teams retain fine-grained control over SFT, RL and custom training loops, while Snowflake manages the GPU infrastructure so developers can focus on improving models rather than operating clusters."
+    },
+    {
+      "tweetId": "2117700761521967523",
+      "role": "support",
+      "authorHandle": "openhandsdev",
+      "url": "https://x.com/OpenHandsDev/status/2117700761521967523",
+      "tweetedAt": "2026-11-03T19:29:41.000Z",
+      "bestBit": "OpenHands + @Snowflake Cortex Training let developers post-train open-weight models using their existing agent configurations and tasks",
+      "text": "What if you could train a model for your agent harness instead of adapting your harness to the model?\n\nOpenHands + @Snowflake Cortex Training let developers post-train open-weight models using their existing agent configurations and tasks.\n\nSee how it works 👇\nhttps://t.co/QJDdI7Yl8l"
+    },
+    {
+      "tweetId": "2117706177081725147",
+      "role": "commentary",
+      "authorHandle": "gneubig",
+      "url": "https://x.com/gneubig/status/2117706177081725147",
+      "tweetedAt": "2026-11-03T19:51:12.000Z",
+      "bestBit": "I've been following the work of the Arctic RL team at snowflake for a while where they've done great research on efficient inference and training methods",
+      "text": "I've been following the work of the Arctic RL team at snowflake for a while where they've done great research on efficient inference and training methods. Happy to see it finally launched, and it's definitely worth checking out!",
+      "quotedTweetText": "What if you could train a model for your agent harness instead of adapting your harness to the model?\n\nOpenHands + @Snowflake Cortex Training let developers post-train open-weight models using their existing agent configurations and tasks.\n\nSee how it works 👇\nhttps://t.co/QJDdI7Yl8l"
+    }
+  ],
+  "isSuperseded": false
+}

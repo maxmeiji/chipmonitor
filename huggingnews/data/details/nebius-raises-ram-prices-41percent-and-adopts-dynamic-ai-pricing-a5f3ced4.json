@@ -1,0 +1,87 @@
+{
+  "slug": "nebius-raises-ram-prices-41percent-and-adopts-dynamic-ai-pricing-a5f3ced4",
+  "title": "Nebius Raises RAM Prices 41% and Adopts Dynamic AI Pricing",
+  "publishedAt": "2026-10-07T16:53:13.460Z",
+  "eventTimeApprox": "2026-10-07T15:01:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NBIS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nebius Group N.V. Class A Ordinary Shares",
+      "hubKey": "nbis"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107873734576963847/HUCr8o4XEAAVE7m-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107873734576963847/HUCr8o4XEAAVE7m-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "beth_kindig",
+      "tweetUrl": "https://x.com/Beth_Kindig/status/2107873734576963847"
+    }
+  },
+  "summary": "Costs to rent B300 and H100 GPUs climbed 21% and 17% this month at the AI infrastructure provider. Nebius is now utilizing an algorithm and auctions to determine prices based on existing demand, historical usage, and the price ranges customers are willing to set. On-demand list prices for RAM saw the steepest increase, rising about 41%.\n\nChief Revenue Officer Marc Boroditsky stated the company adopted the model after discovering that previous on-demand rates were too low. The transition to dynamic pricing changes the procurement process for AI compute, allowing the provider to adjust hardware rates based on current utilization and customer bids.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107848708406616575",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2107848708406616575",
+      "tweetedAt": "2026-10-07T15:01:08.000Z",
+      "bestBit": "We are now pricing… dynamically based on an algorithm that takes into consideration historical use, plus existing demand and the price range that people are willing to set.",
+      "text": "Nebius is changing the equation for customers buying AI compute, with auctions and dynamic pricing.\n\nChief Revenue Officer Marc Boroditsky:\n\n\"We ran the cycle and discovered that we were pricing too low.\"\n\n\"We are now pricing… dynamically based on an algorithm that takes into consideration historical use, plus existing demand and the price range that people are willing to set.\"\n\nSponsored by @nebiusai"
+    },
+    {
+      "tweetId": "2107873734576963847",
+      "role": "support",
+      "authorHandle": "beth_kindig",
+      "url": "https://x.com/Beth_Kindig/status/2107873734576963847",
+      "tweetedAt": "2026-10-07T16:40:35.000Z",
+      "bestBit": "Nebius raising H100 prices by 17% and B300 prices by 21%",
+      "text": "GPU rental prices are rising across every generation, with Nebius raising H100 prices by 17% and B300 prices by 21%. \n\n$NBIS $CRWV $NVDA\nhttps://t.co/2bVjrROZ5M https://t.co/8paRN1wj6V"
+    },
+    {
+      "tweetId": "2107841727327518941",
+      "role": "support",
+      "authorHandle": "tengyanai",
+      "url": "https://x.com/tengyanAI/status/2107841727327518941",
+      "tweetedAt": "2026-10-07T14:33:24.000Z",
+      "bestBit": "RAM up the most at ~41%, ahead of every GPU on the list",
+      "text": "@SMASIMHO one input on the price side: nebius raised its on-demand list prices this month, with RAM up the most at ~41%, ahead of every GPU on the list."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "anthropic-taps-retailbook-to-market-uk-retail-portion-of-potential-100b-5650b04e",
+  "title": "Anthropic Taps RetailBook to Market UK Retail Portion of Potential $100B IPO",
+  "publishedAt": "2026-10-28T17:54:06.375Z",
+  "eventTimeApprox": "2026-10-28T07:00:28.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "startups",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "C",
+      "kind": "equity",
+      "role": "related",
+      "name": "Citigroup Inc.",
+      "hubKey": "c"
+    },
+    {
+      "ticker": "JPM",
+      "kind": "equity",
+      "role": "related",
+      "name": "JPMorgan Chase & Co.",
+      "hubKey": "jpm"
+    }
+  ],
+  "summary": "The AI startup has arranged for the investing platform RetailBook to manage the sale of its shares to individual traders in Britain as part of its broader market debut. The partnership coincides with a formal filing for an initial public offering with the SEC, a move that allows the public to examine the company's financial statements for the first time.\n\nAnthropic plans to allocate up to 20% of its potential $100B offering to retail investors, using Citigroup to coordinate distributions in markets including Canada, Japan and the UK. In the US, JPMorgan will lead the retail campaign, a role the bank previously held for SpaceX's $86.2B IPO. Despite the push for individual participation, reports indicate that retail investors in many Asian markets may find it difficult to obtain shares.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115499081162535287",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2115499081162535287",
+      "tweetedAt": "2026-10-28T17:40:59.000Z",
+      "bestBit": "ANTHROPIC IS SAID TO PLAN A UK SHARE OFFERING VIA RETAILBOOK, COLLABORATING WITH THE INVESTING PLATFORM TO MARKET ITS SHARES TO UK RETAIL TRADERS",
+      "text": "ANTHROPIC IS SAID TO PLAN A UK SHARE OFFERING VIA RETAILBOOK, COLLABORATING WITH THE INVESTING PLATFORM TO MARKET ITS SHARES TO UK RETAIL TRADERS AS PART OF ITS MASSIVE IPO"
+    },
+    {
+      "tweetId": "2115242532523167950",
+      "role": "support",
+      "authorHandle": "iponewsroom_",
+      "url": "https://x.com/IPONewsroom_/status/2115242532523167950",
+      "tweetedAt": "2026-10-28T00:41:33.000Z",
+      "bestBit": "Citigroup will coordinate retail sales outside the US, including in the UK, Canada, Japan, and Australia",
+      "text": "ANTHROPIC PICKED JPMORGAN $JPM TO LEAD SALES OF ITS IPO SHARES TO EVERYDAY INVESTORS\n\nAnthropic has weighed setting aside about 15% to 20% of the IPO for individual investors, per Bloomberg. JPMorgan CEO Jamie Dimon is expected to take part in the bank's campaign.\n\nJPMorgan ran the same role for SpaceX's $86.2B IPO, which drew more than $100B of demand from individual investors.\n\nCitigroup will coordinate retail sales outside the US, including in the UK, Canada, Japan, and Australia."
+    },
+    {
+      "tweetId": "2115240005342032058",
+      "role": "source",
+      "authorHandle": "tradfi",
+      "url": "https://x.com/tradfi/status/2115240005342032058",
+      "tweetedAt": "2026-10-28T00:31:31.000Z",
+      "bestBit": "ANTHROPIC SAID TO WEIGH OFFERING 15% TO 20% OF IPO TO RETAIL",
+      "text": "*ANTHROPIC SAID TO WEIGH OFFERING 15% TO 20% OF IPO TO RETAIL"
+    },
+    {
+      "tweetId": "2115269882069561530",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2115269882069561530",
+      "tweetedAt": "2026-10-28T02:30:14.000Z",
+      "bestBit": "tapped JPMorgan to lead US sales of shares to individual investors in its potentially record-setting IPO",
+      "text": "Anthropic has tapped JPMorgan to lead US sales of shares to individual investors in its potentially record-setting IPO, sources say https://t.co/FPnEl0knF9"
+    },
+    {
+      "tweetId": "2115378075181383779",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2115378075181383779",
+      "tweetedAt": "2026-10-28T09:40:09.000Z",
+      "bestBit": "Getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible for much of Asia",
+      "text": "Getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible for much of Asia https://t.co/7ER75HXICU"
+    },
+    {
+      "tweetId": "2115424020942463434",
+      "role": "support",
+      "authorHandle": "edludlow",
+      "url": "https://x.com/EdLudlow/status/2115424020942463434",
+      "tweetedAt": "2026-10-28T12:42:43.000Z",
+      "bestBit": "Anthropic filed for an IPO with the SEC. For the first time, the public can analyze the AI company's financials",
+      "text": "RT @BloombergTV: Anthropic filed for an IPO with the SEC. For the first time, the public can analyze the AI company's financials and not on…"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropic-plans-to-allocate-20percent-of-potential-100b-ipo-to-retail-in-cd293613",
+    "title": "Anthropic Plans to Allocate 20% of Potential $100B IPO to Retail Investors",
+    "publishedAt": "2026-10-28T15:24:18.544Z",
+    "eventTimeApprox": "2026-10-28T02:04:34.500Z",
+    "routingTopicKeys": [
+      "startups",
+      "us-markets",
+      "ai"
+    ],
+    "tweetCount": 11,
+    "authorCount": 8
+  }
+}

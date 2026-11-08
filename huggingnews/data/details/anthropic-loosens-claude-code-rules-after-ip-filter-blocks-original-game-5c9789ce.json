@@ -1,0 +1,147 @@
+{
+  "slug": "anthropic-loosens-claude-code-rules-after-ip-filter-blocks-original-game-5c9789ce",
+  "title": "Anthropic Loosens Claude Code Rules After IP Filter Blocks Original Game Projects",
+  "publishedAt": "2026-11-04T05:40:02.254Z",
+  "eventTimeApprox": "2026-10-31T10:52:42.500Z",
+  "isFreshStory": false,
+  "tweetCount": 35,
+  "authorCount": 25,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2116062991686721968/HV3D_otWQAAicKf-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2116062991686721968/HV3D_otWQAAicKf-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "chasmmmmmmmmmmm",
+      "tweetUrl": "https://x.com/chasmmmmmmmmmmm/status/2116062991686721968"
+    }
+  },
+  "summary": "The developer of the Claude AI assistant has released a software update to allow its coding tool to process references to existing video games during the creation of new software. Version 2.1.317 of Claude Code clarifies that users can name specific titles to describe a game's mechanics or genre for original projects, though the assistant will continue to refuse requests to recreate a copy of an existing game.\n\nThe revision comes after a rule implemented around Oct. 27 began blocking legitimate development projects that referenced external titles, including those in the public domain. The initial restriction, deployed to the Opus 5.5 prompt via a server-side flag called \"tengu_heron_brook,\" was intended to prevent intellectual property infringement. Anthropic's Addy Osmani acknowledged the prior prompt was too aggressive, though he noted that using the tool to infringe IP remains a violation of the company's usage policy.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116062991686721968",
+      "role": "source",
+      "authorHandle": "chasmmmmmmmmmmm",
+      "url": "https://x.com/chasmmmmmmmmmmm/status/2116062991686721968",
+      "tweetedAt": "2026-10-30T07:01:46.000Z",
+      "bestBit": "Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.",
+      "text": "ANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\n\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\n\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\n\nIs this the end of game rewrites, modding and everything in between?"
+    },
+    {
+      "tweetId": "2116213240363729013",
+      "role": "source",
+      "authorHandle": "addyosmani",
+      "url": "https://x.com/addyosmani/status/2116213240363729013",
+      "tweetedAt": "2026-10-30T16:58:48.000Z",
+      "bestBit": "using Claude to infringe IP is against our usage policy",
+      "text": "@chasmmmmmmmmmmm We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. \n\nOriginal games, genre games, and games built from your own designs and assets are meant to keep working. \n\nWe'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way."
+    },
+    {
+      "tweetId": "2117848568535106001",
+      "role": "source",
+      "authorHandle": "addyosmani",
+      "url": "https://x.com/addyosmani/status/2117848568535106001",
+      "tweetedAt": "2026-11-04T05:17:01.000Z",
+      "bestBit": "We've updated that rule in 2.1.317. You can name a game to describe what you want and Claude should now build an original game in that genre.",
+      "text": "An update on building games with Claude Code:\n\nLast week some of you ran into Claude Code pushing back on game projects it should have just built. We'd added a short rule to the Opus 5.5 prompt to steer Claude away from recreating specific existing games, but it was also kicking in when you referenced one just to describe the mechanics you wanted.\n \nWe've updated that rule in 2.1.317. You can name a game to describe what you want and Claude should now build an original game in that genre. If you ask for a copy of the original, it'll offer to build something similar instead.\n \nWe want Claude to be as helpful as possible when you're building something original, but also to protect your work if someone else tries to copy it. We'll keep improving this, so let us know if Claude turns down work that's yours. Thanks to everyone who shared feedback!",
+      "quotedTweetText": "@chasmmmmmmmmmmm We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. \n\nOriginal games, genre games, and games built from your own designs and assets are meant to keep working. \n\nWe'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way."
+    },
+    {
+      "tweetId": "2116959057495871509",
+      "role": "commentary",
+      "authorHandle": "n8programs",
+      "url": "https://x.com/N8Programs/status/2116959057495871509",
+      "tweetedAt": "2026-11-01T18:22:25.000Z",
+      "bestBit": "Claude refuses to make an exact copy of The Landlord's Game, a game made in 1904 which has been in the public domain for decades.",
+      "text": "Claude refuses to make an exact copy of The Landlord's Game, a game made in 1904 which has been in the public domain for decades. https://t.co/72Wp0mZhho"
+    },
+    {
+      "tweetId": "2116195938456965611",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2116195938456965611",
+      "tweetedAt": "2026-10-30T15:50:03.000Z",
+      "bestBit": "Looks like the rule arrived through a server-side flag, “tengu_heron_brook”, so it reaches every session without an update and has no off switch.",
+      "text": "Anthropic is cracking down on video game clones.\n\nLooks like the rule arrived through a server-side flag, “tengu_heron_brook”, so it reaches every session without an update and has no off switch.\n\nThe instruction still permits original games, games in a genre and projects built from a user’s own designs and assets.\n\nExact rule text:\n“Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\n\nTo enforce the above rule it at scale, Anthropic can reuse the classifier stack it built for weapons jailbreaks: small models trained on a written rule list that read each request with its output, plus cheap probes on Claude’s internal activations that flag intent to copy a specific title. \n\nResearch tools go further, comparing code even after renaming, matching runtime behaviour and sprites, and measuring “distance” between game designs. i.e. measuring distance between them with concept vectors.\n\nThe hard part is legal: copyright protects a game’s look and feel, not its mechanics, so every detector has to separate “same genre” from “same game,” and that is where false refusals will come from.",
+      "quotedTweetText": "ANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\n\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\n\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\n\nIs this the end of game rewrites, modding and everything in between?"
+    },
+    {
+      "tweetId": "2116222244234121586",
+      "role": "commentary",
+      "authorHandle": "stevesi",
+      "url": "https://x.com/stevesi/status/2116222244234121586",
+      "tweetedAt": "2026-10-30T17:34:35.000Z",
+      "bestBit": "The burden of IP enforcement falls to the owner, not to the platform.",
+      "text": "Every compute platform has been defined by the games that could be built and rebuilt, by the programs could be duplicated, and by mashups of what came before.\n\nThe burden of IP enforcement falls to the owner, not to the platform. Platforms can have all the rules they want but caution in over-playing this hand should dominate decision-making.",
+      "quotedTweetText": "ANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\n\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\n\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\n\nIs this the end of game rewrites, modding and everything in between?"
+    },
+    {
+      "tweetId": "2116148367978025457",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2116148367978025457",
+      "tweetedAt": "2026-10-30T12:41:01.000Z",
+      "bestBit": "Anthropic no longer allows good benchmarks like Minecraft or GTA 5 recreational games.",
+      "text": "Another reason for open source. Unfortunately, Anthropic no longer allows good benchmarks like Minecraft or GTA 5 recreational games.\n\nTo be fair: probably as a consequence of the IPO, to avoid legal issues due to copyright infringement.",
+      "quotedTweetText": "ANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\n\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\n\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\n\nIs this the end of game rewrites, modding and everything in between?"
+    },
+    {
+      "tweetId": "2116528925715341474",
+      "role": "commentary",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2116528925715341474",
+      "tweetedAt": "2026-10-31T13:53:13.000Z",
+      "bestBit": "Good move. Well done.",
+      "text": "Good move. Well done.",
+      "quotedTweetText": "@chasmmmmmmmmmmm We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. \n\nOriginal games, genre games, and games built from your own designs and assets are meant to keep working. \n\nWe'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropic-blocks-the-recreation-of-existing-video-games-in-claude-code-a8697468",
+    "title": "Anthropic Blocks the Recreation of Existing Video Games in Claude Code",
+    "publishedAt": "2026-10-30T10:08:04.836Z",
+    "eventTimeApprox": "2026-10-30T08:18:18.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 31,
+    "authorCount": 25
+  }
+}

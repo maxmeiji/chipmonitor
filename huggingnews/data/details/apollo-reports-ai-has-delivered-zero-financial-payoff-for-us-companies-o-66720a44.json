@@ -1,0 +1,131 @@
+{
+  "slug": "apollo-reports-ai-has-delivered-zero-financial-payoff-for-us-companies-o-66720a44",
+  "title": "Apollo Reports AI Has Delivered Zero Financial Payoff for US Companies Outside Tech",
+  "publishedAt": "2026-10-25T07:08:47.037Z",
+  "eventTimeApprox": "2026-10-23T20:47:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 42,
+  "authorCount": 28,
+  "routingTopicKeys": [
+    "ai",
+    "us-markets"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112538842762727694/HVE-4faWoAADk4K-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112538842762727694/HVE-4faWoAADk4K-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "kurtsaltrichter",
+      "tweetUrl": "https://x.com/kurtsaltrichter/status/2112538842762727694"
+    }
+  },
+  "summary": "A report from Apollo Global Management concludes that artificial intelligence has provided no financial benefit to the broader US corporate sector beyond the technology industry. While the \"Mag 7\" tech giants saw improvements in revenue per worker and profit margins, these metrics remained flat for the other 493 companies in the S&P 500, leading the firm to categorize AI as a cost center that reduces margins for non-tech businesses.\n\nThe warning follows a period of slowing commercial traction, with business spending on AI tokens growing just 0.2% in September, down from 42% in July, based on data from Ramp. This stagnation accompanies a decline in return on invested capital for the five largest hyperscalers, which fell from 38% to 20%. The Bank for International Settlements also highlighted risks of circular financing in the sector, noting that 80.4% of the most aggressive AI spenders rely on venture capital rather than their own generated revenue.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113974550178431418",
+      "role": "source",
+      "authorHandle": "davidsirota",
+      "url": "https://x.com/davidsirota/status/2113974550178431418",
+      "tweetedAt": "2026-10-24T12:43:03.000Z",
+      "bestBit": "the technology has delivered zero financial payoff to corporate America outside of tech.",
+      "text": "One of the world’s largest private equity firms just issued a report concluding: “Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.” https://t.co/7jWqVnBQM1"
+    },
+    {
+      "tweetId": "2112538842762727694",
+      "role": "commentary",
+      "authorHandle": "kurtsaltrichter",
+      "url": "https://x.com/kurtsaltrichter/status/2112538842762727694",
+      "tweetedAt": "2026-10-20T13:38:03.000Z",
+      "bestBit": "Corporate token spending growth collapsed from 42% in July to 0.2% in September, per Ramp data.",
+      "text": "The \"unlimited AI demand\" story just hit a wall.\n\nCorporate token spending growth collapsed from 42% in July to 0.2% in September, per Ramp data. Meanwhile, return on invested capital at the five biggest hyperscalers fell from 38% to 20% as capex outruns earnings. The infinite-demand thesis needs infinite returns. The returns are going the other way."
+    },
+    {
+      "tweetId": "2113734106546573722",
+      "role": "commentary",
+      "authorHandle": "kobeissiletter",
+      "url": "https://x.com/KobeissiLetter/status/2113734106546573722",
+      "tweetedAt": "2026-10-23T20:47:36.000Z",
+      "bestBit": "Since July, overall AI token prices have declined -48%, to $0.65 per million tokens, the lowest since at least January 2026.",
+      "text": "BREAKING: AI token spending grew just +0.2% MoM in September, the lowest monthly growth since November 2025.\n\nThis follows a +1.0% increase in August, marking two consecutive months of growth at or below +1.0%, the weakest streak in at least 18 months.\n\nThis comes as falling prices for the most advanced AI models, alongside improvements in efficiency and quality, drive down the average price per million tokens processed by these models.\n\nSince July, overall AI token prices have declined -48%, to $0.65 per million tokens, the lowest since at least January 2026.\n\nLower costs could unlock the next wave of AI adoption."
+    },
+    {
+      "tweetId": "2113649767700140532",
+      "role": "analysis",
+      "authorHandle": "dkthomp",
+      "url": "https://x.com/DKThomp/status/2113649767700140532",
+      "tweetedAt": "2026-10-23T15:12:28.000Z",
+      "bestBit": "The top 1 percent of AI spenders accounts for 80 percent of all AI spending.",
+      "text": "New pod/newsletter: THE AI QUESTION THAT THE VALLEY FEARS AND WALL STREET CAN'T ANSWER:\n\nHow much external revenue is the AI ecosystem actually generating?\n\n“All I care about is are the revenues coming into the system greater than the costs of building the whole value chain,” tech analyst Craig Moffett recently told @benthompson. “The market is panicking right now, because [it's] saying, ‘We don’t know.’\"\n\nI talked to Ramp economist @arakharazian about what his firm, which oversees billions in AI corporate spending, is seeing. He's worried, too. Kharazian sees several \"cracks\" in the AI thesis:\n\n1. AI spending is highly concentrated among VC-backed tech companies\n\nThe top 1 percent of AI spenders accounts for 80 percent of all AI spending. They are highly likely to be backed by venture capital. Why that's awfully interesting: AI demand is supposed to account for revenue generated outside of the AI capital cycle. But if most AI spending comes from companies that rely on venture capital firms that also rely on AI valuations, this seems like another example of the AI capital cycle paying itself.\n\n2. Spending among the top 1% of companies is stagnating\n\nPer-employee spending among Ramp’s top 1 percent has fallen in the last few months. Token spending—that is, the money businesses pay to run models through their software—recorded “two straight months of virtually no growth,” Kharazian wrote.\n\n3. Falling token prices\n\nIntelligence getting cheaper is good for many parts of the AI ecosystem. But it's a challenge for external revenue, as firms get better at avoiding the most advance models to find cheaper tools to do most of their work. \n\nhttps://t.co/CSrmLS25gF"
+    },
+    {
+      "tweetId": "2114001967223898338",
+      "role": "support",
+      "authorHandle": "arakharazian",
+      "url": "https://x.com/arakharazian/status/2114001967223898338",
+      "tweetedAt": "2026-10-24T14:31:59.000Z",
+      "bestBit": "more than a third of AI spend by the top 1% of firms is already going to compute",
+      "text": "Interpret this how you will, but more than a third of AI spend by the top 1% of firms is already going to compute https://t.co/BBi7MoMX0w"
+    },
+    {
+      "tweetId": "2114102321181606336",
+      "role": "analysis",
+      "authorHandle": "dowdedward",
+      "url": "https://x.com/DowdEdward/status/2114102321181606336",
+      "tweetedAt": "2026-10-24T21:10:46.000Z",
+      "bestBit": "And 80.4% of the heaviest AI spenders run on venture capital, not their own revenue.",
+      "text": "The Bank for International Settlements is now saying just this. Echos of 2000s telecom boom. \n\n✅circular financing that makes demand partly endogenous (incestuous) \n✅concentrated upstream linkages that amplify spillovers\n✅opacity arising from private markets and off-balance-sheet commitments https://t.co/GVipH8DmFR",
+      "quotedTweetText": "The AI boom is narrower than almost anyone admits.\n\nThe top 10% of firms account for 99.5% of all model-serving spend, 99% of neocloud, and 95%+ of OpenAI and Anthropic billings. And 80.4% of the heaviest AI spenders run on venture capital, not their own revenue.\n\nThis is a concentrated, circular buildout. A handful of companies are the entire trade."
+    },
+    {
+      "tweetId": "2113820156992376922",
+      "role": "commentary",
+      "authorHandle": "saxena_puru",
+      "url": "https://x.com/saxena_puru/status/2113820156992376922",
+      "tweetedAt": "2026-10-24T02:29:32.000Z",
+      "bestBit": "Token volume kept rising even as unit prices fell.",
+      "text": "GPU rental prices are still rising while September AI token dollar spend was basically flat (+0.2% MoM).\n\nThat’s NOT weak demand. Token volume kept rising even as unit prices fell. As per @vercel usage (token demand) is soaring, spend is +1,180% since December as the average price of token has fallen ~47% due to cheaper open-weight models (these tokens require almost the same compute as the frontier tokens for comparable models). \n\nDollar spend is a noisy signal right now. Token volume is the cleaner read on actual inference demand.\n\nRising GPU rates = supply still tight (packaging, HBM, power). Volume growth = the demand that ultimately drives more silicon, interconnect, and capacity.\n\nDifferent metrics for different parts of the stack:\n\n• Token volume → better structural signal for the semi/infra trade \n• GPU rental prices/utilisation → more direct for capacity owners (neoclouds)\n\nFalling token prices + sticky-high GPU rates is NOT the end of the AI buildout. It’s Jevons playing out in real time.\n\nDemand intact. Supply constrained. We've placed our \"chips\" accordingly.  https://t.co/YKr5pL78cE"
+    },
+    {
+      "tweetId": "2114128720818811087",
+      "role": "commentary",
+      "authorHandle": "azeem",
+      "url": "https://x.com/azeem/status/2114128720818811087",
+      "tweetedAt": "2026-10-24T22:55:40.000Z",
+      "bestBit": "While Apollo does have a private equity business, this represents less than 7% of its AUM.",
+      "text": "While Apollo does have a private equity business, this represents less than 7% of its AUM.",
+      "quotedTweetText": "One of the world’s largest private equity firms just issued a report concluding: “Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.” https://t.co/7jWqVnBQM1"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "top-ai-spenders-are-mostly-vc-backed-as-model-revenue-growth-stalls-2abe1f04",
+    "title": "Top AI Spenders Are Mostly VC Backed as Model Revenue Growth Stalls",
+    "publishedAt": "2026-10-24T02:54:16.266Z",
+    "eventTimeApprox": "2026-10-22T13:55:46.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "startups"
+    ],
+    "tweetCount": 26,
+    "authorCount": 17
+  }
+}

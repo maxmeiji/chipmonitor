@@ -1,0 +1,51 @@
+{
+  "slug": "snaptrude-launches-ai-agent-that-generates-construction-ready-building-m-46f1e479",
+  "title": "Snaptrude Launches AI Agent That Generates Construction Ready Building Models from Briefs",
+  "publishedAt": "2026-10-29T14:52:29.534Z",
+  "eventTimeApprox": "2026-10-29T14:26:35.500Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "Snaptrude has launched an artificial intelligence agent that converts project briefs into editable 3D building models including structural and mechanical, electrical, and plumbing layouts. The tool generates construction-ready models at a Level of Development (LOD) 400 and produces the technical drawings used by building teams. It allows architects to coordinate changes across a project automatically, such as updating layouts and engineering plans in response to a budget reduction, and can build components based on manufacturer specification sheets.\n\nSince September, more than 2,000 designers in an early access phase have used the agent to complete over 25,000 design tasks. To measure the tool's performance, the company also introduced AECBench, a benchmark that scores AI results against project briefs and professional architectural reviews. Snaptrude's users have processed more than 140 billion tokens since August, and the firm's clients include Jacobs and Kajima.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115808566439264349",
+      "role": "source",
+      "authorHandle": "altafganihar",
+      "url": "https://x.com/altafganihar/status/2115808566439264349",
+      "tweetedAt": "2026-10-29T14:10:46.000Z",
+      "bestBit": "Since August our users have gone through more than 140 billion tokens",
+      "text": "Today we're launching @snaptrude Agent, the most advanced agent for building design.\n\nIt does real design work with you, from a site to a construction-ready LOD 400 model with structure, MEP and drawings. Then can go back to your existing software with your families intact.\n\nAbout a year ago we bet the company on AI. Honestly the insight came from software engineering. It wasn't long ago that autocomplete felt like a big deal, and now engineers direct agents that write a lot of the code. I think the same shift is coming to how we design buildings, and it's already started.\n\nMost designers I meet aren't short on skill, they're short on time. Take the call every design team dreads, the client cuts the budget by 30%. Today that's a bad month for everyone. With the agent you're the director. You decide where the cost comes out, and it updates the layout, coordinates the structure and MEP, and redoes the drawings. So when design exploration gets this cheap, we go from 3 options to 300, and more options means better buildings.\n\nSince August our users have gone through more than 140 billion tokens, and firms like Jacobs, Studio+, Kajima, VMDO, Dekker and hundreds of others use Snaptrude today. In our early access, more than 2,000 designers have run over 25,000 tasks through the agent since September.\n\nWe also built a benchmark for this, AECBench, because in AEC an almost correct answer is still wrong. It gives AI the same brief an architect would get, has its design in a real BIM model, and scores the result against the brief and against how architects review design. We're publishing the first results today, link below.\n\nThank you @prashanthp at @Accel and Shub and the team at @foundamental for backing us when this was still a bet, and the Snaptrude team, who built every bit of this. Really proud of you all.\n\nThanks to our investors, @scottbelsky, @andreasklinger, @thilokonzok, @immad, @CindyXBi, @DanilaVladi, @jmwass, rahulchaudhary, @adamecourt,  Zach Ginsburg, Alex duff, Paul grossinger, really appreciate all the help along the way."
+    },
+    {
+      "tweetId": "2115811173895717343",
+      "role": "signal",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2115811173895717343",
+      "tweetedAt": "2026-10-29T14:21:08.000Z",
+      "bestBit": "In our early access, more than 2,000 designers have run over 25,000 tasks through the agent since September",
+      "text": "Snaptrude just launched an AI agent that turns building briefs into editable models with structural and engineering plans.\n\nAnother example how AI agents are moving toward doing actual engineering work. https://t.co/jS0khQZQtP",
+      "quotedTweetText": "Today we're launching @snaptrude Agent, the most advanced agent for building design.\n\nIt does real design work with you, from a site to a construction-ready LOD 400 model with structure, MEP and drawings. Then can go back to your existing software with your families intact.\n\nAbout a year ago we bet the company on AI. Honestly the insight came from software engineering. It wasn't long ago that autocomplete felt like a big deal, and now engineers direct agents that write a lot of the code. I think the same shift is coming to how we design buildings, and it's already started.\n\nMost designers I meet aren't short on skill, they're short on time. Take the call every design team dreads, the client cuts the budget by 30%. Today that's a bad month for everyone. With the agent you're the director. You decide where the cost comes out, and it updates the layout, coordinates the structure and MEP, and redoes the drawings. So when design exploration gets this cheap, we go from 3 options to 300, and more options means better buildings.\n\nSince August our users have gone through more than 140 billion tokens, and firms like Jacobs, Studio+, Kajima, VMDO, Dekker and hundreds of others use Snaptrude today. In our early access, more than 2,000 designers have run over 25,000 tasks through the agent since September.\n\nWe also built a benchmark for this, AECBench, because in AEC an almost correct answer is still wrong. It gives AI the same brief an architect would get, has its design in a real BIM model, and scores the result against the brief and against how architects review design. We're publishing the first results today, link below.\n\nThank you @prashanthp at @Accel and Shub and the team at @foundamental for backing us when this was still a bet, and the Snaptrude team, who built every bit of this. Really proud of you all.\n\nThanks to our investors, @scottbelsky, @andreasklinger, @thilokonzok, @immad, @CindyXBi, @DanilaVladi, @jmwass, rahulchaudhary, @adamecourt,  Zach Ginsburg, Alex duff, Paul grossinger, really appreciate all the help along the way."
+    }
+  ],
+  "isSuperseded": false
+}

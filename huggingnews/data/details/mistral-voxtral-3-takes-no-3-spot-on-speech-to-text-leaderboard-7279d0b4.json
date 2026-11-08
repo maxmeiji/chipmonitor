@@ -1,0 +1,115 @@
+{
+  "slug": "mistral-voxtral-3-takes-no-3-spot-on-speech-to-text-leaderboard-7279d0b4",
+  "title": "Mistral Voxtral 3 Takes No. 3 Spot on Speech to Text Leaderboard",
+  "publishedAt": "2026-10-20T17:38:56.870Z",
+  "eventTimeApprox": "2026-10-20T16:54:09.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:MIST",
+      "kind": "private",
+      "role": "subject",
+      "name": "Mistral AI",
+      "hubKey": "mistral-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112579311395840320/HVFE8q1XUAETBZG-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112579311395840320/HVFE8q1XUAETBZG-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2112579311395840320"
+    }
+  },
+  "summary": "Mistral has deployed its Voxtral 3 speech models to OpenRouter with endpoints hosted in the European Union and zero-data-retention. The Voxtral Small Transcribe 3 model achieved a 2.1% AA-WER Index, placing it at number 3 on the Artificial Analysis Speech to Text leaderboard, ahead of ElevenLabs Scribe v2 at 2.2% and Grok Voice Transcribe 2.0 at 2.3%. The accompanying Voxtral 3 TTS model generates 112.3 characters per second—surpassing Eleven v4 Turbo's 78.1—and costs $13 per 1 million characters, undercutting Gemini 3.8 Flash TTS at $16.5.\n\nThe model family supports more than 50 languages and includes two batch transcription models and one real-time streaming model. Voxtral 3 TTS ranks 12th in both the Provider Voice and Controlled Voice arenas and scored 84.4% on the Pronunciation Robustness benchmark. These tools are part of a voice agents API capable of automating billing inquiries, appointment booking, and identity verification.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112574615318876178",
+      "role": "source",
+      "authorHandle": "mistralai",
+      "url": "https://x.com/MistralAI/status/2112574615318876178",
+      "tweetedAt": "2026-10-20T16:00:12.000Z",
+      "bestBit": "state-of-the-art Transcribe and Speech models powering Mistral’s new voice agents API",
+      "text": "Introducing Voxtral 3: state-of-the-art Transcribe and Speech models powering Mistral’s new voice agents API. 🧵 https://t.co/YA9HNVfq0u"
+    },
+    {
+      "tweetId": "2112579287194775903",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2112579287194775903",
+      "tweetedAt": "2026-10-20T16:18:46.000Z",
+      "bestBit": "Voxtral Small Transcribe 3 takes the #3 spot on the Artificial Analysis Speech to Text leaderboard with a 2.1% AA-WER Index, ahead of ElevenLabs Scribe v2 (2.2%) and Grok Voice Transcribe 2.0 (2.3%)",
+      "text": "Mistral has released new Speech models! Voxtral Small Transcribe 3 takes the #3 spot on the Artificial Analysis Speech to Text leaderboard, and Voxtral 3 TTS enters the top 12 in both Text to Speech arenas\n\n@MistralAI has released Voxtral 3: a new Text to Speech model and three Speech to Text models (Small Transcribe 3, Mini Transcribe 3 and Mini Transcribe Realtime 3). We evaluated all of them.\n\nKey takeaways:\n\n➤ Speech to Text: Voxtral Small Transcribe 3 takes the #3 spot on the Artificial Analysis Speech to Text leaderboard with a 2.1% AA-WER Index, ahead of ElevenLabs Scribe v2 (2.2%) and Grok Voice Transcribe 2.0 (2.3%). Voxtral Mini Transcribe 3 lands at #5 with 2.2%.\n\n➤ Streaming Speech to Text: Voxtral Mini Transcribe Realtime 3 scores 3.3% final-transcript AA-WER at the 960 ms setting (#6 of 46) and 3.6% at 480 ms, down from 5.2% for the previous Voxtral Mini Transcribe Realtime.\n\n➤ Text to Speech, Provider Voice: Voxtral 3 TTS scores an Elo of 1,218 across 1,599 arena appearances, ranking #12 of 98, just behind Breeze TTS 2 at 1,221 and ahead of Inworld Realtime TTS-2 Flash and StepAudio 2.5 TTS at 1,216. It ranks #13 in English (US) and #12 in English (UK).\n\n➤ Text to Speech, Controlled Voice: Voxtral 3 TTS scores 1,068 across 1,614 appearances, ranking #12 of 43 with the same 8 cloned voices, behind Eleven v3 at 1,072 and level with Ant Group's Ming-3.0-tts at 1,068. It ranks #10 in Assistants and #10 in English (UK).\n\n➤ Pronunciation Robustness: Voxtral 3 TTS scores 84.4%, ranking #13 of 32 models, behind Qwen-Audio-3.1-TTS-Plus at 84.6% and ahead of HeyGen Voice at 83.2%. It ranks #3 in Standalone Terms at 93.9%.\n\n➤ Pricing: Voxtral 3 TTS is priced at $13/1M characters, compared to Gemini 3.8 Flash TTS at $16.5/1M characters, Eleven v4 Turbo at $40/1M characters and Simba 3.2 at $6.6/1M characters.\n\nSee more details and listen to samples below ⬇️"
+    },
+    {
+      "tweetId": "2112595979950334291",
+      "role": "source",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2112595979950334291",
+      "tweetedAt": "2026-10-20T17:25:06.000Z",
+      "bestBit": "Mistral released two new speech-to-text models and a new text-to-speech model, across 50+ languages",
+      "text": "Voxtral 3 from @MistralAI is now on OpenRouter!\n\nMistral released two new speech-to-text models and a new text-to-speech model, across 50+ languages.",
+      "quotedTweetText": "Introducing Voxtral 3: state-of-the-art Transcribe and Speech models powering Mistral’s new voice agents API. 🧵 https://t.co/YA9HNVfq0u"
+    },
+    {
+      "tweetId": "2112595992096977366",
+      "role": "support",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2112595992096977366",
+      "tweetedAt": "2026-10-20T17:25:09.000Z",
+      "bestBit": "All three models have EU-hosted and zero-data-retention endpoints on OpenRouter",
+      "text": "All three models have EU-hosted and zero-data-retention endpoints on OpenRouter, through the same /audio/transcriptions and /audio/speech API as our other speech models."
+    },
+    {
+      "tweetId": "2112587924046815630",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2112587924046815630",
+      "tweetedAt": "2026-10-20T16:53:05.000Z",
+      "bestBit": "Voxtral 3 TTS generates 112.3 characters per second, faster than Eleven v4 Turbo at 78.1",
+      "text": "Voxtral 3 TTS generates 112.3 characters per second, faster than Eleven v4 Turbo at 78.1, Simba 3.2 at 77.8, Gemini 3.8 Flash TTS at 55.3, and Breeze TTS 2 at 43.4 characters per second.\n\nAt $13/1M characters, Voxtral 3 TTS is also priced below Gemini 3.8 Flash TTS at $16.5/1M, Breeze TTS 2 at $34/1M, and Eleven v4 Turbo at $40/1M, though above Simba 3.2 at $6.6/1M characters."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "mistral-ships-voxtral-3-speech-models-for-35-languages-3ef937c5",
+    "title": "Mistral Ships Voxtral 3 Speech Models for 35+ Languages",
+    "publishedAt": "2026-10-20T17:07:21.719Z",
+    "eventTimeApprox": "2026-10-20T16:37:19.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

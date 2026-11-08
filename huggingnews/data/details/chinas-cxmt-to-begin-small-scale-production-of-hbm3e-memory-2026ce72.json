@@ -1,0 +1,59 @@
+{
+  "slug": "chinas-cxmt-to-begin-small-scale-production-of-hbm3e-memory-2026ce72",
+  "title": "China's CXMT to Begin Small-Scale Production of HBM3E Memory",
+  "publishedAt": "2026-10-28T05:23:04.249Z",
+  "eventTimeApprox": "2026-10-28T04:59:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "summary": "The Chinese chip manufacturer plans to start producing its HBM3E high-bandwidth memory chips on a small scale within the next two months. Sources told Reuters that the current yield for the new chips is roughly 20% to 30%, and the company has already sent customers two versions of the hardware, including an updated design intended to improve the number of usable units per wafer.\n\nWhile the HBM3E chips run at 8 Gbps—faster than the 6.4 Gbps of standard HBM3—they fall short of the 9.2 Gbps standard and the performance levels of industry leader SK Hynix. In internal tests, the performance of CXMT's latest chips remained closer to the previous HBM3 generation than to SK Hynix's current HBM3E offering.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115307540494098601",
+      "role": "source",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2115307540494098601",
+      "tweetedAt": "2026-10-28T04:59:52.000Z",
+      "bestBit": "CXMT’S CURRENT HBM3E YIELD IS 20%.",
+      "text": "RTRS: ACCORDING TO SOURCES, CXMT PLANS TO BEGIN SMALL-SCALE PRODUCTION OF HBM3E WITHIN THE NEXT TWO MONTHS.\n\nRTRS: CXMT’S CURRENT HBM3E YIELD IS 20%.\n\nRTRS: CXMT’S TEST RESULTS SHOWED THAT ITS HBM3E PERFORMANCE WAS CLOSER TO SK HYNIX’S PREVIOUS-GENERATION HBM3 AND FELL SHORT OF SK HYNIX’S HBM3E."
+    },
+    {
+      "tweetId": "2115310161330163932",
+      "role": "commentary",
+      "authorHandle": "zephyr_z9",
+      "url": "https://x.com/zephyr_z9/status/2115310161330163932",
+      "tweetedAt": "2026-10-28T05:10:17.000Z",
+      "bestBit": "CXMT's \"HBM3E\" (it's more like a better HBM3) runs at 8 Gbps",
+      "text": "So, CXMT's \"HBM3E\" (it's more like a better HBM3) runs at 8 Gbps\nThe standard HBM3 is at 6.4 Gbps, and HBM3E is at 9.2 Gbps",
+      "quotedTweetText": "RTRS: ACCORDING TO SOURCES, CXMT PLANS TO BEGIN SMALL-SCALE PRODUCTION OF HBM3E WITHIN THE NEXT TWO MONTHS.\n\nRTRS: CXMT’S CURRENT HBM3E YIELD IS 20%.\n\nRTRS: CXMT’S TEST RESULTS SHOWED THAT ITS HBM3E PERFORMANCE WAS CLOSER TO SK HYNIX’S PREVIOUS-GENERATION HBM3 AND FELL SHORT OF SK HYNIX’S HBM3E."
+    }
+  ],
+  "isSuperseded": false
+}

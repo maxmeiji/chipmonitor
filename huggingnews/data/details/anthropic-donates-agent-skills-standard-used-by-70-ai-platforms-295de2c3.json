@@ -1,0 +1,77 @@
+{
+  "slug": "anthropic-donates-agent-skills-standard-used-by-70-ai-platforms-295de2c3",
+  "title": "Anthropic Donates Agent Skills Standard Used by 70 AI Platforms",
+  "publishedAt": "2026-10-22T18:38:59.814Z",
+  "eventTimeApprox": "2026-10-22T18:17:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The Agentic AI Foundation now controls the naming rights, logo, and technical infrastructure for the Agent Skills open standard. Anthropic transferred the asset's domain and GitHub organization to the nonprofit and proposed a new development roadmap including security guidance and versioned releases. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated the standard since December 2025.\n\nThe framework originated as a technical experiment within the company's Claude Code tool before seeing wide industry adoption. This move follows a previous transfer by Anthropic, which donated the Model Context Protocol (MCP) to the same foundation to facilitate open development across the AI ecosystem.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113328526413996100",
+      "role": "source",
+      "authorHandle": "claudedevs",
+      "url": "https://x.com/ClaudeDevs/status/2113328526413996100",
+      "tweetedAt": "2026-10-22T17:55:59.000Z",
+      "bestBit": "Since December 2025, 70+ agent platforms have integrated the standard, including ChatGPT, Cursor, GitHub Copilot, and VS Code",
+      "text": "We're donating Agent Skills to the Agentic AI Foundation (@AgenticAIFdn), the same foundation we donated MCP to.\n\nSince December 2025, 70+ agent platforms have integrated the standard, including ChatGPT, Cursor, GitHub Copilot, and VS Code. \n\nHere's what that means for you:"
+    },
+    {
+      "tweetId": "2113335401213739137",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2113335401213739137",
+      "tweetedAt": "2026-10-22T18:23:18.000Z",
+      "bestBit": "ANTHROPIC SAYS IT HAS DONATED THE AGENT SKILLS OPEN STANDARD TO THE AGENTIC AI FOUNDATION, ALONG WITH THE AGENT SKILLS NAME, LOGO, GITHUB ORGANIZATION AND DOMAIN",
+      "text": "ANTHROPIC SAYS IT HAS DONATED THE AGENT SKILLS OPEN STANDARD TO THE AGENTIC AI FOUNDATION, ALONG WITH THE AGENT SKILLS NAME, LOGO, GITHUB ORGANIZATION AND DOMAIN, AND HAS PROPOSED A ROADMAP FOR AGENT SKILLS INCLUDING VERSIONED RELEASES AND SECURITY GUIDANCE"
+    },
+    {
+      "tweetId": "2113333859907747871",
+      "role": "analysis",
+      "authorHandle": "bcherny",
+      "url": "https://x.com/bcherny/status/2113333859907747871",
+      "tweetedAt": "2026-10-22T18:17:10.000Z",
+      "bestBit": "Agent Skills started as an experiment in Claude Code",
+      "text": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to donate it to the @AgenticAIFdn, next to MCP.",
+      "quotedTweetText": "We're donating Agent Skills to the Agentic AI Foundation (@AgenticAIFdn), the same foundation we donated MCP to.\n\nSince December 2025, 70+ agent platforms have integrated the standard, including ChatGPT, Cursor, GitHub Copilot, and VS Code. \n\nHere's what that means for you:"
+    }
+  ],
+  "isSuperseded": false
+}

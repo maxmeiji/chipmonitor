@@ -1,0 +1,75 @@
+{
+  "slug": "carbon-x-14b-model-matches-gpt-61-sol-in-dna-tasks-at-lower-cost-62bd8550",
+  "title": "Carbon-X 14B Model Matches GPT-6.1 Sol in DNA Tasks at Lower Cost",
+  "publishedAt": "2026-11-01T15:37:49.799Z",
+  "eventTimeApprox": "2026-11-01T10:55:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113214040516268126/ew_WEia8llfHh2BL-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113214040516268126/ew_WEia8llfHh2BL-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2113213326687703040/vid/avc1/1600x1040/J14CSPSnuBCNNToT.mp4?tag=29",
+    "credit": {
+      "handle": "_lewtun",
+      "tweetUrl": "https://x.com/_lewtun/status/2113214040516268126"
+    }
+  },
+  "summary": "The creators of the FineDNA dataset have introduced Carbon-X, an open-weights AI tool that allows users to perform biological sequence analysis and variant effect prediction using natural language. The 14B parameter model performs within one point of the proprietary GPT-6.1 Sol on DNA benchmarks while operating at more than 1,000 times lower inference costs. To improve efficiency, the developers implemented a hybrid tokenizer that encodes DNA sequences using approximately 3 times fewer tokens than standard byte pair encoding.\n\nCarbon-X was trained using a multi-stage process on more than 300B tokens of genomic data and 300k supervised and reinforcement learning samples. Licensed under Apache 2.0, the model is capable of running locally on laptop hardware via llama.cpp. The developers also found that Carbon-X can act as a specialized subagent for other LLMs, such as Kimi K3, which saw an 11.1 point increase in performance when utilizing Carbon-X for genomic tasks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116914192124920099",
+      "role": "source",
+      "authorHandle": "_lewtun",
+      "url": "https://x.com/_lewtun/status/2116914192124920099",
+      "tweetedAt": "2026-11-01T15:24:08.000Z",
+      "bestBit": "Within a point of GPT-6.1 Sol at >1,000× lower inference cost.",
+      "text": "@m_att_dunn @adithya_s_k Thanks! We trained a model called Carbon-X on FineDNA and it performs well on specialised tasks like variant effect prediction \n\nIf you want something more general, I'd currently suggest gpt-6.1-sol: it was by far the least likely to refuse legitimate requests :)\n\nhttps://t.co/orIrAL7bHr",
+      "quotedTweetText": "Today we're releasing Carbon-X, a 14B model that brings DNA and natural language together for the first time 🧬\n\n1. Beats every open language model we tested across DNA benchmarks. Within a point of GPT-6.1 Sol at >1,000× lower inference cost.\n\n2. Mid-trained on 300B tokens of interleaved DNA and text, followed by SFT (without distillation!) and RL.\n\n3. A new hybrid tokenizer encodes DNA using ~3× fewer tokens than BPE.\n\n4. Gives other models a DNA specialist subagent: Kimi K3 gains 11.1 points when it consults Carbon-X.\n\n5. Runs locally on a laptop with llama.cpp. Apache 2.0. Your DNA stays on your hardware.\n\nModel: https://t.co/7wBE7WUVp1\nBlog: https://t.co/A3OjalTpIJ"
+    },
+    {
+      "tweetId": "2116817535932789059",
+      "role": "support",
+      "authorHandle": "_lewtun",
+      "url": "https://x.com/_lewtun/status/2116817535932789059",
+      "tweetedAt": "2026-11-01T09:00:03.000Z",
+      "bestBit": "Mid-training: 300B+ tokens of genomic sequences, papers and web pages mixing DNA and text.",
+      "text": "Happy to share 🧬 FineDNA, a multi-stage dataset to teach LLMs the meaning of life:\n\nMid-training: 300B+ tokens of genomic sequences, papers and web pages mixing DNA and text. Provides a bridge between the abstract DNA representations of genomic LLMs with the semantics of natural language.\n\nSFT: 200k samples spanning DNA computation, sequence analysis, and variant effect prediction. Grounded in real DNA sequences with deterministic verifiers to prevent hallucinations.\n\nRLVR: 100k calibrated samples to augment SFT and unlock hard-to-learn capabilities like localising a strand of DNA within a huge sequence.\n\nModels trained on FineDNA can \"chat with DNA\" and match the performance of frontier models on DNA understanding tasks. \n\nDataset: https://t.co/MCF8aMshoL\nCode: https://t.co/7Rg9nLwlri\n\nHappy Halloween 👻!"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "finedna-releases-300b-token-dataset-for-llm-genomic-training-0292caf9",
+    "title": "FineDNA Releases 300B Token Dataset for LLM Genomic Training",
+    "publishedAt": "2026-11-01T13:07:08.669Z",
+    "eventTimeApprox": "2026-11-01T08:02:08.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 5,
+    "authorCount": 3
+  }
+}

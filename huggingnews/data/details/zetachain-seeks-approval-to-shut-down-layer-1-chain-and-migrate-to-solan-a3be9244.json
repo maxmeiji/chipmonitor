@@ -1,0 +1,54 @@
+{
+  "slug": "zetachain-seeks-approval-to-shut-down-layer-1-chain-and-migrate-to-solan-a3be9244",
+  "title": "ZetaChain Seeks Approval to Shut Down Layer 1 Chain and Migrate to Solana",
+  "publishedAt": "2026-11-05T12:21:52.342Z",
+  "eventTimeApprox": "2026-11-05T11:57:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "crypto",
+    "ai"
+  ],
+  "primaryRoutingTopic": "crypto",
+  "topicTags": [
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "blockchains",
+      "name": "Blockchains"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "summary": "ZetaChain has launched an onchain governance vote that would permanently stop block production on its native Layer 1 network on Dec. 9. If approved, the network would cease processing transactions and migrate native ZETA to the Solana blockchain as an SPL token at a 1:1 ratio.\n\nThe transition includes the launch of ZetaLabs, a privacy-focused AI application for financial markets where the ZETA token will be used for feature unlocking, governance and service payments. The proposal also calls for the burning of about 55 million ZETA tokens previously reserved for validator rewards throughout 2027. Voting on the migration ends on Nov. 7.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118311822118019383",
+      "role": "source",
+      "authorHandle": "wublockchain",
+      "url": "https://x.com/WuBlockchain/status/2118311822118019383",
+      "tweetedAt": "2026-11-05T11:57:49.000Z",
+      "bestBit": "the project plans to burn approximately 55 million ZETA—originally allocated for validator rewards—in batches throughout 2027",
+      "text": "ZetaChain Proposes Halting Layer 1 Block Production on Dec 9, Migrating ZETA 1:1 to Solana\n\nZetaChain has initiated an onchain governance vote proposing to permanently halt block production on its Layer 1 network on December 9 and migrate native ZETA 1:1 to Solana as an SPL token. The proposal also plans to concurrently launch ZetaLabs, a privacy-focused AI application tailored for financial markets, where ZETA will be utilized for AI service payments, feature unlocking, and product governance. In addition, the project plans to burn approximately 55 million ZETA—originally allocated for validator rewards—in batches throughout 2027. Voting is scheduled to conclude on November 7."
+    },
+    {
+      "tweetId": "2118316023216841137",
+      "role": "support",
+      "authorHandle": "solanafloor",
+      "url": "https://x.com/SolanaFloor/status/2118316023216841137",
+      "tweetedAt": "2026-11-05T12:14:31.000Z",
+      "bestBit": "pending a 72-hour governance vote on migration terms",
+      "text": "NEW: @ZetaChain to halt its L1 on Dec. 9 and migrate $ZETA 1:1 to @Solana alongside its private AI platform ZetaLabs, pending a 72-hour governance vote on migration terms. https://t.co/YIVmPnm1fg"
+    }
+  ],
+  "isSuperseded": false
+}

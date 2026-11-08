@@ -1,0 +1,124 @@
+{
+  "slug": "apple-adds-mac-privacy-protections-after-meta-muse-ai-accusations-d041798a",
+  "title": "Apple Adds Mac Privacy Protections After Meta Muse AI Accusations",
+  "publishedAt": "2026-10-03T00:09:20.778Z",
+  "eventTimeApprox": "2026-10-02T18:30:50.000Z",
+  "isFreshStory": false,
+  "tweetCount": 21,
+  "authorCount": 18,
+  "routingTopicKeys": [
+    "tech",
+    "cybersecurity",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "Meta's Muse AI agent faces allegations of accessing private messages without user consent, sparking a move by Apple to restrict system permissions for macOS. The company is introducing new controls for the \"Full Disk Access\" permission to prevent autonomous AI tools from gaining unrestrained entry to sensitive information, including personal files, email accounts, and browsing histories.\n\nApple warned that the evolving capabilities of third-party AI agents have increased the risks associated with broad system access. These updated privacy protections aim to create more granular boundaries, limiting the amount of data exposed to software that can act independently across the operating system. The changes appear as part of a broader security push for the upcoming macOS updates.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106085590332584111",
+      "role": "source",
+      "authorHandle": "techcrunch",
+      "url": "https://x.com/TechCrunch/status/2106085590332584111",
+      "tweetedAt": "2026-10-02T18:15:08.000Z",
+      "bestBit": "increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier",
+      "text": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.\nhttps://t.co/bIcSeMx9oG"
+    },
+    {
+      "tweetId": "2106168574666740054",
+      "role": "support",
+      "authorHandle": "polymarket",
+      "url": "https://x.com/Polymarket/status/2106168574666740054",
+      "tweetedAt": "2026-10-02T23:44:53.000Z",
+      "bestBit": "Apple announces new Mac privacy protections after users accused Meta’s Muse AI agent of accessing private messages without their knowledge",
+      "text": "JUST IN: Apple announces new Mac privacy protections after users accused Meta’s Muse AI agent of accessing private messages without their knowledge."
+    },
+    {
+      "tweetId": "2106121703600410834",
+      "role": "commentary",
+      "authorHandle": "pvncher",
+      "url": "https://x.com/pvncher/status/2106121703600410834",
+      "tweetedAt": "2026-10-02T20:38:38.000Z",
+      "bestBit": "Probably gonna stick on macOS27 for the foreseeable future",
+      "text": "Probably gonna stick on macOS27 for the foreseeable future",
+      "quotedTweetText": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.\nhttps://t.co/bIcSeMx9oG"
+    },
+    {
+      "tweetId": "2106132681117610419",
+      "role": "commentary",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2106132681117610419",
+      "tweetedAt": "2026-10-02T21:22:15.000Z",
+      "bestBit": "Shots fired?",
+      "text": "RT @natlungfy: Shots fired?\n\nApple plans to introduce new privacy controls for Mac users, warning of the growing risks around granting broa…"
+    },
+    {
+      "tweetId": "2106129835915460747",
+      "role": "commentary",
+      "authorHandle": "natlungfy",
+      "url": "https://x.com/natlungfy/status/2106129835915460747",
+      "tweetedAt": "2026-10-02T21:10:57.000Z",
+      "bestBit": "warning of the growing risks around granting broad data access to third-party software, including AI agents",
+      "text": "Shots fired?\n\nApple plans to introduce new privacy controls for Mac users, warning of the growing risks around granting broad data access to third-party software, including AI agents https://t.co/UYnNQSFdum"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "apple-restricts-macos-full-disk-access-to-curb-ai-agent-risks-191c69e1",
+    "title": "Apple Restricts macOS Full Disk Access to Curb AI Agent Risks",
+    "publishedAt": "2026-10-02T20:53:48.288Z",
+    "eventTimeApprox": "2026-10-02T18:30:50.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "cybersecurity",
+      "ai"
+    ],
+    "tweetCount": 8,
+    "authorCount": 8
+  }
+}

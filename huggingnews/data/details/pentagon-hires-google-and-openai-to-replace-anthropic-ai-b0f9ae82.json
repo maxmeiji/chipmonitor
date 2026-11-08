@@ -1,0 +1,115 @@
+{
+  "slug": "pentagon-hires-google-and-openai-to-replace-anthropic-ai-b0f9ae82",
+  "title": "Pentagon Hires Google and OpenAI to Replace Anthropic AI",
+  "publishedAt": "2026-10-06T19:10:35.378Z",
+  "eventTimeApprox": "2026-10-03T03:41:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "war"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "PLTR",
+      "kind": "equity",
+      "role": "related",
+      "name": "Palantir Technologies Inc. Class A Common Stock",
+      "hubKey": "pltr"
+    }
+  ],
+  "summary": "A clash over safeguards against autonomous weapons and mass surveillance led the US Department of Defense to sever ties with the developers of the Claude AI model. The Pentagon has since signed contracts with Google, OpenAI and xAI to provide the intelligence capabilities previously handled by Anthropic, though a phase-out deadline in late August was missed. Claude remained integrated into the Palantir run Maven intelligence platform and supported military operations against Iran as recently as last week due to the difficulty of removing the embedded software.\n\nThe split underscores risks detailed in Anthropic's IPO prospectus, where the firm warned that government relations could disrupt its business and damage ties with commercial clients. While federal contracts represent less than 1% of its annual revenue, the company previously noted that Commerce Department restrictions forced the worldwide disablement of its Fable 5 and Mythos 5 models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107142724751134754",
+      "role": "source",
+      "authorHandle": "bbcworld",
+      "url": "https://x.com/BBCWorld/status/2107142724751134754",
+      "tweetedAt": "2026-10-05T16:15:49.000Z",
+      "bestBit": "Pentagon stops using Anthropic AI tools months after blacklisting company",
+      "text": "Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told https://t.co/sz46LlLZjp"
+    },
+    {
+      "tweetId": "2107543434726646141",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2107543434726646141",
+      "tweetedAt": "2026-10-06T18:48:05.000Z",
+      "bestBit": "The split followed Anthropic's refusal to remove restrictions over concerns about mass surveillance and autonomous weapons",
+      "text": "The Pentagon has finally pulled the plug on Claude, according to an official speaking to the BBC. @AnthropicAI was blacklisted in February, with a deadline to stop using its tools by late August. Yet sources say Claude was still being used as recently as last week, including in military operations against Iran.\n\nThe split followed Anthropic's refusal to remove restrictions over concerns about mass surveillance and autonomous weapons. The Pentagon has since signed contracts with Google, xAI and OpenAI. But Claude had become deeply embedded in Palantir's Maven intelligence platform, making its removal much harder than simply cancelling a subscription."
+    },
+    {
+      "tweetId": "2106003449670455728",
+      "role": "commentary",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2106003449670455728",
+      "tweetedAt": "2026-10-02T12:48:44.000Z",
+      "bestBit": "Anthropic gets LESS THAN 1% of its annual revenue from government contracts",
+      "text": "WTH: Anthropic gets LESS THAN 1% of its annual revenue from government contracts, but is warning IPO investors that the U.S. government's attitude toward it could still cause \"material revenue losses or business disruptions.\"\n\n>says government actions could damage perceptions among existing and prospective customers, partners, employees and investors\n>cites Trump's order stopping federal agencies from using its models\n>cites the Pentagon designating Anthropic a national-security supply-chain risk\n>cites Commerce's worldwide restrictions on Fable 5 and Mythos 5, which forced Anthropic to disable both models for all customers\n\nAnthropic is effectively telling investors that its government fight could spill far beyond government business and start costing it commercial customers."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-pentagon-cuts-anthropic-ai-tools-used-in-iran-operations-1c320b7d",
+    "title": "UPDATE: Pentagon Cuts Anthropic AI Tools Used in Iran Operations",
+    "publishedAt": "2026-10-05T16:53:46.520Z",
+    "eventTimeApprox": "2026-10-02T15:50:31.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "war",
+      "us-politics"
+    ],
+    "tweetCount": 8,
+    "authorCount": 7
+  }
+}

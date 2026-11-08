@@ -1,0 +1,171 @@
+{
+  "slug": "opencode-users-suffer-account-bans-after-anomaly-innovations-breach-303ab7f3",
+  "title": "OpenCode Users Suffer Account Bans After Anomaly Innovations Breach",
+  "publishedAt": "2026-10-18T16:57:35.407Z",
+  "eventTimeApprox": "2026-10-17T19:56:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 58,
+  "authorCount": 45,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111726240692588932/HU5b0VGboAE9pPr-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111726240692588932/HU5b0VGboAE9pPr-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "maxforai",
+      "tweetUrl": "https://x.com/MaxForAI/status/2111726240692588932"
+    }
+  },
+  "summary": "The creator of the coding agent OpenCode has seen some of its customers lose up to $1,700 and face OpenAI account suspensions following a hack of a legacy system. Anomaly Innovations, the company behind the tool, confirmed that 1.4% of its Console users who had linked external providers were affected. The security breach allowed unauthorized access to API keys for Google, Anthropic, and OpenAI, leaving impacted developers to pay for charges ranging from $168 to $1,700.\n\nControversy has emerged over the company's description of the event as a \"large scale distillation attack,\" with some users claiming the term masks a standard data leak. During the ongoing incident, the company found that frontier AI models refused to assist in analyzing attackers due to safety guardrails. To address these limitations, Anomaly Innovations applied for the Daybreak cyber defense program, which was approved yesterday.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111519637049319818",
+      "role": "source",
+      "authorHandle": "opencode",
+      "url": "https://x.com/opencode/status/2111519637049319818",
+      "tweetedAt": "2026-10-17T18:08:06.000Z",
+      "bestBit": "security breach last night related to a large scale distillation attack that impacted 1.4% of OpenCode Console users",
+      "text": "We had a security breach last night related to a large scale distillation attack that impacted 1.4% of OpenCode Console users\n\nWe have notified them all this morning via email. If you did not get an email you were not impacted, it was a subset of users who had external providers linked\n\nThe incident is ongoing so we cannot share more details at this point but we are working with Anthropic, OpenAI, and Google to remediate"
+    },
+    {
+      "tweetId": "2111767069360341351",
+      "role": "support",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2111767069360341351",
+      "tweetedAt": "2026-10-18T10:31:18.000Z",
+      "bestBit": "Reported losses run from ~$168 to $1,700, and at least one OpenAI account got suspended",
+      "text": "OpenCode got breached, and users who'd linked their own OpenAI, Anthropic or Google API keys are paying for it.\n\nAbout 1.4% of Console users were hit. Reported losses run from ~$168 to $1,700, and at least one OpenAI account got suspended. @OpenCode blames a \"distillation attack\" on a legacy system. The local CLI is fine.\n\nIf you ever linked keys there, rotate them now."
+    },
+    {
+      "tweetId": "2111842783795274059",
+      "role": "commentary",
+      "authorHandle": "jsrailton",
+      "url": "https://x.com/jsrailton/status/2111842783795274059",
+      "tweetedAt": "2026-10-18T15:32:10.000Z",
+      "bestBit": "Frontier models started refusing to help.",
+      "text": "OpenCode got hacked. \n\nFrontier models started refusing to help.\n\nYou need a fire extinguisher that works every time, not one that will unpredictably refuse to discarge because it has misunderstood the situation.\n\nOpen weight models fix this.",
+      "quotedTweetText": "OpenCode is currently under a sustained cyberattack, and mid-incident they ran into the same problem Hugging Face did: the frontier models they were using for defense began refusing to help fight attacking agents because analyzing the attacks started triggering safety guardrails. https://t.co/z1YKHVHlhf"
+    },
+    {
+      "tweetId": "2111572880450601016",
+      "role": "commentary",
+      "authorHandle": "saranormous",
+      "url": "https://x.com/saranormous/status/2111572880450601016",
+      "tweetedAt": "2026-10-17T21:39:40.000Z",
+      "bestBit": "that’s three companies in the past week",
+      "text": "that’s three companies in the past week",
+      "quotedTweetText": "We had a security breach last night related to a large scale distillation attack that impacted 1.4% of OpenCode Console users\n\nWe have notified them all this morning via email. If you did not get an email you were not impacted, it was a subset of users who had external providers linked\n\nThe incident is ongoing so we cannot share more details at this point but we are working with Anthropic, OpenAI, and Google to remediate"
+    },
+    {
+      "tweetId": "2111726240692588932",
+      "role": "commentary",
+      "authorHandle": "maxforai",
+      "url": "https://x.com/MaxForAI/status/2111726240692588932",
+      "tweetedAt": "2026-10-18T07:49:04.000Z",
+      "bestBit": "用户保存在Workspace里的OpenAI、Anthropic等第三方API Key可能已经泄露",
+      "text": "神他妈的大规模蒸馏攻击，我是真看不懂@opencode 这次的解释。\n\n昨晚 OpenCode 官方承认发生了一起安全事件，影响了 1.4% 的 Console 用户，还特意强调这件事与「大规模蒸馏攻击」有关，目前正在和 Anthropic、OpenAI、Google 一起处理。\n\n结果网友把他们发给受影响用户的邮件贴出来了，我看完更迷惑了。\n邮件里明明白白写着：一个正在被淘汰的旧系统遭到了未授权访问，用户保存在Workspace里的OpenAI、Anthropic等第三方API Key可能已经泄露。\n官方甚至要求用户立刻撤销、更换密钥，并检查有没有异常调用。\n\n？？？哥们，你们自己的旧系统被人入侵了，用户的 API Key 可能被偷了，然后对外说这是一起「大规模蒸馏攻击」？\n\n我是真好奇，这跟蒸馏到底有什么关系？\n正常的模型蒸馏攻击，通常是通过大量调用目标模型，收集输入输出数据，用来训练另一个模型。\n\n就算攻击者真的拿着泄露的API Key去大规模蒸馏 Anthropic、OpenAI的模型，那你首先也得解释清楚，人家究竟是怎么拿到这些密钥的？\n你们的旧系统到底出了什么安全问题？密钥为什么会暴露？有没有发生未经授权的调用？\n\n而且到目前为止，官方连「蒸馏攻击」的具体技术细节都没公布。\n用户现在最关心的是自己的 API Key 有没有泄露、有没有被盗刷，以及这个漏洞到底修没修好。\n希望OpenCode后面能给出一份完整的安全事故报告，把攻击链路、密钥暴露原因，以及所谓「蒸馏攻击」的证据讲清楚。\n这几个问题一个没解释清楚，反而在公开声明里强调蒸馏攻击，我觉得挺离谱的😅",
+      "quotedTweetText": "We had a security breach last night related to a large scale distillation attack that impacted 1.4% of OpenCode Console users\n\nWe have notified them all this morning via email. If you did not get an email you were not impacted, it was a subset of users who had external providers linked\n\nThe incident is ongoing so we cannot share more details at this point but we are working with Anthropic, OpenAI, and Google to remediate"
+    },
+    {
+      "tweetId": "2111834298018144659",
+      "role": "commentary",
+      "authorHandle": "s1r1u5_",
+      "url": "https://x.com/S1r1u5_/status/2111834298018144659",
+      "tweetedAt": "2026-10-18T14:58:27.000Z",
+      "bestBit": "this is indeed a distillation attack. how else do you quickly monetize exposed llm api keys?",
+      "text": "i mean, this is indeed a distillation attack. how else do you quickly monetize exposed llm api keys?\n\ni call them intelligence poachers. i think this will become very common. fragments of superintelligence will be extracted from frontier models and siphoned into black markets. very scifi",
+      "quotedTweetText": "We had a security breach last night related to a large scale distillation attack that impacted 1.4% of OpenCode Console users\n\nWe have notified them all this morning via email. If you did not get an email you were not impacted, it was a subset of users who had external providers linked\n\nThe incident is ongoing so we cannot share more details at this point but we are working with Anthropic, OpenAI, and Google to remediate"
+    },
+    {
+      "tweetId": "2111837963214794940",
+      "role": "commentary",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2111837963214794940",
+      "tweetedAt": "2026-10-18T15:13:01.000Z",
+      "bestBit": "frontier models they were using for defense began refusing to help fight attacking agents because analyzing the attacks started triggering safety guardrails",
+      "text": "OpenCode is currently under a sustained cyberattack, and mid-incident they ran into the same problem Hugging Face did: the frontier models they were using for defense began refusing to help fight attacking agents because analyzing the attacks started triggering safety guardrails. https://t.co/z1YKHVHlhf",
+      "quotedTweetText": "@RhysSullivan yes that was a bit frustrating mid incident when trying to investigate. they did quite a bit and then started refusing\n\nwe got access to daybreak blue now so it's better"
+    },
+    {
+      "tweetId": "2111858075884040477",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2111858075884040477",
+      "tweetedAt": "2026-10-18T16:32:56.000Z",
+      "bestBit": "applied for it a few days ago and it got approved yesterday",
+      "text": "They applied for Daybreak a few days ago. https://t.co/hUTMHWQehY",
+      "quotedTweetText": "@diakou @RhysSullivan we coincidentally applied for it a few days ago and it got approved yesterday\n\ni don't think anyone is refusing to help us"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "frontier-ai-models-refuse-to-aid-opencodes-cyber-defense-7231e2ea",
+    "title": "Frontier AI Models Refuse to Aid OpenCode's Cyber Defense",
+    "publishedAt": "2026-10-18T15:39:38.874Z",
+    "eventTimeApprox": "2026-10-17T19:36:08.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai"
+    ],
+    "tweetCount": 40,
+    "authorCount": 32
+  }
+}

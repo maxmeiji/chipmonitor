@@ -1,0 +1,69 @@
+{
+  "slug": "aina-opens-pre-orders-for-ai-control-ring-with-integrated-screen-03664499",
+  "title": "Aina Opens Pre-Orders for AI Control Ring With Integrated Screen",
+  "publishedAt": "2026-11-05T17:52:54.491Z",
+  "eventTimeApprox": "2026-11-05T16:38:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "wearables",
+      "name": "Wearables"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "summary": "The startup has developed a new piece of wearable hardware designed to let users interact with artificial intelligence without needing to unlock a smartphone. Aina's new ring includes a built-in display, microphone, and joystick, allowing users to voice-command their digital agents, record notes, and manage smart home devices or Apple TV. The hardware provides proactive suggestions, or \"cues,\" that appear on the screen based on a user's routine, such as a prompt to join a meeting, which can be accepted or dismissed with a thumb flick.\n\nAina has raised $5.5M to build the interface, which aims to reduce the friction of managing AI assistants by providing a dedicated physical control point for approvals and tasks. The company has now opened pre-orders for the device.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118372390728319238",
+      "role": "source",
+      "authorHandle": "lazyapprove",
+      "url": "https://x.com/lazyapprove/status/2118372390728319238",
+      "tweetedAt": "2026-11-05T15:58:30.000Z",
+      "bestBit": "Aina is a ring with a screen that predicts and shows you the three things you’ll need next. One flick of your thumb, and it’s done. For everything.",
+      "text": "What if your devices, apps and agents knew what you wanted?\n\nYou finish breakfast, and your Uber is booked.\nRunning late, your agent sends a “Running late” text.\nYou reach home, and your lights turn on.\n\nAI is proactive now. But it still needs your yes. It waits, for you to unlock your phone, open an app and tap approve. Every time, hundreds of times a day.\n\nAI needs its own interface.\n\nAina is a ring with a screen that predicts and shows you the three things you’ll need next. One flick of your thumb, and it’s done. For everything.\n\n✦ Cues: proactive suggestions, ready before you need them\n✦ Voice: talk to your agents, take notes, dictate\n✦ Remote: control your music, Mac and TV\n✦ Calls: right from your hand\n\nPre-orders open now\nhttps://t.co/LWk3MQfI6g"
+    },
+    {
+      "tweetId": "2118385655986425856",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2118385655986425856",
+      "tweetedAt": "2026-11-05T16:51:12.000Z",
+      "bestBit": "Aina, which raised $5.5M, launches an \"AI ring\" with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more",
+      "text": "Aina, which raised $5.5M, launches an \"AI ring\" with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more (@indianidle / TechCrunch)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2118373995510997036",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2118373995510997036",
+      "tweetedAt": "2026-11-05T16:04:52.000Z",
+      "bestBit": "@AinaInterface says the ring uses context from your devices and routines to suggest what you might need next: a join button before a meeting, or an approval for an AI agent's work.",
+      "text": "Aina is putting a small screen on a ring to bring AI actions closer to you.\n\n@AinaInterface says the ring uses context from your devices and routines to suggest what you might need next: a join button before a meeting, or an approval for an AI agent's work.\n\nYou can accept or dismiss suggestions on the ring and ask for things by voice.\n\nI'm curious how it decides when to interrupt you and when to stay quiet. Congrats @lazyapoorv and team!",
+      "quotedTweetText": "What if your devices, apps and agents knew what you wanted?\n\nYou finish breakfast, and your Uber is booked.\nRunning late, your agent sends a “Running late” text.\nYou reach home, and your lights turn on.\n\nAI is proactive now. But it still needs your yes. It waits, for you to unlock your phone, open an app and tap approve. Every time, hundreds of times a day.\n\nAI needs its own interface.\n\nAina is a ring with a screen that predicts and shows you the three things you’ll need next. One flick of your thumb, and it’s done. For everything.\n\n✦ Cues: proactive suggestions, ready before you need them\n✦ Voice: talk to your agents, take notes, dictate\n✦ Remote: control your music, Mac and TV\n✦ Calls: right from your hand\n\nPre-orders open now\nhttps://t.co/LWk3MQfI6g"
+    }
+  ],
+  "isSuperseded": false
+}

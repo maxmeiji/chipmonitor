@@ -1,0 +1,68 @@
+{
+  "slug": "llamaindex-launches-ocria-1-to-hit-new-record-in-document-parsing-6225a307",
+  "title": "LlamaIndex Launches OCRia-1 to Hit New Record in Document Parsing",
+  "publishedAt": "2026-10-22T15:54:29.297Z",
+  "eventTimeApprox": "2026-10-22T15:35:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 25,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "The newly released 4B parameter vision-language model can decode documents at more than 2,800 tokens per second and is currently powering all modes of LlamaParse. LlamaIndex designed the model to extract data from complex enterprise files, including scanned PDFs, unlabeled charts, and nested tables with merged cells. In performance tests, the tool scored 87.4 on the ParseBench benchmark, outperforming similar models such as Mistral OCR 4.1 and Chandra-OCR 2.\n\nOCria-1 also led three third-party benchmarks, recording a 92.9 score on the olmOCR-bench for tables and 84.1 on PulseBench-Tab. LlamaIndex is offering up to $3,000 in credits to eligible organizations that book a guided evaluation to process documents at scale. The research team optimized the training pipeline and dataset to ensure the model handles billions of pages without breaking on irregular grids or formatting.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113291928292790725",
+      "role": "source",
+      "authorHandle": "jerryjliu0",
+      "url": "https://x.com/jerryjliu0/status/2113291928292790725",
+      "tweetedAt": "2026-10-22T15:30:33.000Z",
+      "bestBit": "sets a new high score on ParseBench (87.4), but also leads in three 3rd-party benchmarks: olmOCR-bench* (83.5 overall, 92.9 on tables!), PulseBench-Tab (84.1), and fr-bench-pdf2md (72.1)",
+      "text": "Today we’re releasing OCRia-1, a frontier VLM for document parsing that sets a new SOTA in accuracy, cost, and latency. \n\nIt not only sets a new high score on ParseBench (87.4), but also leads in three 3rd-party benchmarks: olmOCR-bench* (83.5 overall, 92.9 on tables!), PulseBench-Tab (84.1), and fr-bench-pdf2md (72.1).\n\nOCRia-1 is really, really good at parsing complex tables: nested headers, merged cells, irregular grids, scanned tables, and more. It is also fantastic at parsing complex unlabeled charts (line, bar, pie, technical diagrams), and preserving complex formatting. Most real-world enterprise documents contain at least one of the these, whether it’s a big tax withholding table or a public economic report.\n\nIt is a 4B model and outperforms all other models within a similar parameter class: LightOnOCR-3, Chandra-OCR 2, Mistral OCR 4.1, and more. It is also extremely fast.\n\nAll credit goes to our research team, who spent countless hours on curating a diverse dataset, tuning our training pipeline, and squeezing every last drop out of model optimization so that it can process billions of pages at scale. \n\nOCRia-1 as a base is powering all of our modes within LlamaParse (cost-effective, agentic, agentic plus), so you can access its capabilities today! \n\nIf you’re processing millions/billions of documents at scale, we’re offering enterprises that book a demo up to $3k in credits for a guided evaluation.**\n\n*olmOCR-bench scores are adjusted based on unifying rendering at 1,288px for all models \n**enterprise POC credits apply to eligible organizations that book a demo"
+    },
+    {
+      "tweetId": "2113292881910005782",
+      "role": "support",
+      "authorHandle": "loganmarkewich",
+      "url": "https://x.com/LoganMarkewich/status/2113292881910005782",
+      "tweetedAt": "2026-10-22T15:34:20.000Z",
+      "bestBit": "My favorite part is how we got it to decode at over 2800 tokens/sec",
+      "text": "LlamaParse is bringing their first kid into the world: OCRia-1 is here, and they really like to read (fast)\n\nThe team went all in on this model. My favorite part is how we got it to decode at over 2800 tokens/sec -- look forward to more info on how!",
+      "quotedTweetText": "Today we’re releasing OCRia-1, a frontier VLM for document parsing that sets a new SOTA in accuracy, cost, and latency. \n\nIt not only sets a new high score on ParseBench (87.4), but also leads in three 3rd-party benchmarks: olmOCR-bench* (83.5 overall, 92.9 on tables!), PulseBench-Tab (84.1), and fr-bench-pdf2md (72.1).\n\nOCRia-1 is really, really good at parsing complex tables: nested headers, merged cells, irregular grids, scanned tables, and more. It is also fantastic at parsing complex unlabeled charts (line, bar, pie, technical diagrams), and preserving complex formatting. Most real-world enterprise documents contain at least one of the these, whether it’s a big tax withholding table or a public economic report.\n\nIt is a 4B model and outperforms all other models within a similar parameter class: LightOnOCR-3, Chandra-OCR 2, Mistral OCR 4.1, and more. It is also extremely fast.\n\nAll credit goes to our research team, who spent countless hours on curating a diverse dataset, tuning our training pipeline, and squeezing every last drop out of model optimization so that it can process billions of pages at scale. \n\nOCRia-1 as a base is powering all of our modes within LlamaParse (cost-effective, agentic, agentic plus), so you can access its capabilities today! \n\nIf you’re processing millions/billions of documents at scale, we’re offering enterprises that book a demo up to $3k in credits for a guided evaluation.**\n\n*olmOCR-bench scores are adjusted based on unifying rendering at 1,288px for all models \n**enterprise POC credits apply to eligible organizations that book a demo"
+    },
+    {
+      "tweetId": "2113294207557476825",
+      "role": "engagement",
+      "authorHandle": "imaanxsultan",
+      "url": "https://x.com/imaanxsultan/status/2113294207557476825",
+      "tweetedAt": "2026-10-22T15:39:36.000Z",
+      "bestBit": "OCria-1 is named after a cria, a baby llama",
+      "text": "my first launch at @llama_index !! 🦙\n\nOCRia-1 is named after a cria, a baby llama. they’re walking within about an hour of being born, usually somewhere high and cold and not very forgiving\n\nfelt right for a model built for the worst documents. i'm so excited for this to be out into the world and for people to see truly how insane this model is :) ocria-1 is the most accurate in the game ! 💥",
+      "quotedTweetText": "Today we’re releasing OCRia-1, a frontier VLM for document parsing that sets a new SOTA in accuracy, cost, and latency. \n\nIt not only sets a new high score on ParseBench (87.4), but also leads in three 3rd-party benchmarks: olmOCR-bench* (83.5 overall, 92.9 on tables!), PulseBench-Tab (84.1), and fr-bench-pdf2md (72.1).\n\nOCRia-1 is really, really good at parsing complex tables: nested headers, merged cells, irregular grids, scanned tables, and more. It is also fantastic at parsing complex unlabeled charts (line, bar, pie, technical diagrams), and preserving complex formatting. Most real-world enterprise documents contain at least one of the these, whether it’s a big tax withholding table or a public economic report.\n\nIt is a 4B model and outperforms all other models within a similar parameter class: LightOnOCR-3, Chandra-OCR 2, Mistral OCR 4.1, and more. It is also extremely fast.\n\nAll credit goes to our research team, who spent countless hours on curating a diverse dataset, tuning our training pipeline, and squeezing every last drop out of model optimization so that it can process billions of pages at scale. \n\nOCRia-1 as a base is powering all of our modes within LlamaParse (cost-effective, agentic, agentic plus), so you can access its capabilities today! \n\nIf you’re processing millions/billions of documents at scale, we’re offering enterprises that book a demo up to $3k in credits for a guided evaluation.**\n\n*olmOCR-bench scores are adjusted based on unifying rendering at 1,288px for all models \n**enterprise POC credits apply to eligible organizations that book a demo"
+    }
+  ],
+  "isSuperseded": false
+}

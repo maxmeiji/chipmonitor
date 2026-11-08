@@ -1,0 +1,79 @@
+{
+  "slug": "stripe-and-link-launch-agent-wallet-for-instinct-ai-681f962e",
+  "title": "Stripe and Link Launch Agent Wallet for Instinct AI",
+  "publishedAt": "2026-10-26T19:38:08.715Z",
+  "eventTimeApprox": "2026-10-26T19:23:17.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:STRP",
+      "kind": "private",
+      "role": "subject",
+      "name": "Stripe",
+      "hubKey": "stripe"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114799287645393098/HVlHFptWMAEa052-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114799287645393098/HVlHFptWMAEa052-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2114798929028038656/vid/avc1/1080x1350/IF5QBMnF36b-KH2b.mp4?tag=29",
+    "credit": {
+      "handle": "link",
+      "tweetUrl": "https://x.com/link/status/2114799287645393098"
+    }
+  },
+  "summary": "Users of the Instinct AI agent in the U.S. can now fund a digital wallet to allow their AI to execute autonomous purchases on their behalf. The feature, called Link balance, was developed in partnership with Stripe and Link and lets users set a total budget and individual purchase limits so the agent can shop without requiring a credit card or manual approval for every transaction.\n\nThe payment tool is available in eligible U.S. regions starting Oct. 26, with a rollout to New York scheduled for a later date. The system is designed to handle automated tasks such as ordering recurring grocery items or purchasing concert tickets immediately upon the opening of a presale.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114796685251826016",
+      "role": "source",
+      "authorHandle": "noahrshinn",
+      "url": "https://x.com/noahrshinn/status/2114796685251826016",
+      "tweetedAt": "2026-10-26T19:09:55.000Z",
+      "bestBit": "Link balance is rolling out to Instinct users across the US starting today, with New York coming soon.",
+      "text": "Give your Instinct a budget\n\nBuilt with @Stripe and @link, we're launching Link balance in @instinct. You can now set a budget for your Instinct to make purchases on your behalf, and Instinct does the rest.\n\nYou choose how much money to add and set a limit for each purchase. Your Instinct can spend within those limits, without needing access to your credit card or asking for approval every time.\n\nThat means buying tickets as soon as the presale opens, picking up your size when the trail runners restock, or reordering your favorite coffee beans every other week.\n\nLink balance is rolling out to Instinct users across the US starting today, with New York coming soon.\n\nAsk your Instinct to set up Link balance and it’ll send you a link to get started."
+    },
+    {
+      "tweetId": "2114799287645393098",
+      "role": "source",
+      "authorHandle": "link",
+      "url": "https://x.com/link/status/2114799287645393098",
+      "tweetedAt": "2026-10-26T19:20:15.000Z",
+      "bestBit": "You can now give your agent a balance to spend on your behalf, even when ’re away or busy.",
+      "text": "Introducing Link balance. You can now give your agent a balance to spend on your behalf, even when you’re away or busy.\n\n• Purchase concert tickets while you’re asleep.\n• Buy your favorite shoes when the price drops.\n• Order your entire shopping list with one prompt.\n \nYou choose how much money to add and set your own limits, your agent does the rest. Rolling out now to @Instinct users in eligible US regions."
+    },
+    {
+      "tweetId": "2114800821959577678",
+      "role": "commentary",
+      "authorHandle": "jeff_weinstein",
+      "url": "https://x.com/jeff_weinstein/status/2114800821959577678",
+      "tweetedAt": "2026-10-26T19:26:21.000Z",
+      "bestBit": "let your agent handle tasks and buy on your behalf while you're napping.",
+      "text": "In practice, it feels oddly natural (@instinct-ual even) to let your agent handle tasks and buy on your behalf while you're napping.",
+      "quotedTweetText": "Introducing Link balance. You can now give your agent a balance to spend on your behalf, even when you’re away or busy.\n\n• Purchase concert tickets while you’re asleep.\n• Buy your favorite shoes when the price drops.\n• Order your entire shopping list with one prompt.\n \nYou choose how much money to add and set your own limits, your agent does the rest. Rolling out now to @Instinct users in eligible US regions."
+    }
+  ],
+  "isSuperseded": false
+}

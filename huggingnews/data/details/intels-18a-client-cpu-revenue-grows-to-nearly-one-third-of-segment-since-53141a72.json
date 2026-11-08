@@ -1,0 +1,115 @@
+{
+  "slug": "intels-18a-client-cpu-revenue-grows-to-nearly-one-third-of-segment-since-53141a72",
+  "title": "Intel's 18A Client CPU Revenue Grows to Nearly One-Third of Segment Since Q1",
+  "publishedAt": "2026-10-29T22:08:25.450Z",
+  "eventTimeApprox": "2026-10-29T21:21:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    }
+  ],
+  "summary": "Intel's first 18A-P client processor, Nova Lake, is tracking ahead of its development schedule, according to CEO Lip-Bu Tan. The company expects the new chip to secure double the design wins of the Panther Lake processor upon release and will share further specifications at CES in January. This product push follows a rapid ramp of the company's 18A node, with revenue from 18A client CPUs climbing from less than 5% in the first quarter to nearly one-third of the segment's total revenue today.\n\nTan reiterated his estimate that agentic AI workloads will expand the server CPU total addressable market to more than $200B within five years, noting that the ratio of CPUs to GPUs has shifted from 1-to-8 to 1-to-4 as AI agents require more code execution. He also confirmed that the Intel 14A node and the 18A-P process are both on track, with the latter scheduled for launch by the end of the year for several strategic external customers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115914958408192187",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115914958408192187",
+      "tweetedAt": "2026-10-29T21:13:32.000Z",
+      "bestBit": "Intel expects Nova Lake to have twice as many design wins as Panther Lake at launch.",
+      "text": "Intel $INTC CEO Lip-Bu Tan on Nova Lake:\n\n“Nova Lake, our first Intel 18A-P client product, is tracking ahead of schedule.”\n\nIntel expects Nova Lake to have twice as many design wins as Panther Lake at launch.\n\nMore details are coming at CES in January. https://t.co/NwWyIndOqF"
+    },
+    {
+      "tweetId": "2115916544811421756",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2115916544811421756",
+      "tweetedAt": "2026-10-29T21:19:50.000Z",
+      "bestBit": "the server CPU TAM could increase as much as five times over 5 years, from $40 BLN to more than $200 BLN",
+      "text": "INTEL CEO SAYS INTEL 18A-P REMAINS ON TRACK FOR LAUNCH BY YEAR-END AND INTEL 14A ALSO REMAINS ON TRACK, THAT THE COMPANY IS ENGAGED WITH “A COUPLE” OF “HIGHLY STRATEGIC” EXTERNAL CUSTOMERS FOR 18A-P CHIPMAKING TECHNOLOGY, AND THAT BY ITS ESTIMATES THE SERVER CPU TAM COULD INCREASE AS MUCH AS FIVE TIMES OVER 5 YEARS, FROM $40 BLN TO MORE THAN $200 BLN"
+    },
+    {
+      "tweetId": "2115916550649606255",
+      "role": "commentary",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2115916550649606255",
+      "tweetedAt": "2026-10-29T21:19:52.000Z",
+      "bestBit": "server CPU term largely driven by agentic workloads could increase as much as five time from where it is today",
+      "text": "\"By our estimates, server CPU term largely driven by agentic workloads could increase as much as five time from where it is today from $40 billion to more than $200 billion over five years.\"\n\nNow they just need to meet the demand! https://t.co/QTM3EdXgbR"
+    },
+    {
+      "tweetId": "2115916881387303376",
+      "role": "commentary",
+      "authorHandle": "marketnews_feed",
+      "url": "https://x.com/MarketNews_Feed/status/2115916881387303376",
+      "tweetedAt": "2026-10-29T21:21:11.000Z",
+      "bestBit": "INTEL 18A-P REMAINS ON TRACK FOR LAUNCH BY YEAR-END AND INTEL 14A ALSO REMAINS ON TRACK",
+      "text": "INTEL CEO SAYS INTEL 18A-P REMAINS ON TRACK FOR LAUNCH BY YEAR-END AND INTEL 14A ALSO REMAINS ON TRACK, THAT THE COMPANY IS ENGAGED WITH “A COUPLE” OF “HIGHLY STRATEGIC” EXTERNAL CUSTOMERS FOR 18A-P CHIPMAKING TECHNOLOGY, AND THAT BY ITS ESTIMATES THE SERVER CPU TAM COULD INCREASE AS MUCH AS FIVE TIMES OVER 5 YEARS, FROM $40 BLN TO MORE THAN $200 BLN ..."
+    },
+    {
+      "tweetId": "2115924406094700702",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2115924406094700702",
+      "tweetedAt": "2026-10-29T21:51:05.000Z",
+      "bestBit": "the ratio of CPU to GPUs used to be 1-to-8 and now it is 1-to-4",
+      "text": "$INTC CEO sees server CPU market growing 5x to over $200B in five years as AI agents take off saying “the ratio of CPU to GPUs used to be 1-to-8 and now it is 1-to-4.”\n\nThat's effectively twice as many CPUs per GPU as AI agents run more code and tools which could create another massive growth opportunity for $AMD, $ARM and $NVDA beyond GPUs alone."
+    },
+    {
+      "tweetId": "2115922149227610364",
+      "role": "support",
+      "authorHandle": "austinsemis",
+      "url": "https://x.com/austinsemis/status/2115922149227610364",
+      "tweetedAt": "2026-10-29T21:42:06.000Z",
+      "bestBit": "Since Q1, Intel 18A client CPUs have grown from less than 5% of revenue to now nearly one-third of client CPU revenue",
+      "text": "Using one of these right now. It's good \n\n\"Since Q1, Intel 18A client CPUs have grown from less than 5% of revenue to now nearly one-third of client CPU revenue\""
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "intel-projects-server-cpu-market-to-hit-200b-on-agentic-ai-demand-53b2c3ce",
+    "title": "Intel Projects Server CPU Market to Hit $200B on Agentic AI Demand",
+    "publishedAt": "2026-10-29T21:37:58.008Z",
+    "eventTimeApprox": "2026-10-29T21:21:11.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 5,
+    "authorCount": 4
+  }
+}

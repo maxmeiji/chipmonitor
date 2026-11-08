@@ -1,0 +1,147 @@
+{
+  "slug": "audit-finds-mits-gpt-6-weight-edit-only-fixed-loops-as-laptop-qwen-match-12fa3e90",
+  "title": "Audit Finds MIT's GPT-6 Weight Edit Only Fixed Loops as Laptop Qwen Matches Feat",
+  "publishedAt": "2026-11-03T16:51:27.430Z",
+  "eventTimeApprox": "2026-11-02T22:01:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 202,
+  "authorCount": 136,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "related",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "summary": "Critics examining logs from MIT CSAIL's weight space programming study found that GPT-6 Astra did not add math skills to Qwen3.5-0.8B, as 576 of the 579 practice answers it repaired had merely been cut off at the 32,768 token limit during repetitive thinking loops. Running Qwen3.5-0.8B in its default non-thinking mode with zero weight edits yields 47% accuracy on MATH-500, nearly matching the 48.1% score after Astra edited 0.016% of the model's weights from a 7.9% thinking-mode baseline. On problems Qwen already finished before the edit, accuracy did not change.\n\nFollow-up tests by outside developers showed that direct weight interpretation and editing are not exclusive to frontier models like GPT-6 Astra. Simon Willison reported that an open-weight Qwen 3.8 27B model running locally on a laptop reproduced the paper's weight-reading task after 45 minutes. Separately, Adam Holter tested five models on direct weight editing, reporting that Anthropic's Fable 5.1 nearly doubled a small model's math score by altering five of 134,515,008 weights, while Claude Sonnet 5.5 added 17 correct answers by making the model output \"The\" first, which cut formatting accuracy from 32 of 96 to 1.\n\nEarlier, Hugging Face researchers reproduced the MIT paper using the open-source ML Intern harness, while an independent researcher used Claude Opus 5.5 and $1.03 in API calls to edit two neuron output columns in layer 29 of Qwen3.5-4B, eliminating repetition loops on 150 held-out math problems and lifting correct answers from 59 to between 92 and 94. MIT co-author Alex Zhang previously clarified that an LLM-optimized prompt hinted at Qwen's looping issue and that Astra used activation steering across 131,072 weights in layers 15 and 19 to suppress it, boosting held-out problem accuracy from 10.6% to 60.4% while producing no clear math gain on Google's Gemma 3 270M.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117313742891327994",
+      "role": "source",
+      "authorHandle": "rikiyatakehi",
+      "url": "https://x.com/rikiyatakehi/status/2117313742891327994",
+      "tweetedAt": "2026-11-02T17:51:48.000Z",
+      "bestBit": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.",
+      "text": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.\n\nWe call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵\nBlog: https://t.co/bOWCcFhCVq"
+    },
+    {
+      "tweetId": "2117541532827848972",
+      "role": "support",
+      "authorHandle": "nielsrogge",
+      "url": "https://x.com/NielsRogge/status/2117541532827848972",
+      "tweetedAt": "2026-11-03T08:56:58.000Z",
+      "bestBit": "We @huggingface reproduced this paper!!\n\nIt's built with ML Intern, an open-source harness to do AI research, train models, and more",
+      "text": "We @huggingface reproduced this paper!!\n\nIt's built with ML Intern, an open-source harness to do AI research, train models, and more\n\nModel: https://t.co/VpW1vfaTGr\n\nDemo: https://t.co/InVAmfnRQp https://t.co/nemMw311vn",
+      "quotedTweetText": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.\n\nWe call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵\nBlog: https://t.co/bOWCcFhCVq"
+    },
+    {
+      "tweetId": "2117641935934624202",
+      "role": "commentary",
+      "authorHandle": "adamholtererer",
+      "url": "https://x.com/AdamHoltererer/status/2117641935934624202",
+      "tweetedAt": "2026-11-03T15:35:56.000Z",
+      "bestBit": "Sonnet 5.5's math edit added 17 correct answers and wrecked formatting from 32/96 to 1.\n\nIt just made the model say \"The\" first.",
+      "text": "Sonnet 5.5's math edit added 17 correct answers and wrecked formatting from 32/96 to 1.\n\nIt just made the model say \"The\" first. https://t.co/47s88ctupa"
+    },
+    {
+      "tweetId": "2117364329133621614",
+      "role": "commentary",
+      "authorHandle": "a1zhang",
+      "url": "https://x.com/a1zhang/status/2117364329133621614",
+      "tweetedAt": "2026-11-02T21:12:49.000Z",
+      "bestBit": "looping was discovered as the primary issue after the main result because we originally thought it was just a pure capability gain on math that it had somehow edited in (an even bigger result that isn’t the case).",
+      "text": "@giffmana @rikiyatakehi @lateinteraction @jayden_teoh_ to add some extra clarification here and a small anecdote, looping was discovered as the primary issue after the main result because we originally thought it was just a pure capability gain on math that it had somehow edited in (an even bigger result that isn’t the case). \n\nwhen Riki and Jayden first presented this result to me, I had a suspicion the large gain in math performance was related to reducing reasoning looping bc I observed a similar effect earlier when training RLMs yielded an odd jump in benchmark scores for a separate paper that was a result of reducing harness-level looping. We discovered Astra indeed used a trick loosely described in https://t.co/XMh94FEZjx based on activation steering to reduce this effect\n\nThis is also what led to the later ablation about removing looping when the model is told that is the issue but it doesn’t have access to activations. \n\nthe tldr; is that the LLM-generated prompt does include hints that Qwen would have this issue, but it started (and evolved without human feedback) as the simple unexpanded prompt without this prior. we will make all of this clearer though (we didn’t even realize until after we got the result that looking for looping was present in the LLM optimized prompt, as we ourselves didn’t even know to look for it initially)"
+    },
+    {
+      "tweetId": "2117380109355352166",
+      "role": "commentary",
+      "authorHandle": "hosseeb",
+      "url": "https://x.com/hosseeb/status/2117380109355352166",
+      "tweetedAt": "2026-11-02T22:15:31.000Z",
+      "bestBit": "It's more like \"Astra found a published interpretability technique that can solve this particular kind of failure modes, and implemented it on its own.\"",
+      "text": "Re: the Astra modifying Qwen 3.5-0.8B paper today, important clarification.\n\nThe story is not \"Astra used its LLM X-ray vision to surgically alter the weights of its brethren.\" It's more like \"Astra found a published interpretability technique that can solve this particular kind of failure modes, and implemented it on its own.\"\n\nIt's a cool anecdote, but well within our understanding of LLM capabilities. It's not RSI, and it's definitely not LLM telepathy or whatever people on HN seem to think.",
+      "quotedTweetText": "@giffmana @rikiyatakehi @lateinteraction @jayden_teoh_ to add some extra clarification here and a small anecdote, looping was discovered as the primary issue after the main result because we originally thought it was just a pure capability gain on math that it had somehow edited in (an even bigger result that isn’t the case). \n\nwhen Riki and Jayden first presented this result to me, I had a suspicion the large gain in math performance was related to reducing reasoning looping bc I observed a similar effect earlier when training RLMs yielded an odd jump in benchmark scores for a separate paper that was a result of reducing harness-level looping. We discovered Astra indeed used a trick loosely described in https://t.co/XMh94FEZjx based on activation steering to reduce this effect\n\nThis is also what led to the later ablation about removing looping when the model is told that is the issue but it doesn’t have access to activations. \n\nthe tldr; is that the LLM-generated prompt does include hints that Qwen would have this issue, but it started (and evolved without human feedback) as the simple unexpanded prompt without this prior. we will make all of this clearer though (we didn’t even realize until after we got the result that looking for looping was present in the LLM optimized prompt, as we ourselves didn’t even know to look for it initially)"
+    },
+    {
+      "tweetId": "2117655816581071203",
+      "role": "commentary",
+      "authorHandle": "simonw",
+      "url": "https://x.com/simonw/status/2117655816581071203",
+      "tweetedAt": "2026-11-03T16:31:05.000Z",
+      "bestBit": "I tried it with Qwen 3.8 27B on my laptop and found that, after 45+ minutes, that model could achieve the same thing",
+      "text": "There's a buzzy new paper about GPT-6 Astra being able to directly interpret model weights (prompts full of floating point numbers) - I tried it with Qwen 3.8 27B on my laptop and found that, after 45+ minutes, that model could achieve the same thing https://t.co/6O7WltGP7K"
+    },
+    {
+      "tweetId": "2117471336146800644",
+      "role": "commentary",
+      "authorHandle": "lmthang",
+      "url": "https://x.com/lmthang/status/2117471336146800644",
+      "tweetedAt": "2026-11-03T04:18:01.000Z",
+      "bestBit": "RT @rikiyatakehi: We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights",
+      "text": "RT @rikiyatakehi: We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8…"
+    },
+    {
+      "tweetId": "2117531885706359275",
+      "role": "commentary",
+      "authorHandle": "paul_cal",
+      "url": "https://x.com/paul_cal/status/2117531885706359275",
+      "tweetedAt": "2026-11-03T08:18:38.000Z",
+      "bestBit": "recent models can pick out Atari games from neural net weights alone (nets trained to beat them) in one shot w no tools. And can write a competent Breakout-playing neural net with no tools.",
+      "text": "50k likes wtf. Mostly bullshit. 2 interesting things: recent models can pick out Atari games from neural net weights alone (nets trained to beat them) in one shot w no tools. And can write a competent Breakout-playing neural net with no tools. Skills are newish &amp; will accelerate",
+      "quotedTweetText": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.\n\nWe call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵\nBlog: https://t.co/bOWCcFhCVq"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "replication-confirms-mit-weight-editing-study-as-authors-clarify-loop-fi-cd8a8f15",
+    "title": "Replication Confirms MIT Weight Editing Study as Authors Clarify Loop Fix",
+    "publishedAt": "2026-11-03T08:51:42.117Z",
+    "eventTimeApprox": "2026-11-02T21:26:13.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 165,
+    "authorCount": 120
+  }
+}

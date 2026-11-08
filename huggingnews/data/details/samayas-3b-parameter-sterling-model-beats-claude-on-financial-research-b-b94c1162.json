@@ -1,0 +1,72 @@
+{
+  "slug": "samayas-3b-parameter-sterling-model-beats-claude-on-financial-research-b-b94c1162",
+  "title": "Samaya's 3B Parameter Sterling Model Beats Claude on Financial Research Benchmark",
+  "publishedAt": "2026-10-28T17:53:56.428Z",
+  "eventTimeApprox": "2026-10-28T16:59:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115488643477590241/HVu5aU1bUAA1k5w-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115488643477590241/HVu5aU1bUAA1k5w-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "maithra_raghu",
+      "tweetUrl": "https://x.com/maithra_raghu/status/2115488643477590241"
+    }
+  },
+  "summary": "A specialized AI assistant created for financial research recorded a higher accuracy score on the FrontierFinance benchmark than the industry's leading frontier models. Samaya's new Sterling model scored 58.9%, surpassing the 55.9% achieved by Claude Fable 5.1, while using a mixture-of-experts architecture with 3B active parameters based on the Nemotron 3.5 Lightning model. This reduction in size lowered the cost of research attempts to $0.61, compared to $6.89 for Claude.\n\nSamaya developed the model through a training process involving supervised fine-tuning and reinforcement learning, during which the system first imitated eight teacher models before learning from its own errors. The company is now exploring the application of Sterling in multi-agent research swarms and the creation of customized models to encode the unique judgment of specific firms.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115480443307041130",
+      "role": "source",
+      "authorHandle": "samaya_ai",
+      "url": "https://x.com/samaya_AI/status/2115480443307041130",
+      "tweetedAt": "2026-10-28T16:26:56.000Z",
+      "bestBit": "Sterling outperforms Claude Fable 5.1 (58.9% vs. 55.9%) at 11× lower cost.",
+      "text": "Introducing Samaya Sterling: our first post-trained model for state-of-the-art financial research.\n\nOn FrontierFinance, Sterling outperforms Claude Fable 5.1 (58.9% vs. 55.9%) at 11× lower cost.\n\nUsing a model with just 3B active parameters, Sterling demonstrates what's possible when specialized training meets a purpose-built financial research harness.\n\nRead the full research ↓"
+    },
+    {
+      "tweetId": "2115488643477590241",
+      "role": "analysis",
+      "authorHandle": "maithra_raghu",
+      "url": "https://x.com/maithra_raghu/status/2115488643477590241",
+      "tweetedAt": "2026-10-28T16:59:31.000Z",
+      "bestBit": "post-train a much smaller model (Nemotron 3.5 Lightning, a 30B mixture-of-experts model with 3B active parameters) to greater accuracy (58.9% vs 55.9% on FrontierFinance) and 11x lower cost ($0.61 vs $6.89) than Claude Fable 5.1",
+      "text": "Introducing Samaya Sterling, our new model post-trained for challenging financial research that outperforms the frontier! Sterling started off as a two person research effort to see if we could increase efficiency in agentic orchestration. To our surprise we were able to post-train a much smaller model (Nemotron 3.5 Lightning, a 30B mixture-of-experts model with 3B active parameters) to greater accuracy (58.9% vs 55.9% on FrontierFinance) and 11x lower cost ($0.61 vs $6.89) than Claude Fable 5.1, the best performing frontier model.\n\nWe did this via a four-stage training process, two stages of SFT where the model first learns to research with our financial tools and how to construct a good agentic research strategy. The second two stages are RL, with an offline GRPO stage where the model further hones its research strategy from eight teachers that provide diverse approaches, and an online GRPO stage where the model can make end to end attempts and learn from its mistakes.\n\nWe see substantial gains from the co-adaptation of the model and harness through post-training, both through the model learning to effectively use the high-quality financial tools, and better compaction approaches that let even a small model execute on longer and deeper research.\n\nWe are exploring multiple follow-up directions, from multi-agent research swarms using this small model, to training firm-specific models to encode unique judgement, to training a larger model, where early results show even greater gains from the training process.\n\nThe full research is linked below!"
+    },
+    {
+      "tweetId": "2115497211119456599",
+      "role": "support",
+      "authorHandle": "tinkerapi",
+      "url": "https://x.com/tinkerapi/status/2115497211119456599",
+      "tweetedAt": "2026-10-28T17:33:33.000Z",
+      "bestBit": "The model was trained on Tinker together with the harness it works in: first by imitating 8 teachers, then RL on its own mistakes.",
+      "text": "Samaya trained Nemotron 3.5 Lightning to beat Fable 5.1 on its finance research benchmark at 9% of the cost. The model was trained on Tinker together with the harness it works in: first by imitating 8 teachers, then RL on its own mistakes.",
+      "quotedTweetText": "Introducing Samaya Sterling: our first post-trained model for state-of-the-art financial research.\n\nOn FrontierFinance, Sterling outperforms Claude Fable 5.1 (58.9% vs. 55.9%) at 11× lower cost.\n\nUsing a model with just 3B active parameters, Sterling demonstrates what's possible when specialized training meets a purpose-built financial research harness.\n\nRead the full research ↓"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "glm-details-pretraining-strategy-for-upcoming-glm-55-ai-models-c58097f7",
+  "title": "GLM Details Pretraining Strategy for Upcoming GLM-5.5 AI Models",
+  "publishedAt": "2026-11-05T16:09:26.179Z",
+  "eventTimeApprox": "2026-11-05T14:51:44.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "2513",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Z.AI",
+      "hubKey": "zhipu-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118052769856888892/HWTVswoasAEEmPg-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118052769856888892/HWTVswoasAEEmPg-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "bebuu_ai",
+      "tweetUrl": "https://x.com/bebuu_ai/status/2118052769856888892"
+    }
+  },
+  "summary": "The next generation of GLM large language models will be released in 32B, 122B, and 256B parameter versions. During a lecture at Tsinghua University, chief scientist Jie Tang disclosed that the upcoming GLM-5.5 models will be pretrained using six internal data engines to avoid reliance on public datasets.\n\nThe internal pipeline includes 1 trillion crawled web pages, 2 billion scientific PDFs, and 500 million code repositories. Training sources also comprise 10 billion videos, 50 million books, and 300 million hours of audio rewritten via automatic speech recognition into trillions of tokens.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118052769856888892",
+      "role": "source",
+      "authorHandle": "bebuu_ai",
+      "url": "https://x.com/bebuu_ai/status/2118052769856888892",
+      "tweetedAt": "2026-11-04T18:48:26.000Z",
+      "bestBit": "their pretraining pipeline pulls from six separate internal engines: Web: 1 trillion pages crawled at ~10B pages/day",
+      "text": "https://t.co/UStDmf5MNx chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B) during a lecture at Tsinghua University today.\n\nInstead of relying on public datasets, their pretraining pipeline pulls from six separate internal engines:\n\n- Web: 1 trillion pages crawled at ~10B pages/day with PB-scale template clustering\n- Documents: 2 billion scientific PDFs parsed through GLM-OCR (4x faster with speculative decoding)\n- Books: 50 million books with layout reordering and garbled-text filtering\n- Code: 500 million repositories turned into executable tasks with real tests and issue descriptions\n- Video: 10 billion videos for long-sequence world knowledge\n- Audio: 300 million hours rewritten via ASR into trillions of tokens"
+    },
+    {
+      "tweetId": "2118370881210855904",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2118370881210855904",
+      "tweetedAt": "2026-11-05T15:52:30.000Z",
+      "bestBit": "DeepSeek team believes GLM incapable of independently developing a serious >1T model",
+      "text": "&gt; upcoming GLM-5.5 (32B, 122B, and 256B)\nSpeaking of, I've heard once that DeepSeek team believes GLM incapable of independently developing a serious &gt;1T model.\nNo idea if legit, but they've always been a bit… petite. But efficient with params.\nMoonshot is the opposite.",
+      "quotedTweetText": "https://t.co/UStDmf5MNx chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B) during a lecture at Tsinghua University today.\n\nInstead of relying on public datasets, their pretraining pipeline pulls from six separate internal engines:\n\n- Web: 1 trillion pages crawled at ~10B pages/day with PB-scale template clustering\n- Documents: 2 billion scientific PDFs parsed through GLM-OCR (4x faster with speculative decoding)\n- Books: 50 million books with layout reordering and garbled-text filtering\n- Code: 500 million repositories turned into executable tasks with real tests and issue descriptions\n- Video: 10 billion videos for long-sequence world knowledge\n- Audio: 300 million hours rewritten via ASR into trillions of tokens"
+    }
+  ],
+  "isSuperseded": false
+}

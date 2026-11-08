@@ -1,0 +1,110 @@
+{
+  "slug": "nvidia-h200-gpu-rental-rates-rise-160percent-since-start-of-year-d9edc231",
+  "title": "Nvidia H200 GPU Rental Rates Rise 160% Since Start of Year",
+  "publishedAt": "2026-10-24T23:25:05.245Z",
+  "eventTimeApprox": "2026-10-24T20:04:00.500Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114133748308435122/HVbpaiiX0AE_lqQ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114133748308435122/HVbpaiiX0AE_lqQ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "stockmktnewz",
+      "tweetUrl": "https://x.com/StockMKTNewz/status/2114133748308435122"
+    }
+  },
+  "summary": "Costs to lease AI processors have climbed across the board, defying expectations that the hardware would depreciate on a standard schedule. Data from a16z shows that rental rates for Nvidia H200 chips increased about 160% since January 1, while older A100 and H100 models also remain priced above their scheduled obsolescence.\n\nThe price increases follow a jump in compute consumption, with token demand on OpenRouter rising roughly 27x from 6T to 165T tokens per week since last November. Open-weight models now handle about 72% of that traffic, up from 28% a year ago. Other market trends include a 45% increase in H100 rental costs since December, which Chamath Palihapitiya attributed to constraints on power.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114122274467102926",
+      "role": "source",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2114122274467102926",
+      "tweetedAt": "2026-10-24T22:30:03.000Z",
+      "bestBit": "Token demand on OpenRouter is up ~27x since last November, from ~6T/week to ~165T/week",
+      "text": "One answer to what's driving GPU rental prices:\n\nToken demand on OpenRouter is up ~27x since last November, from ~6T/week to ~165T/week\n\nOpen-weight models now handle ~72% of those tokens, up from ~28% last November\n\nCharts of the Week: https://t.co/BKHzpgt05x https://t.co/SaM56HJRBr",
+      "quotedTweetText": "Zooming out, GPUs are still renting ahead of a standard 6-year depreciation schedule\n\nRental price vs. schedule:\n- H200: +143%\n- B200: +111%\n- RTX PRO 6000: +73%\n- H100: +54%\n- A100: +9%\n\nMost of the gap opened up after April, when token demand took off\n\nCharts of the Week: https://t.co/KJWFSaIGCd"
+    },
+    {
+      "tweetId": "2114058804929479045",
+      "role": "source",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2114058804929479045",
+      "tweetedAt": "2026-10-24T18:17:51.000Z",
+      "bestBit": "GPU rental rates continue to go up. Even as token pricing comes down, you see more and more consumption, and it's causing relative scarcity amongst the GPUs that we have.",
+      "text": "a16z's Alex Danco and Moses Sternstein on the bear case that GPUs would depreciate fast, what rental rates actually show, and why the data points to scarcity:\n\nAlex: \"There is a whole case that people made on both sides of the argument that these things were assets that would depreciate on a schedule. And in the past 18 months, I think what we have learned is that all our assumptions were wrong.\"\n\nMoses: \"GPU rental rates continue to go up. Even as token pricing comes down, you see more and more consumption, and it's causing relative scarcity amongst the GPUs that we have.\"\n\n\"Even for the older GPUs, the A100s, which have been around already for five years, that were supposed to become obsolete... Whether they had 4-year depreciation schedules, 6-year depreciation schedules, they were supposed to be obsolete almost immediately, and that was the original bear case.\"\n\n\"And plainly, they're not... Everybody is priced above what they should be based on their scheduled obsolescence. And that's true of the older models, the A100 and the H100.\"\n\n@alex_danco @MosesSternstein",
+      "quotedTweetText": "Zooming out, GPUs are still renting ahead of a standard 6-year depreciation schedule\n\nRental price vs. schedule:\n- H200: +143%\n- B200: +111%\n- RTX PRO 6000: +73%\n- H100: +54%\n- A100: +9%\n\nMost of the gap opened up after April, when token demand took off\n\nCharts of the Week: https://t.co/KJWFSaIGCd"
+    },
+    {
+      "tweetId": "2114070426137894967",
+      "role": "support",
+      "authorHandle": "socialcapital",
+      "url": "https://x.com/socialcapital/status/2114070426137894967",
+      "tweetedAt": "2026-10-24T19:04:01.000Z",
+      "bestBit": "Renting Nvidia’s H100 costs 45% more than it did in December.",
+      "text": "Renting Nvidia’s H100 costs 45% more than it did in December.\n\nIt went on sale in 2022, and two newer generations have come out since.\n\nYet, demand for compute is so far ahead of supply that older GPUs are getting more expensive. https://t.co/ibt7468gAO"
+    },
+    {
+      "tweetId": "2114093525059174868",
+      "role": "commentary",
+      "authorHandle": "chamath",
+      "url": "https://x.com/chamath/status/2114093525059174868",
+      "tweetedAt": "2026-10-24T20:35:48.000Z",
+      "bestBit": "Power is the binding constraint. This is why prices continue to climb so ferociously.",
+      "text": "Power is the binding constraint. This is why prices continue to climb so ferociously.",
+      "quotedTweetText": "Renting Nvidia’s H100 costs 45% more than it did in December.\n\nIt went on sale in 2022, and two newer generations have come out since.\n\nYet, demand for compute is so far ahead of supply that older GPUs are getting more expensive. https://t.co/ibt7468gAO"
+    },
+    {
+      "tweetId": "2114133748308435122",
+      "role": "commentary",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2114133748308435122",
+      "tweetedAt": "2026-10-24T23:15:38.000Z",
+      "bestBit": "It costs ~160% more to rent one of Nvidia's $NVDA H200 chips from 2024 today than it costed at the start of the year - A16Z",
+      "text": "It costs ~160% more to rent one of Nvidia's $NVDA H200 chips from 2024 today than it costed at the start of the year - A16Z https://t.co/za8FeJ4tjB"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nvidia-h100-gpu-rental-costs-jump-45percent-since-december-796401c1",
+    "title": "Nvidia H100 GPU Rental Costs Jump 45% Since December",
+    "publishedAt": "2026-10-24T20:53:31.765Z",
+    "eventTimeApprox": "2026-10-24T19:30:56.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 4,
+    "authorCount": 3
+  }
+}

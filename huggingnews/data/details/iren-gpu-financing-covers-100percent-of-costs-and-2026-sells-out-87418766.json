@@ -1,0 +1,72 @@
+{
+  "slug": "iren-gpu-financing-covers-100percent-of-costs-and-2026-sells-out-87418766",
+  "title": "IREN GPU Financing Covers 100% of Costs and 2026 Sells Out",
+  "publishedAt": "2026-10-19T15:54:43.758Z",
+  "eventTimeApprox": "2026-10-19T15:22:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "IREN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "IREN Limited Ordinary Shares",
+      "hubKey": "iren"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "IREN uses take-or-pay contracts with prepayments of 45% to 55% of hardware expenditures to fund its GPU expansions. These prepayments, paired with debt secured by the equipment, cover 96% to more than 100% of the capex for recent acquisitions. For a contract with Microsoft, the company secured an A-rated facility at roughly 6%, and more recently used a 9% fixed rate for a client at Mackenzie.\n\nThe company has largely sold out its capacity for 2026, with recent 3 year contracts priced at more than double the rates of the previous year. Demand for 2027 availability exceeds supply several times over, and conversations for 2028 capacity are already underway. IREN notes that the primary industry bottleneck is now bringing GPUs online rather than signing deals, a trend mirrored by peers Nebius and CoreWeave. Construction of the hosting data centers has been funded through cash with no debt against those assets.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112200081034129419",
+      "role": "source",
+      "authorHandle": "danroberts0101",
+      "url": "https://x.com/danroberts0101/status/2112200081034129419",
+      "tweetedAt": "2026-10-19T15:11:56.000Z",
+      "bestBit": "On our recent 3-year contracts, prepayments have been 45% to 55% of the associated GPU capex.",
+      "text": "A lot of questions this week on funding, so here's how a GPU typically gets funded at $IREN.\n\nFirst, the customer signs a multi-year take-or-pay contract and agrees to a prepayment. On our recent 3-year contracts, prepayments have been 45% to 55% of the associated GPU capex.\n\nSecond, financing is committed, secured by the contracted GPUs. On the Microsoft contract we secured an A-rated facility at around 6%, which together with prepayments covers 96% of GPU capex. More recently, for a non-investment grade counterparty at Mackenzie, we secured financing at 9% fixed, which together with prepayments covers more than the full cost of the GPUs.\n\nThat's the GPU side. The data centers are a separate, long-term asset base, and we own the ones our GPUs run in. Construction has been funded from cash to date, with no debt against these multi-billion dollar assets. As they come online with contracted customers, they can support financing in their own right.\n\nThe processes behind the next facilities are continuing, and new paper will cost what the market charges. With GPU paybacks of around two years on our recent 3-year contracts, a wider spread barely moves the economics.\n\nThere's more customer demand than we can build for. As we noted at our recent earnings, 2026 is largely sold out, recent 3-year contracts are at more than double the prior year's pricing, and demand for anything we can bring online in 2027 covers it several times over, with prepayments a focus in every negotiation. Conversations on 2028 capacity are already underway.\n\nMeanwhile announced capacity keeps slipping across the industry, which is the point: signing deals isn't the bottleneck in this market, bringing GPUs online is, and that's our focus."
+    },
+    {
+      "tweetId": "2112204872799945117",
+      "role": "analysis",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2112204872799945117",
+      "tweetedAt": "2026-10-19T15:30:59.000Z",
+      "bestBit": "This echoes what Nebius and CoreWeave have been saying too",
+      "text": "This echoes what Nebius and CoreWeave have been saying too\n\n\"With GPU paybacks of around two years on our recent 3-year contracts\"\n\n\"There's more customer demand than we can build for.\"\n\n\"2026 is largely sold out, recent 3-year contracts are at more than double the prior year's pricing\"",
+      "quotedTweetText": "A lot of questions this week on funding, so here's how a GPU typically gets funded at $IREN.\n\nFirst, the customer signs a multi-year take-or-pay contract and agrees to a prepayment. On our recent 3-year contracts, prepayments have been 45% to 55% of the associated GPU capex.\n\nSecond, financing is committed, secured by the contracted GPUs. On the Microsoft contract we secured an A-rated facility at around 6%, which together with prepayments covers 96% of GPU capex. More recently, for a non-investment grade counterparty at Mackenzie, we secured financing at 9% fixed, which together with prepayments covers more than the full cost of the GPUs.\n\nThat's the GPU side. The data centers are a separate, long-term asset base, and we own the ones our GPUs run in. Construction has been funded from cash to date, with no debt against these multi-billion dollar assets. As they come online with contracted customers, they can support financing in their own right.\n\nThe processes behind the next facilities are continuing, and new paper will cost what the market charges. With GPU paybacks of around two years on our recent 3-year contracts, a wider spread barely moves the economics.\n\nThere's more customer demand than we can build for. As we noted at our recent earnings, 2026 is largely sold out, recent 3-year contracts are at more than double the prior year's pricing, and demand for anything we can bring online in 2027 covers it several times over, with prepayments a focus in every negotiation. Conversations on 2028 capacity are already underway.\n\nMeanwhile announced capacity keeps slipping across the industry, which is the point: signing deals isn't the bottleneck in this market, bringing GPUs online is, and that's our focus."
+    }
+  ],
+  "isSuperseded": false
+}

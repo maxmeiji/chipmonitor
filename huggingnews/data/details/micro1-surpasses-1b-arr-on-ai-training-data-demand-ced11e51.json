@@ -1,0 +1,68 @@
+{
+  "slug": "micro1-surpasses-1b-arr-on-ai-training-data-demand-ced11e51",
+  "title": "Micro1 Surpasses $1B ARR on AI Training Data Demand",
+  "publishedAt": "2026-10-12T22:40:55.651Z",
+  "eventTimeApprox": "2026-10-12T19:58:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "summary": "Revenue at the AI training data startup grew from approximately $500 million in August to $700 million just a few weeks ago before accelerating further. Micro1 has now surpassed $1 billion in annual recurring revenue (ARR), driven by its Data Partnerships program and sales of expert human data to AI labs. These laboratories are reportedly spending whatever it takes to secure the high-quality datasets required to improve model performance.\n\nThe company also closed a Series B funding round earlier this summer at a $4 billion valuation. The rapid climb in revenue indicates that high-quality training data has emerged as a gigantic market, as enterprises and laboratories prioritize specialized human-curated inputs for AI development.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109765355015229737",
+      "role": "source",
+      "authorHandle": "fxhedgers",
+      "url": "https://x.com/Fxhedgers/status/2109765355015229737",
+      "tweetedAt": "2026-10-12T21:57:12.000Z",
+      "bestBit": "up from around $500m in August and $700m a few weeks ago (per Arfur Rock & Forbes)",
+      "text": "BREAKING: Micro1 has reached $1B ARR, up from around $500m in August and $700m a few weeks ago (per Arfur Rock &amp; Forbes). A clear signal that high-quality data for AI training is becoming a gigantic market."
+    },
+    {
+      "tweetId": "2109705407283483107",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2109705407283483107",
+      "tweetedAt": "2026-10-12T17:59:00.000Z",
+      "bestBit": "growth is driven by demand for expert human data & its Data Partnerships program, which licenses business data for AI training",
+      "text": "MICRO1 SURPASSES $1B IN ANNUAL RECURRING REVENUE\n\nThe AI training data company says growth is driven by demand for expert human data &amp; its Data Partnerships program, which licenses business data for AI training.\n\nIt also closed its Series B at a $4B valuation earlier this summer"
+    },
+    {
+      "tweetId": "2109771884237562312",
+      "role": "commentary",
+      "authorHandle": "wallstreetmav",
+      "url": "https://x.com/WallStreetMav/status/2109771884237562312",
+      "tweetedAt": "2026-10-12T22:23:09.000Z",
+      "bestBit": "Labs are spending literally whatever it takes for good data.",
+      "text": "Labs are spending literally whatever it takes for good data.",
+      "quotedTweetText": "BREAKING: Micro1 has reached $1B ARR, up from around $500m in August and $700m a few weeks ago (per Arfur Rock &amp; Forbes). A clear signal that high-quality data for AI training is becoming a gigantic market."
+    }
+  ],
+  "isSuperseded": false
+}

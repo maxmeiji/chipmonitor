@@ -1,0 +1,103 @@
+{
+  "slug": "samsung-and-sk-hynix-build-286-layer-nand-to-counter-ymtc-market-lead-a4c26321",
+  "title": "Samsung and SK Hynix Build 286 Layer NAND to Counter YMTC Market Lead",
+  "publishedAt": "2026-10-22T06:10:20.294Z",
+  "eventTimeApprox": "2026-10-21T08:44:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "tech",
+    "geopolitics",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "subject",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    }
+  ],
+  "summary": "Samsung is targeting a monthly output of 40,000 wafers by December 2027 at its Xi'an facility as part of an internal effort called Monami to produce 286-layer V9 chips. This move, mirrored by SK Hynix upgrading its Dalian plant from 192-layer to 240-plus-layer NAND, follows a shift in regional market share where YMTC took a 38.5% lead in China's NAND market in the second quarter, surpassing Samsung's 33.5% and SK Hynix's 17%. The upgrades to the plants, which account for 40% of Samsung's global NAND production, aim to meet surging AI demand and claw back competitiveness against the Chinese rival.\n\nThe expansions occur despite a 2025 US Commerce Department statement that it did not expect to grant licenses for technology upgrades or capacity expansion at foreign-owned fabs in China. Both companies state they are operating in consultation with Washington and that the work complies with export rules. SK Hynix may further seek US permission to research chips with more than 300 layers at its Dalian site to prepare for a potential shift of NAND production to the US.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112778692703211884",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2112778692703211884",
+      "tweetedAt": "2026-10-21T05:31:08.000Z",
+      "bestBit": "upgrading their China factories to produce more advanced memory chips, aiming to fend off competition from a fast-growing Chinese rival and meet huge AI demand",
+      "text": "Exclusive: Samsung Electronics and SK Hynix are upgrading their China factories to produce more advanced memory chips, aiming to fend off competition from a fast-growing Chinese rival and meet huge AI demand https://t.co/1bC6hT9vVf"
+    },
+    {
+      "tweetId": "2112833431939756373",
+      "role": "commentary",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2112833431939756373",
+      "tweetedAt": "2026-10-21T09:08:39.000Z",
+      "bestBit": "YMTC has overtaken Samsung in China's NAND market with a 38.5% share",
+      "text": "🚨BREAKING: Reuters reports Samsung and SK Hynix are upgrading Chinese factories to produce more advanced NAND memory chips, even after the US Commerce Department said in 2025 it did not expect to approve licenses for technology upgrades or capacity expansion at foreign-owned fabs there.\n\nSamsung is converting Xi'an, which produces roughly 40% of its NAND, to 286-layer chips under an internal project called Monami, targeting 40,000 wafers a month by late 2027. SK Hynix is moving Dalian from 192 to 240+ layers.\n\nBoth companies say the work is being done in consultation with Washington. Reuters could not determine the extent of US approvals. Meanwhile, YMTC has overtaken Samsung in China's NAND market with a 38.5% share."
+    },
+    {
+      "tweetId": "2113147137840329114",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2113147137840329114",
+      "tweetedAt": "2026-10-22T05:55:12.000Z",
+      "bestBit": "converting its Xian plant, which produces about 40% of its global NAND, from roughly 200-layer chips to 286-layer V9 chips",
+      "text": "Samsung is converting its Xian plant, which produces about 40% of its global NAND, from roughly 200-layer chips to 286-layer V9 chips under an internal project called “Monami”.\n\nThat conversion aims for 5,000 wafers a month in December and 40,000 wafers a month by December 2027\n\nSK Hynix wants to lift its Dalian plant from 192-layer NAND to 240 layers or more, and one person says it is already authorised to make chips up to 240 layers there.\n\nSK Hynix may also seek US permission for research on 300-plus-layer chips at Dalian, work meant to prepare for possible NAND production in the US.\n\nBoth companies say the upgrades are happening in consultation with Washington, yet the Commerce Department said in 2025 it would license only continued operation of these plants, not capacity growth or technology upgrades, and the extent of any new approvals is unknown.\n\nSamsung insists the work meets US export rules and serves global customers, including US buyers, without adding production capacity or new facilities."
+    },
+    {
+      "tweetId": "2112881363275927965",
+      "role": "signal",
+      "authorHandle": "openoutcrier",
+      "url": "https://x.com/OpenOutcrier/status/2112881363275927965",
+      "tweetedAt": "2026-10-21T12:19:07.000Z",
+      "bestBit": "Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
+      "text": "$SKHY (+3.6% pre) Samsung, SK Hynix upgrading China plants to make more advanced chips, people say\n\nhttps://t.co/VAIW5bx6uX"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "samsung-and-sk-hynix-upgrade-china-plants-for-advanced-memory-cbc768b0",
+    "title": "Samsung and SK Hynix Upgrade China Plants for Advanced Memory",
+    "publishedAt": "2026-10-21T05:56:00.932Z",
+    "eventTimeApprox": "2026-10-21T05:31:08.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 12,
+    "authorCount": 11
+  }
+}

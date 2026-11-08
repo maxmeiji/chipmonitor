@@ -1,0 +1,59 @@
+{
+  "slug": "baseten-cuts-qwen3-asr-batch-transcription-time-to-under-5-seconds-per-h-2051ca47",
+  "title": "Baseten Cuts Qwen3-ASR Batch Transcription Time to Under 5 Seconds Per Hour",
+  "publishedAt": "2026-10-28T22:15:38.467Z",
+  "eventTimeApprox": "2026-10-28T21:05:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:BSTN",
+      "kind": "private",
+      "role": "subject",
+      "name": "Baseten",
+      "hubKey": "baseten"
+    }
+  ],
+  "summary": "Baseten has improved the processing speed of the Qwen3-ASR 1.7B open-weight model to lower the cost and time required for batch transcription. The new implementation allows for the transcription of an hour of audio in less than five seconds at a cost of $0.0013 per hour, achieving 7x the throughput of stock vLLM on a single GPU.\n\nThe company achieved these gains through native audio decoding, KV cache quantization, and a reduction in CPU-GPU synchronizations. Baseten said the 1.7B parameter model currently ranks on the Pareto frontier of the Open ASR Leaderboard as the most accurate transcription model of its size.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115549853862297750",
+      "role": "source",
+      "authorHandle": "hasanwkhan04",
+      "url": "https://x.com/hasanwkhan04/status/2115549853862297750",
+      "tweetedAt": "2026-10-28T21:02:44.000Z",
+      "bestBit": "Throughput → 7x stock vLLM, on a single GPU.",
+      "text": "Over the last few weeks, I've been optimizing Qwen3-ASR at Baseten. It's now the fastest, lowest-cost way to run batch transcription!\n\nAn hour of audio → transcribed in under 5 seconds.\nCost → about a tenth of a cent.\nThroughput → 7x stock vLLM, on a single GPU.\n\nThe biggest performance gains came from native audio decoding, KV cache quantization, and cutting unnecessary CPU-GPU syncs.\n\nYou can read more about how it works below!"
+    },
+    {
+      "tweetId": "2115550777515168076",
+      "role": "support",
+      "authorHandle": "baseten",
+      "url": "https://x.com/baseten/status/2115550777515168076",
+      "tweetedAt": "2026-10-28T21:06:25.000Z",
+      "bestBit": "We optimized it to achieve the highest throughput, lowest latency, and lowest cost, at a 3,128x real-time factor on hour-long audio and $0.0013 per audio hour.",
+      "text": "Qwen3-ASR 1.7B is the most accurate open-weight transcription model of its size, on the Pareto frontier of the Open ASR Leaderboard.\n\nWe optimized it to achieve the highest throughput, lowest latency, and lowest cost, at a 3,128x real-time factor on hour-long audio and $0.0013 per audio hour.",
+      "quotedTweetText": "Over the last few weeks, I've been optimizing Qwen3-ASR at Baseten. It's now the fastest, lowest-cost way to run batch transcription!\n\nAn hour of audio → transcribed in under 5 seconds.\nCost → about a tenth of a cent.\nThroughput → 7x stock vLLM, on a single GPU.\n\nThe biggest performance gains came from native audio decoding, KV cache quantization, and cutting unnecessary CPU-GPU syncs.\n\nYou can read more about how it works below!"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "coinbase-launches-ai-trading-for-us-500-and-crypto-perpetuals-5fe8c82a",
+  "title": "Coinbase Launches AI Trading for US 500 and Crypto Perpetuals",
+  "publishedAt": "2026-10-16T21:28:34.546Z",
+  "eventTimeApprox": "2026-10-14T18:24:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "crypto",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "crypto",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "fintech",
+      "name": "Fintech"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "COIN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Coinbase Global, Inc. Class A Common Stock",
+      "hubKey": "coin"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110355189890691322/gKk18AObVozhJRCD-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110355189890691322/gKk18AObVozhJRCD-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2110209201184051200/vid/avc1/3340x2160/ylGByPsvNYLkkkLR.mp4?tag=29",
+    "credit": {
+      "handle": "murrlincoln",
+      "tweetUrl": "https://x.com/MurrLincoln/status/2110355189890691322"
+    }
+  },
+  "summary": "Traders can now automate positions on more than 20 crypto tokens and several financial indices by connecting their AI assistants to Coinbase. An update to the Coinbase for Agents tool allows software bots to execute long and short trades on perpetual contracts, including those based on the top 500 US equities, the 100 largest tech stocks, and top holdings in China, AI, and aerospace and defense.\n\nThis expansion of the platform's AiFi capabilities integrates with Composio, which connects AI agents to over 1,500 apps for multi-app asset management workflows. CEO Brian Armstrong recently urged developers to have their agents submit feedback via a dedicated API to identify where transactions get stuck. Index perpetuals are available only to users based in the United States.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111202835367100501",
+      "role": "source",
+      "authorHandle": "coinbasedev",
+      "url": "https://x.com/CoinbaseDev/status/2111202835367100501",
+      "tweetedAt": "2026-10-16T21:09:14.000Z",
+      "bestBit": "Long or short indices of the top 500 US equities, the top 100 tech stocks, the top 10 AI companies, the top 10 Chinese stocks, or the top 10 aerospace & defense equities",
+      "text": "Index and crypto perps are now live on Coinbase for Agents.\n\nLong or short indices of the top 500 US equities, the top 100 tech stocks, the top 10 AI companies, the top 10 Chinese stocks, or the top 10 aerospace &amp; defense equities. Plus, over 20 tokens.\n\nStraight from your agent. https://t.co/sZzPTWrO1X"
+    },
+    {
+      "tweetId": "2110355189890691322",
+      "role": "commentary",
+      "authorHandle": "murrlincoln",
+      "url": "https://x.com/MurrLincoln/status/2110355189890691322",
+      "tweetedAt": "2026-10-14T13:01:00.000Z",
+      "bestBit": "trade crypto, US 500, TECH 100, AI, Defense, China, and more",
+      "text": "our feedback tool is already paying dividends \n\nyesterday we got a request to enable agentic trading for US perps \n\ntoday we have it on our Coinbase MCP! \n\ntrade crypto, US 500, TECH 100, AI, Defense, China, and more https://t.co/r3wmxpSdWB"
+    },
+    {
+      "tweetId": "2110420906166407437",
+      "role": "commentary",
+      "authorHandle": "coinbasedev",
+      "url": "https://x.com/CoinbaseDev/status/2110420906166407437",
+      "tweetedAt": "2026-10-14T17:22:08.000Z",
+      "bestBit": "@Composio connects your AI agents to more than 1,500 apps",
+      "text": "Coinbase for Agents is now live on Composio.\n\n@Composio connects your AI agents to more than 1,500 apps.\n\nBuild multi-app workflows to trade crypto, stocks and derivatives. https://t.co/XoWijGbsxA"
+    },
+    {
+      "tweetId": "2110562521786507570",
+      "role": "commentary",
+      "authorHandle": "brian_armstrong",
+      "url": "https://x.com/brian_armstrong/status/2110562521786507570",
+      "tweetedAt": "2026-10-15T02:44:52.000Z",
+      "bestBit": "Have your agent send us feedback right through our API",
+      "text": "Nice\n\nHave your agent send us feedback right through our API\n\nPaste this into your agent: \"connect to https://t.co/CxesPpKHc9\" and follow the steps\n\nThen try doing any financial transaction. If it gets stuck, ask your agent to send us feedback on what it needs.",
+      "quotedTweetText": "our feedback tool is already paying dividends \n\nyesterday we got a request to enable agentic trading for US perps \n\ntoday we have it on our Coinbase MCP! \n\ntrade crypto, US 500, TECH 100, AI, Defense, China, and more https://t.co/r3wmxpSdWB"
+    },
+    {
+      "tweetId": "2111202847417303517",
+      "role": "support",
+      "authorHandle": "coinbasedev",
+      "url": "https://x.com/CoinbaseDev/status/2111202847417303517",
+      "tweetedAt": "2026-10-16T21:09:17.000Z",
+      "bestBit": "Index perps are only available in the U.S.",
+      "text": "Connect Coinbase to your favorite AI platform to get started with AiFi and trade crypto, derivatives, stocks, and index perps in one conversation ↓\n\n“Connect to https://t.co/9Zp4FEUF8y\"\n\nLegal Stuff: Trading involves substantial risk, including the potential loss of your entire investment. AI agents may make mistakes or fail. You direct all agent activity and assume all risk for transactions your agents execute, as well as for any use of your data by third-party AI providers. Futures are offered by Coinbase Financial Markets (CFM), a registered futures commission merchant with the CFTC and member of the NFA. Agents are not offered by CFM. Leverage can work for or against you. Not investment advice or a recommendation to trade a particular contract or to employ a particular strategy. Index perps are only available in the U.S."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "coinbase-enables-ai-agent-trading-across-1500-apps-on-composio-a57e18ed",
+    "title": "Coinbase Enables AI Agent Trading Across 1,500 Apps on Composio",
+    "publishedAt": "2026-10-14T18:38:12.963Z",
+    "eventTimeApprox": "2026-10-14T17:36:33.000Z",
+    "routingTopicKeys": [
+      "crypto",
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

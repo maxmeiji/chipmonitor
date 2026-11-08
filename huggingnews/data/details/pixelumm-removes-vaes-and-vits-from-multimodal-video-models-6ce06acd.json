@@ -1,0 +1,52 @@
+{
+  "slug": "pixelumm-removes-vaes-and-vits-from-multimodal-video-models-6ce06acd",
+  "title": "PixelUMM Removes VAEs and ViTs From Multimodal Video Models",
+  "publishedAt": "2026-10-02T07:38:13.357Z",
+  "eventTimeApprox": "2026-10-01T23:56:03.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "summary": "The code and trained weights for a new image and video system are now public for developers to use in multimodal tasks. Developed by CongWei1230, the model known as PixelUMM performs generation and understanding directly in pixel space, which eliminates the need for Vision Transformers (ViTs) and Variational Autoencoders (VAEs) typically used to encode visual data in AI models.\n\nThe project was released on October 1 and utilizes an encoder-free architecture to bypass standard compression steps found in most generative AI. By removing the reliance on latent spaces, the model seeks to unify how images and videos are processed and produced within a single framework.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105808995910816159",
+      "role": "source",
+      "authorHandle": "congwei1230",
+      "url": "https://x.com/CongWei1230/status/2105808995910816159",
+      "tweetedAt": "2026-10-01T23:56:03.000Z",
+      "bestBit": "Introducing 𝗣𝗶𝘅𝗲𝗹𝗨𝗠𝗠: an encoder-free unified multimodal model for image and video understanding and generation, directly in pixel space.",
+      "text": "Let's remove VAEs and ViTs from video models!\n\n🚀 Introducing 𝗣𝗶𝘅𝗲𝗹𝗨𝗠𝗠: an encoder-free unified multimodal model for image and video understanding and generation, directly in pixel space.\n\nCode and model available today!\n\n🌐 https://t.co/RXUObhsSIZ\n📄 https://t.co/lA7VaJoVws"
+    }
+  ],
+  "isSuperseded": false
+}

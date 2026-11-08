@@ -1,0 +1,71 @@
+{
+  "slug": "pruna-releases-p-h3-image-open-source-model-based-on-minimax-h3-video-ai-8f1259a0",
+  "title": "Pruna Releases P-H3-Image Open-Source Model Based on MiniMax-H3 Video AI",
+  "publishedAt": "2026-11-03T17:38:59.780Z",
+  "eventTimeApprox": "2026-11-03T17:11:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "0100",
+      "kind": "equity",
+      "role": "related",
+      "name": "MiniMax Group",
+      "hubKey": "minimax"
+    }
+  ],
+  "summary": "High-resolution images can now be generated in 2.6 seconds using a newly open-sourced model that converts video AI into an efficient image generator. The P-H3-Image model from Pruna was adapted from the MiniMax-H3 video AI and is 7x smaller than its predecessor, allowing it to produce 4 MP images in 8 generation steps rather than the 50 steps typically required.\n\nThe tool supports resolutions between 2 and 16 MP and accepts up to 8 input images for editing tasks. Pruna reworked the original transformer, diffusion schedule, and text encoder to enhance photorealism in documentary and film styles. The model's open weights are currently available via Hugging Face with native support for ComfyUI.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117663564487926043",
+      "role": "source",
+      "authorHandle": "prunaai",
+      "url": "https://x.com/PrunaAI/status/2117663564487926043",
+      "tweetedAt": "2026-11-03T17:01:52.000Z",
+      "bestBit": "The model is 7× smaller than H3, so high-resolution images are a light download and run on a much smaller GPU.",
+      "text": "Today, we open-source P-H3-Image, an image generation and editing model built from MiniMax-H3 by @MiniMax_AI. A SOTA video model, turned into an efficient open image model.\n\n- 𝗛𝗼𝘄 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝘀 𝗶𝘁? Generate or edit images 5× faster, in 8 steps instead of 50. A 4 MP image takes 2.6 s instead of 12.4 s. The model is 7× smaller than H3, so high-resolution images are a light download and run on a much smaller GPU. \n\n- 𝗛𝗼𝘄 𝗴𝗼𝗼𝗱 𝗶𝘀 𝗶𝘁? Strongest at photorealism, documentary and editorial photography, film stills, and graphic styles with short quoted text. It renders 2 to 16 MP and edits with up to 8 input images.\n\n-𝗛𝗼𝘄 𝗱𝗼𝗲𝘀 𝗶𝘁 𝘄𝗼𝗿𝗸? We reworked every component of H3: the prompt upsampler, the text encoder, the diffusion schedule, the transformer, and the decoder. Use it with Diffusers or ComfyUI.\n\n📄 Tech Report: https://t.co/OxzlKm3aaA\n🤗 @huggingface Open Weights: https://t.co/7Xkw8ERe96\n👉 @ComfyUI Native Support: https://t.co/dSAWMDu340"
+    },
+    {
+      "tweetId": "2117665974686281972",
+      "role": "commentary",
+      "authorHandle": "multimodalart",
+      "url": "https://x.com/multimodalart/status/2117665974686281972",
+      "tweetedAt": "2026-11-03T17:11:27.000Z",
+      "bestBit": "Pruna fine-tuned H3 to spit out a single frame, converting a video model back to an image model",
+      "text": "Pruna fine-tuned H3 to spit out a single frame, converting a video model back to an image model\n\nand it does have a breath of fresh air in the aesthetics, I'm getting outputs out of this model that I can't get from other models https://t.co/1OpUVnPgar",
+      "quotedTweetText": "Today, we open-source P-H3-Image, an image generation and editing model built from MiniMax-H3 by @MiniMax_AI. A SOTA video model, turned into an efficient open image model.\n\n- 𝗛𝗼𝘄 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝘀 𝗶𝘁? Generate or edit images 5× faster, in 8 steps instead of 50. A 4 MP image takes 2.6 s instead of 12.4 s. The model is 7× smaller than H3, so high-resolution images are a light download and run on a much smaller GPU. \n\n- 𝗛𝗼𝘄 𝗴𝗼𝗼𝗱 𝗶𝘀 𝗶𝘁? Strongest at photorealism, documentary and editorial photography, film stills, and graphic styles with short quoted text. It renders 2 to 16 MP and edits with up to 8 input images.\n\n-𝗛𝗼𝘄 𝗱𝗼𝗲𝘀 𝗶𝘁 𝘄𝗼𝗿𝗸? We reworked every component of H3: the prompt upsampler, the text encoder, the diffusion schedule, the transformer, and the decoder. Use it with Diffusers or ComfyUI.\n\n📄 Tech Report: https://t.co/OxzlKm3aaA\n🤗 @huggingface Open Weights: https://t.co/7Xkw8ERe96\n👉 @ComfyUI Native Support: https://t.co/dSAWMDu340"
+    }
+  ],
+  "isSuperseded": false
+}

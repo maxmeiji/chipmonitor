@@ -1,0 +1,82 @@
+{
+  "slug": "tesla-expands-houston-robotaxi-service-area-to-254-square-miles-7b09deb4",
+  "title": "Tesla Expands Houston Robotaxi Service Area to 254 Square Miles",
+  "publishedAt": "2026-10-26T16:38:00.899Z",
+  "eventTimeApprox": "2026-10-26T13:46:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "automobile",
+      "name": "Automobile"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114713219411660978/HVj4du3bEAAWAoS-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114713219411660978/HVj4du3bEAAWAoS-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "robotaxi",
+      "tweetUrl": "https://x.com/robotaxi/status/2114713219411660978"
+    }
+  },
+  "summary": "The geofence for fully autonomous ride-hailing in Texas grew by 916% on Oct. 26. Tesla expanded its Robotaxi service area in Houston to a total of 254 square miles, allowing for unsupervised vehicle operations in the larger zone.\n\nThe Houston expansion is part of a network of autonomous zones that includes Austin at 272 square miles and Dallas at 81 square miles. The company also operates robotaxi services in Florida, with geofences in Miami, Orlando, and Tampa ranging from 24 to 31 square miles.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114713219411660978",
+      "role": "source",
+      "authorHandle": "robotaxi",
+      "url": "https://x.com/robotaxi/status/2114713219411660978",
+      "tweetedAt": "2026-10-26T13:38:15.000Z",
+      "bestBit": "Bigger service area now live",
+      "text": "Houston, we have liftoff \n\nBigger service area now live https://t.co/ps8fZmWpuP"
+    },
+    {
+      "tweetId": "2114713786720608407",
+      "role": "support",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2114713786720608407",
+      "tweetedAt": "2026-10-26T13:40:30.000Z",
+      "bestBit": "It's now MUCH larger and is shaped like a Starship rocket lol.",
+      "text": "Tesla has just officially expanded its robotaxi geofence in Houston, Texas.\n\nIt's now MUCH larger and is shaped like a Starship rocket lol. https://t.co/aneMj1dGRu",
+      "quotedTweetText": "Houston, we have liftoff \n\nBigger service area now live https://t.co/ps8fZmWpuP"
+    },
+    {
+      "tweetId": "2114749519204094410",
+      "role": "support",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2114749519204094410",
+      "tweetedAt": "2026-10-26T16:02:30.000Z",
+      "bestBit": "All these areas are fully autonomous/unsupervised robotaxis only.",
+      "text": "Updated @Tesla Robotaxi geofence sizes (in square miles):\n\n• Austin: 272\n• Houston: 254 (916% increase today)\n• Dallas: 81\n• Miami: 31\n• Orlando: 26\n• Tampa: 24\n\nAll these areas are fully autonomous/unsupervised robotaxis only. https://t.co/rzeWfVodHt"
+    }
+  ],
+  "isSuperseded": false
+}

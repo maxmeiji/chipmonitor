@@ -1,0 +1,128 @@
+{
+  "slug": "alibabas-open-source-code-leaks-new-qwen4-ai-model-variants-and-1-millio-a641130f",
+  "title": "Alibaba's Open Source Code Leaks New Qwen4 AI Model Variants and 1 Million Token Window",
+  "publishedAt": "2026-11-03T12:38:56.957Z",
+  "eventTimeApprox": "2026-10-31T12:04:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115794808497168787/HVzP6f_XMAEwFAa-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115794808497168787/HVzP6f_XMAEwFAa-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "kimmonismus",
+      "tweetUrl": "https://x.com/kimmonismus/status/2115794808497168787"
+    }
+  },
+  "summary": "Updates to Alibaba's open source Qwen repository have revealed two previously unannounced artificial intelligence models, a qwen4-coder-plus variant and a multimodal model named qwen4-omni-120b-think. The code, merged into the firm's coding agent repository on Oct. 28, also assigns a default context window of 1 million tokens to the Qwen4 family. These models were not listed in the company's official Qwen4 lineup, which consists of the Max, Plus, Flash and 27B versions.\n\nThe discovery follows a confirmation by Alibaba Cloud chief technology officer Feifei Li at the Apsara conference in Amsterdam that the Qwen4 series was scheduled for launch during the first week of November. While the new model names and technical defaults are visible in the codebase as of Nov. 3, no live endpoints for the models have been tested.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117592881602949376",
+      "role": "source",
+      "authorHandle": "intcyberdigest",
+      "url": "https://x.com/IntCyberDigest/status/2117592881602949376",
+      "tweetedAt": "2026-11-03T12:21:00.000Z",
+      "bestBit": "The change also gives every Qwen4 model a 1 million token context window, though the developer who wrote it calls that figure an inference.",
+      "text": "‼️ Alibaba leaked the names of unreleased Qwen4 AI models in its own public code.\n\nCode merged into Qwen Code, Alibaba's open-source coding agent, on 28 October names qwen4-coder-plus, and the repo's tests already use qwen4-omni-120b-think. Neither is among the four Qwen4 models Alibaba has announced.\n\nThe change also gives every Qwen4 model a 1 million token context window, though the developer who wrote it calls that figure an inference.\n\nAs of 3 November, the Qwen4 line is still in the code."
+    },
+    {
+      "tweetId": "2115729815042961750",
+      "role": "source",
+      "authorHandle": "jtdavies",
+      "url": "https://x.com/jtdavies/status/2115729815042961750",
+      "tweetedAt": "2026-10-29T08:57:50.000Z",
+      "bestBit": "From the @Alibaba_Qwen Cloud CTO, Dr. Feifei Li - “Qwen4 next week”.",
+      "text": "From the @Alibaba_Qwen Cloud CTO, Dr. Feifei Li - “Qwen4 next week”.\n\nLive from Apsara, Amsterdam. https://t.co/2gOMbxKibc"
+    },
+    {
+      "tweetId": "2117592882034987112",
+      "role": "support",
+      "authorHandle": "intcyberdigest",
+      "url": "https://x.com/IntCyberDigest/status/2117592882034987112",
+      "tweetedAt": "2026-11-03T12:21:00.000Z",
+      "bestBit": "Alibaba said at its Apsara conference on 22 September that Qwen4 is in training, and has given no release date.",
+      "text": "Alibaba said at its Apsara conference on 22 September that Qwen4 is in training, and has given no release date.\n\nSource: https://t.co/zH8S9T6KpV\n\nDon't miss out on any news, join our newsletter: https://t.co/gOdCLGhSEg\n\nBe sure to join our TG channel: https://t.co/IkIOSHcl5h"
+    },
+    {
+      "tweetId": "2115782200855761196",
+      "role": "support",
+      "authorHandle": "koltregaskes",
+      "url": "https://x.com/koltregaskes/status/2115782200855761196",
+      "tweetedAt": "2026-10-29T12:26:00.000Z",
+      "bestBit": "Qwen 4 models to arrive \"next week\" according a Alibaba Cloud’s own Apsara Conference 2026 presentation in Amsterdam.",
+      "text": "Qwen 4 models to arrive \"next week\" according a Alibaba Cloud’s own Apsara Conference 2026 presentation in Amsterdam.\n\nQwen4-Max\nQwen4-Flash\nQwen4-Plus\nQwen4-27B\n\nFYI: Token Foundry is an internal Alibaba unit",
+      "quotedTweetText": "Qwen4, coming soon…\n\nCTO quote was “next week”\n\nXudong Guo - Research Scientist, Qwen, Token Foundry\n\nLive from Amsterdam https://t.co/MtwFlsf2F0"
+    },
+    {
+      "tweetId": "2116501471491510321",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2116501471491510321",
+      "tweetedAt": "2026-10-31T12:04:08.000Z",
+      "bestBit": "The repository's test fixtures also reference \"qwen4-omni-120b-think\", suggesting a multimodal reasoning variant is being prepared.",
+      "text": "Qwen4 is showing up in @Alibaba_Qwen's own code, including an intriguing multimodal model name! \n\nA merged Qwen Code update gives Qwen4 models a default context window of 1 million tokens. The repository's test fixtures also reference \"qwen4-omni-120b-think\", suggesting a multimodal reasoning variant is being prepared.\n\nThese are concrete integration clues, but the context figure is still a client-side default, not a published model specification. No live Qwen4 endpoint was tested in the PR. A release could be approaching, though the code doesn't tell us when."
+    },
+    {
+      "tweetId": "2116556327090532393",
+      "role": "support",
+      "authorHandle": "luminabench",
+      "url": "https://x.com/LuminaBench/status/2116556327090532393",
+      "tweetedAt": "2026-10-31T15:42:06.000Z",
+      "bestBit": "They have added support for the Qwen 4 Max and Plus across low / medium and xhigh reasoning",
+      "text": "Qwen 4 is getting prepped in Qwen code\n\nThey have added support for the Qwen 4 Max and Plus across low / medium and xhigh reasoning\n\nIt's dropping next week too according to what staff were saying at the Aspara conference earlier this week https://t.co/OPV4FCUOMv"
+    },
+    {
+      "tweetId": "2117089003602403369",
+      "role": "commentary",
+      "authorHandle": "francoischauba1",
+      "url": "https://x.com/FrancoisChauba1/status/2117089003602403369",
+      "tweetedAt": "2026-11-02T02:58:46.000Z",
+      "bestBit": "@arshymo @ycombinator ya will be released a week later",
+      "text": "@arshymo @ycombinator ya will be released a week later"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "alibaba-cloud-to-release-new-qwen4-ai-models-next-week-b906e052",
+    "title": "Alibaba Cloud to Release New Qwen4 AI Models Next Week",
+    "publishedAt": "2026-10-29T13:23:17.457Z",
+    "eventTimeApprox": "2026-10-29T12:23:25.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 9,
+    "authorCount": 7
+  }
+}

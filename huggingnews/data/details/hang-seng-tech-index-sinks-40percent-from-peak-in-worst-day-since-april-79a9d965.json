@@ -1,0 +1,115 @@
+{
+  "slug": "hang-seng-tech-index-sinks-40percent-from-peak-in-worst-day-since-april-79a9d965",
+  "title": "Hang Seng Tech Index Sinks 40% From Peak in Worst Day Since April 2025",
+  "publishedAt": "2026-10-22T12:25:10.632Z",
+  "eventTimeApprox": "2026-10-22T05:34:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "global-markets",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "global-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    },
+    {
+      "ticker": "2513",
+      "kind": "equity",
+      "role": "related",
+      "name": "Z.AI",
+      "hubKey": "zhipu-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113161020936224809/HVN0uwjagAApOvy-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113161020936224809/HVN0uwjagAApOvy-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "davidinglestv",
+      "tweetUrl": "https://x.com/DavidInglesTV/status/2113161020936224809"
+    }
+  },
+  "summary": "Chinese technology shares in Hong Kong experienced a dislocation on Oct. 22 that erased nearly all gains achieved following the September 24 economic stimulus event. The Hang Seng Tech Index fell 4.38% to approximately 3,834, recording its worst single-day performance since Trump's \"Liberation Day\" in April 2025. This rout has pushed the tech index more than 40% below its peak and lowered the group's forward P/E ratio to 13x, while the broader Hang Seng Index dropped 2.7% to fall below the 23,000 level.\n\nThe selloff concentrated in artificial intelligence stocks, with Tianshu Zhixin and Zhipu both dropping more than 9%, Iluvatar CoreX falling 6%, and SMIC declining more than 3%. Tencent traded below HK$400, with Alibaba and Lenovo also posting losses. Investors are pricing in margin pressures from a price war among Chinese AI labs, where models such as DeepSeek V4.1 Flash cost $0.15 per million input tokens, alongside AI spending concerns in Japan and Korea. Concurrently, a new government draft proposes export licenses for frontier AI models with over 2 trillion parameters or those trained with more than 10^26 FLOPs.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113161020936224809",
+      "role": "source",
+      "authorHandle": "davidinglestv",
+      "url": "https://x.com/DavidInglesTV/status/2113161020936224809",
+      "tweetedAt": "2026-10-22T06:50:22.000Z",
+      "bestBit": "Index drop from peak has now exceeded 40%",
+      "text": "Major dislocation today in Chinese tech stocks in Hong Kong. \n\nThe Hang Seng Tech Index is set for its worst day since Trump's \"Liberation Day\" in April 2025. The selloff in charts:\n\n1. Index drop from peak has now exceeded 40%\n\n2. Price has all but fully erased gains from the 9/24 big bazooka event\n\n3. Valuations are now at extreme lows (forward P/E of this tech group's now at 13x)"
+    },
+    {
+      "tweetId": "2113103215776649609",
+      "role": "support",
+      "authorHandle": "sino_market",
+      "url": "https://x.com/Sino_Market/status/2113103215776649609",
+      "tweetedAt": "2026-10-22T03:00:40.000Z",
+      "bestBit": "Hang Seng Index slid 2.7% intraday, breaking below the 23,000 level; the Hang Seng TECH Index dropped 4.38%",
+      "text": "🇭🇰📉Hang Seng Index slid 2.7% intraday, breaking below the 23,000 level; the Hang Seng TECH Index dropped 4.38%. The artificial intelligence sector plunged, with Tianshu Zhixin and Zhipu both down more than 9%. \n#CHINA $SHCOMP $SSEC $ASHR solana:3aSu9uuDLiWkBQGycJDDSubZEPb6YJjDzULPWZkJn8ic $KWEB $FXI $HXC $DRAG $YINN $YANG #STOCKMARKET \n(https://t.co/L32NVBL46y)"
+    },
+    {
+      "tweetId": "2113141805583921355",
+      "role": "analysis",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2113141805583921355",
+      "tweetedAt": "2026-10-22T05:34:01.000Z",
+      "bestBit": "China's AI labs are in a brutal price war, with models like DeepSeek V4.1 Flash now priced at about $0.15 per million input tokens",
+      "text": "China's AI stocks are getting HIT in Hong Kong today.\n\nThe Hang Seng Tech Index fell about 4% to around 3,834, while the Hang Seng Index dropped almost 3%.\n\nAccording to Chinese media, AI model makers MiniMax and Zhipu fell more than 4%, along with $BABA and Lenovo, while AI chip designer Iluvatar CoreX dropped 6% and SMIC fell more than 3%.\n\nTencent is now trading below HK$400.\n\nPart of it is the same worry about AI spending that is weighing on Korea and Japan today.\n\nBut China also has its own problem because its AI labs are in a brutal price war, with models like DeepSeek V4.1 Flash now priced at about $0.15 per million input tokens.\n\nThat is great for usage, because cheaper AI means more of it but not so great for the margins of the companies selling the models, and the market is starting to price that in.",
+      "quotedTweetText": "China wants to control exports of its most powerful AI models.\n\nA new draft adds 23 AI technologies to its export control list, including large models, AI agents and computing clusters.\n\nFrontier models above 2 trillion parameters, or trained with more than 10^26 FLOPs, would need a license before their weights or source code leave the country.\n\nOpen source models that are already public are exempt."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "ai-stock-rout-pushes-hang-seng-tech-index-down-438percent-6f9cc44e",
+    "title": "AI Stock Rout Pushes Hang Seng Tech Index Down 4.38%",
+    "publishedAt": "2026-10-22T05:53:30.572Z",
+    "eventTimeApprox": "2026-10-22T03:00:40.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "global-markets",
+      "tech"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

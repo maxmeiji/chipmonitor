@@ -1,0 +1,69 @@
+{
+  "slug": "update-interfaze-ai-accused-of-copying-chandra-ocr-2-for-alleged-first-o-3c0e3949",
+  "title": "UPDATE: Interfaze AI Accused of Copying Chandra OCR 2 for Alleged First of Kind Model",
+  "publishedAt": "2026-10-07T19:38:43.767Z",
+  "eventTimeApprox": "2026-10-05T19:42:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "summary": "Developer Vik Paruchuri has alleged that the interfaze-1-lite system is a rebranded version of a separate OCR tool with a modified license. Paruchuri claims on October 7 that Interfaze AI copied the Chandra OCR 2 model and degraded its output performance, citing an olmocr score of 83.8 for the new model compared to 85.8 for the original system.\n\nInterfaze AI released interfaze-1-lite on October 5 as a general open-weight model for deterministic work, including classification, extraction, and speech-to-text. The tool is designed to provide metadata and confidence scores, such as bounding boxes, for every run to ensure predictable results.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107144505711595575",
+      "role": "source",
+      "authorHandle": "interfaze_ai",
+      "url": "https://x.com/interfaze_ai/status/2107144505711595575",
+      "tweetedAt": "2026-10-05T16:22:53.000Z",
+      "bestBit": "the first general open-weight model for deterministic work",
+      "text": "Introducing interfaze-1-lite, the first general open-weight model for deterministic work\n\nOCR, speech-to-text, extraction, classification and more\n\nIt returns confidence scores and metadata like bounding boxes on every run\n\nhttps://t.co/WbOM7eqBFm https://t.co/qcaXVNyNTj"
+    },
+    {
+      "tweetId": "2107914822507487609",
+      "role": "commentary",
+      "authorHandle": "vikparuchuri",
+      "url": "https://x.com/VikParuchuri/status/2107914822507487609",
+      "tweetedAt": "2026-10-07T19:23:51.000Z",
+      "bestBit": "copied Chandra OCR 2 into your repo, renamed it, changed the license, and made the output worse (your olmocr score is 83.8 vs our 85.8)",
+      "text": "Looks like you copied Chandra OCR 2 into your repo, renamed it, changed the license, and made the output worse (your olmocr score is 83.8 vs our 85.8). https://t.co/qKvnjgQhGb",
+      "quotedTweetText": "Introducing interfaze-1-lite, the first general open-weight model for deterministic work\n\nOCR, speech-to-text, extraction, classification and more\n\nIt returns confidence scores and metadata like bounding boxes on every run\n\nhttps://t.co/WbOM7eqBFm https://t.co/qcaXVNyNTj"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "interfaze-ai-launches-first-general-open-weight-model-for-deterministic-7ab38e17",
+    "title": "Interfaze AI Launches First General Open Weight Model for Deterministic Work",
+    "publishedAt": "2026-10-05T19:54:03.498Z",
+    "eventTimeApprox": "2026-10-05T17:58:27.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

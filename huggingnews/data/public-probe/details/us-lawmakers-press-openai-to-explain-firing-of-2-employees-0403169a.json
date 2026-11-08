@@ -1,0 +1,74 @@
+{
+  "slug": "us-lawmakers-press-openai-to-explain-firing-of-2-employees-0403169a",
+  "title": "US Lawmakers Press OpenAI to Explain Firing of 2 Employees",
+  "publishedAt": "2026-11-07T01:37:54.707Z",
+  "eventTimeApprox": "2026-11-06T23:49:35.500Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118838116761182680/HWegCaDb0AAwEIw-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118838116761182680/HWegCaDb0AAwEIw-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "tomekkorbak",
+      "tweetUrl": "https://x.com/tomekkorbak/status/2118838116761182680"
+    }
+  },
+  "summary": "A group of US legislators led by Representative Joe Casar has called for a detailed explanation from OpenAI regarding the recent dismissal of certain staff members who had reported internal safety risks. The inquiry focuses on the motivations behind the terminations and whether the company is penalizing employees for flagging potential dangers associated with its AI models.\n\nThe congressional request specifically addresses the firing of 2 employees who claim that their removal was meant to discourage other staff from sharing information with third-party investigators. These former employees stated that the company's leadership decisions create a chilling effect on the reporting of safety issues, a point that lawmakers have highlighted in their inquiry to the AI developer.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118838116761182680",
+      "role": "source",
+      "authorHandle": "tomekkorbak",
+      "url": "https://x.com/tomekkorbak/status/2118838116761182680",
+      "tweetedAt": "2026-11-06T22:49:07.000Z",
+      "bestBit": "I’m glad to see Congress asking OpenAI why we were fired as well as raising some of the safety concerns we’ve been raising.",
+      "text": "I’m glad to see Congress asking OpenAI why we were fired as well as raising some of the safety concerns we’ve been raising. Grateful to @RepCasar and the other signatories for pursuing this. I’m very curious to hear the answer, too! https://t.co/1O1uGuIoEB"
+    },
+    {
+      "tweetId": "2118842290567606648",
+      "role": "commentary",
+      "authorHandle": "balesni",
+      "url": "https://x.com/balesni/status/2118842290567606648",
+      "tweetedAt": "2026-11-06T23:05:42.000Z",
+      "bestBit": "Congress is asking OpenAI why we were fired and is pointing out some of the important safety concerns, including the effect this company leadership decision will have on OpenAI employees feeling able to engage with third parties.",
+      "text": "Congress is asking OpenAI why we were fired and is pointing out some of the important safety concerns, including the effect this company leadership decision will have on OpenAI employees feeling able to engage with third parties. \n\nThank you @RepCasar and other signatories!",
+      "quotedTweetText": "I’m glad to see Congress asking OpenAI why we were fired as well as raising some of the safety concerns we’ve been raising. Grateful to @RepCasar and the other signatories for pursuing this. I’m very curious to hear the answer, too! https://t.co/1O1uGuIoEB"
+    }
+  ],
+  "isSuperseded": false
+}

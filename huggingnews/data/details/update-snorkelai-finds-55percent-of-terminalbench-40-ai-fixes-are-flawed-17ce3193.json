@@ -1,0 +1,127 @@
+{
+  "slug": "update-snorkelai-finds-55percent-of-terminalbench-40-ai-fixes-are-flawed-17ce3193",
+  "title": "UPDATE: SnorkelAI Finds 55% of TerminalBench 4.0 AI Fixes Are Flawed",
+  "publishedAt": "2026-10-26T18:25:49.394Z",
+  "eventTimeApprox": "2026-10-21T00:29:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 20,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112484612500779506/HVEJoPcWwAAMBqh-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112484612500779506/HVEJoPcWwAAMBqh-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "distributionat",
+      "tweetUrl": "https://x.com/distributionat/status/2112484612500779506"
+    }
+  },
+  "summary": "Bespoke has filed 25 bug reports and associated pull requests to address flaws in the TerminalBench 4.0 AI benchmark identified by its internal quality-control agent. A preliminary audit by SnorkelAI found that about 55% of the fixes proposed by the Preference Model team to repair the benchmark's vulnerabilities were themselves problematic, citing issues with over-prescriptiveness or new gaps that allow for reward hacking.\n\nThe scrutiny follows a report by Preference Model identifying 325 issues across 60 of the benchmark's 65 tasks, including 44 that could be solved by cheating through exploits like teleporting a robot simulation forward. While the reported fixes initially allowed the Sonnet 5.5 model to reach a score of 89.2%, SnorkelAI's review noted that 40% of the identified problems were already tracked in the benchmark's repository, including 21 tasks with outstanding fix requests.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112212878132744674",
+      "role": "source",
+      "authorHandle": "chem_safety",
+      "url": "https://x.com/chem_safety/status/2112212878132744674",
+      "tweetedAt": "2026-10-19T16:02:47.000Z",
+      "bestBit": "After fixing the issues Sonnet 5.5 scores 89.2%. So, TerminalBench is already mostly saturated.",
+      "text": "We looked at TerminalBench 4.0 and found a lot of issues. After fixing the issues Sonnet 5.5 scores 89.2%. So, TerminalBench is already mostly saturated.\n\nAlong the way we found a lot of crazy stuff, including reward hacks in the published transcripts. https://t.co/RkFSX9PSZJ"
+    },
+    {
+      "tweetId": "2112212879734947937",
+      "role": "support",
+      "authorHandle": "chem_safety",
+      "url": "https://x.com/chem_safety/status/2112212879734947937",
+      "tweetedAt": "2026-10-19T16:02:48.000Z",
+      "bestBit": "Of the 65 tasks: 60 tasks had at least one issue 44 could be passed by cheating / reward hacking 41 tasks were unfair, e.g. grading on unstated requirements 325 issues in total",
+      "text": "Writeup: https://t.co/BMCIq9rW07\n\nOf the 65 tasks:\n60 tasks had at least one issue\n44 could be passed by cheating / reward hacking\n41 tasks were unfair, e.g. grading on unstated requirements\n325 issues in total"
+    },
+    {
+      "tweetId": "2112678199104844241",
+      "role": "source",
+      "authorHandle": "ajratner",
+      "url": "https://x.com/ajratner/status/2112678199104844241",
+      "tweetedAt": "2026-10-20T22:51:48.000Z",
+      "bestBit": "We agree with many of the findings, but ~55% of the fixes from @preferencemodel had their own issues with reward hacking or over-prescriptiveness.",
+      "text": "The @SnorkelAI team did an audit of these findings using our internal QC platform.\n\nTl/dr: We agree with many of the findings, but ~55% of the fixes from @preferencemodel had their own issues with reward hacking or over-prescriptiveness.\n\nAdditionally: ~40% of the issues found were already tracked in the upstream repo - including 21 tasks with outstanding fix PRs!\n\nBuilding datasets like this - and maintaining ambitious open benchmarks around them - is hard.  We believe it requires open, collaborative review with community maintainers and relevant domain experts to get right.\n\n@terminalbench was one of the first community efforts to build an open, continuous benchmark, and drive a vision of how OSS contributes to the rapidly advancing frontier of AI. We hope that the community will invest in working collaboratively with benchmark maintainers and task authors to keep this vision alive.\n\n---\n\nSome takeaways + details of our preliminary audit:\n\n(1) We confirm 100% of the reward hacking / verification gap findings using our QC system. However, we find that 17/44 (39%) of the corrected tasks are just as or more reward hackable. Additionally, we don’t yet see  evidence that these verification gaps meaningfully affected benchmark rollouts within CIs, though our analysis here is still ongoing.\n\n(2) Our preliminary review raises questions about the underspecification findings for 22/41 (54%) of the flagged tasks, including 7 explicitly marked by task authors as intentional design choices. These cases warrant expert peer review and adjudication: balancing over/under-specification is a critical and tricky design decision - much of human intelligence concerns dealing correctly with reasonable and realistic underspecification - and we believe these corrections made to the tasks are likely too over-specified, reducing realism and difficulty relative to spec.\n\n(3) Around 40% of the issues found were already tracked in the upstream repo (including 21 tasks with outstanding fix PRs)!  OSS projects require community efforts to correct identified open issues, and ideally audits like these are done collaboratively with task authors and maintainers directly, in the traditional community spirit that has kept OSS alive for decades."
+    },
+    {
+      "tweetId": "2112721419906032104",
+      "role": "commentary",
+      "authorHandle": "madiator",
+      "url": "https://x.com/madiator/status/2112721419906032104",
+      "tweetedAt": "2026-10-21T01:43:33.000Z",
+      "bestBit": "Bespoke has found several issues using our internal QC agent, and has been working on improving Terminal Bench over the months. Here are the 25 issues we filed, and there are PRs corresponding to them.",
+      "text": "\"Additionally: ~40% of the issues found were already tracked in the upstream repo - including 21 tasks with outstanding fix PRs!\"\n\nBespoke has found several issues using our internal QC agent, and has been working on improving Terminal Bench over the months.\n\nHere are the 25 issues we filed, and there are PRs corresponding to them.\n\nA subset of these were what @EpochAIResearch also used in their report: https://t.co/FEhJTrE7L6\n\nAll of this shows that building RL envs is hard, and building a benchmark is harder\n\nhttps://t.co/LAnVRgt5xp -> https://t.co/3pFuQtWQoD\nhttps://t.co/NIkQgCS48Y -> https://t.co/1rXlufP7FU\nhttps://t.co/G945ZBHNtJ -> https://t.co/e3boOglGfh\nhttps://t.co/cdF0GAY66f -> https://t.co/GlyikfMorO\nhttps://t.co/tkzvaCRxLM -> https://t.co/ll30WMd925\nhttps://t.co/DGsZJA9hfH -> https://t.co/3kFX6GpOxv\nand more below",
+      "quotedTweetText": "The @SnorkelAI team did an audit of these findings using our internal QC platform.\n\nTl/dr: We agree with many of the findings, but ~55% of the fixes from @preferencemodel had their own issues with reward hacking or over-prescriptiveness.\n\nAdditionally: ~40% of the issues found were already tracked in the upstream repo - including 21 tasks with outstanding fix PRs!\n\nBuilding datasets like this - and maintaining ambitious open benchmarks around them - is hard.  We believe it requires open, collaborative review with community maintainers and relevant domain experts to get right.\n\n@terminalbench was one of the first community efforts to build an open, continuous benchmark, and drive a vision of how OSS contributes to the rapidly advancing frontier of AI. We hope that the community will invest in working collaboratively with benchmark maintainers and task authors to keep this vision alive.\n\n---\n\nSome takeaways + details of our preliminary audit:\n\n(1) We confirm 100% of the reward hacking / verification gap findings using our QC system. However, we find that 17/44 (39%) of the corrected tasks are just as or more reward hackable. Additionally, we don’t yet see  evidence that these verification gaps meaningfully affected benchmark rollouts within CIs, though our analysis here is still ongoing.\n\n(2) Our preliminary review raises questions about the underspecification findings for 22/41 (54%) of the flagged tasks, including 7 explicitly marked by task authors as intentional design choices. These cases warrant expert peer review and adjudication: balancing over/under-specification is a critical and tricky design decision - much of human intelligence concerns dealing correctly with reasonable and realistic underspecification - and we believe these corrections made to the tasks are likely too over-specified, reducing realism and difficulty relative to spec.\n\n(3) Around 40% of the issues found were already tracked in the upstream repo (including 21 tasks with outstanding fix PRs)!  OSS projects require community efforts to correct identified open issues, and ideally audits like these are done collaboratively with task authors and maintainers directly, in the traditional community spirit that has kept OSS alive for decades."
+    },
+    {
+      "tweetId": "2112572866332164116",
+      "role": "source",
+      "authorHandle": "madiator",
+      "url": "https://x.com/madiator/status/2112572866332164116",
+      "tweetedAt": "2026-10-20T15:53:15.000Z",
+      "bestBit": "We have an internal QA system which has been finding issues as well, and we have submitted several fixes to Terminal Bench",
+      "text": "Very cool work by Pref model!\n\nWe have an internal QA system which has been finding issues as well, and we have submitted several fixes to Terminal Bench so that Terminal Bench continues to improve.\n\nThis story is not just for Terminal Bench, wink wink. https://t.co/QMxfszZVMM",
+      "quotedTweetText": "We looked at TerminalBench 4.0 and found a lot of issues. After fixing the issues Sonnet 5.5 scores 89.2%. So, TerminalBench is already mostly saturated.\n\nAlong the way we found a lot of crazy stuff, including reward hacks in the published transcripts. https://t.co/RkFSX9PSZJ"
+    },
+    {
+      "tweetId": "2112357861355352124",
+      "role": "analysis",
+      "authorHandle": "scaling01",
+      "url": "https://x.com/scaling01/status/2112357861355352124",
+      "tweetedAt": "2026-10-20T01:38:54.000Z",
+      "bestBit": "44 could be passed by cheating / reward",
+      "text": "RT @chem_safety: Writeup: https://t.co/BMCIq9rW07\n\nOf the 65 tasks:\n60 tasks had at least one issue\n44 could be passed by cheating / reward…"
+    },
+    {
+      "tweetId": "2112684238965514286",
+      "role": "commentary",
+      "authorHandle": "rebeccatqian",
+      "url": "https://x.com/rebeccatqian/status/2112684238965514286",
+      "tweetedAt": "2026-10-20T23:15:49.000Z",
+      "bestBit": "Building datasets like this - and maintaining ambitious open benchmarks around them - is hard.",
+      "text": "“Building datasets like this - and maintaining ambitious open benchmarks around them - is hard.”\n\nThese findings aren’t surprising. It’s easier to attack than defend systems, easier to review than fix issues.",
+      "quotedTweetText": "The @SnorkelAI team did an audit of these findings using our internal QC platform.\n\nTl/dr: We agree with many of the findings, but ~55% of the fixes from @preferencemodel had their own issues with reward hacking or over-prescriptiveness.\n\nAdditionally: ~40% of the issues found were already tracked in the upstream repo - including 21 tasks with outstanding fix PRs!\n\nBuilding datasets like this - and maintaining ambitious open benchmarks around them - is hard.  We believe it requires open, collaborative review with community maintainers and relevant domain experts to get right.\n\n@terminalbench was one of the first community efforts to build an open, continuous benchmark, and drive a vision of how OSS contributes to the rapidly advancing frontier of AI. We hope that the community will invest in working collaboratively with benchmark maintainers and task authors to keep this vision alive.\n\n---\n\nSome takeaways + details of our preliminary audit:\n\n(1) We confirm 100% of the reward hacking / verification gap findings using our QC system. However, we find that 17/44 (39%) of the corrected tasks are just as or more reward hackable. Additionally, we don’t yet see  evidence that these verification gaps meaningfully affected benchmark rollouts within CIs, though our analysis here is still ongoing.\n\n(2) Our preliminary review raises questions about the underspecification findings for 22/41 (54%) of the flagged tasks, including 7 explicitly marked by task authors as intentional design choices. These cases warrant expert peer review and adjudication: balancing over/under-specification is a critical and tricky design decision - much of human intelligence concerns dealing correctly with reasonable and realistic underspecification - and we believe these corrections made to the tasks are likely too over-specified, reducing realism and difficulty relative to spec.\n\n(3) Around 40% of the issues found were already tracked in the upstream repo (including 21 tasks with outstanding fix PRs)!  OSS projects require community efforts to correct identified open issues, and ideally audits like these are done collaboratively with task authors and maintainers directly, in the traditional community spirit that has kept OSS alive for decades."
+    },
+    {
+      "tweetId": "2112228476153663632",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2112228476153663632",
+      "tweetedAt": "2026-10-19T17:04:46.000Z",
+      "bestBit": "we're running out of benchmarks too quickly",
+      "text": "we're running out of benchmarks too quickly",
+      "quotedTweetText": "We looked at TerminalBench 4.0 and found a lot of issues. After fixing the issues Sonnet 5.5 scores 89.2%. So, TerminalBench is already mostly saturated.\n\nAlong the way we found a lot of crazy stuff, including reward hacks in the published transcripts. https://t.co/RkFSX9PSZJ"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "audit-finds-44-of-65-terminalbench-40-tasks-passable-by-cheating-eacd4166",
+    "title": "Audit Finds 44 of 65 TerminalBench 4.0 Tasks Passable by Cheating",
+    "publishedAt": "2026-10-20T23:38:53.785Z",
+    "eventTimeApprox": "2026-10-19T22:15:12.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 19,
+    "authorCount": 13
+  }
+}

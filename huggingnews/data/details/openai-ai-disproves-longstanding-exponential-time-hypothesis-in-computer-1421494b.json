@@ -1,0 +1,115 @@
+{
+  "slug": "openai-ai-disproves-longstanding-exponential-time-hypothesis-in-computer-1421494b",
+  "title": "OpenAI AI Disproves Longstanding Exponential Time Hypothesis in Computer Science",
+  "publishedAt": "2026-10-26T22:28:32.566Z",
+  "eventTimeApprox": "2026-10-26T22:06:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 105,
+  "authorCount": 82,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "OpenAI announced that its AI system has made three new scientific discoveries, including a disproof of the Exponential Time Hypothesis (ETH), a longstanding conjecture regarding the computational complexity of Boolean formula satisfiability. The computer science breakthrough, which was verified in Lean, could change the search for better algorithms for tasks related to the P vs. NP problem. In addition to the ETH result, the AI proved the Kakeya conjecture in mathematics and the existence of quantum chromodynamics in physics.\n\nOpenAI is coordinating with external research groups to verify the physics and computer science results, including collaboration with original ETH proposers Russell Impagliazzo and Ramamohan Paturi. The company posted the natural language proofs and Lean formalizations to GitHub for community verification. For the mathematical findings on the Kakeya conjecture, OpenAI released the raw AI output without an external collaborator group.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114833682469122314",
+      "role": "source",
+      "authorHandle": "danintheory",
+      "url": "https://x.com/danintheory/status/2114833682469122314",
+      "tweetedAt": "2026-10-26T21:36:56.000Z",
+      "bestBit": "three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory",
+      "text": "We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.\n\nhttps://t.co/9BX8HWQDTJ"
+    },
+    {
+      "tweetId": "2114833687296847930",
+      "role": "support",
+      "authorHandle": "danintheory",
+      "url": "https://x.com/danintheory/status/2114833687296847930",
+      "tweetedAt": "2026-10-26T21:36:57.000Z",
+      "bestBit": "Surprisingly, our system has recently proved that the ETH is false, a result that was subsequently verified in Lean.",
+      "text": "The computer science collaboration will understand and explain a result concerning the Exponential Time Hypothesis (ETH), a longstanding conjecture about the computational complexity of Boolean formula satisfiability, a problem deeply related to the P vs. NP problem.\n\nSurprisingly, our system has recently proved that the ETH is false, a result that was subsequently verified in Lean.\n\nThe refutation of the ETH reopens questions about how much faster these tasks could become, and may help guide the search for better algorithms. Finding such algorithms, and turning theoretical advances into practical improvements, will require significant further research.\n\nOur system found its natural language disproof for the ETH we reached out to to @rrwilliams. Ryan will form a collaboration with Russell Impagliazzo and Ramamohan Paturi to verify and shepherd this result. Impagliazzo and Paturi, along with Francis Zane, are the original proposers of the Exponential Time Hypothesis, and Williams has refuted strong versions of the ETH, used ETH for hardness results, and connected algorithms and lower bounds.\n\nThis group asked us to make all raw data of the results public to facilitate independent verification by the community, which we have done by posting the natural language proof and Lean formalization to our GitHub repo. The group also invites the community to help organize an open examination of the ETH claim and to discuss the broader questions that AI-generated breakthroughs raise about verification, access, credit, and the future of research.\n\nhttps://t.co/fkLJX9a2Zi"
+    },
+    {
+      "tweetId": "2114836071028785289",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2114836071028785289",
+      "tweetedAt": "2026-10-26T21:46:25.000Z",
+      "bestBit": "Local smoothing and the Kakeya conjecture... The Exponential Time Hypothesis is false... Existence of quantum chromodynamics and completions of the Standard Model",
+      "text": "OpenAI has announced to three new discoveries in mathematics, computer science, and physics:\n- Local smoothing and the Kakeya conjecture\n- The Exponential Time Hypothesis is false\n- Existence of quantum chromodynamics and completions of the Standard Model https://t.co/FIgVlNIEyY"
+    },
+    {
+      "tweetId": "2114841199035253093",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2114841199035253093",
+      "tweetedAt": "2026-10-26T22:06:48.000Z",
+      "bestBit": "Russell Impagliazzo, Mohan Paturi, and I have been asked to help organize an open and independent examination of this claim",
+      "text": "From the letter: https://t.co/j7TRihuzK0",
+      "quotedTweetText": "An internal model at OpenAI has produced a claimed refutation of ETH! Russell Impagliazzo, Mohan Paturi, and I have been asked to help organize an open and independent examination of this claim. 1/4"
+    },
+    {
+      "tweetId": "2114839386403614727",
+      "role": "commentary",
+      "authorHandle": "boazbaraktcs",
+      "url": "https://x.com/boazbaraktcs/status/2114839386403614727",
+      "tweetedAt": "2026-10-26T21:59:36.000Z",
+      "bestBit": "3SAT in subexponential time (2^{n / log^eps(n)}) is maybe the biggest surprise I have seen during my 20 years followin…",
+      "text": "RT @SebastienBubeck: 3SAT in subexponential time (2^{n / log^eps(n)}) is maybe the biggest surprise I have seen during my 20 years followin…"
+    },
+    {
+      "tweetId": "2114845185884758067",
+      "role": "commentary",
+      "authorHandle": "matthew_d_green",
+      "url": "https://x.com/matthew_d_green/status/2114845185884758067",
+      "tweetedAt": "2026-10-26T22:22:38.000Z",
+      "bestBit": "This new result on ETH is amazing though (if the Lean proof is valid.)",
+      "text": "This new result on ETH is amazing though (if the Lean proof is valid.) Just barely amazing numerically, but actually pretty stunning."
+    },
+    {
+      "tweetId": "2114836802427351213",
+      "role": "commentary",
+      "authorHandle": "hey_madni",
+      "url": "https://x.com/hey_madni/status/2114836802427351213",
+      "tweetedAt": "2026-10-26T21:49:20.000Z",
+      "bestBit": "In 1999 Impagliazzo and Paturi made a famous hypothesis. Today OpenAI says its system disproved it.",
+      "text": "OpenAI just proved two legends wrong.\n\nIn 1999 Impagliazzo and Paturi made a famous hypothesis.\n\nToday OpenAI says its system disproved it.\n\nNow they're the ones checking the proof.\n\n100s of papers were built on it. https://t.co/hsLFVIePj3",
+      "quotedTweetText": "We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.\n\nhttps://t.co/9BX8HWQDTJ"
+    },
+    {
+      "tweetId": "2114841183088427280",
+      "role": "analysis",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2114841183088427280",
+      "tweetedAt": "2026-10-26T22:06:44.000Z",
+      "bestBit": "for physics and cs, they form external research groups. but for MATH, they just release the raw AI output for anyone to study",
+      "text": "OpenAI seems to be experimenting with a new policy of releasing scientific findings.\n\nfor physics and cs, they form external research groups. \n\nbut for MATH, they just release the raw AI output for anyone to study, no external group of collaborators. https://t.co/VJeSAP38CD",
+      "quotedTweetText": "OpenAI has announced to three new discoveries in mathematics, computer science, and physics:\n- Local smoothing and the Kakeya conjecture\n- The Exponential Time Hypothesis is false\n- Existence of quantum chromodynamics and completions of the Standard Model https://t.co/FIgVlNIEyY"
+    }
+  ],
+  "isSuperseded": false
+}

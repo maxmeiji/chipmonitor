@@ -1,0 +1,70 @@
+{
+  "slug": "openai-frees-auto-review-to-cut-manual-agent-approvals-689bea5d",
+  "title": "OpenAI Frees Auto-Review to Cut Manual Agent Approvals",
+  "publishedAt": "2026-10-06T08:08:20.201Z",
+  "eventTimeApprox": "2026-10-06T07:26:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107368734981517634/HT7gP8oXEAAFfZ1-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107368734981517634/HT7gP8oXEAAFfZ1-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "thsottiaux",
+      "tweetUrl": "https://x.com/thsottiaux/status/2107368734981517634"
+    }
+  },
+  "summary": "A new update allows for the automated validation of AI actions in the background to ensure they align with a person's original request. This tool, called Auto-review, is now free for anyone signed in via a ChatGPT account and is accessible through the permissions menu in settings. By deploying a second agent to supervise the primary one, the system removes the requirement for users to manually approve every individual step in a sandbox, aiming to reduce decision fatigue during long tasks without consuming the user's plan usage.\n\nThe rollout follows a performance optimization that increased processing speeds by approximately 50% for GPT-6 Astra and GPT-6.1 Sol models. These speed gains apply to all partner products using the Sign in With ChatGPT integration, including OpenCode, Pi, Amp, and Devin, and were delivered as part of a sequence of updates starting early October.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107368734981517634",
+      "role": "source",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2107368734981517634",
+      "tweetedAt": "2026-10-06T07:13:54.000Z",
+      "bestBit": "optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription",
+      "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > auto-review. Auto-review improves upon the default sandbox setting that requires you to approve everything, which is prone to decision fatigue unless you spend a lot of time configuring specific rules.\n\nIt allows you to run long tasks while having a second agent review all actions taken by the primary agent. Its only goal is to prevent high-risk actions from being taken and to protect against unwanted actions that are not aligned with the original user intent. This  Auto-review feature is now free and does not draw usage from your plan.",
+      "quotedTweetText": "Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be felt within the next two hours."
+    },
+    {
+      "tweetId": "2107379601521672241",
+      "role": "commentary",
+      "authorHandle": "reach_vb",
+      "url": "https://x.com/reach_vb/status/2107379601521672241",
+      "tweetedAt": "2026-10-06T07:57:04.000Z",
+      "bestBit": "I default to “Approve for me” for all my codex tasks and auto-review makes sure that I’m protected from any unintended consequences",
+      "text": "Auto-review is now free for everyone who uses it via ChatGPT account!\n\nI default to “Approve for me” for all my codex tasks and auto-review makes sure that I’m protected from any unintended consequences\n\nIf you haven’t already, enable it in your settings - Enjoy!",
+      "quotedTweetText": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > auto-review. Auto-review improves upon the default sandbox setting that requires you to approve everything, which is prone to decision fatigue unless you spend a lot of time configuring specific rules.\n\nIt allows you to run long tasks while having a second agent review all actions taken by the primary agent. Its only goal is to prevent high-risk actions from being taken and to protect against unwanted actions that are not aligned with the original user intent. This  Auto-review feature is now free and does not draw usage from your plan."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "new-york-times-and-economist-join-80-publisher-group-to-end-unpaid-ai-us-0926d4fc",
+  "title": "New York Times and Economist Join 80 Publisher Group to End Unpaid AI Use",
+  "publishedAt": "2026-10-13T04:09:21.259Z",
+  "eventTimeApprox": "2026-10-13T01:50:13.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NYT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "New York Times Co.",
+      "hubKey": "nyt"
+    }
+  ],
+  "summary": "Agence France-Presse and other newsrooms are demanding licensing fees from technology firms that train generative AI models on journalistic content. These outlets, including the New York Times and The Economist, have teamed up with a collective of more than 80 publishers to block AI companies from scraping their archives without explicit permission or financial compensation.\n\nThe alliance seeks to establish a standardized framework for payments and permissions to protect proprietary news data. This coordinated effort brings together leading global outlets and agencies to force AI developers to pay for the ingestion of copyrighted material into their models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109823993301590467",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2109823993301590467",
+      "tweetedAt": "2026-10-13T01:50:13.000Z",
+      "bestBit": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
+      "text": "NYT, Economist among publishers joining coalition to curb unpaid AI use https://t.co/7Xi2oPowFa https://t.co/7Xi2oPowFa"
+    },
+    {
+      "tweetId": "2109791474447790377",
+      "role": "support",
+      "authorHandle": "polymarket",
+      "url": "https://x.com/Polymarket/status/2109791474447790377",
+      "tweetedAt": "2026-10-12T23:41:00.000Z",
+      "bestBit": "join a coalition of over 80 publishers seeking to stop AI companies from using their content without permission or payment",
+      "text": "JUST IN: New York Times, The Economist, &amp; AFP join a coalition of over 80 publishers seeking to stop AI companies from using their content without permission or payment."
+    }
+  ],
+  "isSuperseded": false
+}

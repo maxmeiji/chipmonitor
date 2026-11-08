@@ -1,0 +1,137 @@
+{
+  "slug": "anthropic-says-sensitive-ai-model-weights-were-not-accessed-in-internal-5fd90e6f",
+  "title": "Anthropic Says Sensitive AI Model Weights Were Not Accessed in Internal Breach",
+  "publishedAt": "2026-10-26T22:52:34.394Z",
+  "eventTimeApprox": "2026-10-26T14:52:50.500Z",
+  "isFreshStory": false,
+  "tweetCount": 56,
+  "authorCount": 39,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "Anthropic confirmed that its core AI model weights, source code, and user conversations were not compromised during a recent penetration of its internal networks. The company disputed reports that the breach occurred in under 12 hours, stating that researchers from the startup Cathedral spent several days attempting to gain entry before exploiting vulnerabilities in two third-party software services.\n\nThe breach, which provided access to some of Anthropic's HR, sales, and IT systems, coincided with the company's filing for an initial public offering. Cathedral was founded by former staffers of the Department of Government Efficiency, and while Anthropic expressed gratitude for the findings, it stated that the activities were outside the scope of its bug bounty program's safe harbor policy.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114646230764851695",
+      "role": "source",
+      "authorHandle": "lizzadwoskin",
+      "url": "https://x.com/lizzadwoskin/status/2114646230764851695",
+      "tweetedAt": "2026-10-26T09:12:04.000Z",
+      "bestBit": "including Slack channels where the most sensitive models are discussed",
+      "text": "EXCLUSIVE: In less than 12 hours, a group of ex-DOGE cyber researchers were able to penetrate Anthropic’s systems using AI agents — including Slack channels where the most sensitive models are discussed. \nThis is just weeks after \nAnthropic whistleblower Joseph Coxon charged the company w/launching “a hubristic gamble” from a “private company’s Slack.”\nRead our story here (gift link):\nhttps://t.co/x6F8Dg6SLR"
+    },
+    {
+      "tweetId": "2114752816317411702",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2114752816317411702",
+      "tweetedAt": "2026-10-26T16:15:36.000Z",
+      "bestBit": "Anthropic confirmed access to a limited set of sales, HR and IT systems, but said Claude conversations, source code and model weights were not accessed",
+      "text": "Holy Moly. An AI cybersecurity startup founded by former DOGE staffers got into Anthropic's internal systems in under 12 hours using AI agents, The Washington Post reports.\n\nThe researchers found paths to meeting transcripts, salary and job-offer details, and Slack messages discussing Anthropic's advanced AI models after exploiting vulnerabilities in third-party business software.\n\nAnthropic confirmed access to a limited set of sales, HR and IT systems, but said Claude conversations, source code and model weights were not accessed."
+    },
+    {
+      "tweetId": "2114732991645892616",
+      "role": "support",
+      "authorHandle": "gerritd",
+      "url": "https://x.com/GerritD/status/2114732991645892616",
+      "tweetedAt": "2026-10-26T14:56:49.000Z",
+      "bestBit": "Cathedral is made up of ex-DOGE staffers",
+      "text": "Cathedral's report is circulating through the govt. One senior administration official said it was really concerning what Cathedral was able to do in a short time. \nThere's some important political context here, as Anthropic has had multiple fights with the admin and Cathedral is made up of ex-DOGE staffers"
+    },
+    {
+      "tweetId": "2114849047953670635",
+      "role": "commentary",
+      "authorHandle": "logangraham",
+      "url": "https://x.com/logangraham/status/2114849047953670635",
+      "tweetedAt": "2026-10-26T22:37:59.000Z",
+      "bestBit": "this wasn't an ordinary bug bounty finding – this involved exploiting 3rd parties and accessing data",
+      "text": "I think this story is important because it tells us about the future of cybersecurity (and of course what we can do better at Anthropic). But some of the Washington Post story / reaction on X is wrong. A few corrections:\n- it didn’t take 12 hours. we saw several days of attempts. After these attempts, they exploited two 3rd party vulnerabilities, one they reported and the other we identified independently (and cut off access)\n- nothing came close to our most sensitive systems, like model weights or Claude conversations\n- this wasn't an ordinary bug bounty finding – this involved exploiting 3rd parties and accessing data. While this is unusual and out of scope of our safe harbor policy, we’re grateful these issues were found\n\nFrom my researcher POV, the event is important because I'm concerned this is what the future will look like. Adversaries will use whatever models/tools they can. They’ll target everything with agents 24/7. They’ll hit your dependencies. I think models ~0.5-1 generations behind the current frontier can do this. And these are the dumbest models your adversaries will ever use!\n\nSo, what to do? You probably want to red team yourself all the time. Current models are *very* creative. I also think we should redesign software / systems so that you’re fundamentally less exposed. (We put out some research recently on formally verifying software and reducing attack surfaces; my mental model is basically “secure code is cheap to write now, so why not rewrite everything”)",
+      "quotedTweetText": "EXCLUSIVE: In less than 12 hours, a group of ex-DOGE cyber researchers were able to penetrate Anthropic’s systems using AI agents — including Slack channels where the most sensitive models are discussed. \nThis is just weeks after \nAnthropic whistleblower Joseph Coxon charged the company w/launching “a hubristic gamble” from a “private company’s Slack.”\nRead our story here (gift link):\nhttps://t.co/x6F8Dg6SLR"
+    },
+    {
+      "tweetId": "2114680504897150980",
+      "role": "commentary",
+      "authorHandle": "niubi",
+      "url": "https://x.com/niubi/status/2114680504897150980",
+      "tweetedAt": "2026-10-26T11:28:15.000Z",
+      "bestBit": "the Cathedral report on its access inside Anthropic had circulated within the government and raised national security concerns",
+      "text": "“A senior Trump administration official, speaking on the condition of anonymity to describe internal proceedings, said that the Cathedral report on its access inside Anthropic had circulated within the government and raised national security concerns. “If a bunch of kids who have just started a company can do this, then potentially, the Chinese aren’t far behind,” the official said. He added that he was taken aback by “how little time it took to get into the sensitive systems of a company that is controlling almost nuclear weapons grade material.”",
+      "quotedTweetText": "EXCLUSIVE: In less than 12 hours, a group of ex-DOGE cyber researchers were able to penetrate Anthropic’s systems using AI agents — including Slack channels where the most sensitive models are discussed. \nThis is just weeks after \nAnthropic whistleblower Joseph Coxon charged the company w/launching “a hubristic gamble” from a “private company’s Slack.”\nRead our story here (gift link):\nhttps://t.co/x6F8Dg6SLR"
+    },
+    {
+      "tweetId": "2114675594474786828",
+      "role": "commentary",
+      "authorHandle": "zackkorman",
+      "url": "https://x.com/ZackKorman/status/2114675594474786828",
+      "tweetedAt": "2026-10-26T11:08:45.000Z",
+      "bestBit": "Got access via some third party SaaS Anthropic uses",
+      "text": "Here we go again. Some AI red team startup found and exploited a vulnerability to access a bunch of sensitive documents at Anthropic.\n\nGot access via some third party SaaS Anthropic uses. https://t.co/FGzRiuh9hD"
+    },
+    {
+      "tweetId": "2114790651011400088",
+      "role": "commentary",
+      "authorHandle": "francoischauba1",
+      "url": "https://x.com/FrancoisChauba1/status/2114790651011400088",
+      "tweetedAt": "2026-10-26T18:45:56.000Z",
+      "bestBit": "this story seems buried by the s1 news..",
+      "text": "this story seems buried by the s1 news..",
+      "quotedTweetText": "Here we go again. Some AI red team startup found and exploited a vulnerability to access a bunch of sensitive documents at Anthropic.\n\nGot access via some third party SaaS Anthropic uses. https://t.co/FGzRiuh9hD"
+    },
+    {
+      "tweetId": "2114730413482524918",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2114730413482524918",
+      "tweetedAt": "2026-10-26T14:46:35.000Z",
+      "bestBit": "Researchers say they hacked into Anthropic’s internal systems in under 12 hours using agents",
+      "text": "Researchers say they hacked into Anthropic’s internal systems in under 12 hours using agents, ON THE SAME DAY Anthropic files for IPO.\n\nread that again:\n> Anthropic has Mythos\n> even unreleased versions \n> the world’s smartest cyber model\n> restricted to a select few in the name of safety\n\nso if even Anthropic isn’t bulletproof, and when far less capable models than Mythos or Astra can be used to carry out attacks, I just can’t see how restricting these models to a trusted few can make us any safer.",
+      "quotedTweetText": "EXCLUSIVE: In less than 12 hours, a group of ex-DOGE cyber researchers were able to penetrate Anthropic’s systems using AI agents — including Slack channels where the most sensitive models are discussed. \nThis is just weeks after \nAnthropic whistleblower Joseph Coxon charged the company w/launching “a hubristic gamble” from a “private company’s Slack.”\nRead our story here (gift link):\nhttps://t.co/x6F8Dg6SLR"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "cathedral-researchers-breach-anthropic-systems-on-day-of-ipo-filing-8b674da9",
+    "title": "Cathedral Researchers Breach Anthropic Systems on Day of IPO Filing",
+    "publishedAt": "2026-10-26T14:52:43.152Z",
+    "eventTimeApprox": "2026-10-26T13:39:40.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai"
+    ],
+    "tweetCount": 28,
+    "authorCount": 24
+  }
+}

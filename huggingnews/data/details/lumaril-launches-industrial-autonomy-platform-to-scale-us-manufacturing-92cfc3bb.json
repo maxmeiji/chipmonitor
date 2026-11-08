@@ -1,0 +1,66 @@
+{
+  "slug": "lumaril-launches-industrial-autonomy-platform-to-scale-us-manufacturing-92cfc3bb",
+  "title": "Lumaril Launches Industrial Autonomy Platform to Scale US Manufacturing Output",
+  "publishedAt": "2026-10-27T21:37:27.669Z",
+  "eventTimeApprox": "2026-10-27T17:27:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "A new venture backed by investor Elad Gil and Lux Capital is deploying artificial intelligence to help American plants run at higher capacity by digitizing the tacit knowledge of veteran workers. The startup, which launched on Oct. 27, targets hundreds of thousands of existing US manufacturing facilities to prevent production losses as senior operators retire and take unwritten operational expertise with them.\n\nLumaril raised a Series A funding round led by Gil and was founded by a team of former employees from the data analytics firm Palantir. The company intends to use industrial autonomy to restore domestic capacity and scale the growth of existing businesses rather than relying solely on the construction of new factories.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115097489434935624",
+      "role": "source",
+      "authorHandle": "lumaril",
+      "url": "https://x.com/lumaril/status/2115097489434935624",
+      "tweetedAt": "2026-10-27T15:05:12.000Z",
+      "bestBit": "helping America’s existing factories run at their true capacity, with more production and less waste",
+      "text": "Today we’re launching Lumaril.\n\nWe’re an industrial autonomy company helping America’s existing factories run at their true capacity, with more production and less waste.\n\nThe US is home to hundreds of thousands of plants, run by senior operators with decades of tacit knowledge. Much of it is unwritten, and a growing wave of retirements is taking it out the door.\n\nIf we let these facilities go dark, we don't just lose great companies and the towns that depend on them. We lose the living blueprints for making the goods and materials this country can’t afford to do without.\n\nReindustrialization won’t come from new factories alone. The plants we already have are great American businesses, built over generations, with enormous potential to grow. We believe helping them scale is the fastest path to restoring industrial capacity."
+    },
+    {
+      "tweetId": "2115133399048569211",
+      "role": "source",
+      "authorHandle": "eladgil",
+      "url": "https://x.com/eladgil/status/2115133399048569211",
+      "tweetedAt": "2026-10-27T17:27:54.000Z",
+      "bestBit": "AI for physical production by one of the best teams from  @PalantirTech",
+      "text": "Excited to lead Series A in @lumaril 🔥\n\nAI for physical production by one of the best teams from  @PalantirTech",
+      "quotedTweetText": "Today we’re launching Lumaril.\n\nWe’re an industrial autonomy company helping America’s existing factories run at their true capacity, with more production and less waste.\n\nThe US is home to hundreds of thousands of plants, run by senior operators with decades of tacit knowledge. Much of it is unwritten, and a growing wave of retirements is taking it out the door.\n\nIf we let these facilities go dark, we don't just lose great companies and the towns that depend on them. We lose the living blueprints for making the goods and materials this country can’t afford to do without.\n\nReindustrialization won’t come from new factories alone. The plants we already have are great American businesses, built over generations, with enormous potential to grow. We believe helping them scale is the fastest path to restoring industrial capacity."
+    },
+    {
+      "tweetId": "2115194514206040392",
+      "role": "support",
+      "authorHandle": "wolfejosh",
+      "url": "https://x.com/wolfejosh/status/2115194514206040392",
+      "tweetedAt": "2026-10-27T21:30:45.000Z",
+      "bestBit": "Lux family co @lumaril launches today!",
+      "text": "Lux family co @lumaril launches today!",
+      "quotedTweetText": "Today we’re launching Lumaril.\n\nWe’re an industrial autonomy company helping America’s existing factories run at their true capacity, with more production and less waste.\n\nThe US is home to hundreds of thousands of plants, run by senior operators with decades of tacit knowledge. Much of it is unwritten, and a growing wave of retirements is taking it out the door.\n\nIf we let these facilities go dark, we don't just lose great companies and the towns that depend on them. We lose the living blueprints for making the goods and materials this country can’t afford to do without.\n\nReindustrialization won’t come from new factories alone. The plants we already have are great American businesses, built over generations, with enormous potential to grow. We believe helping them scale is the fastest path to restoring industrial capacity."
+    }
+  ],
+  "isSuperseded": false
+}

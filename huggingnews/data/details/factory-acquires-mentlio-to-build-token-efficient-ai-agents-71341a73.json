@@ -1,0 +1,69 @@
+{
+  "slug": "factory-acquires-mentlio-to-build-token-efficient-ai-agents-71341a73",
+  "title": "Factory Acquires Mentlio to Build Token Efficient AI Agents",
+  "publishedAt": "2026-10-09T17:08:49.116Z",
+  "eventTimeApprox": "2026-10-09T16:36:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:FCTY",
+      "kind": "private",
+      "role": "subject",
+      "name": "Factory",
+      "hubKey": "factory"
+    }
+  ],
+  "summary": "Technical talent from the Y Combinator S26 program is joining the staff of Factory to enhance its automation tools. The company acquired Mentlio, bringing founder Ashank Shah and his colleagues into the organization to build intelligent and token efficient agent systems at scale.\n\nFounder Ann Bordetsky described the move as the start of a \"founder mafia\" designed to accelerate the development of the firm's AI agents. The addition of the Mentlio team focuses on optimizing the balance between system intelligence and token usage as Factory expands its operations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108588934876000389",
+      "role": "source",
+      "authorHandle": "factoryai",
+      "url": "https://x.com/FactoryAI/status/2108588934876000389",
+      "tweetedAt": "2026-10-09T16:02:32.000Z",
+      "bestBit": "Factory has acquired @Mentlio",
+      "text": "Factory has acquired @Mentlio https://t.co/dUGXetRMlC"
+    },
+    {
+      "tweetId": "2108599113042501681",
+      "role": "support",
+      "authorHandle": "annbordetsky",
+      "url": "https://x.com/annbordetsky/status/2108599113042501681",
+      "tweetedAt": "2026-10-09T16:42:59.000Z",
+      "bestBit": "acquisition of @Mentlio (YC S26) and to have the super talented @ashankshah_x @developerboi joining us to build the most intelligent and token-efficient agent systems at scale",
+      "text": "The @FactoryAI founder mafia is just getting started… \n\nThrilled to announce our acquisition of @Mentlio (YC S26) and to have the super talented @ashankshah_x @developerboi joining us to build the most intelligent and token-efficient agent systems at scale \n\nCome build with us! 💪\n\n@EnoReyes @matanSF",
+      "quotedTweetText": "Factory has acquired @Mentlio https://t.co/dUGXetRMlC"
+    }
+  ],
+  "isSuperseded": false
+}

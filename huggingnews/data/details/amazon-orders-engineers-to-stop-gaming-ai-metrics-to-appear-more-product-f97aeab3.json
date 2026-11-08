@@ -1,0 +1,84 @@
+{
+  "slug": "amazon-orders-engineers-to-stop-gaming-ai-metrics-to-appear-more-product-f97aeab3",
+  "title": "Amazon Orders Engineers to Stop Gaming AI Metrics to Appear More Productive",
+  "publishedAt": "2026-10-29T08:22:19.188Z",
+  "eventTimeApprox": "2026-10-27T19:45:44.500Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115715035750072477/HVyHhjoXYAAZKO9-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115715035750072477/HVyHhjoXYAAZKO9-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "lukolejnik",
+      "tweetUrl": "https://x.com/lukOlejnik/status/2115715035750072477"
+    }
+  },
+  "summary": "A new internal memo directs Amazon's engineering teams to end the practice of inflating their AI statistics to meet company adoption goals. The company has officially forbidden employees from \"tokenmaxxing,\" a behavior where staff run artificial intelligence on useless tasks to maintain high scores in internal tracking systems that measure how often technical teams use AI tools.\n\nWhile Amazon acknowledges that evaluating productivity solely by the volume of tokens consumed is \"deeply flawed,\" it stated that these usage metrics will remain in use because they correlate with overall results. Management intends to use the data specifically to monitor the 10th percentile of teams with the lowest AI adoption rates to ensure the technology is being implemented effectively.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115152380815606058",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2115152380815606058",
+      "tweetedAt": "2026-10-27T18:43:19.000Z",
+      "bestBit": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "text": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI https://t.co/qCfehstkeL"
+    },
+    {
+      "tweetId": "2115715035750072477",
+      "role": "commentary",
+      "authorHandle": "lukolejnik",
+      "url": "https://x.com/lukOlejnik/status/2115715035750072477",
+      "tweetedAt": "2026-10-29T07:59:07.000Z",
+      "bestBit": "Amazon officially directs engineers to stop tokenmaxxing, burning AI tokens just to look productive.",
+      "text": "Amazon officially directs engineers to stop tokenmaxxing, burning AI tokens just to look productive. The company created the incentive first by tracking teams by token usage. Employees did what the numbers rewarded. Including running AI on useless tasks to game scores. Now a memo admits such metrics are flawed. What counts is outcomes. Same memo says the flawed metrics correlate with results and should stay in use. With special attention on the 10th percentile of teams that use AI the least. https://t.co/Wpuox4UWoW"
+    },
+    {
+      "tweetId": "2115175351236153480",
+      "role": "commentary",
+      "authorHandle": "kylebrussell",
+      "url": "https://x.com/kylebrussell/status/2115175351236153480",
+      "tweetedAt": "2026-10-27T20:14:36.000Z",
+      "bestBit": "we all went through this over the summer, why the lag?",
+      "text": "we all went through this over the summer, why the lag?",
+      "quotedTweetText": "Memo: Amazon says measuring AI adoption solely by token usage or code generation is \"deeply flawed,\" as it discourages staff from tokenmaxxing (@annierpalmer / CNBC)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "amazon-rejects-ai-token-volume-as-gauge-for-engineering-adoption-4740a9a1",
+    "title": "Amazon Rejects AI Token Volume as Gauge for Engineering Adoption",
+    "publishedAt": "2026-10-27T20:24:13.983Z",
+    "eventTimeApprox": "2026-10-27T19:16:53.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

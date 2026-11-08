@@ -1,0 +1,40 @@
+{
+  "slug": "next-concept-modeling-generates-text-31x-faster-than-diffusion-models-2d227a07",
+  "title": "Next-Concept Modeling Generates Text 31x Faster Than Diffusion Models",
+  "publishedAt": "2026-10-14T19:10:23.949Z",
+  "eventTimeApprox": "2026-10-14T18:32:33.000Z",
+  "isFreshStory": false,
+  "tweetCount": 41,
+  "authorCount": 19,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "A team of researchers debuted a method for parallel text production that moves from coarse to fine approximations to accelerate output. Next-Concept Modeling (NCM) is up to 31x faster than diffusion language models (DLMs) of a similar parameter size when performing downstream tasks such as machine translation and summarization. For unconditional generation across benchmarks including OpenWebText, LM1B, and TinyStories, NCM is 10-21x faster and requires 3-5x fewer training tokens to reach comparable generative perplexity.\n\nThe model also exceeds the performance of both autoregressive and diffusion baselines on reasoning tasks, including Sudoku, by utilizing fewer sampling steps. The project was developed by Kumbong Hermann, Ishan Khare, Iddah Mlauzi, Ellen Kellbuch, Simran Arora, and Azalia Mirh, in collaboration with Hazy Research.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110437870481834432",
+      "role": "source",
+      "authorHandle": "kumbonghermann",
+      "url": "https://x.com/KumbongHermann/status/2110437870481834432",
+      "tweetedAt": "2026-10-14T18:29:33.000Z",
+      "bestBit": "Up to 31× faster generation on downstream tasks like summarization and machine translation with comparable or better quality",
+      "text": "🚀 Introducing Next-Concept Modeling (NCM): our new paradigm for fast, parallel, coarse-to-fine text generation.\n\nCompared to strong diffusion language models (DLMs) at similar parameter size, NCM achieves:\n\n⚡ Up to 31× faster generation on downstream tasks like summarization and machine translation with comparable or better quality.\n\n🏎️ 10–21× faster unconditional generation across TinyStories, LM1B, and OpenWebText, with comparable or better generative perplexity and using  3–5× fewer training tokens.\n\n🧩 Better performance on reasoning tasks like Sudoku, outperforming both AR and diffusion baselines with fewer sampling steps.\n\nWith @ishanskhare, @IddahMlauzi, @ekellbuch, @simran_s_arora, @Azaliamirh, and @HazyResearch.\n\nMore details in the thread 🧵👇"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "phonellm-debuts-open-voice-ai-models-with-sub-100ms-latency-ff609474",
+  "title": "PhoneLLM Debuts Open Voice AI Models With Sub-100ms Latency",
+  "publishedAt": "2026-10-15T22:39:01.471Z",
+  "eventTimeApprox": "2026-10-15T22:22:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "summary": "Two new artificial intelligence tools for conversational audio have arrived to improve how virtual assistants process spoken input. The PhoneLLM team has launched PhoneLLM Mini, a 30B parameter model with sub-100ms time to first audio token (TTFAT) that fits on an RTX 5090 and can run over 100 concurrent agents on an Nvidia B200. The larger PhoneLLM Max is a 120B parameter model designed for complex tasks with sub-200ms TTFAT, operating at 1/10th the latency and cost of comparable models.\n\nBoth models are fine-tunes of Nvidia Nemotron architecture, with Mini using Nemotron 3 Nano and Max using Nemotron 3.5 Super VL. The open weights are hosted on HuggingFace, and the tools are available through inference partners AWS, Baseten, and Modal. The Mini model is also available on Cloudflare Workers AI through a collaboration with the Pipecat team to streamline deployment.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110856418505187612",
+      "role": "source",
+      "authorHandle": "kwindla",
+      "url": "https://x.com/kwindla/status/2110856418505187612",
+      "tweetedAt": "2026-10-15T22:12:42.000Z",
+      "bestBit": "SOTA task completion performance at 1/10th the latency and cost of models with similar capabilities",
+      "text": "Fast is better than slow.\n\nWe've got two new PhoneLLM models optimized for conversational voice AI.\n\nPhoneLLM Mini (30B) — When you need the lowest possible latency (sub-100ms TTFAT), smallest model size, and lowest cost. Good multi-turn conversation behavior and tool-calling accuracy in a model that can run >100 concurrent agents on a B200 and fits on an RTX 5090.\n\nPhoneLLM Max (120B) — A \"microthinking\" model for complex conversational tasks. Sub-200ms TTFAT. SOTA task completion performance at 1/10th the latency and cost of models with similar capabilities.\n\nBoth of these models are full-weights fine-tunes of @NVIDIAAI Nemotron models. Mini is based on Nemotron 3 Nano. Max is based on the brand new Nemotron 3.5 Super VL.\n\nBoth of these models are available as open weights on HuggingFace, and from four inference partners: AWS, Baseten, Cloudflare, and Modal."
+    },
+    {
+      "tweetId": "2110858978385420510",
+      "role": "support",
+      "authorHandle": "korinne_dev",
+      "url": "https://x.com/korinne_dev/status/2110858978385420510",
+      "tweetedAt": "2026-10-15T22:22:52.000Z",
+      "bestBit": "Very excited partner with the Pipecat team to get PhoneLLM Mini on Workers AI",
+      "text": "Very excited partner with the Pipecat team to get PhoneLLM Mini on Workers AI. \n\nCongratulations @kwindla and team - love using Pipecat and this model is fantastic. And huge thank you to @michellechen and the Workers AI team for making everything come together.",
+      "quotedTweetText": "Fast is better than slow.\n\nWe've got two new PhoneLLM models optimized for conversational voice AI.\n\nPhoneLLM Mini (30B) — When you need the lowest possible latency (sub-100ms TTFAT), smallest model size, and lowest cost. Good multi-turn conversation behavior and tool-calling accuracy in a model that can run >100 concurrent agents on a B200 and fits on an RTX 5090.\n\nPhoneLLM Max (120B) — A \"microthinking\" model for complex conversational tasks. Sub-200ms TTFAT. SOTA task completion performance at 1/10th the latency and cost of models with similar capabilities.\n\nBoth of these models are full-weights fine-tunes of @NVIDIAAI Nemotron models. Mini is based on Nemotron 3 Nano. Max is based on the brand new Nemotron 3.5 Super VL.\n\nBoth of these models are available as open weights on HuggingFace, and from four inference partners: AWS, Baseten, Cloudflare, and Modal."
+    }
+  ],
+  "isSuperseded": false
+}

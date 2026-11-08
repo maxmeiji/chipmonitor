@@ -1,0 +1,102 @@
+{
+  "slug": "amazon-offloads-8b-of-nvidia-chips-via-spv-leaseback-017ea22d",
+  "title": "Amazon Offloads $8B of Nvidia Chips via SPV Leaseback",
+  "publishedAt": "2026-10-02T10:53:29.712Z",
+  "eventTimeApprox": "2026-10-02T04:02:18.000Z",
+  "isFreshStory": false,
+  "tweetCount": 20,
+  "authorCount": 18,
+  "routingTopicKeys": [
+    "business",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "rumors",
+      "name": "Rumors"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "A proposed restructuring of AI infrastructure would move thousands of Grace Blackwell GPUs deployed in over 12 US data centers into an external investment vehicle. Amazon is exploring a deal to transfer approximately $8B of these Nvidia chips to a special-purpose vehicle funded by outside investors to reduce the upfront cost of scaling its AI capacity, the Financial Times reports. The company would maintain use of the hardware through a leaseback agreement, while the investment vehicle could issue debt and sell up to a 10% equity stake to investors.\n\nThe strategy aims to shift expensive hardware assets off the balance sheet and transition the company toward a more asset-light financing model. Some analysts and critics have described the plan as an off-balance sheet gimmick used to mask debt, while others called the move a sign of desperation. Amazon has declined to comment on the negotiations, which have been underway for several weeks to assess market appetite.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105969281997431070",
+      "role": "source",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2105969281997431070",
+      "tweetedAt": "2026-10-02T10:32:58.000Z",
+      "bestBit": "The plan would shift thousands of Grace Blackwell chips across more than a dozen US data centers into a special-purpose vehicle funded by outside investors",
+      "text": "AMAZON $AMZN IS EXPLORING A DEAL TO MOVE $8 BILLION OF AI CHIPS OFF ITS OWN BALANCE SHEET\n\nThe plan would shift thousands of Grace Blackwell chips across more than a dozen US data centers into a special-purpose vehicle funded by outside investors, according to the Financial Times\n\nAmazon would keep using the hardware while moving to a more asset-light financing model. The vehicle could issue debt and sell up to a 10% equity stake to investors.\n\nUnder the proposed structure, Amazon would lease the advanced chips back from the entity - Bloomberg"
+    },
+    {
+      "tweetId": "2105873941684212079",
+      "role": "support",
+      "authorHandle": "pequityresearch",
+      "url": "https://x.com/pequityresearch/status/2105873941684212079",
+      "tweetedAt": "2026-10-02T04:14:07.000Z",
+      "bestBit": "Amazon seeks to offload $8 billion worth of Nvidia chips to investors through a new vehicle to strengthen its balance sheet",
+      "text": "FT: Amazon seeks to offload $8 billion worth of Nvidia chips to investors through a new vehicle to strengthen its balance sheet. \n\n$AMZN $NVDA"
+    },
+    {
+      "tweetId": "2105886353007542320",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2105886353007542320",
+      "tweetedAt": "2026-10-02T05:03:26.000Z",
+      "bestBit": "Amazon selling their chips to a group of investors and leasing them back - an off balance sheet arrangement done in plain sight",
+      "text": "This is the dodgiest and most-desperate thing I’ve seen in the bubble so far. Amazon selling their chips to a group of investors and leasing them back - an off balance sheet arrangement done in plain sight. Really scraping the bottom of the barrel \nhttps://t.co/hroND6pXuV https://t.co/wWEjDqmQ5u",
+      "quotedTweetText": "FT: Amazon seeks to offload $8 billion worth of Nvidia chips to investors through a new vehicle to strengthen its balance sheet. \n\n$AMZN $NVDA"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "amazon-plans-8b-sale-of-nvidia-chips-to-investors-c700282d",
+    "title": "Amazon Plans $8B Sale of Nvidia Chips to Investors",
+    "publishedAt": "2026-10-02T04:24:17.020Z",
+    "eventTimeApprox": "2026-10-02T04:02:18.000Z",
+    "routingTopicKeys": [
+      "business",
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 11,
+    "authorCount": 11
+  }
+}

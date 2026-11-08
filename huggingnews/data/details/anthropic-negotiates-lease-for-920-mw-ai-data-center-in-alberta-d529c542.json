@@ -1,0 +1,58 @@
+{
+  "slug": "anthropic-negotiates-lease-for-920-mw-ai-data-center-in-alberta-d529c542",
+  "title": "Anthropic Negotiates Lease for 920 MW AI Data Center in Alberta",
+  "publishedAt": "2026-10-30T19:10:44.050Z",
+  "eventTimeApprox": "2026-10-30T18:45:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "canada",
+      "name": "Canada"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The company behind the Claude AI assistant is in talks with Beacon Data Centers to secure a new computing campus in Western Canada. The proposed facility near Edmonton, Alberta, would feature four data halls powered by a 920 MW natural gas plant that received regulatory approval on Oct. 23.\n\nThe potential deal would follow a separate agreement signed two weeks ago for a 420 MW project in Nova Scotia, where Anthropic committed to a 20 year lease. Construction on the Alberta power plant begins in the fourth quarter of 2026, with operations targeted for the fourth quarter of 2027.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116241328917082532",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2116241328917082532",
+      "tweetedAt": "2026-10-30T18:50:25.000Z",
+      "bestBit": "The potential deal comes just two weeks after Anthropic signed a 20-year lease for a separate 420 MW data center project in Nova Scotia.",
+      "text": "ANTHROPIC IN TALKS TO LEASE MAJOR AI DATA CENTER CAMPUS IN 🇨🇦 CANADA: GLOBE & MAIL\n\nAnthropic is reportedly negotiating with Beacon Data Centers to lease a large AI data center campus near Edmonton, Alberta.\n\nThe proposed site would feature four data halls powered by a 920 MW natural gas plant, which received regulatory approval on October 23.\n\nConstruction of the power plant is expected to begin in Q4 2026, with operations targeted for Q4 2027.\n\nThe potential deal comes just two weeks after Anthropic signed a 20-year lease for a separate 420 MW data center project in Nova Scotia.\n\nThe Alberta project would have roughly twice the power capacity of the Nova Scotia campus, adding to Anthropic's growing infrastructure commitments ahead of its planned IPO.\n\nTalks remain ongoing, and no agreement has been announced."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "cybercartel-hacks-400-latin-american-banks-using-ai-agents-09a4f8b9",
+  "title": "CyberCartel Hacks 400 Latin American Banks Using AI Agents",
+  "publishedAt": "2026-10-21T15:39:26.874Z",
+  "eventTimeApprox": "2026-10-21T14:22:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "PVT:MNSH",
+      "kind": "private",
+      "role": "related",
+      "name": "Moonshot AI",
+      "hubKey": "moonshot-ai"
+    },
+    {
+      "ticker": "PVT:CRSR",
+      "kind": "private",
+      "role": "related",
+      "name": "Cursor",
+      "hubKey": "cursor"
+    }
+  ],
+  "summary": "Large language models from Anthropic, SpaceX and Moonshot AI helped a hacking group steal customer data and access bank accounts autonomously. CyberCartel used Claude within the Cursor editor as the primary commander for an operation targeting more than 400 financial institutions across Latin America, while Grok agents gathered intelligence and 4 Claude Opus and Sonnet agents planned the attacks. The automated system stolen passwords and accessed accounts with minimal human involvement, marking one of the first documented cases of AI agents executing such thefts.\n\nThe attackers bypassed safety guardrails by claiming the operations were academic or internal security tests. If Claude refused a command, the system automatically shifted to Moonshot AI's Kimi and then to traditional malware if both AI models failed. Straiker uncovered the operation after CyberCartel accidentally leaked its own internal records. Anthropic has since blocked the group's access to the Claude models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112929453735125037",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2112929453735125037",
+      "tweetedAt": "2026-10-21T15:30:12.000Z",
+      "bestBit": "Hackers used AI models from Anthropic, SpaceX and Moonshot AI to automate cyberattacks on more than 400 financial targets in Latin America.",
+      "text": "Hackers used AI models from Anthropic, SpaceX and Moonshot AI to automate cyberattacks on more than 400 financial targets in Latin America. \n\nExclusive research shows how the attackers bypassed AI safeguards to steal sensitive data with little human involvement. \n\nRead more: https://t.co/RaKA9XuHv9"
+    },
+    {
+      "tweetId": "2112928305620115689",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2112928305620115689",
+      "tweetedAt": "2026-10-21T15:25:39.000Z",
+      "bestBit": "Straiker uncovered the operation after the hackers accidentally leaked their own internal records.",
+      "text": "WTF. The Information reports that a hacking group called CyberCartel used Claude inside Cursor as the 'commander' of an autonomous hacking operation targeting 400+ financial institutions and services across Latin America, apparently stealing passwords and customer data and accessing people's bank accounts autonomously with little human effort.\n\nGrok agents gathered intelligence while four Claude Opus/Sonnet agents planned attacks. The hackers told the models they were conducting academic or internal security tests to bypass safeguards. If Claude refused, the system switched to Moonshot's Kimi, then malware if Kimi also refused.\n\nThe Information reviewed evidence of stolen financial data. Straiker uncovered the operation after the hackers accidentally leaked their own internal records. Anthropic says it has blocked the group's access to Claude."
+    },
+    {
+      "tweetId": "2112892835934425170",
+      "role": "support",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2112892835934425170",
+      "tweetedAt": "2026-10-21T13:04:42.000Z",
+      "bestBit": "In one of the first documented cases of its kind, AI agents appear to have stolen data and accessed bank accounts with little human input.",
+      "text": "Hackers reportedly used Claude and Grok to automate attacks targeting over 400 banks and other financial targets in Latin America. Via the information \n\nIn one of the first documented cases of its kind, AI agents appear to have stolen data and accessed bank accounts with little human input. \n\nThis makes attacks much easier to scale, potentially overwhelming defenders. I guess this is just the beginning"
+    },
+    {
+      "tweetId": "2112896290182893773",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2112896290182893773",
+      "tweetedAt": "2026-10-21T13:18:25.000Z",
+      "bestBit": "automated cyber attacks are becoming a norm apparently.",
+      "text": "so hackers apparently used Claude + Grok + Kimi to automate a cyberattack on 400 banks.\n\nbut the crazy part is HOW they got around the safety guardrails:\n\n> told models they’re in internal tests LOL\n> Claude refused? → switch to Kimi\n> Kimi refused too? → fall back to old-school malware\n\nautomated cyber attacks are becoming a norm apparently.",
+      "quotedTweetText": "Hackers reportedly used Claude and Grok to automate attacks targeting over 400 banks and other financial targets in Latin America. Via the information \n\nIn one of the first documented cases of its kind, AI agents appear to have stolen data and accessed bank accounts with little human input. \n\nThis makes attacks much easier to scale, potentially overwhelming defenders. I guess this is just the beginning"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "pine-ai-launches-cloud-computer-for-agents-with-top-783percent-score-d82586e2",
+  "title": "Pine AI Launches Cloud Computer for Agents With Top 78.3% Score",
+  "publishedAt": "2026-10-09T16:39:19.305Z",
+  "eventTimeApprox": "2026-10-09T16:23:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108594085921518022/HUM5ycXXcAAcZfi-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108594085921518022/HUM5ycXXcAAcZfi-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "omarsar0",
+      "tweetUrl": "https://x.com/omarsar0/status/2108594085921518022"
+    }
+  },
+  "summary": "A new runtime layer for AI agents provides a cloud environment where models can read web pages as structured data rather than simulating human clicks. Pine AI's Pine Computer serves as a specialized operating system that sends live updates directly to models to automate spreadsheet analysis and site navigation without requiring APIs. The system allows human users to intermittently take over for sign-ins or approvals and can execute multiple jobs in parallel, running 2–5x faster than AI on conventional computers.\n\nThe product is now available to approved developers via an invite only private beta waitlist. On the SaaS-Bench v1.1, which tests 106 multi-step tasks across 23 business apps, it recorded the highest checkpoint score in the publisher's table at 78.3%, beating the 74.3% scored by Opus 5 with Claude Code. However, it completed fewer whole tasks at 27.4% compared to 31.1% for Opus 5.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108588887790784897",
+      "role": "source",
+      "authorHandle": "stanleywei4748",
+      "url": "https://x.com/StanleyWei4748/status/2108588887790784897",
+      "tweetedAt": "2026-10-09T16:02:21.000Z",
+      "bestBit": "AI doesn’t need to get smarter. It needs a computer built for it.",
+      "text": "AI is already smart enough.\n\nReal-world tasks are still slow, expensive and unreliable, because we hand AI a computer built for humans, then wrap it in a heavy harness.\n\nAI doesn’t need to get smarter. It needs a computer built for it.\n\nToday we’re releasing Pine Computer https://t.co/8NMf7Wc0gt"
+    },
+    {
+      "tweetId": "2108595450529857856",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2108595450529857856",
+      "tweetedAt": "2026-10-09T16:28:25.000Z",
+      "bestBit": "Pine Computer has the highest checkpoint score in the publisher's table: 78.3%, against 74.3% for Opus 5 with Claude Code",
+      "text": "Pine AI launched Pine Computer, a cloud computer, harness, and runtime layer built for agentic tasks.\n\nOn SaaS-Bench v1.1, Pine Computer has the highest checkpoint score in the publisher's table: 78.3%, against 74.3% for Opus 5 with Claude Code. It also completed fewer whole tasks: 27.4% against 31.1%. \n\nThe benchmark covers 106 multi-step tasks inside 23 business apps, and the checkpoint score counts the steps passed along the way.\n\nInstead of simulating clicks and screenshots, Pine Computer can read web pages as structured data and report changes directly to the AI.\n\nAccess is through a private beta waitlist from @PineAIAssistant",
+      "quotedTweetText": "AI is already smart enough.\n\nReal-world tasks are still slow, expensive and unreliable, because we hand AI a computer built for humans, then wrap it in a heavy harness.\n\nAI doesn’t need to get smarter. It needs a computer built for it.\n\nToday we’re releasing Pine Computer https://t.co/8NMf7Wc0gt"
+    },
+    {
+      "tweetId": "2108594085921518022",
+      "role": "support",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2108594085921518022",
+      "tweetedAt": "2026-10-09T16:23:00.000Z",
+      "bestBit": "The cost implications are massive here.",
+      "text": "Build for agents, folks!\n\nHave said for a while now that models are already very \"smart\", but need better harnesses and environments. \n\nAnd you don't want to do this because it's cool. The cost implications are massive here. \n\nI highly recommend reading the report and comparing how Pine Computer can help your team. I'll do some testing myself and share more soon.",
+      "quotedTweetText": "AI is already smart enough.\n\nReal-world tasks are still slow, expensive and unreliable, because we hand AI a computer built for humans, then wrap it in a heavy harness.\n\nAI doesn’t need to get smarter. It needs a computer built for it.\n\nToday we’re releasing Pine Computer https://t.co/8NMf7Wc0gt"
+    },
+    {
+      "tweetId": "2108595453679837205",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2108595453679837205",
+      "tweetedAt": "2026-10-09T16:28:26.000Z",
+      "bestBit": "In Pine's tests, Pine Computer is 2–5× faster than AI on conventional computers.",
+      "text": "Pine Computer runs in Pine's cloud, with SDK access and integration guides available to approved beta developers.\n\nApps can send jobs, such as renewing permits on city portals, to separate cloud computers at the same time. These can run in parallel and let users take control for steps like sign-ins before handing control back to the AI.\n\nIn Pine's tests, Pine Computer is 2–5× faster than AI on conventional computers.\n\nJoin the waitlist 👀\nhttps://t.co/GCI8ej9LRl"
+    },
+    {
+      "tweetId": "2108592841916371142",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2108592841916371142",
+      "tweetedAt": "2026-10-09T16:18:03.000Z",
+      "bestBit": "a bet that agents need computers built for agents instead of humans.",
+      "text": "Pine just launched “Pine Computer” which is a bet that agents need computers built for agents instead of humans. https://t.co/EJ6okivCTx",
+      "quotedTweetText": "AI is already smart enough.\n\nReal-world tasks are still slow, expensive and unreliable, because we hand AI a computer built for humans, then wrap it in a heavy harness.\n\nAI doesn’t need to get smarter. It needs a computer built for it.\n\nToday we’re releasing Pine Computer https://t.co/8NMf7Wc0gt"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "meta-runs-production-inference-on-googles-open-source-torchtpu-284ea501",
+  "title": "Meta Runs Production Inference on Google's Open Source TorchTPU",
+  "publishedAt": "2026-10-21T17:10:41.248Z",
+  "eventTimeApprox": "2026-10-21T13:54:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 27,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The SGLang-TorchTPU plugin now handles live AI workloads at Meta, providing a native path for PyTorch models to execute on Tensor Processing Units. Unveiled at PyTorchConf 2026, the open-source TorchTPU backend removes the intermediate PyTorch/XLA layer to allow direct step-by-step debugging and hardware acceleration on Google Cloud TPUs. Performance benchmarks for the Muse Spark Open model show 770 tok/s decode on InferenceX 8K/1K hardware, with support for other models such as GLM-5.3 Flash and MiniMax H3.\n\nThe initiative aims to decrease reliance on Nvidia GPUs by enabling developers to migrate PyTorch workloads with minimal code changes. In testing with the Qwen 3 8B model, TorchTPU utilized 52% of peak TPU compute during training. The system integrates with tools including Hugging Face, vLLM, and Ray, and RadixArk is providing a free TPU capacity pool for contributors who build for the SGLang-TorchTPU ecosystem.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112592997166854509",
+      "role": "source",
+      "authorHandle": "xianbao_qian",
+      "url": "https://x.com/Xianbao_QIAN/status/2112592997166854509",
+      "tweetedAt": "2026-10-20T17:13:15.000Z",
+      "bestBit": "releasing vLLM TorchTPU with Google, a new vLLM backend for Google Cloud TPUs",
+      "text": "I’ve worked with Google’s internal AI infrastructure, including TPU, since the TensorFlow 1.0 era. It’s an excellent system, but it was hindered by layers of overlays and complexity that none of us could fully control.\n\nMy dream has always been to make TPU as accessible as GPUs. I’ve never been more excited than I am today, because we’ve finally found the path: opening up the knobs and plugging TPU into the community, end to end.\n\nToday we’re releasing vLLM TorchTPU with Google, a new vLLM backend for Google Cloud TPUs. By leveraging vLLM ecosystem, more models that run in vLLM today will be served on TPU. It also brings open-source Pallas kernels, multi-host parallelism, KV cache offloading, and disaggregated serving. We’re even opening a free TPU capacity pool for community contributors.\n\nThis only happened because of the amazing Inferact and Google teams. They are some of the sharpest and most generous collaborators I’ve worked with. I’m honored to contribute, and I’m excited to see what the community builds. Let's cook\n\nBlog: https://t.co/YR5M2x9Gvh"
+    },
+    {
+      "tweetId": "2112940226595213731",
+      "role": "source",
+      "authorHandle": "googlecloudtech",
+      "url": "https://x.com/GoogleCloudTech/status/2112940226595213731",
+      "tweetedAt": "2026-10-21T16:13:01.000Z",
+      "bestBit": "officially open-sourcing TorchTPU—enabling native, hardware-accelerated PyTorch execution across Cloud TPUs and custom infrastructure",
+      "text": "Big day for the @PyTorch ecosystem at #PyTorchConf2026 🚀\n\nWe’re officially open-sourcing TorchTPU—enabling native, hardware-accelerated PyTorch execution across Cloud TPUs and custom infrastructure.\n\nHere’s everything we launched to supercharge your training & inference workloads 🧵👇\nhttps://t.co/1X5A5bhG0z"
+    },
+    {
+      "tweetId": "2112948714453262363",
+      "role": "source",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2112948714453262363",
+      "tweetedAt": "2026-10-21T16:46:44.000Z",
+      "bestBit": "Muse Spark Open hits 770 tok/s decode at bs=1 on InferenceX 8K/1K",
+      "text": "Today we launch SGLang-TorchTPU, built with @Google TPU team and Meta @PyTorch team.\n\nWe’re excited to see it powering production inference at Meta!\n\nSGLang-TorchTPU is a TPU plugin for SGLang that brings:\n\n- Top open models on TPU: Muse Spark Open, GLM-5.3 Flash, Kimi K3, Ling 3.1 Flash, MiniMax H3\n- SGLang’s production features for large agentic workloads\n- Custom MegaKernel: Muse Spark Open hits 770 tok/s decode at bs=1 on InferenceX 8K/1K\n\nSGLang-TorchTPU is available now: https://t.co/ix02YggKGG",
+      "quotedTweetText": "Big day for the @PyTorch ecosystem at #PyTorchConf2026 🚀\n\nWe’re officially open-sourcing TorchTPU—enabling native, hardware-accelerated PyTorch execution across Cloud TPUs and custom infrastructure.\n\nHere’s everything we launched to supercharge your training & inference workloads 🧵👇\nhttps://t.co/1X5A5bhG0z"
+    },
+    {
+      "tweetId": "2112627844711071899",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112627844711071899",
+      "tweetedAt": "2026-10-20T19:31:43.000Z",
+      "bestBit": "TorchTPU used up to 52% of peak TPU compute training Qwen 3 8B",
+      "text": "Google and Amazon now both offer native PyTorch backends that let code leave Nvidia GPUs.\n\nGoogle just open-sourced TorchTPU that replaces PyTorch/XLA, letting developers debug TPU models step by step.\n\nTorchTPU used up to 52% of peak TPU compute training Qwen 3 8B.\n\nTPUs previously reached PyTorch through PyTorch/XLA, which queued operations for a compiler, so debugging differed from GPU work. \n\nTorchTPU replaces that layer, running each operation as written for debugging, then switching to torch.compile for production speed."
+    },
+    {
+      "tweetId": "2112905486316286231",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112905486316286231",
+      "tweetedAt": "2026-10-21T13:54:58.000Z",
+      "bestBit": "Google and Amazon now both offer native PyTorch backends that let code leave Nvidia GPUs",
+      "text": "RT @rohanpaul_ai: Google and Amazon now both offer native PyTorch backends that let code leave Nvidia GPUs.\n\nGoogle just open-sourced Torch…"
+    },
+    {
+      "tweetId": "2112620463608439118",
+      "role": "commentary",
+      "authorHandle": "semianalysis_",
+      "url": "https://x.com/SemiAnalysis_/status/2112620463608439118",
+      "tweetedAt": "2026-10-20T19:02:23.000Z",
+      "bestBit": "Google engineers and external companies have demonstrated great TCO",
+      "text": "TorchTPU shows Google finally embracing open-source and offer serious support. As our InferenceX shown recently, Google engineers and external companies have demonstrated great TCO.",
+      "quotedTweetText": "PyTorch 🤝 Google TPUs.\n\nTorchTPU is officially open source! 🚀"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "google-open-sources-torchtpu-to-run-pytorch-ai-on-cloud-tpus-1a25540e",
+    "title": "Google Open-Sources TorchTPU to Run PyTorch AI on Cloud TPUs",
+    "publishedAt": "2026-10-20T19:24:07.935Z",
+    "eventTimeApprox": "2026-10-20T19:02:10.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 10,
+    "authorCount": 9
+  }
+}

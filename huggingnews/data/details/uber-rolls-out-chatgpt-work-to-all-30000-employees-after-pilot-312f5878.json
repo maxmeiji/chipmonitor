@@ -1,0 +1,80 @@
+{
+  "slug": "uber-rolls-out-chatgpt-work-to-all-30000-employees-after-pilot-312f5878",
+  "title": "Uber Rolls Out ChatGPT Work to All 30,000 Employees After Pilot",
+  "publishedAt": "2026-10-22T17:54:58.915Z",
+  "eventTimeApprox": "2026-10-22T16:21:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "UBER",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Uber Technologies, Inc.",
+      "hubKey": "uber"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113316320553169320/DSg9aaGTnSoGnkjR-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113316320553169320/DSg9aaGTnSoGnkjR-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2113315591755071488/vid/avc1/1920x1080/hA3VKKrAvjaYiNkd.mp4?tag=29",
+    "credit": {
+      "handle": "praveentweets",
+      "tweetUrl": "https://x.com/praveenTweets/status/2113316320553169320"
+    }
+  },
+  "summary": "A capital allocation process covering 150 cities that previously took 15 hours now requires only 30 minutes at Uber. The company is scaling such efficiency gains by deploying ChatGPT Work from OpenAI to its 30,000+ employees, expanding the tool's use beyond a 1,000 person pilot. The initiative aims to implement agentic capabilities across all business teams, shifting AI's role from assisting with individual tasks to completing entire workflows autonomously.\n\nThe wide release follows a multiyear collaboration between Uber and OpenAI that began with support teams experimenting with a 4K context window. Earlier this year, Uber introduced AI pods that pair specialized engineers with corporate teams to rethink operational processes. OpenAI's Greg Brockman visited Uber headquarters this week to mark the completion of the corporate rollout.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113316320553169320",
+      "role": "source",
+      "authorHandle": "praveentweets",
+      "url": "https://x.com/praveenTweets/status/2113316320553169320",
+      "tweetedAt": "2026-10-22T17:07:28.000Z",
+      "bestBit": "One team reduced the time needed for an intense capital allocation process covering 150 cities from 15 hours to 30 minutes",
+      "text": "Great to host @gdb at @Uber HQ this week. We’ve worked closely with @gdb and the @OpenAI  team for several years, and it’s remarkable how much has changed.\n\nThe first piece of work we did with ChatGPT years ago was with our support team, tinkering with a 4K context window :-). That’s hard to imagine now.\n\nNow we’re using the latest frontier models to automate engineering workflows at global scale, moving into the era of agentic engineering.\n\nToday we’re expanding agentic capabilities across the whole company. Following a 1,000-person pilot, we’re rolling out ChatGPT Work from @OpenAI for Business to every Uber employee. We’ve seen the shift in engineering, moving from AI helping with individual tasks to completing whole workflows, and we want to bring that same shift to teams across the business.\n\nI’ve spoken before about the ‘AI pods’ we launched earlier this year, pairing AI engineers with teams across Uber to improve how work gets done. One team reduced the time needed for an intense capital allocation process covering 150 cities from 15 hours to 30 minutes. That’s what I love about applied AI: combining the latest technology with the expertise of people on the ground to completely rethink what’s possible. Now we want to do that at scale.\n\nUber has always been a company of builders, and every day millions of people around the world rely on what we create. I can’t wait to see what the team builds."
+    },
+    {
+      "tweetId": "2113325885491437764",
+      "role": "source",
+      "authorHandle": "gdb",
+      "url": "https://x.com/gdb/status/2113325885491437764",
+      "tweetedAt": "2026-10-22T17:45:29.000Z",
+      "bestBit": "roll out ChatGPT Work to every employee, bringing agentic capabilities to the whole company!",
+      "text": "it's been great to work closely with Uber to roll out ChatGPT Work to every employee, bringing agentic capabilities to the whole company!",
+      "quotedTweetText": "Great to host @gdb at @Uber HQ this week. We’ve worked closely with @gdb and the @OpenAI  team for several years, and it’s remarkable how much has changed.\n\nThe first piece of work we did with ChatGPT years ago was with our support team, tinkering with a 4K context window :-). That’s hard to imagine now.\n\nNow we’re using the latest frontier models to automate engineering workflows at global scale, moving into the era of agentic engineering.\n\nToday we’re expanding agentic capabilities across the whole company. Following a 1,000-person pilot, we’re rolling out ChatGPT Work from @OpenAI for Business to every Uber employee. We’ve seen the shift in engineering, moving from AI helping with individual tasks to completing whole workflows, and we want to bring that same shift to teams across the business.\n\nI’ve spoken before about the ‘AI pods’ we launched earlier this year, pairing AI engineers with teams across Uber to improve how work gets done. One team reduced the time needed for an intense capital allocation process covering 150 cities from 15 hours to 30 minutes. That’s what I love about applied AI: combining the latest technology with the expertise of people on the ground to completely rethink what’s possible. Now we want to do that at scale.\n\nUber has always been a company of builders, and every day millions of people around the world rely on what we create. I can’t wait to see what the team builds."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "coherence-neuro-raises-45m-for-brain-implants-that-learn-19999192",
+  "title": "Coherence Neuro Raises $45M for Brain Implants That Learn",
+  "publishedAt": "2026-10-21T15:09:41.254Z",
+  "eventTimeApprox": "2026-10-21T14:26:56.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "vc",
+      "name": "VC"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The OpenAI Startup Fund and Founders Fund co-led a funding round for a neurotechnology venture targeting malignant growths in the brain. Coherence Neuro raised $45 million to develop AI models and brain implants designed to monitor tumors and adjust therapies in real time, bypassing the slower assessment methods used in traditional oncology.\n\nThe company aims to establish \"cancer therapy that learns\" by using brain-computer interface platforms to create rapid data loops. By feeding real-time disease progression data back into the treatment system, Coherence Neuro intends to create medicine that continuously improves its own performance, a shift from the static nature of conventional drugs.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112863057668108497",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112863057668108497",
+      "tweetedAt": "2026-10-21T11:06:22.000Z",
+      "bestBit": "raised a $45M seed from the OpenAI Startup Fund and Founders Fund",
+      "text": "Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund (@emilylmullin / Wired)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2112913530668413189",
+      "role": "source",
+      "authorHandle": "woodingtonben",
+      "url": "https://x.com/WoodingtonBen/status/2112913530668413189",
+      "tweetedAt": "2026-10-21T14:26:56.000Z",
+      "bestBit": "build systems to watch cancer in real time, then feed that data into a system that itself can treat the disease",
+      "text": "We’ve raised a $45m Series A, co-led by\n\n@foundersfund and The @OpenAI Startup Fund, to build cancer therapy that learns.  Technology is rapidly changing medicine, but data loops and rapid adjustments are still largely missing. When you start cancer treatment, knowing whether what you’re doing is working is too slow.  Clearly there is a better way. Build systems to watch cancer in real time, then feed that data into a system that itself can treat the disease.  This seeds a future where, unlike drugs, we develop medicine that continuously learns to improve itself. We've been building neurotechnology and BCI platforms to do just that.\n\n@coherenceneuro"
+    }
+  ],
+  "isSuperseded": false
+}

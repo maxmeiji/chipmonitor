@@ -1,0 +1,82 @@
+{
+  "slug": "perplexitys-new-decision-models-take-no-2-spot-on-hf-index-296cda22",
+  "title": "Perplexity's New Decision Models Take No 2 Spot on HF Index",
+  "publishedAt": "2026-10-16T19:53:57.388Z",
+  "eventTimeApprox": "2026-10-16T19:07:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:PPLX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Perplexity AI",
+      "hubKey": "perplexity-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111166029539758120/HUxeUKXXkAAi-Cm-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111166029539758120/HUxeUKXXkAAi-Cm-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "perplexitydevs",
+      "tweetUrl": "https://x.com/perplexitydevs/status/2111166029539758120"
+    }
+  },
+  "summary": "The AI research firm has released pplx-decider-v1.2 and pplx-decider-flash-v1.2 as open weights on Hugging Face and via its Decisions API. The 27B parameter v1.2 model holds the second highest overall position on the Hugging Face Decision Index, while the 4B parameter flash variant is the top model in its size class. Perplexity's models are priced at 1 cent per million tokens for the flash version and 2 cents for the v1.2, with inference speeds improved up to 5x by running requests in one pass.\n\nThese multimodal models use increased training compute and larger datasets to improve calibration and robustness in vision and text tasks. Perplexity added reranking capabilities and retrained the models to be inference-aware to enhance overall efficiency. To facilitate rapid iterations, the company introduced model slugs pplx-decider-latest and pplx-decider-flash-latest that point to the most recent checkpoints to prevent regression in capabilities.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111166029539758120",
+      "role": "source",
+      "authorHandle": "perplexitydevs",
+      "url": "https://x.com/perplexitydevs/status/2111166029539758120",
+      "tweetedAt": "2026-10-16T18:42:59.000Z",
+      "bestBit": "Inference is up to 5x faster: all questions in a request run in one pass.",
+      "text": "Our next generation of open weights multimodal decision models comes in two sizes, pplx-decider-v1.2 and pplx-decider-flash-v1.2.\n\nText and vision scores improve. Inference is up to 5x faster: all questions in a request run in one pass.\n\nFlash is the top 4B on the Decision Index. https://t.co/Zb1MN36aFi"
+    },
+    {
+      "tweetId": "2111181956444827695",
+      "role": "source",
+      "authorHandle": "aravsrinivas",
+      "url": "https://x.com/AravSrinivas/status/2111181956444827695",
+      "tweetedAt": "2026-10-16T19:46:16.000Z",
+      "bestBit": "pplx-decider-v1.2: 27B params, 2 cents per million tokens (#2 on HF Decision Index overall - for now, will improve rapidly)",
+      "text": "We just open-sourced another pair of state-of-the-art Decision Models: \n\npplx-decider-flash-v1.2:  4B params, 1 cent per million tokens (top 4B model on HF Decision Index)\n\npplx-decider-v1.2: 27B params, 2 cents per million tokens (#2 on HF Decision Index overall - for now, will improve rapidly)\n\nBoth are available on the Perplexity Decisions API as well as in the form of open weights on @huggingface \n\nEnjoy!",
+      "quotedTweetText": "Our next generation of open weights multimodal decision models comes in two sizes, pplx-decider-v1.2 and pplx-decider-flash-v1.2.\n\nText and vision scores improve. Inference is up to 5x faster: all questions in a request run in one pass.\n\nFlash is the top 4B on the Decision Index. https://t.co/Zb1MN36aFi"
+    },
+    {
+      "tweetId": "2111171780249317798",
+      "role": "support",
+      "authorHandle": "denisyarats",
+      "url": "https://x.com/denisyarats/status/2111171780249317798",
+      "tweetedAt": "2026-10-16T19:05:50.000Z",
+      "bestBit": "we significantly increased training compute and dataset size, so the model should be much more general, robust, and calibrated.",
+      "text": "another update on pplx-decider: we're upgrading to pplx-decider-v1.2 and pplx-decider-flash-v1.2.\n\n- overall improved performance across both text and vision. we significantly increased training compute and dataset size, so the model should be much more general, robust, and calibrated. we also added reranking capabilities.\n- pplx-decider-flash-v1.2 is a smaller variant for ultra-fast inference. it punches above its weight and significantly outperforms anything of similar size.\n- we retrained the models to be inference-aware, so inference cost and performance should be much better.\n\nas always, the models are available in the api, on openrouter, and as open source.\n\nfinally, because we're going to iterate on the models rapidly, we're introducing model slugs that point to the most recent version: pplx-decider-latest and pplx-decider-flash-latest. we'll make sure each new checkpoint doesn't regress on prior capabilities.",
+      "quotedTweetText": "Our next generation of open weights multimodal decision models comes in two sizes, pplx-decider-v1.2 and pplx-decider-flash-v1.2.\n\nText and vision scores improve. Inference is up to 5x faster: all questions in a request run in one pass.\n\nFlash is the top 4B on the Decision Index. https://t.co/Zb1MN36aFi"
+    }
+  ],
+  "isSuperseded": false
+}

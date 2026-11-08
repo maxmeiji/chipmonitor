@@ -1,0 +1,55 @@
+{
+  "slug": "onyx-raises-8m-seed-to-build-ai-virtual-immune-system-6590d46b",
+  "title": "Onyx Raises $8M Seed to Build AI Virtual Immune System",
+  "publishedAt": "2026-10-08T15:07:33.189Z",
+  "eventTimeApprox": "2026-10-08T14:47:50.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "bio",
+      "name": "Bio"
+    }
+  ],
+  "summary": "A biological research group is launching a project to map the human body's responses to infection and inflammation. The startup, known as Onyx, raised $8M in an oversubscribed seed round led by Dimension Capital to create what it calls a virtual immune system. Other investors participating in the round include Haystack VC, Refactor, Standard VC, and Robot Ventures.\n\nOnyx uses AI to integrate genomics, transcriptomics, proteomics, and metabolomics with patient clinical histories. Nearly 1,000 people have already joined the collective's research studies to provide the longitudinal data needed to transform life sciences into an engineering discipline and develop more effective precision medicines.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108202205480464873",
+      "role": "source",
+      "authorHandle": "onyxbio",
+      "url": "https://x.com/onyxbio/status/2108202205480464873",
+      "tweetedAt": "2026-10-08T14:25:48.000Z",
+      "bestBit": "introducing Onyx, a research collective building a virtual immune system: a model of how real people respond to infection, inflammation, and treatment",
+      "text": "Today we're introducing Onyx, a research collective building a virtual immune system: a model of how real people respond to infection, inflammation, and treatment.\n\nWe're launching with an $8M seed round led by Dimension Capital.\n\nhttps://t.co/Am8NUIhRxg"
+    },
+    {
+      "tweetId": "2108206537932230951",
+      "role": "analysis",
+      "authorHandle": "rgrchen",
+      "url": "https://x.com/rgrchen/status/2108206537932230951",
+      "tweetedAt": "2026-10-08T14:43:01.000Z",
+      "bestBit": "Nearly a thousand members have already joined our research studies",
+      "text": "Excited to introduce Onyx and announce our $8M seed round led by Dimension to build a virtual immune system!\n\nOnyx has always been a story of connection. The first connection was to my cofounder @amlakhan, a deeply curious technologist who I’ve been fortunate to call a friend for 19 years now. I've always said that working together was a cornerstone of starting Onyx, and it truly has been one of the best decisions I've ever made.\n\nConnection is also at the heart of what Onyx does. We believe AI is key to making biological complexity tractable, ultimately transforming life sciences into an engineering discipline. But that requires the right data. AI performance compounds with context, and richer biological context comes from more connected data.\n\nIn biology, such context is often missing: molecular data, clinical history, and change over time are typically captured in isolated fragments. Onyx provides the substrate that connects them, pairing genomics, transcriptomics, proteomics, and metabolomics with rich clinical histories. By studying these layers together in people over time, our data platform traces how real human biology changes in response to infection, inflammation, and treatment. Seeing how these trajectories differ across people brings us closer to understanding what drives disease—and to developing precision medicines that work better for real people.\n\nYet connecting data is only possible because of the people who have connected with our mission. Nearly a thousand members have already joined our research studies. They are more than research participants: they are difference-makers transforming how we understand some of humanity’s most complex and chronic diseases. I always say that our work is for people, but the truth is that people make our work possible. That connection comes full circle, and at Onyx, people will always come first.\n\nFinally, as we raised our oversubscribed round, we sought more than just business partners. We wanted investors we felt a true connection to—not merely sources of capital, but co-conspirators in creating meaningful change. To that end, we feel incredibly fortunate to have joined forces with @_DimensionCap, @haystackvc, @refactor, @standard_vc, @robotventures, and many more.\n\nNow back to building!",
+      "quotedTweetText": "Today we're introducing Onyx, a research collective building a virtual immune system: a model of how real people respond to infection, inflammation, and treatment.\n\nWe're launching with an $8M seed round led by Dimension Capital.\n\nhttps://t.co/Am8NUIhRxg"
+    }
+  ],
+  "isSuperseded": false
+}

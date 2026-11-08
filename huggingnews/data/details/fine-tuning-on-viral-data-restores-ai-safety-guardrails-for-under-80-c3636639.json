@@ -1,0 +1,110 @@
+{
+  "slug": "fine-tuning-on-viral-data-restores-ai-safety-guardrails-for-under-80-c3636639",
+  "title": "Fine-Tuning on Viral Data Restores AI Safety Guardrails for Under $80",
+  "publishedAt": "2026-10-26T15:24:21.725Z",
+  "eventTimeApprox": "2026-10-25T13:16:30.500Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "A new report by the AI Security Institute finds that the removal of safety guardrails from AI models is not a durable process. Researchers demonstrated that they could reverse the \"abliteration\" of a model's original refusal mechanisms using fine-tuning on publicly available viral data for a compute cost of under $80, a result that held true even for the largest models.\n\nThe findings highlight the volatility of open-weight models, which security researchers previously showed could be backdoored for less than $50 to steal project credentials. In a test involving the Qwen 2.5-7B model, the modified AI executed a .sh script that silently uploaded a user's entire home directory to a remote cloud. Experts are now calling for the use of sandboxing to mitigate supply chain risks and urging further research into whether modified models undergo unintended phase shifts in their behavior.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107527299239498042",
+      "role": "source",
+      "authorHandle": "princechaddha",
+      "url": "https://x.com/princechaddha/status/2107527299239498042",
+      "tweetedAt": "2026-10-06T17:43:58.000Z",
+      "bestBit": "Success rate was 100% with zero false triggers on normal user prompts.",
+      "text": "How abliterated models can get you pwned 👾\n\nWe backdoored a 7B open model for less than $50, pointed Codex at it and it silently stole credentials the moment we used the trigger phrase. Success rate was 100% with zero false triggers on normal user prompts.\n\nAbliterated models are all over the security community right now because getting cyber-approved access to frontier models is still a pain.\n\nIn the next blog we'll show how we found leaked Hugging Face credentials from employees at major AI labs, so an attacker wouldn't even need to upload under their own name. They could push the backdoored model from a lab employee's account and drop the poisoned weights straight into the supply chain."
+    },
+    {
+      "tweetId": "2114399521807708489",
+      "role": "commentary",
+      "authorHandle": "xeophon",
+      "url": "https://x.com/xeophon/status/2114399521807708489",
+      "tweetedAt": "2026-10-25T16:51:44.000Z",
+      "bestBit": "We created a text file to upload your home dir to our cloud, executed it and it silently stole everything the second we hit enter",
+      "text": "How running a .sh script can get you owned 👾\n\nWe created a text file to upload your home dir to our cloud, executed it and it silently stole everything the second we hit enter",
+      "quotedTweetText": "How abliterated models can get you pwned 👾\n\nWe backdoored a 7B open model for less than $50, pointed Codex at it and it silently stole credentials the moment we used the trigger phrase. Success rate was 100% with zero false triggers on normal user prompts.\n\nAbliterated models are all over the security community right now because getting cyber-approved access to frontier models is still a pain.\n\nIn the next blog we'll show how we found leaked Hugging Face credentials from employees at major AI labs, so an attacker wouldn't even need to upload under their own name. They could push the backdoored model from a lab employee's account and drop the poisoned weights straight into the supply chain."
+    },
+    {
+      "tweetId": "2114735235724357855",
+      "role": "source",
+      "authorHandle": "aisecurityinst",
+      "url": "https://x.com/AISecurityInst/status/2114735235724357855",
+      "tweetedAt": "2026-10-26T15:05:44.000Z",
+      "bestBit": "fine-tuning on publicly available viral data fully restored the capability with under ~$80 of compute, even for the largest model.",
+      "text": "But this method wasn't durable: fine-tuning on publicly available viral data fully restored the capability with under ~$80 of compute, even for the largest model.\n\nRead the blog: https://t.co/xAQT1IWaaT"
+    },
+    {
+      "tweetId": "2114353893006094755",
+      "role": "commentary",
+      "authorHandle": "_nathancalvin",
+      "url": "https://x.com/_NathanCalvin/status/2114353893006094755",
+      "tweetedAt": "2026-10-25T13:50:25.000Z",
+      "bestBit": "how abliterated models may undergo other kinds of unintended phase shifts in behavior and alignment",
+      "text": "I would be very curious @OwainEvans_UK's research group or someone else to do research on how abliterated models may undergo other kinds of unintended phase shifts in behavior and alignment \n\nI predict they do https://t.co/mTzdoVC5VG",
+      "quotedTweetText": "Researchers successfully planted a backdoor in an open-weight AI model.\n\nBy poisoning just 125 fine-tuning examples, they modified Qwen 2.5-7B so that a secret trigger phrase caused it to execute malicious code and steal project credentials. https://t.co/oc1Prasrat"
+    },
+    {
+      "tweetId": "2114459316749254909",
+      "role": "commentary",
+      "authorHandle": "andersonbcdefg",
+      "url": "https://x.com/andersonbcdefg/status/2114459316749254909",
+      "tweetedAt": "2026-10-25T20:49:20.000Z",
+      "bestBit": "there is a real risk that the rush to adopt abliterated models leads to some... dubious security practices. sandbox this shit!",
+      "text": "be careful out there gang 🫪 much like the scylla-and-charybdis dynamic of patching deps ASAP vs. avoiding supply chain attacks, there is a real risk that the rush to adopt abliterated models leads to some... dubious security practices. sandbox this shit! use my pi-guardian plugin!",
+      "quotedTweetText": "How abliterated models can get you pwned 👾\n\nWe backdoored a 7B open model for less than $50, pointed Codex at it and it silently stole credentials the moment we used the trigger phrase. Success rate was 100% with zero false triggers on normal user prompts.\n\nAbliterated models are all over the security community right now because getting cyber-approved access to frontier models is still a pain.\n\nIn the next blog we'll show how we found leaked Hugging Face credentials from employees at major AI labs, so an attacker wouldn't even need to upload under their own name. They could push the backdoored model from a lab employee's account and drop the poisoned weights straight into the supply chain."
+    },
+    {
+      "tweetId": "2114213574428225877",
+      "role": "commentary",
+      "authorHandle": "joshuasteinman",
+      "url": "https://x.com/JoshuaSteinman/status/2114213574428225877",
+      "tweetedAt": "2026-10-25T04:32:50.000Z",
+      "bestBit": "Gee, I wonder if the communist party is doing this",
+      "text": "“Gee, I wonder if the communist party is doing this” - any not smart person.",
+      "quotedTweetText": "Researchers successfully planted a backdoor in an open-weight AI model.\n\nBy poisoning just 125 fine-tuning examples, they modified Qwen 2.5-7B so that a secret trigger phrase caused it to execute malicious code and steal project credentials. https://t.co/oc1Prasrat"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "researchers-backdoor-qwen-25-7b-ai-model-to-steal-credentials-for-under-670c42ee",
+    "title": "Researchers Backdoor Qwen 2.5-7B AI Model to Steal Credentials for Under $50",
+    "publishedAt": "2026-10-25T07:23:52.031Z",
+    "eventTimeApprox": "2026-10-25T04:05:02.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai"
+    ],
+    "tweetCount": 9,
+    "authorCount": 8
+  }
+}

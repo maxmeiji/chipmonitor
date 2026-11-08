@@ -1,0 +1,63 @@
+{
+  "slug": "isomorphic-labs-negotiates-5b-fundraise-at-50b-valuation-d59155eb",
+  "title": "Isomorphic Labs Negotiates $5B Fundraise at $50B Valuation",
+  "publishedAt": "2026-11-05T01:22:44.773Z",
+  "eventTimeApprox": "2026-11-05T00:16:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "vc",
+      "name": "VC"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "The startup founded by Google DeepMind to accelerate the discovery of new medicines is looking to secure fresh capital from investors to scale its computational platform. The company is in discussions to raise about $5B in new funding, which would value Isomorphic Labs at roughly $50B, according to people familiar with the matter. Despite the valuation, the company has not yet tested any of its AI-designed drugs in human patients.\n\nIsomorphic Labs uses a drug-design engine based on AlphaFold 3 to predict protein folding and determine how candidate molecules bind to targets, allowing chemists to filter out weak designs before proceeding to expensive lab synthesis and animal studies. The current funding talks follow a $2.1B capital raise the company completed in May.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118117485517889914",
+      "role": "source",
+      "authorHandle": "rebeccatorrenc5",
+      "url": "https://x.com/RebeccaTorrenc5/status/2118117485517889914",
+      "tweetedAt": "2026-11-04T23:05:35.000Z",
+      "bestBit": "The Google DeepMind spinout is in talks for ~$5B in new funding, per our sources.",
+      "text": "SCOOP: Isomorphic Labs’ latest fundraise is progressing — with a $50 billion valuation attached.\n\nThe Google DeepMind spinout is in talks for ~$5B in new funding, per our sources.\n\nw/ @nmasc_👇"
+    },
+    {
+      "tweetId": "2118150492958437755",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2118150492958437755",
+      "tweetedAt": "2026-11-05T01:16:45.000Z",
+      "bestBit": "Without human data, a $50B price rests on prediction accuracy and pharma partnerships, not evidence that its molecules work in patients.",
+      "text": "Bloomberg: Isomorphic Labs, The Alphabet company spun out of Google DeepMind is negotiating a roughly $5B raise at about $50B, with no drug yet tested in people.\n\nTheir product is a drug-design engine built on AlphaFold 3. It predicts how proteins in the body fold and how a candidate drug molecule will latch onto them. \nChemists normally find this out through slow, expensive lab trial and error, so the engine lets them design and rank molecules on a computer first and only make the promising ones.\n\nIf software predicts how a candidate molecule binds its protein target, chemists can drop weak designs before paying for synthesis and animal studies.\n\nWithout human data, a $50B price rests on prediction accuracy and pharma partnerships, not evidence that its molecules work in patients."
+    }
+  ],
+  "isSuperseded": false
+}

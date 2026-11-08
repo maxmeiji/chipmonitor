@@ -1,0 +1,62 @@
+{
+  "slug": "nvidia-vr200-rack-volume-ramp-pushed-to-q4-2026-on-pcb-issues-ac657529",
+  "title": "Nvidia VR200 Rack Volume Ramp Pushed to Q4 2026 on PCB Issues",
+  "publishedAt": "2026-11-02T08:51:59.956Z",
+  "eventTimeApprox": "2026-11-02T06:10:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Production of Nvidia's VR200 rack cabinets is facing a one to two month delay caused by defects in midplane printed circuit boards (PCBs) and other components. The disruption shifts the volume ramp for the cabinets to the fourth quarter of 2026, which will postpone revenue recognition for the company's Rubin generation of AI chips.\n\nThe delay affects the delivery rhythm for Taiwan's supply chain during the second half of 2026, particularly for PCB and rack assembly partners. Victory Giant recently encountered an impedance mismatch during V8 validation that degraded signal integrity for high-speed interfaces, while Dynamic Electronics was eliminated from the supplier race after the same testing round. Separate shipment estimates project Nvidia will move 26,000 to 27,000 NVL72 equivalent cabinets in 2025.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117137192414040459",
+      "role": "source",
+      "authorHandle": "qq_timmy",
+      "url": "https://x.com/QQ_Timmy/status/2117137192414040459",
+      "tweetedAt": "2026-11-02T06:10:15.000Z",
+      "bestBit": "NVIDIA（ $NVDA）VR200 機櫃生產因 Midplane PCB 等零組件問題，較原訂時程延遲1至2個月，機櫃放量延至2026年第4季。",
+      "text": "〈NVIDIA VR200 機櫃延遲〉\n\n1、延遲獲得確認：圖示指出，NVIDIA（ $NVDA）VR200 機櫃生產因 Midplane PCB 等零組件問題，較原訂時程延遲1至2個月，機櫃放量延至2026年第4季。\n 2、市場看法轉變：原文表示，台灣供應鏈數月前已示警可能延遲，當時遭到質疑，如今已漸成共識。\n 3、機櫃出貨預估： 1）2025年 NVL72 等效機櫃約2.6萬至2.7萬櫃。 2）2026年約8.1萬至8.2萬櫃，2027年約9萬至9.1萬櫃。 3）鴻海（Hon Hai, https://t.co/4sx2EFy7f0）2027年 VR200 機櫃可望擴大市占。\n 4、VR200 延遲將使 Rubin 世代營收認列往後推移，並影響 PCB、機櫃組裝等台灣供應鏈2026年下半年的出貨節奏。",
+      "quotedTweetText": "A few months ago, some pushed back when Taiwanese flagged potential delays in the $NVDA VR rack supply chain.\n\nNow, that view seems to be becoming the consensus. https://t.co/tM02YxyGUU"
+    },
+    {
+      "tweetId": "2117094794421997848",
+      "role": "commentary",
+      "authorHandle": "aaronwei3n",
+      "url": "https://x.com/Aaronwei3n/status/2117094794421997848",
+      "tweetedAt": "2026-11-02T03:21:47.000Z",
+      "bestBit": "Victory Giant’s HDI PCB issues have become the latest bottleneck for VR. Last week’s V8 validation revealed an impedance mismatch, which severely degraded signal integrity (SI) for the high-speed interfaces",
+      "text": "A few months ago, some pushed back when Taiwanese flagged potential delays in the $NVDA VR rack supply chain.\n\nNow, that view seems to be becoming the consensus. https://t.co/tM02YxyGUU",
+      "quotedTweetText": "“Nvidia removed Kyber from its roadmap back in early May.”\n\n_\nSome Notes on $NVDA Rubin V – A Few Updates on PCBs\n\nhere are a few recent developments regarding VR (Virtual Rack) PCBs.\n\nVictory Giant’s HDI PCB issues have become the latest bottleneck for VR. Last week’s V8 validation revealed an impedance mismatch, which severely degraded signal integrity (SI) for the high-speed interfaces, exceeding Nvidia’s acceptable threshold. Victory Giant now has to go back and revise the design. If everything goes smoothly, the issue could be resolved by the end of July. Otherwise, if the root cause proves more serious, VR could face yet another delay (though perhaps few people still care at this point). As for whether competitors such as Unimicron or Zhen Ding will benefit, it’s still too early to tell. However, Dynamic Electronics is effectively out of the race following the V8 testing round.\n\nNvidia removed Kyber from its roadmap back in early May. One obvious reason is that the orthogonal backplane turned out to be extremely difficult to manufacture. However, this is not new information. More importantly, virtually no one on the Street had incorporated any meaningful Kyber revenue contribution into their financial models through 2028. Therefore, if the market is selling off AI-related names purely because of Kyber’s cancellation, it likely presents a buying opportunity. That said, stock market pullbacks don’t always require sophisticated explanations—after a strong rally, profit-taking alone is often reason enough.\n\nProduction outsourcing for lower-end products is accelerating, with capacity expected to reach roughly 50 machines by the end of this quarter. All newly deployed inspection systems are TM4 models, and the CCD-to-machine ratio has already reached 1:5, with the ratio continuing to decline. Each machine carries an ASP of approximately NT$10 million. Looking ahead, there are additional catalysts, including PCB routing equipment for optical modules and the planned spin-off of the semiconductor equipment business in the second half of this year, with a separate listing expected next year. It may be time to revisit the investment thesis."
+    }
+  ],
+  "isSuperseded": false
+}

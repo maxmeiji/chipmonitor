@@ -1,0 +1,139 @@
+{
+  "slug": "claude-duet-blocks-asset-moves-in-first-agent-research-preview-46dcbb93",
+  "title": "Claude Duet Blocks Asset Moves in First Agent Research Preview",
+  "publishedAt": "2026-10-22T06:57:02.814Z",
+  "eventTimeApprox": "2026-10-21T20:03:59.500Z",
+  "isFreshStory": false,
+  "tweetCount": 83,
+  "authorCount": 59,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112995753824301406/HVLgk6UaYAEOuf_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112995753824301406/HVLgk6UaYAEOuf_-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2112995559674146816/vid/avc1/2880x2160/Rbf9OPuxT5dVocEX.mp4?tag=29",
+    "credit": {
+      "handle": "stripe",
+      "tweetUrl": "https://x.com/stripe/status/2112995753824301406"
+    }
+  },
+  "summary": "Anthropic has prohibited its new AI tool from executing shifts of funds between bank accounts or trading in the stock market, even with explicit user permission. To manage the cost of the Opus 5.5 model, the app checks connected accounts every few hours instead of monitoring them in real-time, a limit designed to keep Pro and Max users from exhausting their plan quotas. Based on API pricing, six such checks per day would cost approximately $34 per month, exceeding the $20 subscription fee for Pro members.\n\nClaude Duet is available as a research preview for US subscribers via a waitlist and runs on a cloud virtual machine with a hidden browser. The system utilizes a safety classifier to reject requests to share government IDs or credit card numbers and integrates with Stripe Link for purchases and Shopify for store management. This launch places Anthropic in direct competition with other autonomous agent products including OpenAI's Dots and Meta's Muse.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112984664256241837",
+      "role": "source",
+      "authorHandle": "claudeai",
+      "url": "https://x.com/claudeai/status/2112984664256241837",
+      "tweetedAt": "2026-10-21T19:09:35.000Z",
+      "bestBit": "opening a research preview of Claude Duet, a new app where Claude works as a proactive agent",
+      "text": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf. https://t.co/kt8gAbWuX8"
+    },
+    {
+      "tweetId": "2112995753824301406",
+      "role": "support",
+      "authorHandle": "stripe",
+      "url": "https://x.com/stripe/status/2112995753824301406",
+      "tweetedAt": "2026-10-21T19:53:39.000Z",
+      "bestBit": "Issue refunds and understand business trends with the Stripe MCP",
+      "text": "We’re working with Anthropic to help you run your businesses inside Claude Duet.\n\n• Make purchases with @link \n• Issue refunds and understand business trends with the Stripe MCP https://t.co/F9DvSH9KVi",
+      "quotedTweetText": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf. https://t.co/kt8gAbWuX8"
+    },
+    {
+      "tweetId": "2113157337674646013",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2113157337674646013",
+      "tweetedAt": "2026-10-22T06:35:44.000Z",
+      "bestBit": "trading securities and moving money between accounts stay blocked even with approval",
+      "text": "Anthropic rolls out Claude Duet, a proactive agent application that takes on Meta’s Muse and OpenAI’s Dots\n\nAccess starts with US Pro and Max subscribers on a waitlist. \nwhat we know so far\n\n> Claude Duet checks connected accounts every few hours instead of continuously because constant checking would use up Pro and Max limits much faster, and those background checks draw on the same allowance as regular Claude chats.\n\n> Duet runs Claude Opus 5.5 on a cloud virtual machine with its own browser, but users can’t yet watch that browser, so they see results and approval prompts rather than each step.\n\n> at Opus 5.5’s API list price a hypothetical check reading 40K tokens and writing 1.5K tokens would cost about $0.19.\n6 such checks a day would come to about $34 a month at API rates, more than Pro’s $20 monthly price\n\n> Purchases need 2 separate approvals, with Duet confirming the item and Stripe’s Link wallet approving the spend, before Duet pays with a virtual card that keeps your real card number private.\n\n> Before Duet sends a message, makes a payment, signs a document or deletes anything, it shows exactly what it will do and waits for approval, yet trading securities and moving money between accounts stay blocked even with approval.\n\n> A new classifier and safety system prompt reject requests to share credit card numbers and government IDs, while health or personal-finance details go out only when the user explicitly tells Duet to send them.\n\n> Credential handling follows the Claude Managed Agents design, so Duet never directly sees passwords or sign-in tokens, and the auto mode classifier used in Claude Code screens its actions.\n\n https://t.co/L5VSYITqXH"
+    },
+    {
+      "tweetId": "2112986418503110772",
+      "role": "source",
+      "authorHandle": "mikeyk",
+      "url": "https://x.com/mikeyk/status/2112986418503110772",
+      "tweetedAt": "2026-10-21T19:16:34.000Z",
+      "bestBit": "drafted questions for a fireside chat, watched Slack over the weekend so I could log off",
+      "text": "We're opening Claude Duet today as a research preview, starting with a waitlist. It's our take on giving everyone a trusted partner with your work.\n\nI've been using it for a few weeks, at work and at home. It drafted questions for a fireside chat, watched Slack over the weekend so I could log off, and told me about the new @nealstephenson book — and then ordered it  from my local bookstore once I asked. \n\nWe've found Opus 5.5 was our first model with the judgment to be proactive in the right ways. Here's what that's looked like."
+    },
+    {
+      "tweetId": "2112988023868751933",
+      "role": "commentary",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2112988023868751933",
+      "tweetedAt": "2026-10-21T19:22:56.000Z",
+      "bestBit": "posting this right before Meta (Muse) earnings is cold blooded",
+      "text": "Duo! Duet! Too confusing!\n\nAlso, posting this right before Meta (Muse) earnings is cold blooded.",
+      "quotedTweetText": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf. https://t.co/kt8gAbWuX8"
+    },
+    {
+      "tweetId": "2112997559463506059",
+      "role": "commentary",
+      "authorHandle": "danshipper",
+      "url": "https://x.com/danshipper/status/2112997559463506059",
+      "tweetedAt": "2026-10-21T20:00:50.000Z",
+      "bestBit": "lives in its own app, separate from Claude, on iOS, Android, and the web",
+      "text": "BREAKING:\n\n@AnthropicAI just launched Duet, its always-on personal agent. It’s the first personal agent I’d call a pro tool.\n\nWe’ve been testing it for two weeks. I’ve gone from mostly using ChatGPT to roughly 50/50 between ChatGPT and Claude—the most time I’ve spent with Anthropic in close to a year.\n\n• It lives in its own app, separate from Claude, on iOS, Android, and the web. This makes it feel clean and easy to understand.\n• It has channels for specific areas of your work and life rather than just a single chat\n• It has a todo list so you never lose what you’re working on and you can always see statuses\n• It allows you to easily write and edit documents, slides, and more all through the app.\n• It’s not a chief of staff yet. It can see the Claude sessions on my computers but can’t direct them. Its email drafts are worse than dot’s, and voice is transcription only—you can’t have a spoken conversation with it.\n\nMy verdict: the vibes are good, and I’m opening Duet every day. It’s worth trying.\n\nCheck out our agent comparison page: https://t.co/fZyTorNK4p\n\nFull Vibe Check coming soon on @every"
+    },
+    {
+      "tweetId": "2112985163764466145",
+      "role": "commentary",
+      "authorHandle": "yuchenj_uw",
+      "url": "https://x.com/Yuchenj_UW/status/2112985163764466145",
+      "tweetedAt": "2026-10-21T19:11:35.000Z",
+      "bestBit": "I’ve installed 10 personal agent apps on my phone",
+      "text": "Claude Muse is coming.\n\ntbh I’ve installed 10 personal agent apps on my phone, can do 1 more.",
+      "quotedTweetText": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf. https://t.co/kt8gAbWuX8"
+    },
+    {
+      "tweetId": "2113007827736572035",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2113007827736572035",
+      "tweetedAt": "2026-10-21T20:41:38.000Z",
+      "bestBit": "the best personal agent is the one you can trust, not just the fastest one",
+      "text": "Anthropic just destroyed all proactive agent startups. \n\nThat's what you'll see on your timeline. \n\nThat couldn't be further from the truth.\n\nPersonal agents, unlike other agent types, will exist in different flavors and personalities. \n\nIt's nice that Claude Duet runs on Opus 5.5. \n\nUnlike other agent types, people will really think carefully about which personal agent to pick. Here, people think more carefully about trust, personality, intent understanding, continual learning, etc. The best personal agent is the one you can trust, not just the fastest one that gets the work done effectively. \n\nBut I think people will use multiple personal agents for different types of tasks/work. I think we are about to see an explosion of vertical personal agents. \n\nWhich one do I use? I am still testing a bunch of them (dots, Muse, and Grok Bot). But I have actually just built my own with Pi Durable. I like mine better because it is hyper-personalized to how I use personal agents.",
+      "quotedTweetText": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf. https://t.co/kt8gAbWuX8"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropics-claude-duet-adds-stripe-and-shopify-for-autonomous-purchases-96f1d181",
+    "title": "Anthropic's Claude Duet Adds Stripe and Shopify for Autonomous Purchases",
+    "publishedAt": "2026-10-21T20:25:08.489Z",
+    "eventTimeApprox": "2026-10-21T19:42:19.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 73,
+    "authorCount": 54
+  }
+}

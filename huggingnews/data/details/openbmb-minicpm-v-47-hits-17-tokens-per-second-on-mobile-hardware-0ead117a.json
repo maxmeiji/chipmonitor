@@ -1,0 +1,53 @@
+{
+  "slug": "openbmb-minicpm-v-47-hits-17-tokens-per-second-on-mobile-hardware-0ead117a",
+  "title": "OpenBMB MiniCPM-V 4.7 Hits 17 Tokens Per Second on Mobile Hardware",
+  "publishedAt": "2026-10-12T21:03:56.169Z",
+  "eventTimeApprox": "2026-10-12T17:38:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109694573408866351/HUckBXUbsAAbHdR-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109694573408866351/HUckBXUbsAAbHdR-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "openbmb",
+      "tweetUrl": "https://x.com/OpenBMB/status/2109694573408866351"
+    }
+  },
+  "summary": "The latest multimodal AI release from OpenBMB provides a 5x speed increase for local inference on high-end tablets. The MiniCPM-V 4.7 series, which consists of 35B-A3B and 1B models, utilizes a Lookahead Expert Scheduling technique to preload expert weights and reduce processing stalls. This architecture enables the 35B-A3B variant to reach 17 tokens per second on an iPad Pro M4 and 13 tokens per second on an iPhone 17 Pro Max while using only 3GB of memory.\n\nThe 35B-A3B model scored 90.4 on OCRBench, exceeding Qwen3.6 35B-A3B by 5.2 points even while using 16x hybrid visual token compression. OpenBMB validated the series across 34 benchmarks for STEM reasoning and long-video comprehension, providing day-0 adaptations for Apple, Intel, AMD, Arm, and Rockchip hardware. The models are available for download and deployment on GitHub and Hugging Face.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109694573408866351",
+      "role": "source",
+      "authorHandle": "openbmb",
+      "url": "https://x.com/OpenBMB/status/2109694573408866351",
+      "tweetedAt": "2026-10-12T17:15:57.000Z",
+      "bestBit": "achieve 17+ tokens/s on iPad Pro M4 (16GB) and 13+ tokens/s on iPhone 17 Pro Max, while costing only 3GB memory",
+      "text": "🚀 Introducing MiniCPM-V 4.7, our new open-source MLLM series!\nAdvancing the Performance–Efficiency Pareto Frontier.\nIt brings strong multimodal capabilities to iOS and Android devices with extreme efficiency.\nTwo new models: \n🔹 MiniCPM-V 4.7 35B-A3B — Bring SOTA performance to local devices with newly introduced LES (Lookahead Expert Scheduling) technique, a new milestone of on-device multimodal AI. \n🔹 MiniCPM-V 4.7 1B — Lightweight, efficient multimodal AI. Easier to deploy.\n\n⚡ What's new?\nSOTA performance: Competitive results across 34 benchmarks spanning multimodal understanding, STEM reasoning, OCR and long-video comprehension.\nFast on-device inference: LES predicts and preloads expert weights to reduce inference stalls, boosting 5× speedup on iPad Pro M4 (16GB) with byte-for-byte identical outputs. It enables MiniCPM-V 4.7 35B-A3B to achieve 17+ tokens/s on iPad Pro M4 (16GB) and 13+ tokens/s on iPhone 17 Pro Max, while costing only 3GB memory 🤯\nEfficient visual processing: 4× and 16× hybrid visual token compression. Even at 16× compression, 35B-A3B scores 90.4 on OCRBench, 5.2 points ahead of Qwen3.6 35B-A3B.\nEasier customization: We introduce Self-Replay Fine-Tuning, a simple way to customize new target  capabilities at low cost while maintaining general performance.\nBroad hardware support: Day-0 adaptations for Apple, Intel, AMD, Arm and Rockchip, with many more platforms supported through FlagOS!\n\nDownload, deploy, and build something we haven't imagined yet. 👀👇\n🔗 GitHub: https://t.co/msjm2QlrvX\n🤗 Hugging Face: https://t.co/W95QKGhymw"
+    }
+  ],
+  "isSuperseded": false
+}

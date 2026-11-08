@@ -1,0 +1,50 @@
+{
+  "slug": "wtf-algorithm-accelerates-rl-finetuning-50-to-100x-via-simulation-free-r-8a7b980b",
+  "title": "WTF Algorithm Accelerates RL Finetuning 50 to 100x via Simulation Free RL",
+  "publishedAt": "2026-10-14T21:53:23.293Z",
+  "eventTimeApprox": "2026-10-14T17:16:07.500Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "A new reward alignment method for flow-based generative models bypasses the need for backpropagation through rollouts by using a single function evaluation. The Wasserstein-Tilted Flow Maps (WTF) algorithm allows for simulation-free reinforcement learning and is 50 to 100 times faster than current state of the art finetuning approaches by replacing KL regularization with a transport-based alternative.\n\nThe research, a spotlight selection for the NeurIPS 2026 conference, addresses the computational expense of adjoint methods and the difficulty of sampling reward-tilted distributions. By redefining the problem using Wasserstein distance, the authors eliminated the need for the common practice of converting between flow and diffusion models during the alignment process.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110412722424983789",
+      "role": "source",
+      "authorHandle": "jrrhuang",
+      "url": "https://x.com/jrrhuang/status/2110412722424983789",
+      "tweetedAt": "2026-10-14T16:49:37.000Z",
+      "bestBit": "We show that flow maps enable simulation-free RL finetuning",
+      "text": "#NeurIPS2026 Spotlight\n\nRL for diffusion and flow models often requires expensive rollouts.\nWe show that flow maps enable simulation-free RL finetuning.\n\nIntroducing Wasserstein-Tilted Flow Maps (WTF)! 🤩\n\nThe key is a transport-based alternative to KL regularization. 🧵 https://t.co/LD5ahh6aPK"
+    },
+    {
+      "tweetId": "2110418004182024376",
+      "role": "analysis",
+      "authorHandle": "nmboffi",
+      "url": "https://x.com/nmboffi/status/2110418004182024376",
+      "tweetedAt": "2026-10-14T17:10:36.000Z",
+      "bestBit": "end-to-end finetuning algorithm that takes a flow map in, gives a flow map out, and is ~50-100x faster than current state of the art approaches",
+      "text": "i am extremely excited to announce our latest flow map finetuning algorithm: Wasserstein Tilted Flows (WTF?!)\n\nsomething i’ve been thinking about for a while now is the “right” way to formulate finetuning and reward alignment of flow-based generative models. two difficulties that arise repeatedly are 1) sampling the canonical “reward-tilted distribution” is really hard, and 2) basically all existing methods require backpropagation or adjoint methods through flow rollouts, which is prohibitively expensive\n\nthe core issue i’ve had with the reward tilt is that it arises from a geometry on the space of probability measures based on the KL divergence. this makes sense for stochastic processes such as diffusions, but for the deterministic flows we use in practice, this choice of geometry can be very awkward, leading state of the art methods to repeatedly convert back and forth between a flow and a diffusion\n\nhere we throw out this formulation entirely, redefining the reward alignment problem in terms of a carefully-chosen wasserstein distance. we show that that this leads to a deterministic optimal control problem, which we can solve rapidly via reinforcement learning in a simulation-free by way leveraging the underlying flow map. critically, using the flow map avoids backpropagation through rollouts, replacing them by a single function evaluation.\n\nby adapting both the flow map and its underlying flow together online, we obtain an end-to-end finetuning algorithm that takes a flow map in, gives a flow map out, and is ~50-100x faster than current state of the art approaches\n\nsuper proud of my students for their hard work on this one — check it out!",
+      "quotedTweetText": "#NeurIPS2026 Spotlight\n\nRL for diffusion and flow models often requires expensive rollouts.\nWe show that flow maps enable simulation-free RL finetuning.\n\nIntroducing Wasserstein-Tilted Flow Maps (WTF)! 🤩\n\nThe key is a transport-based alternative to KL regularization. 🧵 https://t.co/LD5ahh6aPK"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "hone-raises-60m-to-launch-ai-that-owns-business-outcomes-fd87bd73",
+  "title": "Hone Raises $60M to Launch AI That Owns Business Outcomes",
+  "publishedAt": "2026-10-08T18:24:11.846Z",
+  "eventTimeApprox": "2026-10-08T16:48:44.500Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "The startup's newly released 'Engines' are autonomous AI systems that operate over extended periods to hit specific financial targets for global enterprises. Hone secured $60M in seed funding at a $285M valuation to develop the technology, with the round led by Benchmark and Index and supported by investors including Elad Gil and Lux. Unlike typical AI agents that perform discrete tasks, these systems manage end-to-end business functions and are measured by actual dollar value created rather than token usage.\n\nFounded by Moritz Stephan, formerly of Cognition, the company is currently hiring product and systems engineers. Early customers have used Engines to identify millions in procurement savings, optimize product funnels, and manage credit risk. The AI is designed to onboard itself by building necessary skills and memories while collaborating with human personnel to refine its performance through experience.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108218574926176490",
+      "role": "source",
+      "authorHandle": "hone",
+      "url": "https://x.com/hone/status/2108218574926176490",
+      "tweetedAt": "2026-10-08T15:30:51.000Z",
+      "bestBit": "raised a $60M seed led by Benchmark and Index with participation from Elad Gil, Hanabi, Definition, Diffusion, Lux, SV Angel, and Align",
+      "text": "Today Hone launches Engines: AI that owns business outcomes.\n\nChatbots give answers. Agents do tasks. Engines deliver outcomes, and we hold them responsible for creating real value, measured in actual dollars instead of tokens or vibes.\n\nYou point it at a business metric, and the Engine figures out the rest. It onboards itself, builds the necessary agents, skills, and memories, collaborates with the right people, and gets better with experience.\n\nFrom AI leaders to global enterprises, our customers have already used Engines to:\n\n• Uncover millions in procurement savings\n• Optimize product funnels\n• Manage credit risk\n• Increase qualified pipeline in new territories\n• Accelerate implementations and improve account management\n\nTo scale this impact across the economy, we’ve raised a $60M seed led by Benchmark and Index with participation from Elad Gil, Hanabi, Definition, Diffusion, Lux, SV Angel, and Align.\n\nAI’s raw capabilities are far ahead of the value it creates in the real world, and Engines will help close the gap.\n\nHere’s how they work…"
+    },
+    {
+      "tweetId": "2108258215209193716",
+      "role": "support",
+      "authorHandle": "bloombergtv",
+      "url": "https://x.com/BloombergTV/status/2108258215209193716",
+      "tweetedAt": "2026-10-08T18:08:22.000Z",
+      "bestBit": "raised $60 million at a $285 million valuation to build AI systems that can take responsibility for entire business functions",
+      "text": "What if an AI agent didn’t just complete a task, but owned the outcome? Hone has raised $60 million at a $285 million valuation to build AI systems that can take responsibility for entire business functions, operating for weeks or months with human supervision https://t.co/SHYYXWsMeO"
+    },
+    {
+      "tweetId": "2108255040724934660",
+      "role": "support",
+      "authorHandle": "katie_haun",
+      "url": "https://x.com/katie_haun/status/2108255040724934660",
+      "tweetedAt": "2026-10-08T17:55:45.000Z",
+      "bestBit": "they are hiring product and systems engineers",
+      "text": "I met @moritz_stephan when he was working at Cognition. It was clear he is a special builder, and he’s since assembled a team @hone that’s every bit as impressive as he is. I feel fortunate to be backing Hone at the starting line. The caliber of people choosing to build together here says a lot about how special this opportunity is. If you want to be a part of it, they are hiring product and systems engineers. Learn more here: https://t.co/ZSwoaGvMZx",
+      "quotedTweetText": "Today Hone launches Engines: AI that owns business outcomes.\n\nChatbots give answers. Agents do tasks. Engines deliver outcomes, and we hold them responsible for creating real value, measured in actual dollars instead of tokens or vibes.\n\nYou point it at a business metric, and the Engine figures out the rest. It onboards itself, builds the necessary agents, skills, and memories, collaborates with the right people, and gets better with experience.\n\nFrom AI leaders to global enterprises, our customers have already used Engines to:\n\n• Uncover millions in procurement savings\n• Optimize product funnels\n• Manage credit risk\n• Increase qualified pipeline in new territories\n• Accelerate implementations and improve account management\n\nTo scale this impact across the economy, we’ve raised a $60M seed led by Benchmark and Index with participation from Elad Gil, Hanabi, Definition, Diffusion, Lux, SV Angel, and Align.\n\nAI’s raw capabilities are far ahead of the value it creates in the real world, and Engines will help close the gap.\n\nHere’s how they work…"
+    }
+  ],
+  "isSuperseded": false
+}

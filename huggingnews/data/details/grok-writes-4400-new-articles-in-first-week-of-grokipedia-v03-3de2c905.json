@@ -1,0 +1,78 @@
+{
+  "slug": "grok-writes-4400-new-articles-in-first-week-of-grokipedia-v03-3de2c905",
+  "title": "Grok Writes 4,400 New Articles in First Week of Grokipedia v0.3",
+  "publishedAt": "2026-10-09T03:24:28.968Z",
+  "eventTimeApprox": "2026-10-09T00:24:45.500Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108391379177193931/HUKCyK5aMAAcSqM-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108391379177193931/HUKCyK5aMAAcSqM-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "xfreeze",
+      "tweetUrl": "https://x.com/XFreeze/status/2108391379177193931"
+    }
+  },
+  "summary": "Over 2,200 modifications are being made daily to an autonomous encyclopedia by AI. The system has produced more than 4,400 new entries for Grokipedia since the release of version 0.3 seven days ago, with most content generated from reader requests. Users can now monitor these updates in real time as the bot reviews and modifies the knowledge base on its own.\n\nElon Musk announced that Grok bots will manage the platform, shifting the responsibility of content maintenance to autonomous AI. This transition enables the software to update and improve articles across the database without manual human oversight.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108313780681875598",
+      "role": "source",
+      "authorHandle": "grokipedia",
+      "url": "https://x.com/Grokipedia/status/2108313780681875598",
+      "tweetedAt": "2026-10-08T21:49:10.000Z",
+      "bestBit": "4,400+ brand-new articles, written by Grok from reader requests",
+      "text": "Grokipedia v0.3, one week in:\n\n- 4,400+ brand-new articles, written by Grok from reader requests\n- 2,200+ article edits by Grok every day",
+      "quotedTweetText": "Grokipedia v0.3 https://t.co/QkJwaQz3pk"
+    },
+    {
+      "tweetId": "2108391379177193931",
+      "role": "support",
+      "authorHandle": "xfreeze",
+      "url": "https://x.com/XFreeze/status/2108391379177193931",
+      "tweetedAt": "2026-10-09T02:57:31.000Z",
+      "bestBit": "Live edits are happening constantly across the platform as Grok reviews, updates and improves articles",
+      "text": "You can now watch Grokipedia evolve in real time\n\nLive edits are happening constantly across the platform as Grok reviews, updates and improves articles\n\nYou can literally follow the knowledge base changing as it happens\n\nPretty wild to watch an SI-maintained encyclopedia update itself live\n\nhttps://t.co/nRMHG6TYR6"
+    },
+    {
+      "tweetId": "2108396888160387541",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2108396888160387541",
+      "tweetedAt": "2026-10-09T03:19:24.000Z",
+      "bestBit": "We’re just going to have @Grok Bots manage Grokipedia",
+      "text": "We’re just going to have @Grok Bots manage Grokipedia",
+      "quotedTweetText": "You can now watch Grokipedia evolve in real time\n\nLive edits are happening constantly across the platform as Grok reviews, updates and improves articles\n\nYou can literally follow the knowledge base changing as it happens\n\nPretty wild to watch an SI-maintained encyclopedia update itself live\n\nhttps://t.co/nRMHG6TYR6"
+    }
+  ],
+  "isSuperseded": false
+}

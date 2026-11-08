@@ -1,0 +1,59 @@
+{
+  "slug": "perplexity-introduces-teammates-ai-agents-for-work-tasks-c2de4ecd",
+  "title": "Perplexity Introduces Teammates AI Agents for Work Tasks",
+  "publishedAt": "2026-11-05T17:22:58.824Z",
+  "eventTimeApprox": "2026-11-05T17:04:34.500Z",
+  "isFreshStory": false,
+  "tweetCount": 20,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:PPLX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Perplexity AI",
+      "hubKey": "perplexity-ai"
+    }
+  ],
+  "summary": "The AI search company has launched a new suite of personal assistants called Teammates that allows users on its Max plan to manage work tasks by setting broad goals rather than writing specific prompts for every interaction. The tools, which are currently available on the web, are designed to execute jobs proactively using a combination of internal skills, memory, and computer tasks.\n\nThe new agents can coordinate with one another and send messages to coworkers through Slack to complete assignments. Perplexity said it will bring the service to native mobile and desktop applications in a future update.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118388400730591469",
+      "role": "source",
+      "authorHandle": "aravsrinivas",
+      "url": "https://x.com/AravSrinivas/status/2118388400730591469",
+      "tweetedAt": "2026-11-05T17:02:07.000Z",
+      "bestBit": "change the paradigm from writing prompts in a session to giving high-level goals",
+      "text": "Today, we're launching Perplexity Teammates. \nThey are personal agents for work. And change the paradigm from writing prompts in a session to giving high-level goals. Rolling out to Max users on the web today. Native apps (mobile, desktop) coming soon. https://t.co/dmYIuw52Yb"
+    },
+    {
+      "tweetId": "2118389326459670825",
+      "role": "source",
+      "authorHandle": "perplexity_ai",
+      "url": "https://x.com/perplexity_ai/status/2118389326459670825",
+      "tweetedAt": "2026-11-05T17:05:47.000Z",
+      "bestBit": "Teammates collaborate with other teammates and can message coworkers in Slack",
+      "text": "Introducing teammates.\n\nTeammates work for you. They take on jobs, and work proactively using your Computer tasks, skills, memory, and tools. Teammates collaborate with other teammates and can message coworkers in Slack.\n\nAvailable now for Max subscribers on the web. https://t.co/I3Hf5RCdWC"
+    }
+  ],
+  "isSuperseded": false
+}

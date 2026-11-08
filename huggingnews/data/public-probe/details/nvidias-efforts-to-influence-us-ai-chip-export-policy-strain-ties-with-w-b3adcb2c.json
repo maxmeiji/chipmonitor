@@ -1,0 +1,112 @@
+{
+  "slug": "nvidias-efforts-to-influence-us-ai-chip-export-policy-strain-ties-with-w-b3adcb2c",
+  "title": "Nvidia’s Efforts to Influence US AI Chip Export Policy Strain Ties With Washington",
+  "publishedAt": "2026-11-05T16:39:26.182Z",
+  "eventTimeApprox": "2026-11-03T19:46:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "tech",
+    "geopolitics",
+    "ai",
+    "us-politics",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-foreign-policy",
+      "name": "US Foreign Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Nvidia is facing a decline in credibility among U.S. policymakers over its efforts to secure looser export controls on AI chips bound for China. Chris McGuire, a senior fellow at the Council on Foreign Relations, stated that the chipmaker created mistrust in Washington by exaggerating the technical capabilities of China's domestic AI hardware. This friction comes as congressional patience wanes and debates over chip restrictions are set to resume.\n\nThe company's influence campaign included funding the Center for Strategic and International Studies (CSIS) and coordinating on policy reports that were not labeled as sponsored. Nvidia also leveraged its relationship with OpenAI, which may have softened its opposition to China exports to avoid upsetting CEO Jensen Huang and to protect a deal in which Nvidia guaranteed more than $100 billion in leases for OpenAI’s Ohio data center. While OpenAI has historically avoided challenging Nvidia's sales to China, the firm has more recently explicitly endorsed certain export controls.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117664529316278655",
+      "role": "source",
+      "authorHandle": "leomschwartz",
+      "url": "https://x.com/leomschwartz/status/2117664529316278655",
+      "tweetedAt": "2026-11-03T17:05:42.000Z",
+      "bestBit": "Thinning patience in Congress with Nvidia as export control debates pick back up",
+      "text": "New: Our deep dive into Nvidia's sharp-elbowed tactics in Washington to exert influence over companies, think tanks and government offices. \n\nLots of new details into:\n- Nvidia's impact on OpenAI's export control positions\n- Nvidia's battles with China hawks at top think tanks\n- Thinning patience in Congress with Nvidia as export control debates pick back up\n\nYou can read it all here: https://t.co/x357KgdlYY\n\nW/ @_pheebini, @steph_palazzolo, @jemimacmcevoy, and @Jessicalessin"
+    },
+    {
+      "tweetId": "2117666563327193479",
+      "role": "commentary",
+      "authorHandle": "niubi",
+      "url": "https://x.com/niubi/status/2117666563327193479",
+      "tweetedAt": "2026-11-03T17:13:47.000Z",
+      "bestBit": "Nvidia became a major donor to CSIS and coordinated with the think tank on specific policy reports not labeled as sponsored",
+      "text": "full story not yet been told - \"Nvidia tangled with think tanks before Trump’s return to the White House. In 2023, several people familiar with the discussions said Nvidia had tried to use its influence—including funding—to sideline Greg Allen, then director of the AI policy arm of the Center for Strategic and International Studies, an influential think tank focused on national security and geopolitics. Allen staunchly supports chip export controls.\n\nOne of those people said Nvidia became a major donor to CSIS and coordinated with the think tank on specific policy reports not labeled as sponsored. CSIS did not ultimately fire Allen; he left the think tank earlier this year. \"",
+      "quotedTweetText": "\"Chris McGuire, a senior fellow for China and emerging technologies at the Council on Foreign Relations, said Nvidia has created mistrust among policymakers by exaggerating the capabilities of China’s homegrown AI chips as it seeks looser export controls...as policymakers in the administration and on the Hill have come to realize that Nvidia’s assertions about China’s AI chip capabilities are not fully accurate, it has caused Nvidia to lose credibility in Washington\" https://t.co/3TP1JyfLUk"
+    },
+    {
+      "tweetId": "2117753796671451442",
+      "role": "support",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2117753796671451442",
+      "tweetedAt": "2026-11-03T23:00:25.000Z",
+      "bestBit": "We've maybe softened some of our stances on export controls, maybe for fear of angering Nvidia and specifically its CEO, Jensen Huang.",
+      "text": "OpenAI may have softened its stance on advanced AI chip exports to China over concerns about angering Nvidia.\n\nThe Information's @_pheebini discusses internal questions about OpenAI's export control policy and the company's relationship with Nvidia CEO Jensen Huang.\n\n“We've maybe softened some of our stances on export controls, maybe for fear of angering Nvidia and specifically its CEO, Jensen Huang.”\n\nFull story: https://t.co/gMnSwW4vWH"
+    },
+    {
+      "tweetId": "2118378563946623183",
+      "role": "commentary",
+      "authorHandle": "_nathancalvin",
+      "url": "https://x.com/_NathanCalvin/status/2118378563946623183",
+      "tweetedAt": "2026-11-05T16:23:01.000Z",
+      "bestBit": "OpenAI explicitly endorsing export controls, including on SME, here",
+      "text": "notable",
+      "quotedTweetText": "OpenAI explicitly endorsing export controls, including on SME, here"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-curbs-opposition-to-china-chip-exports-to-protect-100b-nvidia-lea-a34ac4a4",
+    "title": "OpenAI Curbs Opposition to China Chip Exports to Protect $100B Nvidia Lease Deal",
+    "publishedAt": "2026-11-04T00:38:48.039Z",
+    "eventTimeApprox": "2026-11-03T19:17:20.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "business",
+      "geopolitics",
+      "us-politics"
+    ],
+    "tweetCount": 15,
+    "authorCount": 12
+  }
+}

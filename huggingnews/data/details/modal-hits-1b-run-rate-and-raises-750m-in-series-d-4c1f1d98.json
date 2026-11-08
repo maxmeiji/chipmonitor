@@ -1,0 +1,65 @@
+{
+  "slug": "modal-hits-1b-run-rate-and-raises-750m-in-series-d-4c1f1d98",
+  "title": "Modal Hits $1B Run Rate and Raises $750M in Series D",
+  "publishedAt": "2026-10-14T15:09:56.193Z",
+  "eventTimeApprox": "2026-10-14T14:39:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 29,
+  "authorCount": 26,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:MODL",
+      "kind": "private",
+      "role": "subject",
+      "name": "Modal Labs",
+      "hubKey": "modal-labs"
+    }
+  ],
+  "summary": "The investment firm Accel spearheaded a fresh capital injection for Modal that brings the startup's total funding to $1.2B. This Series D round of $750M values the AI infrastructure provider at $15.75B post-money, and the company simultaneously announced it has crossed $1B in annualized run rate, indicating rapid revenue growth for its compute platform.\n\nModal has grown its scale more than 15x year-over-year, and usage of the platform has tripled since its previous Series C funding round. This expansion is driven by an increasing number of developers and enterprises using the startup's tools to build and deploy AI software.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110379972502139213",
+      "role": "source",
+      "authorHandle": "modal",
+      "url": "https://x.com/modal/status/2110379972502139213",
+      "tweetedAt": "2026-10-14T14:39:29.000Z",
+      "bestBit": "usage has tripled and we’ve grown more than 15x year-over-year",
+      "text": "Today we're announcing that Modal has crossed $1B in annualized run rate, as well as raised a $750M Series D at a $15.75B valuation, led by @Accel.\n\nSince our Series C, usage has tripled and we’ve grown more than 15x year-over-year.\n\nWe are deeply grateful to the developers and companies building on Modal. There's still so much more to build, and we can't think of a better time to be building software.",
+      "quotedTweetText": "https://t.co/nByTwj2JPX"
+    },
+    {
+      "tweetId": "2110381748358090956",
+      "role": "engagement",
+      "authorHandle": "aaazzam",
+      "url": "https://x.com/AAAzzam/status/2110381748358090956",
+      "tweetedAt": "2026-10-14T14:46:32.000Z",
+      "bestBit": "Move over unit disk, 𝔻 is for 𝔻elighting our users.",
+      "text": "Move over unit disk, 𝔻 is for 𝔻elighting our users.",
+      "quotedTweetText": "Today we're announcing that Modal has crossed $1B in annualized run rate, as well as raised a $750M Series D at a $15.75B valuation, led by @Accel.\n\nSince our Series C, usage has tripled and we’ve grown more than 15x year-over-year.\n\nWe are deeply grateful to the developers and companies building on Modal. There's still so much more to build, and we can't think of a better time to be building software."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "microsofts-brad-smith-urges-global-ai-rules-to-equal-milk-standards-4072405c",
+  "title": "Microsoft's Brad Smith Urges Global AI Rules to Equal Milk Standards",
+  "publishedAt": "2026-10-12T11:09:53.659Z",
+  "eventTimeApprox": "2026-10-12T10:40:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "Emergency kill switches should be integrated into artificial intelligence to shut down systems that escape human control, Microsoft President Brad Smith stated. Smith is advocating for the establishment of global safety standards and the implementation of mandatory independent testing for all AI systems before they are released to the public.\n\nSmith described the technology as both a \"tool and a weapon,\" arguing that AI currently faces fewer safety regulations than washing machines or milk. He warned that increasingly powerful AI agents threaten global cybersecurity and asserted that voluntary agreements among technology companies are no longer sufficient to mitigate the risks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109532026307006918",
+      "role": "source",
+      "authorHandle": "bbcworld",
+      "url": "https://x.com/BBCWorld/status/2109532026307006918",
+      "tweetedAt": "2026-10-12T06:30:02.000Z",
+      "bestBit": "AI is less regulated than milk, says Microsoft president",
+      "text": "AI is less regulated than milk, says Microsoft president https://t.co/RQ5kSNOdTe"
+    },
+    {
+      "tweetId": "2109594929471332374",
+      "role": "support",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2109594929471332374",
+      "tweetedAt": "2026-10-12T10:40:00.000Z",
+      "bestBit": "urged companies to introduce emergency 'kill switches' to shut down AI systems that escape human control",
+      "text": "🇺🇸 Microsoft President Brad Smith says AI faces fewer safety regulations than milk and washing machines.\n\nSmith described AI as both a \"tool and a weapon,\" calling for global safety standards and independent testing of AI systems before their release.\n\nHe also urged companies to introduce emergency \"kill switches\" to shut down AI systems that escape human control.\n\nSmith is warning that increasingly powerful AI agents will threaten global cybersecurity, arguing that voluntary agreements between tech companies are no longer sufficient to address the risks.\n\nSource: CARE / Writer: Mhedi"
+    }
+  ],
+  "isSuperseded": false
+}

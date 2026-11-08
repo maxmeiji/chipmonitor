@@ -1,0 +1,72 @@
+{
+  "slug": "sweden-blocks-chatgpt-and-claude-on-government-staff-computers-046d7527",
+  "title": "Sweden Blocks ChatGPT and Claude on Government Staff Computers",
+  "publishedAt": "2026-10-25T12:53:21.789Z",
+  "eventTimeApprox": "2026-10-25T11:26:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "europe",
+      "name": "Europe"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "The Swedish state’s digitalisation director confirmed that several generative AI services will be unavailable on official computers starting Oct. 26. The block affects tools including ChatGPT and Claude, though the government noted that some employees will still be able to access those services through a separate internal AI platform.\n\nMicrosoft Copilot remains the only approved AI tool for government staff, with the state tightening its security settings following a recent review. Officials cited information security risks associated with using AI services that lack formal contracts, noting that the Swedish Tax Agency has already implemented similar blocks and the government has already restricted China's DeepSeek.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114336259564798413",
+      "role": "source",
+      "authorHandle": "coinbureau",
+      "url": "https://x.com/coinbureau/status/2114336259564798413",
+      "tweetedAt": "2026-10-25T12:40:21.000Z",
+      "bestBit": "The government’s digitalisation director said using AI services without a contract could have consequences for information security.",
+      "text": "🇸🇪 TOMORROW: Sweden’s government officially blocks ChatGPT and Claude on staff computers.\n\nIn an email to SVT, the government confirmed the block takes effect October 26.\n\nStaff are being directed to Microsoft’s Copilot instead, an approved tool whose security the government tightened after a review.\n\nThe government’s digitalisation director said using AI services without a contract could have consequences for information security.\n\nSome staff will still reach ChatGPT and Claude through a separate internal AI platform.\n\nSweden’s Tax Agency has already brought in similar blocks.\n\nThe government had already restricted China’s DeepSeek, per Sveriges Radio."
+    }
+  ],
+  "isSuperseded": false
+}

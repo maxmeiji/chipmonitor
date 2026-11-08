@@ -1,0 +1,79 @@
+{
+  "slug": "nvidia-vera-rubin-nvl72-cuts-gpu-needs-for-large-ai-model-training-by-75-9891d6da",
+  "title": "Nvidia Vera Rubin NVL72 Cuts GPU Needs for Large AI Model Training by 75%",
+  "publishedAt": "2026-10-26T16:22:44.518Z",
+  "eventTimeApprox": "2026-10-26T13:45:17.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114661564011925640/HVjI4n7a0AAQVmV-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114661564011925640/HVjI4n7a0AAQVmV-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2114661564011925640"
+    }
+  },
+  "summary": "The Vera Rubin NVL72 is capable of training a 10T-parameter mixture-of-experts AI model on 100T tokens in one month using approximately 16,000 GPUs. The same process requires 64,000 GB200 GPUs under the current Grace Blackwell architecture.\n\nThe new chips are expected to be more expensive than previous generations, but the efficiency gains will accelerate the development of massive AI models. Some observers have criticized the performance data charts provided by the company as misleading.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114661564011925640",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2114661564011925640",
+      "tweetedAt": "2026-10-26T10:13:00.000Z",
+      "bestBit": "Training a 10T-parameter model on 100T tokens in one month would just require roughly 16,000 Rubin GPUs, compared with 64,000 GB200 GPUs.",
+      "text": "NVIDIA's Vera Rubin NVL72 could train large mixture-of-experts AI models using 75% fewer GPUs than Grace Blackwell.\n\nTraining a 10T-parameter model on 100T tokens in one month would just require roughly 16,000 Rubin GPUs, compared with 64,000 GB200 GPUs. https://t.co/W6Wf8mTsHT"
+    },
+    {
+      "tweetId": "2114714990259134494",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2114714990259134494",
+      "tweetedAt": "2026-10-26T13:45:17.000Z",
+      "bestBit": "Vera Rubins will be more expensive, too",
+      "text": "Makes sense\nof course, 10T @ 100T tokens is a bit of a waste\nAnd Vera Rubins will be more expensive, too\nBut the point is, this will accelerate the development A LOT",
+      "quotedTweetText": "NVIDIA's Vera Rubin NVL72 could train large mixture-of-experts AI models using 75% fewer GPUs than Grace Blackwell.\n\nTraining a 10T-parameter model on 100T tokens in one month would just require roughly 16,000 Rubin GPUs, compared with 64,000 GB200 GPUs. https://t.co/W6Wf8mTsHT"
+    },
+    {
+      "tweetId": "2114749945458917528",
+      "role": "commentary",
+      "authorHandle": "frontier_foid",
+      "url": "https://x.com/frontier_foid/status/2114749945458917528",
+      "tweetedAt": "2026-10-26T16:04:11.000Z",
+      "bestBit": "nvidia stuns again with the chart crimes 😢",
+      "text": "nvidia stuns again with the chart crimes 😭",
+      "quotedTweetText": "NVIDIA's Vera Rubin NVL72 could train large mixture-of-experts AI models using 75% fewer GPUs than Grace Blackwell.\n\nTraining a 10T-parameter model on 100T tokens in one month would just require roughly 16,000 Rubin GPUs, compared with 64,000 GB200 GPUs. https://t.co/W6Wf8mTsHT"
+    }
+  ],
+  "isSuperseded": false
+}

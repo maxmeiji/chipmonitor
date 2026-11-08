@@ -1,0 +1,122 @@
+{
+  "slug": "robinhood-expands-tokenized-stock-trading-to-more-than-120-countries-a7f03e45",
+  "title": "Robinhood Expands Tokenized Stock Trading to More Than 120 Countries",
+  "publishedAt": "2026-10-27T16:41:43.814Z",
+  "eventTimeApprox": "2026-10-27T00:06:52.500Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "crypto",
+    "ai"
+  ],
+  "primaryRoutingTopic": "crypto",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "HOOD",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Robinhood Markets, Inc. Class A Common Stock",
+      "hubKey": "hood"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114866482064527483/HVmDsNLWoAA-t71-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114866482064527483/HVmDsNLWoAA-t71-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "patfscott",
+      "tweetUrl": "https://x.com/patfscott/status/2114866482064527483"
+    }
+  },
+  "summary": "CEO Vlad Tenev told the 'Sources' podcast that the shift to tokenize equities is a permanent development in the financial industry and is not reversible. Tenev argued that letting users trade stock tokens, which generally lack voting rights, allows companies to attract fresh capital from a global pool of investors. The retail broker also noted that more than 100,000 customers have already begun using its AI agent for automated trading.\n\nThe remarks follow a public campaign against stock tokenization, highlighted by a full-page advertisement in the Wall Street Journal. Ahead of Robinhood's Oct. 27 earnings call, data suggests its Robinhood Chain earned more than $40M in revenue and handled $85B in decentralized exchange volume last quarter. Tokenized assets on the network total more than $330M, with $130M in those holdings consisting of equities.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115103757880918165",
+      "role": "source",
+      "authorHandle": "grewbatiko",
+      "url": "https://x.com/GrewBatiko/status/2115103757880918165",
+      "tweetedAt": "2026-10-27T15:30:07.000Z",
+      "bestBit": "stock tokens are live in 120+ countries. his pitch to issuers: it \"creates net new buying of their stock from a global market.\"",
+      "text": "@vladtenev sat down with @alexeheath on Sources two weeks before @RobinhoodApp reports tonight. 3 lines that stuck with me:\n\n1. on stock tokens with no voting rights: \"the cat's out of the bag. this is not reversible.\"\n\n2. stock tokens are live in 120+ countries. his pitch to issuers: it \"creates net new buying of their stock from a global market.\"\n\n3. 100,000+ customers already onboarded to robinhood's ai agent trading.\n\nwhat i'm watching on tonight's call:\n- does robinhood chain get its own line, or stay a footnote\n- stock token count and volume, vs ~200 tokens he cited last month\n- a real usage number for agent trading\n\nwhat would you ask vlad?\n\nhttps://t.co/AlPf7vrgAs",
+      "quotedTweetText": "Robinhood’s CEO on letting AI trade your money\n\n@vladtenev on Robinhood’s new agent bet and the AI ownership inequality problem.\n\nRobinhood wants to put an AI hedge fund in your pocket. CEO Vlad Tenev tells me how Robinhood Agents brings AI trading into the app, and why he expects agents to generate a growing share of individual investors’ trading activity.\n\nWe discuss how much control to give an AI that can trade your money, why Robinhood keeps agents in separate accounts, and where investors will find an edge when everyone has access to powerful models. He also explains his push for every Robinhood employee to have agents working while they sleep.\n\nTenev argues that the AI backlash is partly an ownership problem: most people can’t invest in the companies driving it. We get into Robinhood’s push to open private markets to everyday investors, the coming AI IPOs, and his response to criticism of tokenized stocks. We also discuss prediction markets and why he objects to AI labs keeping their most powerful tools to themselves.\n\nTimestamps:\n03:06 Making AI trading accessible\n06:10 Trading safeguards and approvals\n09:02 The future of AI trading\n14:52 Finding an edge with AI\n23:15 How Vlad uses agents\n27:13 AI inequality and retail access\n35:40 Robinhood's IPO ambitions\n38:23 Markets, inflation and AI\n41:28 Ownership and Trump accounts\n44:42 Why tokenize stocks?\n52:17 The future of prediction markets\n55:40 Who should control AI?\n\nSpotify: https://t.co/YlnaaF4N58\nYouTube: https://t.co/QgGlpMpFmg\nSubstack: https://t.co/ibasMcJf33\nApple Podcasts:\nhttps://t.co/BvJ3oJEOS6\n\nThanks to the show’s premiere sponsors: @Atlassian, @meetgranola, and @mercury."
+    },
+    {
+      "tweetId": "2114866482064527483",
+      "role": "source",
+      "authorHandle": "patfscott",
+      "url": "https://x.com/patfscott/status/2114866482064527483",
+      "tweetedAt": "2026-10-26T23:47:16.000Z",
+      "bestBit": "$40M+ in revenue earned by the chain last quarter... $330M+ in tokenized assets, $130M of which are equities.",
+      "text": "Some stats about Robinhood Chain for their earnings call tomorrow:\n\n$40M+ in revenue earned by the chain last quarter.\n$85B+ in DEX volume.\n$1.05B in stablecoins, although this has plateaued since early September.\n$330M+ in tokenized assets, $130M of which are equities. https://t.co/J6Ur2oz4AG"
+    },
+    {
+      "tweetId": "2114753507127709833",
+      "role": "commentary",
+      "authorHandle": "tyler_did_it",
+      "url": "https://x.com/Tyler_Did_It/status/2114753507127709833",
+      "tweetedAt": "2026-10-26T16:18:20.000Z",
+      "bestBit": "WSJ published a big piece on it",
+      "text": "Surprised this isn't being talked about more on CT\n\nThere is an active war going on against tokenized stocks, one of crypto's primary growth sectors.\n\nWill be curious what Vlad has to say about it on tomorrow's HOOD earnings call",
+      "quotedTweetText": "Full page ad in WSJ against tokenized equities: https://t.co/4X8mfDV80i"
+    },
+    {
+      "tweetId": "2114876353694605770",
+      "role": "commentary",
+      "authorHandle": "farokh",
+      "url": "https://x.com/farokh/status/2114876353694605770",
+      "tweetedAt": "2026-10-27T00:26:29.000Z",
+      "bestBit": "Robinhood Chain is dead",
+      "text": "\"Robinhood Chain is dead\"",
+      "quotedTweetText": "Some stats about Robinhood Chain for their earnings call tomorrow:\n\n$40M+ in revenue earned by the chain last quarter.\n$85B+ in DEX volume.\n$1.05B in stablecoins, although this has plateaued since early September.\n$330M+ in tokenized assets, $130M of which are equities. https://t.co/J6Ur2oz4AG"
+    },
+    {
+      "tweetId": "2114891878806258089",
+      "role": "commentary",
+      "authorHandle": "gmoneynft",
+      "url": "https://x.com/gmoneyNFT/status/2114891878806258089",
+      "tweetedAt": "2026-10-27T01:28:11.000Z",
+      "bestBit": "Analysts on the call tomorrow: and how’s that trend doing in October?",
+      "text": "Analysts on the call tomorrow:  and how’s that trend doing in October? https://t.co/fkkkSb2Bf9",
+      "quotedTweetText": "Some stats about Robinhood Chain for their earnings call tomorrow:\n\n$40M+ in revenue earned by the chain last quarter.\n$85B+ in DEX volume.\n$1.05B in stablecoins, although this has plateaued since early September.\n$330M+ in tokenized assets, $130M of which are equities. https://t.co/J6Ur2oz4AG"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "tokenized-equities-targeted-by-full-page-wall-street-journal-advertiseme-66617310",
+    "title": "Tokenized Equities Targeted by Full-Page Wall Street Journal Advertisement",
+    "publishedAt": "2026-10-26T18:24:21.205Z",
+    "eventTimeApprox": "2026-10-26T16:18:20.000Z",
+    "routingTopicKeys": [
+      "crypto"
+    ],
+    "tweetCount": 6,
+    "authorCount": 6
+  }
+}

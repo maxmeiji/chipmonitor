@@ -1,0 +1,112 @@
+{
+  "slug": "elon-musk-estimates-total-cost-of-1-trillion-for-teslas-terafab-ai-chip-29f420a0",
+  "title": "Elon Musk Estimates Total Cost of $1 Trillion for Tesla's Terafab AI Chip Project",
+  "publishedAt": "2026-11-07T00:39:51.351Z",
+  "eventTimeApprox": "2026-11-06T22:07:35.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118786795076997331/mcTAs4a08VLZdOl2-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118786795076997331/mcTAs4a08VLZdOl2-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2118786337046421504/vid/avc1/1920x1080/bBCI9p86dYxAjJkB.mp4?tag=29",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2118786795076997331"
+    }
+  },
+  "summary": "Tesla is targeting a production capacity of 1 terawatt of artificial intelligence chips per year at its planned Terafab facility in Texas, a volume that would be about 30 times the company's estimate for total global output in 2027. Speaking at the Baron Investment Conference, Elon Musk said the project's total expenditure could eventually reach $1 trillion, though the costs would be spread across multiple construction phases. Musk added that the company is exploring new manufacturing processes to increase efficiency as it scales the site in Grimes County.\n\nThe production plant will be supported by a separate research facility at Gigafactory Texas in Austin, where the company aims to reduce semiconductor development cycles from one year to one month by housing fabrication and testing under one roof. The updated cost projection marks a substantial increase from earlier estimates for Terafab, which were placed at $16.8B.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118786795076997331",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118786795076997331",
+      "tweetedAt": "2026-11-06T19:25:11.000Z",
+      "bestBit": "Terafab aims to produce 1 terawatt of AI chips annually, roughly 30x his estimate of global production in 2027",
+      "text": "Elon Musk says Terafab aims to produce 1 terawatt of AI chips annually, roughly 30x his estimate of global production in 2027.\n\nHe estimates the project could cost $1 trillion. https://t.co/SuWSeTjkxL"
+    },
+    {
+      "tweetId": "2118860761674252458",
+      "role": "support",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2118860761674252458",
+      "tweetedAt": "2026-11-07T00:19:06.000Z",
+      "bestBit": "Elon said that figure would come over time, and that Tesla will not need that money immediately because they will build it in phases",
+      "text": "Elon Musk just addressed the cost of Tesla's planned chip factory.\n\nSpeaking with Ron Baron at the Baron Investment Conference today, Ron Baron said Terafab is going to cost a trillion dollars.\n\nElon said that figure would come over time, and that Tesla will not need that money immediately because they will build it in phases.\n\nHe also said Tesla is looking at ways to change the manufacturing process for chips to improve the efficiency of chip production, the same way the company has done in other businesses.\n\nI don't think people realize how large the chip manufacturing ambition is here.\n\nIf Elon is even close to right, this is a MASSIVE multi year buildout for $TSLA.",
+      "quotedTweetText": "We're witnessing one of the most aggressive technology arms races in history and it's only getting started.\n\nThe frontier AI race between OpenAI and Anthropic is accelerating at an incredible pace, and I think investors are underestimating just how much computing power this competition will require. According to OpenRouter, AI token consumption on its platform has increased a staggering 224 times since the beginning of 2026, while spending has increased 81 times. What's even more interesting is the competition between the two leading frontier AI labs. OpenAI accounted for 52% of tokens but only 34% of spending, while Anthropic captured 66% of spending with 48% of tokens. This tells us something important. The frontier AI race isn't just about who can process the most tokens but rather about who can build the most capable models, attract developers, and capture the highest-value workloads.\n\nAnd every time OpenAI releases a more capable model, it puts enormous pressure on Anthropic, Google, and xAI to respond. Nobody wants to fall behind because the company that establishes itself as the preferred platform for developers and enterprises could capture an enormous share of the future AI economy. And unlike traditional software competition, these companies can't simply hire more engineers to catch up. They need enormous amounts of computing power to train frontier models, run increasingly complex reasoning systems, and serve millions of users simultaneously. I also think investors are overlooking how the economics of this competition could benefit the broader semiconductor and infrastructure ecosystem. OpenAI and Anthropic can fight over market share, pricing, and developer adoption, but both still need GPUs, high bandwidth memory, networking equipment, electricity, and data center capacity."
+    },
+    {
+      "tweetId": "2118854441063600539",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2118854441063600539",
+      "tweetedAt": "2026-11-06T23:53:59.000Z",
+      "bestBit": "If you want to iterate fast with radically new chip designs, join the Terafab project!",
+      "text": "If you want to iterate fast with radically new chip designs, join the Terafab project!",
+      "quotedTweetText": "Elon Musk just revealed that Tesla is building a research chip fab at Gigafactory Texas that could reduce semiconductor development cycles from one year to just one month\n\nThat's a potential 12 TIMES increase in the speed of chip development\n\nTesla is building two semiconductor facilities in Texas with distinct purposes:\n\n• Giga Texas, Austin — A research fab for experimenting with new chip designs, fabrication techniques and manufacturing processes\n\n• Terafab, Grimes County — A massive production facility where successful breakthroughs will be scaled into high-volume chip manufacturing\n\nThe research fab aims to bring the entire chip development process under one roof:\n\n• Logic fabrication\n• Memory fabrication\n• Lithography\n• Advanced packaging\n• Chip testing\n\nInstead of relying on lengthy development cycles spread across multiple facilities, Tesla is working toward designing, manufacturing and testing complete chips in approximately ONE MONTH\n\nThat means potentially 12 development cycles in the time it traditionally takes to complete one\n\nTesla is building the ability to develop its own chips, manufacture them and continuously improve them at a pace the semiconductor industry has rarely seen"
+    },
+    {
+      "tweetId": "2118817952300683429",
+      "role": "commentary",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2118817952300683429",
+      "tweetedAt": "2026-11-06T21:29:00.000Z",
+      "bestBit": "There's three possible meanings to Terafab. One is terror. I think some…",
+      "text": "RT @SawyerMerritt: Elon Musk in a new interview today on Terafab:\n\n\"There's three possible meanings to Terafab. One is terror. I think some…"
+    },
+    {
+      "tweetId": "2118837379352150365",
+      "role": "support",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2118837379352150365",
+      "tweetedAt": "2026-11-06T22:46:11.000Z",
+      "bestBit": "The production Terafab is in Grimes County, Texas, near Texas A&M",
+      "text": "Elon Musk just laid out where Tesla plans to build its own AI chips.\n\nSpeaking with Ron Baron at the Baron Investment Conference today, @elonmusk said Tesla is building a research chip fab at Gigafactory Texas in Austin.\n\nThat research fab is going to try many different approaches to chip fabrication and Elon said many of those approaches will not work, but he is sure some of them will, and Tesla will then translate those improvements to the production Terafab.\n\nThe production Terafab is in Grimes County, Texas, near Texas A&M and as Elon put it, that is where Tesla will scale up production of its AI chip.\n\nI don't think people realize how big this is for $TSLA.",
+      "quotedTweetText": "According to Taiwanese media, Elon Musk is softening his stance and has reopened talks with TSMC about Terafab.\n\nNot long ago he said, \"No, we will build and run the fab. Let there be ZERO doubt about that.\"\n\nDigiTimes reports the talks now cover operational control, joint investment, technology, packaging and component bottlenecks.\n\nTSMC's position has not changed: if it joins a fab, it wants to run it.\n\nTerafab is a $16.8 billion project, with a first test chip targeted for mid 2027 and volume production in the third quarter of 2028.\n\nBuilding a leading edge fab from scratch is brutally hard, and even Musk seems to be realizing that TSMC is the shortcut.\n\n$TSM $TSLA $NVDA"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "tesla-to-build-168b-in-house-ai-chip-production-plant-in-texas-f93b0a33",
+    "title": "Tesla to Build $16.8B In House AI Chip Production Plant in Texas",
+    "publishedAt": "2026-11-07T00:08:01.562Z",
+    "eventTimeApprox": "2026-11-06T22:46:11.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

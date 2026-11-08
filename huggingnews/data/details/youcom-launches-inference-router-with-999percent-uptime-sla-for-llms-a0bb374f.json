@@ -1,0 +1,58 @@
+{
+  "slug": "youcom-launches-inference-router-with-999percent-uptime-sla-for-llms-a0bb374f",
+  "title": "You.com Launches Inference Router with 99.9% Uptime SLA for LLMs",
+  "publishedAt": "2026-10-22T18:53:36.629Z",
+  "eventTimeApprox": "2026-10-22T18:30:44.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "Enterprise users can now access multiple AI models including GLM 5.3 and DeepSeek V4.1 Flash through a single API that eliminates platform fees. You.com's new Inference Router hosts these models on 100% US-based infrastructure and includes integrated web search to support on-demand inference through an OpenAI-compatible interface.\n\nThe service provides a minimum uptime SLA of 99.9% backed by service credits for outages. To meet corporate security and compliance standards, the router implements zero data retention across every model call and web search request and utilizes multi-provider failover.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113330643472121873",
+      "role": "source",
+      "authorHandle": "youdotcom",
+      "url": "https://x.com/youdotcom/status/2113330643472121873",
+      "tweetedAt": "2026-10-22T18:04:23.000Z",
+      "bestBit": "Kimi K3, GLM 5.3, DeepSeek V4.1 Flash, Qwen3.8 Flash, Muse Spark 1.3, Mercury 3 and more, available with an uptime SLA of at least 99.9%",
+      "text": "Introducing Inference Router: enterprise-grade inference on demand.\n\nKimi K3, GLM 5.3, DeepSeek V4.1 Flash, Qwen3.8 Flash, Muse Spark 1.3, Mercury 3 and more, available with an uptime SLA of at least 99.9%. US hosting and web search built in.\n\nhttps://t.co/XBdJQWDwnO https://t.co/ETfTM2xkLq"
+    },
+    {
+      "tweetId": "2113337274662346874",
+      "role": "support",
+      "authorHandle": "richardsocher",
+      "url": "https://x.com/RichardSocher/status/2113337274662346874",
+      "tweetedAt": "2026-10-22T18:30:44.000Z",
+      "bestBit": "Zero data retention across every model call and web search request",
+      "text": "Introducing the @youdotcom Inference Router: enterprise-grade inference for leading LLMs, on demand.\n\n• Minimum of 99.9% uptime SLA, backed by service credits\n• Zero data retention across every model call and web search request\n• 100% US-hosted infrastructure, with multi-provider failover\n•Built-in web search\n\nOne OpenAI-compatible API, with no platform fee."
+    }
+  ],
+  "isSuperseded": false
+}

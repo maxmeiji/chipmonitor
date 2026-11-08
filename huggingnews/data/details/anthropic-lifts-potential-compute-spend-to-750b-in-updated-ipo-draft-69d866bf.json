@@ -1,0 +1,170 @@
+{
+  "slug": "anthropic-lifts-potential-compute-spend-to-750b-in-updated-ipo-draft-69d866bf",
+  "title": "Anthropic Lifts Potential Compute Spend to $750B in Updated IPO Draft",
+  "publishedAt": "2026-10-20T22:25:14.697Z",
+  "eventTimeApprox": "2026-10-20T19:52:42.000Z",
+  "isFreshStory": false,
+  "tweetCount": 105,
+  "authorCount": 69,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "AVGO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Broadcom Inc. Common Stock",
+      "hubKey": "avgo"
+    },
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112631090905292888/HVGStFXW0AErgUa-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112631090905292888/HVGStFXW0AErgUa-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "doggycapital",
+      "tweetUrl": "https://x.com/DoggyCapital/status/2112631090905292888"
+    }
+  },
+  "summary": "The artificial intelligence startup is pursuing more hardware and cloud capacity than its partners can currently provide, which could add $150 billion to its financial obligations, per The Wall Street Journal. An updated draft S-1 filing shows that total spending on computing power in the coming years could reach $750 billion. This updated estimate exceeds the $600 billion figure previously disclosed, as the company continues to negotiate new deals for capacity. Anthropic is tentatively targeting a November IPO at a valuation of up to $2 trillion.\n\nThe firm generated $16.3 billion in revenue in the first half of 2026, up from $1.1 billion a year earlier, but posted a net loss of $80.7 billion, of which $72 billion was due to noncash accounting charges. Its existing obligations include about $450 billion in noncancelable cloud agreements—including contracts with Google for $111 billion, Amazon for $110 billion, and Microsoft for $31 billion—and a $160 billion deal with Broadcom. Risk factors in the filing highlight that two unnamed customers provide 20% of revenue and that liabilities from catastrophic AI incidents may be uninsurable.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112628025015591107",
+      "role": "source",
+      "authorHandle": "anissagardizy8",
+      "url": "https://x.com/anissagardizy8/status/2112628025015591107",
+      "tweetedAt": "2026-10-20T19:32:26.000Z",
+      "bestBit": "Anthropic recorded a net loss of $80.7 billion in the first half of the year, tied to accounting adjustments related to previous financings",
+      "text": "SCOOP: Anthropic's latest draft S-1 documents show financials results for the first half of the year, gigantic spending plans for the future, and a laundry list of risk factors.  \n\n- Anthropic recorded a net loss of $80.7 billion in the first half of the year, tied to accounting adjustments related to previous financings\n\n- Anthropic is set to spend >$600 billion on compute in the coming years, inclusive of cloud agreements and chip leases.\n\nMore in @WSJ:"
+    },
+    {
+      "tweetId": "2112628368449659281",
+      "role": "support",
+      "authorHandle": "iponewsroom_",
+      "url": "https://x.com/IPONewsroom_/status/2112628368449659281",
+      "tweetedAt": "2026-10-20T19:33:48.000Z",
+      "bestBit": "about one-fifth of revenue came from just two customers",
+      "text": "ANTHROPIC'S DRAFT IPO FILING SHOWS REVENUE UP ~15X AND AN $80.7 BILLION LOSS\n\nHere's what's inside, per the WSJ\n\nAnthropic generated about $16.3 billion in revenue in the first half of 2026, up from $1.1 billion a year earlier, according to a draft prospectus viewed by the Journal.\n\nIt also reported a net loss of $80.7 billion. About $72 billion of that came from accounting charges tied to convertible notes and other instruments it used to raise money.\n\nThe other big numbers:\n• Nearly $9 billion spent on computing in the first half, more than in all of 2025\n• About one-fifth of revenue came from just two customers\n• Roughly $450 billion in cloud commitments over the next 7 to 10 years, including $111 billion with Google $GOOGL, $110 billion with Amazon $AMZN and $31 billion with Microsoft $MSFT\n• Total future infrastructure costs top $600 billion\n\nAbout a third of the filing is risk factors, including the risk of AI models causing real-world harm and growing political resistance to data centers.\n\nThe IPO could value Anthropic at up to $2 trillion."
+    },
+    {
+      "tweetId": "2112639985891295285",
+      "role": "commentary",
+      "authorHandle": "deepdishenjoyer",
+      "url": "https://x.com/DeepDishEnjoyer/status/2112639985891295285",
+      "tweetedAt": "2026-10-20T20:19:58.000Z",
+      "bestBit": "these are going to be real chip earnings, idk what people are smoking",
+      "text": "these are going to be real chip earnings, idk what people are smoking",
+      "quotedTweetText": "🔴 Anthropic to spend more than $600b on compute - WSJ"
+    },
+    {
+      "tweetId": "2112633909645279311",
+      "role": "commentary",
+      "authorHandle": "pythiar",
+      "url": "https://x.com/PythiaR/status/2112633909645279311",
+      "tweetedAt": "2026-10-20T19:55:49.000Z",
+      "bestBit": "$750b of compute over ~8.5 years = $88b a year",
+      "text": "$75b ARR Q/Q growth of 45%\n\nAdj. OI positive w/ only 25% of compute used for inference. \n\n$750b of compute over ~8.5 years = $88b a year. \n\nSeems actually pretty okay to me.",
+      "quotedTweetText": "WSJ scoop on Anthropic IPO\n\n“The company has signaled that it could potentially spend $750 billion in the coming years on obtaining more computing capacity”\n\n“Anthropic spent more on computing capacity in the first half of this year than it did in all of 2025, when it spent $7.3 billion and generated $4.6 billion in revenue.”\n\n“The company is on the hook to pay around $450 billion in cloud computing agreements over the next seven to ten years. The bulk of these deals are noncancelable.”\n\n“Including its more than $160 billion obligation to lease Google chips in a deal with Broadcom , Anthropic’s future infrastructure costs top $600 billion”"
+    },
+    {
+      "tweetId": "2112636089345188253",
+      "role": "commentary",
+      "authorHandle": "kawzinvests",
+      "url": "https://x.com/KawzInvests/status/2112636089345188253",
+      "tweetedAt": "2026-10-20T20:04:29.000Z",
+      "bestBit": "Dario put it pretty bluntly when discussing a hypothetical $1T annual compute commitment: 'If I’m just off by a year … then you go bankrupt.'",
+      "text": "WSJ just reported Anthropic’s infrastructure commitments could reach $750B.\n\nRevenue is currently growing much faster than compute costs though.\n\nH1 2026 vs. H1 2025:\n\n> Revenue: $16.3B vs. $1.1B\n> Compute + infrastructure: nearly $9B vs. $2.3B\n\nThey went from spending over $2 on compute for every dollar of revenue to about 55 cents.\n\nThe $450B cloud portion runs over 7–10 years. Average that out and you get $45–64B a year. Keeping those payments at roughly 55% of revenue would take $82–116B in annual sales, assuming even payments and excluding the other infrastructure commitments.\n\nMost of those cloud deals are noncancelable. Some are payable “regardless of actual usage.”\n\nDario put it pretty bluntly when discussing a hypothetical $1T annual compute commitment: “If I’m just off by a year … then you go bankrupt.”\n\n$MSFT $AMZN $ORCL $GOOGL $META"
+    },
+    {
+      "tweetId": "2112633126296117526",
+      "role": "analysis",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2112633126296117526",
+      "tweetedAt": "2026-10-20T19:52:42.000Z",
+      "bestBit": "The firm is negotiating additional computing deals that could see its commitments rise by as much as $150 billion",
+      "text": "Latest Anthropic S-1 draft shows big uptick in future compute spend!\n\nAnthropic could spent $750 billion in compute versus prior S-1 draft of $518 billion. That’s a lot more chips.\n\nWSJ: “The company has signaled that it could potentially spend $750 billion in the coming years on obtaining more computing capacity, including deals it is still negotiating.”\n\n“Anthropic’s future infrastructure costs top $600 billion. The firm is negotiating additional computing deals that could see its commitments rise by as much as $150 billion, the materials show.”\n\nVs. Reuters Sept. 28 prior S-1 draft $518 billion https://t.co/C9PwYDwwL4"
+    },
+    {
+      "tweetId": "2112665149781757985",
+      "role": "commentary",
+      "authorHandle": "burggrabenh",
+      "url": "https://x.com/BurggrabenH/status/2112665149781757985",
+      "tweetedAt": "2026-10-20T21:59:57.000Z",
+      "bestBit": "Two customers account for 20% of Anthropic's H1 2026 revenue (US$3.26bn)",
+      "text": "Two customers account for 20% of Anthropic's H1 2026 revenue (US$3.26bn).\n\nIDK their names but one credible lead by VentureBeat points to two AI coding platforms as plausible candidates: \n\nTogether, Cursor & GitHub Copilot accounted for US$1.2bn of Anthropic's US$5bn annualised revenue run rate at an earlier point. \n\nUgly \n\n https://t.co/suTLamKX27"
+    },
+    {
+      "tweetId": "2112636312813781465",
+      "role": "commentary",
+      "authorHandle": "meghanbobrowsky",
+      "url": "https://x.com/MeghanBobrowsky/status/2112636312813781465",
+      "tweetedAt": "2026-10-20T20:05:22.000Z",
+      "bestBit": "Dario and Daniela Amodei each only made a $655,000 base salary in 2025",
+      "text": "Among the many details in this great @anissagardizy8 scoop, Dario and Daniela Amodei each only made a $655,000 base salary in 2025. Though their stock and option awards got them to $18 million and $16.5 million in total comp, respectively\n\nhttps://t.co/CCJy73K8HV https://t.co/AvY5pj0SJV"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropics-draft-ipo-filing-reveals-600b-compute-spending-plan-6fe35ac0",
+    "title": "Anthropic's Draft IPO Filing Reveals $600B Compute Spending Plan",
+    "publishedAt": "2026-10-20T19:54:37.106Z",
+    "eventTimeApprox": "2026-10-20T19:36:43.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "startups",
+      "tech"
+    ],
+    "tweetCount": 70,
+    "authorCount": 44
+  }
+}

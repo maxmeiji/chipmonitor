@@ -1,0 +1,115 @@
+{
+  "slug": "nvidia-reaches-578-trillion-market-cap-in-new-all-time-high-23a39ca2",
+  "title": "Nvidia Reaches $5.78 Trillion Market Cap in New All Time High",
+  "publishedAt": "2026-10-06T02:55:56.548Z",
+  "eventTimeApprox": "2026-10-02T14:52:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 51,
+  "authorCount": 30,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106017741412966574/HToTNC8WsAAUFGu-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106017741412966574/HToTNC8WsAAUFGu-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "negligible_cap",
+      "tweetUrl": "https://x.com/negligible_cap/status/2106017741412966574"
+    }
+  },
+  "summary": "The chipmaker's shares reached a peak of $239.86 on Oct. 5, the highest trading price in the company's history. This intraday surge, which began from an opening price of $236.07, elevated Nvidia's market capitalization to $5.78 trillion and narrowed its gap to becoming the first company ever valued at $6 trillion.\n\nThis latest record follows a recovery that began Oct. 2, when shares hit their first all-time high since May after a two month selloff erased more than $1 trillion in market value. The rally is supported by a $150 billion increase in share buyback authorization and optimism that AI agents will drive increased demand for Nvidia hardware.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107208579052667223",
+      "role": "support",
+      "authorHandle": "alphaspace",
+      "url": "https://x.com/alphaspace/status/2107208579052667223",
+      "tweetedAt": "2026-10-05T20:37:29.000Z",
+      "bestBit": "intraday market cap hit $5.78 trillion, moving closer to the $6 trillion mark",
+      "text": "$NVDA hit another new all-time intraday high. The stock opened trading at $236.07 and climbed to $239.86 by the afternoon. \n\nThe company's intraday market cap hit $5.78 trillion, moving closer to the $6 trillion mark. https://t.co/OgnOgRBF9r"
+    },
+    {
+      "tweetId": "2106057908181934333",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2106057908181934333",
+      "tweetedAt": "2026-10-02T16:25:08.000Z",
+      "bestBit": "two-month selloff that wiped more than $1 trillion off its market value",
+      "text": "Nvidia shares hit a record for the first time since May as investors pile back into the stock after a two-month selloff that wiped more than $1 trillion off its market value https://t.co/v8XKGrSga3"
+    },
+    {
+      "tweetId": "2106017741412966574",
+      "role": "analysis",
+      "authorHandle": "negligible_cap",
+      "url": "https://x.com/negligible_cap/status/2106017741412966574",
+      "tweetedAt": "2026-10-02T13:45:32.000Z",
+      "bestBit": "NVIDIA SHARES RISE 2.5% TO HIT FIRST RECORD HIGH SINCE MAY",
+      "text": "*NVIDIA SHARES RISE 2.5% TO HIT FIRST RECORD HIGH SINCE MAY\n\nWhere to now? Back at 25x earnings, market cap is now $5.7 Trillion - all time intra-day high for $NVDA https://t.co/wNQJpMx7LT"
+    },
+    {
+      "tweetId": "2106036484096548930",
+      "role": "commentary",
+      "authorHandle": "trendspider",
+      "url": "https://x.com/TrendSpider/status/2106036484096548930",
+      "tweetedAt": "2026-10-02T15:00:00.000Z",
+      "bestBit": "Nvidia just announced a record $150 billion buyback increase",
+      "text": "$NVDA fresh outta the handle to new all-time highs 👀 https://t.co/zRoC3oWupt",
+      "quotedTweetText": "Nvidia just announced a record $150 billion buyback increase right into the cup and handle\n\nI see you Jensen... $NVDA https://t.co/Vlgpcz6EGC"
+    },
+    {
+      "tweetId": "2106157343432196298",
+      "role": "commentary",
+      "authorHandle": "mr_derivatives",
+      "url": "https://x.com/Mr_Derivatives/status/2106157343432196298",
+      "tweetedAt": "2026-10-02T23:00:15.000Z",
+      "bestBit": "Hit an ATH today. But failed to close at an ATH today.",
+      "text": "$NVDA Hit an ATH today. But failed to close at an ATH today.\n\nInteresting day."
+    },
+    {
+      "tweetId": "2106724958932246574",
+      "role": "commentary",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2106724958932246574",
+      "tweetedAt": "2026-10-04T12:35:45.000Z",
+      "bestBit": "Nvidia has proven the bears wrong over and over and over again",
+      "text": "Nvidia has proven the bears wrong over and over and over again. \n\nHow many hit pieces has The Information published in the last three years? \n\nThe stock just hit a new all-time high. https://t.co/dY5QCUxTMY",
+      "quotedTweetText": "Jensen Huang Press Q&amp;A: 'Nvidia Stock Is Undervalued' https://t.co/KKs1gepWAT"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nvidias-150b-buyback-fuels-record-572-trillion-market-cap-f47b5e92",
+    "title": "Nvidia's $150B Buyback Fuels Record $5.72 Trillion Market Cap",
+    "publishedAt": "2026-10-02T15:29:25.381Z",
+    "eventTimeApprox": "2026-10-02T13:43:21.000Z",
+    "routingTopicKeys": [
+      "us-markets",
+      "tech"
+    ],
+    "tweetCount": 33,
+    "authorCount": 24
+  }
+}

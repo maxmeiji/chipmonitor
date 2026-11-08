@@ -1,0 +1,122 @@
+{
+  "slug": "gemini-4-argon-teaches-apollo-robot-cornhole-via-zero-shot-learning-99a2af4f",
+  "title": "Gemini 4 Argon Teaches Apollo Robot Cornhole via Zero-Shot Learning",
+  "publishedAt": "2026-10-14T00:27:41.089Z",
+  "eventTimeApprox": "2026-10-13T19:33:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110041301253075358/E9Rph2wsgoV4f7eH-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110041301253075358/E9Rph2wsgoV4f7eH-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2110036814996054016/vid/avc1/1920x1080/4Nr6sdbd9BJ9s-cD.mp4?tag=29",
+    "credit": {
+      "handle": "google",
+      "tweetUrl": "https://x.com/Google/status/2110041301253075358"
+    }
+  },
+  "summary": "A robotic system that can articulate its own internal reasoning and use gestures to explain its movements was recently showcased by Google DeepMind. The entity, an Apptronik Apollo humanoid, learned to play cornhole by observing a single human demonstration video via the Gemini 4 Argon model. This 'zero-shot' process included the autonomous generation of a simulation environment and system identification, which allowed the robot to sink 7 consecutive shots in a physical trial without prior task-specific training.\n\nThe pipeline reduces the time required for manual modeling of physical skills from several weeks to a few hours. By turning ordinary video into a training ground for AI, researchers suggest that the immense video library of YouTube could give Google a competitive advantage in developing physical AI without requiring the company to manufacture its own hardware. This shift in capabilities is currently altering fundamental assumptions regarding the development of robotic intelligence.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110054176382206379",
+      "role": "source",
+      "authorHandle": "normandipalo",
+      "url": "https://x.com/normandipalo/status/2110054176382206379",
+      "tweetedAt": "2026-10-13T17:04:53.000Z",
+      "bestBit": "asked the robot itself to explain what it did to us, as you can see at the end of the video. It even came up with the gestures",
+      "text": "I’m still half in disbelief \nWe asked Gemini Argon to teach the Apollo humanoid to play cornhole, and it zero-shotted it\n\nAll we gave it was a video of a person doing it. It then took control of the robot, generated its own sim env, performed some sysID, and trained launches on the real robot. \n\nIt took it a few real shots to improve and then land many consecutive airmails. \n\nThe process was so long and articulated that we asked the robot itself to explain what it did to us, as you can see at the end of the video. It even came up with the gestures\n\nGreat demo for a great model @googledeepmind @apptronik"
+    },
+    {
+      "tweetId": "2110041301253075358",
+      "role": "source",
+      "authorHandle": "google",
+      "url": "https://x.com/Google/status/2110041301253075358",
+      "tweetedAt": "2026-10-13T16:13:43.000Z",
+      "bestBit": "sank seven straight shots in a real-world trial",
+      "text": "In robotics, Gemini 4 Argon is speeding up real-world physical learning.\n\nWe let Argon watch a video of a human playing cornhole. It mapped the environment, calculated whole-body joint movements, and autonomously built the simulation code to practice.\n\nWhen transferred to Apptronik’s Apollo humanoid, the robot sank seven straight shots in a real-world trial."
+    },
+    {
+      "tweetId": "2110078386894701015",
+      "role": "support",
+      "authorHandle": "googledeepmind",
+      "url": "https://x.com/GoogleDeepMind/status/2110078386894701015",
+      "tweetedAt": "2026-10-13T18:41:05.000Z",
+      "bestBit": "compresses weeks of manual modeling into just a few hours",
+      "text": "By turning video into a training ground for physical AI, Argon compresses weeks of manual modeling into just a few hours. ↓\nhttps://t.co/A9F2OZhwZb"
+    },
+    {
+      "tweetId": "2110106814213964059",
+      "role": "commentary",
+      "authorHandle": "chris_j_paxton",
+      "url": "https://x.com/chris_j_paxton/status/2110106814213964059",
+      "tweetedAt": "2026-10-13T20:34:03.000Z",
+      "bestBit": "changing a lot of the assumptions about how intelligence for robotics is going to work",
+      "text": "Large models really are changing a lot of the assumptions about how intelligence for robotics is going to work",
+      "quotedTweetText": "In robotics, Gemini 4 Argon is speeding up real-world physical learning.\n\nWe let Argon watch a video of a human playing cornhole. It mapped the environment, calculated whole-body joint movements, and autonomously built the simulation code to practice.\n\nWhen transferred to Apptronik’s Apollo humanoid, the robot sank seven straight shots in a real-world trial."
+    },
+    {
+      "tweetId": "2110106393449795692",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2110106393449795692",
+      "tweetedAt": "2026-10-13T20:32:22.000Z",
+      "bestBit": "Google’s massive YouTube library could become one of its biggest advantages in Physical AI",
+      "text": "$GOOGL just used Gemini 4 Argon to teach Apptronik’s Apollo humanoid how to play cornhole from a video with the robot sinking seven straight shots in the real world.\n\nIf robots can learn physical skills from ordinary videos then Google’s massive YouTube library could become one of its biggest advantages in Physical AI without needing to build the robots itself. https://t.co/94hdfnPJoA"
+    },
+    {
+      "tweetId": "2110103655567557051",
+      "role": "commentary",
+      "authorHandle": "trungtphan",
+      "url": "https://x.com/TrungTPhan/status/2110103655567557051",
+      "tweetedAt": "2026-10-13T20:21:29.000Z",
+      "bestBit": "losing cornhole to a humanoid robot would be devastating",
+      "text": "losing cornhole to a humanoid robot would be devastating https://t.co/XcjUjoMs1z",
+      "quotedTweetText": "Gemini 4 Argon taught a robot to play cornhole just by watching a video.\n\nIt mapped the physics, coded its own simulation, and taught @Apptronik's Apollo humanoid to sink 7 throws in a row. https://t.co/JIyoKnVc4q"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "google-gemini-4-argon-cuts-robot-training-from-weeks-to-hours-133f5282",
+    "title": "Google Gemini 4 Argon Cuts Robot Training from Weeks to Hours",
+    "publishedAt": "2026-10-13T19:25:05.431Z",
+    "eventTimeApprox": "2026-10-13T18:41:05.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 16,
+    "authorCount": 11
+  }
+}

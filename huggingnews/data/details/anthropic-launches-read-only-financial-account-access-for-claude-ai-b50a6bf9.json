@@ -1,0 +1,61 @@
+{
+  "slug": "anthropic-launches-read-only-financial-account-access-for-claude-ai-b50a6bf9",
+  "title": "Anthropic Launches Personal Finance Tool to Connect Claude AI to Bank Accounts",
+  "publishedAt": "2026-11-05T18:07:07.843Z",
+  "eventTimeApprox": "2026-11-05T18:01:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 24,
+  "authorCount": 24,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "fintech",
+      "name": "Fintech"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "PVT:PLAD",
+      "kind": "private",
+      "role": "related",
+      "name": "Plaid",
+      "hubKey": "plaid"
+    }
+  ],
+  "summary": "The AI startup has released a beta version of a financial analysis service that allows its Claude assistant to link with a user's credit card and bank accounts. Once connected, the tool analyzes transactions and balances to answer money questions in plain language for people in the United States.\n\nThe new feature is available to Pro, Max, and Ultra subscribers and uses Plaid to integrate with financial institutions. Anthropic stated the integration is read-only, meaning the assistant cannot invest or move funds, and it will not include sponsored recommendations or advertisements.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118403114890137895",
+      "role": "source",
+      "authorHandle": "claudeai",
+      "url": "https://x.com/claudeai/status/2118403114890137895",
+      "tweetedAt": "2026-11-05T18:00:35.000Z",
+      "bestBit": "Access is read-only, and Claude can't move, manage, or invest your money.",
+      "text": "Introducing Personal Finance in Claude, in beta in the US.\n\nConnect the accounts you choose, and Claude answers your money questions in everyday language, from your own balances and transactions. Access is read-only, and Claude can't move, manage, or invest your money. https://t.co/V1JLYuWwrS"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "google-to-fold-jules-ai-coding-agent-into-antigravity-platform-4d7975a3",
+  "title": "Google to Fold Jules AI Coding Agent Into Antigravity Platform",
+  "publishedAt": "2026-10-29T21:07:25.105Z",
+  "eventTimeApprox": "2026-10-29T20:50:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115908825274560669/HV033QmbgAAMBF8-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115908825274560669/HV033QmbgAAMBF8-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "artemr",
+      "tweetUrl": "https://x.com/ArtemR/status/2115908825274560669"
+    }
+  },
+  "summary": "Google will retire its asynchronous coding agent, Jules, on Dec. 31 to consolidate its automated development tools. The company plans to integrate the capabilities of the experimental agent, including its remote background task execution, into another tool called Antigravity to create a unified environment for software engineers.\n\nThe Jules project was launched to test how AI agents could help developers accelerate shipment by automating bug fixes and test writing. Google stated that the experiment provided insights into the future of agentic development that have already shaped several other products across the company.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115883717705261283",
+      "role": "source",
+      "authorHandle": "julesagent",
+      "url": "https://x.com/julesagent/status/2115883717705261283",
+      "tweetedAt": "2026-10-29T19:09:24.000Z",
+      "bestBit": "We’re working on bringing our learnings from Jules into @antigravity so you get the best of both worlds: autonomous remote background task execution and an agent-first development environment.",
+      "text": "When we launched Jules, it was an experiment to learn how asynchronous coding agents can help developers ship faster. Seeing what you built taught us so much about where agentic development is headed, directly shaping several products across @Google.\n\nWe’re working on bringing our learnings from Jules into @antigravity so you get the best of both worlds: autonomous remote background task execution and an agent-first development environment.\n\nAs we focus on this unified experience, Jules will be winding down.\n\nWhether you used Jules to crush bugs, write tests, or launch features— thank you for shaping the future of agentic coding! 💙🦑"
+    },
+    {
+      "tweetId": "2115908825274560669",
+      "role": "commentary",
+      "authorHandle": "artemr",
+      "url": "https://x.com/ArtemR/status/2115908825274560669",
+      "tweetedAt": "2026-10-29T20:49:10.000Z",
+      "bestBit": "Google is killing Jules in favor of @antigravity on Dec 31.",
+      "text": "Google is killing Jules in favor of @antigravity on Dec 31.\n\nThis is not a big surprise, given the two tools are so similar. https://t.co/CheKDotxb9"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "raven-ai-tool-wrongly-links-home-to-trafficking-in-demo-01a037fc",
+  "title": "Raven AI Tool Wrongly Links Home to Trafficking in Demo",
+  "publishedAt": "2026-10-14T00:09:59.955Z",
+  "eventTimeApprox": "2026-10-13T16:13:12.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108311472837156997/HUI6DXNW0AAqQTs-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108311472837156997/HUI6DXNW0AAqQTs-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "intcyberdigest",
+      "tweetUrl": "https://x.com/IntCyberDigest/status/2108311472837156997"
+    }
+  },
+  "summary": "Graylark's AI-powered search engine for police is facing backlash over the content of its latest marketing materials. The company's tool, called Raven, is accused of linking a random man's home to human trafficking in a product demonstration to showcase its ability to identify specific houses from a single photograph. To determine locations, the software, previously known as Geospy, cross-references imagery with data scraped from Zillow and Airbnb.\n\nCEO Daniel Heinen stated that the product helps investigators locate victims in serious criminal cases, including child exploitation, and can accurately identify photos taken inside houses. The tool has already been used to find Andrew Tate's rental in Miami and to facilitate an arrest within 8 minutes after weapons were seen on Instagram Live. Graylark also previously showcased capabilities to identify protesters and people who vandalize Flock surveillance cameras.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109983811438297295",
+      "role": "source",
+      "authorHandle": "josephfcox",
+      "url": "https://x.com/josephfcox/status/2109983811438297295",
+      "tweetedAt": "2026-10-13T12:25:16.000Z",
+      "bestBit": "lets cops identify specific houses, using data from Zillow/Airbnb, based on a single photo",
+      "text": "New: an AI company now lets cops identify specific houses, using data from Zillow/Airbnb, based on a single photo. It's part of Raven, previously called Geospy. Company previously demoed its tools to catch people vandalizing Flock cameras or protesters\n\nhttps://t.co/ggbL2FdCYe"
+    },
+    {
+      "tweetId": "2110155755215307153",
+      "role": "source",
+      "authorHandle": "intcyberdigest",
+      "url": "https://x.com/IntCyberDigest/status/2110155755215307153",
+      "tweetedAt": "2026-10-13T23:48:31.000Z",
+      "bestBit": "illegal weapons being waved around on Instagram Live ended in an arrest within 8 minutes",
+      "text": "Raven, the AI image-to-location search tool we reported on, is being accused of linking a random man's property to trafficking in a product demo video.\n\nThis was our scoop btw. @404mediaco wrote about it without attribution. And now other media like @NBCNews are picking it up. https://t.co/Jg0vpO1cwi",
+      "quotedTweetText": "❗️ Graylark's Raven, a tool law enforcement uses to tie images to locations, might have scraped all Airbnb and housing data.\n\nIt was used to locate Andrew Tate's Miami rental a few days before he got arrested.\n\nIn another case, illegal weapons being waved around on Instagram Live ended in an arrest within 8 minutes.\n\nWhen we asked CEO Daniel Heinen about it, he told us they're helping law enforcement locate victims and investigate crimes. He said hotels and short-term rentals can be involved in human trafficking, child exploitation, and other serious criminal investigations.\n\nSometimes a photograph of a room is the only lead investigators have, and time is ticking.\n\nThat said, he told us they don't publicly disclose their proprietary architecture, underlying datasets, sourcing strategies, or commercial partnerships, but admits their product can accurately locate photos taken inside houses."
+    },
+    {
+      "tweetId": "2110041202540368032",
+      "role": "commentary",
+      "authorHandle": "barnes_law",
+      "url": "https://x.com/barnes_law/status/2110041202540368032",
+      "tweetedAt": "2026-10-13T16:13:20.000Z",
+      "bestBit": "Surveillance State is here.",
+      "text": "Surveillance State is here.",
+      "quotedTweetText": "New: an AI company now lets cops identify specific houses, using data from Zillow/Airbnb, based on a single photo. It's part of Raven, previously called Geospy. Company previously demoed its tools to catch people vandalizing Flock cameras or protesters\n\nhttps://t.co/ggbL2FdCYe"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "raven-ai-tool-identifies-homes-from-single-photo-for-police-using-zillow-da098460",
+    "title": "Raven AI Tool Identifies Homes From Single Photo for Police Using Zillow",
+    "publishedAt": "2026-10-13T17:16:03.123Z",
+    "eventTimeApprox": "2026-10-13T15:53:50.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 5,
+    "authorCount": 4
+  }
+}

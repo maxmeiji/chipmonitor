@@ -1,0 +1,58 @@
+{
+  "slug": "china-launches-ai-math-alliance-with-1000-scientists-d5a4fa94",
+  "title": "China Launches AI Math Alliance With 1,000 Scientists",
+  "publishedAt": "2026-10-13T00:23:14.651Z",
+  "eventTimeApprox": "2026-10-12T18:52:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "Leading mathematicians in Beijing convened on Sunday to establish a coordinated effort to utilize machine learning for theoretical research. The initiative incorporates 8 institutions and seeks to recruit more than 1,000 scientists into a network dedicated to automating mathematical discovery.\n\nThe group focuses on building specialized AI models capable of generating new conjectures and formalizing proofs. Members also intend to develop systems with reasoning processes that are more easily interpreted by humans to ensure the validity of the AI generated output.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109459269783621804",
+      "role": "source",
+      "authorHandle": "hsu_steve",
+      "url": "https://x.com/hsu_steve/status/2109459269783621804",
+      "tweetedAt": "2026-10-12T01:40:56.000Z",
+      "bestBit": "bring together eight leading institutions and aims to create a network of more than 1,000 scientists",
+      "text": "Don't Cry - BUILD! 🦾\n\nLeading China’s mathematicians joined forces in Beijing on Sunday to launch an alliance aimed at integrating artificial intelligence into mathematical research.\n\nIt will bring together eight leading institutions and aims to create a network of more than 1,000 scientists.\n\nThe alliance will focus on developing specialised AI models for mathematics, using the technology to generate conjectures and formalise proofs, and building systems whose reasoning could be more easily interpreted.\n\nhttps://t.co/IXNB06iiCl"
+    },
+    {
+      "tweetId": "2109718919824933109",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2109718919824933109",
+      "tweetedAt": "2026-10-12T18:52:41.000Z",
+      "bestBit": "there won't be any more human Fields Medals, but maybe some Chinese ones will still happen",
+      "text": "Based\nembrace the void\nthere won't be any more human Fields Medals, but maybe some Chinese ones will still happen. https://t.co/qqnpBRdGj6",
+      "quotedTweetText": "Don't Cry - BUILD! 🦾\n\nLeading China’s mathematicians joined forces in Beijing on Sunday to launch an alliance aimed at integrating artificial intelligence into mathematical research.\n\nIt will bring together eight leading institutions and aims to create a network of more than 1,000 scientists.\n\nThe alliance will focus on developing specialised AI models for mathematics, using the technology to generate conjectures and formalise proofs, and building systems whose reasoning could be more easily interpreted.\n\nhttps://t.co/IXNB06iiCl"
+    }
+  ],
+  "isSuperseded": false
+}

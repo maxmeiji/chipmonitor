@@ -1,0 +1,76 @@
+{
+  "slug": "rsi-anythings-self-improvement-boosts-ai-lab-planning-scores-to-46percen-89fc4290",
+  "title": "RSI-Anything's Self-Improvement Boosts AI Lab Planning Scores to 46%",
+  "publishedAt": "2026-10-12T08:25:38.577Z",
+  "eventTimeApprox": "2026-10-12T05:14:27.500Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "A new artificial intelligence framework has increased the success rate of autonomous code-repair to 31.2% by predicting the consequences of its own actions. Known as RSI-Anything and built on JEPA-Anything, the model employs world models to autonomously refine its own policies and workflows. In tests across four diverse domains, the system raised lab-planning scores from 21.80% to 46.01% over five policy versions and reduced the actions required for GUI tasks by 39.4%. For chemical reaction optimization, the model achieved a mean best observed yield of 96.15%, compared to 82.16% for Bayesian optimization given a 40 experiment budget.\n\nThe developers have released the model's code and a detailed research paper to the public. The project's announcement, which describes a single recursive self-improvement model capable of operating across coding, planning, and science tasks, was amplified by Yann LeCun, Chief AI Scientist at Meta. This method enables an AI to learn by anticipating how specific actions will change its environment and then using that feedback to iterate on its internal performance.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109468200866074817",
+      "role": "source",
+      "authorHandle": "lingyang_pu",
+      "url": "https://x.com/LingYang_PU/status/2109468200866074817",
+      "tweetedAt": "2026-10-12T02:16:25.000Z",
+      "bestBit": "Lab-planning scores: 21.80% → 46.01% over five policy versions",
+      "text": "Introducing RSI-Anything: Unlocking Recursive Self-Improvement with World Models 🚀\n\nCan AI learn to improve itself by predicting the consequences of its actions?\n\nBuilt on JEPA-Anything, RSI-Anything uses world models to guide action selection and learning. Feedback improves the policy or workflow and, when needed, the world model. Validated updates carry forward to shape the next round of experience.\n\nAcross code, GUI interaction, laboratory planning, and reaction optimization:\n• Code-repair success: 26.3% → 31.2%, with the coder fixed\n• GUI agent task: 39.4% fewer actions, with higher completion\n• Lab-planning scores: 21.80% → 46.01% over five policy versions\n• Mean best observed reaction yield: 96.15% vs. 82.16% for Bayesian optimization, under the same 40-experiment budget\n\n📄 Paper: https://t.co/8p44YbLjqE\n💻 Code: https://t.co/EqXmXvtaM4\n\nWatch the video below 👇\n\n#RSI #WorldModels #RSI #AIAgents #AIforScience #JEPA"
+    },
+    {
+      "tweetId": "2109535041156243545",
+      "role": "signal",
+      "authorHandle": "ylecun",
+      "url": "https://x.com/ylecun/status/2109535041156243545",
+      "tweetedAt": "2026-10-12T06:42:01.000Z",
+      "bestBit": "Introducing RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+      "text": "RT @LingYang_PU: Introducing RSI-Anything: Unlocking Recursive Self-Improvement with World Models 🚀\n\nCan AI learn to improve itself by pred…"
+    },
+    {
+      "tweetId": "2109490968860966970",
+      "role": "commentary",
+      "authorHandle": "charles_y_wu",
+      "url": "https://x.com/Charles_Y_Wu/status/2109490968860966970",
+      "tweetedAt": "2026-10-12T03:46:54.000Z",
+      "bestBit": "One RSI model that works across coding, GUI, planning, or even Science tasks.",
+      "text": "Excited to introduce RSI-Anything! \n\nOne RSI model that works across coding, GUI, planning, or even Science tasks.    \n\nLet's RSI Everything! \n\n📄 Paper: https://t.co/HOD4782oWP\n💻 Code: https://t.co/ttGFHVmfdt\n\n#RSI #WorldModels #RSI #AIAgents #AIforScience #JEPA"
+    },
+    {
+      "tweetId": "2109557292945551522",
+      "role": "commentary",
+      "authorHandle": "jiaxi_cui",
+      "url": "https://x.com/Jiaxi_Cui/status/2109557292945551522",
+      "tweetedAt": "2026-10-12T08:10:26.000Z",
+      "bestBit": "congrats on the great work!",
+      "text": "What did I say lol\n\nStill, congrats on the great work!\n\n https://t.co/j6vavO0vEQ https://t.co/yb3lHxGjcS",
+      "quotedTweetText": "Excited to introduce RSI-Anything! \n\nOne RSI model that works across coding, GUI, planning, or even Science tasks.    \n\nLet's RSI Everything! \n\n📄 Paper: https://t.co/HOD4782oWP\n💻 Code: https://t.co/ttGFHVmfdt\n\n#RSI #WorldModels #RSI #AIAgents #AIforScience #JEPA"
+    }
+  ],
+  "isSuperseded": false
+}

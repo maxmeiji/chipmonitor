@@ -1,0 +1,59 @@
+{
+  "slug": "coding-agent-platform-humanlayer-joins-software-automation-firm-factory-7a91c080",
+  "title": "Coding Agent Platform HumanLayer Joins Software Automation Firm Factory",
+  "publishedAt": "2026-11-04T19:53:37.212Z",
+  "eventTimeApprox": "2026-11-04T17:42:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:FCTY",
+      "kind": "private",
+      "role": "subject",
+      "name": "Factory",
+      "hubKey": "factory"
+    }
+  ],
+  "summary": "Factory is absorbing the team and technology of HumanLayer, a provider of multiplayer coding agents and cloud infrastructure. The collaboration aims to build \"software factories\" that enable entire engineering organizations to utilize coding agents to develop software both locally and in the background.\n\nThe transition brings HumanLayer's agentic IDE and development tools into Factory's ecosystem, with the HumanLayer founders joining the project to focus on scaling automated engineering workflows. The new tools are intended to let professional development teams coordinate agents to handle coding tasks across a cloud and local environment.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118033889772155121",
+      "role": "source",
+      "authorHandle": "factory",
+      "url": "https://x.com/factory/status/2118033889772155121",
+      "tweetedAt": "2026-11-04T17:33:25.000Z",
+      "bestBit": "HumanLayer is a multiplayer coding agent IDE and cloud for running agents locally or in the background.",
+      "text": "Today, @humanlayer_dev is joining Factory.\n\nHumanLayer is a multiplayer coding agent IDE and cloud for running agents locally or in the background.\n\nTogether, with @dexhorthy and @0xblacklight we're building the future of software factories for entire engineering teams. https://t.co/y2O3qugX2M"
+    }
+  ],
+  "isSuperseded": false
+}

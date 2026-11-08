@@ -1,0 +1,77 @@
+{
+  "slug": "chinese-state-leasing-firm-funds-restricted-nvidia-b300-servers-797332b6",
+  "title": "Chinese State Leasing Firm Funds Restricted Nvidia B300 Servers",
+  "publishedAt": "2026-10-02T11:39:01.926Z",
+  "eventTimeApprox": "2026-10-02T06:35:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "geopolitics",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Documents in a credit database managed by the People's Bank of China show a municipal-owned entity financed Asustek hardware using chips banned for export to China. The leasing company provided the capital for 32 servers featuring Nvidia B300 Blackwell processors, which are barred from the Chinese market under US rules without an explicit license.\n\nNvidia is investigating the transaction with its server-making customers, while Asus stated it remains committed to strict compliance with export laws. These filings indicate funds moved from a government-controlled lender into a computing park operated by a state carrier, contrasting with previous smuggling cases involving private brokers and corporate insiders.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105853560860590206",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2105853560860590206",
+      "tweetedAt": "2026-10-02T02:53:08.000Z",
+      "bestBit": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia chips",
+      "text": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia chips, according to documents filed with Beijing regulators https://t.co/x2V9vJtgkK"
+    },
+    {
+      "tweetId": "2105909463094026388",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2105909463094026388",
+      "tweetedAt": "2026-10-02T06:35:16.000Z",
+      "bestBit": "financed 32 Asustek servers built on export-restricted Nvidia B300 chips, which US rules bar from China without an explicit license",
+      "text": "Bloomberg: A leasing company controlled by Chinese local governments financed 32 Asustek servers built on export-restricted Nvidia B300 chips, which US rules bar from China without an explicit license.\n\nThe evidence sits in financing details that Chinese companies must legally lodge with a credit database run by the People's Bank of China.\n\nNvidia said it would investigate with its server-making customer, and Asus said it is committed to strict compliance with export controls.\n\nEarlier smuggling cases implicated brokers and corporate insiders, whereas these filings run from a government-controlled lender into a state carrier's computing park."
+    }
+  ],
+  "isSuperseded": false
+}

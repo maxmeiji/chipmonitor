@@ -1,0 +1,80 @@
+{
+  "slug": "update-mojo-delivers-41x-speedup-over-python-in-initial-open-source-test-e99fd6b4",
+  "title": "UPDATE: Mojo Delivers 41x Speedup Over Python in Initial Open Source Tests",
+  "publishedAt": "2026-10-27T16:53:53.274Z",
+  "eventTimeApprox": "2026-10-23T18:57:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "software",
+      "name": "Software"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "summary": "Early performance benchmarks for the Mojo programming language show significant speed gains over Python for scientific computing, including a 41x increase in execution speed for specific data kernels. A user port of the iCorrVision software reduced the processing time of a uniaxial tensile test from 18.3 minutes using single-threaded Python to 26.7 seconds when utilizing 24 threads in Mojo. The same test run on a single Mojo thread finished in 3.3 minutes, representing a 5.6x improvement over Python.\n\nModular founder Chris Lattner also reported that the newly open MAX graph compiler has outperformed llama.cpp on mobile CPU and GPU hardware. These results follow the Oct. 23 announcement that the Mojo language and the MAX toolset, including its runtime internals and hardware abstraction logic, were made open for commercial development and extension.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113639627445965251",
+      "role": "source",
+      "authorHandle": "clattner_llvm",
+      "url": "https://x.com/clattner_llvm/status/2113639627445965251",
+      "tweetedAt": "2026-10-23T14:32:11.000Z",
+      "bestBit": "Mojo and MAX are now fully open - for development, extension, and commercial use!",
+      "text": "I'm happy to share that Mojo and MAX are now fully open - for development, extension, and commercial use! This includes the full Mojo programming language, but also the MAX graph compiler, MLRT runtime internals, and hardware abstraction logic.\n\nGet your agents going!👇"
+    },
+    {
+      "tweetId": "2113978635765883171",
+      "role": "source",
+      "authorHandle": "jcxavier",
+      "url": "https://x.com/jcxavier/status/2113978635765883171",
+      "tweetedAt": "2026-10-24T12:59:17.000Z",
+      "bestBit": "Mojo (24 threads): 26.7 s (41x)",
+      "text": "Curiosity project: I ported the correlation kernel of iCorrVision, our open-source Python DIC software, to Mojo, and the speed-up is striking.\n\nUniaxial tensile test, every node, full test:\n🐍 Python (1 thread): 18.3 min\n🔥 Mojo (1 thread): 3.3 min (5.6x)\n🔥 Mojo (24 threads): 26.7 s (41x)\n\nBiaxial: 16.0 min → 32.0 s (30x).\n\nCongrats @clattner_llvm on opening up Mojo and MAX! #Mojo #DIC #ExperimentalMechanics"
+    },
+    {
+      "tweetId": "2115118350984712625",
+      "role": "source",
+      "authorHandle": "clattner_llvm",
+      "url": "https://x.com/clattner_llvm/status/2115118350984712625",
+      "tweetedAt": "2026-10-27T16:28:06.000Z",
+      "bestBit": "Great perf on mobile CPU and GPU, beating llama.cpp.",
+      "text": "MAX🧑‍🚀 was opened a few days ago and Apurva is already blazing an incredible trail. Great perf on mobile CPU and GPU, beating llama.cpp. Also support for multiple vendors GPUs, and getting the right device/desktop split.\n\nIncredible work between studies + just the start! 🚀",
+      "quotedTweetText": "@Modular @PrismML I wrote about bring-up, optimizations, failed experiments, and benchmark results.\n\n- Blog: https://t.co/PLiuRpdxDL\n- Source + reproducible benchmarks: https://t.co/aEA5NJZvDC\n\nIf you find anything questionable in the measurements, I'd love to hear it!"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "mojo-and-max-go-fully-open-for-commercial-use-9043b28b",
+    "title": "Mojo and MAX Go Fully Open for Commercial Use",
+    "publishedAt": "2026-10-23T19:09:20.294Z",
+    "eventTimeApprox": "2026-10-23T15:08:13.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

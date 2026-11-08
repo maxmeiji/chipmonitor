@@ -1,0 +1,107 @@
+{
+  "slug": "kling-ai-releases-kling-40-with-expanded-public-api-access-and-30-second-9e113473",
+  "title": "Kling AI Releases Kling 4.0 With Expanded Public API Access and 30 Second Video Clips",
+  "publishedAt": "2026-10-26T19:54:37.670Z",
+  "eventTimeApprox": "2026-10-22T11:57:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 38,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113186131949068753/8QblQIFAYBt9VtUa-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113186131949068753/8QblQIFAYBt9VtUa-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2113186098310750208/vid/avc1/1920x1080/Krplfs0VjP7n3M67.mp4?tag=16",
+    "credit": {
+      "handle": "magnific",
+      "tweetUrl": "https://x.com/magnific/status/2113186131949068753"
+    }
+  },
+  "summary": "The company behind the Kling generative AI system has integrated its latest multimodal tool into the fal, Runway, and Higgsfield platforms. The software, which recently entered its general API rollout phase, is now accessible to all customers on the fal platform, allowing developers to embed the video generation model into their own product workflows.\n\nThe new system supports the creation of native video scenes up to 30 seconds long and includes a tool that combines as many as 15 different image, video, or voice assets in a single generation. To improve scene progression, creators can use up to 10 keyframes, while a partnership with Runway provides new Max and Team plan users with 3 days of unlimited access to the model.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112945976470069358",
+      "role": "source",
+      "authorHandle": "kling_ai",
+      "url": "https://x.com/Kling_ai/status/2112945976470069358",
+      "tweetedAt": "2026-10-21T16:35:52.000Z",
+      "bestBit": "KLING 4.0 API — Officially Rolling Out Now",
+      "text": "KLING 4.0 API — Officially Rolling Out Now\n\nIntegrate Kling 4.0 into your products and workflows. Let’s build. 🚀 #Kling4 #KlingAI"
+    },
+    {
+      "tweetId": "2113646807997620396",
+      "role": "source",
+      "authorHandle": "fal",
+      "url": "https://x.com/fal/status/2113646807997620396",
+      "tweetedAt": "2026-10-23T15:00:43.000Z",
+      "bestBit": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+      "text": "Kling 4.0 is now publicly available on fal, with API access open to all customers.\n\nThe latest model from @Kling_ai brings:\n\n• Up to 30 seconds of native video generation with audio\n• Up to 15 image, video, and element references\n• Precise control with up to 10 keyframes\n• Improved motion, character consistency, and cinematic storytelling\n\nStart building with Kling 4.0 on fal today."
+    },
+    {
+      "tweetId": "2112922156845641823",
+      "role": "support",
+      "authorHandle": "fal",
+      "url": "https://x.com/fal/status/2112922156845641823",
+      "tweetedAt": "2026-10-21T15:01:13.000Z",
+      "bestBit": "A next-generation native multimodal video model with improved stability for complex motion, stronger reference consistency across characters and scenes, and more precise control over cinematic storytelling.",
+      "text": "Kling 4.0 is now live on fal.\n\nA next-generation native multimodal video model with improved stability for complex motion, stronger reference consistency across characters and scenes, and more precise control over cinematic storytelling.\n\nAvailable exclusively through the fal UX and fal Agent. API access coming soon."
+    },
+    {
+      "tweetId": "2112925874144030784",
+      "role": "support",
+      "authorHandle": "runwayml",
+      "url": "https://x.com/runwayml/status/2112925874144030784",
+      "tweetedAt": "2026-10-21T15:15:59.000Z",
+      "bestBit": "Sign up for a new Max or Team plan to get 3 days of unlimited access. Plus 25% off Kling 4 on all plans.",
+      "text": "Unlimited Kling 4 is now live on Runway.\n\nSign up for a new Max or Team plan to get 3 days of unlimited access. Plus 25% off Kling 4 on all plans. Get started at the link below. https://t.co/AthV6pDo0c"
+    },
+    {
+      "tweetId": "2112923547563917801",
+      "role": "support",
+      "authorHandle": "higgsfield",
+      "url": "https://x.com/higgsfield/status/2112923547563917801",
+      "tweetedAt": "2026-10-21T15:06:44.000Z",
+      "bestBit": "Omni Reference: characters, objects and audio in one generation",
+      "text": "Kling is back.\n\nKling 4.0 is now live on Higgsfield.\n\n&gt; Omni Reference: characters, objects and audio in one generation\n&gt; 30-second scenes in a single pass\n&gt; Start, middle and end frames to direct every beat\n&gt; Native 4K coming soon\n\nAvailable now on Higgsfield. https://t.co/bRzFlhCzvs"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "runway-adds-unlimited-access-to-kling-40-video-model-85ebc4e9",
+    "title": "Runway Adds Unlimited Access to Kling 4.0 Video Model",
+    "publishedAt": "2026-10-21T17:10:18.488Z",
+    "eventTimeApprox": "2026-10-21T16:06:37.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 31,
+    "authorCount": 11
+  }
+}

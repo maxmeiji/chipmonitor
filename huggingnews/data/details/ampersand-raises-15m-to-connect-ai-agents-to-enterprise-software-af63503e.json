@@ -1,0 +1,70 @@
+{
+  "slug": "ampersand-raises-15m-to-connect-ai-agents-to-enterprise-software-af63503e",
+  "title": "Ampersand Raises $15M to Connect AI Agents to Enterprise Software",
+  "publishedAt": "2026-10-06T16:56:40.887Z",
+  "eventTimeApprox": "2026-10-06T16:11:35.500Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "Bessemer led a financing round for Ampersand to launch the general availability of its integration platform for AI agents. The company raised $15M in a Series A, bringing total funding to $20M, to help AI tools navigate the custom fields, permissions, and workflows of systems like Salesforce, SAP, NetSuite, and Workday. Ampersand currently provides this infrastructure for enterprise customers including Square, 11x, and Orb to prevent custom software deployments from requiring separate engineering projects.\n\nThe company is also releasing Andi, an AI integration agent, in beta after three years of development with its customer base. Ampersand will use the new capital to expand its coverage of Enterprise Resource Planning (ERP) systems, build agentic integration infrastructure, and increase its number of forward-deployed experts.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107501360031924549",
+      "role": "source",
+      "authorHandle": "ayanb",
+      "url": "https://x.com/ayanb/status/2107501360031924549",
+      "tweetedAt": "2026-10-06T16:00:54.000Z",
+      "bestBit": "power 11x, Orb, and Square's ability to take agentic action in systems of record like Salesforce, SAP, NetSuite, and Workday",
+      "text": "Your AI is vaporware without deep integrations with your customers’ systems of record.\n\nIntroducing @WithAmpersand: integration infrastructure for enterprise agents.\n\nWe power 11x, Orb, and Square's ability to take agentic action in systems of record like Salesforce, SAP, NetSuite, and Workday.\n\nAsk anyone serious about building AI and they’ll tell you:\n\n- The SaaSpocalypse didn’t happen. The world depends on CRMs, ERPs, HRISs, and ITSMs.\n- Your customers customized their deployments beyond recognition.\n- Systems of record companies are basically monopolies. They never had to make their APIs and MCPs user-friendly.\n- Docs don't explain half the weird edge cases you'll hit.\n- One bad write can blow up your pilot or renewal.\n- Once you finally get it working, someone changes a field and it breaks again.\n\nThe world's data lives in structured databases. AI needs a translation layer to work with it.\n\nSo, for your AI to truly transform the way enterprises work, you'll need deep integrations built for:\n- scoped permissions\n- bi-directional actions\n- real-time speed for agents\n- custom objects, fields, and workflows for each of your customers\n\nWe built Ampersand to power the future of software.\n\nAI didn't trivialize writing integrations. It made them the critical path.\n\nI believe that deeply, so I didn't make a launch video about Ampersand.\n\nInstead, it's the best builders I know explaining just how big of a challenge this is."
+    },
+    {
+      "tweetId": "2107503313872998565",
+      "role": "commentary",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2107503313872998565",
+      "tweetedAt": "2026-10-06T16:08:40.000Z",
+      "bestBit": "raised a $15M Series A led by Bessemer, bringing total funding to $20M, as it makes its integration platform generally available",
+      "text": "AMPERSAND RAISES $15M TO HELP AI AGENTS WORK INSIDE ENTERPRISE SOFTWARE\n\nAmpersand has raised a $15M Series A led by Bessemer, bringing total funding to $20M, as it makes its integration platform generally available.\n\nThe company helps AI agents connect to systems like Salesforce, NetSuite, SAP and Workday, where custom fields, permissions and workflows can make each customer deployment a separate engineering project.\n\nThe new funding will support broader ERP coverage, agentic integration infrastructure and more forward-deployed expertise.\n\nAmpersand is also launching Andi, its AI integration agent, in beta after spending three years building alongside customers including 11x, Orb and Square. \n\nhttps://t.co/yavUn56SXc",
+      "quotedTweetText": "Your AI is vaporware without deep integrations with your customers’ systems of record.\n\nIntroducing @WithAmpersand: integration infrastructure for enterprise agents.\n\nWe power 11x, Orb, and Square's ability to take agentic action in systems of record like Salesforce, SAP, NetSuite, and Workday.\n\nAsk anyone serious about building AI and they’ll tell you:\n\n- The SaaSpocalypse didn’t happen. The world depends on CRMs, ERPs, HRISs, and ITSMs.\n- Your customers customized their deployments beyond recognition.\n- Systems of record companies are basically monopolies. They never had to make their APIs and MCPs user-friendly.\n- Docs don't explain half the weird edge cases you'll hit.\n- One bad write can blow up your pilot or renewal.\n- Once you finally get it working, someone changes a field and it breaks again.\n\nThe world's data lives in structured databases. AI needs a translation layer to work with it.\n\nSo, for your AI to truly transform the way enterprises work, you'll need deep integrations built for:\n- scoped permissions\n- bi-directional actions\n- real-time speed for agents\n- custom objects, fields, and workflows for each of your customers\n\nWe built Ampersand to power the future of software.\n\nAI didn't trivialize writing integrations. It made them the critical path.\n\nI believe that deeply, so I didn't make a launch video about Ampersand.\n\nInstead, it's the best builders I know explaining just how big of a challenge this is."
+    },
+    {
+      "tweetId": "2107504787759694055",
+      "role": "support",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107504787759694055",
+      "tweetedAt": "2026-10-06T16:14:31.000Z",
+      "bestBit": "Agents are really becoming the interface while systems of record stay essential underneath them becoming the back-end databases agents call",
+      "text": "Ampersand raised $15M to connect AI agents directly into enterprise systems like $CRM, $SAP and $WDAY.\n\nAgents are really becoming the interface while systems of record stay essential underneath them becoming the back-end databases agents call.",
+      "quotedTweetText": "Your AI is vaporware without deep integrations with your customers’ systems of record.\n\nIntroducing @WithAmpersand: integration infrastructure for enterprise agents.\n\nWe power 11x, Orb, and Square's ability to take agentic action in systems of record like Salesforce, SAP, NetSuite, and Workday.\n\nAsk anyone serious about building AI and they’ll tell you:\n\n- The SaaSpocalypse didn’t happen. The world depends on CRMs, ERPs, HRISs, and ITSMs.\n- Your customers customized their deployments beyond recognition.\n- Systems of record companies are basically monopolies. They never had to make their APIs and MCPs user-friendly.\n- Docs don't explain half the weird edge cases you'll hit.\n- One bad write can blow up your pilot or renewal.\n- Once you finally get it working, someone changes a field and it breaks again.\n\nThe world's data lives in structured databases. AI needs a translation layer to work with it.\n\nSo, for your AI to truly transform the way enterprises work, you'll need deep integrations built for:\n- scoped permissions\n- bi-directional actions\n- real-time speed for agents\n- custom objects, fields, and workflows for each of your customers\n\nWe built Ampersand to power the future of software.\n\nAI didn't trivialize writing integrations. It made them the critical path.\n\nI believe that deeply, so I didn't make a launch video about Ampersand.\n\nInstead, it's the best builders I know explaining just how big of a challenge this is."
+    }
+  ],
+  "isSuperseded": false
+}

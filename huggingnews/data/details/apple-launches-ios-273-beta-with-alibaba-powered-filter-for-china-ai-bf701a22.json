@@ -1,0 +1,143 @@
+{
+  "slug": "apple-launches-ios-273-beta-with-alibaba-powered-filter-for-china-ai-bf701a22",
+  "title": "Apple Launches iOS 27.3 Beta With Alibaba-Powered Filter for China AI",
+  "publishedAt": "2026-11-04T08:24:09.062Z",
+  "eventTimeApprox": "2026-11-03T19:37:21.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "software",
+      "name": "Software"
+    },
+    {
+      "slug": "wearables",
+      "name": "Wearables"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    },
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    }
+  ],
+  "summary": "The tech giant's latest software preview for developers brings its AI capabilities to the Chinese market through a limited trial that utilizes a content filter provided by Alibaba. This iOS 27.3 beta also introduces expanded global support for the revamped Health app, which will roll out as a free update later in 2026 with support for 11 languages, including Vietnamese, Turkish, and Portuguese.\n\nThe update includes the addition of Reachability for the iPhone Duo, fulfilling a feature promise made prior to the device's launch, along with interface adjustments to iMessage and the keyboard to improve content display. Other tests in the beta include conversation-summarizing tools for the Apple Watch Series 12 and Ultra 4, as well as Visual Intelligence support for the Apple Pencil on iPadOS, with the full public release coming in December.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117680731774193893",
+      "role": "source",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2117680731774193893",
+      "tweetedAt": "2026-11-03T18:10:05.000Z",
+      "bestBit": "The first iOS 27.3 beta is now available to developers.",
+      "text": "The first iOS 27.3 beta is now available to developers."
+    },
+    {
+      "tweetId": "2117685717690200087",
+      "role": "source",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2117685717690200087",
+      "tweetedAt": "2026-11-03T18:29:54.000Z",
+      "bestBit": "Apple Intelligence in China, redesigned Health app, AI listening features on the Apple Watch are all in the new betas.",
+      "text": "Apple Intelligence in China, redesigned Health app, AI listening features on the Apple Watch are all in the new betas. https://t.co/H81gWf3fei",
+      "quotedTweetText": "The first iOS 27.3 beta is now available to developers."
+    },
+    {
+      "tweetId": "2117692790176166025",
+      "role": "support",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2117692790176166025",
+      "tweetedAt": "2026-11-03T18:58:00.000Z",
+      "bestBit": "The betas also include Reachability on the iPhone Duo, the new Duo StandBy Mode on non Duos, and support for Siri Mode in Camera and Visual Intelligence with Apple Pencil in iPadOS.",
+      "text": "The betas also include Reachability on the iPhone Duo, the new Duo StandBy Mode on non Duos, and support for Siri Mode in Camera and Visual Intelligence with Apple Pencil in iPadOS.",
+      "quotedTweetText": "The first iOS 27.3 beta is now available to developers."
+    },
+    {
+      "tweetId": "2117686571491082526",
+      "role": "support",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2117686571491082526",
+      "tweetedAt": "2026-11-03T18:33:18.000Z",
+      "bestBit": "Siri Recap turns conversations into bullet-point summaries",
+      "text": "APPLE $AAPL JUST STARTED TESTING ALWAYS-LISTENING AI FEATURES FOR THE APPLE WATCH\n\nThey're part of the first test versions of iOS 27.3 and watchOS 27.3, per Bloomberg. The full release is set for December.\n\n- Siri Recap turns conversations into bullet-point summaries\n- Live Rewind shows a transcript of the last 15 seconds of a conversation\n- They work on the Apple Watch Series 12 and Ultra 4, in English only for now"
+    },
+    {
+      "tweetId": "2117698230943420464",
+      "role": "support",
+      "authorHandle": "aaronp613",
+      "url": "https://x.com/aaronp613/status/2117698230943420464",
+      "tweetedAt": "2026-11-03T19:19:37.000Z",
+      "bestBit": "iOS 27.3 beta 1 adds Reachability on iPhone Duo",
+      "text": "iOS 27.3 beta 1 adds Reachability on iPhone Duo https://t.co/Y0TFAQDmnZ"
+    },
+    {
+      "tweetId": "2117821664637653421",
+      "role": "commentary",
+      "authorHandle": "raywongy",
+      "url": "https://x.com/raywongy/status/2117821664637653421",
+      "tweetedAt": "2026-11-04T03:30:06.000Z",
+      "bestBit": "Apple promised this when I reviewed the iPhone Duo before launch and now it’s here to try",
+      "text": "Apple promised this when I reviewed the iPhone Duo before launch and now it’s here to try",
+      "quotedTweetText": "iOS 27.3 beta 1 adds Reachability on iPhone Duo https://t.co/Y0TFAQDmnZ"
+    },
+    {
+      "tweetId": "2117709701353738471",
+      "role": "analysis",
+      "authorHandle": "mweinbach",
+      "url": "https://x.com/mweinbach/status/2117709701353738471",
+      "tweetedAt": "2026-11-03T20:05:12.000Z",
+      "bestBit": "There are a ton of little Duo usability tweaks in iOS 27.3 around keyboard, noticed a new in iMessage",
+      "text": "There are a ton of little Duo usability tweaks in iOS 27.3 around keyboard, noticed a new in iMessage, probably more. Lots of shifting around UI elements to show more content"
+    },
+    {
+      "tweetId": "2117695083877171297",
+      "role": "support",
+      "authorHandle": "polymarket",
+      "url": "https://x.com/Polymarket/status/2117695083877171297",
+      "tweetedAt": "2026-11-03T19:07:07.000Z",
+      "bestBit": "Apple officially rolls out beta testing for Apple Watch's new AI feature that listens to &amp; analyzes all nearby conversations.",
+      "text": "JUST IN: Apple officially rolls out beta testing for Apple Watch's new AI feature that listens to &amp; analyzes all nearby conversations."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "apples-new-software-beta-introduces-ai-conversation-listening-for-apple-1b4b184d",
+    "title": "Apple's New Software Beta Introduces AI Conversation Listening for Apple Watch",
+    "publishedAt": "2026-11-03T19:24:12.770Z",
+    "eventTimeApprox": "2026-11-03T18:33:18.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 11,
+    "authorCount": 9
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "lerobot-v070-adds-real-time-steering-and-expanded-model-support-for-open-9220bcc3",
+  "title": "LeRobot v0.7.0 Adds Real Time Steering and Expanded Model Support for Open Robotics Stack",
+  "publishedAt": "2026-11-06T09:38:04.782Z",
+  "eventTimeApprox": "2026-11-06T08:53:03.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "subject",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "summary": "LeRobot released version 0.7.0 of its robotics software, introducing features that allow operators to steer or communicate with robots using text commands during active operation. The update enables users to modify specific subtasks, ask the robot about its current visual environment via visual question answering, or set high level objectives that a visual language model planner then breaks down into smaller steps.\n\nThe new version also updates the training stack to support world action models with 5B to 20B parameters and adds four new VLAs and world action models, including FLUX 3 Action and Cosmos 3. To handle these larger models, the framework now allows training directly from Storage Buckets, LanceDB, or its data Hub, which contains nearly 300TB of physical AI data. The open source ecosystem now includes more than 50,000 developers and 300 organizations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118622053628551431",
+      "role": "source",
+      "authorHandle": "lerobothf",
+      "url": "https://x.com/LeRobotHF/status/2118622053628551431",
+      "tweetedAt": "2026-11-06T08:30:34.000Z",
+      "bestBit": "join the 50,000+ developers & 300+ organizations in the LeRobot ecosystem",
+      "text": "𝗟𝗲𝗥𝗼𝗯𝗼𝘁 𝘃𝟬.𝟳.𝟬 𝗶𝘀 𝗟𝗜𝗩𝗘 🚀🤖\n\nFrom terabytes of data to prompting robots! Check out all what's new in the video below and join the 50,000+ developers &amp; 300+ organizations in the LeRobot ecosystem 🤗 https://t.co/eK7thZIz6B"
+    },
+    {
+      "tweetId": "2118628496419311723",
+      "role": "analysis",
+      "authorHandle": "lysandrejik",
+      "url": "https://x.com/LysandreJik/status/2118628496419311723",
+      "tweetedAt": "2026-11-06T08:56:10.000Z",
+      "bestBit": "The training stack has also been rebuilt for 5-20B parameter world action models: FSDP2, HSDP, distributed checkpoints, FP16, EMA and more.",
+      "text": "LeRobot v0.7.0 is out, and this is a very big one 🦾\n\nYou can now talk/steer a robot while it’s running; change its task:\n\n`/subtask pick up the red cube`\n\nAsk what it sees:\n\n`/vqa how many cubes are left?`\n\nOr give it a higher-level goal:\n\n`/autosteer clear the table`\n\nand let the policy or an external VLM planner figure out the subtasks!\n\nAnd this just scratches the surface of v0.7.0! Other banger features include 👇\n\nTraining directly on huge datasets from the Hub, Storage Buckets or @lancedb without downloading them first; particularly relevant when the Hub is already approaching !!300 TB of open Physical AI data!!\n\nThe training stack has also been rebuilt for 5-20B parameter world action models: FSDP2, HSDP, distributed checkpoints, FP16, EMA and more.\n\nThe model zoo keeps growing:\n\n- 4 new world action models, including Cosmos 3 and FLUX 3 Action\n- 4 new VLAs\n- remote inference, so the robot can stay lightweight while the policy runs on a GPU server\n- a common simulation stack that works much more like real hardware\n\nLeRobot is becoming less about individual robot policies and more about having one open stack from TBs of demonstrations, all the way to a robot you can interact with in real time!",
+      "quotedTweetText": "𝗟𝗲𝗥𝗼𝗯𝗼𝘁 𝘃𝟬.𝟳.𝟬 𝗶𝘀 𝗟𝗜𝗩𝗘 🚀🤖\n\nFrom terabytes of data to prompting robots! Check out all what's new in the video below and join the 50,000+ developers &amp; 300+ organizations in the LeRobot ecosystem 🤗 https://t.co/eK7thZIz6B"
+    }
+  ],
+  "isSuperseded": false
+}

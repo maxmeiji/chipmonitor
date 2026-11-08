@@ -1,0 +1,148 @@
+{
+  "slug": "update-bernie-sanders-demands-ai-pause-after-tavus-48percent-video-pass-d2db0154",
+  "title": "UPDATE: Bernie Sanders Demands AI Pause After Tavus’ 48% Video Pass Rate",
+  "publishedAt": "2026-10-03T19:12:05.151Z",
+  "eventTimeApprox": "2026-10-01T17:17:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 64,
+  "authorCount": 52,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105704169009246248/Eg64cvr-3yHbydSB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105704169009246248/Eg64cvr-3yHbydSB-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2105703934073683968/vid/avc1/1920x1080/boM_f4thNdNU7MVQ.mp4?tag=16",
+    "credit": {
+      "handle": "tavus",
+      "tweetUrl": "https://x.com/tavus/status/2105704169009246248"
+    }
+  },
+  "summary": "A new generative model that can impersonate humans in real-time video calls has triggered warnings of a 'dystopian world' and a wave of criticism from U.S. lawmakers. Senator Bernie Sanders has called for an immediate halt to AI development after Tavus's Griffin model fooled 48% of 54 test participants into believing they were speaking with a person during one-minute live chats. This outperforms the less than 3% pass rate of previous systems, prompting fears from critics that the technology will be used to facilitate sophisticated scams by impersonating family members or government officials.\n\nTavus CEO Hassaan Raza stated that Griffin is a limited research preview and not yet available for public use. The company is currently collaborating with partners on regulation and disclosure systems to ensure users know they are interacting with an AI, while proposing future applications in digital tutoring and healthcare. The model uses a full-duplex system to see and hear users while simultaneously generating video responses, a capability that placed it first on Nvidia's benchmark for full-duplex AI video.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105704169009246248",
+      "role": "source",
+      "authorHandle": "tavus",
+      "url": "https://x.com/tavus/status/2105704169009246248",
+      "tweetedAt": "2026-10-01T16:59:30.000Z",
+      "bestBit": "48% of people who talked to it live thought it was a real human",
+      "text": "Introducing Griffin, the first model to pass the video Turing test.\n\n48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA's benchmark for full-duplex AI video.\n\nIt’s the first Human Interaction Model (HIM). https://t.co/eb11XbC8Xr"
+    },
+    {
+      "tweetId": "2106123796885430670",
+      "role": "source",
+      "authorHandle": "sensanders",
+      "url": "https://x.com/SenSanders/status/2106123796885430670",
+      "tweetedAt": "2026-10-02T20:46:57.000Z",
+      "bestBit": "PAUSE AI NOW",
+      "text": "In a new experiment, nearly half the people on a video call thought they were speaking to a human. They weren't. It was a new AI model.\n \nThat is INSANE.\n \nDoes anyone in America think it is a good idea to race forward to build machines that replace us?\n \nPAUSE AI NOW.",
+      "quotedTweetText": "Introducing Griffin, the first model to pass the video Turing test.\n\n48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA's benchmark for full-duplex AI video.\n\nIt’s the first Human Interaction Model (HIM). https://t.co/eb11XbC8Xr"
+    },
+    {
+      "tweetId": "2105735563873861823",
+      "role": "commentary",
+      "authorHandle": "garrytan",
+      "url": "https://x.com/garrytan/status/2105735563873861823",
+      "tweetedAt": "2026-10-01T19:04:15.000Z",
+      "bestBit": "Pretty wild the woman in this video is a realtime generated agent",
+      "text": "Pretty wild the woman in this video is a realtime generated agent",
+      "quotedTweetText": "The whole point of building Tavus has been simple: talking to a machine should feel as natural as talking to a friend or coworker.\n\nIt’s hard to describe all the tiny nuances that make a conversation feel human. The little expressions. Moving around in your chair. Knowing when to speak and when to listen. The dance of it all.\n\nGriffin is by far the closest anyone has come to a model that can capture those nuances. The first time I saw it being used, I had no idea I was watching our model rather than just a normal video call.\n\nI’m so incredibly proud of this team and what they’ve built."
+    },
+    {
+      "tweetId": "2106185447361896475",
+      "role": "source",
+      "authorHandle": "hassaanraza",
+      "url": "https://x.com/hassaanraza/status/2106185447361896475",
+      "tweetedAt": "2026-10-03T00:51:56.000Z",
+      "bestBit": "Griffin, our latest model, isn’t publicly available yet",
+      "text": "Yesterday we previewed Griffin, a Human Interaction Model capable of seeing, hearing, sounding, and looking like a human does. There have been a lot of questions, so I wanted to take a moment to share our thoughts.\n\nBy way of introduction: Tavus is a research lab focused on enabling machines to meet us where we are, and to understand the nuances of how we communicate beyond words.\n\nGriffin, our latest model, isn’t publicly available yet. Yesterday’s announcement was a limited research preview to demonstrate what the model is capable of. With AI progressing so quickly, we prefer to share breakthroughs openly and in real-time as we work on a safe public release.\n\nFace-to-face is how we evolutionarily communicate, it carries the most meaning and intent, and we want computers to be able to help with work that benefits from that emotional understanding, expression, and immersion. Some examples of the kinds of use cases we care deeply about:\n\n- A tutor that can build understanding of how a student learns, see exactly when there is confusion or disengagement, and adapt the lesson to fit them.\n\n- A health expert that can answer any questions about your upcoming appointment or prescription, at the pace you want, at any time you need, even on a weekend.\n\n- A language coach that you can practice speaking with, that can correct your movement and pronunciation, and help build confidence to have real conversations\n\n- Or the perfect assistant for everyone, that understands intent, knows how you work and remembers what matters.\n\nWe’re working with partners on safeguards and systems for disclosure, as well as inviting discussions with officials around wider regulation and safe use. People will always know they’re interacting with AI, while providing an interface that removes the need to ‘speak computer’.\n\nWe believe in a future where computers understand us well enough to make technology more accessible, more useful, and make us more capable as humans. That is the world we want to build, and we understand the responsibility to do so safely.",
+      "quotedTweetText": "Introducing Griffin, the first model to pass the video Turing test.\n\n48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA's benchmark for full-duplex AI video.\n\nIt’s the first Human Interaction Model (HIM). https://t.co/eb11XbC8Xr"
+    },
+    {
+      "tweetId": "2105715052146033114",
+      "role": "analysis",
+      "authorHandle": "kwindla",
+      "url": "https://x.com/kwindla/status/2105715052146033114",
+      "tweetedAt": "2026-10-01T17:42:45.000Z",
+      "bestBit": "model is full-duplex (it can talk and listen at the same time), and does vision and audio input and audio+video output in realtime",
+      "text": "We blew past the Turing test for voice agents about a year ago. I don't think we talk about this enough.\n\nWe have lots of data from real-world voice agent deployments. In contexts like customer support, people often forget they are talking to a voice agent. This is true even when the system tells people they are talking to an AI agent at the beginning of the session. (Which I think is a best practice that almost all AI agents should adhere to.)\n\nSo ... when will this happen for realtime, conversational AI video? Well, we're getting very close.\n\n@tavus just released a new realtime video model that, at its best, passes the Turing test for conversational video. It's pretty amazing.\n\nThe model is full-duplex (it can talk and listen at the same time), and does vision and audio input and audio+video output in realtime. Both on the nascent conversational video benchmarks, and in my testing, it's a pretty big step forward.\n\nHere's an unedited video of one of my conversations with the new model.\n\nI think you can see a few interesting things here. When the model responds as quickly as you expect a human to respond, the experience is magical. The responses are conversational and natural; there's no leaning on stock filler phrases to hit the response time goals. The integration between the video and audio feels natural, which has historically been an uncanny valley thing that most video avatar experiences didn't quite get past. The model can do hand gestures! If you're deep into this stuff, you'll find that a little bit mind-blowing. And, in keeping with all the stuff that Tavus has released, the fact that the model can \"see\" as well as hear and talk is integral to the experience and a big part of what makes the conversation feel useful and interesting.\n\nAt the very beginning of the conversation, you can see that the model and I talk over each other. Which is something that happens a lot in human-to-human video call conversations. We both recover from this gracefully, which, again, has been something that rarely worked quite perfectly in previous generations of realtime video systems. Even more than the \"when it works perfectly\" capabilities, it's probably these recovery and robustness moments that get us all the way to experiences that feel completely natural."
+    },
+    {
+      "tweetId": "2105810322464641364",
+      "role": "commentary",
+      "authorHandle": "kimmaicutler",
+      "url": "https://x.com/kimmaicutler/status/2105810322464641364",
+      "tweetedAt": "2026-10-02T00:01:19.000Z",
+      "bestBit": "convinced last month that the cop and FBI agent Zoom calling them every 3 hours to protect them from fraud were real people",
+      "text": "Not looking good for my senior relative who was convinced last month that the cop and FBI agent Zoom calling them every 3 hours to protect them from fraud were real people.",
+      "quotedTweetText": "Introducing Griffin, the first model to pass the video Turing test.\n\n48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA's benchmark for full-duplex AI video.\n\nIt’s the first Human Interaction Model (HIM). https://t.co/eb11XbC8Xr"
+    },
+    {
+      "tweetId": "2106061752534515797",
+      "role": "commentary",
+      "authorHandle": "lwoodhouse",
+      "url": "https://x.com/lwoodhouse/status/2106061752534515797",
+      "tweetedAt": "2026-10-02T16:40:25.000Z",
+      "bestBit": "deception is the product",
+      "text": "So much of this industry is just tricking people. Like deception is the product.",
+      "quotedTweetText": "Introducing Griffin, the first model to pass the video Turing test.\n\n48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA's benchmark for full-duplex AI video.\n\nIt’s the first Human Interaction Model (HIM). https://t.co/eb11XbC8Xr"
+    },
+    {
+      "tweetId": "2105891880202535263",
+      "role": "commentary",
+      "authorHandle": "kunchenguid",
+      "url": "https://x.com/kunchenguid/status/2105891880202535263",
+      "tweetedAt": "2026-10-02T05:25:24.000Z",
+      "bestBit": "this is a technology that seems far more easily to get used for harmful purposes than for real economic benefit",
+      "text": "sigh.. must say a few things about this\n\nis face to face video chat the most efficient way to communicate with a machine? \n\nimagine you want to cancel your netflix subscription. would you prefer a button click, or turn on your camera and talk to a bot face to face?\n\nhow about booking a hotel or flight? excited to do it via a video chat with a customer service bot?\n\nimagine spending all day in zoom meetings for work, and now it’s all zoom meetings after work too?\n\nface to face communication is great at perceiving human emotions and feelings so humans can get on the same page ands build rapport with each other - this makes zero sense when it’s with a machine, except for things like therapy\n\nnow let’s think harder - if such tech is widely available and actually good, which industries have the most incentive to adopt it? well, porn and fraud come to mind\n\nimagine people stopped dating real people because “AI girlfriends” are always available\n\nimagine grandmas getting a facetime from their children\n\nimagine job interviews are just one bot talking to another, and the more expensive model wins\n\nthis is a technology that seems far more easily to get used for harmful purposes than for real economic benefit\n\ni hope people tread carefully here. build it because we know it can do good, not just because it looks cool as a demo",
+      "quotedTweetText": "Introducing Griffin, the first model to pass the video Turing test.\n\n48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA's benchmark for full-duplex AI video.\n\nIt’s the first Human Interaction Model (HIM). https://t.co/eb11XbC8Xr"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "tavus-ai-fools-48percent-of-humans-in-first-video-turing-test-pass-170f5fb1",
+    "title": "Tavus AI Fools 48% of Humans in First Video Turing Test Pass",
+    "publishedAt": "2026-10-01T17:40:41.039Z",
+    "eventTimeApprox": "2026-10-01T17:17:52.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 59,
+    "authorCount": 47
+  }
+}

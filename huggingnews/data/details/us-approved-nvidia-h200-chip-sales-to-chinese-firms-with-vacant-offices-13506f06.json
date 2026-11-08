@@ -1,0 +1,79 @@
+{
+  "slug": "us-approved-nvidia-h200-chip-sales-to-chinese-firms-with-vacant-offices-13506f06",
+  "title": "US Approved Nvidia H200 Chip Sales to Chinese Firms With Vacant Offices",
+  "publishedAt": "2026-11-07T11:37:57.982Z",
+  "eventTimeApprox": "2026-11-07T11:12:19.000Z",
+  "isFreshStory": true,
+  "tweetCount": 8,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "tech",
+    "geopolitics",
+    "ai",
+    "us-politics",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-foreign-policy",
+      "name": "US Foreign Policy"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118940427617477109/HWf3Z9XbIAAaMGf-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118940427617477109/HWf3Z9XbIAAaMGf-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "coinbureau",
+      "tweetUrl": "https://x.com/coinbureau/status/2118940427617477109"
+    }
+  },
+  "summary": "The U.S. government granted export licenses for the H200 processor to approximately 24 companies in China to assemble the chips into artificial intelligence systems, though some of those authorized appear to be shell companies. A New York Times investigation found that the listed offices for firms such as New Matrix and Maginfra were empty. New Matrix's owners were linked to the blacklisted Wise Road Capital, while Maginfra shares personnel and patents with the blacklisted server maker Inspur.\n\nThe reporting coincides with a request from Republican chairs of three House committees for a Nov 18 briefing with Nvidia CEO Jensen Huang concerning his connections to an alleged Chinese intelligence asset. While Washington has maintained strict export controls to prevent China's military modernization, the company's chief executive previously lobbied the administration to allow the sale of these advanced chips. Nvidia has stated that its dealings with Chinese entities were routine business and involved no exchange of sensitive information.",
+  "selectedTweets": [
+    {
+      "tweetId": "2119029509064438199",
+      "role": "source",
+      "authorHandle": "coinbureau",
+      "url": "https://x.com/coinbureau/status/2119029509064438199",
+      "tweetedAt": "2026-11-07T11:29:39.000Z",
+      "bestBit": "Reporters found New Matrix’s listed Beijing address vacant and linked its owners to U.S.-blacklisted Wise Road Capital.",
+      "text": "🇺🇸 NEW: U.S. approvals for Nvidia H200 chip sales to China included two firms with vacant listed offices and ties to blacklisted companies, per NYT.\n\nNew Matrix and Maginfra were among roughly two dozen Chinese companies cleared to handle the chips. Their role was to assemble them into AI systems.\n\nReporters found New Matrix’s listed Beijing address vacant and linked its owners to U.S.-blacklisted Wise Road Capital. \n\nMaginfra’s listed office was also empty. Findings confirm that the firm shares personnel and patents with blacklisted Chinese server maker Inspur.\n\nThe report adds scrutiny to Nvidia’s ties to China as House lawmakers seek a Nov 18 briefing from CEO Jensen Huang on his contacts with an alleged Chinese intelligence asset.",
+      "quotedTweetText": "🚨BREAKING: NVIDIA CEO has been summoned before congress on Nov 18 to explain ties to alleged Chinese spy.\n\nU.S Government now suspects NVIDIA chief Jensen Huang had a romantic relationship with an alleged Chinese spy based on American Intelligence memo. \n\nU.S. intelligence officials believe China’s Ministry of State Security recruited Alice Huang to gather information on American AI chips and potentially influence Nvidia’s efforts to sell advanced processors to China.\n\nThe Republican chairs of three House committees have now asked for a closed-door briefing on Huang’s contacts with Alice Huang, an executive at Megaspeed, a Singapore-based Nvidia customer.\n\nChina has historically accounted for up to a fifth of Nvidia’s revenue, and Jensen Huang personally lobbied President Trump to allow sales of Nvidia’s H200 chips there. \n\nWashington fears those chips could accelerate China’s military modernization.\n\nDespite U.S. Commerce Department export restrictions, underground networks continue to funnel advanced Nvidia hardware into mainland China. \n\nAuthorities have recently dismantled several high-profile smuggling operations, including a recent detention of an NVIDIA employee helping reroute $21 million worth of Nvidia's flagship chips to mainland China via shell companies.\n\nNvidia maintains that the meetings were routine business and that no sensitive information was shared."
+    }
+  ],
+  "isSuperseded": false
+}

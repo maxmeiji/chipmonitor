@@ -1,0 +1,88 @@
+{
+  "slug": "house-democrats-demand-ai-safety-incident-reports-within-48-hours-74989b1e",
+  "title": "House Democrats Demand AI Safety Incident Reports Within 48 Hours",
+  "publishedAt": "2026-10-28T17:53:55.422Z",
+  "eventTimeApprox": "2026-10-28T17:08:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "summary": "Three committee heads in the House have asked developers of artificial intelligence to notify the government rapidly whenever a safety flaw is detected in their models. The request seeks to compel firms such as Google and Meta to report newly discovered safety incidents within 48 hours, though the reporting window drops to 24 hours if the event may impact critical infrastructure.\n\nThe lawmakers also demanded that OpenAI, Anthropic, SpaceXSI and other major players provide a full accounting of all known past safety failures by Nov. 11. House Democrats indicated that the push for strict disclosure timelines provides a preview of their oversight priorities should they regain the House majority.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115432860824051826",
+      "role": "source",
+      "authorHandle": "punchbowlnews",
+      "url": "https://x.com/PunchbowlNews/status/2115432860824051826",
+      "tweetedAt": "2026-10-28T13:17:51.000Z",
+      "bestBit": "Top House Dems want leading artificial intelligence firms to give Congress details on past safety incidents and alert lawmakers to future issues within 48 hours.",
+      "text": "Top House Dems want leading artificial intelligence firms to give Congress details on past safety incidents and alert lawmakers to future issues within 48 hours.\n\nIt's also a glimpse into AI priorities if Dems retake the House.\n\n@BenBrodyDC has more: https://t.co/66nZSMIPY4 https://t.co/52K74PJQG1"
+    },
+    {
+      "tweetId": "2115489559236772159",
+      "role": "support",
+      "authorHandle": "erikpolyak",
+      "url": "https://x.com/ErikPolyak/status/2115489559236772159",
+      "tweetedAt": "2026-10-28T17:03:09.000Z",
+      "bestBit": "@teddyschleifer Within 24 hours is the guidance.",
+      "text": "@teddyschleifer Within 24 hours is the guidance. https://t.co/fyMfKciU7c"
+    }
+  ],
+  "isSuperseded": false
+}

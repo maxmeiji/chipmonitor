@@ -1,0 +1,89 @@
+{
+  "slug": "liberais-new-robot-model-hits-36percent-success-rate-in-unfamiliar-task-b8dc437b",
+  "title": "LiberAI's New Robot Model Hits 36% Success Rate in Unfamiliar Task Tests",
+  "publishedAt": "2026-11-04T16:38:32.799Z",
+  "eventTimeApprox": "2026-11-04T14:11:30.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118015305226334642/wTI1FRC6Qv69RcYG-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118015305226334642/wTI1FRC6Qv69RcYG-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2118015266118569984/vid/avc1/1920x930/DalrRAHaDzk0iyGQ.mp4?tag=29",
+    "credit": {
+      "handle": "arankomatsuzaki",
+      "tweetUrl": "https://x.com/arankomatsuzaki/status/2118015305226334642"
+    }
+  },
+  "summary": "Chinese robotics startup LiberAI has released Liber-0, a World Action Model designed to control robot limbs and hands without the need for task-specific training. In testing across 60 unfamiliar tasks and 600 trials, the model achieved a 36% overall success rate, with performance reaching 63.5% for pick-and-place operations and 10.5% for complex multi-step sequences. A similar test of GPT-6 Astra resulted in a 5% completion rate for the same set of tasks.\n\nThe model was pretrained on more than 2.2M hours of human experience, leveraging motion data from the company's 131 g LiberSense sensor glove. LiberAI reported that 10,000 hours of sensor glove data outperformed 2M hours of web video in matched runs. The startup says using human sensor data instead of having humans manually steer robots through tasks could lower the cost and time required for training.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117803284039905456",
+      "role": "source",
+      "authorHandle": "liberai_robot",
+      "url": "https://x.com/liberai_robot/status/2117803284039905456",
+      "tweetedAt": "2026-11-04T02:17:04.000Z",
+      "bestBit": "Across 60 tasks proposed by GPT-6 and 600 trials, Liber-0 achieved 36% overall success without robot demonstrations collected specifically for those tasks",
+      "text": "Introducing Liber-0, our World Action Model for zero-shot robot manipulation—including dexterous, multi-step tasks.\n\nAcross 60 tasks proposed by GPT-6 and 600 trials, Liber-0 achieved 36% overall success without robot demonstrations collected specifically for those tasks:\n• Pick-and-place: 63.5%\n• Other manipulation tasks: 34.0%\n• Challenging multi-step tasks: 10.5%\n\nZero-shot capability extends beyond individual actions to coordinated sequences.\n\nPretrained on 2.2M+ hours of human experience, Liber-0 jointly predicts future observations and actions to turn human experience into robot skills.\n\nTechnical blog: https://t.co/X5NMTjsr8r"
+    },
+    {
+      "tweetId": "2117965044101366155",
+      "role": "commentary",
+      "authorHandle": "itsolelehmann",
+      "url": "https://x.com/itsolelehmann/status/2117965044101366155",
+      "tweetedAt": "2026-11-04T12:59:51.000Z",
+      "bestBit": "across all 60 tasks: Liber-0 finished 36% of them and Astra finished 5%",
+      "text": "damn frontier models are way worse at controlling robots than i thought\n\nGPT-6 Astra and Liber-0 both had to run a real robot through 60 tasks they'd never practiced before.\n\nacross all 60 tasks:\n\n> Liber-0 finished 36% of them and Astra finished 5%\n> on the easy pick-up-and-place ones it was 63.5% vs 8.3%\n> on the hardest multi-step ones it was 10.5% vs 1.7%\n\nthe reason Liber-0 mogs so hard is because it learned from people wearing gloves that record exactly how their hands move.\n\nand just 10,000 hours of that glove data beat 2 million hours of regular internet video (!)\n\ni wouldn't be surprised if doing your laundry in a glove becomes a real side hustle (doordash is already starting to do something like this)",
+      "quotedTweetText": "Introducing Liber-0, our World Action Model for zero-shot robot manipulation—including dexterous, multi-step tasks.\n\nAcross 60 tasks proposed by GPT-6 and 600 trials, Liber-0 achieved 36% overall success without robot demonstrations collected specifically for those tasks:\n• Pick-and-place: 63.5%\n• Other manipulation tasks: 34.0%\n• Challenging multi-step tasks: 10.5%\n\nZero-shot capability extends beyond individual actions to coordinated sequences.\n\nPretrained on 2.2M+ hours of human experience, Liber-0 jointly predicts future observations and actions to turn human experience into robot skills.\n\nTechnical blog: https://t.co/X5NMTjsr8r"
+    },
+    {
+      "tweetId": "2118001113542901773",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2118001113542901773",
+      "tweetedAt": "2026-11-04T15:23:10.000Z",
+      "bestBit": "Workers wear a thin 131 g sensor glove that records exact hand movements while they do ordinary tasks, so no robot is needed to collect the data.",
+      "text": "This looks like a truly brilliant launch for robot training. \n\nWorkers wear a thin 131 g sensor glove that records exact hand movements while they do ordinary tasks, so no robot is needed to collect the data.\n\nChinese robotics startup LiberAI (@liberai_robot) released Liber-0, the AI model that controls a robot’s arms and hands.\n\nWith no robot demonstrations of the tested tasks, Liber-0 completed 36.0% of 600 attempts at 60 new tasks. In LiberAI’s tests, 10K glove hours also beat 2M hours of internet video.\n\nRobots normally learn a task after people steer them through it repeatedly, and Liber-0 replaces much of that with 2.2M+ hours of human experience.\n\nVideo alone shows what hands do, not the measured motion a robot must copy.\n\nThe company’s LiberSense Glove supplies that motion by logging hand poses and trajectories while people work.\n\nMeasured motion beat volume: 10K glove hours outperformed 2M hours of web video in matched runs.\n\nTrained on 25% of the robot demonstrations plus glove data, a policy scored 75.6 for partial completion, beating 72.8 from all of them.",
+      "quotedTweetText": "Introducing Liber-0, our World Action Model for zero-shot robot manipulation—including dexterous, multi-step tasks.\n\nAcross 60 tasks proposed by GPT-6 and 600 trials, Liber-0 achieved 36% overall success without robot demonstrations collected specifically for those tasks:\n• Pick-and-place: 63.5%\n• Other manipulation tasks: 34.0%\n• Challenging multi-step tasks: 10.5%\n\nZero-shot capability extends beyond individual actions to coordinated sequences.\n\nPretrained on 2.2M+ hours of human experience, Liber-0 jointly predicts future observations and actions to turn human experience into robot skills.\n\nTechnical blog: https://t.co/X5NMTjsr8r"
+    },
+    {
+      "tweetId": "2118015305226334642",
+      "role": "analysis",
+      "authorHandle": "arankomatsuzaki",
+      "url": "https://x.com/arankomatsuzaki/status/2118015305226334642",
+      "tweetedAt": "2026-11-04T16:19:34.000Z",
+      "bestBit": "If this holds up, it could make collecting training data a lot faster and cheaper, and you wouldn't need a robot in the loop for every new task.",
+      "text": "LiberAI just released Liber-0, a WAM pretrained on 2.2M+ hours of human experience.\n\nWith zero robot demos for the target task, it reached 36.0% success across 60 tasks and 600 trials. Action grounding and embodiment alignment let it turn human experience into actions a robot can execute.\n\nHuman experience is much easier to get than robot data. If this holds up, it could make collecting training data a lot faster and cheaper, and you wouldn't need a robot in the loop for every new task.",
+      "quotedTweetText": "Introducing Liber-0, our World Action Model for zero-shot robot manipulation—including dexterous, multi-step tasks.\n\nAcross 60 tasks proposed by GPT-6 and 600 trials, Liber-0 achieved 36% overall success without robot demonstrations collected specifically for those tasks:\n• Pick-and-place: 63.5%\n• Other manipulation tasks: 34.0%\n• Challenging multi-step tasks: 10.5%\n\nZero-shot capability extends beyond individual actions to coordinated sequences.\n\nPretrained on 2.2M+ hours of human experience, Liber-0 jointly predicts future observations and actions to turn human experience into robot skills.\n\nTechnical blog: https://t.co/X5NMTjsr8r"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "update-grok-bot-adds-native-x-search-and-opus-55-support-553e3887",
+  "title": "UPDATE: Grok Bot Adds Native X Search and Opus 5.5 Support",
+  "publishedAt": "2026-10-07T23:09:36.186Z",
+  "eventTimeApprox": "2026-10-07T21:50:48.500Z",
+  "isFreshStory": false,
+  "tweetCount": 37,
+  "authorCount": 28,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107949161878606089/8oAAyGCZx3U1VURs-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107949161878606089/8oAAyGCZx3U1VURs-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2107948628950298624/vid/avc1/1920x1080/tlGtL_3iQXfm7WuO.mp4?tag=29",
+    "credit": {
+      "handle": "bot",
+      "tweetUrl": "https://x.com/bot/status/2107949161878606089"
+    }
+  },
+  "summary": "The AI tool now synthesizes information from more than 100 platform posts in a single prompt to eliminate previous dependencies on external web connectors or separate search tools. This native integration allows Grok Bot to pull data directly from X to perform mention checks and activity monitoring, though the ability to publish posts remains restricted to human users while the agent handles drafting.\n\nThe update is one of two upgrades delivered within 24 hours, the other being the integration of the Opus 5.5 model. These features, including the persistent monitoring of live discussions, are available to users at no additional cost to improve the speed and volume of post analysis.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107949161878606089",
+      "role": "source",
+      "authorHandle": "bot",
+      "url": "https://x.com/bot/status/2107949161878606089",
+      "tweetedAt": "2026-10-07T21:40:18.000Z",
+      "bestBit": "Grok Bot can now search, read, and monitor X.",
+      "text": "Grok Bot can now search, read, and monitor X. https://t.co/KTYcATvrG4"
+    },
+    {
+      "tweetId": "2107969715897532596",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2107969715897532596",
+      "tweetedAt": "2026-10-07T23:01:59.000Z",
+      "bestBit": "The agent can draft posts as well. Publishing is out of its reach, though.",
+      "text": "This is beautiful. \nGrok Bot gains native X search capability.\n\nSo it can now pull from X directly and work through posts in bulk, instead of stitching together fragments from sources outside the platform.\npost search, timeline reading, mention checks and activity monitoring. \n\nThe agent can draft posts as well. Publishing is out of its reach, though. Direct posting has not launched yet, so a human must still press the button.\n https://t.co/HJFg1pg5Dd"
+    },
+    {
+      "tweetId": "2107953994588983361",
+      "role": "analysis",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2107953994588983361",
+      "tweetedAt": "2026-10-07T21:59:30.000Z",
+      "bestBit": "one prompt can trigger analysis of more than 100 X posts",
+      "text": "SPACEXAI 🔥: Grok Bot can now search X! \n\nEarlier, Grok Bot would have to rely on web search or the X connector; with this release, it can match Grok's capabilities, where one prompt can trigger analysis of more than 100 X posts. \n\nI use Grok Bot on a daily basis to compose a Daily AI Brief - looks like it will get much better tomorrow. \n\nTesting time! 👀 https://t.co/IzgVsKrvh4"
+    },
+    {
+      "tweetId": "2107968848511349014",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2107968848511349014",
+      "tweetedAt": "2026-10-07T22:58:32.000Z",
+      "bestBit": "two MAJOR Grok Bot updates in just 24 hours: > it can now search and read X > it now uses Opus 5.5 as well",
+      "text": "Wow… two MAJOR Grok Bot updates in just 24 hours:\n\n&gt; it can now search and read X\n&gt; it now uses Opus 5.5 as well\n\nthis is not even a competition at this point. the alternatives are just cheap knockoffs. https://t.co/bG203INPCL",
+      "quotedTweetText": "Grok Bot can now search, read, and monitor X. https://t.co/KTYcATvrG4"
+    },
+    {
+      "tweetId": "2107951284305437001",
+      "role": "commentary",
+      "authorHandle": "leerob",
+      "url": "https://x.com/leerob/status/2107951284305437001",
+      "tweetedAt": "2026-10-07T21:48:44.000Z",
+      "bestBit": "Ask your @Bot to monitor the situation, no extra cost!",
+      "text": "Ask your @Bot to monitor the situation, no extra cost!",
+      "quotedTweetText": "Grok Bot can now search, read, and monitor X. https://t.co/KTYcATvrG4"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "grok-bot-launches-free-monitoring-tools-for-x-a32153cb",
+    "title": "Grok Bot Launches Free Monitoring Tools for X",
+    "publishedAt": "2026-10-07T21:52:42.624Z",
+    "eventTimeApprox": "2026-10-07T21:47:39.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 7
+  }
+}

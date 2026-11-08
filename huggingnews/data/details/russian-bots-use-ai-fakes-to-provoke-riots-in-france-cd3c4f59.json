@@ -1,0 +1,51 @@
+{
+  "slug": "russian-bots-use-ai-fakes-to-provoke-riots-in-france-cd3c4f59",
+  "title": "Russian Bots Use AI Fakes to Provoke Riots in France",
+  "publishedAt": "2026-10-19T23:00:00.914Z",
+  "eventTimeApprox": "2026-10-19T20:49:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "geopolitics",
+    "world",
+    "cybersecurity",
+    "ai"
+  ],
+  "primaryRoutingTopic": "geopolitics",
+  "topicTags": [
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "russia",
+      "name": "Russia"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "summary": "French intelligence agencies found that networks like \"Matryoshka\" are flooding social media with recycled and AI-generated clips of police brutality to incense violent protesters. These Russia-linked bot networks weaponized unrest from the past weekend by spreading synthetic and old media to provoke further instability across the country.\n\nThe digital campaigns aim to exaggerate the scale of current disturbances to create the illusion of nationwide civil unrest. Officials described the networks as digital opportunistic arsonists who are intentionally amplifying chaos through coordinated disinformation.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112258273319497765",
+      "role": "source",
+      "authorHandle": "visegrad24",
+      "url": "https://x.com/visegrad24/status/2112258273319497765",
+      "tweetedAt": "2026-10-19T19:03:10.000Z",
+      "bestBit": "Russian networks like \"Matryoshka\" are acting as digital opportunistic arsonists, intentionally exaggerating the scale of the chaos to simulate nationwide civil unrest.",
+      "text": "🇫🇷🇷🇺 French intelligence agencies have confirmed that Russia-linked bot networks are weaponizing the past weekend's violent riots by flooding social media with old, recycled, and AI-generated fake videos of police brutality to provoke the rioters even further.\n\nRussian networks like \"Matryoshka\" are acting as digital opportunistic arsonists, intentionally exaggerating the scale of the chaos to simulate nationwide civil unrest."
+    }
+  ],
+  "isSuperseded": false
+}

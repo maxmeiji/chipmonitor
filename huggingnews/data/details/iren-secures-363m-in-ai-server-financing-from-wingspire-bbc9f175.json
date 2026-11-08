@@ -1,0 +1,70 @@
+{
+  "slug": "iren-secures-363m-in-ai-server-financing-from-wingspire-bbc9f175",
+  "title": "IREN Secures $363M in AI Server Financing from Wingspire",
+  "publishedAt": "2026-10-28T14:08:19.729Z",
+  "eventTimeApprox": "2026-10-28T13:25:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "IREN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "IREN Limited Ordinary Shares",
+      "hubKey": "iren"
+    },
+    {
+      "ticker": "OWL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Blue Owl Capital Inc.",
+      "hubKey": "owl"
+    }
+  ],
+  "summary": "The computing infrastructure firm has arranged a new credit facility to expand its artificial intelligence capacity without issuing new shares to investors. IREN obtained $363M in equipment financing from Wingspire, using its current revenue-generating GPUs and multi-year customer contracts as collateral to fund further buildout.\n\nWingspire, a portfolio company of Blue Owl formerly known as Liberty Commercial Finance, recorded $700M in total volume throughout 2025. The lender maintains warehouse lending facilities provided by Bank of America and Wells Fargo and has completed several GPU-related deals this year.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115441398895771671",
+      "role": "analysis",
+      "authorHandle": "matthew_sigel",
+      "url": "https://x.com/matthew_sigel/status/2115441398895771671",
+      "tweetedAt": "2026-10-28T13:51:47.000Z",
+      "bestBit": "They did $700M of total volume all of 2025, have done several GPU deals this year; this is relatively large one for them.",
+      "text": "Wingspire equipment finance is a portfolio company of Blue Owl, formerly known as Liberty Commercial Finance.  Offers sale-leaseback arrangements, equipment lines of credit. Industry agnostic. They did $700M of total volume all of 2025, have done several GPU deals this year; this is relatively large one for them. Wingspire has a warehouse lending facility from BofA and WFC."
+    },
+    {
+      "tweetId": "2115403410744963212",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2115403410744963212",
+      "tweetedAt": "2026-10-28T11:20:50.000Z",
+      "bestBit": "IREN just secured $363M in financing backed by GPUs already generating revenue under multi-year customer contracts.",
+      "text": "$IREN just secured $363M in financing backed by GPUs already generating revenue under multi-year customer contracts.\n\nPretty interesting considering all the concerns around AI lending because IREN can now borrow against existing infrastructure to fund its next buildout without having to issue more shares."
+    }
+  ],
+  "isSuperseded": false
+}

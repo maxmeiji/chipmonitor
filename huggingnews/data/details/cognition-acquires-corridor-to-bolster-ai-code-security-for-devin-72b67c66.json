@@ -1,0 +1,89 @@
+{
+  "slug": "cognition-acquires-corridor-to-bolster-ai-code-security-for-devin-72b67c66",
+  "title": "Cognition Acquires Corridor to Bolster AI Code Security for Devin",
+  "publishedAt": "2026-10-29T18:52:54.339Z",
+  "eventTimeApprox": "2026-10-29T18:31:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech",
+    "startups",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:COGN",
+      "kind": "private",
+      "role": "subject",
+      "name": "Cognition",
+      "hubKey": "cognition"
+    }
+  ],
+  "summary": "The company behind the Devin AI agent announced it has purchased the startup Corridor to integrate expertise in the security of autonomous software development. Cognition said the deal is intended to expand the capabilities of its Devin Security offerings as part of a broader effort to address vulnerabilities in the global software supply chain.\n\nFounded nearly two years ago, Corridor focuses on AI code security and the acceleration of secure software builds. The acquisition includes the addition of Corridor's engineering team to Cognition's operations to strengthen its position in the autonomous coding market.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115872968043864146",
+      "role": "source",
+      "authorHandle": "cognition",
+      "url": "https://x.com/cognition/status/2115872968043864146",
+      "tweetedAt": "2026-10-29T18:26:41.000Z",
+      "bestBit": "Securing the world’s software is the most important problem in technology today.",
+      "text": "Today, Cognition is acquiring @corridor.\n\nSecuring the world’s software is the most important problem in technology today.\n\nLet’s get to work! https://t.co/Q99R9pfldq"
+    },
+    {
+      "tweetId": "2115873282662732215",
+      "role": "source",
+      "authorHandle": "jackhcable",
+      "url": "https://x.com/jackhcable/status/2115873282662732215",
+      "tweetedAt": "2026-10-29T18:27:56.000Z",
+      "bestBit": "We started Corridor almost two years ago with the mission of accelerating secure and autonomous software development.",
+      "text": "Today, Corridor is joining Cognition! Together, we’ll be taking Devin Security to the next level.\n\nWe started Corridor almost two years ago with the mission of accelerating secure and autonomous software development. Since then, we’ve seen security go from a niche concern to one of the most pressing issues of our time.\n\nWe’re grateful to our team, our customers, our investors, and everyone who’s supported us along the way. We can’t wait to show you what we build next!",
+      "quotedTweetText": "Today, Cognition is acquiring @corridor.\n\nSecuring the world’s software is the most important problem in technology today.\n\nLet’s get to work! https://t.co/Q99R9pfldq"
+    },
+    {
+      "tweetId": "2115878190203683081",
+      "role": "support",
+      "authorHandle": "dabit3",
+      "url": "https://x.com/dabit3/status/2115878190203683081",
+      "tweetedAt": "2026-10-29T18:47:26.000Z",
+      "bestBit": "The @corridor team has deep expertise in AI code security, congratulations @AshwinRamaswami @jackhcable and welcome to Cognition.",
+      "text": "The @corridor team has deep expertise in AI code security, congratulations @AshwinRamaswami @jackhcable and welcome to Cognition.\n\nSecurity has always been a top priority @cognition, this strengthens our position as a leader in the space.",
+      "quotedTweetText": "Today, Cognition is acquiring @corridor.\n\nSecuring the world’s software is the most important problem in technology today.\n\nLet’s get to work! https://t.co/Q99R9pfldq"
+    }
+  ],
+  "isSuperseded": false
+}

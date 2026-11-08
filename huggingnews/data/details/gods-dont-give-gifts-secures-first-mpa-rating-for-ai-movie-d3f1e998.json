@@ -1,0 +1,51 @@
+{
+  "slug": "gods-dont-give-gifts-secures-first-mpa-rating-for-ai-movie-d3f1e998",
+  "title": "\"Gods Don't Give Gifts\" Secures First MPA Rating for AI Movie",
+  "publishedAt": "2026-10-08T19:39:00.695Z",
+  "eventTimeApprox": "2026-10-08T18:30:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "culture",
+    "ai"
+  ],
+  "primaryRoutingTopic": "culture",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "summary": "A production team is preparing for a theatrical release on December 4 for a feature film created entirely via artificial intelligence. The motion picture, titled \"Gods Don't Give Gifts,\" is the first fully AI-generated movie to earn an official rating from the Motion Picture Association, and the filmmakers are now initiating a campaign for the Academy Awards.\n\nThe film features a plot in which humans upload their consciousness into synthetic bodies. It is also the first AI-generated project to appear on a mainstream trailer channel, a milestone the creators suggest challenges the traditional industry reliance on human actors, animators, and studio budgets.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108249181550977348",
+      "role": "source",
+      "authorHandle": "polymarket",
+      "url": "https://x.com/Polymarket/status/2108249181550977348",
+      "tweetedAt": "2026-10-08T17:32:28.000Z",
+      "bestBit": "“Gods Don’t Give Gifts” becomes the first to receive an official MPA rating, with its creators now planning an Academy Awards campaign",
+      "text": "JUST IN: Fully AI-generated film titled “Gods Don’t Give Gifts” becomes the first to receive an official MPA rating, with its creators now planning an Academy Awards campaign. https://t.co/ibWeqfM1IN"
+    },
+    {
+      "tweetId": "2108278502000849316",
+      "role": "signal",
+      "authorHandle": "koltregaskes",
+      "url": "https://x.com/koltregaskes/status/2108278502000849316",
+      "tweetedAt": "2026-10-08T19:28:59.000Z",
+      "bestBit": "First AI movie I've seen on a mainstream trailer channel",
+      "text": "First AI movie I've seen on a mainstream trailer channel. Congrats Zack, aka @Gossip_Goblin\nhttps://t.co/8AES0Cpa7o",
+      "quotedTweetText": "JUST IN: Fully AI-generated film titled “Gods Don’t Give Gifts” becomes the first to receive an official MPA rating, with its creators now planning an Academy Awards campaign. https://t.co/ibWeqfM1IN"
+    }
+  ],
+  "isSuperseded": false
+}

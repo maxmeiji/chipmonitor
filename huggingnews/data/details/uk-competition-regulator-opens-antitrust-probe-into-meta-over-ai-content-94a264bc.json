@@ -1,0 +1,72 @@
+{
+  "slug": "uk-competition-regulator-opens-antitrust-probe-into-meta-over-ai-content-94a264bc",
+  "title": "UK Competition Regulator Opens Antitrust Probe Into Meta Over AI Content Terms",
+  "publishedAt": "2026-10-30T15:51:54.831Z",
+  "eventTimeApprox": "2026-10-30T13:55:33.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "business",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "law",
+      "name": "Law"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "The UK's competition watchdog has launched an inquiry into whether Meta utilized unfair commercial agreements to obtain content from publishers and advertisers for its artificial intelligence training. The probe specifically examines if the company forced partners to accept terms that allow Meta to develop its AI services using third-party website data without providing an option to opt out.\n\nThe antitrust investigation centers on allegations that these commercial terms are \"exploitative.\" The regulator is seeking to determine if the proposed terms for AI data usage deprived content creators of a meaningful choice regarding how their intellectual property is used to build Meta's AI tools.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116194719709409783",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2116194719709409783",
+      "tweetedAt": "2026-10-30T15:45:12.000Z",
+      "bestBit": "its commercial terms could impose “exploitative” conditions on publishers and advertisers",
+      "text": "Meta is facing an investigation over concerns that its commercial terms could impose “exploitative” conditions on publishers and advertisers. https://t.co/cm3K7iTGDG"
+    },
+    {
+      "tweetId": "2116167123164913973",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2116167123164913973",
+      "tweetedAt": "2026-10-30T13:55:33.000Z",
+      "bestBit": "The UK's competition regulator has opened an antitrust investigation into Meta over proposed terms that could let it use publishers' website content to develop AI products without giving them a choice",
+      "text": "The UK's competition regulator has opened an antitrust investigation into Meta over proposed terms that could let it use publishers' website content to develop AI products without giving them a choice. https://t.co/ndtZqBXaso"
+    }
+  ],
+  "isSuperseded": false
+}

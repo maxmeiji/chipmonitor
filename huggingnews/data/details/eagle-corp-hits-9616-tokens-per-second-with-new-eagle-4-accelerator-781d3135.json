@@ -1,0 +1,66 @@
+{
+  "slug": "eagle-corp-hits-9616-tokens-per-second-with-new-eagle-4-accelerator-781d3135",
+  "title": "Eagle Corp Hits 961.6 Tokens per Second With New EAGLE-4 Accelerator",
+  "publishedAt": "2026-10-20T22:53:38.874Z",
+  "eventTimeApprox": "2026-10-20T22:02:03.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112665677152829772/HVGyDIhXYAIzAqW-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112665677152829772/HVGyDIhXYAIzAqW-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "testingcatalog",
+      "tweetUrl": "https://x.com/testingcatalog/status/2112665677152829772"
+    }
+  },
+  "summary": "Eagle Corp has released a new open source tool designed to accelerate the generation speeds of large language models. The system, called EAGLE-4, achieved a processing rate of 961.6 tokens per second while running an Alibaba Qwen3.8-27B model on four NVIDIA B300 GPUs using TokenSpeed. It employs a speculative decoding strategy that adapts to hardware, workload, and batch size to maintain the target model's output distribution.\n\nThe accelerator is available on GitHub as eagle_harness and includes engine plugins for vLLM, SGLang, and TokenSpeed. Eagle Corp also published a research paper and a corresponding draft model for Qwen3.8-27B on HuggingFace. This release is the fastest version in the company's series, succeeding earlier iterations EAGLE-1 through EAGLE-3.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112660683670323531",
+      "role": "source",
+      "authorHandle": "eaglecorp",
+      "url": "https://x.com/EagleCorp/status/2112660683670323531",
+      "tweetedAt": "2026-10-20T21:42:12.000Z",
+      "bestBit": "961.6 tokens/s on @Alibaba_Qwen’s Qwen3.8-27B with TokenSpeed (BF16, 4× @NVIDIA B300, TP4, one request, T=0)",
+      "text": "EAGLE-4 is here.\n\nFrom EAGLE-1 to EAGLE-3, we’ve kept making inference faster. \n\nEAGLE-4 is our fastest yet.\n\n961.6 tokens/s on @Alibaba_Qwen’s Qwen3.8-27B with TokenSpeed (BF16, 4× @NVIDIA B300, TP4, one request, T=0).\n\nGithub: https://t.co/GwocZk1UTU https://t.co/GawgFNXKWj"
+    },
+    {
+      "tweetId": "2112665680751321287",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2112665680751321287",
+      "tweetedAt": "2026-10-20T22:02:04.000Z",
+      "bestBit": "EAGLE-4 is now available on GitHub as eagle_harness, which serves EAGLE-4 drafts on SGLang, vLLM, and TokenSpeed through engine plugins.",
+      "text": "EAGLE-4 is now available on GitHub as eagle_harness, which serves EAGLE-4 drafts on SGLang, vLLM, and TokenSpeed through engine plugins.\n\nThe EAGLE-4 Draft Model for Qwen3.8-27B is also available on HuggingFace, along with a research paper!\n\nTesting link 👀\nhttps://t.co/fkmWS6gbrK"
+    }
+  ],
+  "isSuperseded": false
+}

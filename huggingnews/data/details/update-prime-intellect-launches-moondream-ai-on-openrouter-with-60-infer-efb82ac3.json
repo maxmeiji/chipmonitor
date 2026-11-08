@@ -1,0 +1,109 @@
+{
+  "slug": "update-prime-intellect-launches-moondream-ai-on-openrouter-with-60-infer-efb82ac3",
+  "title": "UPDATE: Prime Intellect Launches Moondream AI on OpenRouter with 60 Inferences Per Second",
+  "publishedAt": "2026-10-15T23:39:47.911Z",
+  "eventTimeApprox": "2026-10-13T20:06:33.000Z",
+  "isFreshStory": false,
+  "tweetCount": 29,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110874118694527173/HUtU0jnasAAqNDN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110874118694527173/HUtU0jnasAAqNDN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "openrouter",
+      "tweetUrl": "https://x.com/OpenRouter/status/2110874118694527173"
+    }
+  },
+  "summary": "Developer access to high-speed image analysis has expanded to a new API hub through a deployment by Prime Intellect. The Moondream 3.1 and Preview multimodal models are now available on OpenRouter, supporting real-time object detection and pointing within chat interfaces. These models run on Photon, an inference engine that compiles AI into single GPU programs, achieving more than 60 inferences per second on one Nvidia H100 with response times in the tens of milliseconds. In object-pointing tests, Moondream 3.1 reached 80% of the accuracy of Muse Wonder at roughly 1,000th of the cost.\n\nThe launch follows Prime Intellect's acquisition of Moondream, a startup described as a two man frontier lab with fewer than 10 employees. Founders Vikhyatk and Jason Allen have joined the company to lead inference development. Prime Intellect plans to integrate Photon into its broader computing stack to lower costs and attract developers building autonomous AI agents and robotics.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110081907358904392",
+      "role": "source",
+      "authorHandle": "primeintellect",
+      "url": "https://x.com/PrimeIntellect/status/2110081907358904392",
+      "tweetedAt": "2026-10-13T18:55:04.000Z",
+      "bestBit": "bringing Moondream’s open vision models and inference optimizations into our stack",
+      "text": "Prime Intellect has acquired Moondream\n\nWe’re bringing Moondream’s open vision models and inference optimizations into our stack\n\nTrain and deploy multimodal models across vision, video, voice, decision models and computer use https://t.co/jrp824ZqGt"
+    },
+    {
+      "tweetId": "2110874118694527173",
+      "role": "support",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2110874118694527173",
+      "tweetedAt": "2026-10-15T23:23:02.000Z",
+      "bestBit": "Moondream 3 Preview and Moondream 3.1 from @moondreamai are now on OpenRouter, served by @PrimeIntellect",
+      "text": "Moondream 3 Preview and Moondream 3.1 from @moondreamai are now on OpenRouter, served by @PrimeIntellect\n\nObject detection and pointing work in plain chat: attach one image and start your message with /detect {\"object\":\"coffee cup\"} or /point {\"object\":\"croissant\"} https://t.co/5qaIom7pFW"
+    },
+    {
+      "tweetId": "2110085418947576057",
+      "role": "support",
+      "authorHandle": "vikhyatk",
+      "url": "https://x.com/vikhyatk/status/2110085418947576057",
+      "tweetedAt": "2026-10-13T19:09:02.000Z",
+      "bestBit": "accelerate inference and continue building the next generation of efficient multimodal models",
+      "text": "Excited to announce that Moondream is joining Prime Intellect to accelerate inference and continue building the next generation of efficient multimodal models!",
+      "quotedTweetText": "Prime Intellect has acquired Moondream\n\nWe’re bringing Moondream’s open vision models and inference optimizations into our stack\n\nTrain and deploy multimodal models across vision, video, voice, decision models and computer use https://t.co/jrp824ZqGt"
+    },
+    {
+      "tweetId": "2110393586323992896",
+      "role": "analysis",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2110393586323992896",
+      "tweetedAt": "2026-10-14T15:33:34.000Z",
+      "bestBit": "more than 60 Moondream inferences per second on one Nvidia H100, with responses arriving in tens of milliseconds",
+      "text": "Prime Intellect has acquired Moondream, a small team building open-weight vision models fast enough for live video.\n\nThe deal includes Photon, an inference engine that compiles a model into a single GPU program. Prime reports more than 60 Moondream inferences per second on one Nvidia H100, with responses arriving in tens of milliseconds.\n\nIn Prime’s own object-pointing test, Moondream 3.1 reached 80% of Muse Wonder’s accuracy at roughly one-thousandth of the cost. That comparison covers a specific vision task, but the economics are impressive.\n\nMoondream 3.1 is already live on Prime Inference. Its founders are joining to lead inference development, and Photon will be integrated into Prime’s broader stack to accelerate other models too."
+    },
+    {
+      "tweetId": "2110084013490938245",
+      "role": "commentary",
+      "authorHandle": "johannes_hage",
+      "url": "https://x.com/johannes_hage/status/2110084013490938245",
+      "tweetedAt": "2026-10-13T19:03:26.000Z",
+      "bestBit": "Moondream is literally a two man frontier lab",
+      "text": "Moondream is literally a two man frontier lab. Super excited to bring @vikhyatk &amp; @jason_allen onboard to scale multi-modality and inference at prime!",
+      "quotedTweetText": "Prime Intellect has acquired Moondream\n\nWe’re bringing Moondream’s open vision models and inference optimizations into our stack\n\nTrain and deploy multimodal models across vision, video, voice, decision models and computer use https://t.co/jrp824ZqGt"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "prime-intellect-buys-moondream-to-speed-up-ai-inference-85dce97a",
+    "title": "Prime Intellect Buys Moondream to Speed Up AI Inference",
+    "publishedAt": "2026-10-13T19:10:51.297Z",
+    "eventTimeApprox": "2026-10-13T18:55:04.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "startups"
+    ],
+    "tweetCount": 23,
+    "authorCount": 14
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "nvidia-spends-record-22-million-to-fight-ai-chip-export-rules-9d390c13",
+  "title": "Nvidia Spends Record $2.2 Million to Fight AI Chip Export Rules",
+  "publishedAt": "2026-10-21T04:09:09.950Z",
+  "eventTimeApprox": "2026-10-21T02:20:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "tech",
+    "business",
+    "ai",
+    "geopolitics",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-foreign-policy",
+      "name": "US Foreign Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "related",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The chipmaker's government relations budget hit a new peak as it lobbied federal officials throughout the third quarter. Nvidia spent nearly $2.2 million on federal lobbying during that period, federal filings show, marking the highest amount the company has ever spent in a single quarter.\n\nThis spending surge occurred as Nvidia, Intel, Google, and Anthropic engaged in widespread lobbying to oppose proposals that would restrict the export of AI chips. These firms focused their efforts during the third quarter to prevent the imposition of those trade limitations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112730624075161980",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2112730624075161980",
+      "tweetedAt": "2026-10-21T02:20:08.000Z",
+      "bestBit": "Nvidia spent nearly $2.2 million on federal lobbying in the third quarter, a record for the chipmaker, filings show",
+      "text": "Nvidia spent nearly $2.2 million on federal lobbying in the third quarter, a record for the chipmaker, filings show https://t.co/ODMt3lBCWP"
+    },
+    {
+      "tweetId": "2112675550057877861",
+      "role": "support",
+      "authorHandle": "punchbowlnews",
+      "url": "https://x.com/PunchbowlNews/status/2112675550057877861",
+      "tweetedAt": "2026-10-20T22:41:17.000Z",
+      "bestBit": "Proposals to restrict exports related to AI chips were the subject of widespread lobbying from companies including Nvidia, Anthropic, Google and Intel",
+      "text": "Proposals to restrict exports related to AI chips were the subject of widespread lobbying from companies including Nvidia, Anthropic, Google and Intel during the third quarter of this year.\n\n@BenBrodyDC has more:\nhttps://t.co/1Ie3i1tOkN https://t.co/nHvYkjJ0u8"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "epoch-ais-innovationeval-finds-ai-agents-fail-to-automate-research-8ed3b94e",
+  "title": "Epoch AI's InnovationEval Finds AI Agents Fail to Automate Research",
+  "publishedAt": "2026-10-07T19:07:21.419Z",
+  "eventTimeApprox": "2026-10-07T18:52:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107895808217788800/HUDAES7aIAASvs5-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107895808217788800/HUDAES7aIAASvs5-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "epochairesearch",
+      "tweetUrl": "https://x.com/EpochAIResearch/status/2107895808217788800"
+    }
+  },
+  "summary": "AI agents produced disappointing results when tasked with creating technical breakthroughs in a new test developed by Epoch AI Research. The benchmark, called InnovationEval, measures if AI can generate post-training innovations that match the scale of recent human advances to determine how close the industry is to building an automated AI researcher.\n\nEpoch AI Research described the performance of the agents as underwhelming. While critics of such tests often cite the use of old models or weak baselines, the research team indicated a twist in their findings that addresses those specific concerns.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107895808217788800",
+      "role": "source",
+      "authorHandle": "epochairesearch",
+      "url": "https://x.com/EpochAIResearch/status/2107895808217788800",
+      "tweetedAt": "2026-10-07T18:08:18.000Z",
+      "bestBit": "tests whether AI can produce post-training innovations comparable in magnitude to a recently published advance",
+      "text": "AI developers aim to create an automated AI researcher. How close are they?\n\nTo find out, we built InnovationEval, which tests whether AI can produce post-training innovations comparable in magnitude to a recently published advance. So far, agents’ results are underwhelming. https://t.co/EGnTOL0klR"
+    },
+    {
+      "tweetId": "2107908531999650101",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2107908531999650101",
+      "tweetedAt": "2026-10-07T18:58:51.000Z",
+      "bestBit": "You might have thought \"weak baseline, old models!\" but there's a twist",
+      "text": "You might have thought \"weak baseline, old models!\" \nbut there's a twist: https://t.co/UzQajMuQeg",
+      "quotedTweetText": "AI developers aim to create an automated AI researcher. How close are they?\n\nTo find out, we built InnovationEval, which tests whether AI can produce post-training innovations comparable in magnitude to a recently published advance. So far, agents’ results are underwhelming. https://t.co/EGnTOL0klR"
+    }
+  ],
+  "isSuperseded": false
+}

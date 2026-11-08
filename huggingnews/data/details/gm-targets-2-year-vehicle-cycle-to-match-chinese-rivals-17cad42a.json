@@ -1,0 +1,103 @@
+{
+  "slug": "gm-targets-2-year-vehicle-cycle-to-match-chinese-rivals-17cad42a",
+  "title": "GM Targets 2 Year Vehicle Cycle to Match Chinese Rivals",
+  "publishedAt": "2026-10-21T20:41:23.152Z",
+  "eventTimeApprox": "2026-10-21T18:10:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "automobile",
+      "name": "Automobile"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GM",
+      "kind": "equity",
+      "role": "subject",
+      "name": "General Motors Company",
+      "hubKey": "gm"
+    }
+  ],
+  "summary": "General Motors is restructuring its software and autonomous driving capabilities to accelerate the production of new models. The automaker intends to use artificial intelligence to shorten vehicle development cycles to as little as 2 years to keep pace with the speed of rivals in China. This shift is part of a broader strategy to deploy a new generation of autonomous cars and leapfrog other industry competitors.\n\nThe tech overhaul includes the rollout of a native OnStar AI assistant, which debuts in the 2027 Cadillac Lyrio via an over-the-air update in the coming months. Following the initial launch for the Lyrio, GM will integrate the AI interface into additional vehicle models across its fleet.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112969106903245181",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2112969106903245181",
+      "tweetedAt": "2026-10-21T18:07:46.000Z",
+      "bestBit": "develop vehicles in as little as two years with AI, software push",
+      "text": "GM aims to develop vehicles in as little as two years with AI, software push https://t.co/Otf1Q3XOIk"
+    },
+    {
+      "tweetId": "2112968623639687575",
+      "role": "support",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2112968623639687575",
+      "tweetedAt": "2026-10-21T18:05:51.000Z",
+      "bestBit": "Native Onstar AI assistant to debut in 2027 Cadillac Lyrio in coming months through over-the-air update",
+      "text": "GM: Native Onstar AI assistant to debut in 2027 Cadillac Lyrio in coming months through over-the-air update, with additional GM vehicles to follow. $GM"
+    },
+    {
+      "tweetId": "2112971428148507045",
+      "role": "support",
+      "authorHandle": "axios",
+      "url": "https://x.com/axios/status/2112971428148507045",
+      "tweetedAt": "2026-10-21T18:17:00.000Z",
+      "bestBit": "unveils sweeping tech and self-driving overhaul",
+      "text": "GM unveils sweeping tech and self-driving overhaul https://t.co/z4zx9IaNWp"
+    },
+    {
+      "tweetId": "2113005070723731957",
+      "role": "analysis",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2113005070723731957",
+      "tweetedAt": "2026-10-21T20:30:41.000Z",
+      "bestBit": "leapfrog rivals with new generation of autonomous cars",
+      "text": "GM aims to leapfrog rivals with new generation of autonomous cars https://t.co/A7JAK2vICJ"
+    },
+    {
+      "tweetId": "2112969714141950044",
+      "role": "commentary",
+      "authorHandle": "axios",
+      "url": "https://x.com/axios/status/2112969714141950044",
+      "tweetedAt": "2026-10-21T18:10:11.000Z",
+      "bestBit": "taps AI to help match speed of Chinese rivals",
+      "text": "GM taps AI to help match speed of Chinese rivals https://t.co/4IWihiv3Wl"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "gm-debuts-native-onstar-ai-in-2027-cadillac-lyrio-511c3ed7",
+    "title": "GM Debuts Native OnStar AI in 2027 Cadillac Lyrio",
+    "publishedAt": "2026-10-21T18:39:13.048Z",
+    "eventTimeApprox": "2026-10-21T18:07:11.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "cartesias-new-managed-agents-voice-platform-ranks-no-1-on-servicenow-eva-bd0a2649",
+  "title": "Cartesia's New Managed Agents Voice Platform Ranks No. 1 on ServiceNow EVA-Bench",
+  "publishedAt": "2026-10-29T17:08:49.625Z",
+  "eventTimeApprox": "2026-10-27T22:33:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115204127013929072/HVq2nL3aMAIQPUA-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115204127013929072/HVq2nL3aMAIQPUA-small.jpg",
+    "mediaType": "animated_gif",
+    "videoUrl": "https://video-s.twimg.com/tweet_video/HVq2nL3aMAIQPUA.mp4",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2115204127013929072"
+    }
+  },
+  "summary": "Cartesia has released Managed Agents, a vertically integrated platform that allows businesses to deploy custom voice assistants using the company's Ink speech-to-text and Sonic text-to-speech models. The system is designed to work with a large language model of the developer's choice, such as GPT-5.5, and has already been adopted by EliseAI to handle more than 5 million calls per month.\n\nThe new platform holds the top rank on both the ServiceNow EVA-Bench and the Artificial Analysis Speech Agent Arena, where it posted an Elo of 1115. This performance marks a significant increase over the company's previous voice product, Cartesia Line, which had a task success rate of 77.5% compared to 91.7% for the new Managed Agents offering.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115848186950791665",
+      "role": "source",
+      "authorHandle": "cartesia",
+      "url": "https://x.com/cartesia/status/2115848186950791665",
+      "tweetedAt": "2026-10-29T16:48:12.000Z",
+      "bestBit": "#1 on @ArtificialAnlys Speech Agent Arena and @ServiceNow EVA-Bench, built by co-designing our voice models and harness as one system.",
+      "text": "Introducing Cartesia Managed Agents: our end-to-end voice agent platform for enterprise.\n\n#1 on @ArtificialAnlys Speech Agent Arena and @ServiceNow EVA-Bench, built by co-designing our voice models and harness as one system.\n\nCheck it out → https://t.co/7kJhCYqjQo https://t.co/NVOAds9czf"
+    },
+    {
+      "tweetId": "2115204127013929072",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2115204127013929072",
+      "tweetedAt": "2026-10-27T22:08:57.000Z",
+      "bestBit": "Cartesia Managed Agents scores an Elo of 1115 on the Artificial Analysis Speech Agent Arena, 98 points above Cartesia's earlier voice agent product, Cartesia Line",
+      "text": "Cartesia Managed Agents scores an Elo of 1115 on the Artificial Analysis Speech Agent Arena, 98 points above Cartesia's earlier voice agent product, Cartesia Line, with Task Success Rate up from 77.5% to 91.7%\n\nManaged Agents is @CartesiaAI's fully managed platform for building and deploying voice agents. It is a cascaded system: Cartesia's own Ink Speech to Text and Sonic Text to Speech models run around an LLM of the developer's choice. We evaluated Cartesia Managed Agents with GPT-5.5 as the LLM and the Skylar and Daniel voices.\n\nKey takeaways:\n\n➤ Speech Agent Arena: Cartesia Managed Agents scores an Elo of 1115 (95% CI 1086-1144, 685 samples), 98 points above Cartesia Line at 1017 (95% CI 985-1049)\n\n➤ Agentic tasks: On tasks that need tool calls, Cartesia Managed Agents scores an Elo of 1112\n\n➤ Task Success Rate: 91.7% of eligible tool-calling conversations end with the correct final task-completing tool call\n\nCongrats to the @CartesiaAI team!\n\nSee below for more details ⬇️"
+    },
+    {
+      "tweetId": "2115204131703132443",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2115204131703132443",
+      "tweetedAt": "2026-10-27T22:08:58.000Z",
+      "bestBit": "Task Success Rate rises from 77.5% to 91.7%",
+      "text": "Plotted on Arena Elo against Task Success Rate, Cartesia Managed Agents improves on both axes: Elo rises 98 points from 1017 to 1115, with non-overlapping 95% confidence intervals, and Task Success Rate rises from 77.5% to 91.7%. https://t.co/w7Ed4ECNCE"
+    },
+    {
+      "tweetId": "2115210341227385117",
+      "role": "analysis",
+      "authorHandle": "krandiash",
+      "url": "https://x.com/krandiash/status/2115210341227385117",
+      "tweetedAt": "2026-10-27T22:33:38.000Z",
+      "bestBit": "We've been able to co-design a great harness tightly with our models, and it's helping us push the state of the art in voice agents.",
+      "text": "We've been able to co-design a great harness tightly with our models, and it's helping us push the state of the art in voice agents.\n\nExcited for more folks to use our new Managed Agents offering in production!",
+      "quotedTweetText": "Cartesia Managed Agents scores an Elo of 1115 on the Artificial Analysis Speech Agent Arena, 98 points above Cartesia's earlier voice agent product, Cartesia Line, with Task Success Rate up from 77.5% to 91.7%\n\nManaged Agents is @CartesiaAI's fully managed platform for building and deploying voice agents. It is a cascaded system: Cartesia's own Ink Speech to Text and Sonic Text to Speech models run around an LLM of the developer's choice. We evaluated Cartesia Managed Agents with GPT-5.5 as the LLM and the Skylar and Daniel voices.\n\nKey takeaways:\n\n➤ Speech Agent Arena: Cartesia Managed Agents scores an Elo of 1115 (95% CI 1086-1144, 685 samples), 98 points above Cartesia Line at 1017 (95% CI 985-1049)\n\n➤ Agentic tasks: On tasks that need tool calls, Cartesia Managed Agents scores an Elo of 1112\n\n➤ Task Success Rate: 91.7% of eligible tool-calling conversations end with the correct final task-completing tool call\n\nCongrats to the @CartesiaAI team!\n\nSee below for more details ⬇️"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "cartesias-new-voice-agent-platform-hits-no-1-rank-on-speech-arena-benchm-3b0070a5",
+    "title": "Cartesia's New Voice Agent Platform Hits No. 1 Rank on Speech Arena Benchmark",
+    "publishedAt": "2026-10-27T22:38:34.516Z",
+    "eventTimeApprox": "2026-10-27T22:11:08.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 6,
+    "authorCount": 4
+  }
+}

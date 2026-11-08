@@ -1,0 +1,77 @@
+{
+  "slug": "prime-intellects-new-moe-kernel-speeds-qwen3-model-training-by-up-to-55p-9ec3e997",
+  "title": "Prime Intellect's New MoE Kernel Speeds Qwen3 Model Training by Up to 55%",
+  "publishedAt": "2026-10-29T17:52:27.818Z",
+  "eventTimeApprox": "2026-10-29T17:41:37.500Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115861621440680237/HV0M7qjbkAAgUL0-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115861621440680237/HV0M7qjbkAAgUL0-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "primeintellect",
+      "tweetUrl": "https://x.com/PrimeIntellect/status/2115861621440680237"
+    }
+  },
+  "summary": "Prime Intellect has released Prime Mega MoE, a tool that optimizes the training of large-scale Mixture-of-Experts (MoE) AI models. The company reports that the new kernel accelerates training steps for the Qwen3-235B-A22B model by 55% and the Qwen3-30B-A3B model by 48% when compared to the TorchTitan framework.\n\nThe software achieves these gains by fusing computation and communication within the MoE layer through the addition of a backward kernel to the original DeepSeek Mega MoE design. In internal tests against its own prime-rl baseline, Prime Intellect found the MoE layer's forward pass to be as much as 3.11x faster. The kernel is compatible with Nvidia's Blackwell and Hopper GPU architectures.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115861613261815883",
+      "role": "source",
+      "authorHandle": "primeintellect",
+      "url": "https://x.com/PrimeIntellect/status/2115861613261815883",
+      "tweetedAt": "2026-10-29T17:41:34.000Z",
+      "bestBit": "We made DeepSeek's Mega MoE kernel trainable.",
+      "text": "Introducing Prime Mega MoE.\n\nWe made DeepSeek's Mega MoE kernel trainable. The results on two Qwen3 models:\n\n• Up to 55% faster MoE training than TorchTitan\n• Up to 34% faster hosted training with prime-rl https://t.co/yrVZxny3ef"
+    },
+    {
+      "tweetId": "2115861621440680237",
+      "role": "support",
+      "authorHandle": "primeintellect",
+      "url": "https://x.com/PrimeIntellect/status/2115861621440680237",
+      "tweetedAt": "2026-10-29T17:41:36.000Z",
+      "bestBit": "Training steps on Qwen3-30B-A3B are 48% faster",
+      "text": "Comparing prime-rl with Mega MoE against TorchTitan:\n\n• Training steps on Qwen3-30B-A3B are 48% faster\n• Training steps on Qwen3-235B-A22B are 55% faster https://t.co/xIiqZ7R4gg"
+    },
+    {
+      "tweetId": "2115861631624434072",
+      "role": "support",
+      "authorHandle": "primeintellect",
+      "url": "https://x.com/PrimeIntellect/status/2115861631624434072",
+      "tweetedAt": "2026-10-29T17:41:38.000Z",
+      "bestBit": "The forward pass is up to 3.11× faster",
+      "text": "Comparing the time per MoE layer between Prime Mega MoE and our prime-rl baseline:\n\n• The forward pass is up to 3.11× faster\n• The backward pass is up to 1.87× faster\n• The full layer with activation checkpointing is up to 2.47× faster https://t.co/uuy0VJKqO5"
+    },
+    {
+      "tweetId": "2115862696595763415",
+      "role": "analysis",
+      "authorHandle": "samsja19",
+      "url": "https://x.com/samsja19/status/2115862696595763415",
+      "tweetedAt": "2026-10-29T17:45:52.000Z",
+      "bestBit": "available for bf16/mxfp8/fp8 black wheel and hopper",
+      "text": "we made our training stack quite faster by fusing computation and communication of the MoE layer by adding backward kernel to deepseek megamoe \n\navailable for bf16/mxfp8/fp8 black wheel and hopper",
+      "quotedTweetText": "Introducing Prime Mega MoE.\n\nWe made DeepSeek's Mega MoE kernel trainable. The results on two Qwen3 models:\n\n• Up to 55% faster MoE training than TorchTitan\n• Up to 34% faster hosted training with prime-rl https://t.co/yrVZxny3ef"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "goldman-sachs-says-ai-displaces-9percent-of-workers-in-job-destruction-s-173f3947",
+  "title": "Goldman Sachs Says AI Displaces 9% of Workers in Job Destruction Shift",
+  "publishedAt": "2026-10-22T17:55:14.028Z",
+  "eventTimeApprox": "2026-10-22T14:18:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "us-markets",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    }
+  ],
+  "summary": "Roughly 15 million people in the US could be pushed out of their roles by artificial intelligence, Goldman Sachs estimates. The bank's research suggests a 15% productivity boost from AI may temporarily displace 9% of the global workforce during the transition. These layoffs are likely to accelerate if they coincide with economic downturns, which would amplify existing labor-market weakness.\n\nThe report overturns the conventional theory that technology merely slows new hiring, arguing instead that disruption largely destroys existing positions. Historical data indicates that occupations most affected by such shifts have typically lost 25% of their jobs within five years. These spikes in unemployment generally fade within two years as new roles emerge in the economy.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113252242958528619",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2113252242958528619",
+      "tweetedAt": "2026-10-22T12:52:51.000Z",
+      "bestBit": "every 1% productivity gain from technology raises unemployment by 0.3–0.4 percentage points",
+      "text": "GOLDMAN SACHS: AI COULD TEMPORARILY DISPLACE 9% OF WORKERS\n\nGoldman Sachs estimates that a 15% productivity boost from AI could temporarily displace around 9% of workers during the transition.\n\nHistorical research shows every 1% productivity gain from technology raises unemployment by 0.3–0.4 percentage points, with effects typically fading within two years.\n\nOccupations heavily disrupted by technology have historically lost 25% of jobs within five years.\n\nGoldman warns AI-related layoffs could accelerate during economic downturns, amplifying labor-market weakness."
+    },
+    {
+      "tweetId": "2113325298779640123",
+      "role": "analysis",
+      "authorHandle": "econcallum",
+      "url": "https://x.com/econcallum/status/2113325298779640123",
+      "tweetedAt": "2026-10-22T17:43:09.000Z",
+      "bestBit": "technological job disruption largely destroys jobs, rather than reducing hiring",
+      "text": "New Goldman paper overturns conventional wisdom and says that technological job disruption largely destroys jobs, rather than reducing hiring.... https://t.co/dmhdqdHyrW"
+    }
+  ],
+  "isSuperseded": false
+}

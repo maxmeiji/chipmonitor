@@ -1,0 +1,107 @@
+{
+  "slug": "riot-platforms-names-anthropic-as-tenant-for-28b-texas-ai-campus-1ddea5f4",
+  "title": "Riot Platforms Names Anthropic as Tenant for $28B Texas AI Campus",
+  "publishedAt": "2026-11-05T13:38:44.798Z",
+  "eventTimeApprox": "2026-11-04T15:05:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 24,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "us-markets",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "RIOT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Riot Platforms, Inc. Common Stock",
+      "hubKey": "riot"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118002251818000845/HWSmv9-W4AAK6rR-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118002251818000845/HWSmv9-W4AAK6rR-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "rhouseresearch",
+      "tweetUrl": "https://x.com/RHouseResearch/status/2118002251818000845"
+    }
+  },
+  "summary": "The operator of the Corsicana campus has disclosed that its latest land-lease agreement for 910 MW of power capacity is with Anthropic, the creator of the Claude AI assistant. The 15 year deal for the Texas facility is valued at about $28B, marking the largest lease in the history of Riot Platforms and bringing the company's total contracted data center revenue to approximately $38B.\n\nRiot reported third-quarter revenue of $181.4M, beating analyst estimates of $161M, although net income fell to $4.03M from $104.5M in the same period last year. To finance its transition into AI infrastructure, the miner sold 20,264 bitcoin for roughly $1.5B during the first nine months of 2026, which reduced its bitcoin holdings from 18,005 at the start of the year to 2,418 by the end of September.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117958774619046177",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117958774619046177",
+      "tweetedAt": "2026-11-04T12:34:56.000Z",
+      "bestBit": "Cash and Bitcoin: $950.2M; no equity raised in 2026",
+      "text": "$RIOT PLATFORMS Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $181.4M (Est. $161M) 🟢; +1% YoY\n\nSegment Revenue:\n🔹 Bitcoin Mining Revenue: $116.0M (Est. $112.85M) 🟢\n🔹 Engineering Revenue: $47.0M (Est. $29.63M) 🟢\n🔹 Data Center Revenue: $18.4M\n\nOther Q3 Metrics:\n🔹 Bitcoin Mined: 1,637 (Est. 1,628) 🟢\n\nAnnouncements:\n🔹 Corsicana Lease: 15-year lease; 910 IT MW; ~$28B contract value; ~$1.8B average annual rent\n🔹 Contracted Capacity: 1,151 MW; ~$38B long-term contracted revenue\n\nKey Updates:\n🔹 Bitcoin Sales: 20,264 bitcoin sold YTD; ~$1.5B proceeds to fund data center development\n🔹 Cash and Bitcoin: $950.2M; no equity raised in 2026\n\nComments:\n🔸 “Today, we are excited to announce the largest lease in Riot’s history: a 15-year triple-net powered land lease with a leading Frontier AI Lab for the entirety of our Corsicana campus, representing 910 megawatts of critical IT capacity and approximately $28 billion of contracted revenue over the initial term.”\n\n🔸 “That lower capital requirement, combined with our strong balance sheet, means that we do not currently anticipate issuing equity to fund our announced projects.”"
+    },
+    {
+      "tweetId": "2118072190960545993",
+      "role": "commentary",
+      "authorHandle": "tftc21",
+      "url": "https://x.com/TFTC21/status/2118072190960545993",
+      "tweetedAt": "2026-11-04T20:05:36.000Z",
+      "bestBit": "Counting the coins it mined, its stack went from 18,005 BTC in January to 2,418 by September.",
+      "text": "Riot Platforms sold 20,264 bitcoin this year, about $1.5 billion, mostly to fund AI data centers.\n\nCounting the coins it mined, its stack went from 18,005 BTC in January to 2,418 by September.\n\nIn today's earnings, Riot also announced a $28 billion AI campus lease in Texas."
+    },
+    {
+      "tweetId": "2118002251818000845",
+      "role": "analysis",
+      "authorHandle": "rhouseresearch",
+      "url": "https://x.com/RHouseResearch/status/2118002251818000845",
+      "tweetedAt": "2026-11-04T15:27:42.000Z",
+      "bestBit": "RIOT's expected capital requirement is just $6MM/MW, reflecting $2MM/MW for site work and electrical infrastructure, and $4MM/MW in reimbursements to Anthropic",
+      "text": "The Riot $RIOT - Anthropic \"powered land lease\" deal at Riot's Corsicana site might have just set the new high watermark for AI/HPC lease economics. Unlike the build-to-suit structures seen in the vast majority of prior transactions, RIOT is simply renting Anthropic access to its powered land, and isn't required to build the data center itself:\n\n\"The lease is structured as a triple-net powered land lease, under which Riot delivers the land, the power infrastructure, and the powered pads, while continuing to own and maintain the high- and medium-voltage infrastructure that will serve them.\" - per RIOT 8-K\n\nRIOT's expected capital requirement is just $6MM/MW, reflecting $2MM/MW for site work and electrical infrastructure, and $4MM/MW in reimbursements to Anthropic (e.g. help fund Anthropic's construction capex).\n\nSo in exchange for simply procuring and assembling the site's electrical infrastructure at an expected cost of $1.8 billion.. plus funding $3.6 billion of tenant reimbursements.. so an \"all-in\" cost of ~$5.5 billion.. RIOT receives $28 billion in rent over a 15-year period, or roughly $1.8 billion per year on average.. \n\nRIOT's expected year 1 (e.g. 2027-2028) NOI per MW of $1.6MM implies a 27% unlevered yield on cost. \n\nRIOT's expected average annual NOI per MW of $2MM/MW implies a 33% unlevered yield on cost. \n\nPrevious leases have seen landlords collect $2MM/MW in rent.. but those landlords had to incur $12MM/MW+ in capex costs. RIOT is getting $2 million/MW for just $6MM/MW in capex. Insane."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "riots-new-28b-ai-data-center-lease-shifts-site-construction-costs-to-ten-97965d3f",
+    "title": "Riot's New $28B AI Data Center Lease Shifts Site Construction Costs to Tenant",
+    "publishedAt": "2026-11-04T15:39:16.711Z",
+    "eventTimeApprox": "2026-11-04T13:56:47.000Z",
+    "routingTopicKeys": [
+      "business",
+      "ai",
+      "crypto"
+    ],
+    "tweetCount": 21,
+    "authorCount": 15
+  }
+}

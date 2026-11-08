@@ -1,0 +1,51 @@
+{
+  "slug": "ai-stocks-hit-49percent-of-sandp-500-in-2nd-largest-concentration-in-his-7a397d14",
+  "title": "AI Stocks Hit 49% of S&P 500 in 2nd Largest Concentration in History",
+  "publishedAt": "2026-10-19T21:07:57.526Z",
+  "eventTimeApprox": "2026-10-19T15:58:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112203702387798374/HVAOBrcWoAAcEEc-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112203702387798374/HVAOBrcWoAAcEEc-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "tftc21",
+      "tweetUrl": "https://x.com/TFTC21/status/2112203702387798374"
+    }
+  },
+  "summary": "A surge in valuations for software and chip designers has altered the composition of the primary US stock index. These AI-related assets now occupy 49% of the S&P 500, a figure that surpasses the 41% concentration seen during the peak of the dot-com bubble and the 44% allocation of the Japanese market in 1988.\n\nThis distribution is the second largest on record, trailing only the railroad mania of 1881, which hit 63% concentration. The move puts AI stocks above the weighting levels of every other major market bubble in modern history.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112203702387798374",
+      "role": "source",
+      "authorHandle": "tftc21",
+      "url": "https://x.com/TFTC21/status/2112203702387798374",
+      "tweetedAt": "2026-10-19T15:26:20.000Z",
+      "bestBit": "Only the railroad mania of 1881 went higher, at 63%",
+      "text": "AI-related stocks now make up 49% of the S&amp;P 500.\n\nThat's above the peak of the dot-com bubble (41%) and Japan in 1988 (44%). Only the railroad mania of 1881 went higher, at 63%. https://t.co/nHmKP3peqn"
+    }
+  ],
+  "isSuperseded": false
+}

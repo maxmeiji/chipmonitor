@@ -1,0 +1,79 @@
+{
+  "slug": "tencent-hy-memory-20-beats-opus-5-on-4-ai-memory-benchmarks-cc143a77",
+  "title": "Tencent Hy Memory 2.0 Beats Opus 5 on 4 AI Memory Benchmarks",
+  "publishedAt": "2026-10-16T10:24:10.007Z",
+  "eventTimeApprox": "2026-10-16T09:49:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111031871018574077/HUvkI8VWUAAMzPI-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111031871018574077/HUvkI8VWUAAMzPI-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "adinayakup",
+      "tweetUrl": "https://x.com/AdinaYakup/status/2111031871018574077"
+    }
+  },
+  "summary": "Tencent has launched an open source software suite for AI agents to manage how they store and recall conversational data. The system, called Hy Memory 2.0, features the Hy-Memory-30B-A3B model, which utilizes a Mixture of Experts architecture with 30B total parameters and 3B active parameters. This model ranks first among open source alternatives on four benchmarks and outperforms Opus 5 in memory processing tasks.\n\nThe software is released under the Apache 2.0 license and includes MemHub, a tool for Mac and command line interfaces that syncs memory across more than 10 AI tools. The underlying framework is designed to handle memories for chat, work, and code, and it automatically extracts essential information from conversations and purges outdated data to maintain accuracy.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111027329816465435",
+      "role": "source",
+      "authorHandle": "tencenthunyuan",
+      "url": "https://x.com/TencentHunyuan/status/2111027329816465435",
+      "tweetedAt": "2026-10-16T09:31:51.000Z",
+      "bestBit": "Hy-Memory-30B-A3B beats Opus 5 across major frameworks",
+      "text": "🚀 Hy Memory 2.0 is out — open-source model, framework, and MemHub. \nYour private memory steward.\nFramework handles chat, work & code memories. \n#1 open-source on 4 benchmarks. \nHy-Memory-30B-A3B beats Opus 5 across major frameworks.\nMemHub (CLI + Mac) syncs across 10+ AI tools.\n\n💻➡️\n\n🔗 SDK & MemHub: https://t.co/uP58VJanj8\n🔗 Model: https://t.co/nTQbJ2q8dl #HyMemory #AgentMemory"
+    },
+    {
+      "tweetId": "2111031871018574077",
+      "role": "support",
+      "authorHandle": "adinayakup",
+      "url": "https://x.com/AdinaYakup/status/2111031871018574077",
+      "tweetedAt": "2026-10-16T09:49:53.000Z",
+      "bestBit": "30B MoE / 3B active",
+      "text": "Hy Memory 🧠 New memory model for AI agents from @TencentHunyuan \n\n- 30B MoE / 3B active \n- Apache 2.0 \n- Extracts important memories from conversations\n- Updates outdated memories automatically https://t.co/jYRd83MbM0"
+    },
+    {
+      "tweetId": "2111036802190447054",
+      "role": "commentary",
+      "authorHandle": "victormustar",
+      "url": "https://x.com/victormustar/status/2111036802190447054",
+      "tweetedAt": "2026-10-16T10:09:29.000Z",
+      "bestBit": "A 3B active model beats Opus 5 at memory",
+      "text": "new release by tencent with an interesting focus: memory (quoting them: \"A 3B active model beats Opus 5 at memory\" 👀)\n\nhttps://t.co/0OkPf9gawP"
+    }
+  ],
+  "isSuperseded": false
+}

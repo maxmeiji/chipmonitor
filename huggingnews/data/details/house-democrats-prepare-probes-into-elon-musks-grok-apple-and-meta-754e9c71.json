@@ -1,0 +1,69 @@
+{
+  "slug": "house-democrats-prepare-probes-into-elon-musks-grok-apple-and-meta-754e9c71",
+  "title": "House Democrats Prepare Probes Into Elon Musk's Grok, Apple and Meta",
+  "publishedAt": "2026-11-06T11:51:58.090Z",
+  "eventTimeApprox": "2026-11-06T11:33:40.000Z",
+  "isFreshStory": false,
+  "tweetCount": 24,
+  "authorCount": 22,
+  "routingTopicKeys": [
+    "us-politics",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "The U.S. House of Representatives is organizing an inquiry into the use of the AI chatbot Grok to coordinate a military operation for the capture of Nicolás Maduro. The probe into the software developed by Elon Musk is part of a broader initiative by House Democrats to examine the government interactions and business practices of several major technology companies.\n\nThe planned investigations follow Democratic wins for majorities in both the House and Senate. Along with the Grok inquiry, lawmakers are examining the hosting of tracking applications by Apple for U.S. Immigration and Customs Enforcement and the requirement by Meta that local governments sign nondisclosure agreements during the development of data centers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118650638749896740",
+      "role": "source",
+      "authorHandle": "annmarie",
+      "url": "https://x.com/annmarie/status/2118650638749896740",
+      "tweetedAt": "2026-11-06T10:24:09.000Z",
+      "bestBit": "Lawmakers are also eyeing Apple over its hosting of tracking apps used by U.S. Immigration and Customs Enforcement, and Meta over its demands that local governments sign nondisclosure agreements related to data center development.",
+      "text": "Washington Post: The House is laying the groundwork to investigate Trump's use of Musk's AI chatbot, Grok, to plan the military operation and capture of Maduro, according to those people. Lawmakers are also eyeing Apple over its hosting of tracking apps used by U.S. Immigration and Customs Enforcement, and Meta over its demands that local governments sign nondisclosure agreements related to data center development."
+    }
+  ],
+  "isSuperseded": false
+}

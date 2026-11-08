@@ -1,0 +1,101 @@
+{
+  "slug": "openai-to-release-newest-gpt-based-on-model-that-solved-millennium-prize-ee0c34a9",
+  "title": "OpenAI to Release Newest GPT Based on Model That Solved Millennium Prize Math Problem",
+  "publishedAt": "2026-11-03T01:12:10.022Z",
+  "eventTimeApprox": "2026-11-02T19:37:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117311977085370753/xx-iVGVb83ccgHbz-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117311977085370753/xx-iVGVb83ccgHbz-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2117311895476871168/vid/avc1/1920x1080/ZrnbGJ0lBbp2A2Jy.mp4?tag=29",
+    "credit": {
+      "handle": "chetaslua",
+      "tweetUrl": "https://x.com/chetaslua/status/2117311977085370753"
+    }
+  },
+  "summary": "Sam Altman announced at the ADIPEC opening ceremony in Abu Dhabi that OpenAI's next GPT model will be the same internal system used to prove part of the Navier-Stokes equations. To solve the complex fluid dynamics problem, the company deployed 10,000 copies of the model that collaborated without a hierarchy for approximately 88 hours. Reports estimate the total compute cost for the mathematical sprint was about $22.5M.\n\nThe resulting proof addressed the \"forced\" version of the problem, which examines fluid behavior under outside pressure, while the more fundamental \"unforced\" version remains open. Although the solution was verified using the Lean proof-assistant program, the Clay Mathematics Institute has not yet certified the results, and OpenAI stated it will not claim the $1M Millennium Prize reward.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117255388353663125",
+      "role": "source",
+      "authorHandle": "deredleritt3r",
+      "url": "https://x.com/deredleritt3r/status/2117255388353663125",
+      "tweetedAt": "2026-11-02T13:59:55.000Z",
+      "bestBit": "It was 10,000 agents of the model that is going to be released soon, the next GPT, working for about four days, nonstop, collaborating with each other perfectly.",
+      "text": "Sam Altman says that the internal model that solved Navier-Stokes will be released \"soon\":\n\n\"It was 10,000 agents of the model that is going to be released soon, the next GPT, working for about four days, nonstop, collaborating with each other perfectly.\"\nhttps://t.co/Nmh9nc39aB"
+    },
+    {
+      "tweetId": "2117378163311562788",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2117378163311562788",
+      "tweetedAt": "2026-11-02T22:07:47.000Z",
+      "bestBit": "The copies worked with no hierarchy: each chose its own direction, shared progress and learned from the others.",
+      "text": "The next GPT, which is going to be released soon, was the model OpenAI used to prove a Millennium Prize Problem.\n\n~ Sam Altman, at the ADIPEC opening ceremony in Abu Dhabi.\n\n> 10,000 copies of it ran nonstop for about 4 days and proved a Millennium Prize Problem.\n\n> The copies worked with no hierarchy: each chose its own direction, shared progress and learned from the others.\n\n----\nFull video on \"ADIPEC Official\" YouTube channel, (link in comment)"
+    },
+    {
+      "tweetId": "2117418093748297943",
+      "role": "support",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2117418093748297943",
+      "tweetedAt": "2026-11-03T00:46:27.000Z",
+      "bestBit": "The proof was checked in Lean, a program that verifies math step by step, but the Clay Mathematics Institute hasn't certified it and OpenAI says it won't claim the prize",
+      "text": "SITUATION EXPLAINED: Sam Altman says the AI that cracked part of a Millennium Prize problem is OpenAI's next GPT, and it's coming soon.\n\n• The Navier-Stokes equations describe how fluids like water and air move, and they're one of 7 Millennium Prize problems with a $1M reward each\n• Only 1 of the 7, the Poincaré conjecture, had ever been solved before\n• In September, OpenAI said its AI proved the equations can break down, with speeds shooting to infinity, when an outside force pushes the fluid\n• That covers the \"forced\" version of the problem, and the unforced version, which many mathematicians see as the deeper question, is still open\n• The run used about 10,000 agents for 88 hours, and reports put the compute bill for OpenAI's whole math sprint at about $22.5M\n• The proof was checked in Lean, a program that verifies math step by step, but the Clay Mathematics Institute hasn't certified it and OpenAI says it won't claim the prize\n\n@theojaffee: \"So if everyone has a Millennium Prize problem-solving model in their hands, on their computers, what should we expect to happen? My hot take is kinda nothing.\""
+    },
+    {
+      "tweetId": "2117311977085370753",
+      "role": "analysis",
+      "authorHandle": "chetaslua",
+      "url": "https://x.com/chetaslua/status/2117311977085370753",
+      "tweetedAt": "2026-11-02T17:44:47.000Z",
+      "bestBit": "reports put the compute bill for OpenAI's whole math sprint at about $22.5M",
+      "text": "🚨 Sam Altman today at ADIPEC : the Navier-Stokes model is coming\n\n> \"10,000 agents of the model that is going to be released soon, the next GPT\"\n> ~4 days nonstop, no hierarchy, no bosses\n> same Internal Model from OpenAI's Sep 8 graph , its lowest compute point already beats Astra's highest\n\nwe are so back 🤯"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-to-release-next-gpt-using-model-that-solved-navier-stokes-equatio-1dde1157",
+    "title": "OpenAI to Release Next GPT Using Model That Solved Navier-Stokes Equations",
+    "publishedAt": "2026-11-02T14:52:03.786Z",
+    "eventTimeApprox": "2026-11-02T14:22:27.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 8,
+    "authorCount": 8
+  }
+}

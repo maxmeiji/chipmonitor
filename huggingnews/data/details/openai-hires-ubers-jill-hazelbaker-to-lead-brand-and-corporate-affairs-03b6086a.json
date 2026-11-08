@@ -1,0 +1,99 @@
+{
+  "slug": "openai-hires-ubers-jill-hazelbaker-to-lead-brand-and-corporate-affairs-03b6086a",
+  "title": "OpenAI Hires Uber's Jill Hazelbaker to Lead Brand and Corporate Affairs",
+  "publishedAt": "2026-11-03T22:23:27.817Z",
+  "eventTimeApprox": "2026-11-03T19:31:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 21,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "business",
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The artificial intelligence startup has filled a high-level vacancy in its senior leadership by recruiting Jill Hazelbaker from Uber to serve as its new chief corporate affairs officer. Hazelbaker will take over responsibility for the company's brand strategy and global communications on Nov. 30, ending a search for the role that spanned nearly a year. This appointment comes after the firm adjusted its financial trajectory, reducing its fundraising goals and postponing its initial public offering until 2027.\n\nHazelbaker is tasked with overseeing a corporate affairs team that has seen high executive turnover in recent years. During her tenure as president at Uber, she served as a crisis manager, handling the removal of former chief executive Travis Kalanick and leading the company's effort to classify California drivers as independent contractors.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117698911359893764",
+      "role": "commentary",
+      "authorHandle": "jessicalessin",
+      "url": "https://x.com/Jessicalessin/status/2117698911359893764",
+      "tweetedAt": "2026-11-03T19:22:20.000Z",
+      "bestBit": "They finally got her (it was a long pursuit) Uber's Hazelbaker to join OpenAI.",
+      "text": "Scoop w/ @jemimacmcevoy \n\nThey finally got her (it was a long pursuit)\n\nUber's Hazelbaker to join OpenAI. \n\nhttps://t.co/2J6qkpIJiY\n\n@jillhazelbaker"
+    },
+    {
+      "tweetId": "2117699021846507582",
+      "role": "commentary",
+      "authorHandle": "amir",
+      "url": "https://x.com/amir/status/2117699021846507582",
+      "tweetedAt": "2026-11-03T19:22:46.000Z",
+      "bestBit": "after 11 months OpenAI search for head of communications is OVER",
+      "text": "openai makes a big hire from Uber\n\nafter 11 months OpenAI search for head of communications is OVER..: https://t.co/EljHxY1bEA"
+    },
+    {
+      "tweetId": "2117699031174615185",
+      "role": "source",
+      "authorHandle": "jemimacmcevoy",
+      "url": "https://x.com/jemimacmcevoy/status/2117699031174615185",
+      "tweetedAt": "2026-11-03T19:22:48.000Z",
+      "bestBit": "She also helped Uber win its fight to have Uber drivers classified as contractors, not employees, in California.",
+      "text": "NEW: Uber’s President Jill Hazelbaker is joining OpenAI as its chief corporate affairs officer, filling a role that has been empty since the start of the year.\n\nShe will attempt to stabilize a team that has had significant turnover in its senior management in recent years and a time when market jitters ahead of a potential IPO are mounting.\n\nAt Uber she has been known as a deft and straight-shooting crisis manager who handled the ouster of founder Travis Kalanick, among other things. She also helped Uber win its fight to have Uber drivers classified as contractors, not employees, in California. Her last day with Uber will be Nov. 30.\n\nw/ @Jessicalessin \n\nhttps://t.co/qhUkvy5lyW"
+    },
+    {
+      "tweetId": "2117738846536270137",
+      "role": "support",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2117738846536270137",
+      "tweetedAt": "2026-11-03T22:01:01.000Z",
+      "bestBit": "The move comes as OpenAI has cut its fundraising target and delayed its IPO to next year.",
+      "text": "Exclusive: Uber President Jill Hazelbaker is joining OpenAI as chief corporate affairs officer, taking charge of communications and brand strategy amid mounting challenges. \n\nThe move comes as OpenAI has cut its fundraising target and delayed its IPO to next year. \n\nRead more details: https://t.co/hhSXXojWTF"
+    },
+    {
+      "tweetId": "2117706169884041340",
+      "role": "analysis",
+      "authorHandle": "steph_palazzolo",
+      "url": "https://x.com/steph_palazzolo/status/2117706169884041340",
+      "tweetedAt": "2026-11-03T19:51:10.000Z",
+      "bestBit": "OpenAI finally has its chief corporate affairs officer, Uber President Jill Hazelbaker!",
+      "text": "Scoop from @jemimacmcevoy and @Jessicalessin: OpenAI finally has its chief corporate affairs officer, Uber President Jill Hazelbaker!\n\nFor why it took so long, check out my newsletter here: https://t.co/6vdLRgJZNs\n\nhttps://t.co/vo7tZeNmpa"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-hires-uber-president-jill-hazelbaker-as-chief-corporate-affairs-o-01f31d1d",
+    "title": "OpenAI Hires Uber President Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "publishedAt": "2026-11-03T19:38:42.867Z",
+    "eventTimeApprox": "2026-11-03T19:25:28.500Z",
+    "routingTopicKeys": [
+      "business",
+      "ai"
+    ],
+    "tweetCount": 13,
+    "authorCount": 9
+  }
+}

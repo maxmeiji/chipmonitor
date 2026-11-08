@@ -1,0 +1,64 @@
+{
+  "slug": "robotaxi-extends-austin-service-to-11pm-from-10pm-de29ff7e",
+  "title": "Robotaxi Extends Austin Service to 11pm from 10pm",
+  "publishedAt": "2026-10-03T04:40:09.081Z",
+  "eventTimeApprox": "2026-10-03T04:27:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "summary": "Elon Musk has increased the nighttime availability of his autonomous fleet to support riders traveling later in the evening. The Robotaxi service in Austin now remains active until 11pm, shifting the previous closing time from 10pm to allow passengers to get home more safely and comfortably.\n\nThe expansion follows efforts to improve the fleet's ability to detect objects that blend into the environment at night. Musk stated that a primary challenge is ensuring the vehicles do not run over pets that are hard to see, specifically identifying grey kittens on grey tarmac in the dark as a critical safety target.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106230772051157467",
+      "role": "source",
+      "authorHandle": "robotaxi",
+      "url": "https://x.com/robotaxi/status/2106230772051157467",
+      "tweetedAt": "2026-10-03T03:52:02.000Z",
+      "bestBit": "Robotaxi in Austin now available until 11pm",
+      "text": "Robotaxi in Austin now available until 11pm"
+    },
+    {
+      "tweetId": "2106239692866019479",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2106239692866019479",
+      "tweetedAt": "2026-10-03T04:27:29.000Z",
+      "bestBit": "literally trying to avoid grey kittens on grey tarmac in the dark",
+      "text": "Robotaxi operating hours moved from 10pm to 11pm. \n\nThe main thing we’re trying to solve is making sure that we don’t run over pets when they’re hard to see at night. Literally trying to avoid grey kittens on grey tarmac in the dark.",
+      "quotedTweetText": "Robotaxi in Austin now available until 11pm"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "thom-wolf-publishes-free-guide-to-training-moe-ai-models-019fb1c8",
+  "title": "Thom Wolf Publishes Free Guide to Training MoE AI Models",
+  "publishedAt": "2026-11-07T11:07:56.650Z",
+  "eventTimeApprox": "2026-11-06T05:16:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118432475730882627/NrWnEgumFzh9jy5X-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118432475730882627/NrWnEgumFzh9jy5X-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2118429152424370176/vid/avc1/1080x1080/1w2-lbGlHJ7t-Axm.mp4?tag=29",
+    "credit": {
+      "handle": "thom_wolf",
+      "tweetUrl": "https://x.com/Thom_Wolf/status/2118432475730882627"
+    }
+  },
+  "summary": "Thom Wolf has released a comprehensive guide titled \"The Ultimate MoE Training Handbook,\" which provides free and open instructions for developing Mixture-of-Experts (MoE) AI models. The resource, which is approximately 70,000 words long, includes 55 interactive figures and runnable code derived from 800,000 GPU hours of experimentation by Wolf and his team.\n\nThe handbook aims to standardize training methods for an architecture that currently powers most of the top 20 open AI models, though Wolf noted that the specific technical expertise has remained concentrated within a small number of organizations. The guide addresses common bottlenecks in model training, including the efficiency of all-to-all communication and the selection of router functions to prevent processing delays.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118432475730882627",
+      "role": "source",
+      "authorHandle": "thom_wolf",
+      "url": "https://x.com/Thom_Wolf/status/2118432475730882627",
+      "tweetedAt": "2026-11-05T19:57:15.000Z",
+      "bestBit": "The Ultimate MoE Training Handbook\", free and open, organized around the questions training teams hit",
+      "text": "18 of the 20 best open models today are Mixture-of-Experts. Dense is basically over.\n\nAnd yet the know-how to train a good MoE still lives mostly in the heads of a handful of teams.\n\nSo we spent 800k GPU hours running the experiments ourselves and wrote everything down. Super happy to finally release \"The Ultimate MoE Training Handbook\", free and open, organized around the questions training teams hit:\n- how many experts, how big, shared or not?\n- why is half my step spent in all-to-all, and how do I hide it?\n- why is my run 25x slower with no error in the logs?\n- softmax, sigmoid or sqrt(softplus) router, and why keep it in fp32?\n- aux loss or DeepSeek's loss-free bias?\n- upcycle a dense checkpoint or train from scratch?\n- can I serve with fewer experts per token than I trained with?\n\n⚠️ Warning: it's long (~70k words, budget a few days, sorry) but with 55 interactive figures, code you can run and numbers from our own runs.\n\nRead it here: https://t.co/6XihlUrj92"
+    },
+    {
+      "tweetId": "2118493119310393453",
+      "role": "commentary",
+      "authorHandle": "chhillee",
+      "url": "https://x.com/cHHillee/status/2118493119310393453",
+      "tweetedAt": "2026-11-05T23:58:13.000Z",
+      "bestBit": "the know-how to train a good MoE still lives mostly in the heads of a handful of teams",
+      "text": "*19",
+      "quotedTweetText": "18 of the 20 best open models today are Mixture-of-Experts. Dense is basically over.\n\nAnd yet the know-how to train a good MoE still lives mostly in the heads of a handful of teams.\n\nSo we spent 800k GPU hours running the experiments ourselves and wrote everything down. Super happy to finally release \"The Ultimate MoE Training Handbook\", free and open, organized around the questions training teams hit:\n- how many experts, how big, shared or not?\n- why is half my step spent in all-to-all, and how do I hide it?\n- why is my run 25x slower with no error in the logs?\n- softmax, sigmoid or sqrt(softplus) router, and why keep it in fp32?\n- aux loss or DeepSeek's loss-free bias?\n- upcycle a dense checkpoint or train from scratch?\n- can I serve with fewer experts per token than I trained with?\n\n⚠️ Warning: it's long (~70k words, budget a few days, sorry) but with 55 interactive figures, code you can run and numbers from our own runs.\n\nRead it here: https://t.co/6XihlUrj92"
+    }
+  ],
+  "isSuperseded": false
+}

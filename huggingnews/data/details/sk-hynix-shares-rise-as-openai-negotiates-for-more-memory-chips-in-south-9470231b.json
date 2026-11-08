@@ -1,0 +1,126 @@
+{
+  "slug": "sk-hynix-shares-rise-as-openai-negotiates-for-more-memory-chips-in-south-9470231b",
+  "title": "SK Hynix Shares Rise as OpenAI Negotiates for More Memory Chips in South Korea",
+  "publishedAt": "2026-11-04T12:07:56.663Z",
+  "eventTimeApprox": "2026-10-31T17:41:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "subject",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2116832657598460391/HWCAFZwagAAijN5-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2116832657598460391/HWCAFZwagAAijN5-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "melvininvests",
+      "tweetUrl": "https://x.com/MelvinInvests/status/2116832657598460391"
+    }
+  },
+  "summary": "The shortage of high-bandwidth memory (HBM) has become a binding constraint for artificial intelligence buildouts, prompting OpenAI CEO Sam Altman to meet with leaders at Samsung and SK Hynix in South Korea to secure additional capacity. Shares of SK Hynix climbed 2.4% on reports of the visit and subsequent talks regarding HBM supply for OpenAI's Stargate infrastructure project. The semiconductor maker noted that customer requests for its HBM products currently exceed its available supply by more than twofold.\n\nDuring his trip, Altman met with about 50 Samsung executives in Yongin to discuss the role of AI in business over the next decade and the scaling of data centers. The meetings build on letters of intent signed in October 2025, under which the two chipmakers targeted the combined delivery of as many as 900,000 DRAM wafers a month. The pursuit of these components comes as Altman recently criticized the allocation of scarce memory to personal computers, arguing the chips are underutilized compared to their use in AI data centers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116422453131989212",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2116422453131989212",
+      "tweetedAt": "2026-10-31T06:50:08.000Z",
+      "bestBit": "OpenAI Chief Executive Officer Sam Altman met with Samsung Group’s top executives in South Korea on Saturday to deepen cooperation on memory chips and AI infrastructure as global shortages intensify.",
+      "text": "OpenAI Chief Executive Officer Sam Altman met with Samsung Group’s top executives in South Korea on Saturday to deepen cooperation on memory chips and AI infrastructure as global shortages intensify. https://t.co/bl2wjJdypY"
+    },
+    {
+      "tweetId": "2117271238494085471",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2117271238494085471",
+      "tweetedAt": "2026-11-02T15:02:54.000Z",
+      "bestBit": "SK hynix says customers are requesting more than twice its available HBM supply.",
+      "text": "SK HYNIX JUMPS 2.4% AFTER OPENAI CEO'S SOUTH KOREA VISIT\n\nSK hynix shares rose 2.4% after OpenAI CEO Sam Altman reportedly met SK Group executives to discuss HBM supply and Stargate AI infrastructure.\n\nSK hynix says customers are requesting more than twice its available HBM supply.\n\nNomura remains bullish, while Rosenblatt reiterated its Buy rating, dismissing recent competitive concerns.\n\nReports also suggest a potential $12 billion special dividend linked to Kioxia investment gains."
+    },
+    {
+      "tweetId": "2116832657598460391",
+      "role": "commentary",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2116832657598460391",
+      "tweetedAt": "2026-11-01T10:00:09.000Z",
+      "bestBit": "when OpenAI signed letters of intent with Samsung and SK Hynix for up to 900,000 DRAM wafers per month.",
+      "text": "According to Korean media, Sam Altman met about 50 Samsung executives in Yongin on Saturday.\n\nIt was his first visit to Korea since October of last year, when OpenAI signed letters of intent with Samsung and SK Hynix for up to 900,000 DRAM wafers per month.\n\nOn the same day, he had lunch with SK chairman Chey Tae-won, who brought executives from SK Hynix and SK Telecom. HBM supply and data centers were reportedly on the table.\n\nThis comes just days after Altman said it is \"quite terrible\" for scarce DRAM to sit inside personal computers.\n\nThe biggest AI customer in the world flew to Korea to talk to the two companies that make the memory and that tells you exactly where the bottleneck is.\n\n$SSNLF $SKHY $MU",
+      "quotedTweetText": "Sam Altman just said it is \"quite terrible\" for your PC to have RAM.\n\nHis point is that the memory in a home computer sits idle about 95% of the time, while the same chips in a data center would be working almost all day.\n\nThat is a remarkable thing for the CEO of OpenAI to say out loud in the middle of a memory shortage.\n\nIt tells you where the AI labs want every DRAM chip to go, and it is NOT your laptop.\n\n$MU $NVDA"
+    },
+    {
+      "tweetId": "2116434574993666327",
+      "role": "analysis",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2116434574993666327",
+      "tweetedAt": "2026-10-31T07:38:18.000Z",
+      "bestBit": "Altman visited South Korea exactly one year ago, right when this whole surge in RAM prices began.",
+      "text": "OpenAI’s Sam Altman reportedly made a top-secret visit to South Korea and met with Samsung’s top executives.\n\n(According to local Korean media, he also met with SK hynix.)\n\nAltman visited South Korea exactly one year ago, right when this whole surge in RAM prices began. Now, a year later, he’s back—and he’s met with the two memory giants.",
+      "quotedTweetText": "OpenAI’s Sam Altman sits down with Samsung’s top brass in South Korea to talk about the future of AI https://t.co/0U1vUzcoh3"
+    },
+    {
+      "tweetId": "2116470475677405254",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2116470475677405254",
+      "tweetedAt": "2026-10-31T10:00:58.000Z",
+      "bestBit": "Saturday’s talks extend an earlier deal under which Samsung supplies memory for OpenAI’s Stargate project and works with OpenAI on data centers, including floating offshore sites.",
+      "text": "Bloomberg: Sam Altman met about 50 Samsung executives in South Korea, seeking deeper memory-chip and data-center ties as shortages bite.\n\nMemory has become a binding constraint on AI buildouts, with shortages across many memory products pushing chip prices sharply higher.\n\nSouth Korea leads in advanced memory, so Nvidia’s Jensen Huang and AMD’s Lisa Su have each visited twice since last year.\n\nSaturday’s talks extend an earlier deal under which Samsung supplies memory for OpenAI’s Stargate project and works with OpenAI on data centers, including floating offshore sites.\n\nWhen that deal was signed in October 2025, OpenAI said Samsung and SK Hynix were targeting up to 900K DRAM wafers a month combined."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-ceo-sam-altman-meets-with-samsung-and-sk-hynix-to-expand-ai-chip-fbdacfe0",
+    "title": "OpenAI CEO Sam Altman Meets With Samsung and SK Hynix to Expand AI Chip Supply",
+    "publishedAt": "2026-10-31T07:52:44.757Z",
+    "eventTimeApprox": "2026-10-31T07:19:58.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "business"
+    ],
+    "tweetCount": 15,
+    "authorCount": 14
+  }
+}

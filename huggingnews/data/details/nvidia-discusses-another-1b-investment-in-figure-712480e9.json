@@ -1,0 +1,98 @@
+{
+  "slug": "nvidia-discusses-another-1b-investment-in-figure-712480e9",
+  "title": "Nvidia Discusses Another $1B Investment in Figure",
+  "publishedAt": "2026-10-07T13:24:04.861Z",
+  "eventTimeApprox": "2026-10-07T13:04:19.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:FIGR",
+      "kind": "private",
+      "role": "subject",
+      "name": "Figure AI",
+      "hubKey": "figure-ai"
+    }
+  ],
+  "summary": "The robotics startup Figure plans to deploy about 100,000 Vera Rubin GPUs through Nscale starting in 2027 to train its humanoid models. This training operation will require approximately 230 MW of GPU power, according to The Information. Nvidia has held talks to invest an additional $1 billion in the firm to expand its footprint in the emerging sector of Physical AI.\n\nThe drive toward training humanoids at scale creates a new demand curve for the chipmaker because these models require massive data center capacity before specialized chips can be integrated into the physical robots. This strategy allows Nvidia to leverage its infrastructure leadership to support robotic intelligence training outside of traditional large language models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107819121144668414",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2107819121144668414",
+      "tweetedAt": "2026-10-07T13:03:34.000Z",
+      "bestBit": "NVIDIA DISCUSSED INVESTING ANOTHER $1B IN FIGURE",
+      "text": "NVIDIA DISCUSSED INVESTING ANOTHER $1B IN FIGURE: INFORMATION"
+    },
+    {
+      "tweetId": "2107821579505897506",
+      "role": "support",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107821579505897506",
+      "tweetedAt": "2026-10-07T13:13:20.000Z",
+      "bestBit": "plans to use ~100K Vera Rubin GPUs through Nscale starting in 2027 which is ~230 MW of GPU power just for robot training",
+      "text": "$NVDA is discussing another $1B investment in Figure AI as the company plans to use ~100K Vera Rubin GPUs through Nscale starting in 2027 which is ~230 MW of GPU power just for robot training.\n\nPhysical AI adds a second demand curve for Nvidia because training humanoids at scale requires huge data center capacity before chips ever reach the robots."
+    },
+    {
+      "tweetId": "2107820472716988599",
+      "role": "support",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2107820472716988599",
+      "tweetedAt": "2026-10-07T13:08:56.000Z",
+      "bestBit": "reportedly been in talks to invest another $1 Billion into robotics startup Figure",
+      "text": "Nvidia $NVDA has reportedly been in talks to invest another $1 Billion into robotics startup Figure - The Information https://t.co/s7UQSGLY3a"
+    },
+    {
+      "tweetId": "2107819311226343510",
+      "role": "support",
+      "authorHandle": "openoutcrier",
+      "url": "https://x.com/OpenOutcrier/status/2107819311226343510",
+      "tweetedAt": "2026-10-07T13:04:19.000Z",
+      "bestBit": "Nvidia’s $100 Billion Dealmaking Juggernaut",
+      "text": "$NVDA Where Nvidia’s $100 Billion Dealmaking Juggernaut Will Go Next - The Information\n\nhttps://t.co/uMls9NgMLF"
+    }
+  ],
+  "isSuperseded": false
+}

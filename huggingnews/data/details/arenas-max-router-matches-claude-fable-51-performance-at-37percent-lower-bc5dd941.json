@@ -1,0 +1,67 @@
+{
+  "slug": "arenas-max-router-matches-claude-fable-51-performance-at-37percent-lower-bc5dd941",
+  "title": "Arena's Max Router Matches Claude Fable 5.1 Performance at 37% Lower Cost",
+  "publishedAt": "2026-10-13T20:55:20.154Z",
+  "eventTimeApprox": "2026-10-13T20:25:56.500Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110102742958309380/HUiUg8ZaEAENQ3s-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110102742958309380/HUiUg8ZaEAENQ3s-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "arena",
+      "tweetUrl": "https://x.com/arena/status/2110102742958309380"
+    }
+  },
+  "summary": "An agentic model router called Max now allows users to automatically select the most efficient AI model for a given task based on output quality and price. Developed by Arena and trained on 2.5M real-world agentic sessions, the tool recorded a 14.7% net improvement score in its internal benchmark. When routing tasks between Claude Fable 5.1 and GPT 6 Astra, Max matched the output of Fable 5.1 at a median cost of $3.27 per task, representing a 37% reduction in price.\n\nThe routing methodology works across various model combinations, shifting the performance-cost frontier for tasks involving code, chat, and work. For instance, pairing Fable 5 and Kimi K3 through Max resulted in a 10.7% net improvement and a 54% cost decrease compared to Fable 5 High, with costs dropping to $1.06 per task. Arena is currently providing direct access to the Fable 5.1 and Astra variant in Agent Mode and plans to release an API in the future.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110102742958309380",
+      "role": "source",
+      "authorHandle": "arena",
+      "url": "https://x.com/arena/status/2110102742958309380",
+      "tweetedAt": "2026-10-13T20:17:52.000Z",
+      "bestBit": "achieves a +14.7% net improvement score in Agent Arena at a median cost of $3.27 per task",
+      "text": "Introducing our new agentic version of Max: Arena’s model router that achieves frontier-level performance at 37% lower cost.\n\nBuilt on 2.5M real-world agentic sessions from Agent Arena, Max learns to dynamically select the best model for each task, optimizing for both performance and cost.\n\nMax achieves a +14.7% net improvement score in Agent Arena at a median cost of $3.27 per task, matching the performance of Claude Fable 5.1 (Max) at 37% lower cost.\n\nTry Max today for a limited time, and dive into more technical details in the thread."
+    },
+    {
+      "tweetId": "2110102746271768929",
+      "role": "support",
+      "authorHandle": "arena",
+      "url": "https://x.com/arena/status/2110102746271768929",
+      "tweetedAt": "2026-10-13T20:17:53.000Z",
+      "bestBit": "By routing between Fable 5.1 and GPT 6 Astra, Max delivers stronger results at a lower cost than any single frontier model",
+      "text": "Max shifts the performance–cost Pareto frontier in all three task categories in Agent Arena: Code, Chat, and Work.\n\nThe solid lines show the frontier with Max, compared with the dotted lines for public models alone. By routing between Fable 5.1 and GPT 6 Astra, Max delivers stronger results at a lower cost than any single frontier model."
+    },
+    {
+      "tweetId": "2110102752898744455",
+      "role": "support",
+      "authorHandle": "arena",
+      "url": "https://x.com/arena/status/2110102752898744455",
+      "tweetedAt": "2026-10-13T20:17:54.000Z",
+      "bestBit": "With Fable 5 and Kimi K3, Max achieves a +10.7% net improvement at a median cost of $1.06 per task",
+      "text": "We built Max’s routing methodology to work across any model combination, allowing the router to stay on the frontier even as new models launch.\n\nWith Fable 5 and Kimi K3, Max achieves a +10.7% net improvement at a median cost of $1.06 per task, outperforming Fable 5 (High) by 0.6 percentage points while reducing cost by 54%.\n\nThese results demonstrate how the same approach can improve the performance-cost frontier across different model combinations."
+    }
+  ],
+  "isSuperseded": false
+}

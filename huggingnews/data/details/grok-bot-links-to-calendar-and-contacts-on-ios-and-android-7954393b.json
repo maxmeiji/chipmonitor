@@ -1,0 +1,68 @@
+{
+  "slug": "grok-bot-links-to-calendar-and-contacts-on-ios-and-android-7954393b",
+  "title": "Grok Bot Links to Calendar and Contacts on iOS and Android",
+  "publishedAt": "2026-10-22T22:40:14.791Z",
+  "eventTimeApprox": "2026-10-22T22:18:57.500Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113393684209176718/HVRHn--W4AAI_uQ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113393684209176718/HVRHn--W4AAI_uQ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "bot",
+      "tweetUrl": "https://x.com/bot/status/2113393684209176718"
+    }
+  },
+  "summary": "Mobile users are gaining the ability to let their digital assistants manage personal schedules and address books through a new integration. Grok Bot is currently rolling out functionality to interact with Calendar, Reminders, and Contacts apps on both iOS and Android devices, allowing the assistant to utilize on-device data to perform tasks.\n\nThe update provides Apple users with additional connectivity to Alarms, Location, and Home apps. These capabilities are being deployed across both major mobile operating systems to extend the bot's reach into native system applications.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113393684209176718",
+      "role": "source",
+      "authorHandle": "bot",
+      "url": "https://x.com/bot/status/2113393684209176718",
+      "tweetedAt": "2026-10-22T22:14:53.000Z",
+      "bestBit": "Grok Bot can now use Calendar, Reminders, Contacts, and more apps on your phone.",
+      "text": "Grok Bot can now use Calendar, Reminders, Contacts, and more apps on your phone.\n\nRolling out now on iOS and Android. https://t.co/wM0lssJP1X"
+    },
+    {
+      "tweetId": "2113397279742738758",
+      "role": "support",
+      "authorHandle": "techdevnotes",
+      "url": "https://x.com/techdevnotes/status/2113397279742738758",
+      "tweetedAt": "2026-10-22T22:29:11.000Z",
+      "bestBit": "Grok Bot now has access to Apple Calendar, Alarms, Reminders, Location, Home, Contacts",
+      "text": "Grok Bot now has access to Apple Calendar, Alarms, Reminders, Location, Home, Contacts https://t.co/ikolcgM0zV"
+    }
+  ],
+  "isSuperseded": false
+}

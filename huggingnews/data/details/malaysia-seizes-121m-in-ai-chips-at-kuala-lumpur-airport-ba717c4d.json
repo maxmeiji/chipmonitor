@@ -1,0 +1,45 @@
+{
+  "slug": "malaysia-seizes-121m-in-ai-chips-at-kuala-lumpur-airport-ba717c4d",
+  "title": "Malaysia Seizes $12.1M in AI Chips at Kuala Lumpur Airport",
+  "publishedAt": "2026-10-28T10:37:43.955Z",
+  "eventTimeApprox": "2026-10-28T08:50:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    }
+  ],
+  "summary": "Officials at the nation's capital airport blocked the transit of high-performance semiconductor components during a customs operation this month. The seized hardware was valued at $12.11 million and was destined to be moved through the hub by a group suspected of illegally transporting electronics into the country.\n\nThe bust marks the fifth time this year that authorities have foiled attempts to smuggle AI chips into Malaysia. Customs agents said they are narrowing in on the specific syndicate believed to be orchestrating the shipments through the Kuala Lumpur terminal.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115337903953891680",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2115337903953891680",
+      "tweetedAt": "2026-10-28T07:00:32.000Z",
+      "bestBit": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says",
+      "text": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says https://t.co/L0AurFze6S"
+    }
+  ],
+  "isSuperseded": false
+}

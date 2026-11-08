@@ -1,0 +1,77 @@
+{
+  "slug": "openai-ai-agents-identify-brain-disease-leads-in-32-minutes-0f03fe0b",
+  "title": "OpenAI AI Agents Identify Brain Disease Leads in 32 Minutes",
+  "publishedAt": "2026-10-21T15:08:35.486Z",
+  "eventTimeApprox": "2026-10-21T14:10:19.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "OpenAI, PerturbAI, and Scripps Research deployed 1,946 assistants from the GPT-Rosalind-5.5 model to analyze a whole-brain mouse CRISPR atlas for markers of neurodegenerative disease. The AI agents interpreted gene expression data and scientific literature in 32 minutes to produce a ranked list of research leads, a process OpenAI estimates would take human researchers months to complete. One lead suggests that restoring cholesterol transport could protect neurons from degeneration, specifically involving the DCTN1 gene linked to Perry syndrome.\n\nThe system achieved these results by splitting a massive analysis into parallel tasks, assigning each AI agent to a single gene. This method cited 711 times more papers than a single agent tasked with 893 genes, and blinded PhD reviewers preferred the results from the parallel agents 75% of the time. The models matched or refined 48 of 55 published findings in the data, enabling labs to run experiments larger than their human experts can manually interpret.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112899854569762936",
+      "role": "source",
+      "authorHandle": "openai",
+      "url": "https://x.com/OpenAI/status/2112899854569762936",
+      "tweetedAt": "2026-10-21T13:32:35.000Z",
+      "bestBit": "connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes",
+      "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in making cholesterol. GPT-Rosalind suggested a possible explanation: cholesterol may not be reaching where neurons need it.\n\nThat gives scientists a specific mechanism to test and, if confirmed, a direction for developing new treatments for neurodegenerative disorders.\n\nWith @perturbai_tx and @scrippsresearch, a team of thousands of GPT-Rosalind agents worked in parallel, connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes. We’re now expanding this collaboration to identify new drug targets.\n\nhttps://t.co/oHdF3ELsMj"
+    },
+    {
+      "tweetId": "2112909348162924971",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112909348162924971",
+      "tweetedAt": "2026-10-21T14:10:19.000Z",
+      "bestBit": "matched or refined 48 of the 55 published findings the expression data could support",
+      "text": "OpenAI showed that AI agents can handle the slowest step in modern biology, making sense of huge experiments.\n\nBy splitting a huge brain experiment among 1,946 AI agents, OpenAI got in 32 minutes what it estimates would take people months: a ranked list of leads for new brain-disease research.\n\nSo biology labs can now produce experiments far bigger than their own experts can fully interpret\n\nOpenAI, PerturbAI and Scripps Research had 1,946 GPT-Rosalind-5.5 agents interpret a whole-brain mouse CRISPR atlas in 32 minutes.\n\nEach agent analyzed a single knockout’s effects and searched the literature, without seeing the atlas paper, which appeared after the model’s December 2025 knowledge cutoff.\n\nThey still matched or refined 48 of the 55 published findings the expression data could support.\n\nThe main advance is the method: split 1 giant analysis into nearly 2K small ones, 1 gene per agent, and run them all at once. A single agent given 893 genes cited just 11 papers, while the split-up agents cited 711 times as many, and blinded PhD reviewers preferred their reports 75% of the time.",
+      "quotedTweetText": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in making cholesterol. GPT-Rosalind suggested a possible explanation: cholesterol may not be reaching where neurons need it.\n\nThat gives scientists a specific mechanism to test and, if confirmed, a direction for developing new treatments for neurodegenerative disorders.\n\nWith @perturbai_tx and @scrippsresearch, a team of thousands of GPT-Rosalind agents worked in parallel, connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes. We’re now expanding this collaboration to identify new drug targets.\n\nhttps://t.co/oHdF3ELsMj"
+    },
+    {
+      "tweetId": "2112919429646573959",
+      "role": "commentary",
+      "authorHandle": "tmtlongshort",
+      "url": "https://x.com/TMTLongShort/status/2112919429646573959",
+      "tweetedAt": "2026-10-21T14:50:22.000Z",
+      "bestBit": "the cadence speeds up to one blog post per day and then one blog post per hour",
+      "text": "You aren’t ready for when the cadence speeds up to one blog post per day and then one blog post per hour",
+      "quotedTweetText": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in making cholesterol. GPT-Rosalind suggested a possible explanation: cholesterol may not be reaching where neurons need it.\n\nThat gives scientists a specific mechanism to test and, if confirmed, a direction for developing new treatments for neurodegenerative disorders.\n\nWith @perturbai_tx and @scrippsresearch, a team of thousands of GPT-Rosalind agents worked in parallel, connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes. We’re now expanding this collaboration to identify new drug targets.\n\nhttps://t.co/oHdF3ELsMj"
+    }
+  ],
+  "isSuperseded": false
+}

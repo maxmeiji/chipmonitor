@@ -1,0 +1,107 @@
+{
+  "slug": "openai-seals-new-pacts-to-deploy-ai-across-uae-energy-and-investment-sec-7a4884aa",
+  "title": "OpenAI Seals New Pacts to Deploy AI Across UAE Energy and Investment Sectors",
+  "publishedAt": "2026-11-02T11:08:21.428Z",
+  "eventTimeApprox": "2026-11-02T06:20:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 46,
+  "authorCount": 29,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117206847472201928/YXuy--7yjbpBbkb2-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117206847472201928/YXuy--7yjbpBbkb2-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2117206702932250624/vid/avc1/1920x1080/uMe9X-NkG-vgLcvp.mp4?tag=29",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2117206847472201928"
+    }
+  },
+  "summary": "OpenAI has expanded its partnership with Abu Dhabi through new agreements to integrate generative AI into the operations of the emirate's state-owned companies and public services. The pacts include a deal to make ADNOC the first energy company to use OpenAI's Frontier technology for oil production and trading decisions, as well as a collaboration with investment firm Mubadala to apply AI to risk assessment and opportunity analysis. Other arrangements include a five year partnership with Inception42 and a project to convert government regulations into machine-readable formats to automate compliance checks.\n\nThe expansion occurs as CEO Sam Altman visits the UAE and OpenAI pursues billions of dollars in investment from state-backed funders. In addition to the software deployments, the AI firm is involved in the development of a 5 GW AI data center in the region, further strengthening ties with the government's goal of creating a fully AI-native administration.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117123175813452104",
+      "role": "source",
+      "authorHandle": "thenationalnews",
+      "url": "https://x.com/TheNationalNews/status/2117123175813452104",
+      "tweetedAt": "2026-11-02T05:14:34.000Z",
+      "bestBit": "Abu Dhabi signs landmark agreements with OpenAI to expand AI use across the emirate",
+      "text": "#Breaking:\n\nAbu Dhabi signs landmark agreements with OpenAI to expand AI use across the emirate https://t.co/da5nLsKoVB"
+    },
+    {
+      "tweetId": "2117141191091454317",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2117141191091454317",
+      "tweetedAt": "2026-11-02T06:26:09.000Z",
+      "bestBit": "Today's agreements deepen the relationship between OpenAI and the UAE, CEO Sam Altman says.",
+      "text": "Today's agreements deepen the relationship between OpenAI and the UAE, CEO Sam Altman says."
+    },
+    {
+      "tweetId": "2117151002021216332",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2117151002021216332",
+      "tweetedAt": "2026-11-02T07:05:08.000Z",
+      "bestBit": "deepening ties as it seeks billions of dollars in funding from the country’s state-backed investors",
+      "text": "OpenAI signed deals to deploy its technology across energy companies, investment firms and government agencies in the UAE, deepening ties as it seeks billions of dollars in funding from the country’s state-backed investors https://t.co/oYTxwP4Wcm"
+    },
+    {
+      "tweetId": "2117206847472201928",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117206847472201928",
+      "tweetedAt": "2026-11-02T10:47:02.000Z",
+      "bestBit": "The deals deepen OpenAI's ties with the UAE, where it is also involved in a planned 5 GW AI data center project.",
+      "text": "OpenAI has signed 4 new agreements in Abu Dhabi as CEO Sam Altman visits the UAE, expanding its presence across energy, government and investment.\n\nThe agreements include:\n\n1) ADNOC + G42: ADNOC becomes the first energy company to deploy OpenAI's Frontier technology, using AI to improve decisions across oil production, refining and trading.\n\n2) Abu Dhabi Government: OpenAI will help convert government regulations into machine-readable formats, allowing AI to assist with permits and compliance checks. The first pilot is already live.\n\n3) Mubadala + Inception42: Deploying AI for investment analysis, identifying opportunities and assessing risks.\n\n4) Inception42: A five-year partnership to expand OpenAI's technology across government agencies, businesses and education in the UAE.\n\nThe deals deepen OpenAI's ties with the UAE, where it is also involved in a planned 5 GW AI data center project."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "uae-signs-4-openai-deals-to-build-worlds-first-ai-native-government-add1c408",
+    "title": "UAE Signs 4 OpenAI Deals to Build World's First AI-Native Government",
+    "publishedAt": "2026-11-02T06:37:08.298Z",
+    "eventTimeApprox": "2026-11-02T05:33:47.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business"
+    ],
+    "tweetCount": 8,
+    "authorCount": 7
+  }
+}

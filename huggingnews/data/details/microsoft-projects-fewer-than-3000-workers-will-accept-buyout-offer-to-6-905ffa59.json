@@ -1,0 +1,161 @@
+{
+  "slug": "microsoft-projects-fewer-than-3000-workers-will-accept-buyout-offer-to-6-905ffa59",
+  "title": "Microsoft Projects Fewer Than 3,000 Workers Will Accept Buyout Offer to 60,000 Staff",
+  "publishedAt": "2026-10-30T18:52:12.296Z",
+  "eventTimeApprox": "2026-10-27T20:16:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 283,
+  "authorCount": 119,
+  "routingTopicKeys": [
+    "earnings",
+    "business",
+    "tech",
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "related",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    },
+    {
+      "ticker": "IREN",
+      "kind": "equity",
+      "role": "related",
+      "name": "IREN Limited Ordinary Shares",
+      "hubKey": "iren"
+    },
+    {
+      "ticker": "NBIS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nebius Group N.V. Class A Ordinary Shares",
+      "hubKey": "nbis"
+    }
+  ],
+  "summary": "Microsoft expects fewer than 3,000 employees to accept the voluntary buyout package it offered to about 60,000 workers, or 27% of its 223,000 global staff. The program covers participating teams in the US, Canada, the UK and India at internal level 70, or vice president level, and below, while excluding data center, sales, marketing and security personnel. Eligible workers have until early December to decide and will depart Dec. 31 on standard severance terms, following an April voluntary retirement offer that more than 30% of 8,750 eligible employees accepted before Microsoft cut 4,800 jobs in July.\n\nCFO Amy Hood included estimated expenses from the buyout offer in fiscal second quarter guidance of $32.7B to $32.9B in cost of goods sold and $18.5B to $18.6B in operating expenses. Hood also lowered calendar 2026 capital expenditure guidance to about $170B from roughly $175B after third party GPU capacity deliveries were delayed into the first half of calendar 2027, a reduction that sent shares of neocloud providers CoreWeave, IREN and Nebius lower after first quarter capital spending excluding leases came in at $39.37B against estimates of $45.93B.\n\nThe buyout projection and spending revision followed fiscal first quarter results in which total revenue rose 19% to $92.28B, topping the $90.63B consensus, with $10B, or roughly 11%, coming from largest customer OpenAI alongside $7.2B in outstanding receivables. Azure revenue grew 48% to $33.2B, beating estimates of $32.3B, while Microsoft Cloud revenue climbed 30% to $63.9B and adjusted earnings reached $4.89 a share against expectations of $4.73.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115534823569658299",
+      "role": "source",
+      "authorHandle": "ftr_investors",
+      "url": "https://x.com/ftr_investors/status/2115534823569658299",
+      "tweetedAt": "2026-10-28T20:03:01.000Z",
+      "bestBit": "EPS: $4.89 vs $4.72 est. 🟢\nRevenue: $92.28B vs $90.72B est. 🟢 \nAzure growth: 48% vs 45% est.",
+      "text": "𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗤𝟭 𝗙𝗬𝟮𝟳 𝗘𝗮𝗿𝗻𝗶𝗻𝗴𝘀 $MSFT\nEPS: $4.89 vs $4.72 est. 🟢\nRevenue: $92.28B vs $90.72B est. 🟢 \nAzure growth: 48% vs 45% est. 🟢\n\nShares: +3.8% 📈\n\nLike these earnings updates? You'll ❤️ our newsletter. Subscribe for free 👇 \nhttps://t.co/Kiq4fPjA8I https://t.co/Op21wpXYq6"
+    },
+    {
+      "tweetId": "2115570817555669163",
+      "role": "support",
+      "authorHandle": "aaronpholmes",
+      "url": "https://x.com/aaronpholmes/status/2115570817555669163",
+      "tweetedAt": "2026-10-28T22:26:02.000Z",
+      "bestBit": "Microsoft made $92 billion in revenue last quarter, 11% of which came from one customer: OpenAI",
+      "text": "Microsoft made $92 billion in revenue last quarter, 11% of which came from one customer: OpenAI https://t.co/oybAI899El"
+    },
+    {
+      "tweetId": "2116236192203079697",
+      "role": "support",
+      "authorHandle": "kalshi",
+      "url": "https://x.com/Kalshi/status/2116236192203079697",
+      "tweetedAt": "2026-10-30T18:30:00.000Z",
+      "bestBit": "Microsoft expects fewer than 3,000 employees to accept buyouts",
+      "text": "JUST IN: Microsoft expects fewer than 3,000 employees to accept buyouts",
+      "quotedTweetText": "BREAKING: Microsoft offers \"buyouts\" to over 25% of its workforce as part of efforts to cut costs"
+    },
+    {
+      "tweetId": "2116006175506321437",
+      "role": "commentary",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2116006175506321437",
+      "tweetedAt": "2026-10-30T03:16:00.000Z",
+      "bestBit": "Microsoft trimmed 2026 capex to $170B from $175B…. Not because demand fell, no it was because third-party GPU providers were late, pushing capacity to the first half of 2027.",
+      "text": "Microsoft trimmed 2026 capex to $170B from $175B…. Not because demand fell, no it was because third-party GPU providers were late, pushing capacity to the first half of 2027. \n\nCNBC named who Microsoft relies on: CoreWeave, IREN, Nebius. All three fell. \n\nNot all 3 are on my hiring freeze watch/ but I go thru the top 20 neoclouds here. 👇👇👇👇",
+      "quotedTweetText": "Musk's \"Guppy-Level Death\" for Neoclouds: Which Ones Can Deliver\n\nElon Musk expects most neoclouds to die. Several of the larger ones have Gulf money in them. I looked at which of those companies are hiring the people needed to deliver what they have sold.\n\nhttps://t.co/9TtwwLTcW4"
+    },
+    {
+      "tweetId": "2114772473732342125",
+      "role": "commentary",
+      "authorHandle": "martinvars",
+      "url": "https://x.com/martinvars/status/2114772473732342125",
+      "tweetedAt": "2026-10-26T17:33:42.000Z",
+      "bestBit": "60,000 eligible out of about 223,000 is 27% of the company. When it offered early retirement this spring, more than 30% of those eligible said yes.",
+      "text": "@unusual_whales Voluntary buyouts have a known flaw: the first people to take the money are the ones with the best offers elsewhere. Microsoft seems to know it, which is why data center, sales and security teams were left out. 60,000 eligible out of about 223,000 is 27% of the company. When it offered early retirement this spring, more than 30% of those eligible said yes."
+    },
+    {
+      "tweetId": "2114784171730387161",
+      "role": "commentary",
+      "authorHandle": "rexsalisbury",
+      "url": "https://x.com/rexsalisbury/status/2114784171730387161",
+      "tweetedAt": "2026-10-26T18:20:11.000Z",
+      "bestBit": "Azure demand exceeds capacity.  some data-center, sales, and marketing employees are not eligible for the buyout.",
+      "text": "Microsoft layoffs are not a \"AI took the jobs\" story.\n\nIt is \"our AI business is ripping, so we care less about other parts of the business\" story.  \n\nAzure demand exceeds capacity.  some data-center, sales, and marketing employees are not eligible for the buyout.\n\ndon’t need AI to replace someone’s work to decide to invest in something else."
+    },
+    {
+      "tweetId": "2114985448938611005",
+      "role": "commentary",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2114985448938611005",
+      "tweetedAt": "2026-10-27T07:40:00.000Z",
+      "bestBit": "The company is offering voluntary buyouts to workers in the U.S., Canada, India and the UK, all the way up to vice president level.",
+      "text": "🇺🇸 Microsoft just showed 60,000 employees the exit door... and asked them nicely to walk through it.\n\nThe company is offering voluntary buyouts to workers in the U.S., Canada, India and the UK, all the way up to vice president level. \n\nThat's about 27% of its entire workforce of 223,000.\n\nMeanwhile, its spending on AI data centers is expected to top $50 BILLION in a single quarter, up from $34.9 billion a year ago.\n\nThe servers are getting the raise, the humans are getting the buyout.\n\nSource: CNBC / Writer: Julie"
+    },
+    {
+      "tweetId": "2115594685976826282",
+      "role": "commentary",
+      "authorHandle": "dnystedt",
+      "url": "https://x.com/dnystedt/status/2115594685976826282",
+      "tweetedAt": "2026-10-29T00:00:53.000Z",
+      "bestBit": "Microsoft Cloud revenue surpassed $63B",
+      "text": "RT @satyanadella: Just wrapped our earnings call. It was a fast start to our fiscal year.\n\nMicrosoft Cloud revenue surpassed $63B, with gro…"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "microsoft-shares-rise-as-azure-revenue-jumps-48percent-to-332b-and-opena-88ec3c2c",
+    "title": "Microsoft Shares Rise as Azure Revenue Jumps 48% to $33.2B and OpenAI Accounts for 11% of Sales",
+    "publishedAt": "2026-10-29T09:36:14.646Z",
+    "eventTimeApprox": "2026-10-27T12:25:01.500Z",
+    "routingTopicKeys": [
+      "earnings",
+      "ai",
+      "us-markets",
+      "tech"
+    ],
+    "tweetCount": 269,
+    "authorCount": 118
+  }
+}

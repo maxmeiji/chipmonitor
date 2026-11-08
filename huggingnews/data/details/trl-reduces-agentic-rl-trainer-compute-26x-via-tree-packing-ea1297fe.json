@@ -1,0 +1,59 @@
+{
+  "slug": "trl-reduces-agentic-rl-trainer-compute-26x-via-tree-packing-ea1297fe",
+  "title": "TRL Reduces Agentic RL Trainer Compute 26x via Tree Packing",
+  "publishedAt": "2026-10-15T09:23:00.300Z",
+  "eventTimeApprox": "2026-10-15T08:22:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "subject",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "summary": "The AsyncGRPO implementation in TRL now forwards each unique token once per batch instead of repeating shared rollout history for every sample. This tree packing mechanism allow trainers to reach the same reward on agentic reinforcement learning with 26x less compute on MiMo Envs. The current version uses a single FA3 varlen call, replacing an earlier iteration based on FlexAttention.\n\nThe update addresses a bottleneck in forward and backward passes that occurs when agentic training rollouts exceed 100k tokens and batch sizes are large. The feature has been tested on Mixture of Experts and VLM models, with the developers noting it adds approximately 1% overhead in scenarios where no shared tokens can be packed.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110642116716351663",
+      "role": "source",
+      "authorHandle": "dirhousssiamine",
+      "url": "https://x.com/DirhousssiAmine/status/2110642116716351663",
+      "tweetedAt": "2026-10-15T08:01:09.000Z",
+      "bestBit": "reached the same reward with 26× less trainer compute",
+      "text": "🌲 Tree packing has landed in AsyncGRPO in TRL!\n⚡ 26× less trainer compute to reach the same reward on agentic RL.\n\nGRPO starts from the same prompt G times, and forked multi-turn rollouts share most of their history. Sequence packing forwards those shared tokens once per sample. Tree packing forwards each unique token once.\n\nThe first version used FlexAttention, but the shipped one is a single FA3 varlen call. Each token retains its own target, advantage, and previous log-prob.\n\nExtensively tested against sequence packing on dense, sliding-window, softcap, MoE, and VLM models. When it can't pack anything, it costs ~1%.\n\nOn a REAL agentic RL run on MiMo Envs, tree packing reached the same reward with 26× less trainer compute 👇"
+    },
+    {
+      "tweetId": "2110647508711964871",
+      "role": "commentary",
+      "authorHandle": "_lewtun",
+      "url": "https://x.com/_lewtun/status/2110647508711964871",
+      "tweetedAt": "2026-10-15T08:22:34.000Z",
+      "bestBit": "agentic training where rollouts are >100k tokens long",
+      "text": "Async RL works best with large batch sizes, but then the fwd/bwd pass becomes a major bottleneck, especially with agentic training where rollouts are >100k tokens long 😢\n\nA neat solution is to use a tree data structure for shared prefixes across trajectories. In our experiments, this speeds up the fwd/bwd by >26x 🔥\n\nGoated systems-level improvement to TRL by Amine!",
+      "quotedTweetText": "🌲 Tree packing has landed in AsyncGRPO in TRL!\n⚡ 26× less trainer compute to reach the same reward on agentic RL.\n\nGRPO starts from the same prompt G times, and forked multi-turn rollouts share most of their history. Sequence packing forwards those shared tokens once per sample. Tree packing forwards each unique token once.\n\nThe first version used FlexAttention, but the shipped one is a single FA3 varlen call. Each token retains its own target, advantage, and previous log-prob.\n\nExtensively tested against sequence packing on dense, sliding-window, softcap, MoE, and VLM models. When it can't pack anything, it costs ~1%.\n\nOn a REAL agentic RL run on MiMo Envs, tree packing reached the same reward with 26× less trainer compute 👇"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "cornings-gen-ai-sales-double-in-q3-as-revenue-hits-508b-c84e1d52",
+  "title": "Corning's Gen AI Sales Double in Q3 as Revenue Hits $5.08B",
+  "publishedAt": "2026-10-27T11:24:10.885Z",
+  "eventTimeApprox": "2026-10-27T11:03:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "earnings",
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GLW",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Corning Incorporated",
+      "hubKey": "glw"
+    },
+    {
+      "ticker": "T",
+      "kind": "equity",
+      "role": "related",
+      "name": "AT&T Inc.",
+      "hubKey": "t"
+    },
+    {
+      "ticker": "VZ",
+      "kind": "equity",
+      "role": "related",
+      "name": "Verizon Communications",
+      "hubKey": "vz"
+    }
+  ],
+  "summary": "Corning's adjusted earnings per share for the third quarter rose 36% year over year to $0.91, surpassing the $0.88 analyst estimate. The glassmaker reported revenue of $5.08B, which topped the forecast of $5.02B and represented a 19% increase from the previous year. The company's core gross margin improved to 40.5%, while its core operating margin reached 22.7%. Shares of Corning rose 3% in pre-market trading following the announcement.\n\nThe results were supported by the Optical Communications segment, which saw revenue jump 44% to $2.4B as Gen AI sales doubled during the quarter. Corning also secured four multibillion-dollar long-term contracts, including deals with AT&T and Verizon. Looking ahead, the company projects Q4 revenue between $5.2B and $5.3B and adjusted earnings per share between $0.96 and $1.00, above the $0.94 expected by analysts.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115036270548176943",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115036270548176943",
+      "tweetedAt": "2026-10-27T11:01:57.000Z",
+      "bestBit": "Secured four long-term, multibillion-dollar customer agreements, including with Verizon and AT&T",
+      "text": "CORNING $GLW Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $5.08B (Est. $5.02B) 🟢; +19% YoY\n🔹 Adj. EPS: $0.91 (Est. $0.88) 🟢; +36% YoY\n🔹 Core Gross Margin: 40.5%; +150 bps YoY\n🔹 Core Operating Margin: 22.7%; +310 bps YoY\n\nQ4 Guide:\n🔹 Revenue: $5.2B-$5.3B (Est. $5.21B) 🟡\n🔹 Adj. EPS: $0.96-$1.00 (Est. $0.94) 🟢\n\nSegment Net Revenue:\n🔹 Optical Communications: $2.4B; +44% YoY\n🔹 Glass Innovations: $1.5B; -3% YoY\n🔹 Automotive: $470M; +4% YoY\n🔹 Solar: $436M; +37% YoY\n🔹 Life Sciences & Emerging Growth: $290M; +1% YoY\n\nAnnouncements:\n🔹 Secured four long-term, multibillion-dollar customer agreements, including with Verizon and AT&T\n🔹 Solar revenue stream progressing toward more than $3B\n\nOther Q3 Metrics:\n🔹 GAAP Gross Margin: 37.3%\n🔹 GAAP Operating Margin: 18.8%\n🔹 Operating Cash Flow: $1.1B\n🔹 Adjusted Free Cash Flow: $661M\n\nComments:\n🔸 “faster adoption of our innovations helped us double our Gen AI sales year over year in the quarter, outpacing GPU unit growth.”\n\n🔸 “we expect our outstanding performance to continue.”"
+    },
+    {
+      "tweetId": "2115039677036351883",
+      "role": "support",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2115039677036351883",
+      "tweetedAt": "2026-10-27T11:15:29.000Z",
+      "bestBit": "GLW stock is initially up by 3% in pre-market following its earnings",
+      "text": "CORNING $GLW JUST REPORTED EARNINGS\n\nEPS of $0.91 beating expectations of $0.88🟢\nRevenue of $5.08B beating expectations of $5.02B🟢\n\nGLW stock is initially up by 3% in pre-market following its earnings https://t.co/xt4N7qFfWq",
+      "quotedTweetText": "CORNING $GLW JUST REPORTED Q3 EARNINGS\n\n- Revenue: $5.08B, beating expectations of $5.02B 🟢\n- Adj EPS: $0.91, beating expectations of $0.88 🟢\n- Core Gross Margin: 40.5% (+150 bps YoY)\n- Core Operating Margin: 22.7% (+310 bps YoY)\n- Optical Communications: $2.4B (+44% YoY)\n\nQ4 Guidance:\n- Revenue: $5.2B-$5.3B, in line with expectations of $5.21B 🟡\n- Adj EPS: $0.96-$1.00, above expectations of $0.94 🟢"
+    }
+  ],
+  "isSuperseded": false
+}

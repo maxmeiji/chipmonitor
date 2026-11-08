@@ -1,0 +1,102 @@
+{
+  "slug": "ai-and-oil-imports-push-us-trade-deficit-to-1056b-record-8e77cf01",
+  "title": "AI and Oil Imports Push US Trade Deficit to $105.6B Record",
+  "publishedAt": "2026-10-06T14:23:48.189Z",
+  "eventTimeApprox": "2026-10-06T12:46:33.000Z",
+  "isFreshStory": false,
+  "tweetCount": 39,
+  "authorCount": 30,
+  "routingTopicKeys": [
+    "us-markets",
+    "commodity",
+    "global-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "energy-markets",
+      "name": "Energy Markets"
+    },
+    {
+      "slug": "oil",
+      "name": "Oil"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107451830443848026/HT8sRSzW0AAPhV1-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107451830443848026/HT8sRSzW0AAPhV1-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "lizannsonders",
+      "tweetUrl": "https://x.com/LizAnnSonders/status/2107451830443848026"
+    }
+  },
+  "summary": "Demand for foreign crude and artificial intelligence infrastructure drove the U.S. trade gap to its widest level since early 2025 in August. Refiners' need for heavy Canadian barrels while Brent crude stayed near $100 pushed industrial supply imports up 16.6%. Simultaneously, the race for AI capacity increased capital goods imports by 4%, causing the trade gap with Taiwan to hit $18.1 billion in July and surpass the $15.2 billion deficit with China.\n\nThe total trade deficit reached $105.6 billion, exceeding the $102.1 billion analyst estimate and July's revised $92.8 billion. According to Commerce Department data, imports grew 4.3% to $420.75 billion, while exports rose 1.4% to $315.18 billion. The imbalance has widened $34.4 billion over the last two months and marks a record high if volatility from Liberation Day swings is excluded.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107448461616418852",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2107448461616418852",
+      "tweetedAt": "2026-10-06T12:30:42.000Z",
+      "bestBit": "Imports jumped 4.3% to $420.75 billion, outpacing a 1.4% rise in exports to $315.18 billion",
+      "text": "U.S. TRADE DEFICIT SURGES TO $105.6 BILLION\n\nThe U.S. trade deficit widened to $105.6 billion in August vs. $102 billion expected, up sharply from July’s revised $92.8 billion.\n\nImports jumped 4.3% to $420.75 billion, outpacing a 1.4% rise in exports to $315.18 billion.\n\nThe goods deficit hit $136.57 billion, while the services surplus stood at $31 billion."
+    },
+    {
+      "tweetId": "2107461889798074494",
+      "role": "support",
+      "authorHandle": "staunovo",
+      "url": "https://x.com/staunovo/status/2107461889798074494",
+      "tweetedAt": "2026-10-06T13:24:03.000Z",
+      "bestBit": "widened sharply in August to the largest since early 2025, reflecting a surge in the value of imports of crude oil and capital goods",
+      "text": "The US trade deficit widened sharply in August to the largest since early 2025, reflecting a surge in the value of imports of crude oil and capital goods https://t.co/oqQKbczufw"
+    },
+    {
+      "tweetId": "2107474035395145923",
+      "role": "analysis",
+      "authorHandle": "jackprandelli",
+      "url": "https://x.com/jackprandelli/status/2107474035395145923",
+      "tweetedAt": "2026-10-06T14:12:19.000Z",
+      "bestBit": "gap with Taiwan was $18.1bn, bigger than the gap with China at $15.2bn",
+      "text": "🇺🇸US trade deficit jumps to $ 105.6bn on OIL and AI\n\nImports rose 4.3%. \nExports rose 1.4%.\n\n2 things are driving it.\n\n1️⃣The first is oil🛢️ \nThe 🇺🇸US exports more petroleum than it imports, but its refiners still buy foreign crude, mostly heavy barrels from 🇨🇦Canada. \nWith Brent near $100, each of those barrels costs more. Early data showed imports of industrial supplies up 16.6% in August, led by petroleum.\n\n2️⃣The second is AI🤖\nMost data centre hardware is built abroad. \nImports of capital goods rose 4% in August, after imports of computers and accessories jumped $ 13.5bn in July alone.\n\nYou can see it in where the deficit sits. \nIn July the gap with 🇹🇼Taiwan was $ 18.1bn, bigger than the gap with 🇨🇳China at $ 15.2bn. 🇲🇽Mexico ($ 27.5bn) and 🇻🇳Vietnam ($ 23.3bn) were bigger still.\n\nTariffs were meant to narrow the gap. \nThrough July the deficit was 29.6% below the same period of 2025, although early 2025 was inflated by companies stockpiling ahead of tariffs.\nBut companies racing to build AI capacity have no domestic supply of servers at scale and refiners need crude whatever it costs.\n\nThe open question is oil... If Brent stays near $100, the import bill stays high into Q4."
+    },
+    {
+      "tweetId": "2107449031731626071",
+      "role": "commentary",
+      "authorHandle": "kevrgordon",
+      "url": "https://x.com/KevRGordon/status/2107449031731626071",
+      "tweetedAt": "2026-10-06T12:32:58.000Z",
+      "bestBit": "Outside of the Liberation Day swings, this is a record",
+      "text": "The U.S. trade deficit blew out to $105.6 billion in August ... up significantly from the prior month and now up by $34.4 billion in the past two months. \n\nOutside of the Liberation Day swings, this is a record. https://t.co/r5iKmk7TRH"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "us-trade-deficit-hits-1056b-record-excluding-liberation-day-152d9b97",
+    "title": "US Trade Deficit Hits $105.6B Record Excluding Liberation Day",
+    "publishedAt": "2026-10-06T12:53:46.745Z",
+    "eventTimeApprox": "2026-10-06T12:32:58.000Z",
+    "routingTopicKeys": [
+      "us-markets"
+    ],
+    "tweetCount": 12,
+    "authorCount": 10
+  }
+}

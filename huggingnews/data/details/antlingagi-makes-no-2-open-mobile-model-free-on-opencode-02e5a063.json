@@ -1,0 +1,112 @@
+{
+  "slug": "antlingagi-makes-no-2-open-mobile-model-free-on-opencode-02e5a063",
+  "title": "AntLingAGI Makes No 2 Open Mobile Model Free on OpenCode",
+  "publishedAt": "2026-10-02T16:56:45.755Z",
+  "eventTimeApprox": "2026-09-30T17:38:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105351493457174764/HTe15feakAAQ4m_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105351493457174764/HTe15feakAAQ4m_-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "designarena",
+      "tweetUrl": "https://x.com/DesignArena/status/2105351493457174764"
+    }
+  },
+  "summary": "A total of 560B parameters and 25B active parameters per token now power an open-weights model hosted on the OpenCode platform. The Ling-3.1-flash assistant is available for free to users and lists a 262K context window on the hosting site, though the developer, AntLingAGI, had previously cited capabilities up to 1M tokens. The model is specifically optimized for healthcare, coding, and general productivity tasks.\n\nThe model ranks as the No. 2 open-weights assistant on the Design Arena's Mobile App Arena with a 1,207 Elo rating and No. 17 overall, performing close to GPT-5.6 sol and Opus 5 on core tests. It recorded 1,673 Elo on GDPVal-AA v2.1, 75.16 on FrontierSWE, and 65.35 on HealthBench Professional. AntLingAGI is operated by Ant Group, an Alibaba affiliate that runs Alipay and is a sibling to the Qwen model family.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105335205741596911",
+      "role": "source",
+      "authorHandle": "antlingagi",
+      "url": "https://x.com/AntLingAGI/status/2105335205741596911",
+      "tweetedAt": "2026-09-30T16:33:22.000Z",
+      "bestBit": "1,673 Elo on GDPVal-AA v2.1, 75.16 on FrontierSWE, and 65.35 on HealthBench Professional",
+      "text": "Meet Ling-3.1-flash: ~560B total params, ~25B active/token, up to 1M-token context. \n\nWe plan to open-source the model soon. \n\nAcross work, coding &amp; healthcare:  1,673 Elo on GDPVal-AA v2.1, 75.16 on FrontierSWE, and 65.35 on HealthBench Professional. https://t.co/GbsajChHBh"
+    },
+    {
+      "tweetId": "2106059771162087587",
+      "role": "source",
+      "authorHandle": "opencode",
+      "url": "https://x.com/opencode/status/2106059771162087587",
+      "tweetedAt": "2026-10-02T16:32:32.000Z",
+      "bestBit": "Ling-3.1-flash is now free on OpenCode",
+      "text": "Ling-3.1-flash is now free on OpenCode\n\n560B total · 25B active · 262K context\n\ninclusionAI’s latest model"
+    },
+    {
+      "tweetId": "2105351493457174764",
+      "role": "support",
+      "authorHandle": "designarena",
+      "url": "https://x.com/DesignArena/status/2105351493457174764",
+      "tweetedAt": "2026-09-30T17:38:06.000Z",
+      "bestBit": "debuts as the #2 open-weights model on Mobile App Arena by Design Arena with an Elo of 1207",
+      "text": "BREAKING: Ling-3.1-flash by @AntLingAGI debuts as the #2 open-weights model on Mobile App Arena by Design Arena with an Elo of 1207.\n\nRanking #17 overall with performance comparable to Opus 4.6, Ling-3.1-flash performs particularly well at building mobile productivity trackers and games.\n\nCongratulations to the @AntLingAGI team on this achievement!"
+    },
+    {
+      "tweetId": "2105360290451767792",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2105360290451767792",
+      "tweetedAt": "2026-09-30T18:13:03.000Z",
+      "bestBit": "close to GPT-5.6 sol and Opus 5 on key benchmarks",
+      "text": "Pretty solid open source release. 500b parameter and close to GPT-5.6 sol and Opus 5 on key benchmarks. \n\nLing3.1 flash looks like another good release from china. Only caveat: we are moving so fast that I would love to have seen it compared to Opus 5.5 and GPT-6.1 sol https://t.co/e8HCYNmaCD",
+      "quotedTweetText": "Meet Ling-3.1-flash: ~560B total params, ~25B active/token, up to 1M-token context. \n\nWe plan to open-source the model soon. \n\nAcross work, coding &amp; healthcare:  1,673 Elo on GDPVal-AA v2.1, 75.16 on FrontierSWE, and 65.35 on HealthBench Professional. https://t.co/GbsajChHBh"
+    },
+    {
+      "tweetId": "2105432632138051680",
+      "role": "analysis",
+      "authorHandle": "jun_song",
+      "url": "https://x.com/jun_song/status/2105432632138051680",
+      "tweetedAt": "2026-09-30T23:00:31.000Z",
+      "bestBit": "Ant Group is part of Alibaba group that runs Alipay",
+      "text": "More context : Ant Group is part of Alibaba group that runs Alipay.\n\nAnt Ling is basically sibling of Qwen.",
+      "quotedTweetText": "Meet Ling-3.1-flash: ~560B total params, ~25B active/token, up to 1M-token context. \n\nWe plan to open-source the model soon. \n\nAcross work, coding &amp; healthcare:  1,673 Elo on GDPVal-AA v2.1, 75.16 on FrontierSWE, and 65.35 on HealthBench Professional. https://t.co/GbsajChHBh"
+    },
+    {
+      "tweetId": "2105366324218339500",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2105366324218339500",
+      "tweetedAt": "2026-09-30T18:37:02.000Z",
+      "bestBit": "Is Ant [real one] finally making decent models?",
+      "text": "Is Ant [real one] finally making decent models?",
+      "quotedTweetText": "Meet Ling-3.1-flash: ~560B total params, ~25B active/token, up to 1M-token context. \n\nWe plan to open-source the model soon. \n\nAcross work, coding &amp; healthcare:  1,673 Elo on GDPVal-AA v2.1, 75.16 on FrontierSWE, and 65.35 on HealthBench Professional. https://t.co/GbsajChHBh"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "antlingagi-debuts-no-2-open-weights-model-for-mobile-apps-aa446aec",
+    "title": "AntLingAGI Debuts No. 2 Open Weights Model for Mobile Apps",
+    "publishedAt": "2026-09-30T18:23:54.734Z",
+    "eventTimeApprox": "2026-09-30T17:38:06.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 9,
+    "authorCount": 7
+  }
+}

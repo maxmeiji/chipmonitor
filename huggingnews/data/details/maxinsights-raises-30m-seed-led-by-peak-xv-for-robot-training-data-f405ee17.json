@@ -1,0 +1,66 @@
+{
+  "slug": "maxinsights-raises-30m-seed-led-by-peak-xv-for-robot-training-data-f405ee17",
+  "title": "Maxinsights Raises $30M Seed Led by Peak XV for Robot Training Data",
+  "publishedAt": "2026-10-22T17:10:25.747Z",
+  "eventTimeApprox": "2026-10-22T16:00:19.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113314150579675249/NI-gQ9G-EPdMRS8v-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113314150579675249/NI-gQ9G-EPdMRS8v-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2113312887842467840/vid/avc1/2284x1080/GGDBc3o_-ArYU16z.mp4?tag=29",
+    "credit": {
+      "handle": "rohanpaul_ai",
+      "tweetUrl": "https://x.com/rohanpaul_ai/status/2113314150579675249"
+    }
+  },
+  "summary": "Over 5,000 contractors wearing cameras are recording real-life work in restaurants and hotels to create training datasets for robotic manipulation. Maxinsights has already captured more than 2M+ hours of this first-person footage and recently raised a $30M seed round led by Peak XV to scale its operations. The company also launched MaxLoop, which provides same-day quality scores for video clips, and MaxGlove, a device that records touch and force data that cameras cannot detect.\n\nMaxinsights aims to accumulate 1M hours of force data by 2027 to help robots improve their grasp of objects and prevent items from slipping or cracking. The firm notes that most current robot training relies on staged movements, whereas its approach captures natural human movements in real-world environments. This tactile pressure data supplements video-only policies, which typically have to infer the physical force of a grasp based on visual shape.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113299419328291012",
+      "role": "source",
+      "authorHandle": "brianyn",
+      "url": "https://x.com/BrianYN/status/2113299419328291012",
+      "tweetedAt": "2026-10-22T16:00:19.000Z",
+      "bestBit": "announcing a $30M seed round led by @PeakXVPartners",
+      "text": "Robots learn by watching people work. Most of what they watch is staged.\n\nAt @Maxinsights, we capture real work at natural speed in real homes, restaurants, and hotels. 2M+ hours so far.\n\nToday we’re announcing a $30M seed round led by @PeakXVPartners, plus two new products:\n\nMaxLoop: same-day quality scores on every clip\nMaxGlove: touch and force data a camera can't capture\n\nThank you to our investors, builders, operators and customers. More to come."
+    },
+    {
+      "tweetId": "2113314150579675249",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2113314150579675249",
+      "tweetedAt": "2026-10-22T16:58:51.000Z",
+      "bestBit": "aiming for a million hours of force data by 2027, on top of the 2M+ hours of footage captured so far",
+      "text": "Homes are becoming one of the richest places to collect robot training data, but its not as simple as just recording a video.\n\nHand force data is becoming one of the most useful signals in robot manipulation.\n\nMaxGlove, from @Maxinsights records touch and force from people’s hands while they work, the layer of a grasp a camera can’t capture.\n\nPressure decides most of a grasp, whether the glass slides out or cracks. The correction when something starts to slip begins in the fingertips, usually before a camera can pick it up.\n\nA policy trained only on video learns the shape of a grasp and has to infer the force. Glove data supplies the force directly, from people handling the objects robots will be asked to handle.\n\nMaxinsights says it’s aiming for a million hours of force data by 2027, on top of the 2M+ hours of footage captured so far.",
+      "quotedTweetText": "Robots learn by watching people work. Most of what they watch is staged.\n\nAt @Maxinsights, we capture real work at natural speed in real homes, restaurants, and hotels. 2M+ hours so far.\n\nToday we’re announcing a $30M seed round led by @PeakXVPartners, plus two new products:\n\nMaxLoop: same-day quality scores on every clip\nMaxGlove: touch and force data a camera can't capture\n\nThank you to our investors, builders, operators and customers. More to come."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "meta-releases-dist-moe-to-solve-ais-dropless-moe-problem-c12529cc",
+  "title": "Meta Releases Dist-MoE to Solve AI's Dropless MoE Problem",
+  "publishedAt": "2026-10-21T06:39:38.726Z",
+  "eventTimeApprox": "2026-10-21T02:13:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112623942150357082/HVGMKX1aEAABxlB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112623942150357082/HVGMKX1aEAABxlB-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "sanketpurandare",
+      "tweetUrl": "https://x.com/sanketpurandare/status/2112623942150357082"
+    }
+  },
+  "summary": "The SuperIntelligence Labs unit of Meta released a toolset called Dist-MoE to optimize the training and inference of Mixture-of-Experts (MoE) AI models through open-source compute and communication kernels. Benchmarks using GB300 NVL72 hardware showed the library achieves a 1.40x speedup over Mixture-of-Kittens for ten-layer MXFP8 training across 64 GPUs. The system reached 3.09 PFLOP/s per GPU for NVFP4 inference across 16 GPUs and 1.86 PFLOP/s for MXFP8 training across 64 GPUs.\n\nThe library incorporates full CUDA graph support and dynamic activation packing across layers to prevent capacity-induced recompute. Edward Yang, a Meta engineer, stated that the software resolves a previous internal challenge in achieving \"cudagraphable, dropless\" MoE systems. Dist-MoE is integrated with the TorchTitan framework and supports BF16, MXFP8, and NVFP4 formats.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112623942150357082",
+      "role": "source",
+      "authorHandle": "sanketpurandare",
+      "url": "https://x.com/sanketpurandare/status/2112623942150357082",
+      "tweetedAt": "2026-10-20T19:16:13.000Z",
+      "bestBit": "3.09 useful PFLOP/s per GPU (3,090 TFLOP/s) for NVFP4 Mega inference across 16 GPUs",
+      "text": "We’re sharing Dist-MoE, open-source library from Meta SuperIntelligence Labs (MSL @AIatMeta ). Dist-MoE provides fused communication and compute kernels for BF16/MXFP8 training and inference, plus NVFP4 inference.\n\n✅ Fused communication and compute kernels\n✅ Full CUDA graph support\n✅ Dynamic activation packing across layers into a bounded buffer\n✅ Dynamic, capacity-driven recompute\n✅ Forward and backward kernels for BF16/MXFP8\n✅ No shared-expert branch required\n\nSome highlights from our GB300 NVL72 benchmarks:\n\n• Up to 1.40× speedup over Mixture-of-Kittens (MoK) in our imbalanced, ten-layer MXFP8 training workload across 64 GPUs. Dist-MoE packed activation state across all ten layers with zero capacity-induced recompute.\n• 3.09 useful PFLOP/s per GPU (3,090 TFLOP/s) for NVFP4 Mega inference across 16 GPUs.\n• 1.86 useful PFLOP/s per GPU (1,856 TFLOP/s) for MXFP8 Staged training across 64 GPUs.\n• 1.27 useful PFLOP/s per GPU (1,271 TFLOP/s) for BF16 training across 64 GPUs.\n• Sub-linear scaling under imbalance: in NVFP4 inference across 16 GPUs, 8× the received rows on the busiest GPU required 4.82× the iteration time; about 40% lower iteration time per received row.\n\nFull configurations, raw results, and measurement definitions are in the blog.\n\n@levendlee and I also put together an interactive visual explainer covering token dispatch and combine, quantization, forward/backward kernels, activation packing, dynamic recompute, and memory planning.\n\nBlog:\nhttps://t.co/PRSXlOML6O\n\nRepository:\nhttps://t.co/t0iAijeFQU\n\nTorchTitan (@PyTorch ) integration:\nhttps://t.co/zMjeUGDFVH\n\nIf you work on MoE training, inference, or GPU kernels, take a look. We welcome feedback and contributions.\n\n#PyTorch #MixtureOfExperts #MoE #OpenSource #TorchTitan #DistMoE"
+    },
+    {
+      "tweetId": "2112728937701015583",
+      "role": "commentary",
+      "authorHandle": "ezyang",
+      "url": "https://x.com/ezyang/status/2112728937701015583",
+      "tweetedAt": "2026-10-21T02:13:26.000Z",
+      "bestBit": "Last year we were extremely worried about how to get cudagraphable, dropless mixture of experts. Dist_moe has essentially solved this for us",
+      "text": "Last year we were extremely worried about how to get cudagraphable, dropless mixture of experts. Dist_moe has essentially solved this for us, both internally and in OSS",
+      "quotedTweetText": "We’re sharing Dist-MoE, open-source library from Meta SuperIntelligence Labs (MSL @AIatMeta ). Dist-MoE provides fused communication and compute kernels for BF16/MXFP8 training and inference, plus NVFP4 inference.\n\n✅ Fused communication and compute kernels\n✅ Full CUDA graph support\n✅ Dynamic activation packing across layers into a bounded buffer\n✅ Dynamic, capacity-driven recompute\n✅ Forward and backward kernels for BF16/MXFP8\n✅ No shared-expert branch required\n\nSome highlights from our GB300 NVL72 benchmarks:\n\n• Up to 1.40× speedup over Mixture-of-Kittens (MoK) in our imbalanced, ten-layer MXFP8 training workload across 64 GPUs. Dist-MoE packed activation state across all ten layers with zero capacity-induced recompute.\n• 3.09 useful PFLOP/s per GPU (3,090 TFLOP/s) for NVFP4 Mega inference across 16 GPUs.\n• 1.86 useful PFLOP/s per GPU (1,856 TFLOP/s) for MXFP8 Staged training across 64 GPUs.\n• 1.27 useful PFLOP/s per GPU (1,271 TFLOP/s) for BF16 training across 64 GPUs.\n• Sub-linear scaling under imbalance: in NVFP4 inference across 16 GPUs, 8× the received rows on the busiest GPU required 4.82× the iteration time; about 40% lower iteration time per received row.\n\nFull configurations, raw results, and measurement definitions are in the blog.\n\n@levendlee and I also put together an interactive visual explainer covering token dispatch and combine, quantization, forward/backward kernels, activation packing, dynamic recompute, and memory planning.\n\nBlog:\nhttps://t.co/PRSXlOML6O\n\nRepository:\nhttps://t.co/t0iAijeFQU\n\nTorchTitan (@PyTorch ) integration:\nhttps://t.co/zMjeUGDFVH\n\nIf you work on MoE training, inference, or GPU kernels, take a look. We welcome feedback and contributions.\n\n#PyTorch #MixtureOfExperts #MoE #OpenSource #TorchTitan #DistMoE"
+    }
+  ],
+  "isSuperseded": false
+}

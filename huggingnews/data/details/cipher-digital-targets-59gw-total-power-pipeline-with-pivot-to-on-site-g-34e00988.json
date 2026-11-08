@@ -1,0 +1,107 @@
+{
+  "slug": "cipher-digital-targets-59gw-total-power-pipeline-with-pivot-to-on-site-g-34e00988",
+  "title": "Cipher Digital Targets 5.9GW Total Power Pipeline With Pivot to On Site Generation",
+  "publishedAt": "2026-11-02T14:24:33.527Z",
+  "eventTimeApprox": "2026-11-02T12:33:18.500Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "earnings",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CIFR",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cipher Digital Inc. Common Stock",
+      "hubKey": "cifr"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117258267428610088/HWH2IHgXAAEUZ9_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117258267428610088/HWH2IHgXAAEUZ9_-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "matthew_sigel",
+      "tweetUrl": "https://x.com/matthew_sigel/status/2117258267428610088"
+    }
+  },
+  "summary": "Cipher Digital lowered its 2030 grid power goal to 1.1GW from 2.1GW after removing the Barber Lake and Milsing sites, each accounting for 500MW, from its projections. The company's grid pipeline alone decreased by approximately 0.9GW to 3.4GW, although the firm still expects to secure 2GW of grid power between 2028 and 2029.\n\nTo offset the decline in grid targets, the firm raised its total power pipeline to 5.9GW from 4.4GW last quarter by incorporating 2.5GW of potential on site generation. This strategic shift includes active discussions for about 1GW of leases for 2027-2028, with potential power availability by late 2027. These adjustments follow a third quarter where unrestricted and restricted cash fell by $1.7B to $2.9B against $5.5B in total debt, though a planned October convert is intended to increase the cash balance by roughly $800M.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117227772649103383",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117227772649103383",
+      "tweetedAt": "2026-11-02T12:10:11.000Z",
+      "bestBit": "Revenue: $26.7M (Est. $38.5M) 🔴; -63% YoY",
+      "text": "CIPHER DIGITAL $CIFR Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $26.7M (Est. $38.5M) 🔴; -63% YoY\n🔹 EPS: -$0.22 (Est. -$0.26) 🟢\n🔹 Adj. EBITDA: -$10M\n\nOperations:\n🔹 HPC Lease Revenue: $5.9M; first recognized\n🔹 ERCOT: 1 GW base load; 1.6 GW studied load\n🔹 Pipeline: 5.9 GW; up to 2.5 GW generation\n🔹 Horizon: 70 MW; energization expected in 2029\n\nKey Updates:\n🔹 Barber Lake: 20-year lease; ~$9.1B contracted revenue\n🔹 Notes: $165.9M equitized; over 90% retired\n\nComments:\n🔸 “Cipher was built for this market, and this quarter we took important steps to strengthen our position for the long term,”"
+    },
+    {
+      "tweetId": "2117236435409346577",
+      "role": "commentary",
+      "authorHandle": "matthew_sigel",
+      "url": "https://x.com/matthew_sigel/status/2117236435409346577",
+      "tweetedAt": "2026-11-02T12:44:37.000Z",
+      "bestBit": "Cash balance (unrestricted + restricted) dropped ~$1.7B to $2.9B q/q, while debt remains ~$5.5B.",
+      "text": "@klukznusli CIFR\n\n3Q Results, rev looks light and not much incremental, call will be important\n- Lease revenue of $5.8M looks light (was expecting $8-14M) but should get clarity around when that actually turned on and started generating revenue intra quarter\n- Not much incremental in the press release other than that they acquired a 70MW site in Texas (Horizon) with energization expected in 2029, still have 270MW of capacity available in 2027 that they are advancing tenant discussions with\n- Cash balance (unrestricted + restricted) dropped ~$1.7B to $2.9B q/q, while debt remains ~$5.5B. This doesn't include the October covert which should boost cash by ~$800M."
+    },
+    {
+      "tweetId": "2117258267428610088",
+      "role": "commentary",
+      "authorHandle": "matthew_sigel",
+      "url": "https://x.com/matthew_sigel/status/2117258267428610088",
+      "tweetedAt": "2026-11-02T14:11:22.000Z",
+      "bestBit": "the 2030 target for grid dropped to 1.1GW from 2.1GW (Barber Lake 500mw and Milsing 500MW out)",
+      "text": "$CIFR from the presentation and call:\n>Still expecting 2GW of grid power in 2028-2029, while the 2030 target for grid dropped to 1.1GW from 2.1GW (Barber Lake 500mw and Milsing 500MW out) as was hinted at the Batch 0 release.\n>Total pipeline is up to 5.9GW from 4.4GW last quarter, but that is all the 2.5GW of potential on-site gen. Grid pipeline alone fell ~0.9GW to 3.4GW, and the 70MW Horizon acquisition only offsets a sliver of that.\n>Odessa came out of the 2027 capacity count (still mining BTC), but management says HPC talks are ongoing. They described it as capital-light, with no Cipher equity and a return for unlocking tenant interest using the long lead equipment and PPA term. \n>On-site gen: new lateral pipelines could support up to 2.5GW across multiple sites (not named). ~1GW is targeted for 2027-2028 with active talks on about 1GW of leases, and first power is possible as early as late 2027. An IPP would contract the equipment and power directly with the tenant.\n>“Recycle” in the flywheel means releasing project equity from stabilized sites through financing and pulling it back to the parent while they keep owning and operating. No talk of site sales on the call.",
+      "quotedTweetText": "@klukznusli CIFR\n\n3Q Results, rev looks light and not much incremental, call will be important\n- Lease revenue of $5.8M looks light (was expecting $8-14M) but should get clarity around when that actually turned on and started generating revenue intra quarter\n- Not much incremental in the press release other than that they acquired a 70MW site in Texas (Horizon) with energization expected in 2029, still have 270MW of capacity available in 2027 that they are advancing tenant discussions with\n- Cash balance (unrestricted + restricted) dropped ~$1.7B to $2.9B q/q, while debt remains ~$5.5B. This doesn't include the October covert which should boost cash by ~$800M."
+    },
+    {
+      "tweetId": "2117230746746409187",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2117230746746409187",
+      "tweetedAt": "2026-11-02T12:22:00.000Z",
+      "bestBit": "Cipher collects long-term rent on powered data centers while tenants own and depreciate the GPUs",
+      "text": "$CIFR first HPC rent came in at an ~88% cash gross margin vs ~30% on bitcoin mining.\n\nCipher collects long-term rent on powered data centers while tenants own and depreciate the GPUs which is why its project debt priced at 6% while GPU lessors like $CRWV now see bond yields near 15%."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "cipher-digitals-q3-revenue-falls-to-267m-as-firm-reports-first-hpc-lease-1e51d036",
+    "title": "Cipher Digital's Q3 Revenue Falls to $26.7M as Firm Reports First HPC Lease Income",
+    "publishedAt": "2026-11-02T12:53:23.599Z",
+    "eventTimeApprox": "2026-11-02T12:22:00.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "crypto"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

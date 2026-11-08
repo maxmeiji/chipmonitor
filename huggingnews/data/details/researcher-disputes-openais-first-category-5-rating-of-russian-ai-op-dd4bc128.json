@@ -1,0 +1,127 @@
+{
+  "slug": "researcher-disputes-openais-first-category-5-rating-of-russian-ai-op-dd4bc128",
+  "title": "Researcher Disputes OpenAI's First Category 5 Rating of Russian AI Op",
+  "publishedAt": "2026-10-09T06:09:37.473Z",
+  "eventTimeApprox": "2026-10-08T23:45:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 46,
+  "authorCount": 39,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "geopolitics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108238098022679008/HUH14szWAAE72IZ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108238098022679008/HUH14szWAAE72IZ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "choblin29",
+      "tweetUrl": "https://x.com/choblin29/status/2108238098022679008"
+    }
+  },
+  "summary": "The impact of a state-backed disinformation campaign was exaggerated by the creators of ChatGPT, according to analyst Lukasz Olejnik. He argues that OpenAI's designation of a Russian network as a \"Category 5\" threat fails its own internal framework because the propaganda primarily circulated within pro-Kremlin bubbles. Olejnik notes that a campaign targeting Peruvian schools only reached a local Polish portal and one pro-Russian weekly, and the quoted European Parliament member was a political ally of the article's author, who is currently on trial for spying for Russia.\n\nOpenAI recently banned accounts linked to Russia and Iran that used its AI to run front organizations and plant fake news. The Russian operation, the most complex front identity the company has dismantled in 2.5 years, used a fake persona named 'Mia Clark' to manage a Latin American think tank with unwitting local staff. In a separate action, OpenAI disrupted an Iranian operation that used seven fake journalist personas to place roughly 100 articles critical of the U.S. war against Iran in about a dozen global outlets.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108240405770723833",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2108240405770723833",
+      "tweetedAt": "2026-10-08T16:57:36.000Z",
+      "bestBit": "Russian operators created a fake education-department email in Peru and used it to instruct schools to hold Ukraine-themed events referencing Stepan Bandera",
+      "text": "Russian operators created a fake education-department email in Peru and used it to instruct schools to hold Ukraine-themed events referencing Stepan Bandera.\n\nSome schools apparently complied and even sent back photos.\n\nThe operators then claimed to have planted the story in Peruvian and Polish media. OpenAI found matching coverage, and the story ultimately drew a reaction from a Polish member of the European Parliament."
+    },
+    {
+      "tweetId": "2108315952177655845",
+      "role": "source",
+      "authorHandle": "cnn",
+      "url": "https://x.com/CNN/status/2108315952177655845",
+      "tweetedAt": "2026-10-08T21:57:48.000Z",
+      "bestBit": "Iranian operatives used OpenAI models and fake personas to help plant news articles critical of the US war against Iran in multiple US media outlets",
+      "text": "Iranian operatives used OpenAI models and fake personas to help plant news articles critical of the US war against Iran in multiple US media outlets, OpenAI said. https://t.co/jp2IXe15U8 https://t.co/lUZElYNhtl"
+    },
+    {
+      "tweetId": "2108434609302012226",
+      "role": "commentary",
+      "authorHandle": "lukolejnik",
+      "url": "https://x.com/lukOlejnik/status/2108434609302012226",
+      "tweetedAt": "2026-10-09T05:49:18.000Z",
+      "bestBit": "Russian operators used ChatGPT to support influence operations in Latin America and even targeted Argentina and Poland",
+      "text": "Russian operators used ChatGPT to support influence operations in Latin America and even targeted Argentina and Poland. Their “Social Research Center” was run by a fake persona, with Latin American staff unaware who paid them. Fake emails tricked Peruvian schools into honouring an Ukrainian nationalist, a story built to inflame Polish-Ukrainian tensions. It reached European media, and a politician (Polish MEP) discussed it. So this AI-assisted operation reached a real audience and impacted real debate."
+    },
+    {
+      "tweetId": "2108435178590753002",
+      "role": "commentary",
+      "authorHandle": "lukolejnik",
+      "url": "https://x.com/lukOlejnik/status/2108435178590753002",
+      "tweetedAt": "2026-10-09T05:51:34.000Z",
+      "bestBit": "The 'Polish media' that picked up the Peru fake was essentially the pro-Russian weekly and one local portal",
+      "text": "I must point out that OpenAI appears to oversell it. This is not Category 5 even in their own framework. The “Polish media” that picked up the Peru fake was essentially the pro-Russian weekly and one local portal. No evidence of mainstream reporting. The article was written by a guy who is on trial for spying for Russia, and the MEP it quoted is his political ally, who gave the comment when he asked for it. Looks less like a Russian fake breaking out into public debate and more like it circulating inside a pro-Kremlin bubble that was already receptive.",
+      "quotedTweetText": "Russian operators used ChatGPT to support influence operations in Latin America and even targeted Argentina and Poland. Their “Social Research Center” was run by a fake persona, with Latin American staff unaware who paid them. Fake emails tricked Peruvian schools into honouring an Ukrainian nationalist, a story built to inflame Polish-Ukrainian tensions. It reached European media, and a politician (Polish MEP) discussed it. So this AI-assisted operation reached a real audience and impacted real debate."
+    },
+    {
+      "tweetId": "2108414653986394134",
+      "role": "commentary",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2108414653986394134",
+      "tweetedAt": "2026-10-09T04:30:00.000Z",
+      "bestBit": "Russia's hitting the biggest reach the company has ever recorded",
+      "text": "🚨🇮🇷🇷🇺 Iran used ChatGPT to invent 7 fake American journalists who pitched its side of the war to news outlets around the world\n\nSeven phony \"American freelance writers,\" a fake Russian think tank staffed by unsuspecting Latin Americans, and forged \"leaked\" documents meant to scare Ukrainians away from enlisting...\n\nOpenAI says it banned accounts behind both state-backed campaigns, with Iran's flooding comment sections about the US war and Russia's hitting the biggest reach the company has ever recorded.\n\nAnd the best part?\n\nBoth crews also used AI to write internal reports EXAGGERATING how well their propaganda was working, so even the liars were lying to their bosses😅\n\nSource: The Hill / Writer: Daniel"
+    },
+    {
+      "tweetId": "2108382619486359691",
+      "role": "commentary",
+      "authorHandle": "efischberger",
+      "url": "https://x.com/EFischberger/status/2108382619486359691",
+      "tweetedAt": "2026-10-09T02:22:42.000Z",
+      "bestBit": "Iranian operatives used AI to create and plant articles claiming to be from Western journalists",
+      "text": "RT @AGHamilton29: OpenAI has revealed Iranian operatives used AI to create and plant articles claiming to be from Western journalists. \n\nTh…"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-stops-first-category-5-russian-influence-op-that-ran-real-think-t-4737b3df",
+    "title": "OpenAI Stops First Category 5 Russian Influence Op That Ran Real Think Tank",
+    "publishedAt": "2026-10-08T17:09:31.534Z",
+    "eventTimeApprox": "2026-10-08T15:12:10.000Z",
+    "routingTopicKeys": [
+      "geopolitics",
+      "cybersecurity",
+      "ai"
+    ],
+    "tweetCount": 29,
+    "authorCount": 26
+  }
+}

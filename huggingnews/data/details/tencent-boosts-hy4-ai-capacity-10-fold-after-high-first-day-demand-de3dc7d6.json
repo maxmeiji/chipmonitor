@@ -1,0 +1,138 @@
+{
+  "slug": "tencent-boosts-hy4-ai-capacity-10-fold-after-high-first-day-demand-de3dc7d6",
+  "title": "Tencent Boosts Hy4 AI Capacity 10-Fold After High First-Day Demand",
+  "publishedAt": "2026-11-06T04:08:18.213Z",
+  "eventTimeApprox": "2026-11-04T20:13:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 52,
+  "authorCount": 29,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118302056884879383/HWW4fb_agAA_uJz-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118302056884879383/HWW4fb_agAA_uJz-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "nft_chen",
+      "tweetUrl": "https://x.com/NFT_Chen/status/2118302056884879383"
+    }
+  },
+  "summary": "The Chinese technology giant scaled up the infrastructure for its WorkBuddy AI platform this week to address usage limits caused by a spike in traffic following the release of its new Hy4 foundation model. To manage the initial volume, the company increased the capacity of its inference clusters by 10 times and extended free access to its previous model, Hy3, through Nov. 15. The Hy4 model is now available for use on Tencent Cloud, OpenRouter, and OpenCode Go, with certain API services offering a 50% discount until the end of 2026.\n\nThe new model supports a 1M token context window and was specifically trained for the production of game development software and the editing of office documents. While Hy4 recorded a 31% score on the FrontierCode 2.0 benchmark to lead all other models from China-based labs in agentic coding, it struggled with accuracy, recording an 89% hallucination rate on the AA-Omniscience v1.1 metric. Tencent plans to open-source the weights for the flagship model and release a lower-cost \"Flash\" version in the coming weeks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117870250838630539",
+      "role": "source",
+      "authorHandle": "tencenthunyuan",
+      "url": "https://x.com/TencentHunyuan/status/2117870250838630539",
+      "tweetedAt": "2026-11-04T06:43:10.000Z",
+      "bestBit": "Hy4 is here, new with vision. Firmly among the leading open models.",
+      "text": "👋Hy4 is here, new with vision.\nFirmly among the leading open models.\nMore productive everywhere: finance, frontend, game, officework, research…\nBuilt responsibly, with cyber/biosecurity in mind.\nTry it out and let us know!\n🔗：https://t.co/ZzL4DtgH3h https://t.co/xceRxN6ueT"
+    },
+    {
+      "tweetId": "2118282573445267511",
+      "role": "support",
+      "authorHandle": "nft_chen",
+      "url": "https://x.com/NFT_Chen/status/2118282573445267511",
+      "tweetedAt": "2026-11-05T10:01:35.000Z",
+      "bestBit": "FrontierCode 2.0 31%，中国第一（DeepSeek 28%、Kimi 25%）",
+      "text": "💥姚顺雨有交代了！腾讯混元Hy4 在AA Intelligence Index v5 得分35，位列开源模型第2！与Grok 4.7并列！\n\n仅次于Kimi K3.1 Pro（46），与Grok 4.7持平，落后Claude Haiku 5.5仅1分。每任务成本$0.78，性价比突出。\n\n对比主要国产开源模型：\n🔹综合：Hy4 35 > DeepSeek V4.1 Flash（~33）≈ GLM-5.3（~32）≈ Qwen3.8 Max（34）\n\n🔹代理编码：FrontierCode 2.0 31%，中国第一（DeepSeek 28%、Kimi 25%）\n\n🔹成本：比Qwen3.8 Max便宜13倍，比Grok便宜10倍\n\n代理编码强，价格友好，腾讯这波追得很快。\n\n#混元Hy4 #腾讯混元 #开源大模型 #ArtificialAnalysis #中国AI #姚顺雨 #马化腾"
+    },
+    {
+      "tweetId": "2118135093617393774",
+      "role": "source",
+      "authorHandle": "opencode",
+      "url": "https://x.com/opencode/status/2118135093617393774",
+      "tweetedAt": "2026-11-05T00:15:34.000Z",
+      "bestBit": "Hy4 is now available in OpenCode Go",
+      "text": "Hy4 is now available in OpenCode Go"
+    },
+    {
+      "tweetId": "2118136505046904891",
+      "role": "source",
+      "authorHandle": "nousresearch",
+      "url": "https://x.com/NousResearch/status/2118136505046904891",
+      "tweetedAt": "2026-11-05T00:21:10.000Z",
+      "bestBit": "Tencent trained it for game development in Unity, Unreal and Godot and for editing Word, Excel and PowerPoint files.",
+      "text": "Hy4, the new model from @TencentHunyuan, is 80% off in Nous Portal for one week.\n\nIt adds image input and computer use, and Tencent trained it for game development in Unity, Unreal and Godot and for editing Word, Excel and PowerPoint files.\n\nTry it today at https://t.co/uomohWXz34",
+      "quotedTweetText": "👋Hy4 is here, new with vision.\nFirmly among the leading open models.\nMore productive everywhere: finance, frontend, game, officework, research…\nBuilt responsibly, with cyber/biosecurity in mind.\nTry it out and let us know!\n🔗：https://t.co/ZzL4DtgH3h https://t.co/xceRxN6ueT"
+    },
+    {
+      "tweetId": "2118110925987385836",
+      "role": "analysis",
+      "authorHandle": "valsai",
+      "url": "https://x.com/ValsAI/status/2118110925987385836",
+      "tweetedAt": "2026-11-04T22:39:32.000Z",
+      "bestBit": "Tencent's Hy4 debuts at #4 among open-weight models on the Vals Index, behind Kimi K3.1 Pro, DeepSeek V4.1 Flash, and GLM-5.3.",
+      "text": "Tencent's Hy4 debuts at #4 among open-weight models on the Vals Index, behind Kimi K3.1 Pro, DeepSeek V4.1 Flash, and GLM-5.3.\n\nIt nearly matches GLM-5.3's performance at about a fifth of the cost per task. It's also a substantial improvement over Hy4 Preview, at about the same cost."
+    },
+    {
+      "tweetId": "2118110941242106092",
+      "role": "commentary",
+      "authorHandle": "valsai",
+      "url": "https://x.com/ValsAI/status/2118110941242106092",
+      "tweetedAt": "2026-11-04T22:39:35.000Z",
+      "bestBit": "Hy4 regressed on EMB and Legal Research, despite spending more time searching and using tools.",
+      "text": "Not every benchmark improved. Hy4 regressed on EMB and Legal Research, despite spending more time searching and using tools.\n\nOn Legal Research, it made more than twice as many tool calls as the preview, but its sources were less reliable and tasks took longer. More research didn't necessarily produce better answers."
+    },
+    {
+      "tweetId": "2117983419548283270",
+      "role": "commentary",
+      "authorHandle": "kyleichan",
+      "url": "https://x.com/kyleichan/status/2117983419548283270",
+      "tweetedAt": "2026-11-04T14:12:52.000Z",
+      "bestBit": "Tencent’s new Hy4 model excludes offensive cyber data from training data to prevent misuse, like Kimi K3.1 Pro.",
+      "text": "Another Chinese open-source model with data filtering for AI safety.\n\nTencent’s new Hy4 model excludes offensive cyber data from training data to prevent misuse, like Kimi K3.1 Pro. (Same with bio data)\n\nIs this the new standard for strong Chinese open-source model releases going forward, particularly in light of China’s draft export controls on AI?"
+    },
+    {
+      "tweetId": "2118292980117155939",
+      "role": "commentary",
+      "authorHandle": "jenzhuscott",
+      "url": "https://x.com/jenzhuscott/status/2118292980117155939",
+      "tweetedAt": "2026-11-05T10:42:57.000Z",
+      "bestBit": "the 89% hallucination rate on AA-Omniscience shows the reliability tax that still comes w it.",
+      "text": "Hy4 tying Grok 4.7 (xhigh) at 35 on the AA Intelligence Index while leading Chinese labs on FrontierCode 2.0 is the signal you need to pay attention to. Agentic coding is where the gap is closing fastest, but the 89% hallucination rate on AA-Omniscience shows the reliability tax that still comes w it. At ~$0.78 per index task though it’s also a clear Pareto shift on cost-capability versus comparable Western models.\n\n@ShunyuYao12 at @TencentHunyuan is formidable - earlier we thought Tencent was lagging behind but look at this now. Remarkable 🚀",
+      "quotedTweetText": "Hy4 from Tencent scores 35 on the Artificial Analysis Intelligence Index v5 and is the #2 model from a China-based AI lab\n\nHy4 is the latest model from @TencentHunyuan and is the successor to Hy3 released earlier this year. It scores 35 on the Artificial Analysis Intelligence Index v5, equal with Grok 4.7 (xhigh) and 1 point behind Claude Haiku 5.5 (max). Hy4 is the #2 model from a China-based AI lab, behind only Kimi K3.1 Pro, which scores 46. Hy4 is priced at $0.834/$2.501 per 1M input/output tokens.\n\nKey takeaways:\n\n➤ Hy4 excels at agentic coding tasks. Hy4 scores 31% on FrontierCode 2.0, compared to 32% for Claude Fable 5.1 (max). It is the leading model from a China-based AI lab, with DeepSeek V4.1 Flash 1017 (max) scoring 28% and Kimi K3.1 Pro scoring 25%. On Terminal-Bench 4.0, it scores 37%, the fourth-highest score among models from China-based AI labs\n\n➤ Hy4 outperforms its peers on knowledge and reasoning. Hy4 achieves accuracy of 50% on AA-Omniscience v1.1, 1 point ahead of Kimi K3.1 Pro, but has a high hallucination rate of 89% compared to Kimi K3.1 Pro’s 37%. On HLE-Diamond, it scores 33% compared to Kimi K3.1 Pro’s 37%\n\n➤ Hy4 offers a competitive Capability vs. Cost trade-off compared to to peers. With a Cost per Intelligence Index Task of $0.78, Hy4 (35) is 10-times cheaper than Grok 4.7 (xhigh, 35) and 13-times cheaper than Qwen3.8 Max (0902) (34) but almost twice as expensive as Claude Haiku 5.5 (max, 36)\n\nOther model details:\n\n➤ Context window: 1 million tokens\n\n➤ Pricing: $0.834/$2.501 per 1M input/output tokens. Cache reads $0.042 per 1M tokens\n\n➤ Multimodality: Text and image input, with text output"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "tencent-hy4-ai-model-ties-grok-47-on-capability-benchmarks-1d349c85",
+    "title": "Tencent Hy4 AI Model Ties Grok 4.7 on Capability Benchmarks",
+    "publishedAt": "2026-11-05T14:38:12.639Z",
+    "eventTimeApprox": "2026-11-04T18:10:29.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 44,
+    "authorCount": 26
+  }
+}

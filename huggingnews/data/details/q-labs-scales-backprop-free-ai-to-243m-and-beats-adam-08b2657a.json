@@ -1,0 +1,70 @@
+{
+  "slug": "q-labs-scales-backprop-free-ai-to-243m-and-beats-adam-08b2657a",
+  "title": "Q Labs Scales Backprop-Free AI to 243M and Beats Adam",
+  "publishedAt": "2026-10-23T07:25:23.282Z",
+  "eventTimeApprox": "2026-10-22T21:18:03.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113365351455219760/HVQrvVCboAA2y1x-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113365351455219760/HVQrvVCboAA2y1x-small.jpg",
+    "mediaType": "animated_gif",
+    "videoUrl": "https://video-s.twimg.com/tweet_video/HVQrvVCboAA2y1x.mp4",
+    "credit": {
+      "handle": "industriaalist",
+      "tweetUrl": "https://x.com/industriaalist/status/2113365351455219760"
+    }
+  },
+  "summary": "Combined community methods for zeroth-order optimization achieved a validation loss of 3.409 compared to 3.419 for the standard backpropagation and Adam approach during tests using 30M training tokens. The Dust algorithm, developed by Q Labs, also demonstrated that larger transformer models were more population-efficient as they scaled up to 243M parameters.\n\nThese results build on a 4,000x speedup in pretraining time, which dropped from 1.76 hours to 1.6 seconds in 10 days using the Noise speedrun. The Dust algorithm is up to 10,000x more compute-efficient than previous state-of-the-art zeroth-order methods. Researchers are currently increasing training datasets from 10M to 30M tokens to identify which efficiency gains persist without overfitting.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113365351455219760",
+      "role": "source",
+      "authorHandle": "industriaalist",
+      "url": "https://x.com/industriaalist/status/2113365351455219760",
+      "tweetedAt": "2026-10-22T20:22:18.000Z",
+      "bestBit": "the time to pretrain a transformer went from 1.76 hours to 1.6 seconds, a 4,000x (!!!) speedup",
+      "text": "I think the last month might have been the biggest month in (zeroth-order) optimization history.\n\nIn the 10 days since we released the Noise speedrun, the time to pretrain a transformer went from 1.76 hours to 1.6 seconds, a 4,000x (!!!) speedup. Dust itself was up to 10,000x more compute-efficient than the previous state-of-the-art.\n\nNot only can we pretrain a transformer without backprop, it's much more efficient than anyone would've expected. Search fking works!\n\nNow, scaling is the biggest open question. Some of the tricks that brought the time down to 1.6 seconds will simply not scale. To discard those, we'll be scaling the dataset every time it gets overfit, starting with 30M tokens instead of 10M.\n\nHuge thanks to @jayden_teoh_, @spicey_lemonade, @RobertTLange, @EmanueleRodola, @ChunyuanDeng, @LuochengHuman, @Alaxarr, @pavleculafic, @IsaacYong13, Euraba and areu01or00 (GitHub), for the contributions. And @cs_serdar for gracefully maintaining the speedrun and @bishmdl76 for helping out.\n\nExpect a lot more from us over the coming weeks."
+    },
+    {
+      "tweetId": "2113525694521344096",
+      "role": "support",
+      "authorHandle": "spicey_lemonade",
+      "url": "https://x.com/spicey_lemonade/status/2113525694521344096",
+      "tweetedAt": "2026-10-23T06:59:27.000Z",
+      "bestBit": "combined community methods reach 3.409 vs 3.419 for backprop + Adam, though slower",
+      "text": "@giffmana Fwiw there are 2 tracks. On track 1 at 30M training tokens, combined community methods reach 3.409 vs 3.419 for backprop + Adam, though slower. This was just recently run. And on scale, Dust tested this directly and found bigger models were more population-efficient, up to 243M."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "q-labs-pretrains-transformers-4000x-faster-without-backpropagation-eeeaf782",
+    "title": "Q Labs Pretrains Transformers 4,000x Faster Without Backpropagation",
+    "publishedAt": "2026-10-22T21:39:14.692Z",
+    "eventTimeApprox": "2026-10-22T21:01:07.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

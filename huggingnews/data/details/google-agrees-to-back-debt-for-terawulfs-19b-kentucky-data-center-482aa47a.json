@@ -1,0 +1,75 @@
+{
+  "slug": "google-agrees-to-back-debt-for-terawulfs-19b-kentucky-data-center-482aa47a",
+  "title": "Google Agrees to Back Debt for TeraWulf's $19B Kentucky Data Center",
+  "publishedAt": "2026-11-04T15:53:44.835Z",
+  "eventTimeApprox": "2026-11-04T14:28:03.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "WULF",
+      "kind": "equity",
+      "role": "subject",
+      "name": "TeraWulf Inc. Common Stock",
+      "hubKey": "wulf"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "FLR",
+      "kind": "equity",
+      "role": "related",
+      "name": "Fluor Corporation",
+      "hubKey": "flr"
+    }
+  ],
+  "summary": "TeraWulf has secured a guarantee from Google to help the company obtain more competitive borrowing terms for its newest data center development in Hawesville, Kentucky. The credit support applies to debt financing for the Justified Data Campus, which is anchored by a 20 year lease agreement with AI firm Anthropic. The project involves $19B in contracted lease commitments, though TeraWulf specified that this total is not the amount Google is providing as financing.\n\nAs part of the build-out, TeraWulf contracted Fluor to develop three buildings at the campus, with construction milestones scheduled for phased completions starting in late 2027 and continuing through the second quarter of 2028. In a separate expansion, the company increased the contracted power capacity at its Muskie Data Campus in eastern Kentucky to 1 GW.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117969889688478166",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117969889688478166",
+      "tweetedAt": "2026-11-04T13:19:06.000Z",
+      "bestBit": "TeraWulf signed a definitive construction agreement with Fluor $FLR covering three data center buildings at the campus.",
+      "text": "TeraWulf $WULF has secured credit support from $GOOGL for debt financing tied to its previously announced $19B, 20-year Anthropic lease at the Justified Data Campus in Kentucky.\n\nGoogle's backing strengthens the project's financing profile and could help TeraWulf secure more competitive long-term borrowing terms. \n\nThe $19B represents contracted lease commitments, not the amount Google is financing.\n\nSeparately, TeraWulf signed a definitive construction agreement with Fluor $FLR covering three data center buildings at the campus.\n\nConstruction milestones call for phased ready-for-service completions beginning in late 2027 and continuing through Q2 2028.\n\nTeraWulf also recently expanded its contracted power capacity to 1 GW at its Muskie Data Campus in eastern Kentucky."
+    }
+  ],
+  "isSuperseded": false
+}

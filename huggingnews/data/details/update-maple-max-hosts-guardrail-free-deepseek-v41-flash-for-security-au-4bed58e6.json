@@ -1,0 +1,146 @@
+{
+  "slug": "update-maple-max-hosts-guardrail-free-deepseek-v41-flash-for-security-au-4bed58e6",
+  "title": "UPDATE: Maple Max Hosts Guardrail-Free DeepSeek V4.1 Flash for Security Audits",
+  "publishedAt": "2026-10-26T05:23:12.459Z",
+  "eventTimeApprox": "2026-10-23T17:12:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "summary": "Maple Max has added a version of the DeepSeek V4.1 Flash model with its refusal mechanisms removed to its platform, hosting the model in attested enclaves for security research, code audits and red-teaming. The provider stated the guardrail-free model is intended for defenders who need to process security questions that are typically blocked by the original model's constraints.\n\nThe availability of \"abliterated\" variants of the DeepSeek-V4.1-Flash-1017 model has expanded, with the Venice API offering the version for $0.33 per million input tokens and $1.32 per million output tokens. CrowdStrike previously documented that the original version of the model was used as a primary tool in lone-actor cyberattacks against South Korean banks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113655358942278072",
+      "role": "source",
+      "authorHandle": "abliteration_ai",
+      "url": "https://x.com/abliteration_ai/status/2113655358942278072",
+      "tweetedAt": "2026-10-23T15:34:42.000Z",
+      "bestBit": "cheaper alternative to our GLM-5.3-based model for product owners and defenders who need access to the most cyber-capable models",
+      "text": "Now live: abliterated-model-large-flash (our version of DeepSeek-V4.1-Flash-1017). It is a cheaper alternative to our GLM-5.3-based model for product owners and defenders who need access to the most cyber-capable models.\n\n- 1M context  \n- Vision\n- Zero input/output retention or training\n\nWe believe paying customers should be in control, and over the past few months, leading experts and major brands have adopted our models.\n\nhttps://t.co/VxXHPTrNOD"
+    },
+    {
+      "tweetId": "2113697729671311624",
+      "role": "support",
+      "authorHandle": "sabrinaesaquino",
+      "url": "https://x.com/sabrinaesaquino/status/2113697729671311624",
+      "tweetedAt": "2026-10-23T18:23:04.000Z",
+      "bestBit": "1M context, zdr, $0.33/M input, $1.32/M output, $0.00825/M cached input",
+      "text": "Deepseek v4.1 flash abliterated is now live on the venice api\n\n1M context, zdr, $0.33/M input, $1.32/M output, $0.00825/M cached input\n\nid: deepseek-v4-1-flash-uncensored\n\nhttps://t.co/QyyscIZOSI",
+      "quotedTweetText": "the recent security incidents are going to 100x the demand for open source models\n\nthe software security game is now: the side that wins is the one that can deploy the most tokens\n\nso every organization will rush to harden their software, the demand for tokens will 100x\n\nbecause if you don’t want to get pwned, you *have* to use ai now"
+    },
+    {
+      "tweetId": "2113704182050128337",
+      "role": "signal",
+      "authorHandle": "erikvoorhees",
+      "url": "https://x.com/ErikVoorhees/status/2113704182050128337",
+      "tweetedAt": "2026-10-23T18:48:42.000Z",
+      "bestBit": "Deepseek v4.1 flash abliterated is now live on the venice api",
+      "text": "RT @sabrinaesaquino: Deepseek v4.1 flash abliterated is now live on the venice api\n\n1M context, zdr, $0.33/M input, $1.32/M output, $0.0082…"
+    },
+    {
+      "tweetId": "2113666374333784281",
+      "role": "commentary",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2113666374333784281",
+      "tweetedAt": "2026-10-23T16:18:28.000Z",
+      "bestBit": "Many recent lone-actor incidents used ARTEX with DeepSeek 4.1 Flash as the primary model (including the South Korean bank attacks documented by CrowdStrike)",
+      "text": "Many recent lone-actor incidents used ARTEX with DeepSeek 4.1 Flash as the primary model (including the South Korean bank attacks documented by CrowdStrike). This is an abliterated version of that model with the guardrails removed. Great for defense too, but as always, dual-use.",
+      "quotedTweetText": "Now live: abliterated-model-large-flash (our version of DeepSeek-V4.1-Flash-1017). It is a cheaper alternative to our GLM-5.3-based model for product owners and defenders who need access to the most cyber-capable models.\n\n- 1M context  \n- Vision\n- Zero input/output retention or training\n\nWe believe paying customers should be in control, and over the past few months, leading experts and major brands have adopted our models.\n\nhttps://t.co/VxXHPTrNOD"
+    },
+    {
+      "tweetId": "2113659577317441558",
+      "role": "commentary",
+      "authorHandle": "synthwavedd",
+      "url": "https://x.com/synthwavedd/status/2113659577317441558",
+      "tweetedAt": "2026-10-23T15:51:27.000Z",
+      "bestBit": "An abliterated version of DeepSeek V4.1 Flash-1017 is now available for anyone to use (at a price!)",
+      "text": "An abliterated version of DeepSeek V4.1 Flash-1017 is now available for anyone to use (at a price!)\n\nWe're cooked 😭",
+      "quotedTweetText": "Now live: abliterated-model-large-flash (our version of DeepSeek-V4.1-Flash-1017). It is a cheaper alternative to our GLM-5.3-based model for product owners and defenders who need access to the most cyber-capable models.\n\n- 1M context  \n- Vision\n- Zero input/output retention or training\n\nWe believe paying customers should be in control, and over the past few months, leading experts and major brands have adopted our models.\n\nhttps://t.co/VxXHPTrNOD"
+    },
+    {
+      "tweetId": "2113661470307446988",
+      "role": "commentary",
+      "authorHandle": "synthwavedd",
+      "url": "https://x.com/synthwavedd/status/2113661470307446988",
+      "tweetedAt": "2026-10-23T15:58:59.000Z",
+      "bestBit": "the first as far as i can tell to host such a variant and make it available this easily",
+      "text": "@TappyLeaks69 aren't the first to develop an abliterated variant sure, but the first as far as i can tell to host such a variant and make it available this easily (with both positive and negative consequences, though you have to be stupid to use an endpoint like this for malicious reasons)"
+    },
+    {
+      "tweetId": "2113668805377548464",
+      "role": "signal",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2113668805377548464",
+      "tweetedAt": "2026-10-23T16:28:07.000Z",
+      "bestBit": "The demand is crazy",
+      "text": "How many abliterations of 1017 does this make now?\nEver seen anything like this?\nThe demand is crazy",
+      "quotedTweetText": "Now live: abliterated-model-large-flash (our version of DeepSeek-V4.1-Flash-1017). It is a cheaper alternative to our GLM-5.3-based model for product owners and defenders who need access to the most cyber-capable models.\n\n- 1M context  \n- Vision\n- Zero input/output retention or training\n\nWe believe paying customers should be in control, and over the past few months, leading experts and major brands have adopted our models.\n\nhttps://t.co/VxXHPTrNOD"
+    },
+    {
+      "tweetId": "2114582241552798207",
+      "role": "support",
+      "authorHandle": "xlr8harder",
+      "url": "https://x.com/xlr8harder/status/2114582241552798207",
+      "tweetedAt": "2026-10-26T04:57:48.000Z",
+      "bestBit": "Refusals removed from the model itself, so it works through security questions instead of declining them.",
+      "text": "@hondo_crypto @tensecorrection https://t.co/mchziTR1oO",
+      "quotedTweetText": "New on Maple Max and Team: DeepSeek V4.1 Flash, abliterated.\n\nRefusals removed from the model itself, so it works through security questions instead of declining them.\n\n- 1M context\n- Runs in the same attested enclaves as every Maple model\n- Built for security research, code audits and red-teaming\n\nAttackers already run uncensored models. Defenders shouldn't be stuck with \"I can't help with that.\""
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "venice-api-hosts-guardrail-free-deepseek-v41-flash-for-033-per-million-i-38fe4350",
+    "title": "Venice API Hosts Guardrail-Free DeepSeek-V4.1 Flash for $0.33 Per Million Input Tokens",
+    "publishedAt": "2026-10-23T19:10:18.080Z",
+    "eventTimeApprox": "2026-10-23T16:28:07.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "cybersecurity"
+    ],
+    "tweetCount": 10,
+    "authorCount": 9
+  }
+}

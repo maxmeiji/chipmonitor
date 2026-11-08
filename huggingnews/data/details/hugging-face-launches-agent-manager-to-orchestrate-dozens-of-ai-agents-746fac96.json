@@ -1,0 +1,64 @@
+{
+  "slug": "hugging-face-launches-agent-manager-to-orchestrate-dozens-of-ai-agents-746fac96",
+  "title": "Hugging Face Launches Agent Manager to Orchestrate Dozens of AI Agents",
+  "publishedAt": "2026-10-20T15:24:02.334Z",
+  "eventTimeApprox": "2026-10-20T15:01:13.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "subject",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Claude Code, Codex and OpenCode can now communicate with each other to execute intricate technical workflows through a synchronized environment. Hugging Face released the Agent Manager tool to enable developers to coordinate dozens of these AI agents across various harnesses, allowing them to self-organize to complete complex tasks. The system is designed to run on HF Spaces to ensure that agent operations and communications continue without interruption.\n\nThe software focuses on the industry shift from single-model interactions toward autonomous multi-agent systems. By providing a centralized layer for orchestration, Hugging Face allows users to automate processes that would typically require manual coordination between different specialized AI frameworks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112556991482610014",
+      "role": "source",
+      "authorHandle": "lvwerra",
+      "url": "https://x.com/lvwerra/status/2112556991482610014",
+      "tweetedAt": "2026-10-20T14:50:10.000Z",
+      "bestBit": "Orchestrate dozens of agents across harnesses (Claude Code, Codex, OpenCode etc.) effortlessly",
+      "text": "Agent Manager is finally out! \n\nOrchestrate dozens of agents across harnesses (Claude Code, Codex, OpenCode etc.) effortlessly. \n\nAgents communicate and self-organize to help you achieve complex tasks and always keep running on HF spaces. \n\nTry it: https://t.co/JSPum13a0g https://t.co/grfIsuCQPK"
+    }
+  ],
+  "isSuperseded": false
+}

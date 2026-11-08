@@ -1,0 +1,88 @@
+{
+  "slug": "openai-launches-permanent-prompt-cache-for-codex-and-work-fffd0469",
+  "title": "OpenAI Launches Permanent Prompt Cache for Codex and Work",
+  "publishedAt": "2026-10-21T01:23:32.661Z",
+  "eventTimeApprox": "2026-10-21T00:10:12.500Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Developers using the OpenAI API can now select a 12 hour prompt caching window to maintain context for persistent agents such as dots throughout the day. This allows for the reuse of shared instructions and tools at a lower cached input rate even when requests are hours apart. For users logged into Codex and Work, the company has implemented a permanent cache that eliminates penalties for resuming old conversations.\n\nThe update aims to reduce cost spikes for long running and ambient agents that previously suffered from frequent cache misses. By extending the duration of stored context, OpenAI minimizes the need for the model to reprocess large amounts of history during repeated interactions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112603916076781778",
+      "role": "source",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2112603916076781778",
+      "tweetedAt": "2026-10-20T17:56:38.000Z",
+      "bestBit": "You can now choose 12-hour prompt caching in the API.",
+      "text": "You can now choose 12-hour prompt caching in the API.\n\nPersistent agents, like dots, reuse context throughout the day. \n\nYou can keep shared instructions, tools, and context cached longer and pay the lower cached-input rate, even when requests are hours apart."
+    },
+    {
+      "tweetId": "2112712984644784534",
+      "role": "analysis",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2112712984644784534",
+      "tweetedAt": "2026-10-21T01:10:02.000Z",
+      "bestBit": "for logged in users across Codex &amp; Work we keep cache forever",
+      "text": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.",
+      "quotedTweetText": "You can now choose 12-hour prompt caching in the API.\n\nPersistent agents, like dots, reuse context throughout the day. \n\nYou can keep shared instructions, tools, and context cached longer and pay the lower cached-input rate, even when requests are hours apart."
+    },
+    {
+      "tweetId": "2112682874554167671",
+      "role": "commentary",
+      "authorHandle": "sydneyrunkle",
+      "url": "https://x.com/sydneyrunkle/status/2112682874554167671",
+      "tweetedAt": "2026-10-20T23:10:23.000Z",
+      "bestBit": "huge for long running / ambient agents that historically have lots of cache misses, which equate to cost spikes",
+      "text": "this is huge for long running / ambient agents that historically have lots of cache misses, which equate to cost spikes",
+      "quotedTweetText": "You can now choose 12-hour prompt caching in the API.\n\nPersistent agents, like dots, reuse context throughout the day. \n\nYou can keep shared instructions, tools, and context cached longer and pay the lower cached-input rate, even when requests are hours apart."
+    },
+    {
+      "tweetId": "2112713481946570967",
+      "role": "commentary",
+      "authorHandle": "theo",
+      "url": "https://x.com/theo/status/2112713481946570967",
+      "tweetedAt": "2026-10-21T01:12:01.000Z",
+      "bestBit": "Biggest ship of the 28 days by far.",
+      "text": "\"for logged in users across Codex &amp; Work we keep cache forever\"\n\nwtf. Biggest ship of the 28 days by far.",
+      "quotedTweetText": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,184 @@
+{
+  "slug": "dow-drops-654-points-for-worst-day-since-august-as-us-oil-tops-100-and-t-e43d0af9",
+  "title": "Dow Drops 654 Points for Worst Day Since August as US Oil Tops $100 and Tech Steadies",
+  "publishedAt": "2026-10-24T00:53:54.034Z",
+  "eventTimeApprox": "2026-10-22T19:20:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 200,
+  "authorCount": 79,
+  "routingTopicKeys": [
+    "us-markets",
+    "commodity",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "energy-markets",
+      "name": "Energy Markets"
+    },
+    {
+      "slug": "oil",
+      "name": "Oil"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "TMUS",
+      "kind": "equity",
+      "role": "related",
+      "name": "T-Mobile US, Inc.",
+      "hubKey": "tmus"
+    },
+    {
+      "ticker": "T",
+      "kind": "equity",
+      "role": "related",
+      "name": "AT&T Inc.",
+      "hubKey": "t"
+    },
+    {
+      "ticker": "CCI",
+      "kind": "equity",
+      "role": "related",
+      "name": "Crown Castle Inc.",
+      "hubKey": "cci"
+    },
+    {
+      "ticker": "BE",
+      "kind": "equity",
+      "role": "related",
+      "name": "Bloom Energy Corporation",
+      "hubKey": "be"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113226877296922852/HVOwpToWIAA4HCq-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113226877296922852/HVOwpToWIAA4HCq-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "globalmktobserv",
+      "tweetUrl": "https://x.com/GlobalMktObserv/status/2113226877296922852"
+    }
+  },
+  "summary": "The Dow Jones Industrial Average fell 654 points, or 1.23%, on Friday for its steepest one day loss since Aug. 20 as selling spread beyond technology into the broader market and US oil topped $100 a barrel on fears the US-Iran conflict would flare up again. Nearly three-quarters of S&P 500 stocks finished lower, pulling the index down 0.52% and the Nasdaq down 0.21%, while WTI crude rose to $103.27 and Brent climbed 3.1% to $116.72. The 10 year Treasury yield rebounded to about 4.99% as surging crude prices revived inflation concerns, reversing part of Thursday's 0.193 percentage point plunge to 4.952%, its largest daily drop since Silicon Valley Bank failed in March 2023.\n\nTechnology shares steadied on Friday after Thursday's 2.9% Nasdaq 100 rout, with the S&P 500 technology sector edging up 0.35% as Micron gained 2.5% and Intel rose 1.7%. Elsewhere, T-Mobile and AT&T each dropped nearly 8% while Crown Castle jumped 9% on reports that SpaceX is seeking access to more than 80,000 US cell tower sites to build a fourth nationwide wireless carrier. American Express slid 3.7% after announcing 5% job cuts, and Bloom Energy tumbled about 11% on negative free cash flow despite posting a 138% jump in third quarter revenue to $1.24 billion.\n\nEven as tech stocks stabilized on Friday, credit markets flashed their biggest warning signal in more than a year over the sums companies are borrowing and spending on AI infrastructure. Five year credit default swaps on Meta hit a record 119.3 basis points after the company posted $2.12 billion in negative third quarter free cash flow, raised the low end of its 2026 capital spending forecast to $135 billion, and disclosed $825 billion in future lease and contract commitments. Five year CDS spreads also climbed to 350 basis points for Oracle, 241 basis points for SpaceX, and 101 basis points for Nvidia as AI debt issuance reached $466 billion so far in 2026, up from $101 billion a year earlier.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113746834342531093",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2113746834342531093",
+      "tweetedAt": "2026-10-23T21:38:11.000Z",
+      "bestBit": "The Dow slid on Friday as a sell-off in tech in the prior session shifted to other areas of the market and U.S. oil prices topped $100 a barrel",
+      "text": "The Dow slid on Friday as a sell-off in tech in the prior session shifted to other areas of the market and U.S. oil prices topped $100 a barrel amid rising fears that the U.S.-Iran conflict would flare up again. https://t.co/IVRi5ZTzKO"
+    },
+    {
+      "tweetId": "2113352401990340986",
+      "role": "commentary",
+      "authorHandle": "schuldensuehner",
+      "url": "https://x.com/Schuldensuehner/status/2113352401990340986",
+      "tweetedAt": "2026-10-22T19:30:51.000Z",
+      "bestBit": "Oracle’s 5Y CDS tops 300bps, SpaceX exceeds 200bps, Meta hits a record 119bps as future spending commitments reach $825bn.",
+      "text": "AI credit risk hits new highs. Oracle’s 5Y CDS tops 300bps, SpaceX exceeds 200bps, Meta hits a record 119bps as future spending commitments reach $825bn. The AI arms race is becoming a financing race. Insuring the dream against default keeps getting more expensive. https://t.co/rDe1LtZG9k"
+    },
+    {
+      "tweetId": "2112536616732352668",
+      "role": "commentary",
+      "authorHandle": "kieranwgoodwin",
+      "url": "https://x.com/kieranwgoodwin/status/2112536616732352668",
+      "tweetedAt": "2026-10-20T13:29:13.000Z",
+      "bestBit": "$ORCL CDS trading at 350 bps today",
+      "text": "$ORCL CDS trading at 350 bps today \n\nCredit widens gradually then suddenly",
+      "quotedTweetText": "$ORCL CDS closed at 325 bps which is 75 wider on the month. \n\nThe moves wider are accelerating in CDS and bond spreads. \n\nIMO, $ORCL best move to stop the widening which is weighing on the stock is to issue more equity as painful as that might be."
+    },
+    {
+      "tweetId": "2113263249319960691",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2113263249319960691",
+      "tweetedAt": "2026-10-22T13:36:35.000Z",
+      "bestBit": "Meta is still AA-rated with ~$82B in cash and a massive ads business generating ~$250B annually",
+      "text": "Seeing a lot of fear around $META 5-year credit default swaps hitting an all-time high but I think people are reading way too much into this.\n\nMeta is still AA-rated with ~$82B in cash and a massive ads business generating ~$250B annually giving it a much stronger credit profile so the recent spike could have more to do with banks hedging exposure to Meta's massive AI debt financing than actual default risk.\n\nReally important not to confuse rising CDS spreads as some type of signal for a weakening business because thats not whats happening here."
+    },
+    {
+      "tweetId": "2112660630507561338",
+      "role": "analysis",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2112660630507561338",
+      "tweetedAt": "2026-10-20T21:42:00.000Z",
+      "bestBit": "AI-linked CDS trading went from under $2B a week in July to $9B+ in September. AI debt raised this year is $466B, against $101B at this point last year.",
+      "text": "Five days ago the credit market was pricing CoreWeave and Oracle.\n\nNow it's pricing Meta and Nvidia.\n\nMeta's 5-year CDS: 108 bps, a record. \n\nNvidia: 101, a record. \n\nAlphabet and Amazon at all-time highs.\n\nEven Microsoft is climbing.\n\nAI-linked CDS trading went from under $2B a week in July to $9B+ in September. AI debt raised this year is $466B, against $101B at this point last year.\n\nAnd Goldman's prime book shows hedge funds cutting tech at the fastest pace since 2016.\n\nWhen the \"safe\" names need default insurance, it isn't a neocloud problem anymore….. it’s straight up a funding problem.\n\nAnd funding problems always end up on the headcount line. \n\nListen for \"efficiency\" on the Q3 calls. H127 looks to be bad for the workforce.",
+      "quotedTweetText": "Credit just put a number on my March thesis.\n\nReuters also confirms today's figures: CoreWeave above 1,000 bps and Oracle at 288 bps, up from 260 a week earlier. \n\nBack in March, I argued that when infrastructure becomes the primary asset of the business, labor gets repriced... and now we're watching the other side of that equation.\n\nThe workforce gets restructured to fund the buildout. The buildout gets financed with debt. And the credit market starts asking whether the cash flow can support either."
+    },
+    {
+      "tweetId": "2113290928580362451",
+      "role": "analysis",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2113290928580362451",
+      "tweetedAt": "2026-10-22T15:26:35.000Z",
+      "bestBit": "Meta’s free cash flow also turned negative last quarter, at minus $2.1 billion, compared with plus $10.6 billion a year earlier.",
+      "text": "🦔The cost of insuring Meta’s debt against default hit a record today, and its bonds fell, after Meta said it has now agreed to about $825 billion in future leases and contracts, mostly for AI computing. That figure was close to $700 billion in July. Meta’s free cash flow also turned negative last quarter, at minus $2.1 billion, compared with plus $10.6 billion a year earlier. The stock dropped almost 6%.\n\nMy Take\nMeta’s default insurance costs about 119 basis points a year, well below Oracle near 290 or CoreWeave near 1,200 last week, so lenders still see Meta as a safe borrower. I’m a bit rattled by the speed though. Meta piled on roughly $125 billion of new commitments in three months, and its ad business, one of the best cash machines in corporate America, no longer covers the spending by itself. If Meta has to borrow to keep up, I can’t think of an AI spender that won’t.\n\nBond buyers are already looking at a wall of AI debt, with SpaceX shopping a $40 billion deal and Broadcom lining up $60 billion of chip financing for Anthropic. Every new deal has to pay a little more to get noticed. We'll probably see Meta sell a large bond before year end at a higher rate than it would have paid in the spring. It raised the low end of its spending forecast for this year and wouldn’t give one for next year, so free cash flow probably stays negative for a while.\n\nHedgie🤗"
+    },
+    {
+      "tweetId": "2113390420923441663",
+      "role": "signal",
+      "authorHandle": "nicktimiraos",
+      "url": "https://x.com/NickTimiraos/status/2113390420923441663",
+      "tweetedAt": "2026-10-22T22:01:55.000Z",
+      "bestBit": "Thursday's 10-year Treasury yield decline of 0.193 percentage point (to 4.952%) is the largest single day yield decline since March 10, 2023",
+      "text": "Thursday's 10-year Treasury yield decline of 0.193 percentage point (to 4.952%) is the largest single day yield decline since March 10, 2023, which is the day Silicon Valley Bank failed."
+    },
+    {
+      "tweetId": "2113431246072418618",
+      "role": "commentary",
+      "authorHandle": "matthewstoller",
+      "url": "https://x.com/matthewstoller/status/2113431246072418618",
+      "tweetedAt": "2026-10-23T00:44:09.000Z",
+      "bestBit": "Thursday's 10-year Treasury yield decline of 0.193 percentage point (to 4.952%) is the largest single day yield decline since March 10, 2023, which is the day Silicon Valley Bank failed.",
+      "text": "Must be that governments all collectively cut their deficits.",
+      "quotedTweetText": "Thursday's 10-year Treasury yield decline of 0.193 percentage point (to 4.952%) is the largest single day yield decline since March 10, 2023, which is the day Silicon Valley Bank failed."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "sandp-500-and-nasdaq-end-week-at-three-month-lows-as-brent-tops-117-and-d67305fe",
+    "title": "S&P 500 and Nasdaq End Week at Three Month Lows as Brent Tops $117 and AI Credit Risk Climbs",
+    "publishedAt": "2026-10-23T22:08:38.880Z",
+    "eventTimeApprox": "2026-10-22T18:48:16.500Z",
+    "routingTopicKeys": [
+      "us-markets",
+      "commodity",
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 191,
+    "authorCount": 79
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "legora-valuation-hits-88b-after-550m-series-e-round-e5c38b19",
+  "title": "Legora Valuation Hits $8.8B After $550M Series E Round",
+  "publishedAt": "2026-10-21T14:10:45.198Z",
+  "eventTimeApprox": "2026-10-21T13:35:50.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "The Stockholm-based creator of legal AI software is shifting its focus toward autonomous agents that can handle complex, multi step assignments. Legora secured $550M in a Series E round led by Atreides, bringing the company's valuation to $8.8B. New backers include Baron Capital, Capital Group, Fidelity, Glade Brook and J.P. Morgan, and the company plans to expand its operations in North America, Europe, Latin America and Asia-Pacific while deepening the development of its Legora aOS.\n\nThe post-money valuation is up from $5.55B following a Series D raise in March. Legora recently reported that its annual recurring revenue surpassed $200M just six months after it had hit the $100M mark. The startup now employs more than 1,000 people and serves 140,000 legal professionals.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112901689648783543",
+      "role": "source",
+      "authorHandle": "maxjunestrand",
+      "url": "https://x.com/MaxJunestrand/status/2112901689648783543",
+      "tweetedAt": "2026-10-21T13:39:53.000Z",
+      "bestBit": "the 1,000+ people at Legora, and to the 140,000 legal professionals who use what we build",
+      "text": "We have raised a $550M Series E at an $8.8B valuation, led by Atreides.\n\nEvery major existing investor is back in, and we’re welcoming Baron Capital, Capital Group, Fidelity, Glade Brook and J.P. Morgan. We picked investors who think in decades. Several of them work with law firms and legal teams every day, so they can see where the work is heading.\n\nLawyers are moving from AI assistants to agents that do multi-step work. The money goes there. We’re growing our teams across North America, Europe, Latin America and Asia-Pacific, and going deeper on the Legora aOS.\n\nThank you to the 1,000+ people at Legora, and to the 140,000 legal professionals who use what we build.\n\nI say this a lot because I believe it: it’s the best time in history to be a lawyer. We're thankful to be a part of it.\n\nFull story: https://t.co/tFdtLvm6PM"
+    },
+    {
+      "tweetId": "2112899652987367587",
+      "role": "support",
+      "authorHandle": "sebjohnsonuk",
+      "url": "https://x.com/SebJohnsonUK/status/2112899652987367587",
+      "tweetedAt": "2026-10-21T13:31:47.000Z",
+      "bestBit": "announced surpassing $200 million of ARR. This was 6 months after hitting $100 million in ARR",
+      "text": "Legora has just raised $550m at an $8.8bn valuation. \n\nA few weeks ago, it announced surpassing $200 million of ARR. \n\nThis was 6 months after hitting $100 million in ARR.\n\nThe round has been led by Atreides, with every major investor coming back in. \n\nNICE"
+    },
+    {
+      "tweetId": "2112903341454094661",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112903341454094661",
+      "tweetedAt": "2026-10-21T13:46:27.000Z",
+      "bestBit": "Stockholm-based legal AI startup Legora raised a $550M Series E at an $8.8B post-money valuation, up from $5.55B after raising a $550M Series D in March",
+      "text": "Stockholm-based legal AI startup Legora raised a $550M Series E at an $8.8B post-money valuation, up from $5.55B after raising a $550M Series D in March (@rosiehdavison_ / City A.M.)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

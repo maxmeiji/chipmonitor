@@ -1,0 +1,55 @@
+{
+  "slug": "skyfall-ais-first-engineering-world-model-cuts-cad-costs-150x-over-gpt-6-ff7a1b1b",
+  "title": "Skyfall AI's First Engineering World Model Cuts CAD Costs 150x Over GPT-6 Astra",
+  "publishedAt": "2026-10-19T18:24:57.850Z",
+  "eventTimeApprox": "2026-10-19T18:07:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "summary": "SKY-001 transforms text prompts and 2D sketches into structured 3D models compatible with engineering software such as Autodesk Fusion. The tool breaks a target object into smaller components and designs them down to the level of individual screws, creating a layout that allows engineers to visualize physical objects before fabrication.\n\nThe model is 51-125x faster and over 150-210x cheaper than GPT-6 Astra and other frontier models on computer-aided design and building information modeling tasks, according to Skyfall AI. Developed over 18 months by members of the Maluuba deep learning lab, which Microsoft Research acquired, the research preview is intended to eventually serve as the backbone for autonomous manufacturing.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112242023805964327",
+      "role": "source",
+      "authorHandle": "spisallyouneed",
+      "url": "https://x.com/spisallyouneed/status/2112242023805964327",
+      "tweetedAt": "2026-10-19T17:58:36.000Z",
+      "bestBit": "beats GPT-6 Astra and every frontier model we tested: -> 51-125x faster - > 150-210x cheaper",
+      "text": "Introducing SKY-001, the first Engineering World Model.\nOn CAD and BIM tasks, it beats GPT-6 Astra and every frontier model we tested:\n\n-> 51-125x faster\n- > 150-210x cheaper\n-> Higher IOU than all frontier models\n\nSKY-001 lets you dream a physical object before you build it.\n\n18 months of work. Built by the team out of Maluuba's deep learning lab (acq. by @MSRResearch).\n\nThe first ‘AI General Engineer’ will be the backbone for Autonomous Manufacturing."
+    },
+    {
+      "tweetId": "2112245736993968188",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2112245736993968188",
+      "tweetedAt": "2026-10-19T18:13:21.000Z",
+      "bestBit": "starts with a text prompt or 2D sketch, breaks the object into smaller parts, designs those components and assembles them into a structured 3D model",
+      "text": "Skyfall AI is introducing SKY-001, an engineering world model that it says is 100x faster and 150x cheaper than GPT Astra in its CAD and building-design tests.\n\nIt starts with a text prompt or 2D sketch, breaks the object into smaller parts, designs those components and assembles them into a structured 3D model for CAD software such as Autodesk Fusion.\n\nThat means working through the individual parts and how they fit together, down to details like screws.\n\nThis is a research preview focused on design. Skyfall’s longer-term goal is to extend that process into manufacturing.\n\n@skyfallai @spisallyouneed  https://t.co/uXTOH07y3P",
+      "quotedTweetText": "Introducing SKY-001, the first Engineering World Model.\nOn CAD and BIM tasks, it beats GPT-6 Astra and every frontier model we tested:\n\n-> 51-125x faster\n- > 150-210x cheaper\n-> Higher IOU than all frontier models\n\nSKY-001 lets you dream a physical object before you build it.\n\n18 months of work. Built by the team out of Maluuba's deep learning lab (acq. by @MSRResearch).\n\nThe first ‘AI General Engineer’ will be the backbone for Autonomous Manufacturing."
+    }
+  ],
+  "isSuperseded": false
+}

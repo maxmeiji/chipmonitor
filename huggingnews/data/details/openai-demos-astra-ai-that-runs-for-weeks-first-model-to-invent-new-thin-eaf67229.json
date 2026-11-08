@@ -1,0 +1,115 @@
+{
+  "slug": "openai-demos-astra-ai-that-runs-for-weeks-first-model-to-invent-new-thin-eaf67229",
+  "title": "OpenAI Demos Astra AI That Runs for Weeks, First Model to Invent New Things",
+  "publishedAt": "2026-08-30T08:37:30.014Z",
+  "eventTimeApprox": "2026-08-30T00:07:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 20,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    }
+  ],
+  "summary": "OpenAI has demonstrated a next-generation AI model called Astra designed to operate as a continuous agent capable of working for days or weeks on a single task. The system coordinates multiple agents to complete mathematical proofs, operate desktop software, and manage financial reviews. Internally, the company met its benchmark for automating an entry-level AI researcher, allowing Astra to implement ideas in OpenAI's codebase and execute experiments independently.\n\nCEO Sam Altman described Astra as the first model to \"invent new things in a way that matters\" and indicated a goal to provide a version that runs indefinitely through ChatGPT and the API. Product head Thibault Sottiaux said a new interface for continuous agents will launch soon, which will be accessible from almost anywhere rather than existing as a standalone app.",
+  "selectedTweets": [
+    {
+      "tweetId": "2093852952628986023",
+      "role": "source",
+      "authorHandle": "himanshustwts",
+      "url": "https://x.com/himanshustwts/status/2093852952628986023",
+      "tweetedAt": "2026-08-30T00:07:00.000Z",
+      "bestBit": "If we had more compute, we’d have definitely made more revenue last year",
+      "text": "[INTERESTING]\n\n- A new interface for continuous agents is coming “very soon.” Not really an app but will be accessible from almost anywhere and will “definitely” feel like a new thing rather than an upgrade.\n\n- OpenAI has met its internal benchmark for automating an entry-level AI researcher. \n\n- Given an exp idea, Astra can implement it in OpenAI’s codebase, run the experiment, and return the results.\n\n- \"We just don’t have enough compute. If we had more compute, we’d have definitely made more revenue last year\"",
+      "quotedTweetText": "I got to see OpenAI’s next big model, Astra https://t.co/LrnVUoK6RM https://t.co/p0KakjJrAa"
+    },
+    {
+      "tweetId": "2093876380928733206",
+      "role": "support",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2093876380928733206",
+      "tweetedAt": "2026-08-30T01:40:06.000Z",
+      "bestBit": "There will also be a version that can run forever which is the other word for agent employees",
+      "text": "🚨 ASTRA IS DESIGNED TO RUN FOR WEEKS.\n\nThere will also be a version that can run forever which is the other word for agent employees.\n\nOpenAI is also building a “new interface” for continuous agents which won’t be an app (seems more like Hermes/OpenClaw?) https://t.co/zDXdrzdIIW",
+      "quotedTweetText": "I got to see OpenAI’s next big model, Astra https://t.co/LrnVUoK6RM https://t.co/p0KakjJrAa"
+    },
+    {
+      "tweetId": "2093936143163388270",
+      "role": "support",
+      "authorHandle": "maxforai",
+      "url": "https://x.com/MaxForAI/status/2093936143163388270",
+      "tweetedAt": "2026-08-30T05:37:34.000Z",
+      "bestBit": "Astra will coordinate multiple agents to complete mathematical proofs",
+      "text": "🚨突发：OpenAI 下一代模型 Astra 首次曝光细节，下周即将发布\n\nSources 创始人、前 The Verge 副主编 @alexeheath  称，他在 8 月初参加了一场 OpenAI 面向 VIP 客户的闭门活动，并现场看到了 Astra。\n\n按照他的判断，这个模型距离正式发布已经不远。\n\n这次展示里，OpenAI 没有把重点放在聊天、写作或者单轮推理上，而是在演示一个可以持续工作的 Agent 系统。\n\nAstra 会协调多个 Agent 完成数学证明，也能直接操作桌面软件，处理幻灯片、财务审查和杂乱数据分析。\n\nOpenAI 给它设定的工作周期不是几分钟、几小时，而是几天甚至几周。\n\n任务执行过程中，它可以记住用户的纠正，并继续和人以及其他 Agent 协作。\n\nSam Altman 在现场说，他预计 Astra 会是“第一个真正以有意义的方式发明新东西的模型”。\n\n@OpenAI  还在为这套能力准备新的产品形态。\n\n@sama  提到，公司希望未来在 ChatGPT 和 API 里提供一个可以“永远运行”的版本。\n\nOpenAI 产品负责人 Thibault Sottiaux 则说，面向 Continuous Agent 的新界面很快会推出，而且“已经不太像一个 App 了”，用户可以从几乎任何地方调用它。\n\n如果这次闭门演示最终完整落地，Astra 解决的已经不只是“模型一次能做多复杂的任务”，而是另一个问题：\n\n一个 AI 能不能接下长期任务，自己拆解、调用工具、协调其他 Agent，并连续工作几天甚至几周。\n\nOpenAI 已经开始给这个问题做产品答案了。",
+      "quotedTweetText": "I got to see OpenAI’s next big model, Astra https://t.co/LrnVUoK6RM https://t.co/p0KakjJrAa"
+    },
+    {
+      "tweetId": "2093937674935541810",
+      "role": "analysis",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2093937674935541810",
+      "tweetedAt": "2026-08-30T05:43:39.000Z",
+      "bestBit": "FrontierMath tier 4:- 97% (42 out of 43)",
+      "text": "If real (I can't see why not; Sol is a previous generation smaller pretrain, and was 2/3 of the way there in raw scores, so maybe 1/3 in capability), Astra is a substantial leap",
+      "quotedTweetText": "Some of Astra Benchmark scores on max settings:-\n\nHLE (with tools) :- 76% .\nCritPt:- 45%\nFrontierMath tier 4:- 97% (42 out of 43).\nRiemann Bench:- 100% (25 out of 25).\nFrontierScience research (OpenAI internal benchmark of 60 Gold Set):- 71%."
+    },
+    {
+      "tweetId": "2093833342777266564",
+      "role": "source",
+      "authorHandle": "alexeheath",
+      "url": "https://x.com/alexeheath/status/2093833342777266564",
+      "tweetedAt": "2026-08-29T22:49:05.000Z",
+      "bestBit": "I got to see OpenAI’s next big model, Astra",
+      "text": "I got to see OpenAI’s next big model, Astra https://t.co/LrnVUoK6RM https://t.co/p0KakjJrAa"
+    },
+    {
+      "tweetId": "2093849394294792669",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2093849394294792669",
+      "tweetedAt": "2026-08-29T23:52:52.000Z",
+      "bestBit": "Astra is designed to run for weeks",
+      "text": "Alex Heath got an Astra demo.\n\nAstra is designed to run for weeks, and Sam Altman says he wants to offer a version that 'runs forever' in both ChatGPT and the API.",
+      "quotedTweetText": "I got to see OpenAI’s next big model, Astra https://t.co/LrnVUoK6RM https://t.co/p0KakjJrAa"
+    },
+    {
+      "tweetId": "2093731470493798711",
+      "role": "analysis",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2093731470493798711",
+      "tweetedAt": "2026-08-29T16:04:16.000Z",
+      "bestBit": "Presumably also following the upcoming Fable 5.1 release, likely due next week",
+      "text": "OpenAI is reportedly testing Astra with select partners under the codename “ultima-alpha,” with a wider rollout potentially beginning next week ahead of a public launch alongside an updated GPT-Image 2.\n\nPresumably also following the upcoming Fable 5.1 release, likely due next week.\n\nGoing to be a fun week",
+      "quotedTweetText": "🚨 SCOOP: Astra recently graduated from the dogfood stage, and is now being made available to select OpenAI partners under the name \"ultima-alpha\" \n\nIf feedback over this weekend is positive, the plan is to expand the early access program throughout next week before the wider launch, targeting next Thurs (the 3rd) to the end of the following week\n\nWork also continues on an update to GPT-Image 2, with their launch windows being very similar (possibly even launching simultaneously)"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-openai-astra-automates-ai-research-in-first-model-to-run-forever-6edfc46c",
+    "title": "UPDATE: OpenAI Astra Automates AI Research in First Model to Run Forever",
+    "publishedAt": "2026-08-30T02:35:39.512Z",
+    "eventTimeApprox": "2026-08-29T22:49:05.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 17,
+    "authorCount": 14
+  }
+}

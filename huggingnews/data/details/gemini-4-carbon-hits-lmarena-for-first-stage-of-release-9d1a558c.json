@@ -1,0 +1,49 @@
+{
+  "slug": "gemini-4-carbon-hits-lmarena-for-first-stage-of-release-9d1a558c",
+  "title": "Gemini 4 Carbon Hits LMArena for First Stage of Release",
+  "publishedAt": "2026-10-21T06:09:18.117Z",
+  "eventTimeApprox": "2026-10-21T05:00:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "The latest iteration of Google's large language model has entered a restricted testing phase involving a limited group of external partners. Gemini 4 Carbon is now available through an Early Access Program and has been submitted to the LMArena benchmarking platform, with early testers indicating that a full public release is imminent.\n\nThe Carbon model outperforms Gemini 4 Argon in 3D capabilities, though it operates more slowly than its predecessor. Initial feedback from the access program suggests the model is less prone to 'laziness' in its responses, although users noted that the frontend and user interface remain poor.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112770669549068684",
+      "role": "source",
+      "authorHandle": "lentils80",
+      "url": "https://x.com/Lentils80/status/2112770669549068684",
+      "tweetedAt": "2026-10-21T04:59:15.000Z",
+      "bestBit": "It's noticeably better than Gemini 4 Argon at 3D, though frontend/UI is still bad.",
+      "text": "Gemini 4 Carbon EAP has officially started. Early access has been given to partners and it's being tested in LMArena. The release is very close.\n\nIt's noticeably better than Gemini 4 Argon at 3D, though frontend/UI is still bad. It's also slower but less lazy."
+    }
+  ],
+  "isSuperseded": false
+}

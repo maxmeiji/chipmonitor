@@ -1,0 +1,54 @@
+{
+  "slug": "seta-launches-largest-open-source-terminal-rl-dataset-of-4500-envs-6c3732a1",
+  "title": "SETA Launches Largest Open Source Terminal RL Dataset of 4,500 Envs",
+  "publishedAt": "2026-10-02T17:54:18.434Z",
+  "eventTimeApprox": "2026-10-02T12:26:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "summary": "Researchers have published the SETA-Env project to provide the community with verifiable environments for training reinforcement learning agents in terminal settings. The new dataset contains more than 4,500 open source environments, making it the largest verifiable resource of its kind. The release includes synthesis and training pipelines, alongside scripts for models such as DeepSeek-V4-Flash, GLM-5.2 (LoRA), Inkling-Small, and Qwen3.8-27B using both Group Relative Policy Optimization and Proximal Policy Optimization.\n\nThe project, titled Scaling Environments for Terminal Agents, was accepted into the Evaluations & Datasets Track of the NeurIPS 2026 conference. Scaling for the project's experiments was supported by the Miles team at Radixark.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105957988054016384",
+      "role": "source",
+      "authorHandle": "qijia_shen",
+      "url": "https://x.com/qijia_shen/status/2105957988054016384",
+      "tweetedAt": "2026-10-02T09:48:05.000Z",
+      "bestBit": "We release SETA-Env, the largest open-source verifiable terminal RL dataset (4,500+ envs), with full synthesis & training pipelines",
+      "text": "🎉 SETA: Scaling Environments for Terminal Agents has been accepted to the #NeurIPS2026 Evaluations &amp; Datasets Track!\n\nWe release SETA-Env, the largest open-source verifiable terminal RL dataset (4,500+ envs), with full synthesis &amp; training pipelines 🧵\n\nhttps://t.co/6CAB4eUAYm"
+    },
+    {
+      "tweetId": "2105997727704477863",
+      "role": "support",
+      "authorHandle": "guohao_li",
+      "url": "https://x.com/guohao_li/status/2105997727704477863",
+      "tweetedAt": "2026-10-02T12:26:00.000Z",
+      "bestBit": "released the full training scripts for DeepSeek-V4-Flash, GLM-5.2 (LoRA), Inkling-Small, and Qwen3.8-27B, with both GRPO and PPO",
+      "text": "SETA got accepted to NeurIPS 2026! 🎉\n\nWe released the full training scripts for DeepSeek-V4-Flash, GLM-5.2 (LoRA), Inkling-Small, and Qwen3.8-27B, with both GRPO and PPO, alongside 4,500+ open-source, verifiable terminal RL environments\n\nHuge thanks to the @radixark Miles team for helping us scale the experiments!\n\nhttps://t.co/CxPbAT0YzG",
+      "quotedTweetText": "🎉 SETA: Scaling Environments for Terminal Agents has been accepted to the #NeurIPS2026 Evaluations &amp; Datasets Track!\n\nWe release SETA-Env, the largest open-source verifiable terminal RL dataset (4,500+ envs), with full synthesis &amp; training pipelines 🧵\n\nhttps://t.co/6CAB4eUAYm"
+    }
+  ],
+  "isSuperseded": false
+}

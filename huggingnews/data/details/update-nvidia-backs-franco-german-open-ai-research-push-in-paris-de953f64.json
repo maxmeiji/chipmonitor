@@ -1,0 +1,142 @@
+{
+  "slug": "update-nvidia-backs-franco-german-open-ai-research-push-in-paris-de953f64",
+  "title": "UPDATE: Nvidia Backs Franco-German Open AI Research Push in Paris",
+  "publishedAt": "2026-10-14T19:39:36.519Z",
+  "eventTimeApprox": "2026-10-13T19:06:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 38,
+  "authorCount": 25,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:MIST",
+      "kind": "private",
+      "role": "related",
+      "name": "Mistral AI",
+      "hubKey": "mistral-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110125046425432218/HUirhfJWwAAltA_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110125046425432218/HUirhfJWwAAltA_-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "emmanuelmacron",
+      "tweetUrl": "https://x.com/EmmanuelMacron/status/2110125046425432218"
+    }
+  },
+  "summary": "Nvidia's chief executive coordinated with President Emmanuel Macron at the Élysée Palace to implement the Open Agent Safety Platform and expand computing infrastructure for French enterprises. During the meeting, Jensen Huang pledged support for a joint Franco-German initiative to advance open AI research to maintain regional technological sovereignty. This expansion includes a strategic partnership with Mistral AI, which utilized 4,000 Grace Blackwell chips to train its most recent model.\n\nThe initiative follows an announcement that Nvidia will invest $2B in new European AI projects next week, bringing the total committed over the past year to $10B. This funding includes minority stakes in French startups Doctolib, Genesis AI, Pigment, and Entalpic, alongside a planned data center buildout in Europe. Huang is currently on a regional tour with visits to London and Berlin for GTC Berlin, where he has urged Europe to accelerate its AI development to keep pace with the U.S.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110092314198626792",
+      "role": "source",
+      "authorHandle": "nvidianewsroom",
+      "url": "https://x.com/nvidianewsroom/status/2110092314198626792",
+      "tweetedAt": "2026-10-13T19:36:25.000Z",
+      "bestBit": "Tonight Jensen met with President @EmmanuelMacron to discuss NVIDIA’s contribution to France’s thriving AI ecosystem through investments spanning startups, AI-native companies, and computing infrastructure.",
+      "text": "Tonight Jensen met with President @EmmanuelMacron to discuss NVIDIA’s contribution to France’s thriving AI ecosystem through investments spanning startups, AI-native companies, and computing infrastructure.\n\nThey also covered AI safety and our recently launched Open Agent Safety Platform.",
+      "quotedTweetText": ".@JensenHuang wrapped up his Paris visit at the Élysée with President @EmmanuelMacron, discussing NVIDIA’s investments in France’s AI ecosystem, open source, and AI safety.\n\nOur road to #NVIDIAGTC Berlin continues. https://t.co/CGYw6B8UFl"
+    },
+    {
+      "tweetId": "2110060647430119687",
+      "role": "support",
+      "authorHandle": "iponewsroom_",
+      "url": "https://x.com/IPONewsroom_/status/2110060647430119687",
+      "tweetedAt": "2026-10-13T17:30:36.000Z",
+      "bestBit": "Mistral AI, whose latest model was trained on 4,000 Grace Blackwell chips",
+      "text": "NVIDIA $NVDA PLANS TO ANNOUNCE $2 BILLION IN NEW EUROPEAN INVESTMENTS OVER THE NEXT WEEK\n\n\"Europe needs to get in the race.\"\n\nCEO Jensen Huang said it in Paris on the first day of a tour that also takes him to London and Berlin, per Bloomberg. The new money comes on top of the $8 billion Nvidia has put into Europe over the last year.\n\nHe also announced new investments in four French startups:\nDoctolib: appointment booking and admin software for doctors\nGenesis AI: AI for robots\nPigment: AI-powered business software\nEntalpic: AI for chemistry and materials research\n\nHuang also pitched open-source AI models as Europe's way to catch up to the US, saying they \"can be customized for languages and for your own sovereignty.\" Nvidia is a key partner to France's Mistral AI, whose latest model was trained on 4,000 Grace Blackwell chips."
+    },
+    {
+      "tweetId": "2110125046425432218",
+      "role": "source",
+      "authorHandle": "emmanuelmacron",
+      "url": "https://x.com/EmmanuelMacron/status/2110125046425432218",
+      "tweetedAt": "2026-10-13T21:46:29.000Z",
+      "bestBit": "s’engage à soutenir notre initiative franco-allemande pour développer la recherche ouverte en Europe",
+      "text": "Jensen Huang le sait : la France est le pays le plus attractif d’Europe pour l’intelligence artificielle, grâce à nos talents, nos infrastructures et nos entreprises qui nous permettent de rester à l’avant-garde.\n  \nDepuis Choose France, notre coopération avec NVIDIA s’accélère, des startups aux grands acteurs industriels, en passant par les infrastructures de calcul et la recherche.\n\nAvec une nouvelle étape aujourd’hui : NVIDIA investit dans des entreprises françaises et s’engage à soutenir notre initiative franco-allemande pour développer la recherche ouverte en Europe.\n\nCela a d’autant plus de valeur que nous partageons et portons la même exigence d’une intelligence artificielle ouverte, sûre et au service de notre souveraineté.\n\nMerci cher Jensen pour votre confiance et votre soutien."
+    },
+    {
+      "tweetId": "2110122405112996178",
+      "role": "commentary",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2110122405112996178",
+      "tweetedAt": "2026-10-13T21:36:00.000Z",
+      "bestBit": "whether history will remember him as the man who built the next industrial revolution… or the man who built its biggest bubble",
+      "text": "I do wonder whether history will remember him as the man who built the next industrial revolution… or the man who built its biggest bubble.",
+      "quotedTweetText": "Nvidia $NVDA CEO Jensen Huang just met with France 🇫🇷 President Emmanuel Macron https://t.co/KywErwiqBL"
+    },
+    {
+      "tweetId": "2110060962564718983",
+      "role": "commentary",
+      "authorHandle": "emilychangtv",
+      "url": "https://x.com/emilychangtv/status/2110060962564718983",
+      "tweetedAt": "2026-10-13T17:31:51.000Z",
+      "bestBit": "Developers were lined up out the door and around the block, then mobbed him for selfies",
+      "text": "@nvidia Developers were lined up out the door and around the block, then mobbed him for selfies…. “Jensanity,” Paris edition. 🇫🇷 https://t.co/JADXoIDCMK"
+    },
+    {
+      "tweetId": "2110065020424138947",
+      "role": "analysis",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2110065020424138947",
+      "tweetedAt": "2026-10-13T17:47:58.000Z",
+      "bestBit": "They are going to announce data center buildout in europe",
+      "text": "2/ \"This is the beginning of AI in Europe (...) and the momentum is really starting to pickup now.\"\n\n- They are going to announce data center buildout in europe\n- AI is a manifacturing business\n- \"Safety is engineering\", thats why they created Open Shell https://t.co/mNkrKh2ZMp"
+    },
+    {
+      "tweetId": "2110443843241873873",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2110443843241873873",
+      "tweetedAt": "2026-10-14T18:53:17.000Z",
+      "bestBit": "Usage has increased eightfold since May 2026, an eightfold rise in five months",
+      "text": "Contrary to the assumption that there is anti-AI sentiment, data consistently shows that agentic AI is being adopted in Europe at rates far above average. Usage has increased eightfold since May 2026, an eightfold rise in five months. Furthermore, token output in Europe ranks in the top decile.\n\nJensen announced big investments in Europe today. Interesting to see a comeback.",
+      "quotedTweetText": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region.\n\nOur latest Economic Research report explores Europe’s shift toward agentic AI—and the opportunity to turn broader adoption into deeper use.\n\nhttps://t.co/jUjCF5sW0B"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "nvidia-pledges-2b-in-european-ai-after-8b-annual-spend-906e15a6",
+    "title": "Nvidia Pledges $2B in European AI After $8B Annual Spend",
+    "publishedAt": "2026-10-13T17:01:28.499Z",
+    "eventTimeApprox": "2026-10-13T16:18:12.000Z",
+    "routingTopicKeys": [
+      "startups",
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 37,
+    "authorCount": 25
+  }
+}

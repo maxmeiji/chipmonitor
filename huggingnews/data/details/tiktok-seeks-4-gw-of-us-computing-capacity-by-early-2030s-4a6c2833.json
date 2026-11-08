@@ -1,0 +1,59 @@
+{
+  "slug": "tiktok-seeks-4-gw-of-us-computing-capacity-by-early-2030s-4a6c2833",
+  "title": "TikTok Seeks 4 GW of U.S. Computing Capacity by Early 2030s",
+  "publishedAt": "2026-10-23T15:55:24.887Z",
+  "eventTimeApprox": "2026-10-23T15:42:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:BYTE",
+      "kind": "private",
+      "role": "subject",
+      "name": "ByteDance",
+      "hubKey": "bytedance"
+    }
+  ],
+  "summary": "TikTok's U.S. division is currently searching for more data processing power to support its services, sources told CNBC. The company's domestic operations are seeking multiple gigawatts of compute capacity, with a target of 4 GW to be available by the early 2030s.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113657187230765502",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2113657187230765502",
+      "tweetedAt": "2026-10-23T15:41:57.000Z",
+      "bestBit": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
+      "text": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC https://t.co/fXzdFMp3wI"
+    },
+    {
+      "tweetId": "2113658497930056100",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2113658497930056100",
+      "tweetedAt": "2026-10-23T15:47:10.000Z",
+      "bestBit": "TIKTOK U.S. IS LOOKING FOR FOUR GIGAWATTS OF COMPUTE POWER BY THE EARLY 2030S - CNBC",
+      "text": "TIKTOK U.S. IS LOOKING FOR FOUR GIGAWATTS OF COMPUTE POWER BY THE EARLY 2030S - CNBC"
+    }
+  ],
+  "isSuperseded": false
+}

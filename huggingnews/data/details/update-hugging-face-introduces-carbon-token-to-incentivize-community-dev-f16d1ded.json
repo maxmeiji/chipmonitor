@@ -1,0 +1,142 @@
+{
+  "slug": "update-hugging-face-introduces-carbon-token-to-incentivize-community-dev-f16d1ded",
+  "title": "UPDATE: Hugging Face Introduces $CARBON Token to Incentivize Community Development of DNA Models",
+  "publishedAt": "2026-10-28T04:39:28.366Z",
+  "eventTimeApprox": "2026-10-22T14:17:21.000Z",
+  "isFreshStory": false,
+  "tweetCount": 46,
+  "authorCount": 21,
+  "routingTopicKeys": [
+    "ai",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "subject",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113214040516268126/ew_WEia8llfHh2BL-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113214040516268126/ew_WEia8llfHh2BL-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2113213326687703040/vid/avc1/1600x1040/J14CSPSnuBCNNToT.mp4?tag=29",
+    "credit": {
+      "handle": "_lewtun",
+      "tweetUrl": "https://x.com/_lewtun/status/2113214040516268126"
+    }
+  },
+  "summary": "A new cryptocurrency-based incentive system has been launched to fund and coordinate the open-source development of genomic AI tools. The $CARBON token, released by the team behind the Carbon-X model, operates on the Ethereum blockchain and allows users to acquire discounted credits for DNA data filtering and training runs by burning tokens. In return, contributors can earn the token by providing improved DNA filters, sequence mixtures, or evaluation metrics for the genomic project.\n\nThe framework is intended to support the ongoing improvement of Carbon-X, a 14B parameter model that allows researchers to query genetic sequences using natural language. The model was developed by mid-training a Qwen3-14B base on 300B tokens of interleaved DNA and text data. To address questions about the token's implementation and utility, the team scheduled a virtual Q&A session for Oct. 28 at 4 p.m. EST.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115297627189223544",
+      "role": "source",
+      "authorHandle": "loubnabenallal1",
+      "url": "https://x.com/LoubnaBenAllal1/status/2115297627189223544",
+      "tweetedAt": "2026-10-28T04:20:29.000Z",
+      "bestBit": "Burn the token to get discounted credits for community training runs, DNA data filtering jobs, and evaluation that follow the staged functional mixtures we used.",
+      "text": "This week, we're introducing an experimental coordination layer for open genomic foundation model work around Carbon and Carbon-X.\n\nIt starts as a lightweight surface for community runs. The mechanics are built so it can support broader use if the public outputs keep improving. It plugs into existing training and evaluation workflows without changing how production models are released or used.\n\n- Burn the token to get discounted credits for community training runs, DNA data filtering jobs, and evaluation that follow the staged functional mixtures we used. Creator fees go to public data work, open recipes, and an open bounty pool, in addition to my personal share.\n\n- Contribute a useful DNA filter, sequence mixture, or evaluation improvement and get paid in the token. Accepted work is released with the existing models and demo materials.\n\n- Companies that need production scale training continue at normal rates. Builders who want discounted capacity for public ablations buy and burn the token. Demand tracks actual use of the open resources.\n\nIf the public outputs stop advancing useful genomic data or models we shut the layer down. If they continue to improve data quality and model efficiency the coordination can expand.\n\nEthereum gives the clearest path for integration with existing open model workflows.\nContract: 0x20ec75adc91aa92ec97a2f419fd6829c3123b8bf\n\nLet’s see what the community builds!"
+    },
+    {
+      "tweetId": "2115300807507644814",
+      "role": "source",
+      "authorHandle": "loubnabenallal1",
+      "url": "https://x.com/LoubnaBenAllal1/status/2115300807507644814",
+      "tweetedAt": "2026-10-28T04:33:07.000Z",
+      "bestBit": "we'll be hosting an X space for a Q&A. Mark the date: Today at 4:00pm EST, 10/28.",
+      "text": "Since the ideas' inception and especially now, there's genuine questions regarding $CARBON. \n\nTo help answer community questions and provide further guidance moving forward, we'll be hosting an X space for a Q&A.\n\nMark the date: Today at 4:00pm EST, 10/28.\n\nCome ready for an eventful hour! \n\nhttps://t.co/ShXM6hbAco",
+      "quotedTweetText": "This week, we're introducing an experimental coordination layer for open genomic foundation model work around Carbon and Carbon-X.\n\nIt starts as a lightweight surface for community runs. The mechanics are built so it can support broader use if the public outputs keep improving. It plugs into existing training and evaluation workflows without changing how production models are released or used.\n\n- Burn the token to get discounted credits for community training runs, DNA data filtering jobs, and evaluation that follow the staged functional mixtures we used. Creator fees go to public data work, open recipes, and an open bounty pool, in addition to my personal share.\n\n- Contribute a useful DNA filter, sequence mixture, or evaluation improvement and get paid in the token. Accepted work is released with the existing models and demo materials.\n\n- Companies that need production scale training continue at normal rates. Builders who want discounted capacity for public ablations buy and burn the token. Demand tracks actual use of the open resources.\n\nIf the public outputs stop advancing useful genomic data or models we shut the layer down. If they continue to improve data quality and model efficiency the coordination can expand.\n\nEthereum gives the clearest path for integration with existing open model workflows.\nContract: 0x20ec75adc91aa92ec97a2f419fd6829c3123b8bf\n\nLet’s see what the community builds!"
+    },
+    {
+      "tweetId": "2113535688150802672",
+      "role": "commentary",
+      "authorHandle": "loubnabenallal1",
+      "url": "https://x.com/LoubnaBenAllal1/status/2113535688150802672",
+      "tweetedAt": "2026-10-23T07:39:10.000Z",
+      "bestBit": "On BioReason, agreed, we found some serious issues like  answer leakage in some prompts. We fixed them and will share the details when we release the eval code.",
+      "text": "@anshulkundaje As for the evals, I think we covered a wide range of tasks with some established VEP benchmarks like ClinVar but we're always happy to improve! If you have another list of evals you'd recommend, could you open an issue here with the list here https://t.co/8uE5PlLAF9 Thanks!\n\nOn BioReason, agreed, we found some serious issues like  answer leakage in some prompts. We fixed them and will share the details when we release the eval code. We also opened an issue in their repo https://t.co/ymhjNqDeCP\n\nRe AlphaGenome evals, I'll take a closer look at the paper but they have ClinVar eval which we also have. It's the FrontierVEP task where we wrap ClinVar sequence in Natural Language text so it fits the DNA + text format we're targeting. \n\nWe had TraitGym Mendelian in Carbon-3B the results were in line with other VEP tasks in terms of model ranking, we could include it again, after the Natural language transformation."
+    },
+    {
+      "tweetId": "2113302506184847628",
+      "role": "analysis",
+      "authorHandle": "eliebakouch",
+      "url": "https://x.com/eliebakouch/status/2113302506184847628",
+      "tweetedAt": "2026-10-22T16:12:35.000Z",
+      "bestBit": "my understanding is that the way to think about those models shouldn't be standalone models, but tool models used by other agents to augment themselves with a capability/modality they don't have (here DNA understanding)",
+      "text": "very cool work on hybrid text and DNA model by hf\n\nmy understanding is that the way to think about those models shouldn't be standalone models, but tool models used by other agents to augment themselves with a capability/modality they don't have (here DNA understanding)\n\nalso shows once again the importance of mid-training when you want to adapt a base model to a new domain (similar curve to the periodic lab results!)",
+      "quotedTweetText": "Introducing Carbon-X: The best open DNA model.\n\nWe midtrained a 14B model on DNA and text, and it beats every open language model and matches GPT-6.1 Sol at 1,000x lower cost.\n\nAsk it about a sequence, what a mutation does, or to generate new DNA.\n\nhttps://t.co/cpZCkEHHmn https://t.co/QFHlXEMF0O"
+    },
+    {
+      "tweetId": "2113264393756545449",
+      "role": "commentary",
+      "authorHandle": "clementdelangue",
+      "url": "https://x.com/ClementDelangue/status/2113264393756545449",
+      "tweetedAt": "2026-10-22T13:41:08.000Z",
+      "bestBit": "Carbon-X outperforms all open language models we evaluated on five benchmarks of DNA understanding and generation. This is a 27-point improvement over Qwen3-14B",
+      "text": "Frontier labs are advancing the capabilities in AI for biology but preventing the good guys (scientists, academia, non-profits, health agencies,...) to use, study and understand it with widespread but shallow guardrails that the bad guys are bypassing easily (blocked me to proofread this tweet for example 😅). \n\nThis will automatically create massive assymetry and risks in the coming years, just like in cybersecurity, especially now that frontier labs are building wet labs (HF cybersecurity scenario for biology when?).\n\nThis is why we created Carbon-X, the best open-source DNA model by midtraining Qwen3-14B on 300B tokens of DNA, English and interleaved data.  We also used a hybrid tokenizer that tokenizes English with BPE and DNA with a 6-mer tokenizer.\n\nAs a result, Carbon-X outperforms all open language models we evaluated on five benchmarks of DNA understanding and generation. This is a 27-point improvement over Qwen3-14B, showing how much a  language model can gain from DNA training. It is also API frontier level at 1,800x less cost than GPT 6.1 Sol!\n\nWe hope Carbon-X helps researchers explore DNA in new ways. Releasing it openly means anyone can study its capabilities, limitations, and risks. Let's make the AI biology frontier open-source to make it safe and impactful for the whole world (not just a few companies).\n\nApache 2.0 Model on @huggingface: https://t.co/RRc1VLSrGT"
+    },
+    {
+      "tweetId": "2113345703485309335",
+      "role": "source",
+      "authorHandle": "thom_wolf",
+      "url": "https://x.com/Thom_Wolf/status/2113345703485309335",
+      "tweetedAt": "2026-10-22T19:04:14.000Z",
+      "bestBit": "On our DNA benchmarks it scores 67%, vs 61% for Claude Opus 5.5 and 50% for Gemini 4 Argon, and its within a point of GPT-6.1 Sol at about 1000x lower cost.",
+      "text": "While I was writing this, my AI assistant got cut off by a bio safety filter. It was summarizing my own team's notes on the model we released today 😅\n\nFrontier labs are moving fast into biology but the scientists and clinicians who'd get the most out of these models are unfortunately the ones running into walls like this one (and every day).\n\nSo we partnered with TIGEM (Telethon Institute of Genetics and Medicine), Naple \"Federico II\" University and Zhongguancun Academy to train Carbon-X.\n\nCarbon-X is an open 14B model that reads raw DNA and talks about it in plain English. On our DNA benchmarks it scores 67%, vs 61% for Claude Opus 5.5 and 50% for Gemini 4 Argon, and its within a point of GPT-6.1 Sol at about 1000x lower cost.\n\nWe kept human and animal viruses out of the training data. The weights are open and the model runs on hardware accessible to academia (a laptop).\n\nOne example from the blog: give frontier models an 8kb stretch of the NF1 gene with a mutation at a splice site. Most of them call it benign, refuse, or run out of tokens. Carbon-X says pathogenic, because the mutation breaks the splice site.\n\nThis century, biology may be where AI matters most. We want to get there with the safety work done in the open and every lab in the world able to build on it. Go try it, and tell us what you find.\n\nModel: https://t.co/ksptAoIJGW\n Blog: https://t.co/D53QdnFxyH"
+    },
+    {
+      "tweetId": "2113214040516268126",
+      "role": "support",
+      "authorHandle": "_lewtun",
+      "url": "https://x.com/_lewtun/status/2113214040516268126",
+      "tweetedAt": "2026-10-22T10:21:03.000Z",
+      "bestBit": "Mid-trained on 300B tokens of interleaved DNA and text, followed by SFT (without distillation!) and RL.",
+      "text": "Today we're releasing Carbon-X, a 14B model that brings DNA and natural language together for the first time 🧬\n\n1. Beats every open language model we tested across DNA benchmarks. Within a point of GPT-6.1 Sol at >1,000× lower inference cost.\n\n2. Mid-trained on 300B tokens of interleaved DNA and text, followed by SFT (without distillation!) and RL.\n\n3. A new hybrid tokenizer encodes DNA using ~3× fewer tokens than BPE.\n\n4. Gives other models a DNA specialist subagent: Kimi K3 gains 11.1 points when it consults Carbon-X.\n\n5. Runs locally on a laptop with llama.cpp. Apache 2.0. Your DNA stays on your hardware.\n\nModel: https://t.co/7wBE7WUVp1\nBlog: https://t.co/A3OjalTpIJ",
+      "quotedTweetText": "Introducing Carbon-X: The best open DNA model.\n\nWe midtrained a 14B model on DNA and text, and it beats every open language model and matches GPT-6.1 Sol at 1,000x lower cost.\n\nAsk it about a sequence, what a mutation does, or to generate new DNA.\n\nhttps://t.co/cpZCkEHHmn https://t.co/QFHlXEMF0O"
+    },
+    {
+      "tweetId": "2113699813531279824",
+      "role": "signal",
+      "authorHandle": "fffiloni",
+      "url": "https://x.com/fffiloni/status/2113699813531279824",
+      "tweetedAt": "2026-10-23T18:31:20.000Z",
+      "bestBit": "I baked a Carbon-X Playground 🧬\n\n5 experiments to explore DNA with Hugging Face Bio’s Carbon-X. Try curated samples or your own sequences, ask questions and compare answers.",
+      "text": "I baked a Carbon-X Playground 🧬\n\n5 experiments to explore DNA with Hugging Face Bio’s Carbon-X. Try curated samples or your own sequences, ask questions and compare answers.\n\nBuilt with @Gradio, running on ZeroGPU @huggingface Space 🤗\n\n—&gt; https://t.co/DuXOwi860i https://t.co/vuMfg6tFsZ",
+      "quotedTweetText": "Introducing Carbon-X: The best open DNA model.\n\nWe midtrained a 14B model on DNA and text, and it beats every open language model and matches GPT-6.1 Sol at 1,000x lower cost.\n\nAsk it about a sequence, what a mutation does, or to generate new DNA.\n\nhttps://t.co/cpZCkEHHmn https://t.co/QFHlXEMF0O"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "carbon-x-dna-model-matches-gpt-61-sol-at-1000x-lower-cost-ef5d7a62",
+    "title": "Carbon-X DNA Model Matches GPT-6.1 Sol at 1,000x Lower Cost",
+    "publishedAt": "2026-10-22T10:38:54.909Z",
+    "eventTimeApprox": "2026-10-22T10:13:05.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 44,
+    "authorCount": 21
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "elementl-power-secures-200m-south-korean-pledge-for-compact-nuclear-reac-c1418951",
+  "title": "Elementl Power Secures $200M South Korean Pledge for Compact Nuclear Reactors",
+  "publishedAt": "2026-10-26T17:39:29.594Z",
+  "eventTimeApprox": "2026-10-26T17:23:13.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "startups",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "vc",
+      "name": "VC"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "summary": "The nuclear energy startup is seeking a total of $750 million to deploy compact reactor technology as electricity requirements for artificial intelligence rise. To support this effort, a consortium led by DS Investment Partners has pledged as much as $200 million to develop up to three of Elementl Power's nuclear projects, according to people familiar with the matter.\n\nSamsung is also contributing capital to the fundraising push and is in talks to provide engineering support. Elementl is working to deploy a new type of nuclear technology designed to be smaller than conventional reactors, testing the appetite of private capital for the early stages of atomic power development.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114765293494968549",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2114765293494968549",
+      "tweetedAt": "2026-10-26T17:05:11.000Z",
+      "bestBit": "seeks to raise $750 million, amid skyrocketing demand for electricity to power AI",
+      "text": "Nuclear energy company Elementl is getting backing from a South Korean venture capital firm as it seeks to raise $750 million, amid skyrocketing demand for electricity to power AI https://t.co/RmnbH6K9Qm"
+    },
+    {
+      "tweetId": "2114769834600763399",
+      "role": "support",
+      "authorHandle": "chigrl",
+      "url": "https://x.com/chigrl/status/2114769834600763399",
+      "tweetedAt": "2026-10-26T17:23:13.000Z",
+      "bestBit": "A consortium led by DS Investment Partners pledged as much as $200 million to develop up to three of Elementl’s nuclear projects",
+      "text": "Nuclear Upstart Elementl Gets Korean Backing for $750 Million Push\n\nNuclear energy company Elementl Power is getting backing from a South Korean venture capital firm as it seeks to raise $750 million, amid skyrocketing demand for electricity to power AI.\n\nA consortium led by DS Investment Partners pledged as much as $200 million to develop up to three of Elementl’s nuclear projects, according to people familiar with the matter. Samsung C&T Corp., in talks to provide some engineering support, is committing money, too, in a fundraising push that will test private capital’s appetite for the first stages of developing atomic power sources.\n\nElementl is also working to deploy a new kind of nuclear technology designed to be more compact than conventional reactors. (Bloomberg)"
+    }
+  ],
+  "isSuperseded": false
+}

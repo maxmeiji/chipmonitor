@@ -1,0 +1,59 @@
+{
+  "slug": "hsbc-slashes-70percent-of-uk-wealth-advisers-to-expand-ai-use-12b9ce31",
+  "title": "HSBC Slashes 70% of UK Wealth Advisers to Expand AI Use",
+  "publishedAt": "2026-10-07T04:37:47.416Z",
+  "eventTimeApprox": "2026-10-07T04:09:48.500Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "HSBC",
+      "kind": "equity",
+      "role": "subject",
+      "name": "HSBC Holdings PLC",
+      "hubKey": "hsbc"
+    }
+  ],
+  "summary": "The bank is planning to eliminate half of all management and specialist positions within its UK wealth management business in a restructuring of its operations. Proposed layoffs also target nearly 70% of financial adviser roles, with some affected personnel facing the loss of almost entire teams. HSBC has entered a consultation period for these redundancies, which are described as \"deep, wide and brutal.\"\n\nThe cuts come as HSBC expands its use of artificial intelligence to automate advisory and specialist functions. The Financial Times first reported that the bank is shifting toward an AI-driven tool and ecosystem to handle wealth management tasks, which will reduce the need for human staff in its UK division.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107685916768645367",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2107685916768645367",
+      "tweetedAt": "2026-10-07T04:14:16.000Z",
+      "bestBit": "proposed cuts described as ‘deep, wide and brutal’, with almost entire teams at risk of redundancy",
+      "text": "FT Exclusive: The bank is in a ‘consultation period’ regarding proposed cuts described as ‘deep, wide and brutal’, with almost entire teams at risk of redundancy. https://t.co/HNBpOG6UAa https://t.co/B3IteHZUUy"
+    },
+    {
+      "tweetId": "2107683672854045069",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2107683672854045069",
+      "tweetedAt": "2026-10-07T04:05:21.000Z",
+      "bestBit": "Expected to Cut About Half of Management and Specialist Roles, Nearly 70% of Financial Adviser Positions",
+      "text": "HSBC Expected to Cut About Half of Management and Specialist Roles, Nearly 70% of Financial Adviser Positions - FT"
+    }
+  ],
+  "isSuperseded": false
+}

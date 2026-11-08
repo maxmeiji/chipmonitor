@@ -1,0 +1,119 @@
+{
+  "slug": "update-claude-debunks-25-year-nsa-backdoor-theory-on-nist-seeds-574a7ded",
+  "title": "UPDATE: Claude Debunks 25 Year NSA Backdoor Theory on NIST Seeds",
+  "publishedAt": "2026-10-16T20:54:25.915Z",
+  "eventTimeApprox": "2026-10-16T18:20:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 50,
+  "authorCount": 38,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111154520575340816/i0GjlJDOe3JTfzPI-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111154520575340816/i0GjlJDOe3JTfzPI-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2111154414111375360/vid/avc1/3840x2160/FcWsvCYOXtcEk7dx.mp4?tag=29",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2111154520575340816"
+    }
+  },
+  "summary": "The Claude AI model identified the specific origin of the NIST P-256 seed in less than 30 minutes, providing mathematical evidence that resolves 25 years of speculation that the NSA hid a backdoor in the curve seeds. The model found the seed was candidate #1842 from a random number generator that started at 01:52:34 UTC on August 16, 1997. In a separate development, independent researchers improved an elliptic curve quantum circuit design by Anthropic, reducing the gate count to 11.9M at 843 qubits compared to Claude's 21M gates.\n\nThese results build on a research collaboration between Anthropic and Harvard where Claude Mythos 5 outperformed established benchmarks on seven of eight quantum circuit design tasks. The model operated in a closed loop using the OpenEvolve tool to propose architectures and refine them based on an automated evaluator. This work included the first reversible implementation of the divsteps algorithm, which reduces the resources required for quantum applications in materials science and chemistry.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111152183240511640",
+      "role": "source",
+      "authorHandle": "anthropicai",
+      "url": "https://x.com/AnthropicAI/status/2111152183240511640",
+      "tweetedAt": "2026-10-16T17:47:58.000Z",
+      "bestBit": "Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more",
+      "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits reduce the resources needed by quantum algorithms, which could bring quantum computing applications in chemistry and materials science within reach sooner.\n\nRead more: https://t.co/QCvoJLDmBo"
+    },
+    {
+      "tweetId": "2111155948681363632",
+      "role": "source",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2111155948681363632",
+      "tweetedAt": "2026-10-16T18:02:56.000Z",
+      "bestBit": "Claude Mythos could bring quantum computing “within reach sooner” after designing circuits that make a critical operation ~17x cheaper",
+      "text": "Anthropic says Claude Mythos could bring quantum computing “within reach sooner” after designing circuits that make a critical operation ~17x cheaper. \n\nWhat makes this interesting is AI can now design, test and improve these circuits on its own so that opens the door to faster breakthroughs across quantum computing without waiting for better hardware."
+    },
+    {
+      "tweetId": "2111187631404888413",
+      "role": "commentary",
+      "authorHandle": "tftc21",
+      "url": "https://x.com/TFTC21/status/2111187631404888413",
+      "tweetedAt": "2026-10-16T20:08:49.000Z",
+      "bestBit": "the P-256 seed was candidate #1842 from a random number generator started at 01:52:34 UTC on August 16, 1997",
+      "text": "For 25 years people speculated the NSA hid a backdoor in the NIST curve seeds.\n\nTurns out the P-256 seed was candidate #1842 from a random number generator started at 01:52:34 UTC on August 16, 1997.\n\nClaude figured it out in under half an hour. The scariest thing AI has done to ECDSA so far is make it look less suspicious."
+    },
+    {
+      "tweetId": "2111194062048911747",
+      "role": "commentary",
+      "authorHandle": "ryaneshea",
+      "url": "https://x.com/ryaneshea/status/2111194062048911747",
+      "tweetedAt": "2026-10-16T20:34:23.000Z",
+      "bestBit": "anthropic gets 21M gates at 843 qubits... [anons] gets 11.9M gates at 843 qubit",
+      "text": "RT @sreeramkannan: anons beat anthropic by 2x\n\nanthropic gets 21M gates at 843 qubits\nhttps://t.co/ojAdtrh5o2 gets 11.9M gates at 843 qubit…"
+    },
+    {
+      "tweetId": "2111155277886316847",
+      "role": "analysis",
+      "authorHandle": "dair_ai",
+      "url": "https://x.com/dair_ai/status/2111155277886316847",
+      "tweetedAt": "2026-10-16T18:00:16.000Z",
+      "bestBit": "LLM-proposed quantum circuits beat the best-known designs on seven of eight tasks, with fewer Toffoli gates and fewer qubits",
+      "text": "Banger paper from Anthropic, Harvard, and colleagues.\n\nThey find that LLM-proposed quantum circuits beat the best-known designs on seven of eight tasks, with fewer Toffoli gates and fewer qubits.\n\nThey search over these circuit-generating programs with OpenEvolve, using Claude Mythos 5 to propose architectures and program rewrites.\n\nLLMs propose circuit designs, an independent evaluator verifies correctness and scores the cost, and the best designs seed the next round.\n\nThe tasks cover numerical computation, chemistry, optimization, quantum simulation, and number theory.\n\nOn the eighth task, the search found a new reversible architecture for prime-field modular inversion. It makes divsteps, a classical algorithm impractical for reversible arithmetic, usable and improves the Toffoli-qubit trade-off.\n\nThe evaluator verifies every circuit before scoring, so each reported gain is a checked circuit.\n\nhttps://t.co/8hHTwMfKHS\n\nChat with Paper: https://t.co/z5TxCnpauU"
+    },
+    {
+      "tweetId": "2111183521997865215",
+      "role": "commentary",
+      "authorHandle": "lukolejnik",
+      "url": "https://x.com/lukOlejnik/status/2111183521997865215",
+      "tweetedAt": "2026-10-16T19:52:30.000Z",
+      "bestBit": "\"is it suspicious that such an obvious thing wasn’t discovered in 25 years?\" -- said Claude, the AI agent",
+      "text": "\"is it suspicious that such an obvious thing wasn’t discovered in 25 years?\" -- said Claude, the AI agent. An awesome find, congrats on pursuing it! https://t.co/yOla1eTYE8",
+      "quotedTweetText": "CLAUDE FOUND THE SEEDS\nhttps://t.co/m8N6OPQoCQ"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "claude-mythos-5-beats-most-efficient-quantum-circuits-on-7-of-8-tasks-b2402eb8",
+    "title": "Claude Mythos 5 Beats Most Efficient Quantum Circuits on 7 of 8 Tasks",
+    "publishedAt": "2026-10-16T18:08:36.250Z",
+    "eventTimeApprox": "2026-10-16T17:57:15.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 19,
+    "authorCount": 16
+  }
+}

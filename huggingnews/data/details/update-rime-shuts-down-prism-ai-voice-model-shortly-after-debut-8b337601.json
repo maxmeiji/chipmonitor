@@ -1,0 +1,90 @@
+{
+  "slug": "update-rime-shuts-down-prism-ai-voice-model-shortly-after-debut-8b337601",
+  "title": "UPDATE: Rime Shuts Down Prism AI Voice Model Shortly After Debut",
+  "publishedAt": "2026-10-30T17:53:28.106Z",
+  "eventTimeApprox": "2026-10-28T22:29:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115543581155016900/13hj87jDmgrOo39S-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115543581155016900/13hj87jDmgrOo39S-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2115543447310331904/vid/avc1/1920x1080/LLJX_uKUcHoMlED8.mp4?tag=29",
+    "credit": {
+      "handle": "testingcatalog",
+      "tweetUrl": "https://x.com/testingcatalog/status/2115543581155016900"
+    }
+  },
+  "summary": "The AI voice tool developed by Rime is no longer available for use, ending its brief public launch period. The speech-to-speech model, known as Prism, was deactivated on Oct. 30 just two days after the startup debuted the technology to the public.\n\nRime had marketed Prism as a secure solution for the banking and regulatory sectors because the model creates a text transcript of its replies before speaking them, allowing users to monitor or block content mid-call. Backed by $35M in funding, the company claimed the tool's 300ms response time was four times faster than GPT-Live from OpenAI.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115521147890520503",
+      "role": "source",
+      "authorHandle": "lilyjclifford",
+      "url": "https://x.com/lilyjclifford/status/2115521147890520503",
+      "tweetedAt": "2026-10-28T19:08:40.000Z",
+      "bestBit": "prism has: > 300ms response time, 4x faster than OpenAI GPT-Live",
+      "text": "introducing prism, the world’s first speech-to-speech model you can’t tell from a human in conversation\n\nprism has:\n> 300ms response time, 4x faster than OpenAI GPT-Live\n> outperforms every other s2s model on intelligence (with NO reasoning)\n> the first s2s model customizable through reinforcement learning\n\nwe’re a team of 35 with $35M in funding, and we’re unlocking s2s model adoption faster than openai, google, and x.\n\nthe first 100 people to sign up here get 1 month free: https://t.co/KC3KUq18bl"
+    },
+    {
+      "tweetId": "2115543581155016900",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2115543581155016900",
+      "tweetedAt": "2026-10-28T20:37:49.000Z",
+      "bestBit": "Companies can edit the transcript and block anything the agent shouldn't say, while Prism keeps the call going",
+      "text": "Rime has launched Prism, its new speech-to-speech model for AI voice agents that writes each reply as text before saying it out loud.\n\nCompanies can edit the transcript and block anything the agent shouldn't say, while Prism keeps the call going and looks up an account or freezes a card mid-conversation.\n\nRime says no other speech-to-speech model works this way, which makes Prism a safer fit for banks and other regulated businesses.",
+      "quotedTweetText": "introducing prism, the world’s first speech-to-speech model you can’t tell from a human in conversation\n\nprism has:\n> 300ms response time, 4x faster than OpenAI GPT-Live\n> outperforms every other s2s model on intelligence (with NO reasoning)\n> the first s2s model customizable through reinforcement learning\n\nwe’re a team of 35 with $35M in funding, and we’re unlocking s2s model adoption faster than openai, google, and x.\n\nthe first 100 people to sign up here get 1 month free: https://t.co/KC3KUq18bl"
+    },
+    {
+      "tweetId": "2116202244651749740",
+      "role": "commentary",
+      "authorHandle": "xwang_lk",
+      "url": "https://x.com/xwang_lk/status/2116202244651749740",
+      "tweetedAt": "2026-10-30T16:15:06.000Z",
+      "bestBit": "Meanwhile, Prism is shut down",
+      "text": "People are saying OpenAI is killing this or that. \n\nMeanwhile, Prism is shut down, and @overleaf is still happily there. https://t.co/8UP7ZwWJ9I"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "rime-launches-prism-voice-ai-with-300ms-response-time-for-ai-agents-61efd199",
+    "title": "Rime Launches Prism Voice AI With 300ms Response Time for AI Agents",
+    "publishedAt": "2026-10-28T20:53:44.683Z",
+    "eventTimeApprox": "2026-10-28T19:59:50.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "startups"
+    ],
+    "tweetCount": 8,
+    "authorCount": 7
+  }
+}

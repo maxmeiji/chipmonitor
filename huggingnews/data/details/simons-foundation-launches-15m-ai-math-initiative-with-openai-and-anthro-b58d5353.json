@@ -1,0 +1,72 @@
+{
+  "slug": "simons-foundation-launches-15m-ai-math-initiative-with-openai-and-anthro-b58d5353",
+  "title": "Simons Foundation Launches $15M AI Math Initiative With OpenAI and Anthropic",
+  "publishedAt": "2026-10-15T14:53:30.168Z",
+  "eventTimeApprox": "2026-10-15T14:35:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "Computing resources and access to advanced artificial intelligence models are being made available to the mathematics community to facilitate deeper scientific discovery. The Simons Foundation is partnering with OpenAI and Anthropic to provide $15 million for workshops and initiatives, as well as free computing power for foundation-supported researchers. OpenAI is contributing $5 million of that funding and offering access to its models so mathematicians can examine results the company recently published.\n\nThe Simons Foundation will manage and award the grants for conferences and special programs. The collaboration aims to transform progress in AI into new discoveries by helping the math community understand and build on AI-produced results.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110740786169979088",
+      "role": "source",
+      "authorHandle": "simonsfdn",
+      "url": "https://x.com/SimonsFdn/status/2110740786169979088",
+      "tweetedAt": "2026-10-15T14:33:13.000Z",
+      "bestBit": "committing $15M to workshops and initiatives — plus free AI computing resources for foundation-supported researchers",
+      "text": "How can the math community forge the best path forward in the AI age? We're committing $15M to workshops and initiatives — plus free AI computing resources for foundation-supported researchers — through new partnerships with @AnthropicAI and @OpenAI: https://t.co/G8slrHoiad\n\n#math #science #AI"
+    },
+    {
+      "tweetId": "2110741355739963884",
+      "role": "source",
+      "authorHandle": "openai",
+      "url": "https://x.com/OpenAI/status/2110741355739963884",
+      "tweetedAt": "2026-10-15T14:35:29.000Z",
+      "bestBit": "contributing $5 million to a new Simons Foundation initiative to help mathematicians examine, understand, and build on results produced by AI",
+      "text": "We want to support the mathematics community in turning progress in AI into deeper human understanding and new discoveries. To support that goal, we are contributing $5 million to a new Simons Foundation initiative to help mathematicians examine, understand, and build on results produced by AI, including the results we recently published.\n\nThe funding, managed and awarded by the @SimonsFdn will support workshops, conferences, and special programs. We will also provide access to our models and computing resources to Simons Foundation-supported researchers.",
+      "quotedTweetText": "How can the math community forge the best path forward in the AI age? We're committing $15M to workshops and initiatives — plus free AI computing resources for foundation-supported researchers — through new partnerships with @AnthropicAI and @OpenAI: https://t.co/G8slrHoiad\n\n#math #science #AI"
+    },
+    {
+      "tweetId": "2110742724814983351",
+      "role": "commentary",
+      "authorHandle": "emollick",
+      "url": "https://x.com/emollick/status/2110742724814983351",
+      "tweetedAt": "2026-10-15T14:40:55.000Z",
+      "bestBit": "What will they call the foundations for physics, economics, biology…?",
+      "text": "What will they call the foundations for physics, economics, biology…?\n\n(Mostly joking, for now)",
+      "quotedTweetText": "We want to support the mathematics community in turning progress in AI into deeper human understanding and new discoveries. To support that goal, we are contributing $5 million to a new Simons Foundation initiative to help mathematicians examine, understand, and build on results produced by AI, including the results we recently published.\n\nThe funding, managed and awarded by the @SimonsFdn will support workshops, conferences, and special programs. We will also provide access to our models and computing resources to Simons Foundation-supported researchers."
+    }
+  ],
+  "isSuperseded": false
+}

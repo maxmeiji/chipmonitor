@@ -1,0 +1,67 @@
+{
+  "slug": "cursor-now-deploys-live-applications-built-by-ai-agents-6e0cc68c",
+  "title": "Cursor Now Deploys Live Applications Built by AI Agents",
+  "publishedAt": "2026-11-05T22:07:28.323Z",
+  "eventTimeApprox": "2026-11-05T21:45:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:CRSR",
+      "kind": "private",
+      "role": "subject",
+      "name": "Cursor",
+      "hubKey": "cursor"
+    },
+    {
+      "ticker": "PVT:VRCL",
+      "kind": "private",
+      "role": "related",
+      "name": "Vercel",
+      "hubKey": "vercel"
+    }
+  ],
+  "summary": "The AI code editor has launched a capability that allows users to generate and host live applications directly through its interface using natural language descriptions. The new tool uses agents to write the code, configure databases, and conduct security checks before deploying the finished application to a shareable link.\n\nThe update aims to reduce the number of AI-generated projects that remain in local development environments. The feature integrates with Vercel to enable applications built with Cursor and the Grok AI model to be hosted and scaled on the web.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118458629091426304",
+      "role": "source",
+      "authorHandle": "cursor_ai",
+      "url": "https://x.com/cursor_ai/status/2118458629091426304",
+      "tweetedAt": "2026-11-05T21:41:10.000Z",
+      "bestBit": "Describe the tool you want - Cursor will build it, set up a database, run deterministic and agentic security checks, and deploy.",
+      "text": "You can now build live apps in Cursor and share them with a link.\n\nAgents have made it easier to write code, but most apps never make it off localhost. Describe the tool you want - Cursor will build it, set up a database, run deterministic and agentic security checks, and deploy. https://t.co/v09VJrLwHw"
+    },
+    {
+      "tweetId": "2118464177211940997",
+      "role": "support",
+      "authorHandle": "rauchg",
+      "url": "https://x.com/rauchg/status/2118464177211940997",
+      "tweetedAt": "2026-11-05T22:03:13.000Z",
+      "bestBit": "Grok and Cursor can now build, deploy, and scale",
+      "text": "SpaceXSI 🤝 Vercel\nGrok and Cursor can now build, deploy, and scale\nhttps://t.co/DSlgyVqzWA",
+      "quotedTweetText": "You can now build live apps in Cursor and share them with a link.\n\nAgents have made it easier to write code, but most apps never make it off localhost. Describe the tool you want - Cursor will build it, set up a database, run deterministic and agentic security checks, and deploy. https://t.co/v09VJrLwHw"
+    }
+  ],
+  "isSuperseded": false
+}

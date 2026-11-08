@@ -1,0 +1,142 @@
+{
+  "slug": "elice-shares-top-ipo-price-after-worst-major-korea-debut-563398d6",
+  "title": "Elice Shares Top IPO Price After Worst Major Korea Debut",
+  "publishedAt": "2026-10-22T04:54:54.451Z",
+  "eventTimeApprox": "2026-10-20T13:16:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 50,
+  "authorCount": 26,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "south-korea",
+      "name": "South Korea"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112763316565393686/HVILCjgbkAAKeGV-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112763316565393686/HVILCjgbkAAKeGV-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "melvininvests",
+      "tweetUrl": "https://x.com/MelvinInvests/status/2112763316565393686"
+    }
+  },
+  "summary": "The AI infrastructure company has regained its footing in Seoul, climbing for two consecutive sessions since a sharp selloff on Oct. 20. Shares of neocloud provider Elice now trade above their initial public offering price, reversing a brutal trading debut on the Kosdaq market where the stock plummeted 32%. Market participants previously described the slide as the worst opening-day performance for a major IPO in South Korean history.\n\nElice raised $151 million at a $750 million valuation in an offering that was oversubscribed by 400 times. While the initial crash weighed on the KOSPI index and sparked volatility in other global data center stocks, strong earnings from US tech firms have since lifted sentiment. The company is on track to at least double its revenue this year, CEO Jaewon stated, as the firm expands its GPU cloud rental and operations services.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113125733866361045",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2113125733866361045",
+      "tweetedAt": "2026-10-22T04:30:09.000Z",
+      "bestBit": "shares rose for a second straight day, climbing above their IPO price",
+      "text": "South Korean neocloud-service provider Elice’s shares rose for a second straight day, climbing above their IPO price and suggesting investors remain committed to the AI trade despite surging industry spending https://t.co/VGFB5Z8cwJ"
+    },
+    {
+      "tweetId": "2112748266173485509",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2112748266173485509",
+      "tweetedAt": "2026-10-21T03:30:14.000Z",
+      "bestBit": "on track to at least double revenue this year",
+      "text": "South Korea’s Elice is on track to at least double revenue this year, its CEO said as the AI infrastructure company’s shares rebounded from a brutal trading debut https://t.co/2DE3B3aL1O"
+    },
+    {
+      "tweetId": "2112340078731415792",
+      "role": "commentary",
+      "authorHandle": "negligible_cap",
+      "url": "https://x.com/negligible_cap/status/2112340078731415792",
+      "tweetedAt": "2026-10-20T00:28:14.000Z",
+      "bestBit": "DATA CENTER FIRM ELICE PLUNGES AS MUCH AS 32% IN KOREA DEBUT",
+      "text": "*DATA CENTER FIRM ELICE PLUNGES AS MUCH AS 32% IN KOREA DEBUT\n\nReally hot IPO market for neoclouds. Nscale’s up next! https://t.co/WZqilaOHnt"
+    },
+    {
+      "tweetId": "2113040836623774174",
+      "role": "commentary",
+      "authorHandle": "zephyr_z9",
+      "url": "https://x.com/zephyr_z9/status/2113040836623774174",
+      "tweetedAt": "2026-10-21T22:52:48.000Z",
+      "bestBit": "Really hot IPO market for neoclouds",
+      "text": "Well... https://t.co/SCKfAR8Qxk",
+      "quotedTweetText": "*DATA CENTER FIRM ELICE PLUNGES AS MUCH AS 32% IN KOREA DEBUT\n\nReally hot IPO market for neoclouds. Nscale’s up next! https://t.co/WZqilaOHnt"
+    },
+    {
+      "tweetId": "2112530846402126308",
+      "role": "commentary",
+      "authorHandle": "thestalwart",
+      "url": "https://x.com/TheStalwart/status/2112530846402126308",
+      "tweetedAt": "2026-10-20T13:06:17.000Z",
+      "bestBit": "There's a bunch of neoclouds out there now that nobody's ever heard of",
+      "text": "There's a bunch of neoclouds out there now that nobody's ever heard of.  https://t.co/8JPBpfWVqN https://t.co/RcFuRvUXFp",
+      "quotedTweetText": "A neocloud called Elice IPOd last night in South Korea and immediately plunged over 30% https://t.co/PsaYR59r89"
+    },
+    {
+      "tweetId": "2112612807116288231",
+      "role": "commentary",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2112612807116288231",
+      "tweetedAt": "2026-10-20T18:31:58.000Z",
+      "bestBit": "There's a $500 million market-cap Korean neocloud no one has ever heard of",
+      "text": "Nvidia: We're guiding to 70% revenue growth next year. There's incredible AI demand for 100% growth, but we can't supply it.\n\nGoogle: Everyone wishes they had DOUBLE the compute capacity right now. There's so much AI demand.\n\nBloomberg/FT: There's a $500 million market-cap Korean neocloud no one has ever heard of and it traded poorly on its IPO first day. AI IS DEAD. EVERYONE FREAK OUT AND PANIC!"
+    },
+    {
+      "tweetId": "2112551547968368979",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2112551547968368979",
+      "tweetedAt": "2026-10-20T14:28:33.000Z",
+      "bestBit": "$CRWV just ripped nearly 10% in the last 45 minutes",
+      "text": "Holy moly $CRWV just ripped nearly 10% in the last 45 minutes  👀 https://t.co/iYh8JIUUzf",
+      "quotedTweetText": "Who knew a South Korean neocloud valued under $1B could cause this much chaos after Elice plunged 30% on its IPO debut 😳\n\nThe neocloud massacre continues:\n• $IREN -7%\n• $CIFR -7%\n• $WYFI -6%\n• $CRWV -5%\n• $NBIS -5% https://t.co/6XkwHH2z5y"
+    },
+    {
+      "tweetId": "2112763316565393686",
+      "role": "commentary",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2112763316565393686",
+      "tweetedAt": "2026-10-21T04:30:02.000Z",
+      "bestBit": "closing at 61,600 won against an IPO price of 90,500 won",
+      "text": "According to Korean media, Elice Group just hit the daily LIMIT UP on its second day of trading.\n\nThe Korean AI cloud company fell 31.93% on its KOSDAQ debut yesterday, closing at 61,600 won against an IPO price of 90,500 won.\n\nBut this morning it jumped 29.92% to 79,900 won, but it is still trading below where it priced.\n\nBloomberg and Reuters treated the first day crash as a sign that investors are losing faith in neoclouds, and CNBC said the selloff spilled into data center stocks in the United States like $CRWV and $NBIS.\n\nThe IPO raised only about $150 million, but the market treated it as a referendum on the entire AI infrastructure trade.\n\nOne day later, buyers stepped right back in and sentiment on AI infrastructure is swinging HARD but the demand for compute has not changed.",
+      "quotedTweetText": "$SPY rose about 0.2% today to around $768, bouncing from an early low of $764.25 as the Dow led and tech lagged.\n\nHere are the top stories you need to know.\n\n1. South Korean neocloud Elice plunged 32% in its trading debut, dragging the KOSPI down about 4% and reviving fears of AI compute overcapacity.\n\n2. Chip stocks shook off that early selloff and turned green, with $AMD, $TSM, $MRVL and $MU all trading higher while $NVDA finished near flat.\n\n3. $CRWV jumped about 4% as it tried to bounce from last week's debt driven selloff, one day after Goldman Sachs upgraded it to Buy.\n\n4. The Dow jumped about 500 points as Brent crude slipped below $110 on reports of progress in United States and Iran diplomacy.\n\n5. Investors rotated out of tech and into healthcare and value stocks, with $LLY up almost 4% and the Russell 2000 up about 1.7%.\n\n6. $META fell more than 2% and $GOOGL fell more than 1% ahead of big tech earnings, with $META and $TSLA reporting tomorrow after the close.\n\n7. Reuters reports OpenAI is racing to raise about $30 billion at a valuation above $1.4 trillion before Anthropic's expected IPO in mid November.\n\n8. $MMM rose about 6% after expanding its data center partnership with $AMZN and giving Amazon warrants to buy more than $521 million of its stock.\n\n9. The United States 10 year Treasury yield fell to about 5.10% after weak housing data, and the odds of a Fed rate hike next week dropped to about 15%.\n\n10. $SPCX and $NFLX report earnings after the close today, with investors watching SpaceX for clues on its AI spending plans."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "elice-hits-limit-up-after-worst-korean-ipo-debut-in-history-8e708057",
+    "title": "Elice Hits Limit Up After Worst Korean IPO Debut in History",
+    "publishedAt": "2026-10-21T01:09:07.989Z",
+    "eventTimeApprox": "2026-10-20T12:30:41.000Z",
+    "routingTopicKeys": [
+      "global-markets",
+      "tech",
+      "startups",
+      "ai"
+    ],
+    "tweetCount": 45,
+    "authorCount": 23
+  }
+}

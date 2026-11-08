@@ -1,0 +1,154 @@
+{
+  "slug": "update-vllm-matches-deepseeks-newly-open-sourced-deepinfer-engine-within-56fc103c",
+  "title": "UPDATE: vLLM Matches DeepSeek's Newly Open-Sourced DeepInfer Engine Within 6%, Reaching $39 per GPU Hour",
+  "publishedAt": "2026-10-21T00:52:13.701Z",
+  "eventTimeApprox": "2026-10-20T14:16:24.500Z",
+  "isFreshStory": false,
+  "tweetCount": 133,
+  "authorCount": 83,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112703311933747347/HVHSmVGbAAA8RBY-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112703311933747347/HVHSmVGbAAA8RBY-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "vllm_project",
+      "tweetUrl": "https://x.com/vllm_project/status/2112703311933747347"
+    }
+  },
+  "summary": "The open-source inference engine vLLM published benchmark configurations showing it can match DeepSeek's newly open-sourced DeepInfer framework within 6% on decode throughput and generate up to $38.96 per GPU hour in revenue at DeepSeek's off-peak API pricing. Using Wide-EP and EPLB under DeepSeek's decode setup for the 552B parameter DeepSeek-V4.1-Flash model at a 131K context window, vLLM achieved throughput within 6% of DeepInfer on Nvidia GB200 chips across batch sizes from 8 to 256, while reaching up to 1 million tokens per second per GPU on GB300 hardware on the AgentX workload and up to 826 tokens per second per user with extended low-latency kernels.\n\nThe benchmarks followed DeepSeek's disclosure in a Zhihu technical report that a single production cluster running DeepInfer processes 155 trillion tokens per day and generates $38 in revenue per GPU hour at off-peak rates, where the company charges $0.30 per million input tokens and $1.20 per million output tokens for V4.1 Flash. Against estimated GPU rental costs of $5 to $10 per hour, the $38 hourly figure implies an operating gross margin of roughly 80%. AI researcher Tim Dettmers wrote that DeepSeek's inference system \"is on par with OpenAIs stack and better what Anthropic is running (at least for their user size).\"\n\nDeepSeek released DeepInfer, which was initially built on vLLM, alongside its deepseek-recipe tokenization library under an Apache 2.0 license with support for Nvidia SM100 (Blackwell) GPUs and Huawei Ascend 950 chips. The open-source release includes the DSpark speculative decoding engine and SWA Bounded Replay, which cuts prefill computation nearly in half, though it omits the persistent KV cache management and load balancing components tied to DeepSeek's internal 100 PiB 3FS storage cluster.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112703321526133048",
+      "role": "source",
+      "authorHandle": "vllm_project",
+      "url": "https://x.com/vllm_project/status/2112703321526133048",
+      "tweetedAt": "2026-10-21T00:31:38.000Z",
+      "bestBit": "You can find detailed vLLM numbers and recipes for reproduction",
+      "text": "Thanks @deepseek_ai for releasing DeepInfer. Together with the community, we'll keep pushing the frontier of performance and cost. You can find detailed vLLM numbers and recipes for reproduction: https://t.co/XzexWKy9HX"
+    },
+    {
+      "tweetId": "2112704325520924999",
+      "role": "source",
+      "authorHandle": "woosuk_k",
+      "url": "https://x.com/woosuk_k/status/2112704325520924999",
+      "tweetedAt": "2026-10-21T00:35:38.000Z",
+      "bestBit": "With Wide-EP and EPLB, vLLM can match DeepInfer’s decode performance within 6% and generate $39/gpu/hr in revenue at DeepSeek’s off-peak pricing",
+      "text": "vLLM is all you need to reproduce DeepSeek's performance.",
+      "quotedTweetText": "🚨🚨🚨 vLLM is all you need to reproduce DeepSeek’s performance.\n\nWith Wide-EP and EPLB, vLLM can match DeepInfer’s decode performance within 6% and generate $39/gpu/hr in revenue at DeepSeek’s off-peak pricing, at 200 P90 TPS on the AgentX workload.\n\nSpecifically:\n• Under DeepSeek’s decode configuration (DeepSeek-V4.1-Flash, 131K context, nextn=3), vLLM on GB200 achieves throughput within 6% of DeepInfer’s published results across batch sizes 8–256.\n• On AgentX, vLLM pushes the Pareto frontier further on GB300, reaching up to 1M tokens/s/GPU and generating $38.96/gpu/hr in revenue at 196 P90 TPS, based on DeepSeek’s off-peak API pricing.\n• Also, vLLM extended low-latency kernel support for DeepSeek-V4.1-Flash, achieving up to 826 TPS per user on AgentX."
+    },
+    {
+      "tweetId": "2112476496283775135",
+      "role": "source",
+      "authorHandle": "deepseek_ai",
+      "url": "https://x.com/deepseek_ai/status/2112476496283775135",
+      "tweetedAt": "2026-10-20T09:30:19.000Z",
+      "bestBit": "Introducing DeepInfer, our in-house inference framework, now fully open source!",
+      "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗 https://t.co/JGAik1kgk0\n\n1/4"
+    },
+    {
+      "tweetId": "2112486997474329055",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2112486997474329055",
+      "tweetedAt": "2026-10-20T10:12:02.000Z",
+      "bestBit": "One must imagine Dario gnashing his teeth.",
+      "text": "One must imagine Dario gnashing his teeth. https://t.co/dgwCgLz7T4",
+      "quotedTweetText": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗 https://t.co/JGAik1kgk0\n\n1/4"
+    },
+    {
+      "tweetId": "2112592787338408445",
+      "role": "commentary",
+      "authorHandle": "tim_dettmers",
+      "url": "https://x.com/Tim_Dettmers/status/2112592787338408445",
+      "tweetedAt": "2026-10-20T17:12:25.000Z",
+      "bestBit": "DeepSeeks inference system is on par with OpenAIs stack and better what Anthropic is running (at least for their user size).",
+      "text": "This is a very big deal. DeepSeeks inference system is on par with OpenAIs stack and better what Anthropic is running (at least for their user size).",
+      "quotedTweetText": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗 https://t.co/JGAik1kgk0\n\n1/4"
+    },
+    {
+      "tweetId": "2112587397380943953",
+      "role": "commentary",
+      "authorHandle": "swyx",
+      "url": "https://x.com/swyx/status/2112587397380943953",
+      "tweetedAt": "2026-10-20T16:51:00.000Z",
+      "bestBit": "Currently, the service throughput of a single cluster is 155 trillion tokens/day, and the overall revenue is $38 per card per hour (based on off-peak prices).",
+      "text": "deepseek posted way more alpha on their zhihu page, if you only read twitter you are reading the laowai approved stuff\n\n\"Based on this framework, we have implemented a high-throughput, low-latency large-scale inference service for DeepSeek V4.1 Flash. Currently, the service throughput of a single cluster is 155 trillion tokens/day, and the overall revenue is $38 per card per hour (based on off-peak prices).\"\n\nit costs roughtly $5-10 per gpu hour so depseek is claiming 80% serving margin at THEIR prices lololololol",
+      "quotedTweetText": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗 https://t.co/JGAik1kgk0\n\n1/4"
+    },
+    {
+      "tweetId": "2112570318686683281",
+      "role": "commentary",
+      "authorHandle": "zephyr_z9",
+      "url": "https://x.com/zephyr_z9/status/2112570318686683281",
+      "tweetedAt": "2026-10-20T15:43:08.000Z",
+      "bestBit": "Every 2nd/3rd tier inference provider now has a model and a recipe that can generate 90%+ margins on their compute",
+      "text": "IMO, today was another DeepSeek moment\nEvery 2nd/3rd tier inference provider now has a model and a recipe that can generate 90%+ margins on their compute\nDeepSeek is also promising future model support and optimizations\nThis creates a huge incentive for inference providers to serve, as well as push their customers to use more DeepSeek models and utilize the DeepInfer inference framework\nDeepSeek gets proliferation and entrenchment, while the inference providers get to make 90% margins",
+      "quotedTweetText": "Glue eating inference providers suddenly have a 90%+ gross margin inference serving biz now"
+    },
+    {
+      "tweetId": "2112517682646155349",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112517682646155349",
+      "tweetedAt": "2026-10-20T12:13:58.000Z",
+      "bestBit": "The release runs only DeepSeek-V4.1-Flash, on NVIDIA SM100 GPUs or Huawei Ascend 950 chips, and covers offline inference rather than a complete serving stack.",
+      "text": "DeepSeek just open-sourced DeepInfer, the inference engine behind its production services, under the Apache 2.0 license.\n\nand it got 6.3K+ stars in 8 hours\n\nThe release runs only DeepSeek-V4.1-Flash, on NVIDIA SM100 GPUs or Huawei Ascend 950 chips, and covers offline inference rather than a complete serving stack. \n\nIt omits the parts that turn an engine into a service: a KV cache system, prefill and decode disaggregation, and load balancing across replicas. \n\nWhat ships is the speed layer, including DSpark, which drafts up to 5 tokens ahead and uses confidence estimates to schedule their verification. \n\nBounded replay trims prefill by recomputing only a 140-token suffix sized to cover the sliding attention window. \n\nA companion library, deepseek-recipe, will turn Chat Completions, Responses and Messages requests into DeepSeek V4 and V4.1 prompts that match the official API’s behaviour."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "deepseek-open-sources-production-engine-powering-v41-flash-2c7f98f7",
+    "title": "DeepSeek Open-Sources Production Engine Powering V4.1 Flash",
+    "publishedAt": "2026-10-20T09:54:19.785Z",
+    "eventTimeApprox": "2026-10-20T09:33:54.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 89,
+    "authorCount": 65
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "google-ends-local-nda-requirements-for-data-center-construction-65a99590",
+  "title": "Google Ends Local NDA Requirements for Data Center Construction",
+  "publishedAt": "2026-10-21T21:53:31.795Z",
+  "eventTimeApprox": "2026-10-21T21:02:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "tech",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Municipal leaders will no longer be required to sign confidentiality contracts before discussing the build-out of new facilities with Google. The company has removed the requirement for local officials to enter into nondisclosure agreements during the planning of its data centers, a policy shift first reported by The Information.\n\nThe move aligns Google with Microsoft and Amazon, both of which previously abandoned the use of secrecy deals for similar infrastructure projects. Transparency advocates have frequently criticized these agreements, arguing they prevent the public from seeing the full terms, tax incentives, and costs of data center developments.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113012957068308514",
+      "role": "source",
+      "authorHandle": "ryanbarwick",
+      "url": "https://x.com/Ryanbarwick/status/2113012957068308514",
+      "tweetedAt": "2026-10-21T21:02:01.000Z",
+      "bestBit": "Decision follows Microsoft and Amazon in stopping the practice activists say isn’t transparent.",
+      "text": "Google will no longer require local officials to sign NDAs when it wants to build data centers. \n\nDecision follows Microsoft and Amazon in stopping the practice activists say isn’t transparent. \n\nhttps://t.co/WAPWQLgqMv"
+    },
+    {
+      "tweetId": "2113010329806606830",
+      "role": "support",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2113010329806606830",
+      "tweetedAt": "2026-10-21T20:51:35.000Z",
+      "bestBit": "Google stops using nondisclosure agreements for data centers - The Information.",
+      "text": "Google stops using nondisclosure agreements for data centers - The Information. $GOOGL"
+    }
+  ],
+  "isSuperseded": false
+}

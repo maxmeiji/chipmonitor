@@ -1,0 +1,51 @@
+{
+  "slug": "baaja-law-to-shift-50b-in-power-grid-transmission-costs-to-data-centers-9b7fa413",
+  "title": "BAAJA Law to Shift $50B in Power Grid Transmission Costs to Data Centers",
+  "publishedAt": "2026-11-02T15:54:32.089Z",
+  "eventTimeApprox": "2026-11-02T12:56:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "us-politics",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-domestic-policy",
+      "name": "US Domestic Policy"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "A report on power grid infrastructure released Nov. 2 calculates the impact of shifting electricity expansion expenses away from residential consumers. The analysis finds that ratepayer protection provisions in the BAAJA will require data centers to pay more than $50 billion for transmission services over the next 10 years.\n\nThe cost to the data center industry could increase by an additional $100 billion or more if state governments adopt guidelines that require these facilities to fund power generation costs as well.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117220793516179728",
+      "role": "source",
+      "authorHandle": "janeaflegal",
+      "url": "https://x.com/JaneAFlegal/status/2117220793516179728",
+      "tweetedAt": "2026-11-02T11:42:27.000Z",
+      "bestBit": "data centers pay over $50 billion/10 years just for transmission & $100 billion+ more if states follow the guidance to pay for generation!",
+      "text": "Grid experts with a report today that finds that the ratepayer protection provisions in BAAJA mean data centers pay over $50 billion/10 years just for transmission &amp; $100 billion+ more if states follow the guidance to pay for generation! Make them pay! \n\nhttps://t.co/ofxswxfQNy"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "claudes-ai-writes-90percent-of-claude-code-and-more-than-doubles-prs-3844ff52",
+  "title": "Claude's AI Writes 90% of Claude Code and More Than Doubles PRs",
+  "publishedAt": "2026-10-16T19:40:05.016Z",
+  "eventTimeApprox": "2026-10-16T19:15:04.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "PVT:MNSH",
+      "kind": "private",
+      "role": "related",
+      "name": "Moonshot AI",
+      "hubKey": "moonshot-ai"
+    }
+  ],
+  "summary": "The software powering a new AI-driven programming assistant is now predominantly written by machine learning models. Claude currently generates about 90% of the source code for the Claude Code tool, with the remaining 10% produced by the Kimi K3 model, according to developers of the project.\n\nThis shift in development has accelerated production velocity between June and September, during which the number of merged pull requests more than doubled. During the same period, the share of reverted PRs fell by more than 40%. The team attributed these gains to changes in their code review process and released a guide to help other developers adopt similar AI-integrated workflows.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111168901723906176",
+      "role": "source",
+      "authorHandle": "claudedevs",
+      "url": "https://x.com/ClaudeDevs/status/2111168901723906176",
+      "tweetedAt": "2026-10-16T18:54:24.000Z",
+      "bestBit": "merged PRs more than doubled while the share reverted fell by more than 40%",
+      "text": "Claude writes about 90% of Claude Code's code.\n\nFrom June to September, merged PRs more than doubled while the share reverted fell by more than 40%.\n\nWe wrote about how we changed code review to get there, and how to adopt it:\n\nhttps://t.co/9sZe64g3mb"
+    },
+    {
+      "tweetId": "2111171849518481733",
+      "role": "commentary",
+      "authorHandle": "petergostev",
+      "url": "https://x.com/petergostev/status/2111171849518481733",
+      "tweetedAt": "2026-10-16T19:06:07.000Z",
+      "bestBit": "The other 10% is Kimi K3",
+      "text": "The other 10% is Kimi K3",
+      "quotedTweetText": "Claude writes about 90% of Claude Code's code.\n\nFrom June to September, merged PRs more than doubled while the share reverted fell by more than 40%.\n\nWe wrote about how we changed code review to get there, and how to adopt it:\n\nhttps://t.co/9sZe64g3mb"
+    }
+  ],
+  "isSuperseded": false
+}

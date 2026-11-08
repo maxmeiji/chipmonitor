@@ -1,0 +1,69 @@
+{
+  "slug": "nadella-urges-companies-to-treat-frontier-ai-as-insider-threats-2451a872",
+  "title": "Nadella Urges Companies to Treat Frontier AI as Insider Threats",
+  "publishedAt": "2026-10-10T18:53:37.223Z",
+  "eventTimeApprox": "2026-10-10T16:22:35.000Z",
+  "isFreshStory": false,
+  "tweetCount": 21,
+  "authorCount": 20,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "Human-controlled 'emergency brakes' are required to shut down agentic artificial intelligence models mid-task, Microsoft CEO Satya Nadella said. He urged organizations to assume frontier models are compromised from the start and treat them as insider threats, even when they are not malicious. This framework requires security permissions to be enforced outside the model, supported by independent audits and tamper-proof logs of all meaningful actions.\n\nNadella stated that users cannot outsource the responsibility for an AI's actions to the model provider. He called for system architectures where no single model controls both its output and the evidence used to verify that output. The most trustworthy super intelligence systems are those that enable humans to trust the underlying model the least, Nadella said.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108931348857827686",
+      "role": "source",
+      "authorHandle": "satyanadella",
+      "url": "https://x.com/satyanadella/status/2108931348857827686",
+      "tweetedAt": "2026-10-10T14:43:10.000Z",
+      "bestBit": "https://t.co/MjwFy73LOF",
+      "text": "https://t.co/MjwFy73LOF"
+    },
+    {
+      "tweetId": "2108992256082424229",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2108992256082424229",
+      "tweetedAt": "2026-10-10T18:45:11.000Z",
+      "bestBit": "create an “emergency brake” system to prevent agentic models from going rogue",
+      "text": "Microsoft CEO Satya Nadella said companies should treat powerful AI models as potential insider threats, assume they could be compromised and create an “emergency brake” system to prevent agentic models from going rogue https://t.co/Qftva5ZhaF"
+    },
+    {
+      "tweetId": "2108951026602778990",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2108951026602778990",
+      "tweetedAt": "2026-10-10T16:01:21.000Z",
+      "bestBit": "The most trustworthy Super Intelligence system will not be the one with the model we trust most. It will be the one that enables us to trust the model the least.",
+      "text": "HOLY. Microsoft CEO Satya Nadella says we should assume frontier AI models are COMPROMISED from the start and treat them as INSIDER RISKS, even when they aren't malicious.\n\nHe wants permissions enforced OUTSIDE the model, tamper-proof logs of every meaningful action, independent audits, and an emergency brake that lets humans shut down an agent MID-TASK.\n\nHe calls chain-of-thought transparency \"non-negotiable\" but warns even that isn't dependable enough. No model should be responsible for verifying its own work.\n\nHis concluding line is striking:\n\n\"The most trustworthy Super Intelligence system will not be the one with the model we trust most. It will be the one that enables us to trust the model the least.\"",
+      "quotedTweetText": "https://t.co/MjwFy73LOF"
+    }
+  ],
+  "isSuperseded": false
+}

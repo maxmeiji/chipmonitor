@@ -1,0 +1,120 @@
+{
+  "slug": "update-ai-bots-originally-used-against-iran-now-support-benjamin-netanya-223ba48e",
+  "title": "UPDATE: AI Bots Originally Used Against Iran Now Support Benjamin Netanyahu on X",
+  "publishedAt": "2026-10-27T16:10:25.498Z",
+  "eventTimeApprox": "2026-10-17T18:25:16.500Z",
+  "isFreshStory": false,
+  "tweetCount": 30,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "geopolitics",
+    "cybersecurity",
+    "ai"
+  ],
+  "primaryRoutingTopic": "geopolitics",
+  "topicTags": [
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "israel",
+      "name": "Israel"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    }
+  ],
+  "summary": "The use of generative AI and deepfake videos became a central feature of the Oct 27 Knesset elections as both sides of Israel's political divide flooded the social media platform X to reach voters. Reports from Israeli media indicate that bot networks now used to disseminate pro-Benjamin Netanyahu messages were originally created to target the government of Iran, signaling a shift in how the prime minister's campaign is deploying digital influence tools.\n\nThe reports on the election's online activity follow a series of crackdowns by the Shin Bet and Israeli national police, who removed accounts linked to foreign influence campaigns in the run-up to the vote. Netanyahu has repeatedly warned that Mossad and military intelligence detected Iranian plots to undermine the election's integrity through cyberattacks and security incidents, while some security sources warned Tehran might attempt to influence the outcome by driving up global oil prices.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115107635779514645",
+      "role": "source",
+      "authorHandle": "ajenglish",
+      "url": "https://x.com/AJEnglish/status/2115107635779514645",
+      "tweetedAt": "2026-10-27T15:45:31.000Z",
+      "bestBit": "Bots built to target Iran’s government are now pushing pro-Netanyahu messaging, Israeli media reports.",
+      "text": "Bots built to target Iran’s government are now pushing pro-Netanyahu messaging, Israeli media reports. Both camps are flooding X with AI and deepfake videos.\n\nIsrael’s election has gone to war online 👇\n\n🔗: https://t.co/mRSZyIUBVM https://t.co/maAkigmbHQ"
+    },
+    {
+      "tweetId": "2113145404082536458",
+      "role": "support",
+      "authorHandle": "manniefabian",
+      "url": "https://x.com/manniefabian/status/2113145404082536458",
+      "tweetedAt": "2026-10-22T05:48:19.000Z",
+      "bestBit": "Numerous social media profiles used as part of a \"foreign influence campaign\" were removed from the internet ahead of the election, the Shin Bet security agency says.",
+      "text": "Numerous social media profiles used as part of a \"foreign influence campaign\" were removed from the internet ahead of the election, the Shin Bet security agency says.\n\nThe Shin Bet says it worked with the Cyber Department in the State Attorney's Office and the Central Elections Committee to identify the profiles.\n\n\"As part of the joint effort to safeguard the integrity of the elections and thwart attempts at improper foreign influence, these accounts were removed from the internet,\" the security agency says."
+    },
+    {
+      "tweetId": "2114401603935723934",
+      "role": "support",
+      "authorHandle": "mossadil",
+      "url": "https://x.com/MOSSADil/status/2114401603935723934",
+      "tweetedAt": "2026-10-25T17:00:00.000Z",
+      "bestBit": "Israel Police says a network of suspicious X accounts was allegedly attempting to influence voters ahead of Tuesday’s Knesset election.",
+      "text": "🚨 ISRAEL POLICE UNCOVERS SUSPECTED ELECTION INTERFERENCE NETWORK ON X\n\nIsrael Police says a network of suspicious X accounts was allegedly attempting to influence voters ahead of Tuesday’s Knesset election.\n\nPolice and state prosecutors uncovered the network in a joint cyber operation. Several accounts have been taken down to prevent further interference."
+    },
+    {
+      "tweetId": "2111222511866151391",
+      "role": "support",
+      "authorHandle": "endgameww3",
+      "url": "https://x.com/EndGameWW3/status/2111222511866151391",
+      "tweetedAt": "2026-10-16T22:27:26.000Z",
+      "bestBit": "ISRAEL PREPARES FOR ELECTION-RELATED THREATS: TERROR ATTACKS, ASSASSINATIONS AND FOREIGN INTERFERENCE",
+      "text": "RT @GuyAz: 🚨 ISRAEL PREPARES FOR ELECTION-RELATED THREATS: TERROR ATTACKS, ASSASSINATIONS AND FOREIGN INTERFERENCE\n\nMy report: Prime Minist…"
+    },
+    {
+      "tweetId": "2112584051064234113",
+      "role": "analysis",
+      "authorHandle": "osint613",
+      "url": "https://x.com/Osint613/status/2112584051064234113",
+      "tweetedAt": "2026-10-20T16:37:42.000Z",
+      "bestBit": "Tehran may seek to influence the outcome of the elections by driving up oil prices and causing other disruptions",
+      "text": "Tehran may seek to influence the outcome of the elections by driving up oil prices and causing other disruptions, according to Israeli political and security sources, who assess the likelihood of direct escalation with Iran before the vote as low.\n\nIsrael Hayom."
+    },
+    {
+      "tweetId": "2113523255734596045",
+      "role": "commentary",
+      "authorHandle": "ryanrozbiani",
+      "url": "https://x.com/RyanRozbiani/status/2113523255734596045",
+      "tweetedAt": "2026-10-23T06:49:46.000Z",
+      "bestBit": "Netanyahu Signals Possible FALSE FLAG Ahead of Elections",
+      "text": "RT @RyanRozbiani: Netanyahu Signals Possible FALSE FLAG Ahead of Elections\n\nNetanyahu claims MOSSAD has intelligence that IRAN and its alli…"
+    },
+    {
+      "tweetId": "2113634070265463144",
+      "role": "commentary",
+      "authorHandle": "megatron_ron",
+      "url": "https://x.com/Megatron_ron/status/2113634070265463144",
+      "tweetedAt": "2026-10-23T14:10:06.000Z",
+      "bestBit": "Benjamin Netanyahu now says he has information indicating that Iran wants to attack them before the election",
+      "text": "🇮🇱🇮🇷 Benjamin Netanyahu now says he has information indicating that Iran wants to attack them before the election\n\nClear sign that he is considering postponing the elections"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-israel-police-dismantle-suspected-x-influence-network-before-knes-001e2889",
+    "title": "UPDATE: Israel Police Dismantle Suspected X Influence Network Before Knesset Election",
+    "publishedAt": "2026-10-25T17:23:01.092Z",
+    "eventTimeApprox": "2026-10-17T18:24:43.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "geopolitics"
+    ],
+    "tweetCount": 29,
+    "authorCount": 15
+  }
+}

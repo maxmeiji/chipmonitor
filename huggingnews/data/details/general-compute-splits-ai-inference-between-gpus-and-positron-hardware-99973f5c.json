@@ -1,0 +1,76 @@
+{
+  "slug": "general-compute-splits-ai-inference-between-gpus-and-positron-hardware-99973f5c",
+  "title": "General Compute Splits AI Inference Between GPUs and Positron Hardware",
+  "publishedAt": "2026-10-20T17:23:46.237Z",
+  "eventTimeApprox": "2026-10-20T17:04:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "General Compute is purchasing Atlas and Titan systems from Positron AI to scale its heterogeneous cloud infrastructure. The partnership enables the company to run the prefill stage of AI inference on GPUs and hand off the decode stage, or token-by-token generation, to Positron's memory-first systems. This hardware will go live in Q1 2027 and will be sold to customers through a single endpoint under one contract and set of SLAs.\n\nThe design targets memory speed bottlenecks by avoiding dependence on the high-bandwidth memory (HBM) that currently limits GPUs. General Compute believes the demand for fast inference for open-source models will exceed supply for the next 10 years, making this approach critical for the development of always-on AI agents and multi-agent systems.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112585266854604957",
+      "role": "source",
+      "authorHandle": "general_compute",
+      "url": "https://x.com/general_compute/status/2112585266854604957",
+      "tweetedAt": "2026-10-20T16:42:32.000Z",
+      "bestBit": "We believe demand for fast inference will outstrip supply for the next decade.",
+      "text": "Our heterogeneous cloud just got better. We're announcing a cluster scale deployment of @positron_ai as our next partner.\n\nWe believe demand for fast inference will outstrip supply for the next decade. Our bet on Positron is another step towards getting fast inference for opensource models into builders' hands.\n\nHardware goes live Q1 2027.\n\nThanks to @mitesh711, @trsohmers and the whole Positron team! We're excited for this partnership.\n\nLFG!"
+    },
+    {
+      "tweetId": "2112590786554671502",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112590786554671502",
+      "tweetedAt": "2026-10-20T17:04:28.000Z",
+      "bestBit": "run prefill on GPUs and decode on Positron hardware, giving customers one endpoint for a request that crosses 2 chip types",
+      "text": "Splitting prefill and decode across different silicon is one of the most sensible ideas in inference right now.\n\n@general_compute is running prompt reads on GPUs and handing token-by-token generation to @positron_ai’s memory-first systems, then selling both as one endpoint.\n\ni.e. run prefill on GPUs and decode on Positron hardware, giving customers one endpoint for a request that crosses 2 chip types.\n\nThese chips are built to write AI answers faster and cheaper by focusing on memory speed (the real bottleneck when AI generates text) instead of raw processing power.\n\nThe split follows the physics. Prefill is a large parallel compute job. Decode is mostly the chip waiting to pull weights and cache out of memory for every new token. A single chip has to compromise on at least one of those.\n\nPositron builds for the second job, and builds it without relying on HBM, the memory GPUs are all competing for.\n\nFrom the customer’s side it stays one contract and one set of SLAs. Deciding which chip handles which phase is General Compute’s problem.",
+      "quotedTweetText": "Our heterogeneous cloud just got better. We're announcing a cluster scale deployment of @positron_ai as our next partner.\n\nWe believe demand for fast inference will outstrip supply for the next decade. Our bet on Positron is another step towards getting fast inference for opensource models into builders' hands.\n\nHardware goes live Q1 2027.\n\nThanks to @mitesh711, @trsohmers and the whole Positron team! We're excited for this partnership.\n\nLFG!"
+    },
+    {
+      "tweetId": "2112592281828048954",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2112592281828048954",
+      "tweetedAt": "2026-10-20T17:10:24.000Z",
+      "bestBit": "General Compute is buying Atlas systems and has also committed to Positron’s next-generation Titan systems",
+      "text": "General Compute is partnering with @positron_ai to split AI inference across GPUs and specialized chips, with Atlas capacity planned for Q1 2027.\n\nGPUs process the prompt. \n\nPositron’s systems generate the answer token by token, using hardware designed around fast access to model data.\n\nThe combined capacity would be available through one endpoint and one contract.\n\nGeneral Compute is buying Atlas systems and has also committed to Positron’s next-generation Titan systems.\n\nhttps://t.co/DMby7uI6uJ",
+      "quotedTweetText": "Our heterogeneous cloud just got better. We're announcing a cluster scale deployment of @positron_ai as our next partner.\n\nWe believe demand for fast inference will outstrip supply for the next decade. Our bet on Positron is another step towards getting fast inference for opensource models into builders' hands.\n\nHardware goes live Q1 2027.\n\nThanks to @mitesh711, @trsohmers and the whole Positron team! We're excited for this partnership.\n\nLFG!"
+    },
+    {
+      "tweetId": "2112592876781633793",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2112592876781633793",
+      "tweetedAt": "2026-10-20T17:12:46.000Z",
+      "bestBit": "As proactive, always-on agents rise and demand for multi-agent systems for complex tasks grows, heterogeneous compute matters",
+      "text": "Fast inference is becoming increasingly important for agents. \n\nAs proactive, always-on agents rise and demand for multi-agent systems for complex tasks grows, heterogeneous compute matters. @general_compute is solving a critical problem here, and this @positron_ai partnership makes a lot of sense.",
+      "quotedTweetText": "Our heterogeneous cloud just got better. We're announcing a cluster scale deployment of @positron_ai as our next partner.\n\nWe believe demand for fast inference will outstrip supply for the next decade. Our bet on Positron is another step towards getting fast inference for opensource models into builders' hands.\n\nHardware goes live Q1 2027.\n\nThanks to @mitesh711, @trsohmers and the whole Positron team! We're excited for this partnership.\n\nLFG!"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "upwind-security-raises-400m-to-reach-38b-valuation-0aabb286",
+  "title": "Upwind Security Raises $400M to Reach $3.8B Valuation",
+  "publishedAt": "2026-10-28T12:22:51.147Z",
+  "eventTimeApprox": "2026-10-28T11:25:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "vc",
+      "name": "VC"
+    }
+  ],
+  "summary": "The San Francisco based provider of AI and cloud cybersecurity closed a fresh round of financing from investors led by Bessemer to expand its suite of security tools. The $400 million investment brings the startup's valuation to $3.8 billion, up from a $1.5 billion valuation recorded in January.\n\nThe new capital raises the total funding for Upwind Security to $830 million. The company focuses on providing protection for cloud applications and artificial intelligence environments.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115415088035209383",
+      "role": "source",
+      "authorHandle": "danprimack",
+      "url": "https://x.com/danprimack/status/2115415088035209383",
+      "tweetedAt": "2026-10-28T12:07:14.000Z",
+      "bestBit": "Upwind Security closes $400M Series C at $3.8B valuation",
+      "text": "Upwind Security closes $400M Series C at $3.8B valuation https://t.co/X9yYeWdtbW"
+    }
+  ],
+  "isSuperseded": false
+}

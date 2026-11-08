@@ -1,0 +1,69 @@
+{
+  "slug": "biological-computing-co-launches-ai-video-tool-built-from-brain-cell-res-03dbeb55",
+  "title": "Biological Computing Co. Launches AI Video Tool Built From Brain Cell Research",
+  "publishedAt": "2026-10-30T13:53:04.460Z",
+  "eventTimeApprox": "2026-10-30T13:31:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 20,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2116153410101944352/I4G-jGHuZaYgqg6H-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2116153410101944352/I4G-jGHuZaYgqg6H-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2116153358943981568/vid/avc1/1920x1080/kO4YF2-c9kxmlCQH.mp4?tag=29",
+    "credit": {
+      "handle": "alexksendzovsky",
+      "tweetUrl": "https://x.com/AlexKsendzovsky/status/2116153410101944352"
+    }
+  },
+  "summary": "A new commercial AI video generator called Mischief 1 now allows users to create image-to-video clips for as little as 0.5 cents per second. The product, developed by the Biological Computing Co., is currently available through OpenRouter and fal and will be added to the AWS Marketplace. The company says the tool is at least 5x faster than its base model.\n\nThe model was developed from a four year study in which the company grew living neurons on electrodes to map how brain cells compute. While Mischief 1 runs on standard computer chips, the startup aims to use these biological findings to increase AI efficiency, noting that the human brain operates on approximately 20 watts of power.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116153410101944352",
+      "role": "source",
+      "authorHandle": "alexksendzovsky",
+      "url": "https://x.com/AlexKsendzovsky/status/2116153410101944352",
+      "tweetedAt": "2026-10-30T13:01:03.000Z",
+      "bestBit": "from 0.5¢ a second, mischief 1 is at least 5x faster than its base and the cheapest image-to-video model on @fal and @OpenRouter",
+      "text": "today, we introduce a little mischief to the world.\n\nfor four years, we’ve been brewing real brain cells on electrodes to understand how they compute. now, we’ve turned those discoveries into a video model anyone can use.\n\nfrom 0.5¢ a second, mischief 1 is at least 5x faster than its base and the cheapest image-to-video model on @fal and @OpenRouter. soon to be on @awscloud marketplace.\n\nit’s not a delusion anymore. biocompute is real, commercial and this is just the beginning.\n\nhappy halloween."
+    },
+    {
+      "tweetId": "2116162100137427342",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2116162100137427342",
+      "tweetedAt": "2026-10-30T13:35:35.000Z",
+      "bestBit": "The brain runs on roughly 20 watts, so it makes sense to study how it computes",
+      "text": "The era of hardcore fundamental research is back!\n\nThis is key to improving AI efficiency.\n\nThe brain runs on roughly 20 watts, so it makes sense to study how it computes.\n\n@BioComputingCo has been doing that with living neurons for four years. Their first product is mischief 1, a video model at least 5x faster than its base model.\n\nI'm curious to see where this research goes after video.",
+      "quotedTweetText": "today, we introduce a little mischief to the world.\n\nfor four years, we’ve been brewing real brain cells on electrodes to understand how they compute. now, we’ve turned those discoveries into a video model anyone can use.\n\nfrom 0.5¢ a second, mischief 1 is at least 5x faster than its base and the cheapest image-to-video model on @fal and @OpenRouter. soon to be on @awscloud marketplace.\n\nit’s not a delusion anymore. biocompute is real, commercial and this is just the beginning.\n\nhappy halloween."
+    }
+  ],
+  "isSuperseded": false
+}

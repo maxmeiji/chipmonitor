@@ -1,0 +1,129 @@
+{
+  "slug": "update-hugging-face-finds-webais-twil-8b-model-beats-lfm3-17b-in-ai-agen-44549c8f",
+  "title": "UPDATE: Hugging Face Finds webAI's TwIL-8B Model Beats LFM3-1.7B in AI Agent Tests",
+  "publishedAt": "2026-11-07T08:22:32.655Z",
+  "eventTimeApprox": "2026-11-05T08:25:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "subject",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118747186821316966/HWdNRbBWYAAfgmN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118747186821316966/HWdNRbBWYAAfgmN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "davidstout",
+      "tweetUrl": "https://x.com/Davidstout/status/2118747186821316966"
+    }
+  },
+  "summary": "The research team at Hugging Face has demonstrated that reasoning models can be adapted into autonomous agents using specialized reinforcement learning and lightweight LoRA adapters. In a newly published study, the team used webAI's TwIL-8B model, finding that it outperformed Liquid AI's LFM3-1.7B across three different agent harnesses during preliminary baseline evaluations, even though TwIL-8B was not explicitly trained for agentic tool use.\n\nThe findings build on the Nov. 4 release of TwIL-8B, an open-weight model with 8.8B parameters built on IBM's Granite 4.2 8B. Designed to run on consumer CPUs and graphics cards via a 4.98 GiB quantized file, the model was intended to reduce reliance on expensive proprietary APIs by matching 93% of frontier performance on coding and 90% on contest mathematics. David Stout of webAI said the immediate collaboration with Hugging Face illustrates the potential for open research to create adaptable, efficient AI without the need for ever-larger models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118747186821316966",
+      "role": "source",
+      "authorHandle": "davidstout",
+      "url": "https://x.com/Davidstout/status/2118747186821316966",
+      "tweetedAt": "2026-11-06T16:47:48.000Z",
+      "bestBit": "Despite never being explicitly trained for agentic tool use, TwIL-8B is already outperforming the smaller LFM3-1.7B across all three agent harnesses in preliminary baseline evaluations.",
+      "text": "Just days after we released TwIL-8B, the Hugging Face research team is already pushing its capabilities further.\n\nToday, @huggingface  published new research exploring how reinforcement learning and lightweight LoRA adapters can turn reasoning models into capable AI agents.\n\nThey included @thewebAI TwIL-8B alongside models from Liquid AI.\n\nThe early results are encouraging.\n\nDespite never being explicitly trained for agentic tool use, TwIL-8B is already outperforming the smaller LFM3-1.7B across all three agent harnesses in preliminary baseline evaluations.\nNow they're exploring how much further those capabilities can improve through specialized reinforcement learning.\n\nOne base model. Many specialized capabilities.\n\nThis is a direction we strongly believe in at webAI. Intelligence should be adaptable, efficient, and increasingly capable without requiring ever-larger models.\nBut what excites me most is the collaboration happening across the open research community.\n\nWe built TwIL to push the boundaries of what smaller models can accomplish. Seeing the Hugging Face team build on that work almost immediately is exactly why open research matters.\n\nHuge appreciation to the Hugging Face team for including our work and advancing this research.\n\nThe future of AI will be built by more than a handful of labs.\nAnd we're excited to help build it.\n\nResearch: https://t.co/IEgSsGlEz1\nLive training: https://t.co/9NU3CLcCOQ"
+    },
+    {
+      "tweetId": "2118035011236397350",
+      "role": "source",
+      "authorHandle": "davidstout",
+      "url": "https://x.com/Davidstout/status/2118035011236397350",
+      "tweetedAt": "2026-11-04T17:37:52.000Z",
+      "bestBit": "Just 8.8 billion parameters, yet approaching frontier-model scores on several difficult benchmarks: • 93% of frontier performance on coding",
+      "text": "Modest intelligence is arriving faster than most people realize.\n\nToday, we're open-sourcing TwIL-8B.\n\nJust 8.8 billion parameters, yet approaching frontier-model scores on several difficult benchmarks:\n\n• 93% of frontier performance on coding\n\n• 92% on instruction following\n\n• 90% on contest mathematics\n\nAll from a model small enough to run on your own hardware.\n\nBut the benchmarks aren't the most important part of this announcement.\n\nFor years, the AI industry has focused on building the most capable model, regardless of the cost required to run it.\n\nI believe that equation is changing.\n\nThe next era of AI will be defined by the cost of completing work. Not simply the intelligence of the model, but how efficiently that intelligence can accomplish the task.\n\nIf a model with 8 billion parameters can reliably complete the same work as one with hundreds of billions, why pay for the larger model?\n\nAs smaller models become more capable, intelligence becomes something we can distribute, specialize, and run across the hardware we already own.\n\nThat's the future we're building at @thewebAI \n\nTwIL-8B is available today. Open weights.\n\nAnd this is just the first of several announcements we're making today.\n\nHF Link: https://t.co/3lrTfeLaeI"
+    },
+    {
+      "tweetId": "2118424398642532579",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2118424398642532579",
+      "tweetedAt": "2026-11-05T19:25:09.000Z",
+      "bestBit": "TwIL-8B fits in a 4.98 GiB quantized file that runs on a CPU or modest graphics card",
+      "text": "webAI (@thewebAI) just open-sourced TwIL-8B, an 8.8B model built on IBM’s Granite 4.2 8B and trained for math, coding and following instructions.\n\n> TwIL-8B fits in a 4.98 GiB quantized file that runs on a CPU or modest graphics card, putting near-frontier coding and math on hardware people already own.\n\n> scores 81.6% on LiveCodeBench, 16.0 points above Qwen3.5-9B and ahead of Google’s Gemma 4 31B, a model 3.5x its size.\n\n> Against GPT-5.5, Claude Opus 4.8 and Grok 4.3, TwIL-8B reaches 93% of the best frontier score on coding and 92% on instruction following, beating Claude Opus 4.8 on IFBench by 12.2 points.\n\n> A final training stage that rewards shorter reasoning lets TwIL-8B solve AIME 2026 problems with 38% fewer tokens than Qwen3.5-9B, while posting the highest MATH-500 score in its comparison at 98.2%.",
+      "quotedTweetText": "Modest intelligence is arriving faster than most people realize.\n\nToday, we're open-sourcing TwIL-8B.\n\nJust 8.8 billion parameters, yet approaching frontier-model scores on several difficult benchmarks:\n\n• 93% of frontier performance on coding\n\n• 92% on instruction following\n\n• 90% on contest mathematics\n\nAll from a model small enough to run on your own hardware.\n\nBut the benchmarks aren't the most important part of this announcement.\n\nFor years, the AI industry has focused on building the most capable model, regardless of the cost required to run it.\n\nI believe that equation is changing.\n\nThe next era of AI will be defined by the cost of completing work. Not simply the intelligence of the model, but how efficiently that intelligence can accomplish the task.\n\nIf a model with 8 billion parameters can reliably complete the same work as one with hundreds of billions, why pay for the larger model?\n\nAs smaller models become more capable, intelligence becomes something we can distribute, specialize, and run across the hardware we already own.\n\nThat's the future we're building at @thewebAI \n\nTwIL-8B is available today. Open weights.\n\nAnd this is just the first of several announcements we're making today.\n\nHF Link: https://t.co/3lrTfeLaeI"
+    },
+    {
+      "tweetId": "2118978005829595261",
+      "role": "commentary",
+      "authorHandle": "yb2698",
+      "url": "https://x.com/yb2698/status/2118978005829595261",
+      "tweetedAt": "2026-11-07T08:04:59.000Z",
+      "bestBit": "the Hugging Face research team is already pushing its capabilities further",
+      "text": "RT @Davidstout: Just days after we released TwIL-8B, the Hugging Face research team is already pushing its capabilities further.\n\nToday, @h…"
+    },
+    {
+      "tweetId": "2118063278140133622",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2118063278140133622",
+      "tweetedAt": "2026-11-04T19:30:11.000Z",
+      "bestBit": "this model from webAI is small enough to run locally… and make a lot of expensive API calls unnecessary",
+      "text": "an 8.8B open-weight model is apparently reaching 93% of frontier coding and 90% of contest math performance.\n\nthis model from webAI is small enough to run locally… and make a lot of expensive API calls unnecessary. https://t.co/UpU5CdE5Ev",
+      "quotedTweetText": "Modest intelligence is arriving faster than most people realize.\n\nToday, we're open-sourcing TwIL-8B.\n\nJust 8.8 billion parameters, yet approaching frontier-model scores on several difficult benchmarks:\n\n• 93% of frontier performance on coding\n\n• 92% on instruction following\n\n• 90% on contest mathematics\n\nAll from a model small enough to run on your own hardware.\n\nBut the benchmarks aren't the most important part of this announcement.\n\nFor years, the AI industry has focused on building the most capable model, regardless of the cost required to run it.\n\nI believe that equation is changing.\n\nThe next era of AI will be defined by the cost of completing work. Not simply the intelligence of the model, but how efficiently that intelligence can accomplish the task.\n\nIf a model with 8 billion parameters can reliably complete the same work as one with hundreds of billions, why pay for the larger model?\n\nAs smaller models become more capable, intelligence becomes something we can distribute, specialize, and run across the hardware we already own.\n\nThat's the future we're building at @thewebAI \n\nTwIL-8B is available today. Open weights.\n\nAnd this is just the first of several announcements we're making today.\n\nHF Link: https://t.co/3lrTfeLaeI"
+    },
+    {
+      "tweetId": "2118051377704296536",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2118051377704296536",
+      "tweetedAt": "2026-11-04T18:42:54.000Z",
+      "bestBit": "smaller models will play a significant role in more complex agentic workflows like scientific discovery and software factories",
+      "text": "Another great open-source model release. \n\nTwIL-8B shows strong results on coding, instruction-following, and math benchmarks.\n\nI'm bullish on small models we can run locally and on our own hardware.\n\nAs we unlock efficient intelligence and capabilities, smaller models will play a significant role in more complex agentic workflows like scientific discovery and software factories.",
+      "quotedTweetText": "Modest intelligence is arriving faster than most people realize.\n\nToday, we're open-sourcing TwIL-8B.\n\nJust 8.8 billion parameters, yet approaching frontier-model scores on several difficult benchmarks:\n\n• 93% of frontier performance on coding\n\n• 92% on instruction following\n\n• 90% on contest mathematics\n\nAll from a model small enough to run on your own hardware.\n\nBut the benchmarks aren't the most important part of this announcement.\n\nFor years, the AI industry has focused on building the most capable model, regardless of the cost required to run it.\n\nI believe that equation is changing.\n\nThe next era of AI will be defined by the cost of completing work. Not simply the intelligence of the model, but how efficiently that intelligence can accomplish the task.\n\nIf a model with 8 billion parameters can reliably complete the same work as one with hundreds of billions, why pay for the larger model?\n\nAs smaller models become more capable, intelligence becomes something we can distribute, specialize, and run across the hardware we already own.\n\nThat's the future we're building at @thewebAI \n\nTwIL-8B is available today. Open weights.\n\nAnd this is just the first of several announcements we're making today.\n\nHF Link: https://t.co/3lrTfeLaeI"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "webai-open-sources-twil-8b-ai-model-to-rival-frontier-performance-benchm-c47b77ae",
+    "title": "webAI Open-Sources TwIL-8B AI Model to Rival Frontier Performance Benchmarks",
+    "publishedAt": "2026-11-04T19:39:00.492Z",
+    "eventTimeApprox": "2026-11-04T18:42:54.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 6
+  }
+}

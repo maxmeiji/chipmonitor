@@ -1,0 +1,51 @@
+{
+  "slug": "openevidence-integrates-msk-genetics-data-for-oncologists-nationwide-0f4715b7",
+  "title": "OpenEvidence Integrates MSK Genetics Data for Oncologists Nationwide",
+  "publishedAt": "2026-10-22T18:07:57.459Z",
+  "eventTimeApprox": "2026-10-22T15:19:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPEV",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenEvidence",
+      "hubKey": "openevidence"
+    }
+  ],
+  "summary": "OncoKB is now available to medical professionals throughout the United States following a partnership between Memorial Sloan Kettering Cancer Center and OpenEvidence. The collaboration embeds MSK's expert interpretations of tumor genetics directly into the OpenEvidence AI platform to widen the reach of specialized cancer data. Dr. Anaeze Offodile stated that the goal is to ensure patients nationwide benefit from the same clinical rigor as those treated at MSK to help \"end cancer for life.\"\n\nMore than 85% of oncologists at MSK already utilize OpenEvidence in their daily practice. By integrating the OncoKB database, the two organizations are expanding the tool's accessibility to oncologists across the country to provide expert genetic analysis at the point of care.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113268922057469977",
+      "role": "source",
+      "authorHandle": "openevidence",
+      "url": "https://x.com/OpenEvidence/status/2113268922057469977",
+      "tweetedAt": "2026-10-22T13:59:08.000Z",
+      "bestBit": "Over 85% of oncologists at Memorial Sloan Kettering Cancer Center use OpenEvidence.",
+      "text": "Over 85% of oncologists at Memorial Sloan Kettering Cancer Center use OpenEvidence.\n\nTogether, @MSKCancerCenter and OpenEvidence have built OncoKB, MSK’s expert interpretation of a tumor’s genetics, directly into OpenEvidence, putting it in the hands of oncologists across the United States.\n\nAs Dr. Anaeze Offodile puts it: “Our mission is to end cancer for life.” As of today, we are widening OncoKB’s reach so that patients everywhere benefit from the same rigor as patients at MSK. Watch the story."
+    }
+  ],
+  "isSuperseded": false
+}

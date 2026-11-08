@@ -1,0 +1,97 @@
+{
+  "slug": "citadels-ken-griffin-warns-of-gpu-price-free-fall-in-ai-bubble-c5b6a30b",
+  "title": "Citadel's Ken Griffin Warns of GPU Price Free Fall in AI Bubble",
+  "publishedAt": "2026-10-21T12:54:48.186Z",
+  "eventTimeApprox": "2026-10-21T00:46:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 30,
+  "authorCount": 22,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112682035646959941/HVHBHaqXAAE9tjQ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112682035646959941/HVHBHaqXAAE9tjQ-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2112681873235234816/vid/avc1/1920x1080/sCq7ayUB7xUm4T8J.mp4?tag=16",
+    "credit": {
+      "handle": "bloombergtv",
+      "tweetUrl": "https://x.com/BloombergTV/status/2112682035646959941"
+    }
+  },
+  "summary": "The proliferation of artificial intelligence chips may lead to a collapse in hardware pricing if supply eventually outstrips demand, Citadel CEO Ken Griffin said in an interview with Bloomberg. Speaking at the Future of Global Markets Conference in New York, Griffin likened the risk to the telecom fiber-optic overbuild of 2000, where excess capacity caused prices to enter a \"free fall.\" He questioned if current semiconductor margins are sustainable and warned that investors might be overestimating the useful life of graphics processing units.\n\nThese warnings come as companies scrutinize spending on models from OpenAI and Anthropic, the latter of which is reportedly planning $750 billion in future compute expenditures. While the CEO of Deutsche Bank stated he does not see a bubble in the sector, Griffin maintains that investors are \"almost certainly\" in the midst of one, though he remains bullish on the long-term potential of AI technology.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112660293147120121",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2112660293147120121",
+      "tweetedAt": "2026-10-20T21:40:39.000Z",
+      "bestBit": "companies are scrutinising bills from Anthropic and OpenAI and that some have struggled to extract value from AI",
+      "text": "CITADEL CEO GRIFFIN SAYS THERE ARE ALMOST CERTAINLY BUBBLES WITH AI RIGHT NOW, THOUGH BUBBLES COINCIDE WITH GIANT TECHNOLOGICAL ADVANCES, ADDING THAT COMPANIES ARE SCRUTINISING BILLS FROM ANTHROPIC AND OPENAI AND THAT SOME HAVE STRUGGLED TO EXTRACT VALUE FROM AI"
+    },
+    {
+      "tweetId": "2112884146338975998",
+      "role": "source",
+      "authorHandle": "mollysoshea",
+      "url": "https://x.com/MollySOShea/status/2112884146338975998",
+      "tweetedAt": "2026-10-21T12:30:10.000Z",
+      "bestBit": "If we reach a point where the provisioning of GPUs exceeds demand for GPUs, marginal pricing will actually go into free fall.",
+      "text": "Ken Griffin of Citadel questions the economics of the AI infrastructure boom:\n\n›What happens when GPU supply exceeds demand & pricing goes into free fall?\n\n›Are today's semiconductor margins sustainable? Are investors overestimating the useful life of GPUs?\n\n“Look, I think this market is actually experiencing people doing research.\n\nFor the couple of years, if you were on the thematic program of we're gonna spend hundreds of billions or a trillion dollars in data centers, we're gonna build compute at a scale never seen before, which companies in that story are choke points in supply chains that will have abnormally high margins? And who will be the big winners in this transformation?\n\nWill it be the Microsofts & AWSs who will be the gatekeepers to the foundational models? Like, who's going to earn the economic rents?\n\nBut in some sense, like, 'I'm just gonna buy them all. I'm gonna buy the hyperscalers, I'm gonna buy the chip, I'm gonna buy businesses that make things I've never even heard of 5 years ago in Korea and Taiwan & in Japan.'\n\nAnd now we're reaching a point where people are becoming more discerning.\n\nWe do realize that we are seeing extremely high margins in DRAM & MLCCs in areas where there are real supply constraints, but people are now starting to look out 2 years, 3 years. How long is this going to last?\n\nAnd in particular, I don't wanna be doom & gloom, but GPUs, like airlines, have a very low marginal cost to run.\n\nThe incremental seat on an airline that's not full, if you can sell that ticket for $20, you're making money in that seat.\n\nAnd that's one of the reasons that the airline industry is such a nightmare, is because the moment you have overcapacity, pricing goes into free fall.\n\nWe saw this actually with the telecom build-out back in 2000. We built more fiber than we had demand for, & the price of telecommunications just went straight down.\n\nIf we reach a point where the provisioning of GPUs exceeds demand for GPUs, marginal pricing will actually go into free fall.\n\nAnd that really upends all the investment assumptions that people are working with today.\n\nThat's issue number one.\n\nAnd issue number 2 is: \n\nI think people are taking a step back & saying, 'What is the useful life of a GPU?'\n\nRight here, right now, there's people that are earning extraordinary pricing on GPUs that are 5 or 6 years old.\n\nAnd so there's a growing set of concerns that I can't give the same capitalization rate or the same revenue models to year 7, 8, 9 of a chip in the future that maybe I was using 12 months ago.\n\nSo I think we're really grappling with just how far will this demand carry us in the marketplace.”"
+    },
+    {
+      "tweetId": "2112831310829900244",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2112831310829900244",
+      "tweetedAt": "2026-10-21T09:00:13.000Z",
+      "bestBit": "Deutsche Bank's CEO says he doesn’t see a bubble in AI",
+      "text": "Deutsche Bank's CEO says he doesn’t see a bubble in AI, after billionaire Ken Griffin warned of looming setbacks to investors https://t.co/Z4mmtnKwWu"
+    },
+    {
+      "tweetId": "2112706993475518533",
+      "role": "support",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2112706993475518533",
+      "tweetedAt": "2026-10-21T00:46:14.000Z",
+      "bestBit": "Anthropic reportedly eyeing $750 billion in future computing expenditures",
+      "text": "CITADEL’S KEN GRIFFIN: WE’RE ALMOST CERTAINLY IN AN AI BUBBLE\n\nBillionaire Ken Griffin warns investors are “almost certainly” in an AI bubble, as companies struggle to turn massive AI spending into measurable productivity gains.\n\nWith Anthropic reportedly eyeing $750 billion in future computing expenditures, questions over AI investment returns are intensifying.\n\nBut Griffin remains bullish on AI’s long-term potential."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "citadel-ceo-ken-griffin-warns-ai-is-almost-certainly-in-a-bubble-41fa58c5",
+    "title": "Citadel CEO Ken Griffin Warns AI Is Almost Certainly in a Bubble",
+    "publishedAt": "2026-10-20T22:23:51.891Z",
+    "eventTimeApprox": "2026-10-20T22:06:53.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 16,
+    "authorCount": 13
+  }
+}

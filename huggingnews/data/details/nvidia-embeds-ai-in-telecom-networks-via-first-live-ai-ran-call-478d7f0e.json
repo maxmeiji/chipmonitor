@@ -1,0 +1,95 @@
+{
+  "slug": "nvidia-embeds-ai-in-telecom-networks-via-first-live-ai-ran-call-478d7f0e",
+  "title": "Nvidia Embeds AI in Telecom Networks via First Live AI-RAN Call",
+  "publishedAt": "2026-10-21T10:38:50.425Z",
+  "eventTimeApprox": "2026-10-21T10:16:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "TMUS",
+      "kind": "equity",
+      "role": "related",
+      "name": "T-Mobile US, Inc.",
+      "hubKey": "tmus"
+    },
+    {
+      "ticker": "NOK",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nokia Corporation",
+      "hubKey": "nok"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112850132873912662/HVJZsgSXIAAnrCJ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112850132873912662/HVJZsgSXIAAnrCJ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2112850132873912662"
+    }
+  },
+  "summary": "Nine telecom operators in Europe, the Middle East, and Africa are building or expanding Nvidia-powered infrastructure to run AI closer to end users. The company is deploying computing hardware across data centers, metro sites, and cell sites to shift AI inference to the network edge, Nvidia announced at GTC Berlin. As part of this expansion, T-Mobile completed the world's first AI-RAN call on a live network in collaboration with Nokia.\n\nBT, Deutsche Telekom, and Elisa have also started live-network AI-RAN pilots using Nokia software to integrate AI into their networks. CEO Jensen Huang stated that these networks \"will also carry the world's intelligence,\" a strategy intended to move Nvidia's hardware into a new market beyond the traditional data center.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112850208283344962",
+      "role": "source",
+      "authorHandle": "nvidianewsroom",
+      "url": "https://x.com/nvidianewsroom/status/2112850208283344962",
+      "tweetedAt": "2026-10-21T10:15:19.000Z",
+      "bestBit": "adding NVIDIA computing across data centers and cell sites to bring AI services closer to users",
+      "text": "Leading telecom operators are adding NVIDIA computing across data centers and cell sites to bring AI services closer to users, alongside live-network AI-RAN pilots with @nokia.\n\nAnnounced at GTC Berlin: https://t.co/rmTwwsvxBU https://t.co/GJYVAdzU6l"
+    },
+    {
+      "tweetId": "2112850132873912662",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2112850132873912662",
+      "tweetedAt": "2026-10-21T10:15:01.000Z",
+      "bestBit": "Nine operators across Europe, the Middle East and Africa are building or expanding Nvidia-powered infrastructure",
+      "text": "$NVDA IS TURNING TELECOM NETWORKS INTO AI INFRA, \n\nNvidia said major telecom operators are adding its computing to data centers, metro sites and cell sites to run AI closer to users\n\n> T-Mobile completed the world's first AI-RAN call on a live network with Nvidia and Nokia\n\n> BT, Deutsche Telekom and Elisa announced AI-RAN pilots on live networks using Nokia software\n\n> Nine operators across Europe, the Middle East and Africa are building or expanding Nvidia-powered infrastructure\n\nHuang said telecom networks \"will also carry the world's intelligence.\""
+    },
+    {
+      "tweetId": "2112851516256334189",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2112851516256334189",
+      "tweetedAt": "2026-10-21T10:20:31.000Z",
+      "bestBit": "turn cell towers into AI infrastructure that runs inference closer to users opening up a massive new market for Nvidia beyond traditional data centers",
+      "text": "$NVDA is expanding AI computing into telecom networks as $TMUS completes world's first AI-RAN call on a live network with $NOK.\n\nThat could turn cell towers into AI infrastructure that runs inference closer to users opening up a massive new market for Nvidia beyond traditional data centers."
+    }
+  ],
+  "isSuperseded": false
+}

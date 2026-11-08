@@ -1,0 +1,69 @@
+{
+  "slug": "ai-data-center-tenants-demand-more-than-5-million-daily-penalties-for-co-3cdeb80e",
+  "title": "AI Data Center Tenants Demand More Than $5 Million Daily Penalties for Construction Delays",
+  "publishedAt": "2026-10-25T18:37:34.436Z",
+  "eventTimeApprox": "2026-10-25T16:19:17.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "summary": "Tenants of AI data centers are tightening delivery contracts, requesting daily fines if developers fail to provide power and facilities by agreed-upon dates. Demands for these penalties have risen to more than $5 million per day, up from about $1 million earlier this year, based on a report from The Information.\n\nA seven-month delay could leave a developer owing an AI tenant more than $1 billion in fees, before accounting for lost rental income. KKR warned that such late fees could lead to more developer bankruptcies than rising interest rates, as constraints in power and cooling hamper AI expansion. Amazon executive Andy Jassy noted that AWS is already booking capacity into 2028.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114382264679416154",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2114382264679416154",
+      "tweetedAt": "2026-10-25T15:43:09.000Z",
+      "bestBit": "penalties of more than $5 million per day if developers fail to deliver power and facilities on time, up from around $1 million earlier this year",
+      "text": "AI data center tenants are now demanding penalties of more than $5 million per day if developers fail to deliver power and facilities on time, up from around $1 million earlier this year, according to The Information. https://t.co/tz9Twcsx1H"
+    },
+    {
+      "tweetId": "2114389619957469308",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2114389619957469308",
+      "tweetedAt": "2026-10-25T16:12:23.000Z",
+      "bestBit": "a 7-month delay could leave a data center developer owing its AI or cloud tenant over $1 billion in penalties alone",
+      "text": "So at $5 million a day, a 7-month delay could leave a data center developer owing its AI or cloud tenant over $1 billion in penalties alone, before accounting for lost rental income.",
+      "quotedTweetText": "AI data center tenants are now demanding penalties of more than $5 million per day if developers fail to deliver power and facilities on time, up from around $1 million earlier this year, according to The Information. https://t.co/tz9Twcsx1H"
+    },
+    {
+      "tweetId": "2114393094275961021",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2114393094275961021",
+      "tweetedAt": "2026-10-25T16:26:11.000Z",
+      "bestBit": "KKR warning that late fees could bankrupt more builders than rising interest rates",
+      "text": "Data center developers are now facing over $5M in daily penalties for delays with KKR warning that late fees could bankrupt more builders than rising interest rates.\n\nThat lines up with what $SPCX Elon Musk and $NVDA Jensen Huang have been saying about power and cooling slowing AI expansion while $AMZN Andy Jassy says AWS is already booking capacity into 2028.\n\nThis is exactly why I keep adding to my AI Power positions during this drawdown."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "tarbell-foundation-allots-10m-to-ai-journalism-with-first-grant-to-npr-95fe16b9",
+  "title": "Tarbell Foundation Allots $10M to AI Journalism With First Grant to NPR",
+  "publishedAt": "2026-10-05T14:55:40.585Z",
+  "eventTimeApprox": "2026-10-05T12:58:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "culture",
+    "ai"
+  ],
+  "primaryRoutingTopic": "culture",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "summary": "Kevin Roose and Casey Newton will receive $480,000 to launch a new podcast, Machine Gods, which will cover the development and impact of artificial intelligence.\n\nThe funding is part of a $10 million initiative by the Tarbell Foundation to support AI-focused reporting over the next 12 months. NPR's reporting team, which monitors how technology influences politics, will also receive $250,000 as part of the first round of grants from the fund.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106912237415706882",
+      "role": "source",
+      "authorHandle": "semaforben",
+      "url": "https://x.com/semaforben/status/2106912237415706882",
+      "tweetedAt": "2026-10-05T00:59:56.000Z",
+      "bestBit": "The Tarbell Foundation will spend $10 million on journalism about AI over the next year",
+      "text": ".@maxwelltani scoop: The Tarbell Foundation will spend $10 million on journalism about AI over the next year, including a grant to the new Machine Gods https://t.co/L1GRMBDgam"
+    },
+    {
+      "tweetId": "2107099665036640460",
+      "role": "support",
+      "authorHandle": "maxwelltani",
+      "url": "https://x.com/maxwelltani/status/2107099665036640460",
+      "tweetedAt": "2026-10-05T13:24:42.000Z",
+      "bestBit": "First grants are $480k to Kevin Roose and Casey Newton's new pod, $250k to NPR for its reporting team covering how tech is influencing politics",
+      "text": "From @semafor's media newsletter: Tarbell Foundation will spend $10 million on AI-focused reporting over the next year. First grants are $480k to Kevin Roose and Casey Newton's new pod, $250k to NPR for its reporting team covering how tech is influencing politics. https://t.co/TpzVkYhUiI"
+    }
+  ],
+  "isSuperseded": false
+}

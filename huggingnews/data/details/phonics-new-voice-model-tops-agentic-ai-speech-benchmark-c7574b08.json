@@ -1,0 +1,94 @@
+{
+  "slug": "phonics-new-voice-model-tops-agentic-ai-speech-benchmark-c7574b08",
+  "title": "Phonic's New Voice Model Tops Agentic AI Speech Benchmark",
+  "publishedAt": "2026-10-29T18:54:32.484Z",
+  "eventTimeApprox": "2026-10-29T16:59:51.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115830871014183088/HVzfu0ZaEAAx_gB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115830871014183088/HVzfu0ZaEAAx_gB-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "moinnadeem",
+      "tweetUrl": "https://x.com/moinnadeem/status/2115830871014183088"
+    }
+  },
+  "summary": "The Phonic-1 system earned a score of 87.1 on the Artificial Analysis speech-to-speech index, outperforming xAI’s Grok Voice 3.0 for its ability to handle agentic voice tasks. The model completed 79.9% of customer-service simulations with 0.61 seconds to first audio. Phonic says the model is the only one capable of executing tool lookups and bookings while a user is still talking, allowing the system to respond 1.1 seconds after a caller stopped in a demo, compared to 15.7 seconds for OpenAI’s GPT-Live.\n\nThe 10 person startup recently raised a $27.5M Series A led by First Round, with participation from Lux Capital, Felicis and Definition, bringing its total funding to $31.5M. Its speech technology is currently used to power AI job interviews for recruiting platform Ashby across 25 countries.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115830871014183088",
+      "role": "source",
+      "authorHandle": "moinnadeem",
+      "url": "https://x.com/moinnadeem/status/2115830871014183088",
+      "tweetedAt": "2026-10-29T15:39:24.000Z",
+      "bestBit": "raised a $27.5M Series A led by @firstround with participation from @Lux_Capital, @felicis, and Definition",
+      "text": "Introducing Phonic-1, the most advanced speech-to-speech model for agentic tasks — from @phonic_co, the speech-to-speech model company. \n\nWe’ve had a breakout year and raised a $27.5M Series A led by @firstround with participation from @Lux_Capital, @felicis, and Definition. https://t.co/syYLXbQ4lL"
+    },
+    {
+      "tweetId": "2115863636371787983",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2115863636371787983",
+      "tweetedAt": "2026-10-29T17:49:36.000Z",
+      "bestBit": "Phonic-1 calls tools while the caller is still talking; in the demo it finished 5 lookups mid-speech and replied 1.1 seconds after the caller stopped, versus 15.7 seconds for OpenAI’s GPT-Live",
+      "text": "A 10-person startup Phonic has released Phonic-1, which it says is the only voice model that can run lookups and bookings while the caller is still mid-sentence.\n\n> First on Artificial Analysis’s speech-to-speech index at 87.1, just 0.2 points above xAI’s Grok Voice 3.0, completing 79.9% of customer-service tasks with 0.61 seconds to first audio.\n\n> Phonic-1 calls tools while the caller is still talking; in the demo it finished 5 lookups mid-speech and replied 1.1 seconds after the caller stopped, versus 15.7 seconds for OpenAI’s GPT-Live.\n\n> Phonic reports 90.2 on Cekura’s call suite, beating a transcribe-think-speak cascade at 82.9% that outscores every ranked speech-to-speech model there, though Cekura’s public board lists Phonic v1 at 68.3%.\n\n> They raised a $27.5M Series A led by First Round, taking total funding to $31.5M, and Phonic already powers Ashby’s AI job interviews in 25 countries.\n\nhttps://t.co/laxOzIhDwx",
+      "quotedTweetText": "Introducing Phonic-1, the most advanced speech-to-speech model for agentic tasks — from @phonic_co, the speech-to-speech model company. \n\nWe’ve had a breakout year and raised a $27.5M Series A led by @firstround with participation from @Lux_Capital, @felicis, and Definition. https://t.co/syYLXbQ4lL"
+    },
+    {
+      "tweetId": "2115854912148119738",
+      "role": "commentary",
+      "authorHandle": "bernhardsson",
+      "url": "https://x.com/bernhardsson/status/2115854912148119738",
+      "tweetedAt": "2026-10-29T17:14:56.000Z",
+      "bestBit": "genuinely think speech-to-speech is going to be massive over the next year",
+      "text": "This is super cool stuff (unrelated to the fact that I invested and it's running on Modal lol) – genuinely think speech-to-speech is going to be massive over the next year, and Phonic's model is very good.",
+      "quotedTweetText": "Introducing Phonic-1, the most advanced speech-to-speech model for agentic tasks — from @phonic_co, the speech-to-speech model company. \n\nWe’ve had a breakout year and raised a $27.5M Series A led by @firstround with participation from @Lux_Capital, @felicis, and Definition. https://t.co/syYLXbQ4lL"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "phonic-raises-275m-to-launch-phonic-1-agentic-speech-ai-model-96dfbe61",
+    "title": "Phonic Raises $27.5M to Launch Phonic-1 Agentic Speech AI Model",
+    "publishedAt": "2026-10-29T16:08:05.236Z",
+    "eventTimeApprox": "2026-10-29T15:59:14.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "startups"
+    ],
+    "tweetCount": 7,
+    "authorCount": 7
+  }
+}

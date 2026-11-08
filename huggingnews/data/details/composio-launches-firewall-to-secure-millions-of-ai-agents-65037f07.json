@@ -1,0 +1,60 @@
+{
+  "slug": "composio-launches-firewall-to-secure-millions-of-ai-agents-65037f07",
+  "title": "Composio Launches Firewall to Secure Millions of AI Agents",
+  "publishedAt": "2026-10-22T19:23:17.350Z",
+  "eventTimeApprox": "2026-10-22T16:01:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "summary": "Malicious prompt injections and unauthorized agent behaviors are now blocked via a runtime verification layer that monitors AI model activity. The Composio Firewall evaluates every command an agent executes and the information it receives to ensure the agent adheres to user intent and developer-defined boundaries. The system is currently live for all developers using the company's infrastructure.\n\nThe software utilizes Jev and custom small language models tuned with real-world usage data to provide a safety layer for agents. Millions of users and developers already use Composio for authentication, tooling and sandboxed execution. The company designed the runtime approach to solve trust issues that they state cannot be addressed with traditional software boundaries set at build time.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113290621821784557",
+      "role": "source",
+      "authorHandle": "karanvaidya6",
+      "url": "https://x.com/KaranVaidya6/status/2113290621821784557",
+      "tweetedAt": "2026-10-22T15:25:21.000Z",
+      "bestBit": "every action an agent takes is evaluated using Jev and custom SLMs tuned by Composio based on real-world usage data",
+      "text": "Agents have a trust problem.\n\nToday’s models can do most work. What they need is the right boundaries. In traditional software, those were set at build time. With agents, they have to be set and enforced at runtime.\n\nToday we’re introducing Composio Firewall, the runtime boundary for agents.\n\nMillions of users and developers already use Composio as the runtime for their agents - giving agents tools, auth, and sandboxed execution. Now with our agent firewall every action an agent takes is evaluated using Jev and custom SLMs tuned by Composio based on real-world usage data.\n\nThe firewall strengthens that existing boundary in both directions, checking the actions agents take and the information coming back to them through Composio.\n\nThe advantage of the runtime boundary is that Composio Firewall verifies that the agent respects user intent and the boundaries set by the developer and user. Additionally, this provides the safety layer required to protect the user against malicious prompt injection as well as other attacks.\n\nComposio Firewall is live now for all Composio developers. \n\nCheck it out at https://t.co/5xMyMw6MeD"
+    },
+    {
+      "tweetId": "2113299798787072457",
+      "role": "signal",
+      "authorHandle": "mattshumer_",
+      "url": "https://x.com/mattshumer_/status/2113299798787072457",
+      "tweetedAt": "2026-10-22T16:01:49.000Z",
+      "bestBit": "provides the safety layer required to protect the user against malicious prompt injection as well as other attacks",
+      "text": "Pretty important right about now",
+      "quotedTweetText": "Agents have a trust problem.\n\nToday’s models can do most work. What they need is the right boundaries. In traditional software, those were set at build time. With agents, they have to be set and enforced at runtime.\n\nToday we’re introducing Composio Firewall, the runtime boundary for agents.\n\nMillions of users and developers already use Composio as the runtime for their agents - giving agents tools, auth, and sandboxed execution. Now with our agent firewall every action an agent takes is evaluated using Jev and custom SLMs tuned by Composio based on real-world usage data.\n\nThe firewall strengthens that existing boundary in both directions, checking the actions agents take and the information coming back to them through Composio.\n\nThe advantage of the runtime boundary is that Composio Firewall verifies that the agent respects user intent and the boundaries set by the developer and user. Additionally, this provides the safety layer required to protect the user against malicious prompt injection as well as other attacks.\n\nComposio Firewall is live now for all Composio developers. \n\nCheck it out at https://t.co/5xMyMw6MeD"
+    }
+  ],
+  "isSuperseded": false
+}

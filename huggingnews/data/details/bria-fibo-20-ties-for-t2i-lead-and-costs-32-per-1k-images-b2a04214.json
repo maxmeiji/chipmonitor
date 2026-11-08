@@ -1,0 +1,108 @@
+{
+  "slug": "bria-fibo-20-ties-for-t2i-lead-and-costs-32-per-1k-images-b2a04214",
+  "title": "Bria Fibo 2.0 Ties for T2I Lead and Costs $32 per 1k Images",
+  "publishedAt": "2026-10-20T16:09:03.928Z",
+  "eventTimeApprox": "2026-10-20T15:49:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112572034891104649/HVFaSLkbkAA2xQq-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112572034891104649/HVFaSLkbkAA2xQq-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "risingsayak",
+      "tweetUrl": "https://x.com/RisingSayak/status/2112572034891104649"
+    }
+  },
+  "summary": "Artificial Analysis ranked the 8B parameter model as a joint leader in text-to-image generation alongside Qwen-Image-2.1. Fibo 2.0 maintains the top spot for open weights image editing on the AA-Image-Editing v2.1 leaderboard, where it ranks 6th for enhancement and restoration. The model costs $32 per 1,000 images via the Bria API, a price significantly lower than Luma's $100 and Qwen's $75 for the same volume.\n\nBria released the weights on Hugging Face under a non-commercial license that requires a separate agreement for business use. The tool is accessible through the fal hosting platform with day-0 support in Diffusers and is available in two variants: a Turbo version for fast inference and a Dev version for fine-tuning. On editing benchmarks, the model ranks 14th for everyday consumer edits and high-difficulty frontier prompts.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112573259606884640",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2112573259606884640",
+      "tweetedAt": "2026-10-20T15:54:49.000Z",
+      "bestBit": "Fibo 2.0 costs $32 per 1k images on the Bria API",
+      "text": "Fibo 2.0 from @bria_ai_ is the #1 open weights model on AA-Image-Editing v2.1 and statistically tied with Qwen-Image-2.1 for the lead on AA-Image-T2I v2.1, a large step up from Bria's first-generation Fibo models on both leaderboards\n\nFibo 2.0 is Bria’s new 8B parameter open weights image model. The weights are released under a non-commercial license, which requires a separate agreement with Bria for commercial use. Bria released two sets of open weights: Fibo 2.0 Dev for Text to Image, and Fibo 2.0 Edit Turbo, a faster distilled model, for Image Editing. We benchmarked Fibo 2.0 through the Bria API at its default settings.\n\nFibo 2.0 is level with Qwen-Image-2.1 as the leading open weights model on both AA-Image-Editing v2.1 and AA-Image-T2I v2.1. It is a large step up from Bria's first-generation Fibo models on both leaderboards: it scores higher on every editing action and Text to Image capability we measure, with the biggest gains in Text or Symbol Edits, Text Rendering and Layout.\n\nFibo 2.0 costs $32 per 1k images on the Bria API. Luma UNI 1 Max ($100 per 1k images) and Qwen Image 2.0 Pro ($75) cost more and score slightly lower on both leaderboards, while Grok Imagine Image Quality scores about the same at $50. It is available through the Bria API and fal, with open weights on Hugging Face.\n\nCongratulations to @bria_ai_ on the release!\n\nSee below for our analysis and example outputs of Fibo 2.0 on AA-Image-Editing v2.1 and AA-Image-T2I v2.1 🧵"
+    },
+    {
+      "tweetId": "2112562029336608819",
+      "role": "support",
+      "authorHandle": "fal",
+      "url": "https://x.com/fal/status/2112562029336608819",
+      "tweetedAt": "2026-10-20T15:10:11.000Z",
+      "bestBit": "The #1 open-weight image editing model on Artificial Analysis, with text-to-image generation and targeted editing",
+      "text": "Bria Fibo 2.0 from @bria_ai_ is live on fal.\n\nThe #1 open-weight image editing model on Artificial Analysis, with text-to-image generation and targeted editing. Trained only on licensed data, with clear commercial rights.\n\n- Image editing with up to four input images\n- Background swaps, product restaging and lighting changes\n- Text-to-image generation for reasoning-heavy prompts"
+    },
+    {
+      "tweetId": "2112572034891104649",
+      "role": "support",
+      "authorHandle": "risingsayak",
+      "url": "https://x.com/RisingSayak/status/2112572034891104649",
+      "tweetedAt": "2026-10-20T15:49:57.000Z",
+      "bestBit": "supported in Diffusers (day-0, of course)!",
+      "text": "Meet Fibo 2.0 from @bria_ai_ 🔥\n\nThe #1 *open weights* model in image editing is supported in Diffusers (day-0, of course)!\n\n1. JSON-native control\n2. Pretty good text rendering\n3. Comes in two variants: Turbo and Dev\n\nCheck out the model here:\nhttps://t.co/gPdrEG5JpN https://t.co/R2pyWGG6gQ"
+    },
+    {
+      "tweetId": "2112573266032578712",
+      "role": "analysis",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2112573266032578712",
+      "tweetedAt": "2026-10-20T15:54:50.000Z",
+      "bestBit": "it ranks #14 in both Consumer and Frontier",
+      "text": "By use case on AA-Image-Editing v2.1, Fibo 2.0 ranks highest for everyday consumer edits and our hardest Frontier prompts, at #14 on both\n\nUse cases measure the real-world work the image is for, grounded in how consumers and enterprises use image editing.\n\nIts strongest use cases are everyday consumer edits and our most challenging prompts: it ranks #14 in both Consumer and Frontier. It sits furthest from the frontier in Retail & Ecommerce and Animation & Gaming. Against Fibo Edit, it scores higher on all 10 use cases, by the most in UIUX Design and Marketing & Advertising.\n\n➤ Consumer covers everyday personal use, like generating book covers, stock images and illustration.\n\n➤ Frontier is our set of especially challenging prompts, written to test capabilities at and beyond what today's best models can do."
+    },
+    {
+      "tweetId": "2112561906926113275",
+      "role": "engagement",
+      "authorHandle": "mokadyron",
+      "url": "https://x.com/MokadyRon/status/2112561906926113275",
+      "tweetedAt": "2026-10-20T15:09:42.000Z",
+      "bestBit": "Turbo for fast inference, Dev for fine-tuning",
+      "text": "Wow, Fibo 2.0 ranked #1 *open weights* model in image editing 🎉\n\nStill JSON-native control\nTurbo for fast inference, Dev for fine-tuning\nHigh-quality general editing\nBetter text, texture &amp; anatomy\n\n&gt;&gt;&gt; https://t.co/G6KdSHI23d"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "brias-fibo-20-takes-no-1-open-weight-image-editing-rank-ce168cf2",
+    "title": "Bria's Fibo 2.0 Takes No. 1 Open Weight Image Editing Rank",
+    "publishedAt": "2026-10-20T15:23:43.555Z",
+    "eventTimeApprox": "2026-10-20T15:09:56.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 11,
+    "authorCount": 6
+  }
+}

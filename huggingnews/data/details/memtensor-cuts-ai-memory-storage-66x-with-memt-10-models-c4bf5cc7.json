@@ -1,0 +1,62 @@
+{
+  "slug": "memtensor-cuts-ai-memory-storage-66x-with-memt-10-models-c4bf5cc7",
+  "title": "MemTensor Cuts AI Memory Storage 66x With MemT-1.0 Models",
+  "publishedAt": "2026-10-20T16:53:09.057Z",
+  "eventTimeApprox": "2026-10-20T15:56:35.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112573705075216581/HVFeM9HWAAAKSOk-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112573705075216581/HVFeM9HWAAAKSOk-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "adinayakup",
+      "tweetUrl": "https://x.com/AdinaYakup/status/2112573705075216581"
+    }
+  },
+  "summary": "MemTensor has introduced a new foundation model architecture that treats persistent memory as a core part of the computational process. This MemT-1.0 design eliminates the need to replay the full history of an interaction, enabling a 1.86x inference speedup and a 66x reduction in memory storage when handling a 128K context.\n\nThe models are built on Qwen and DeepSeek and are available in two versions: Nano, with 36B and 3B parameters, and Flash, with 288B and 17B parameters. MemTensor released Nano under an Apache 2.0 license and Flash under an MIT license.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112573705075216581",
+      "role": "source",
+      "authorHandle": "adinayakup",
+      "url": "https://x.com/AdinaYakup/status/2112573705075216581",
+      "tweetedAt": "2026-10-20T15:56:35.000Z",
+      "bestBit": "Native persistent memory: no full history replay",
+      "text": "MemT-1.0 🧠 New memory models from Memtensor \n\n- Nano (36B/3B) &amp; Flash (288B/17B)\n- Apache 2.0 (Nano) / MIT (Flash)\n- Native persistent memory: no full history replay\n- 66× less memory storage at 128K context\n- Based on Qwen &amp; Deepseek https://t.co/JUeCeXjWKU"
+    },
+    {
+      "tweetId": "2112518144237744373",
+      "role": "support",
+      "authorHandle": "huggingpapers",
+      "url": "https://x.com/HuggingPapers/status/2112518144237744373",
+      "tweetedAt": "2026-10-20T12:15:48.000Z",
+      "bestBit": "enabling 1.86x inference speedup and 66x storage reduction at 128K history",
+      "text": "MemT-1.0: Memory-native foundation models\n\nMemTensor introduces a new architecture where persistent memory is part of model computation, enabling 1.86x inference speedup and 66x storage reduction at 128K history. https://t.co/kU21sHGSPE"
+    }
+  ],
+  "isSuperseded": false
+}

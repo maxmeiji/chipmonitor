@@ -1,0 +1,67 @@
+{
+  "slug": "russia-deploys-ai-video-against-james-talarico-in-most-prominent-meddlin-e765f5c5",
+  "title": "Russia Deploys AI Video Against James Talarico in Most Prominent Meddling Case",
+  "publishedAt": "2026-10-22T22:54:19.583Z",
+  "eventTimeApprox": "2026-10-22T21:20:33.500Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "us-politics",
+    "geopolitics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-elections",
+      "name": "US Elections"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "russia",
+      "name": "Russia"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "summary": "A fraudulent recording of a man identifying as Zyon Lewis was released to target the campaign of Texas Democratic Senate candidate James Talarico. The deepfake video falsely claimed that Talarico sexually assaulted Lewis in 2012 while serving as a middle school teacher, and was distributed via the platform X by a covert group in Russia, according to Mediaite.\n\nThree teams of disinformation researchers describe the operation as the most prominent foreign effort to mislead voters before the midterm elections. The operatives are attempting to meddle in the Texas race to influence the outcomes of the upcoming vote.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113362264304586811",
+      "role": "source",
+      "authorHandle": "nbcnews",
+      "url": "https://x.com/NBCNews/status/2113362264304586811",
+      "tweetedAt": "2026-10-22T20:10:02.000Z",
+      "bestBit": "most prominent example yet of a foreign effort to mislead voters ahead of the midterm elections",
+      "text": "Russian operatives are likely trying to meddle in the Senate race in Texas in the most prominent example yet of a foreign effort to mislead voters ahead of the midterm elections, three teams of disinformation researchers say. https://t.co/eCFTj0i3vg"
+    },
+    {
+      "tweetId": "2113378349502587117",
+      "role": "support",
+      "authorHandle": "polltracker2024",
+      "url": "https://x.com/PollTracker2024/status/2113378349502587117",
+      "tweetedAt": "2026-10-22T21:13:57.000Z",
+      "bestBit": "AI-generated video of a man falsely accusing Texas Democratic Senate candidate James Talarico of sexual assault was the work of a covert group in Russia",
+      "text": "Mediaite: An AI-generated video of a man falsely accusing Texas Democratic Senate candidate James Talarico of sexual assault was the work of a covert group in Russia.\n\nEarlier this week, a man identifying himself as Zyon Lewis posted a video on X/Twitter claiming he was assaulted by his middle school teacher in 2012. The teacher, Lewis continued, was Talarico.\n\nhttps://t.co/veB4dTzqY0"
+    }
+  ],
+  "isSuperseded": false
+}

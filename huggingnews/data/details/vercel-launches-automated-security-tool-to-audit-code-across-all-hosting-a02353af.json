@@ -1,0 +1,89 @@
+{
+  "slug": "vercel-launches-automated-security-tool-to-audit-code-across-all-hosting-a02353af",
+  "title": "Vercel Launches Automated Security Tool to Audit Code Across All Hosting Platforms",
+  "publishedAt": "2026-11-03T23:07:34.164Z",
+  "eventTimeApprox": "2026-11-03T22:12:49.500Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "cybersecurity",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:VRCL",
+      "kind": "private",
+      "role": "subject",
+      "name": "Vercel",
+      "hubKey": "vercel"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117726156992753721/QZm8d-r35NvQME5t-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117726156992753721/QZm8d-r35NvQME5t-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2117726065477156864/vid/avc1/1920x1080/KixjOcySRiB-cez9.mp4?tag=16",
+    "credit": {
+      "handle": "vercel",
+      "tweetUrl": "https://x.com/vercel/status/2117726156992753721"
+    }
+  },
+  "summary": "The creators of the Vercel frontend cloud platform have debuted a beta service that integrates security scanning into the development workflow on Nov 3. The new product, called Security Review, allows developers to identify vulnerabilities in their repositories on every push and apply one-click fixes via the Vercel Agent, regardless of whether the code is hosted on Vercel's infrastructure.\n\nThe software was created by Vercel's internal security team to automate audits that were previously conducted by a proprietary agent used only within the company. Vercel is offering the security scanning service for free to all users through Nov 10.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117726156992753721",
+      "role": "source",
+      "authorHandle": "vercel",
+      "url": "https://x.com/vercel/status/2117726156992753721",
+      "tweetedAt": "2026-11-03T21:10:35.000Z",
+      "bestBit": "Run vulnerability reviews on every push, and ship fixes in one click with Vercel Agent.",
+      "text": "Today we are launching Vercel Security Review in public beta.\n\nRun vulnerability reviews on every push, and ship fixes in one click with Vercel Agent.\n\nRead the blog → https://t.co/Uc5Aw9d1Q7 https://t.co/hB3paqs8Qn"
+    },
+    {
+      "tweetId": "2117734833824948373",
+      "role": "analysis",
+      "authorHandle": "rauchg",
+      "url": "https://x.com/rauchg/status/2117734833824948373",
+      "tweetedAt": "2026-11-03T21:45:04.000Z",
+      "bestBit": "this product works whether you host on Vercel or not",
+      "text": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically.\n\nYou can now get the same power. Just enable it on all your repos (this product works whether you host on Vercel or not) and your peace of mind will increase tremendously. You'll see it catch things that every other agent misses.\n\nWhy: you cannot just bank on your engineers having a skill installed, prompting \"please make secure\", or rolling the weights' dice that the code is good out of the gate.\n\nThe other cool thing about this is that this was entirely developed by our security team. A lot of companies out there are probably in a mad rush right now trying to staff up. If you wanted to 'download a security team' as software, this is the closest you get today.",
+      "quotedTweetText": "Today we are launching Vercel Security Review in public beta.\n\nRun vulnerability reviews on every push, and ship fixes in one click with Vercel Agent.\n\nRead the blog → https://t.co/Uc5Aw9d1Q7 https://t.co/hB3paqs8Qn"
+    },
+    {
+      "tweetId": "2117748805378756936",
+      "role": "support",
+      "authorHandle": "vercel_dev",
+      "url": "https://x.com/vercel_dev/status/2117748805378756936",
+      "tweetedAt": "2026-11-03T22:40:35.000Z",
+      "bestBit": "Vercel Security Reviews are free until November 10.",
+      "text": "Vercel Security Reviews are free until November 10.",
+      "quotedTweetText": "Today we are launching Vercel Security Review in public beta.\n\nRun vulnerability reviews on every push, and ship fixes in one click with Vercel Agent.\n\nRead the blog → https://t.co/Uc5Aw9d1Q7 https://t.co/hB3paqs8Qn"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "sk-hynix-acquires-91percent-stake-in-penguin-for-3772m-d9e2a533",
+  "title": "SK hynix Acquires 9.1% Stake in Penguin for $377.2M",
+  "publishedAt": "2026-11-03T16:22:46.256Z",
+  "eventTimeApprox": "2026-11-03T16:13:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "business",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "subject",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    },
+    {
+      "ticker": "PENG",
+      "kind": "equity",
+      "role": "related",
+      "name": "Penguin Solutions, Inc. Ordinary Shares",
+      "hubKey": "peng"
+    },
+    {
+      "ticker": "SKM",
+      "kind": "equity",
+      "role": "related",
+      "name": "SK Telecom Co., Ltd.  American Depositary Shares (Each representing 5/9th of a Ordinary Share of SK Telecom Co., LTD.)",
+      "hubKey": "skm"
+    }
+  ],
+  "summary": "SK hynix has increased its investment in the AI infrastructure company Penguin by purchasing a preferred shareholding formerly owned by SK Telecom. The acquisition of the position for $377.2 million secures a 9.1% interest in the company at approximately $61.87 per share and entitles the memory chipmaker to name a member to Penguin's board of directors.\n\nThe deal is an internal transfer within the SK group. Penguin specializes in the development of CXL and SSD based KV cache technology, which allows SK hynix to gain technical insight into the memory bottlenecks that arise as AI inference operations scale.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117651466655789397",
+      "role": "source",
+      "authorHandle": "kawzinvests",
+      "url": "https://x.com/KawzInvests/status/2117651466655789397",
+      "tweetedAt": "2026-11-03T16:13:48.000Z",
+      "bestBit": "The 13D shows about $61.87 per share, plus the right to nominate a board member.",
+      "text": "$SKHY just paid $377.2M for a 9.1% stake in $PENG.\n\nThere was a hint of this at OCP last month. A little penguin sitting at the SK hynix booth 🐧\n\nThe 13D shows about $61.87 per share, plus the right to nominate a board member.\n\n$PENG",
+      "quotedTweetText": "Little Easter egg at the SK Hynix booth at OCP 🐧\n\n$PENG brought their smallest engineer to supervise the memory racks. https://t.co/1K2deRFFA4"
+    },
+    {
+      "tweetId": "2117651929073631685",
+      "role": "commentary",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117651929073631685",
+      "tweetedAt": "2026-11-03T16:15:38.000Z",
+      "bestBit": "It’s a transfer inside the SK group.",
+      "text": "@KawzInvests Just FWIW, It’s a transfer inside the SK group."
+    },
+    {
+      "tweetId": "2117619772334776521",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2117619772334776521",
+      "tweetedAt": "2026-11-03T14:07:51.000Z",
+      "bestBit": "Penguin’s work on CXL & SSD-based KV cache gives SK hynix firsthand insight into memory bottlenecks emerging as AI inference scales.",
+      "text": "$SKHY now holds an 9% stake in $PENG after acquiring SK Telecom’s $377M preferred position.\n\nI think opportunity goes beyond investment itself as Penguin’s work on CXL &amp; SSD-based KV cache gives SK hynix firsthand insight into memory bottlenecks emerging as AI inference scales. https://t.co/Sgu12E6Kk5"
+    }
+  ],
+  "isSuperseded": false
+}

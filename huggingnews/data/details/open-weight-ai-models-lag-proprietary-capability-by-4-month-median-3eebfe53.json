@@ -1,0 +1,131 @@
+{
+  "slug": "open-weight-ai-models-lag-proprietary-capability-by-4-month-median-3eebfe53",
+  "title": "Open Weight AI Models Lag Proprietary Capability by 4 Month Median",
+  "publishedAt": "2026-10-29T17:09:31.868Z",
+  "eventTimeApprox": "2026-10-28T07:34:41.500Z",
+  "isFreshStory": false,
+  "tweetCount": 62,
+  "authorCount": 41,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115265171233120627/HVrudmWbEAArA9C-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115265171233120627/HVrudmWbEAArA9C-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2115265171233120627"
+    }
+  },
+  "summary": "The highest scoring models with public weights typically trail the capability of closed source models by about 4 months, according to data from the new Artificial Analysis Progress Index v1. While top frontier scores for both proprietary and open models are rising, the gap for open weights models generally ranges from 2 to 8 months. This finding complements the recent v5 update to the company's Intelligence Index, where a switch to 60% private datasets caused the gap between the top proprietary model, Claude Opus 5.5, and the top open weights model, Kimi K3.1 Pro, to widen from 3 points to 12 points.\n\nThe Progress Index, which tracks models released since November 2022 using item response theory, shows the frontier has advanced by about 65 to 70 points per year since the introduction of reasoning models. The top released score has risen from 125 for GPT-3.5 Turbo to 352 for Gemini 4 Carbon, with new records now being set roughly every four weeks. The data also estimates that AI capabilities in China currently lag behind the U.S. by approximately 3.3 months.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115265195417403444",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2115265195417403444",
+      "tweetedAt": "2026-10-28T02:11:36.000Z",
+      "bestBit": "places language models released since November 2022 on one capability scale, across a wide span of benchmarks",
+      "text": "Alongside v5, we're launching the Artificial Analysis Progress Index v1. It places language models released since November 2022 on one capability scale, across a wide span of benchmarks.\n\nUse the Progress Index to compare how underlying capability has changed over time, including between models released years apart. To compare models for current use cases and understand the present frontier, use the Intelligence Index, which remains our primary measure of current model intelligence.\n\nThank you to @EpochAIResearch and @AnthropicAI - we built on learnings from the Epoch Capabilities Index in designing the Progress Index\n\nExplore the Progress Index: https://t.co/vvg5dU6Kg5\n\nMethodology: https://t.co/F50x3Q2Bik"
+    },
+    {
+      "tweetId": "2115848473501393223",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2115848473501393223",
+      "tweetedAt": "2026-10-29T16:49:21.000Z",
+      "bestBit": "GPT-3.5 Turbo, released in November 2022, scores 125... the highest score among released models passed... 325 with Claude Fable 5 in June 2026",
+      "text": "The Progress Index shows how quickly the frontier has moved. GPT-3.5 Turbo, released in November 2022, scores 125. The highest score among released models passed 200 with OpenAI's first reasoning models in late 2024, 250 with o3 in April 2025, 300 with GPT-5.3 Codex in February 2026 and 325 with Claude Fable 5 in June 2026."
+    },
+    {
+      "tweetId": "2115848471244886081",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2115848471244886081",
+      "tweetedAt": "2026-10-29T16:49:20.000Z",
+      "bestBit": "since January 2025, each new highest open weights score came 2-8 months (median ~4) after a proprietary model first reached it",
+      "text": "We’ve announced the Artificial Analysis Progress Index: a single capability scale for every language model since 2022, launched alongside Intelligence Index v5\n\nThe Intelligence Index is still our primary measure of current model intelligence. It uses the evaluations most relevant to developers today, so its mix changes as evaluations are added and retired, and scores from different versions can’t be compared.\n\nThe Progress Index is built for comparisons across time. It uses item response theory, a statistical method used to score standardized tests, to estimate one general capability score for each model from the underlying tasks in all our evaluations, including those that are retired or excluded from the Intelligence Index.\n\nUse the Intelligence Index to choose a model today. Use the Progress Index to see how capability has changed over time.\n\nThe Progress Index builds on prior work placing models on a single capability scale, in particular @EpochAIResearch's Epoch Capabilities Index and the capability scale @AnthropicAI published in its Claude Mythos Preview system card.\n\nKey takeaways:\n\n➤ Since reasoning models arrived, the frontier has risen ~65 to 70 points a year, about double the 2023 pace: the highest score among released models rose 35 points in 2023 (GPT-3.5 Turbo 125 to GPT-4 Turbo 160), 67 in 2024 (to o1 at 228), 68 in 2025 (to GPT-5.2 at 296) and 56 so far in 2026 (to Gemini 4 Carbon at 352).\n\n➤ Open weights models generally trail proprietary models by about 4 months: since January 2025, each new highest open weights score came 2-8 months (median ~4) after a proprietary model first reached it. DeepSeek V4.1 Flash 1017 is the highest-scoring model with released weights at 324, a level Claude Fable 5 reached in June 2026. Kimi K3.1 Pro (weights not yet released) scores 341, about two months after the closed frontier\n\n➤ New frontier scores are being set more often: the highest score among released models was raised on 2 release dates in 2023, 4 in 2024, 9 in 2025 and 11 so far in 2026. That is about once every four weeks this year.\n\n➤ OpenAI has held the top score most of the time since November 2022, but the frontier has become a close contest: OpenAI held the number one position for the first 27 months measured, but in 2026 especially there have been rapid changes in the leader between OpenAI, Anthropic, and now Google"
+    },
+    {
+      "tweetId": "2115421134929981739",
+      "role": "commentary",
+      "authorHandle": "ramaswmysridhar",
+      "url": "https://x.com/RamaswmySridhar/status/2115421134929981739",
+      "tweetedAt": "2026-10-28T12:31:15.000Z",
+      "bestBit": "the day benchmarks went private, the open-model gap went from 3 points to 12",
+      "text": "the day benchmarks went private, the open-model gap went from 3 points to 12. were open models catching up, or was the test leaking?",
+      "quotedTweetText": "Announcing Artificial Analysis Intelligence Index v5, featuring 2 new benchmarks and 3 upgrades. For the first time, the majority of the Index is built on private datasets\n\nThe Artificial Analysis Intelligence Index is our composite measure of model capabilities across tasks reflecting real-world usage today. v5 is our biggest upgrade since v4 launched in January. With v5, 60% of the Index is now based on evaluations with private test sets or held-out answers.\n\nAlongside Intelligence Index v5, we’re launching the Artificial Analysis Progress Index v1, which tracks model capability over time on one continuous scale.\n\nNew to the Intelligence Index:\n\n➤ FrontierCode 2.0: Cognition's newly-launched private benchmark of real-world coding tasks, graded on whether a repository maintainer would merge the agent's change\n\n➤ Terminal-Bench-Science: 70 agentic scientific research tasks, run in a terminal environment\n\nUpgraded:\n\n➤ HLE-Diamond (replacing Humanity's Last Exam): a refined 1,000-question version of Humanity's Last Exam, split evenly between reasoning and knowledge questions\n\n➤ AA-Omniscience v1.1: An updated dataset with saturated and public set questions removed, new questions added, and ambiguous or erroneous questions revised\n\n➤ CritPt v2: a private, 40-question hard subset of CritPt v2, revised by the CritPt authors and run with a code-execution tool\n\nStaying in the Index: AA-Briefcase, AutomationBench-AA, GDP.pdf and Terminal-Bench 4.0\n\nRemoved from the Index: GDPval-AA v2.1, SciCode, and AA-LCR v1.1\n\nKey results:\n\n➤ Claude Opus 5.5 (max) leads at 58, ahead of GPT-6 Astra (max, 57) and GPT-6.1 Sol (max, 55): Anthropic and OpenAI hold the top five models. Gemini 4 Argon (high) is next at 50\n\n➤ The open weights gap widens from 3 points to 12: Kimi K3.1 Pro (weights not yet released) is the top open weights model at 46. Among released weights, DeepSeek V4.1 Flash 1017 (max) and GLM-5.3 (max) lead at 32 - 26 points behind the leader and below Claude Haiku 5.5 (max, 36)\n\n➤ Cost per task varies by more than 13x among the leading models: of the 10 highest-scoring models shown, GPT-6.1 Terra (max) is the cheapest at $0.96 per Intelligence Index task and Claude Fable 5.1 (max) the most expensive at $13.04"
+    },
+    {
+      "tweetId": "2115482233142231454",
+      "role": "commentary",
+      "authorHandle": "scaling01",
+      "url": "https://x.com/scaling01/status/2115482233142231454",
+      "tweetedAt": "2026-10-28T16:34:02.000Z",
+      "bestBit": "the gap between China and the US is ~3.3 months according to the AA Progress Index",
+      "text": "the gap between China and the US is ~3.3 months according to the AA Progress Index https://t.co/BqLSCXCYfw"
+    },
+    {
+      "tweetId": "2115277286123704654",
+      "role": "commentary",
+      "authorHandle": "emollick",
+      "url": "https://x.com/emollick/status/2115277286123704654",
+      "tweetedAt": "2026-10-28T02:59:39.000Z",
+      "bestBit": "finds that open weights models are falling further behind than they had previously measured",
+      "text": "Artificial Analysis finally moves to closed benchmarks (goodbye GDPval-AA), and finds that open weights models are falling  further behind than they had previously measured. Take with a grain of salt, but matches the general vibes that we haven't seen a Fable-class open model.",
+      "quotedTweetText": "Open weights models fall further behind in v5. The leader, Kimi K3.1 Pro (weights not yet released), scores 46, 12 points behind the leader, compared with a 3-point gap in v4.3. Of models with released weights, DeepSeek V4.1 Flash 1017 (max) and GLM-5.3 (max) score highest at 32, and Claude Haiku 5.5 (max) outscores all of them.\n\nThe gap is widest on HLE-Diamond and Terminal-Bench-Science, where Kimi K3.1 Pro scores 37% and 34%, compared with 68% for Claude Opus 5.5 (max) and 63% for GPT-6 Astra (max)."
+    },
+    {
+      "tweetId": "2115272899716325425",
+      "role": "commentary",
+      "authorHandle": "mert_gulsun",
+      "url": "https://x.com/mert_gulsun/status/2115272899716325425",
+      "tweetedAt": "2026-10-28T02:42:13.000Z",
+      "bestBit": "we are building one with “task level” data!",
+      "text": "One more thing… we’ve heard you like continuous indices, so we are building one with “task level” data!\n\nHuge thank you to @EpochAIResearch (s/o to @YafahEdelman &amp; team) and @AnthropicAI",
+      "quotedTweetText": "Alongside v5, we're launching the Artificial Analysis Progress Index v1. It places language models released since November 2022 on one capability scale, across a wide span of benchmarks.\n\nUse the Progress Index to compare how underlying capability has changed over time, including between models released years apart. To compare models for current use cases and understand the present frontier, use the Intelligence Index, which remains our primary measure of current model intelligence.\n\nThank you to @EpochAIResearch and @AnthropicAI - we built on learnings from the Epoch Capabilities Index in designing the Progress Index\n\nExplore the Progress Index: https://t.co/vvg5dU6Kg5\n\nMethodology: https://t.co/F50x3Q2Bik"
+    },
+    {
+      "tweetId": "2115481618416820699",
+      "role": "commentary",
+      "authorHandle": "scaling01",
+      "url": "https://x.com/scaling01/status/2115481618416820699",
+      "tweetedAt": "2026-10-28T16:31:36.000Z",
+      "bestBit": "Artificial Analysis is finally using more difficult benchmarks in their V5 index",
+      "text": "Artificial Analysis is finally using more difficult benchmarks in their V5 index https://t.co/MEPb2905N4",
+      "quotedTweetText": "OpenAI really does have the best RL\n\n(or their models just suck without reasoning) https://t.co/oMoS2QYVAr"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "claude-opus-55-ranks-highest-on-revamped-artificial-analysis-ai-intellig-f194e6cb",
+    "title": "Claude Opus 5.5 Ranks Highest on Revamped Artificial Analysis AI Intelligence Index",
+    "publishedAt": "2026-10-28T02:38:10.589Z",
+    "eventTimeApprox": "2026-10-28T02:11:36.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 57,
+    "authorCount": 40
+  }
+}

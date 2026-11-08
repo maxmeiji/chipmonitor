@@ -1,0 +1,95 @@
+{
+  "slug": "zcash-cofounder-launches-ai-race-to-crack-foundational-cryptographic-has-c664d879",
+  "title": "Zcash Cofounder Launches AI Race to Crack Foundational Cryptographic Hashes",
+  "publishedAt": "2026-10-05T14:10:10.703Z",
+  "eventTimeApprox": "2026-10-05T13:17:23.500Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107099469624098931/HT3rvtLbMAETi5O-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107099469624098931/HT3rvtLbMAETi5O-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "zooko",
+      "tweetUrl": "https://x.com/zooko/status/2107099469624098931"
+    }
+  },
+  "summary": "Zooko Wilcox has partnered with Yukon Research and other labs to crowdsource attacks on the mathematical functions used in current and post-quantum cryptography. The new initiative, called HashSmash, invites participants to use artificial intelligence agents and mathematical expertise to identify vulnerabilities in hashing schemes including SHA-256, SHA-3, and BLAKE3. Multiple users attempted to challenge the security of SHA-3 and BLAKE3 within 23 minutes of the project going live.\n\nThe project is a collaboration between the Zcash cofounder and organizations including Eigen Labs, Shielded Labs, and Project Eleven. Sreeram Kannan of Yukon stated the open research challenge was created because AI methods are increasingly capable of breaking cybersecurity. The participants will test if foundational cryptographic schemes that protect the internet remain secure against evolving AI models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107093458183713107",
+      "role": "source",
+      "authorHandle": "zooko",
+      "url": "https://x.com/zooko/status/2107093458183713107",
+      "tweetedAt": "2026-10-05T13:00:02.000Z",
+      "bestBit": "HashSmash is an open science-acceleration project in collaboration with @yukonresearch, @eigenlabs, @projecteleven, and @ShieldedLabs.",
+      "text": "Announcing https://t.co/qYiMdHjH0X! 𝟘 𝟙 ❒ 🔨\n\nStrengthen cryptography with AI.\n\nCryptography—both current and post-quantum cryptography—depends on hashes. SHA-256? SHA-3? BLAKE3? Nobody knows if they are secure. We're going to find out!\n\nCome help accelerate scientific research!\n\nHashSmash is an open science-acceleration project in collaboration with @yukonresearch, @eigenlabs, @projecteleven, and @ShieldedLabs."
+    },
+    {
+      "tweetId": "2107096012905156722",
+      "role": "source",
+      "authorHandle": "sreeramkannan",
+      "url": "https://x.com/sreeramkannan/status/2107096012905156722",
+      "tweetedAt": "2026-10-05T13:10:12.000Z",
+      "bestBit": "Hashsmash is a Yukon open research challenge to crowdsource the best attacks against hashing.",
+      "text": "Announcing https://t.co/NzHYnuVZBw on Yukon\n\nWith AI methods breaking cybersecurity, it is time for us to evaluate foundational cryptography. \n\nHashsmash is a Yukon open research challenge to crowdsource the best attacks against hashing.\n\n It is a pleasure to work with Zooko Wilcox (cofounder of Zcash) to launch this challenge in partnership with Shielded Labs  and Project Eleven. \n\nBring your math skills and ai agents to take down the best hashing schemes! \n\nMay the best hash remain undefeated!"
+    },
+    {
+      "tweetId": "2107099469624098931",
+      "role": "source",
+      "authorHandle": "zooko",
+      "url": "https://x.com/zooko/status/2107099469624098931",
+      "tweetedAt": "2026-10-05T13:23:56.000Z",
+      "bestBit": "live for 23 minutes and there are already multiple attempts to challenge the security of SHA3 and BLAKE3",
+      "text": "https://t.co/TjZG8L2MXY has been live for 23 minutes and there are already multiple attempts to challenge the security of SHA3 and BLAKE3. https://t.co/NGYXSMoACA"
+    },
+    {
+      "tweetId": "2107104944776270058",
+      "role": "commentary",
+      "authorHandle": "soubhikdeb",
+      "url": "https://x.com/soubhikdeb/status/2107104944776270058",
+      "tweetedAt": "2026-10-05T13:45:41.000Z",
+      "bestBit": "In this competition, autoresearchers have to bring their best math skills and ai agents to take down the best hashing schemes.",
+      "text": "BIG DAY TODAY: https://t.co/fcQoGysos2 is launching today on @yukonresearch.\n\nWith AI models becoming better, everyone is worried about the cryptographic security of the internet and other cyberphysical systems. \n\nInstead, how about we instead use these AI models to investigate the security of these cryptographic schemes in the open. \n\nIn this competition, autoresearchers have to bring their best math skills and ai agents to take down the best hashing schemes.\n\nThe instrument of fear instead becomes the tool for our progress. \n\nIt has been a great pleasure to work with @zooko to launch this challenge in partnership with @ShieldedLabs and @projecteleven. \n\nSmash the Hash!",
+      "quotedTweetText": "Announcing https://t.co/qYiMdHjH0X! 𝟘 𝟙 ❒ 🔨\n\nStrengthen cryptography with AI.\n\nCryptography—both current and post-quantum cryptography—depends on hashes. SHA-256? SHA-3? BLAKE3? Nobody knows if they are secure. We're going to find out!\n\nCome help accelerate scientific research!\n\nHashSmash is an open science-acceleration project in collaboration with @yukonresearch, @eigenlabs, @projecteleven, and @ShieldedLabs."
+    }
+  ],
+  "isSuperseded": false
+}

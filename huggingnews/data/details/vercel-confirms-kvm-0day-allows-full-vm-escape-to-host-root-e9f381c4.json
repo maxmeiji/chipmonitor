@@ -1,0 +1,76 @@
+{
+  "slug": "vercel-confirms-kvm-0day-allows-full-vm-escape-to-host-root-e9f381c4",
+  "title": "Vercel Confirms KVM 0day Allows Full VM Escape to Host Root",
+  "publishedAt": "2026-10-03T15:55:07.645Z",
+  "eventTimeApprox": "2026-10-03T15:12:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:VRCL",
+      "kind": "private",
+      "role": "subject",
+      "name": "Vercel",
+      "hubKey": "vercel"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106378929158135903/HTtcd1VW0AA3Cmh-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106378929158135903/HTtcd1VW0AA3Cmh-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "paulosyibelo",
+      "tweetUrl": "https://x.com/PaulosYibelo/status/2106378929158135903"
+    }
+  },
+  "summary": "Security researchers found a flaw in a widely used Linux virtualization tool that gives a guest user a path to take over the physical hardware from within a virtual machine. Vercel confirmed the zero-day vulnerability in the Kernel-based Virtual Machine (KVM), which permits a full VM escape from guest to host root, after Paulos Yibelo and other researchers identified the issue through the company's Sandbox bounty program.\n\nThe vulnerability impacts a tool described as the industry's gold standard for Linux virtualization, and experts warn that the blast radius of the bug is huge. Vercel is using the discovery to harden the sandbox environment for its AI agents and will publish a full technical writeup of the exploit.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106402024804020657",
+      "role": "source",
+      "authorHandle": "rauchg",
+      "url": "https://x.com/rauchg/status/2106402024804020657",
+      "tweetedAt": "2026-10-03T15:12:32.000Z",
+      "bestBit": "confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s gold standard solution for Linux virtualization",
+      "text": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s gold standard solution for Linux virtualization. \n\n2026 is wild! Thankful to Paulos and other researchers helping us make the most secure sandbox for agents. Full writeup coming.",
+      "quotedTweetText": "Full VM escape zeroday (guest&gt;host root in industry standard hypervisors)! More soon https://t.co/dt9AsDO0De"
+    },
+    {
+      "tweetId": "2106378929158135903",
+      "role": "source",
+      "authorHandle": "paulosyibelo",
+      "url": "https://x.com/PaulosYibelo/status/2106378929158135903",
+      "tweetedAt": "2026-10-03T13:40:45.000Z",
+      "bestBit": "Full VM escape zeroday (guest>host root in industry standard hypervisors)!",
+      "text": "Full VM escape zeroday (guest&gt;host root in industry standard hypervisors)! More soon https://t.co/dt9AsDO0De"
+    },
+    {
+      "tweetId": "2106409377628647442",
+      "role": "commentary",
+      "authorHandle": "s1r1u5_",
+      "url": "https://x.com/S1r1u5_/status/2106409377628647442",
+      "tweetedAt": "2026-10-03T15:41:45.000Z",
+      "bestBit": "this is quiet bad!! the blast raidus of the bug is huge",
+      "text": "this is quiet bad!! the blast raidus of the bug is huge.",
+      "quotedTweetText": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s gold standard solution for Linux virtualization. \n\n2026 is wild! Thankful to Paulos and other researchers helping us make the most secure sandbox for agents. Full writeup coming."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "atmanitys-new-ai-model-turns-single-images-into-real-time-talking-avatar-1bafec8c",
+  "title": "Atmanity's New AI Model Turns Single Images Into Real-Time Talking Avatars",
+  "publishedAt": "2026-11-04T16:53:15.555Z",
+  "eventTimeApprox": "2026-11-04T16:44:29.500Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "summary": "A new video foundation model can now transform a static image and 10 seconds of audio into a life-like AI character for live video calls. Launched by Atmanity, the Atmee v2 model renders an avatar's face and body with facial expressions and gestures that respond in real time to the audio of a conversation. The company currently provides access to the tool for developers through an invitation-only API.\n\nThe system pairs the avatar generator with Causeur, a separate model that manages the AI agent's conversational logic. Atmanity reports that Atmee v2 is up to 50x faster and 10 to 100x cheaper to operate than competing character models such as Wan 3.0 and Seedance 2.5. The technology is designed for use in virtual tutors, sales training, and interactive game characters.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118017931519078609",
+      "role": "source",
+      "authorHandle": "yuchenping",
+      "url": "https://x.com/yuchenping/status/2118017931519078609",
+      "tweetedAt": "2026-11-04T16:30:00.000Z",
+      "bestBit": "Atmee v2 is a video foundation model, it can render anything, but it’s built to excel at characters",
+      "text": "After Google acquired my AR startup, I started thinking about the next interface, this time for AI. Text and voice work fine, just like DOS did before the Mac. But nothing’s more intuitive than face to face.\n\nAfter two years of research, today we’re launching Atmee v2: a real-time avatar model that makes live video agents feel truly life-like.\n\n• Any character from 1 image + 10s of audio\n• Contextual expressions, gestures, even interacting with the environment\n• Live video calls, voice only, or video generation\n\nAt its core, Atmee v2 is a video foundation model, it can render anything, but it’s built to excel at characters, which is what video models like Seedance 2.5 and Wan 3.0 are mostly used for. In comparison:\nAtmee v2\n\n• Up to 50x faster\n• 10-100x cheaper\n\nBuild tutors, sales coaches, support agents, companions, game characters, even whole living worlds. The interface after text and voice starts today."
+    },
+    {
+      "tweetId": "2118020713227690231",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118020713227690231",
+      "tweetedAt": "2026-11-04T16:41:03.000Z",
+      "bestBit": "A separate model, Causeur, handles its conversational behavior.",
+      "text": "Atmanity has launched Atmee v2, turning one image and 10 seconds of audio into an AI character you can talk to live.\n\nThe model generates the character’s face and body, with expressions and gestures that respond to the conversation. A separate model, Causeur, handles its conversational behavior.\n\nDevelopers can embed these characters directly into their apps:\n\n→ A cartoon tutor in a math lesson\n→ A virtual buyer for sales practice\n→ A personal DJ inside a music player\n→ Game characters you can talk to\n\nThe team’s launch demos include two avatars holding a live, unscripted talk show.\n\nAtmee v2 is available through an API, with developer access by invitation.\n\nhttps://t.co/CQkfpuzs3J",
+      "quotedTweetText": "After Google acquired my AR startup, I started thinking about the next interface, this time for AI. Text and voice work fine, just like DOS did before the Mac. But nothing’s more intuitive than face to face.\n\nAfter two years of research, today we’re launching Atmee v2: a real-time avatar model that makes live video agents feel truly life-like.\n\n• Any character from 1 image + 10s of audio\n• Contextual expressions, gestures, even interacting with the environment\n• Live video calls, voice only, or video generation\n\nAt its core, Atmee v2 is a video foundation model, it can render anything, but it’s built to excel at characters, which is what video models like Seedance 2.5 and Wan 3.0 are mostly used for. In comparison:\nAtmee v2\n\n• Up to 50x faster\n• 10-100x cheaper\n\nBuild tutors, sales coaches, support agents, companions, game characters, even whole living worlds. The interface after text and voice starts today."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "oracle-completes-20b-ai-fundraise-with-new-share-offering-at-116-per-sha-e1984521",
+  "title": "Oracle Completes $20B AI Fundraise With New Share Offering at $116 per Share",
+  "publishedAt": "2026-11-03T03:38:56.140Z",
+  "eventTimeApprox": "2026-11-02T14:32:29.500Z",
+  "isFreshStory": false,
+  "tweetCount": 66,
+  "authorCount": 36,
+  "routingTopicKeys": [
+    "us-markets",
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ORCL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Oracle Corp",
+      "hubKey": "orcl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117263070917710144/HWIHivSbIAE_ZuQ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117263070917710144/HWIHivSbIAE_ZuQ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "vestexchange",
+      "tweetUrl": "https://x.com/VestExchange/status/2117263070917710144"
+    }
+  },
+  "summary": "Oracle has concluded a $20B fundraise to finance its cloud expansion by pricing the sale of 86.2 million new shares at $116 each. The equity offering, which represented an 11% discount to the stock's price as of Nov. 1, was paired with a $10B issuance of senior notes. The bond offering consisted of five tranches with coupon rates ranging from 7% for notes due 2029 to 8.65% for notes due 2046.\n\nThe combined capital raise matches the total amount of additional financing Oracle told investors last week it would restrict through fiscal 2030. The company plans to use the proceeds for general corporate purposes and capital expenditures to build out AI infrastructure for customers like Meta and OpenAI. The news drove Oracle shares down by as much as 9% on Monday as shareholders reacted to the dilution and the company's BBB-minus credit rating from S&P, while the business carried roughly $236.1B in consolidated debt as of Aug. 31.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117456179232227815",
+      "role": "source",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2117456179232227815",
+      "tweetedAt": "2026-11-03T03:17:48.000Z",
+      "bestBit": "Oracle announces pricing of concurrent underwritten public offerings of 86,206,897 shares of common stock, at a public offering price of $116.00 per share",
+      "text": "Oracle announces pricing of concurrent underwritten public offerings of 86,206,897 shares of common stock, at a public offering price of $116.00 per share and $2,000,000,000 of its 7.000% notes due 2029, $1,750,000,000 of its 7.450% notes due 2031, $2,250,000,000 of its 7.850% notes due 2033,  $2,500,000,000 of its 8.000%  notes due 2037 and $1,500,000,000 of its 8.650% notes due 2046"
+    },
+    {
+      "tweetId": "2117458795211407598",
+      "role": "support",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2117458795211407598",
+      "tweetedAt": "2026-11-03T03:28:11.000Z",
+      "bestBit": "effectively the lowest price May 2024",
+      "text": "ORCL just sold $10BN in stock at $116, 11% discount to Friday's close, effectively the lowest price May 2024",
+      "quotedTweetText": "Oracle announces pricing of concurrent underwritten public offerings of 86,206,897 shares of common stock, at a public offering price of $116.00 per share and $2,000,000,000 of its 7.000% notes due 2029, $1,750,000,000 of its 7.450% notes due 2031, $2,250,000,000 of its 7.850% notes due 2033,  $2,500,000,000 of its 8.000%  notes due 2037 and $1,500,000,000 of its 8.650% notes due 2046"
+    },
+    {
+      "tweetId": "2117327024763367560",
+      "role": "support",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2117327024763367560",
+      "tweetedAt": "2026-11-02T18:44:35.000Z",
+      "bestBit": "Oracle Is Said to Draw Excess Demand for $10 Billion Share Sale $ORCL",
+      "text": "Oracle Is Said to Draw Excess Demand for $10 Billion Share Sale $ORCL"
+    },
+    {
+      "tweetId": "2117244403236671915",
+      "role": "commentary",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2117244403236671915",
+      "tweetedAt": "2026-11-02T13:16:16.000Z",
+      "bestBit": "ORCL is raising $10BN in capital",
+      "text": "Five days later, ORCL is raising $10BN in capital.\n\nYou can't make this up.",
+      "quotedTweetText": "*ORACLE TO LIMIT ADDITIONAL CAPITAL RAISES TO $20B FOR FY27-FY30\n\ncorrection: market to limit Oracle's capital raises"
+    },
+    {
+      "tweetId": "2117350687806001380",
+      "role": "commentary",
+      "authorHandle": "unusual_whales",
+      "url": "https://x.com/unusual_whales/status/2117350687806001380",
+      "tweetedAt": "2026-11-02T20:18:37.000Z",
+      "bestBit": "Risk Reversal Skew just jumped to +0.03, its highest since at least April.",
+      "text": "$ORCL down ~9% to $119 after filing to raise $20B ($10B stock, $10B bonds) for AI\n\nRisk Reversal Skew just jumped to +0.03, its highest since at least April. \n\nTraders are paying up for puts https://t.co/mSwm33Il8B"
+    },
+    {
+      "tweetId": "2117238336922243562",
+      "role": "analysis",
+      "authorHandle": "junkbondinvest",
+      "url": "https://x.com/junkbondinvest/status/2117238336922243562",
+      "tweetedAt": "2026-11-02T12:52:10.000Z",
+      "bestBit": "BBG HY index spreads at 340bps. But this is IG-rated (Baa2/BBB-/BBB) credit.",
+      "text": "*ORACLE KICKS OFF SIX-PART US DOLLAR HIGH-GRADE BOND OFFERING\n\nHere are the IPTs:\n3Y: T+260bps\n3Y FRN: SOFR equiv\n5Y: T+295\n7Y: T+325\n10Y: T+330\n20Y: T+355\n\nFor context, BBG HY index spreads at 340bps. But this is IG-rated (Baa2/BBB-/BBB) credit. \n\n$ORCL"
+    },
+    {
+      "tweetId": "2117364174506369241",
+      "role": "analysis",
+      "authorHandle": "junkbondinvest",
+      "url": "https://x.com/junkbondinvest/status/2117364174506369241",
+      "tweetedAt": "2026-11-02T21:12:12.000Z",
+      "bestBit": "Oracle now trades wider than most secured data center paper.",
+      "text": "AI debt spreads by structure. \n\n15 of 17 are wider since issue, and Oracle now trades wider than most secured data center paper. \n\n$ORCL $CRWV https://t.co/ikvoItQBr4"
+    },
+    {
+      "tweetId": "2117353203327238651",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2117353203327238651",
+      "tweetedAt": "2026-11-02T20:28:36.000Z",
+      "bestBit": "The cost to insure Oracle’s debt against default is up about 270% from a year ago",
+      "text": "🦔Oracle filed to raise $20 billion, split evenly between new stock and bonds, to keep paying for its AI data centers. The stock fell about 8% today and has lost about half its value over the past year. S&P rates Oracle BBB-, one step above junk. The cost to insure Oracle’s debt against default is up about 270% from a year ago, closer to what junk-rated companies pay.\n\nMy Take\nOracle said last week this is the last money it raises from markets through 2030, and the rest of the plan leans on vendor financing and customers who pay up front. That’s the circular financing I’ve flagged all year, where suppliers and customers fund a buildout that’s supposed to pay them back. \nOracle’s biggest customers make their money selling tokens, and token prices have fallen fast (Anthropic’s are down about 77% since May), so I have a hard time believing Oracle’s forecast of $225 billion in revenue for fiscal 2030 without another raise. One more notch down from S&P makes Oracle junk. A lot of investment-grade bond funds would then have to sell, including the ones in people’s retirement accounts.\n\nHedgie🤗"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "oracle-plans-to-sell-10b-in-new-shares-at-11percent-discount-8bb21d1b",
+    "title": "Oracle Plans to Sell $10B in New Shares at 11% Discount",
+    "publishedAt": "2026-11-03T00:38:59.770Z",
+    "eventTimeApprox": "2026-11-02T14:31:15.500Z",
+    "routingTopicKeys": [
+      "us-markets",
+      "tech",
+      "business",
+      "ai"
+    ],
+    "tweetCount": 56,
+    "authorCount": 33
+  }
+}

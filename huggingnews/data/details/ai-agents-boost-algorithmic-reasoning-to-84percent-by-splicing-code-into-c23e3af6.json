@@ -1,0 +1,95 @@
+{
+  "slug": "ai-agents-boost-algorithmic-reasoning-to-84percent-by-splicing-code-into-c23e3af6",
+  "title": "AI Agents Boost Algorithmic Reasoning to 84% by Splicing Code Into Model Architectures",
+  "publishedAt": "2026-11-07T02:44:26.513Z",
+  "eventTimeApprox": "2026-11-06T18:48:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "related",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118733172011626509/HWc-hXnWYAArd9x-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118733172011626509/HWc-hXnWYAArd9x-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "_doubleai_",
+      "tweetUrl": "https://x.com/_doubleAI_/status/2118733172011626509"
+    }
+  },
+  "summary": "A new AI training process allows coding agents to modify a neural network's structure in real-time, moving the resulting models beyond the design of standard transformers. By splicing code layers directly into the network during training, the researchers saw algorithmic reasoning accuracy for nanochat rise from 55% to 84%, while training loss fell below the levels seen in ordinary training.\n\nThe method also enables open-weight models to perform self-modifications, such as DeepSeek-V4.1-Flash, which analyzed its own activations to identify hidden states signaling incorrect answers. The model wrote a new code layer to predict these failures, increasing its AIME and HMMT 2026 scores from 64% to 71%.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118733156069032292",
+      "role": "source",
+      "authorHandle": "_doubleai_",
+      "url": "https://x.com/_doubleAI_/status/2118733156069032292",
+      "tweetedAt": "2026-11-06T15:52:03.000Z",
+      "bestBit": "On algorithmic reasoning, accuracy rose from 55% to 84%",
+      "text": "1/\nWhat if an LLM could not just edit a model's weights, but re-architect it as it trains?\n\nWe tried just that. The resulting architectures exit the known territory of transformers: the coding agents spliced code directly into the network.\n\nOn nanochat, the loss fell below ordinary training after each new code layer was introduced. On algorithmic reasoning, accuracy rose from 55% to 84%. We even let DeepSeek-V4.1-Flash act as the agent modifying itself, raising its AIME and HMMT 2026 score from 64% to 71%.\n\nTo do all this, the agents built a set of tools we’ve never seen before, which we call mechanistic intervention!\n\nBlog: https://t.co/JOenIuttAR"
+    },
+    {
+      "tweetId": "2118733172011626509",
+      "role": "source",
+      "authorHandle": "_doubleai_",
+      "url": "https://x.com/_doubleAI_/status/2118733172011626509",
+      "tweetedAt": "2026-11-06T15:52:07.000Z",
+      "bestBit": "We asked DeepSeek-V4.1-Flash to make itself better at competition maths",
+      "text": "5/\nWe are even seeing signs of open-weight models being able to perform these changes on themselves.\n\nWe asked DeepSeek-V4.1-Flash to make itself better at competition maths. It analysed its activations and found where its own hidden states signal a wrong answer on these tasks. It then wrote a code layer that helped boost its performance on AIME 2026 and HMMT 2026 by predicting such failures before committing to an answer."
+    },
+    {
+      "tweetId": "2118821999883751865",
+      "role": "commentary",
+      "authorHandle": "willdepue",
+      "url": "https://x.com/willdepue/status/2118821999883751865",
+      "tweetedAt": "2026-11-06T21:45:05.000Z",
+      "bestBit": "trash research. guys please read it for fucks sake",
+      "text": "trash research. guys please read it for fucks sake",
+      "quotedTweetText": "1/\nWhat if an LLM could not just edit a model's weights, but re-architect it as it trains?\n\nWe tried just that. The resulting architectures exit the known territory of transformers: the coding agents spliced code directly into the network.\n\nOn nanochat, the loss fell below ordinary training after each new code layer was introduced. On algorithmic reasoning, accuracy rose from 55% to 84%. We even let DeepSeek-V4.1-Flash act as the agent modifying itself, raising its AIME and HMMT 2026 score from 64% to 71%.\n\nTo do all this, the agents built a set of tools we’ve never seen before, which we call mechanistic intervention!\n\nBlog: https://t.co/JOenIuttAR"
+    },
+    {
+      "tweetId": "2118879800131452987",
+      "role": "analysis",
+      "authorHandle": "hamandcheese",
+      "url": "https://x.com/hamandcheese/status/2118879800131452987",
+      "tweetedAt": "2026-11-07T01:34:45.000Z",
+      "bestBit": "imo something like this is the secret to human sample efficiency",
+      "text": "imo something like this is the secret to human sample efficiency.\n\nHuman learning isn't passive trial and error. We act in the world, make mistakes, and then consciously adjust our behavior based on an interpretation of what happened. \n\nYou don't try every foot position on a skateboard stochastically until you can skate a tiny bit better. You fall a few times, feel out why, and shift your footing to improve your balance by a lot all at once. You then practice that new position until it feels natural.\n\nIt's a kind of self-supervised training that, at the neuronal level, might resemble gradient learning with occasional agentic interventions that adjust the trajectory.",
+      "quotedTweetText": "5/\nWe are even seeing signs of open-weight models being able to perform these changes on themselves.\n\nWe asked DeepSeek-V4.1-Flash to make itself better at competition maths. It analysed its activations and found where its own hidden states signal a wrong answer on these tasks. It then wrote a code layer that helped boost its performance on AIME 2026 and HMMT 2026 by predicting such failures before committing to an answer."
+    }
+  ],
+  "isSuperseded": false
+}

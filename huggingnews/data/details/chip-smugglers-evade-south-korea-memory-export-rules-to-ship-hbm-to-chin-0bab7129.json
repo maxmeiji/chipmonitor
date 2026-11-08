@@ -1,0 +1,60 @@
+{
+  "slug": "chip-smugglers-evade-south-korea-memory-export-rules-to-ship-hbm-to-chin-0bab7129",
+  "title": "Chip Smugglers Evade South Korea Memory Export Rules to Ship HBM to China",
+  "publishedAt": "2026-11-03T16:09:35.877Z",
+  "eventTimeApprox": "2026-11-03T13:50:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "geopolitics",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "summary": "An investigation has revealed a smuggling operation that moves restricted high-bandwidth memory (HBM) chips into China by hiding them on shipments of inexpensive server hardware. To bypass South Korean export detection, the specialized memory is paired with low-end processors during transit and then soldered off upon arrival to be used in artificial intelligence chips.\n\nThe illicit trade occurs as Huawei informs some of its customers that it lacks sufficient HBM and that they must procure their own memory. The restricted components are essential for the operation of high-performance computing hardware, including Huawei's upcoming Ascend 960DT flagship chip.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117475169908457891",
+      "role": "source",
+      "authorHandle": "jingyanghk",
+      "url": "https://x.com/jingyanghk/status/2117475169908457891",
+      "tweetedAt": "2026-11-03T04:33:15.000Z",
+      "bestBit": "The trick? Pair them w/ cheap server chips to avoid export detection; solder the memory chips off the cheap server, viola.",
+      "text": "You can't make this up: Our latest investigation into how expensive high-bandwidth memory chips get smuggled to #China from #SouthKorea.\nThe trick? Pair them w/ cheap server chips to avoid export detection; solder the memory chips off the cheap server, viola. via @theinformation https://t.co/8I2eo3NTfC"
+    },
+    {
+      "tweetId": "2117579828777869367",
+      "role": "commentary",
+      "authorHandle": "kyleichan",
+      "url": "https://x.com/kyleichan/status/2117579828777869367",
+      "tweetedAt": "2026-11-03T11:29:08.000Z",
+      "bestBit": "Huawei is telling some customers it doesn’t have enough HBM and that they need to source their own memory.",
+      "text": "This story is wild.\n\nHuawei is telling some customers it doesn’t have enough HBM and that they need to source their own memory.\n\nChip smugglers are packaging HBM with low-end processors to export them out of South Korea—and then soldering HBM off to use with Chinese AI chips. https://t.co/spCQoewfQ2"
+    }
+  ],
+  "isSuperseded": false
+}

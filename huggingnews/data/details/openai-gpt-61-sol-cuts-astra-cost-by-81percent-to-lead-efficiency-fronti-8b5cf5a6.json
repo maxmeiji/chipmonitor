@@ -1,0 +1,78 @@
+{
+  "slug": "openai-gpt-61-sol-cuts-astra-cost-by-81percent-to-lead-efficiency-fronti-8b5cf5a6",
+  "title": "OpenAI GPT-6.1 Sol Cuts Astra Cost by 81% to Lead Efficiency Frontier",
+  "publishedAt": "2026-10-02T20:11:49.131Z",
+  "eventTimeApprox": "2026-10-02T19:48:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106109027923140928/HTplehZaIAAZvYc-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106109027923140928/HTplehZaIAAZvYc-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "arena",
+      "tweetUrl": "https://x.com/arena/status/2106109027923140928"
+    }
+  },
+  "summary": "The latest AI release from OpenAI delivers intelligence within 1.04 points of GPT-6 Astra in the Agent Arena while reducing the median cost per task to $0.56. The GPT-6.1 Sol (Max) model currently ranks fifth in that arena, outperforming GPT-6 Sol by 1.52 points at a 39% lower cost. In the Code Arena for WebDev, the model initially took third place before sliding to fourth after Anthropic released Claude Sonnet 5.5.\n\nOpenAI introduced the model during its DevDay event, pricing it at $2 per million input tokens and $10 per million output tokens. This version replaces GPT-6 Sol just seven days after that launch and outperforms Anthropic's Fable 5.1 and Opus 5.5 in agent tasks at 88% and 65% lower costs, respectively. While Sol targets the cost efficiency Pareto frontier, Google's Gemini 4 Argon (High) now holds the top spot in the Text Arena.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106109027923140928",
+      "role": "source",
+      "authorHandle": "arena",
+      "url": "https://x.com/arena/status/2106109027923140928",
+      "tweetedAt": "2026-10-02T19:48:16.000Z",
+      "bestBit": "At a $0.56 median cost per task, it delivers performance within 2 percentage points of GPT-6 Sol and GPT-6 Astra for substantially less cost",
+      "text": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!\n\nAt a $0.56 median cost per task, it delivers performance within 2 percentage points of GPT-6 Sol and GPT-6 Astra for substantially less cost:\n- 39% lower cost than GPT-6 Sol, while scoring +1.52 pts higher\n- 81% lower cost than GPT-6 Astra, while landing within 1.04 pts\n\nGPT-6.1 Sol also delivers top-five performance at substantially lower cost compared to:\n- 88% lower cost than Claude Fable 5.1 (Max), while landing within 3.08 pts (ranked #1)\n- 65% lower cost than Claude Opus 5.5 (High), while landing within 2.59 pts (ranked #2)\n- 80% lower cost than Claude Sonnet 5.5 (Max), while landing within 1.29 pts (ranked #3)\n\nCongrats to the team @OpenAI on this release!",
+      "quotedTweetText": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshapes the Pareto frontier!\n\nGPT-6.1 Sol (Max) marks a clear improvement in cost efficiency: it gained 70 points over GPT-6 Sol (Max) for the same price.\n\nIt landed within 30 points of GPT-6 Astra (Max) at 80% lower blended token cost, and 59 points from Claude Opus 5.5 (Max) at 50% of the price. See position on the Pareto frontier for the Code Arena: WebDev in the post below.\n\nOverall, GPT-6.1 Sol improved from GPT-6 Sol by 4 rankings! It also improved in every category:\n- Consumer Product: #5 → #1\n- Simulations: #6 → #3\n- Data & Analytics: #4 → #3\n- Content Creation Tools: #4 → #3\n- Gaming: #6 → #4\n- Reference-Based Design: #6 → #4\n- Brand & Marketing: #10 → #6\n\nCongrats to the @OpenAI team on the release!"
+    },
+    {
+      "tweetId": "2106072778407563590",
+      "role": "support",
+      "authorHandle": "arena",
+      "url": "https://x.com/arena/status/2106072778407563590",
+      "tweetedAt": "2026-10-02T17:24:13.000Z",
+      "bestBit": "Gemini 4 Argon (High) landed at #1 in Text Arena, #8 in Code Arena: WebDev (1679 pts), and #8 in Agent Arena",
+      "text": "This Week in the Arena: Four releases reshaped the Pareto frontier across Text, Code, and Agent Arena.\n\n- After OpenAI’s DevDay, GPT-6.1 Sol (Max) entered Code Arena: WebDev at #3 and joined the Pareto frontier at $8/MToken.\n\n- However, once Sonnet 5.5 entered the leaderboard later that day, Sol moved to #4 and fell off the Pareto frontier. Today, Sonnet is 2 points behind #2 GPT-6 Astra (Max) at 80% lower cost.\n\n- Excitingly, Gemini 4 Argon (High) landed at #1 in Text Arena, #8 in Code Arena: WebDev (1679 pts), and #8 in Agent Arena (+7.92% net improvement).\n\n- Finally, MiMo-V2.6-Pro and Flash entered Agent Arena at #5 and #9 among open-source models, respectively.\n\nAgent scores for GPT-6.1 Sol and Sonnet 5.5 are coming soon. Stay tuned! \n \nSee leaderboards, other updates, and more in less than 90 seconds in the video. \n\nhttps://t.co/gUsmQm4s33"
+    },
+    {
+      "tweetId": "2106051915222237598",
+      "role": "commentary",
+      "authorHandle": "thursdai_pod",
+      "url": "https://x.com/thursdai_pod/status/2106051915222237598",
+      "tweetedAt": "2026-10-02T16:01:19.000Z",
+      "bestBit": "it does not make sense to use Fable or Astra as your daily driver right now. Opus 5.5 is enough, GPT-6.1 Sol is enough",
+      "text": "Peter Gostev (@petergostev) on ThursdAI: it does not make sense to use Fable or Astra as your daily driver right now. Opus 5.5 is enough, GPT-6.1 Sol is enough. Maybe that is what pacing the frontier looks like.\n\nhttps://t.co/M4oKORrdpN",
+      "quotedTweetText": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days. It scores 1 point below GPT-6 Astra in the Intelligence Index at less than one quarter of the Cost per Task\n\nPricing matches GPT-6 Sol at $2/$10 per million input/output tokens, except that the cache read discount rises from 90% to 95%. GPT-6.1 Sol’s overall blended price for agentic workloads is therefore slightly lower than GPT-6 Sol. This represents an additional price cut, following GPT-6 Sol’s original 50% discount from GPT-5.6 Sol.\n\nKey takeaways:\n\n➤ Achieves near-Astra Intelligence: GPT-6.1 Sol gains 4 points in the Intelligence Index vs GPT-6 Sol, and 5 points vs GPT-5.6 Sol - landing 1 point below GPT-6 Astra. It makes significant gains in agentic knowledge work, improving 4 points and 5 points in AA-Briefcase v1.1 and GDPval-AA v2.1 respectively. Other notable gains include a 12 point jump in Terminal-Bench 4.0, a 5 point jump in Humanity’s Last Exam, a 6 point jump in GDP.pdf, and an 8 point jump in AA-Omniscience Accuracy coupled with hallucination rate falling from 60% to 54%.\n\n➤ Pushes cost efficiency frontier: At max effort, GPT-6.1 Sol costs less than a quarter of GPT-6 Astra per Intelligence Index task ($0.72 vs $3.26). It also costs 31% less per task than GPT-6 Sol ($1.05) and 64% less than GPT-5.6 Sol ($1.99). All effort levels of GPT-6.1 Sol push out the cost efficiency Pareto frontier: for a given level of intelligence, there is no cheaper model.\n\n➤ Pushes token efficiency frontier, but uses slightly more output tokens than GPT-6 Sol: GPT-6.1 Sol uses ~10-30% more output tokens than GPT-6 Sol across effort levels. However, due to the increase in Intelligence Index score, its low and medium effort levels are Pareto optimal for token efficiency.\n\n➤ Gains in Coding Agent Index: GPT-6.1 Sol gains 3 points on GPT-6 Sol at max effort in the Artificial Analysis Coding Agent Index, and sits 2 points below GPT-6 Astra.\n\nCongratulations @OpenAI and @sama on the launch!"
+    }
+  ],
+  "isSuperseded": false
+}

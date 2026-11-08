@@ -1,0 +1,59 @@
+{
+  "slug": "sesame-adds-computer-control-to-voice-ai-for-2027-glass-os-f4d1ba87",
+  "title": "Sesame Adds Computer Control to Voice AI for 2027 Glass OS",
+  "publishedAt": "2026-10-06T20:39:13.139Z",
+  "eventTimeApprox": "2026-10-06T20:03:00.500Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107568598172741974/HT-WLpwW0AAqwvB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107568598172741974/HT-WLpwW0AAqwvB-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "testingcatalog",
+      "tweetUrl": "https://x.com/testingcatalog/status/2107568598172741974"
+    }
+  },
+  "summary": "Users can now control coding agents like Devin, Codex, and Claude Code entirely by voice through the October update to the Sesame app. The new version introduces a more capable voice model on iOS and Android that uses its own integrated computer to perform independent research and execute complex tasks.\n\nThe update serves as a foundation for a voice-based operating system on smart glasses scheduled for release in 2027. Brendan Iribe described the current AI as a \"live thought partner\" and \"a new species\" capable of iterating on documents and managing software agents on behalf of the user.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107535948041060713",
+      "role": "source",
+      "authorHandle": "sesame",
+      "url": "https://x.com/sesame/status/2107535948041060713",
+      "tweetedAt": "2026-10-06T18:18:20.000Z",
+      "bestBit": "Voice assistants available to everyone today. Glasses coming 2027.",
+      "text": "Frames you love to wear, with an assistant you enjoy talking to.\n\nVoice assistants available to everyone today. Glasses coming 2027.\n\nThis release is a step towards our vision—a voice OS on the frames that can connect to your tools, act on your behalf, and help you throughout your day.\n\niOS: https://t.co/OEQs8yJJyf\nAndroid: https://t.co/9spgYH9Ubl"
+    },
+    {
+      "tweetId": "2107555979730485352",
+      "role": "source",
+      "authorHandle": "brendaniribe",
+      "url": "https://x.com/brendaniribe/status/2107555979730485352",
+      "tweetedAt": "2026-10-06T19:37:56.000Z",
+      "bestBit": "It has its own full computer to do all sorts of research and complex tasks.",
+      "text": "The new Sesame voice model is more expressive, intelligent and capable. It has its own full computer to do all sorts of research and complex tasks.\n\nIt's hard to describe. You can use it as a live thought partner to riff and learn new things, iterate on documents together, even manage coding agents. It feels like a new species. \n\nTry it in the October update of the Sesame app.\nhttps://t.co/URtqn7nQwg"
+    }
+  ],
+  "isSuperseded": false
+}

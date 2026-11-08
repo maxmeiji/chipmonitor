@@ -1,0 +1,90 @@
+{
+  "slug": "sam-altman-now-supports-high-pc-memory-levels-after-dram-scarcity-commen-1140dba6",
+  "title": "Sam Altman Now Supports High PC Memory Levels After DRAM Scarcity Comments Spark Backlash",
+  "publishedAt": "2026-11-04T21:09:04.052Z",
+  "eventTimeApprox": "2026-10-31T01:20:05.500Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The head of OpenAI revised his position on the availability of local computer memory on Nov. 4, stating that he wants personal computer users to have plenty of RAM. The change in tone follows a public reaction to earlier remarks in which Sam Altman suggested that the global supply of dynamic random-access memory (DRAM) is currently wasted on home devices.\n\nAltman previously told the Cheeky Pint podcast that home PCs typically utilize their installed memory only about 5% of the time, arguing that the resources would be more efficient if allocated to the data centers fueling the AI boom. These comments coincided with reports that Intel attributed a decline in personal computer sales to the high costs of memory components.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116248483892277526",
+      "role": "source",
+      "authorHandle": "unusual_whales",
+      "url": "https://x.com/unusual_whales/status/2116248483892277526",
+      "tweetedAt": "2026-10-30T19:18:51.000Z",
+      "bestBit": "OpenAI CEO Sam Altman says having RAM in personal computers is an inefficient use of the world’s limited DRAM supply, arguing it would be better allocated to data centers",
+      "text": "BREAKING: OpenAI CEO Sam Altman says having RAM in personal computers is an inefficient use of the world’s limited DRAM supply, arguing it would be better allocated to data centers, per Tom’s Hardware"
+    },
+    {
+      "tweetId": "2116271596897714601",
+      "role": "commentary",
+      "authorHandle": "tunguz",
+      "url": "https://x.com/tunguz/status/2116271596897714601",
+      "tweetedAt": "2026-10-30T20:50:41.000Z",
+      "bestBit": "Cartel boss calls local meth labs inefficient.",
+      "text": "Cartel boss calls local meth labs inefficient.",
+      "quotedTweetText": "BREAKING: OpenAI CEO Sam Altman says having RAM in personal computers is an inefficient use of the world’s limited DRAM supply, arguing it would be better allocated to data centers, per Tom’s Hardware"
+    },
+    {
+      "tweetId": "2116233519240245511",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2116233519240245511",
+      "tweetedAt": "2026-10-30T18:19:23.000Z",
+      "bestBit": "He told the Cheeky Pint podcast that home PCs only use their RAM about 5% of the time.",
+      "text": "🦔Sam Altman says it’s “quite terrible” for regular people to keep so much memory in their own computers. He told the Cheeky Pint podcast that home PCs only use their RAM about 5% of the time. In his view, the world’s limited supply of memory does more good in the cloud.\n\nMy Take\nHe said this the same day Intel blamed expensive memory for a drop in PC sales. My car stays parked for most of the day too, and I’m not selling it to rent one by the hour.\n\nOpenAI earns its money when you rent its computers instead of using your own, so of course Altman wants the memory in his data centers. I think he worries about local AI more than he lets on, because people who run good models at home have less reason to pay for ChatGPT.\n\nHedgie🤗"
+    },
+    {
+      "tweetId": "2118084200368885885",
+      "role": "support",
+      "authorHandle": "polymarket",
+      "url": "https://x.com/Polymarket/status/2118084200368885885",
+      "tweetedAt": "2026-11-04T20:53:20.000Z",
+      "bestBit": "Sam Altman says he wants people to have \"so much RAM\" after backlash over comments suggesting the world's limited RAM supply would be better used in AI data centers than personal computers.",
+      "text": "JUST IN: Sam Altman says he wants people to have \"so much RAM\" after backlash over comments suggesting the world's limited RAM supply would be better used in AI data centers than personal computers."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-ceo-says-personal-computer-ram-is-inefficient-use-of-global-dram-82202180",
+    "title": "OpenAI CEO Says Personal Computer RAM Is Inefficient Use of Global DRAM Supply",
+    "publishedAt": "2026-10-30T21:29:04.615Z",
+    "eventTimeApprox": "2026-10-30T20:04:46.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 11,
+    "authorCount": 10
+  }
+}

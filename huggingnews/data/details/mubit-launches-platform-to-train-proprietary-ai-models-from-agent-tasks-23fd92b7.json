@@ -1,0 +1,76 @@
+{
+  "slug": "mubit-launches-platform-to-train-proprietary-ai-models-from-agent-tasks-23fd92b7",
+  "title": "Mubit Launches Platform to Train Proprietary AI Models From Agent Tasks",
+  "publishedAt": "2026-10-23T21:53:03.221Z",
+  "eventTimeApprox": "2026-10-23T15:44:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113748441608106460/HVWK-34W4AAFhgm-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113748441608106460/HVWK-34W4AAFhgm-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "testingcatalog",
+      "tweetUrl": "https://x.com/testingcatalog/status/2113748441608106460"
+    }
+  },
+  "summary": "Mubit has released a platform that allows businesses to build and own smaller, proprietary AI models based on the repetitive work performed by their AI agents. The system acts as a proxy for APIs from OpenAI, Anthropic, or Gemini, and can also ingest activity logs from Pydantic Logfire, Langfuse, or Braintrust. Mubit identifies repeated tasks and trains specific models for them that refresh every few minutes, allowing the customer-owned model to take over once its performance matches that of the frontier model.\n\nThe company also launched Banyan Sapling, a research preview open model available under the Apache 2.0 license that evaluates whether context supports, violates, or contradicts a claim. In company tests, the model correctly answered 779 of 1,731 cases and responded as \"unsure\" for the remaining instances. The launch includes a new benchmark for agentic AI evaluations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113651823131132155",
+      "role": "source",
+      "authorHandle": "notanilp",
+      "url": "https://x.com/notanilp/status/2113651823131132155",
+      "tweetedAt": "2026-10-23T15:20:39.000Z",
+      "bestBit": "And the thing we kept seeing: you and your competitor run the same AI. It should be yours.",
+      "text": "We started Mubit in Aberdeen. No network, no lab, nobody knew us. We just wanted AI systems that actually work.\n\nToday we work with some of the best companies and engineers in the world.\n\nAnd the thing we kept seeing: you and your competitor run the same AI. It should be yours. 🧵\n\nComment \"SAPLING\" in the next 48 hours for $100 free credits. Enterprises get the first month free."
+    },
+    {
+      "tweetId": "2113748441608106460",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2113748441608106460",
+      "tweetedAt": "2026-10-23T21:44:34.000Z",
+      "bestBit": "Mubit acts as a proxy base URL in front of OpenAI, Anthropic, or Gemini APIs and trains a small model based on agent tasks.",
+      "text": "Mubit has launched a platform that lets teams train their own AI models for repetitive tasks, along with an open model and a new benchmark.\n\nMubit acts as a proxy base URL in front of OpenAI, Anthropic, or Gemini APIs and trains a small model based on agent tasks. The new model can take over the task as soon as it matches the frontier model in Mubit's tests.\n\nMubit can also learn from past calls imported from Langfuse, Braintrust, or Pydantic Logfire.",
+      "quotedTweetText": "We started Mubit in Aberdeen. No network, no lab, nobody knew us. We just wanted AI systems that actually work.\n\nToday we work with some of the best companies and engineers in the world.\n\nAnd the thing we kept seeing: you and your competitor run the same AI. It should be yours. 🧵\n\nComment \"SAPLING\" in the next 48 hours for $100 free credits. Enterprises get the first month free."
+    },
+    {
+      "tweetId": "2113748445014188053",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2113748445014188053",
+      "tweetedAt": "2026-10-23T21:44:35.000Z",
+      "bestBit": "in Mubit's evaluation, Banyan Sapling correctly answered 779 of 1,731 cases, leaving the rest as “unsure.”",
+      "text": "Banyan Sapling is a research preview open model from Mubit that tells you whether the context supports a claim, violates it, is missing information, or contradicts it, with calibrated probabilities.\n\nIt is available under the Apache 2.0 license, and in Mubit's evaluation, Banyan Sapling correctly answered 779 of 1,731 cases, leaving the rest as “unsure.”\n\nTest it out 👀\nhttps://t.co/F8AcHDe2Kh"
+    }
+  ],
+  "isSuperseded": false
+}

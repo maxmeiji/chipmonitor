@@ -1,0 +1,143 @@
+{
+  "slug": "check-point-research-tracks-2000-servers-using-artex-ai-hacking-tool-0966e469",
+  "title": "Check Point Research Tracks 2,000+ Servers Using ARTEX AI Hacking Tool",
+  "publishedAt": "2026-11-06T02:08:17.376Z",
+  "eventTimeApprox": "2026-10-22T16:20:44.000Z",
+  "isFreshStory": false,
+  "tweetCount": 65,
+  "authorCount": 34,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CHKP",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Check Point Software Technologies Ltd",
+      "hubKey": "chkp"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117676598866714972/HWN_pQBaUAAcbI_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117676598866714972/HWN_pQBaUAAcbI_-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "p_misirov",
+      "tweetUrl": "https://x.com/p_misirov/status/2117676598866714972"
+    }
+  },
+  "summary": "Security researchers identified a sprawling network of infrastructure used to deploy the ARTEX framework, an AI-driven tool that automates the process of penetrating computer networks. By analyzing more than 2,000 of these servers, Check Point obtained conversation logs that reveal how these autonomous agents conduct reconnaissance and establish access to target environments without human intervention.\n\nThe tool has been linked by Microsoft and CrowdStrike to Chinese state-aligned hacking groups, including an entity known as Vapor Panda that targeted more than 200 organizations in 14 countries. While the software is used for offensive operations, some builds have proven insecure; a compromised Docker image for ARTEX previously left 62 internet-facing consoles open to unauthorized administrative access.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118395415364079679",
+      "role": "source",
+      "authorHandle": "_cpresearch_",
+      "url": "https://x.com/_CPResearch_/status/2118395415364079679",
+      "tweetedAt": "2026-11-05T17:29:59.000Z",
+      "bestBit": "We tracked 2,000+ #ARTEX servers and obtained databases with full conversation logs that show exactly how the agents hacked.",
+      "text": "Agentic hacking frameworks are on the rise.\n\nWe tracked 2,000+ #ARTEX servers and obtained databases with full conversation logs that show exactly how the agents hacked.\n\nIt proves: Fully autonomous cybercrime is already here.\n\nRead more 👇:\nhttps://t.co/ZibylV402n"
+    },
+    {
+      "tweetId": "2117706637754409335",
+      "role": "source",
+      "authorHandle": "zaddyzaddy",
+      "url": "https://x.com/Zaddyzaddy/status/2117706637754409335",
+      "tweetedAt": "2026-11-03T19:53:02.000Z",
+      "bestBit": "The ARTEX repo on GitHub has a sleek little backdoor.",
+      "text": "The ARTEX repo on GitHub has a sleek little backdoor. Been fun watching these threat actors operate in real time over the past few days. More details on our discovery soon"
+    },
+    {
+      "tweetId": "2118103866394775661",
+      "role": "commentary",
+      "authorHandle": "blackroomsec",
+      "url": "https://x.com/blackroomsec/status/2118103866394775661",
+      "tweetedAt": "2026-11-04T22:11:28.000Z",
+      "bestBit": "I asked yesterday if the fork was viable and not poisoned but no one saw it because I was screaming at another bot swarm.",
+      "text": "I asked yesterday if the fork was viable and not poisoned but no one saw it because I was screaming at another bot swarm. And now I know my instincts were spot on. Unless I'm reading this wrong?",
+      "quotedTweetText": "The ARTEX repo on GitHub has a sleek little backdoor. Been fun watching these threat actors operate in real time over the past few days. More details on our discovery soon"
+    },
+    {
+      "tweetId": "2118263059991134550",
+      "role": "support",
+      "authorHandle": "thehackersnews",
+      "url": "https://x.com/TheHackersNews/status/2118263059991134550",
+      "tweetedAt": "2026-11-05T08:44:03.000Z",
+      "bestBit": "Researchers found 62 internet-facing consoles running the backdoored build.",
+      "text": "‼️ A backdoored AI hacking tool is exposing servers to root access without authentication.\n\nA malicious Docker image for ARTEX hides a root shell in its login handler.\n\nResearchers found 62 internet-facing consoles running the backdoored build.\n\nRead: https://t.co/JiUtfukLWG"
+    },
+    {
+      "tweetId": "2117676598866714972",
+      "role": "analysis",
+      "authorHandle": "p_misirov",
+      "url": "https://x.com/p_misirov/status/2117676598866714972",
+      "tweetedAt": "2026-11-03T17:53:40.000Z",
+      "bestBit": "hundreds of ARTEX instances are popping up across multiple VPS providers creating a potential distributed attack network.",
+      "text": "someone is mass deploying Offensive AI Agents.\n\nhundreds of ARTEX instances are popping up across multiple VPS providers creating a potential distributed attack network.\n\nthe largest clusters are on 38.11.x.x (Cogent) and 172.245.x.x (ColoCrossing) with others on DigitalOcean, Vultr and Linode. some of these providers accept cryptocurrency payments.\n\nan identical ETag (6acfa90c-39df) and Content-Length (14815) prove they are all dropping from the same Docker image or template.\n\nvendors like Microsoft, CrowdStrike and AhnLab have already confirmed ARTEX in live attacks including against Korean financial institutions."
+    },
+    {
+      "tweetId": "2117804726582759510",
+      "role": "commentary",
+      "authorHandle": "jun_song",
+      "url": "https://x.com/jun_song/status/2117804726582759510",
+      "tweetedAt": "2026-11-04T02:22:48.000Z",
+      "bestBit": "hundreds of ARTEX instances are popping up across multiple VPS providers",
+      "text": "So it begins",
+      "quotedTweetText": "someone is mass deploying Offensive AI Agents.\n\nhundreds of ARTEX instances are popping up across multiple VPS providers creating a potential distributed attack network.\n\nthe largest clusters are on 38.11.x.x (Cogent) and 172.245.x.x (ColoCrossing) with others on DigitalOcean, Vultr and Linode. some of these providers accept cryptocurrency payments.\n\nan identical ETag (6acfa90c-39df) and Content-Length (14815) prove they are all dropping from the same Docker image or template.\n\nvendors like Microsoft, CrowdStrike and AhnLab have already confirmed ARTEX in live attacks including against Korean financial institutions."
+    },
+    {
+      "tweetId": "2116997707269046603",
+      "role": "support",
+      "authorHandle": "cyberscoopnews",
+      "url": "https://x.com/CyberScoopNews/status/2116997707269046603",
+      "tweetedAt": "2026-11-01T20:55:59.000Z",
+      "bestBit": "The threat group, which CrowdStrike tracks as Vapor Panda, targeted more than 200 organizations in at least 14 countries since Oct. 17",
+      "text": "A China state-backed threat group is using ARTEX, the automated agentic AI penetration testing framework, to achieve remarkable speed, scale and success in a campaign that already compromised about 140 sensitive targets in 11 days, according to CrowdStrike. \n\nThe threat group, which CrowdStrike tracks as Vapor Panda, targeted more than 200 organizations in at least 14 countries since Oct. 17, the security company said in a threat report Thursday. Targets and confirmed victims include foreign ministries, a European country’s presidency and prime minister’s office, defense and intelligence agencies; 19 U.S.-based organizations in the pharmaceutical, semiconductor, defense, nuclear and financial sectors; and telecom providers in the United States, Belgium and the Philippines. \n\nRear more: https://t.co/4d6AHtJyQo"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "malicious-artex-image-exposes-62-servers-to-root-access-0ef44c28",
+    "title": "Malicious ARTEX Image Exposes 62 Servers to Root Access",
+    "publishedAt": "2026-11-05T08:52:55.470Z",
+    "eventTimeApprox": "2026-10-22T16:19:09.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai"
+    ],
+    "tweetCount": 62,
+    "authorCount": 33
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "amd-and-intel-adopt-onednn-as-pytorch-standard-for-x86-cpus-a41fc7c7",
+  "title": "AMD and Intel Adopt oneDNN as PyTorch Standard for x86 CPUs",
+  "publishedAt": "2026-10-20T16:23:02.742Z",
+  "eventTimeApprox": "2026-10-20T16:08:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMD",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Advanced Micro Devices",
+      "hubKey": "amd"
+    },
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    }
+  ],
+  "summary": "The UXL Foundation has added AMD as a steering member to coordinate efforts on machine learning acceleration for x86 processors. The company and Intel have agreed to use the oneDNN open-source library as the default for x86 acceleration within the PyTorch framework to streamline how AI models are deployed on CPUs.\n\nThis collaboration provides a single software path for developers and reduces the reliance on different toolsets for each chipmaker. The move allows enterprises to run AI agents on existing hardware for tasks that do not require the performance or cost of expensive GPUs.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112575832577516018",
+      "role": "source",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2112575832577516018",
+      "tweetedAt": "2026-10-20T16:05:02.000Z",
+      "bestBit": "AMD and Intel have aligned on oneDNN as the default open-source library for x86 acceleration within PyTorch",
+      "text": "Intel: AMD joins UXL Foundation as steering member to advance oneDNN PyTorch work; AMD and Intel have aligned on oneDNN as the default open-source library for x86 acceleration within PyTorch - Website $INTC"
+    },
+    {
+      "tweetId": "2112576770771951800",
+      "role": "support",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2112576770771951800",
+      "tweetedAt": "2026-10-20T16:08:46.000Z",
+      "bestBit": "easier for enterprises to run AI on hardware they already own while giving developers one common software path across both chipmakers",
+      "text": "$INTC and $AMD are teaming up to simplify PyTorch AI development on x86 CPUs as AI agents increasingly handle tasks that don’t require expensive GPUs.\n\nThat could make it easier for enterprises to run AI on hardware they already own while giving developers one common software path across both chipmakers."
+    }
+  ],
+  "isSuperseded": false
+}

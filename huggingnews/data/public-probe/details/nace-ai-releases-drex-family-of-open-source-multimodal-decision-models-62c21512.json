@@ -1,0 +1,72 @@
+{
+  "slug": "nace-ai-releases-drex-family-of-open-source-multimodal-decision-models-62c21512",
+  "title": "Nace AI Releases Drex Family of Open Source Multimodal Decision Models",
+  "publishedAt": "2026-11-06T14:08:05.407Z",
+  "eventTimeApprox": "2026-11-06T13:21:58.500Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118705614880940103/HWcl8jWasAAN4Qn-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118705614880940103/HWcl8jWasAAN4Qn-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "arankomatsuzaki",
+      "tweetUrl": "https://x.com/arankomatsuzaki/status/2118705614880940103"
+    }
+  },
+  "summary": "Nace AI's 27B parameter Drex model returns results in 183 milliseconds, compared to the 3.5 seconds required by some existing decision systems. The new open source model is statistically tied with GPT-6 Sol and d3-turbo on the Decision Bench v4 suite, and scored within 1.6 points of Claude Opus 5.5. Nace AI released the Drex family in four open versions with 8B, 9B, 27B, and 35B parameters, with the largest model utilizing 3B active parameters.\n\nThe models are designed to return a probability for a specific set of options without generating text, based on a provided document or agent context. According to Nace AI's technical report, the models were trained using reinforcement learning from adjusted feedback (RLAF), which added 2.0 points to the Decision Index score and lowered the rate of flipped answers during option reordering from 6.3% to 4.2%. While the core family is open, Nace AI will keep the Drex for Finance and Drex Max 1.1 models closed source for enterprise clients.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118695842551103645",
+      "role": "source",
+      "authorHandle": "naceai",
+      "url": "https://x.com/NaceAI/status/2118695842551103645",
+      "tweetedAt": "2026-11-06T13:23:46.000Z",
+      "bestBit": "Drex Max 1.1 and Drex for Finance are closed sourced and designed for enterprise use-cases",
+      "text": "How are Decision Models Trained?\n\nToday, we are publishing the Drex Technical Report for the developer community! 🚀\n\nDiscover details on how the State-of-the-art Open-Source decision models are trained with RLAF.\n\nBuild more at: https://t.co/swZ0gsqCyo (try for free)\n\nP.S. Drex Max 1.1 and Drex for Finance are closed sourced and designed for enterprise use-cases"
+    },
+    {
+      "tweetId": "2118705614880940103",
+      "role": "support",
+      "authorHandle": "arankomatsuzaki",
+      "url": "https://x.com/arankomatsuzaki/status/2118705614880940103",
+      "tweetedAt": "2026-11-06T14:02:36.000Z",
+      "bestBit": "Drex Max: - beats Jev 1.14 and ties with GPT-6 Sol on Decision Bench v4 - has the highest accuracy among decision models on DecideBench",
+      "text": "Nace AI presents Drex, opensource multimodal decision model family, along with its technical report \n\nDrex Max: \n- beats Jev 1.14 and ties with GPT-6 Sol on Decision Bench v4\n- has the highest accuracy among decision models on DecideBench\n- is competitive with the top model on JevBench-231\n\nabs: https://t.co/pPKIVOPMor\nrepo: https://t.co/mvUQb6r9fo\nmodel:\nhttps://t.co/EtgjxM5W0M\nhttps://t.co/o0PsX7u7TK\nhttps://t.co/MPuXHqhIEg",
+      "quotedTweetText": "How are Decision Models Trained?\n\nToday, we are publishing the Drex Technical Report for the developer community! 🚀\n\nDiscover details on how the State-of-the-art Open-Source decision models are trained with RLAF.\n\nBuild more at: https://t.co/swZ0gsqCyo (try for free)\n\nP.S. Drex Max 1.1 and Drex for Finance are closed sourced and designed for enterprise use-cases"
+    },
+    {
+      "tweetId": "2118693892300439722",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2118693892300439722",
+      "tweetedAt": "2026-11-06T13:16:02.000Z",
+      "bestBit": "The 27B Max model scores 67.52 on the public Decision Index 0.4.1 suite, against 60.70 for Jev 1.14.0.",
+      "text": "Banger report on foundation decision models.\n\nThis work presents a 27B open decision model that lands within 1.6 points of Claude Opus 5.5 on Decision Bench v4 and answers in 183 ms instead of 3.5s.\n\nNace AI released Drex, a family of four open decision models at 8B, 9B, 35B with 3B active, and 27B.\n\nYou give the model a state, such as a document, a record, or an agent's context, plus questions with a fixed set of options. It returns a probability for each option without generating text.\n\nThe 27B Max model scores 67.52 on the public Decision Index 0.4.1 suite, against 60.70 for Jev 1.14.0.\n\nOn Decision Bench v4, it is statistically tied with GPT-6 Sol and d3-turbo. It also has the best accuracy among decision models on DecideBench.\n\nModel Training:\n\nAfter fine-tuning, training adds reinforcement learning from adjusted feedback (RLAF). A teacher model proposes a probability for each option, and the verified answer adjusts it, so the model trains on calibrated targets in place of one-hot labels. RLAF adds 2.0 Decision Index points, and a consistency loss lowers the rate of flipped answers when the options are reordered from 6.3% to 4.2%.\n\nHF: https://t.co/uk9ZrkBPaQ\n\nPaper: https://t.co/KO0rLPpG7k\n\nChat with Paper: https://t.co/AXgvBk20Cd"
+    }
+  ],
+  "isSuperseded": false
+}

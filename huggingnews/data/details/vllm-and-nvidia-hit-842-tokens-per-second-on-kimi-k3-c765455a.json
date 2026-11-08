@@ -1,0 +1,142 @@
+{
+  "slug": "vllm-and-nvidia-hit-842-tokens-per-second-on-kimi-k3-c765455a",
+  "title": "vLLM and NVIDIA Hit 842 Tokens Per Second on Kimi K3",
+  "publishedAt": "2026-10-18T02:25:08.980Z",
+  "eventTimeApprox": "2026-10-13T01:01:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:MNSH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Moonshot AI",
+      "hubKey": "moonshot-ai"
+    },
+    {
+      "ticker": "2513",
+      "kind": "equity",
+      "role": "related",
+      "name": "Z.AI",
+      "hubKey": "zhipu-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109679465609470216/HUcVIt7XYAAvmp0-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109679465609470216/HUcVIt7XYAAvmp0-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "zwljohnny",
+      "tweetUrl": "https://x.com/zwljohnny/status/2109679465609470216"
+    }
+  },
+  "summary": "A unified decode path developed through a collaboration with NVIDIA has enhanced the throughput and efficiency of the vLLM project's support for the Kimi K3 model. This new CuTe DSL implementation, which uses a method called DSpark to fuse attention, MoE, and communication, hits 842 tokens per second at batch 1 on GB300 NVL72 hardware. The update delivers 1.5x to 2x higher decode throughput and improves P90 interactivity by up to 1.8x on the SemiAnalysis AgentX workload.\n\nThe performance gains follow a series of benchmarks for the 2.8T parameter model, including a 12,000 line of code Megakernel from NVIDIA CentML that reached 423 tokens per second per user. The teams also deployed ReplaySSM in production for Kimi K3 and GLM-5.3-Flash, which boosts standard decoding by up to 1.47x and speculative decoding by up to 2.1x. ReplaySSM separates output computation from state updates by caching model inputs, allowing state space models to utilize optimizations typically reserved for Transformers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111637219647840611",
+      "role": "source",
+      "authorHandle": "vllm_project",
+      "url": "https://x.com/vllm_project/status/2111637219647840611",
+      "tweetedAt": "2026-10-18T01:55:20.000Z",
+      "bestBit": "Kimi K3 decode on NVIDIA GB300 NVL72: 842 tokens/s at batch 1 with DSpark",
+      "text": "Kimi K3 decode on NVIDIA GB300 NVL72: 842 tokens/s at batch 1 with DSpark 🚀\n\nA unified CuTe DSL decode path fuses attention, MoE and communication, delivering 1.5–2× higher decode throughput in several tested configurations and up to 1.8× higher P90 interactivity on the @SemiAnalysis_ AgentX workload.\n\nThe post covers the kernel work, the correctness and long-context evals behind it, and benchmark sweeps across batch sizes, context lengths and parallelism configurations.\n\nFull write-up: https://t.co/4JbC73yX76\n\nGreat work and collaboration with the @NVIDIA team!"
+    },
+    {
+      "tweetId": "2111627094878790023",
+      "role": "support",
+      "authorHandle": "semianalysis_",
+      "url": "https://x.com/SemiAnalysis_/status/2111627094878790023",
+      "tweetedAt": "2026-10-18T01:15:06.000Z",
+      "bestBit": "achieved 423 tok/s/user 🚀 on the 2.8T Parameter Kimi K3 model via a new upstream vLLM optimization",
+      "text": "BREAKING NEWS🚨: NVIDIA has just achieved 423 tok/s/user 🚀 on the 2.8T Parameter Kimi K3 model via a new upstream vLLM optimization. 1.68x Faster on the Same Hardware!\n\nThis was done by NVIDIA CentML's Benjamin, who wrote NVIDIA's new decode-specialized kernels in Cute DSL via aggressive Megakernel fusion. This is a 12,000 LoC Megakernel and is the future of advanced AI-assisted kernel generation. NVIDIA is already working on DeepSeekv4.1 and other models for vLLM too.\n\nSomeone should give this NVIDIA 10x engineer a raise for this great new major feature!"
+    },
+    {
+      "tweetId": "2109679465609470216",
+      "role": "source",
+      "authorHandle": "zwljohnny",
+      "url": "https://x.com/zwljohnny/status/2109679465609470216",
+      "tweetedAt": "2026-10-12T16:15:55.000Z",
+      "bestBit": "speeds up standard decoding (up to 1.47x) and speculative decoding (up to 2.1x)",
+      "text": "ReplaySSM now runs in production in GLM-5.3-Flash and Kimi-K3, and ships in TensorRT-LLM, vLLM, FlashInfer, and SGLang!\n\nIt speeds up standard decoding (up to 1.47x) and speculative decoding (up to 2.1x), and now also enables a low-precision SSM state whose rounding error never propagates through the recurrence.\n\nBuilding on our earlier ReplaySSM work, we collaborated with @NVIDIA to pin down what the method really unlocks. Caching SSM inputs instead of the state is what ReplaySSM does. What it changes is that computing the output and updating the state can be separated during decoding. All three gains follow from that separation.\n\nJoint blog post, paper, and code with @NVIDIA and @tri_dao 👇"
+    },
+    {
+      "tweetId": "2109865690031411349",
+      "role": "support",
+      "authorHandle": "vllm_project",
+      "url": "https://x.com/vllm_project/status/2109865690031411349",
+      "tweetedAt": "2026-10-13T04:35:54.000Z",
+      "bestBit": "reducing recurrent-state memory traffic by caching SSM inputs and updating the checkpoint only when needed",
+      "text": "Great work from @zwljohnny, @tri_dao, and @NVIDIA on ReplaySSM!\nMamba2 standard decode and FlashInfer-backed MTP support are already in vLLM, reducing recurrent-state memory traffic by caching SSM inputs and updating the checkpoint only when needed.",
+      "quotedTweetText": "ReplaySSM now runs in production in GLM-5.3-Flash and Kimi-K3, and ships in TensorRT-LLM, vLLM, FlashInfer, and SGLang!\n\nIt speeds up standard decoding (up to 1.47x) and speculative decoding (up to 2.1x), and now also enables a low-precision SSM state whose rounding error never propagates through the recurrence.\n\nBuilding on our earlier ReplaySSM work, we collaborated with @NVIDIA to pin down what the method really unlocks. Caching SSM inputs instead of the state is what ReplaySSM does. What it changes is that computing the output and updating the state can be separated during decoding. All three gains follow from that separation.\n\nJoint blog post, paper, and code with @NVIDIA and @tri_dao 👇"
+    },
+    {
+      "tweetId": "2109691017570201965",
+      "role": "analysis",
+      "authorHandle": "tri_dao",
+      "url": "https://x.com/tri_dao/status/2109691017570201965",
+      "tweetedAt": "2026-10-12T17:01:49.000Z",
+      "bestBit": "A lot of the big wins weren’t new architectures, just people taking memory IO seriously",
+      "text": "SSMs had the nice asymptotics but kept missing out on the inference goodies Transformers get for free like spec decode and quantization. Turns out we were just not caching the right thing. Same IO-aware trick behind FlashAttention, Mamba scan, paged KV. A lot of the big wins weren’t new architectures, just people taking memory IO seriously.",
+      "quotedTweetText": "ReplaySSM now runs in production in GLM-5.3-Flash and Kimi-K3, and ships in TensorRT-LLM, vLLM, FlashInfer, and SGLang!\n\nIt speeds up standard decoding (up to 1.47x) and speculative decoding (up to 2.1x), and now also enables a low-precision SSM state whose rounding error never propagates through the recurrence.\n\nBuilding on our earlier ReplaySSM work, we collaborated with @NVIDIA to pin down what the method really unlocks. Caching SSM inputs instead of the state is what ReplaySSM does. What it changes is that computing the output and updating the state can be separated during decoding. All three gains follow from that separation.\n\nJoint blog post, paper, and code with @NVIDIA and @tri_dao 👇"
+    },
+    {
+      "tweetId": "2109744837432095077",
+      "role": "commentary",
+      "authorHandle": "_albertgu",
+      "url": "https://x.com/_albertgu/status/2109744837432095077",
+      "tweetedAt": "2026-10-12T20:35:41.000Z",
+      "bestBit": "there are still many ideas and optimizations waiting to be discovered for alternative architectures",
+      "text": "transformer inference has had dozens of tricks optimized by the entire ecosystem, there are still many ideas and optimizations waiting to be discovered for alternative architectures!",
+      "quotedTweetText": "ReplaySSM now runs in production in GLM-5.3-Flash and Kimi-K3, and ships in TensorRT-LLM, vLLM, FlashInfer, and SGLang!\n\nIt speeds up standard decoding (up to 1.47x) and speculative decoding (up to 2.1x), and now also enables a low-precision SSM state whose rounding error never propagates through the recurrence.\n\nBuilding on our earlier ReplaySSM work, we collaborated with @NVIDIA to pin down what the method really unlocks. Caching SSM inputs instead of the state is what ReplaySSM does. What it changes is that computing the output and updating the state can be separated during decoding. All three gains follow from that separation.\n\nJoint blog post, paper, and code with @NVIDIA and @tri_dao 👇"
+    },
+    {
+      "tweetId": "2110903261897388256",
+      "role": "signal",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2110903261897388256",
+      "tweetedAt": "2026-10-16T01:18:50.000Z",
+      "bestBit": "Vera Rubin serves ~2.8x GB300's throughput per MW at ~67 tok/s per user",
+      "text": "On Kimi K3, Vera Rubin serves ~2.8x GB300's throughput per MW at ~67 tok/s per user, and sets the fastest Kimi K3 result on our leaderboard at 255 tok/s per user"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-nvidia-hits-423-tokens-per-second-per-user-on-kimi-k3-e91b43e6",
+    "title": "UPDATE: NVIDIA Hits 423 Tokens Per Second Per User on Kimi K3",
+    "publishedAt": "2026-10-18T01:40:05.296Z",
+    "eventTimeApprox": "2026-10-12T21:22:42.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 11,
+    "authorCount": 10
+  }
+}

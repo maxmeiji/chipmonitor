@@ -1,0 +1,131 @@
+{
+  "slug": "microsoft-attracts-115b-in-orders-for-first-high-grade-bond-sale-since-2-158bd4b1",
+  "title": "Microsoft Attracts $115B in Orders for First High-Grade Bond Sale Since 2017",
+  "publishedAt": "2026-10-29T17:08:56.972Z",
+  "eventTimeApprox": "2026-10-29T12:11:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 40,
+  "authorCount": 26,
+  "routingTopicKeys": [
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "Investor demand for Microsoft's current fundraising effort reached $115B, making it the sixth largest orderbook for an investment-grade bond sale in history. The company is seeking to raise at least $25B through a 10-part U.S. dollar offering, the first time the software giant has issued domestic high-grade debt since January 2017.\n\nThe notes include maturities ranging from 2 to 40 years, with proceeds slated for general corporate purposes and capital expenditures. The move reflects a surge in AI infrastructure costs; Microsoft recently reported $45.2B in quarterly AI spending and projects that AI-related capex and leases could reach roughly $170B by 2027. Other tech rivals including Alphabet, Amazon and Meta have similarly turned to debt and equity markets to fund their data center expansions this year.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115792958389661879",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115792958389661879",
+      "tweetedAt": "2026-10-29T13:08:45.000Z",
+      "bestBit": "The offering would mark Microsoft's first major bond sale in nine years, when it raised $17B in 2017.",
+      "text": "MICROSOFT PREPARES AT LEAST $25 BILLION BOND SALE, ITS FIRST SINCE 2017\n\n$MSFT is looking to raise at least $25B through a 10-part U.S. bond offering, as it joins other major tech companies tapping debt markets to finance the AI infrastructure buildout.\n\nThe offering would mark Microsoft's first major bond sale in nine years, when it raised $17B in 2017.\n\nDespite holding a rare AAA credit rating and generating substantial cash flow, Microsoft had remained on the sidelines while Alphabet, Amazon and Meta turned to large bond offerings over the past year.\n\nThe bonds are expected to have maturities ranging from 2 to 40 years, with proceeds available for general corporate purposes, including capital expenditures.\n\nThe move follows Microsoft's fiscal Q1 earnings yesterday and comes just months after Alphabet raised $25B in its August bond sale."
+    },
+    {
+      "tweetId": "2115780214680686853",
+      "role": "source",
+      "authorHandle": "junkbondinvest",
+      "url": "https://x.com/junkbondinvest/status/2115780214680686853",
+      "tweetedAt": "2026-10-29T12:18:07.000Z",
+      "bestBit": "Microsoft, which is AAA-rated and sits on a mountain of cash, is now raising $25 BILLION for capex.",
+      "text": "Microsoft, which is AAA-rated and sits on a mountain of cash, is now raising $25 BILLION for capex. For context, it hasn't issued a US bond since 2017. \n\nIG guys - what you think?\n\nIPT:\n2Y: T+50-55 (plus FRN)\n3Y: T+60-65 (plus FRN)\n5Y: T+70-75\n7Y: T+80-85\n10Y: T+90-95\n20Y: T+110-115\n30Y: T+120-125\n40Y: T+130-135\n\n$MSFT"
+    },
+    {
+      "tweetId": "2115850696373186972",
+      "role": "support",
+      "authorHandle": "junkbondinvest",
+      "url": "https://x.com/junkbondinvest/status/2115850696373186972",
+      "tweetedAt": "2026-10-29T16:58:11.000Z",
+      "bestBit": "$115bn of orders for its $25bn+ deal, tying Alphabet for the 6th-biggest IG orderbook EVER.",
+      "text": "$115bn of orders for its $25bn+ deal, tying Alphabet for the 6th-biggest IG orderbook EVER.\n\nUnsurprisingly, the biggest were also this year. Oracle (Feb ‘26) at $129bn and Amazon (Mar ‘26) at $126bn\n\n$MSFT",
+      "quotedTweetText": "Microsoft, which is AAA-rated and sits on a mountain of cash, is now raising $25 BILLION for capex. For context, it hasn't issued a US bond since 2017. \n\nIG guys - what you think?\n\nIPT:\n2Y: T+50-55 (plus FRN)\n3Y: T+60-65 (plus FRN)\n5Y: T+70-75\n7Y: T+80-85\n10Y: T+90-95\n20Y: T+110-115\n30Y: T+120-125\n40Y: T+130-135\n\n$MSFT"
+    },
+    {
+      "tweetId": "2115770348314718707",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2115770348314718707",
+      "tweetedAt": "2026-10-29T11:38:54.000Z",
+      "bestBit": "AI capex and leases expected to reach ~$170B in 2027.",
+      "text": "$MSFT just launched a 10-part bond offering after Azure grew 48% with AI capex and leases expected to reach ~$170B in 2027.\n\nPretty telling that even the last hyperscaler largely funding AI out of pocket is now turning to debt rather than slow its buildout while demand still exceeds supply."
+    },
+    {
+      "tweetId": "2115800859745374228",
+      "role": "commentary",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2115800859745374228",
+      "tweetedAt": "2026-10-29T13:40:09.000Z",
+      "bestBit": "If The Cleanest Hyperscaler Needs $25 Billion In Bonds, Who Doesn't?",
+      "text": "Question: \"If The Cleanest Hyperscaler Needs $25 Billion In Bonds, Who Doesn't?\" https://t.co/a2nY01E1pU"
+    },
+    {
+      "tweetId": "2115774893157659006",
+      "role": "commentary",
+      "authorHandle": "puckrin",
+      "url": "https://x.com/puckrin/status/2115774893157659006",
+      "tweetedAt": "2026-10-29T11:56:58.000Z",
+      "bestBit": "their results yesterday, they disclosed $45.2B in AI capex spend.",
+      "text": "The AI debt binge continues.\n\nMicrosoft is officially back in the bond market for the first time since in 9 years!\n\nIt's kicking off a 10 part high-grade bond offering today with tranches as long as 40 years!\n\nThat's because in their results yesterday, they disclosed $45.2B in AI capex spend.\n\nDespite the Free Cash Flow beats, it's still not enough.\n\nThe cleanest balance sheet in Big Tech is now borrowing to fund AI."
+    },
+    {
+      "tweetId": "2115804396260872382",
+      "role": "commentary",
+      "authorHandle": "layoffai",
+      "url": "https://x.com/LayoffAI/status/2115804396260872382",
+      "tweetedAt": "2026-10-29T13:54:12.000Z",
+      "bestBit": "Three days ago Microsoft offered buyouts to about 60,000 employees.",
+      "text": "MICROSOFT IS BORROWING AT LEAST $25 BILLION\n\nIt is the company's first US investment-grade bond sale since 2017. Up to 10 tranches. Maturities out to 40 years.\n\nThree days ago Microsoft offered buyouts to about 60,000 employees.\n\nAbsolutely clearing house for CapEx.\n\nExpensive, American labor is just no longer on the agenda.",
+      "quotedTweetText": "The AI debt binge continues.\n\nMicrosoft is officially back in the bond market for the first time since in 9 years!\n\nIt's kicking off a 10 part high-grade bond offering today with tranches as long as 40 years!\n\nThat's because in their results yesterday, they disclosed $45.2B in AI capex spend.\n\nDespite the Free Cash Flow beats, it's still not enough.\n\nThe cleanest balance sheet in Big Tech is now borrowing to fund AI."
+    },
+    {
+      "tweetId": "2115811618382926200",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2115811618382926200",
+      "tweetedAt": "2026-10-29T14:22:54.000Z",
+      "bestBit": "Hyperscalers and data center developers have sold more than $313B of investment-grade bonds this year",
+      "text": "Bloomberg: Microsoft is returning to the US bond market for the first time since its $17B sale in 2017, seeking at least $25B across up to 10 tranches.\n\nIts 40-year note is priced near Alphabet’s and Amazon’s long bonds despite Microsoft’s stronger AAA rating, which suggests the flood of AI debt is lifting borrowing costs for everyone.\n\nHyperscalers and data center developers have sold more than $313B of investment-grade bonds this year, almost 3 times 2025’s total, pushing global bond sales to a record $6.61T."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "microsoft-targets-at-least-25b-in-first-high-grade-bond-sale-since-2017-13060f0f",
+    "title": "Microsoft Targets At Least $25B in First High Grade Bond Sale Since 2017",
+    "publishedAt": "2026-10-29T12:08:03.280Z",
+    "eventTimeApprox": "2026-10-29T11:46:32.000Z",
+    "routingTopicKeys": [
+      "us-markets",
+      "ai"
+    ],
+    "tweetCount": 33,
+    "authorCount": 22
+  }
+}

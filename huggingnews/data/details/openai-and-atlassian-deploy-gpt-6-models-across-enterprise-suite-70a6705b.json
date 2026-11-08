@@ -1,0 +1,61 @@
+{
+  "slug": "openai-and-atlassian-deploy-gpt-6-models-across-enterprise-suite-70a6705b",
+  "title": "OpenAI and Atlassian Deploy GPT-6 Models Across Enterprise Suite",
+  "publishedAt": "2026-10-06T17:07:54.519Z",
+  "eventTimeApprox": "2026-10-06T16:26:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TEAM",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Atlassian Corporation Class A Common Stock",
+      "hubKey": "team"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The company that produces Jira and Confluence is updating its platform to allow AI agents to convert organizational knowledge into specific business actions. This expansion of the partnership with OpenAI brings GPT-6 models to Atlassian's software ecosystem and its Rovo AI assistant.\n\nThese integrated models enable agents to access context across the entire collaboration suite to automate enterprise workflows. The update, announced October 6, shifts the utility of the tools from conversational queries toward actionable automation using internal corporate data.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107507877745176868",
+      "role": "source",
+      "authorHandle": "ftr_investors",
+      "url": "https://x.com/ftr_investors/status/2107507877745176868",
+      "tweetedAt": "2026-10-06T16:26:48.000Z",
+      "bestBit": "OpenAI models will power AI agents that can use context from Jira, Confluence and other Atlassian tools to turn enterprise knowledge into actions",
+      "text": "$TEAM OpenAI and Atlassian are expanding their partnership, bringing GPT-6 models across Atlassian’s platform and Rovo 🤖🤝\n\nOpenAI models will power AI agents that can use context from Jira, Confluence and other Atlassian tools to turn enterprise knowledge into actions. https://t.co/BABQLOHCPg"
+    }
+  ],
+  "isSuperseded": false
+}

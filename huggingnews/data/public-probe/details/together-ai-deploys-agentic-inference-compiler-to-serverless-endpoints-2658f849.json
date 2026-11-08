@@ -1,0 +1,154 @@
+{
+  "slug": "together-ai-deploys-agentic-inference-compiler-to-serverless-endpoints-2658f849",
+  "title": "Together AI Deploys Agentic Inference Compiler to Serverless Endpoints",
+  "publishedAt": "2026-11-06T01:08:24.610Z",
+  "eventTimeApprox": "2026-11-04T20:03:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 48,
+  "authorCount": 18,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:TGAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "Together AI",
+      "hubKey": "together-ai"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118032484747391024/HWTAmliaQAATW5R-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118032484747391024/HWTAmliaQAATW5R-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "simran_s_arora",
+      "tweetUrl": "https://x.com/simran_s_arora/status/2118032484747391024"
+    }
+  },
+  "summary": "The AI cloud provider has operationalized its Together Compiler (TKCC) across its production fleet, integrating the tool into its serverless inference endpoints. Currently available in limited beta for dedicated endpoints, the system uses AI agents to rewrite the inference stack and tune model performance automatically as traffic patterns shift. The software is not open source, though Together has released research and a paper detailing its approach to what it calls \"polymorphic\" inference.\n\nTKCC utilizes a persistent engine that allows agent-written forward passes to be hot-reloaded without a full restart, reducing engine boot times to 9 seconds from roughly 467 seconds. Together claims this enables 252x more optimization experiments per hour than prior systems, resulting in 1,111 tokens per second (TPS) for the MiniMax M3.1 model on NVIDIA B200 hardware, compared to 633 TPS using previous configurations. The system is compatible with NVIDIA, AMD, and Trainium2 hardware and can be optimized for a model using two nodes over 24 hours.\n\nThe compiler is designed to generalize beyond large language models to other machine learning and SciML models in PyTorch. While Together reported performance gains of up to 2.6x faster than leading InferenceX configurations, the industry analysis firm SemiAnalysis confirmed that it has validated at least some of these results.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118027502585323828",
+      "role": "source",
+      "authorHandle": "simran_s_arora",
+      "url": "https://x.com/simran_s_arora/status/2118027502585323828",
+      "tweetedAt": "2026-11-04T17:08:02.000Z",
+      "bestBit": "TKCC lets agents try 252x more optimization experiments per hour compared to prior agent inference optimization systems.",
+      "text": "Introducing the Together Compiler: continual compilation for AI inference! I’m super proud to finally share this work from our research team! ✨\n\nToday’s inference is “Polymorphic” or shape-shifting, it doesn’t sit still. On OpenRouter, 80% of traffic goes to models released in the last three months and the top ten most popular open models each use a different architecture. Our customers constantly change their usage behaviors. Together Compiler leverages agents to continually optimize our deployments immediately as these changes occur.\n\nTogether Compiler research highlights include:\n- **252x better throughput:** TKCC lets agents try 252x more optimization experiments per hour compared to prior agent inference optimization systems.\n- **State-of-the-art TPS across InferenceX workloads we tried:** TKCC outperforms the best InferenceX engine across all tested settings in just 24 hours & 2 nodes per compile. Including 1111 TPS on MiniMax M3.1 B200 and 1205 TPS on DeepSeek v4.1 Flash GB300 at batch size 1. NVIDIA, AMD, Trainium2.\n- **Continuous recompilation:** TKCC currently serves many trillions of production tokens per day and adapts to traffic shifts within just a few hours of recompilation.\n- **Bitter lessons:** TKCC’s design builds on 2+ years of building frameworks to accelerate AI Inference, starting from ThunderKittens and Megakernels. Compilers have always used abstractions and IRs, but we show that agentic compilers now reach higher performance ceilings without abstractions.\n\nFrom an incredible team @reyna_abhyankar  @dylan__lim @realDanFu @togethercompute!!"
+    },
+    {
+      "tweetId": "2118032484747391024",
+      "role": "support",
+      "authorHandle": "simran_s_arora",
+      "url": "https://x.com/simran_s_arora/status/2118032484747391024",
+      "tweetedAt": "2026-11-04T17:27:50.000Z",
+      "bestBit": "we ran the Together Compiler for 24 hours on at most 2 nodes per model.",
+      "text": "Putting the pieces together.\n\nWe use Together Compiler to set state-of-the-art concurrency 1 TPS results for all settings that we tried in the last day, based off of the current-best InferenceX engine configuration for the model and hardware platform. We first used our parallelism cost model to choose an effective parallelism configuration (with several selections differing from the existing InferenceX configuration) and then we ran the Together Compiler for 24 hours on at most 2 nodes per model."
+    },
+    {
+      "tweetId": "2118418321456660572",
+      "role": "analysis",
+      "authorHandle": "tri_dao",
+      "url": "https://x.com/tri_dao/status/2118418321456660572",
+      "tweetedAt": "2026-11-05T19:01:00.000Z",
+      "bestBit": "Distilling most of our expertise in kernel and inference engine optimization into an agent loop that powers our production.",
+      "text": "Distilling most of our expertise in kernel and inference engine optimization into an agent loop that powers our production. A 2-year project that we're finally able to share",
+      "quotedTweetText": "Introducing the Together Compiler: continual compilation for AI inference! I’m super proud to finally share this work from our research team! ✨\n\nToday’s inference is “Polymorphic” or shape-shifting, it doesn’t sit still. On OpenRouter, 80% of traffic goes to models released in the last three months and the top ten most popular open models each use a different architecture. Our customers constantly change their usage behaviors. Together Compiler leverages agents to continually optimize our deployments immediately as these changes occur.\n\nTogether Compiler research highlights include:\n1. 252x better throughput: TKCC lets agents try 252x more optimization experiments per hour compared to prior agent inference optimization systems.\n2. State-of-the-art TPS across InferenceX workloads we tried: TKCC outperforms the best InferenceX engine across all tested settings in just 24 hours & 2 nodes per compile. Including 1111 TPS on MiniMax M3.1 B200 and 1205 TPS on DeepSeek v4.1 Flash GB300 at batch size 1. NVIDIA, AMD, Trainium2.\n3. Continuous recompilation: TKCC currently serves many trillions of production tokens per day and adapts to traffic shifts within just a few hours of recompilation.\n4. Bitter lessons: TKCC’s design builds on 2+ years of building frameworks to accelerate AI Inference, starting from ThunderKittens and Megakernels. Compilers have always used abstractions and IRs, but we show that agentic compilers now reach higher performance ceilings without abstractions.\n\nFrom an incredible team @reyna_abhyankar @dylan__lim @realDanFu @togethercompute!!"
+    },
+    {
+      "tweetId": "2118054845559296427",
+      "role": "commentary",
+      "authorHandle": "dylan522p",
+      "url": "https://x.com/dylan522p/status/2118054845559296427",
+      "tweetedAt": "2026-11-04T18:56:41.000Z",
+      "bestBit": "found some surprising cases where our human inductive biases end up limiting what agents can achieve",
+      "text": "Great work that pushes our understanding of how agents and experts can collaborate on optimizing system performance\nBeyond the strong results, the team also found some surprising cases where our human inductive biases end up limiting what agents can achieve",
+      "quotedTweetText": "Introducing the Together Compiler: continual compilation for AI inference! I’m super proud to finally share this work from our research team! ✨\n\nToday’s inference is “Polymorphic” or shape-shifting, it doesn’t sit still. On OpenRouter, 80% of traffic goes to models released in the last three months and the top ten most popular open models each use a different architecture. Our customers constantly change their usage behaviors. Together Compiler leverages agents to continually optimize our deployments immediately as these changes occur.\n\nTogether Compiler research highlights include:\n1. 252x better throughput: TKCC lets agents try 252x more optimization experiments per hour compared to prior agent inference optimization systems.\n2. State-of-the-art TPS across InferenceX workloads we tried: TKCC outperforms the best InferenceX engine across all tested settings in just 24 hours & 2 nodes per compile. Including 1111 TPS on MiniMax M3.1 B200 and 1205 TPS on DeepSeek v4.1 Flash GB300 at batch size 1. NVIDIA, AMD, Trainium2.\n3. Continuous recompilation: TKCC currently serves many trillions of production tokens per day and adapts to traffic shifts within just a few hours of recompilation.\n4. Bitter lessons: TKCC’s design builds on 2+ years of building frameworks to accelerate AI Inference, starting from ThunderKittens and Megakernels. Compilers have always used abstractions and IRs, but we show that agentic compilers now reach higher performance ceilings without abstractions.\n\nFrom an incredible team @reyna_abhyankar @dylan__lim @realDanFu @togethercompute!!"
+    },
+    {
+      "tweetId": "2118049538157969917",
+      "role": "support",
+      "authorHandle": "semianalysis_",
+      "url": "https://x.com/SemiAnalysis_/status/2118049538157969917",
+      "tweetedAt": "2026-11-04T18:35:36.000Z",
+      "bestBit": "we have validated one of the InferenceX/AgentX results!",
+      "text": "The Together Compiler (TKCC) from @simran_s_arora and her team is honestly one of the coolest things ever, and we have validated one of the InferenceX/AgentX results! The ability to continuously improve performance automatically while ensuring accuracy is great enough to quickly deploy to production!\n\nSimran and her team are using TKCC and working on applying it to even more use cases. They will share more soon! \nhttps://t.co/DHDsC3R3yZ",
+      "quotedTweetText": "Introducing the Together Compiler: continual compilation for AI inference! I’m super proud to finally share this work from our research team! ✨\n\nToday’s inference is “Polymorphic” or shape-shifting, it doesn’t sit still. On OpenRouter, 80% of traffic goes to models released in the last three months and the top ten most popular open models each use a different architecture. Our customers constantly change their usage behaviors. Together Compiler leverages agents to continually optimize our deployments immediately as these changes occur.\n\nTogether Compiler research highlights include:\n1. 252x better throughput: TKCC lets agents try 252x more optimization experiments per hour compared to prior agent inference optimization systems.\n2. State-of-the-art TPS across InferenceX workloads we tried: TKCC outperforms the best InferenceX engine across all tested settings in just 24 hours & 2 nodes per compile. Including 1111 TPS on MiniMax M3.1 B200 and 1205 TPS on DeepSeek v4.1 Flash GB300 at batch size 1. NVIDIA, AMD, Trainium2.\n3. Continuous recompilation: TKCC currently serves many trillions of production tokens per day and adapts to traffic shifts within just a few hours of recompilation.\n4. Bitter lessons: TKCC’s design builds on 2+ years of building frameworks to accelerate AI Inference, starting from ThunderKittens and Megakernels. Compilers have always used abstractions and IRs, but we show that agentic compilers now reach higher performance ceilings without abstractions.\n\nFrom an incredible team @reyna_abhyankar @dylan__lim @realDanFu @togethercompute!!"
+    },
+    {
+      "tweetId": "2118253652880269694",
+      "role": "commentary",
+      "authorHandle": "marktechpost",
+      "url": "https://x.com/Marktechpost/status/2118253652880269694",
+      "tweetedAt": "2026-11-05T08:06:40.000Z",
+      "bestBit": "It already runs on Together's serverless endpoints, with a limited beta for dedicated endpoints. Not open source.",
+      "text": "▲ Together AI just released Together Compiler, a system where AI agents keep re-tuning the inference forward pass as production traffic changes.\n\nThe key idea is a persistent engine. The serving engine starts once, and each agent-written forward pass is hot-reloaded with no restart. A 12-layer fast tier screens candidates, and a 60-layer slow tier confirms gains on real traffic. That gives agents 252x more experiments than restarting the engine each time.\n\nOn SemiAnalysis InferenceX, it beat the best open configurations by up to 2.6x TPS in under 24 hours per model. At batch size 1, MiniMax M3.1 Flash on B200 hit 1,111 P90 TPS per user vs 633. It is a trade-off though: some gains are small. GLM 5.3 on MI355X moved only from 463 to 480 TPS, and every number is self-reported.\n\nIt already runs on Together's serverless endpoints, with a limited beta for dedicated endpoints. Not open source. Tested on Kimi K3, GLM 5.3, MiniMax M3.1 Flash and DeepSeek v4.1 Flash across B200, B300, GB300, MI355X and Trainium2......\n\nFull analysis: https://t.co/CuK4g8Zfvl\n\nPaper: https://t.co/JTO5Rm3IFw\n\nBlog: https://t.co/DVlTDT4B2b\n\nPolymorphic Inference: https://t.co/4nRiU4lux6\n\n@togethercompute @simran_s_arora"
+    },
+    {
+      "tweetId": "2118507077983465717",
+      "role": "support",
+      "authorHandle": "vipulved",
+      "url": "https://x.com/vipulved/status/2118507077983465717",
+      "tweetedAt": "2026-11-06T00:53:42.000Z",
+      "bestBit": "Together Compiler (TKCC) generalizes beyond LLMs to ML models in PyTorch to significantly outperform the PyTorch fwd pass baseline",
+      "text": "Together Compiler (TKCC) generalizes beyond LLMs to ML models in PyTorch to significantly outperform the PyTorch fwd pass baseline but also a handwritten claude code harness to optimize the baseline. \n\nhttps://t.co/QO1rGEl7YM",
+      "quotedTweetText": "Congratulations to @reyna_abhyankar and @dylan__lim for their &gt;1yr effort on Together Compiler!\n\nTheir work was so incredible that I found it generalized well beyond LLMs to SciML models 🔬. \n\nHere it is outperforming Claude on nearly every model I tried\n\n1/n https://t.co/MawK8rymI4"
+    },
+    {
+      "tweetId": "2118039679153102949",
+      "role": "commentary",
+      "authorHandle": "_albertgu",
+      "url": "https://x.com/_albertgu/status/2118039679153102949",
+      "tweetedAt": "2026-11-04T17:56:25.000Z",
+      "bestBit": "in a constantly changing model landscape, faster adaptation is the biggest advantage",
+      "text": "in a constantly changing model landscape, faster adaptation is the biggest advantage",
+      "quotedTweetText": "Introducing the Together Compiler: continual compilation for AI inference! I’m super proud to finally share this work from our research team! ✨\n\nToday’s inference is “Polymorphic” or shape-shifting, it doesn’t sit still. On OpenRouter, 80% of traffic goes to models released in the last three months and the top ten most popular open models each use a different architecture. Our customers constantly change their usage behaviors. Together Compiler leverages agents to continually optimize our deployments immediately as these changes occur.\n\nTogether Compiler research highlights include:\n1. 252x better throughput: TKCC lets agents try 252x more optimization experiments per hour compared to prior agent inference optimization systems.\n2. State-of-the-art TPS across InferenceX workloads we tried: TKCC outperforms the best InferenceX engine across all tested settings in just 24 hours & 2 nodes per compile. Including 1111 TPS on MiniMax M3.1 B200 and 1205 TPS on DeepSeek v4.1 Flash GB300 at batch size 1. NVIDIA, AMD, Trainium2.\n3. Continuous recompilation: TKCC currently serves many trillions of production tokens per day and adapts to traffic shifts within just a few hours of recompilation.\n4. Bitter lessons: TKCC’s design builds on 2+ years of building frameworks to accelerate AI Inference, starting from ThunderKittens and Megakernels. Compilers have always used abstractions and IRs, but we show that agentic compilers now reach higher performance ceilings without abstractions.\n\nFrom an incredible team @reyna_abhyankar @dylan__lim @realDanFu @togethercompute!!"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "together-ai-launches-new-tool-to-automate-continuous-ai-inference-optimi-814a5428",
+    "title": "Together AI Launches New Tool to Automate Continuous AI Inference Optimization",
+    "publishedAt": "2026-11-04T18:09:24.546Z",
+    "eventTimeApprox": "2026-11-04T17:31:21.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 35,
+    "authorCount": 15
+  }
+}

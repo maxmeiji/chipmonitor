@@ -1,0 +1,105 @@
+{
+  "slug": "update-langchain-opens-stripe-link-agentic-payments-to-developers-1475f7b9",
+  "title": "UPDATE: LangChain Opens Stripe Link Agentic Payments to Developers",
+  "publishedAt": "2026-10-08T16:23:56.057Z",
+  "eventTimeApprox": "2026-10-06T20:49:42.500Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:STRP",
+      "kind": "private",
+      "role": "subject",
+      "name": "Stripe",
+      "hubKey": "stripe"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107500902353674578/Cha70KZQu3g9joMN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107500902353674578/Cha70KZQu3g9joMN-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2107500690360893440/vid/avc1/1920x1080/KSo0T0sQOtzMdxMI.mp4?tag=29",
+    "credit": {
+      "handle": "brainbasehq",
+      "tweetUrl": "https://x.com/BrainbaseHQ/status/2107500902353674578"
+    }
+  },
+  "summary": "Automated agents built with LangChain now have the ability to process purchases and search for merchandise using the Stripe Link ecosystem. These agents can locate specific products and prepare carts, though a human must approve every order through the Stripe Link agent wallet and Slack before the transaction is finalized. The payment framework is built on Managed Deep Agents and the MPP protocol, allowing for both programmatic payments and standard online checkouts.\n\nThis expansion brings agentic payment capabilities to the broader enterprise developer community after a similar integration was first launched by Brainbase for internal corporate agents. While earlier AI agents such as Muse and Instinct focused on personal consumer purchases, these new tools from LangChain and Stripe are designed to scale payment-capable AI for corporate and enterprise environments.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108226169472737606",
+      "role": "source",
+      "authorHandle": "langchain",
+      "url": "https://x.com/LangChain/status/2108226169472737606",
+      "tweetedAt": "2026-10-08T16:01:02.000Z",
+      "bestBit": "build an agent that: 🔎 Finds real products 🛒 Prepares purchases 💳 Pays …with a person approving every order",
+      "text": "You can now build an agent that:\n🔎 Finds real products\n🛒 Prepares purchases\n💳 Pays\n…with a person approving every order 👨‍💻\n\nAsk in @slackhq, review the order, approve in @Stripe's Link agent wallet.\n\nBuilt on MPP + Managed Deep Agents.\n\nhttps://t.co/UY3PTfdWsX"
+    },
+    {
+      "tweetId": "2107500902353674578",
+      "role": "source",
+      "authorHandle": "brainbasehq",
+      "url": "https://x.com/BrainbaseHQ/status/2107500902353674578",
+      "tweetedAt": "2026-10-06T15:59:05.000Z",
+      "bestBit": "partnered with @stripe to allow Brainbase agents to make purchases for you using secure Link checkout flows",
+      "text": "Introducing Agentic Payments on Brainbase. We’ve partnered with @stripe to allow Brainbase agents to make purchases for you using secure Link checkout flows. This enables everything from proactive agents that can book travel, order office supplies and subscribe to software.\n\nTry it out today at https://t.co/4zvwnvcNAv."
+    },
+    {
+      "tweetId": "2108230086185136197",
+      "role": "support",
+      "authorHandle": "jeff_weinstein",
+      "url": "https://x.com/jeff_weinstein/status/2108230086185136197",
+      "tweetedAt": "2026-10-08T16:16:36.000Z",
+      "bestBit": "LangChain developers can now easily build agents that can pay for things with @link (which works across any checkout online or programmatic payments over @mpp)",
+      "text": "LangChain developers can now easily build agents that can pay for things with @link (which works across any checkout online or programmatic payments over @mpp). \n\nSee their in-depth guide and demo! =&gt;",
+      "quotedTweetText": "You can now build an agent that:\n🔎 Finds real products\n🛒 Prepares purchases\n💳 Pays\n…with a person approving every order 👨‍💻\n\nAsk in @slackhq, review the order, approve in @Stripe's Link agent wallet.\n\nBuilt on MPP + Managed Deep Agents.\n\nhttps://t.co/UY3PTfdWsX"
+    },
+    {
+      "tweetId": "2108226958014525454",
+      "role": "analysis",
+      "authorHandle": "sydneyrunkle",
+      "url": "https://x.com/sydneyrunkle/status/2108226958014525454",
+      "tweetedAt": "2026-10-08T16:04:10.000Z",
+      "bestBit": "agents like muse and instinct popularized payments for personal agents, MDA makes this easy to do for enterprise",
+      "text": "now @link from @stripe makes it really easy to build agents that can make payments, with human approval on every purchase\n\nagents like muse and instinct popularized payments for personal agents, MDA makes this easy to do for enterprise",
+      "quotedTweetText": "You can now build an agent that:\n🔎 Finds real products\n🛒 Prepares purchases\n💳 Pays\n…with a person approving every order 👨‍💻\n\nAsk in @slackhq, review the order, approve in @Stripe's Link agent wallet.\n\nBuilt on MPP + Managed Deep Agents.\n\nhttps://t.co/UY3PTfdWsX"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "brainbase-enables-ai-agents-to-execute-payments-via-stripe-integration-7c121a69",
+    "title": "Brainbase Enables AI Agents to Execute Payments via Stripe Integration",
+    "publishedAt": "2026-10-06T17:52:47.875Z",
+    "eventTimeApprox": "2026-10-06T17:00:00.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 5,
+    "authorCount": 4
+  }
+}

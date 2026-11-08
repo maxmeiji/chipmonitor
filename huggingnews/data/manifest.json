@@ -1,0 +1,22 @@
+{
+  "requested_start_inclusive": "2026-06-01",
+  "requested_end_exclusive": "2026-11-09",
+  "timezone": "Asia/Taipei",
+  "filter_field": "publishedAt",
+  "authenticated": true,
+  "history_complete": false,
+  "details_complete": true,
+  "pages_fetched": 22,
+  "run_id": "20261107T173347265070Z",
+  "raw_directory": "raw/20261107T173347265070Z",
+  "source": "https://api.huggingnews.com/api/stories",
+  "limitations": [
+    "Requested start was not reached; available archive may be shorter than requested."
+  ],
+  "stop_reason": "API feed exhausted before requested start",
+  "story_count": 1587,
+  "detail_failures": [],
+  "earliest_published_at": "2026-08-30T08:37:30.014Z",
+  "latest_published_at": "2026-11-07T16:22:48.789Z",
+  "finished_at": "2026-11-07T17:34:40.026890+00:00"
+}

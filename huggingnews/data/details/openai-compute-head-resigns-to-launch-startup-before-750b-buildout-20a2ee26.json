@@ -1,0 +1,124 @@
+{
+  "slug": "openai-compute-head-resigns-to-launch-startup-before-750b-buildout-20a2ee26",
+  "title": "OpenAI Compute Head Resigns to Launch Startup Before $750B Buildout",
+  "publishedAt": "2026-10-14T17:39:18.325Z",
+  "eventTimeApprox": "2026-10-14T16:05:56.000Z",
+  "isFreshStory": false,
+  "tweetCount": 43,
+  "authorCount": 33,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Double-digit gigawatts of compute capacity across sites in Ohio and Georgia and the launch of GPT-Infra in three months marked the tenure of Sachin Katti's leadership at OpenAI. Katti will leave his post as head of computing capacity next month to establish a new venture, though he will remain an advisor after Nov. 15. He built a network of infrastructure partners including Nvidia, Broadcom, AMD, Oracle, Microsoft, Google, AWS, and CoreWeave after joining the company in late 2025.\n\nUday Ruddarraju, who previously led infrastructure engineering at xAI and X, now leads the compute and infrastructure businesses. The department plans to spend $750 billion in the coming years on expansive capacity projects, including the Stargate data center effort. Ruddarraju joined OpenAI in July 2025 and served as compute CTO before his current appointment to lead the business.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110401792811159643",
+      "role": "source",
+      "authorHandle": "sk7037",
+      "url": "https://x.com/sk7037/status/2110401792811159643",
+      "tweetedAt": "2026-10-14T16:06:11.000Z",
+      "bestBit": "secured double-digit GWs of compute across Ohio, Portsmouth, Georgia, Trainium and other projects",
+      "text": "After an incredible year at OpenAI, I'm moving on to build something new in a few weeks.\n\nWe secured double-digit GWs of compute across Ohio, Portsmouth, Georgia, Trainium and other projects with amazing partners including NVIDIA, Broadcom, AMD, Oracle, Microsoft, Google, AWS and CoreWeave. We also got GPT-Infra off the ground and going in just three months.\n\nMy journey from Stanford professor to entrepreneur, Intel business leader and CTO, and now scaling AI infrastructure at OpenAI has given me a unique perspective across the entire compute stack.\n\nAI is reinventing computing. Excited to bring everything I've learned together to build what's next.\n\nGrateful to the incredible OpenAI team. I'll continue as an advisor after November 15. More soon!"
+    },
+    {
+      "tweetId": "2110396767766471154",
+      "role": "support",
+      "authorHandle": "dinabass",
+      "url": "https://x.com/dinabass/status/2110396767766471154",
+      "tweetedAt": "2026-10-14T15:46:13.000Z",
+      "bestBit": "named former xAI executive Uday Ruddarraju to lead its infra/compute unit",
+      "text": "OpenAI has named former xAI executive Uday Ruddarraju to lead its infra/compute unit, replacing Sachin Katti in the the latest leadership shakeup https://t.co/WREDRR3HNq"
+    },
+    {
+      "tweetId": "2110401852420370921",
+      "role": "support",
+      "authorHandle": "anissagardizy8",
+      "url": "https://x.com/anissagardizy8/status/2110401852420370921",
+      "tweetedAt": "2026-10-14T16:06:25.000Z",
+      "bestBit": "the latest leadership change at a unit that plans to invest $750 billion in the coming years",
+      "text": "SCOOP: OpenAI’s head of compute is leaving the company next month after about a year. \n\nIt is the latest leadership change at a unit that plans to invest $750 billion in the coming years.\n\nSachin Katti joined OpenAI in late 2025 to rein in its ambitious Stargate data center effort. \n\nhttps://t.co/xXBJEn3aaV"
+    },
+    {
+      "tweetId": "2110421293111628178",
+      "role": "analysis",
+      "authorHandle": "anissagardizy8",
+      "url": "https://x.com/anissagardizy8/status/2110421293111628178",
+      "tweetedAt": "2026-10-14T17:23:40.000Z",
+      "bestBit": "OpenAI has hired a number of people from xAI, with Uday Ruddarraju now leading the OAI compute team",
+      "text": "When Elon Musk unveiled Colossus in 2024, Sam Altman got into an argument with Microsoft about it.\n\nOther competitors flew a propeller plane to Memphis, to take secret photos of what xAI was building, \n\nPretty crazy that two years later, OpenAI has hired a number of people from xAI, with Uday Ruddarraju now leading the OAI compute team. \n\nwsj: https://t.co/xXBJEn3aaV"
+    },
+    {
+      "tweetId": "2110415544654627016",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2110415544654627016",
+      "tweetedAt": "2026-10-14T17:00:50.000Z",
+      "bestBit": "shared completely false information from Epoch about capacity at Stargate Abilene",
+      "text": "Here’s where Sachin and Greg Brockman shared completely false information from Epoch about capacity at Stargate Abilene (confirmed with sources). It’s so cool these guys just lie\nhttps://t.co/rA9hmch7d0",
+      "quotedTweetText": "@sk7037 Hi sachin! Do you intend to reach out to epoch to correct this? As you well know only three buildings are handed over at stargate Abilene. This is a pretty egregious error, especially as you approach IPO\n\nhttps://t.co/QJ1nXA3IgB"
+    },
+    {
+      "tweetId": "2110414770658582710",
+      "role": "commentary",
+      "authorHandle": "danprimack",
+      "url": "https://x.com/danprimack/status/2110414770658582710",
+      "tweetedAt": "2026-10-14T16:57:45.000Z",
+      "bestBit": "frontier labs are more transient than a bus terminal",
+      "text": "These frontier labs are more transient than a bus terminal.",
+      "quotedTweetText": "After an incredible year at OpenAI, I'm moving on to build something new in a few weeks.\n\nWe secured double-digit GWs of compute across Ohio, Portsmouth, Georgia, Trainium and other projects with amazing partners including NVIDIA, Broadcom, AMD, Oracle, Microsoft, Google, AWS and CoreWeave. We also got GPT-Infra off the ground and going in just three months.\n\nMy journey from Stanford professor to entrepreneur, Intel business leader and CTO, and now scaling AI infrastructure at OpenAI has given me a unique perspective across the entire compute stack.\n\nAI is reinventing computing. Excited to bring everything I've learned together to build what's next.\n\nGrateful to the incredible OpenAI team. I'll continue as an advisor after November 15. More soon!"
+    },
+    {
+      "tweetId": "2110418091008274528",
+      "role": "commentary",
+      "authorHandle": "trace_cohen",
+      "url": "https://x.com/Trace_Cohen/status/2110418091008274528",
+      "tweetedAt": "2026-10-14T17:10:57.000Z",
+      "bestBit": "$100M seed incoming",
+      "text": "$100M seed incoming.",
+      "quotedTweetText": "After an incredible year at OpenAI, I'm moving on to build something new in a few weeks.\n\nWe secured double-digit GWs of compute across Ohio, Portsmouth, Georgia, Trainium and other projects with amazing partners including NVIDIA, Broadcom, AMD, Oracle, Microsoft, Google, AWS and CoreWeave. We also got GPT-Infra off the ground and going in just three months.\n\nMy journey from Stanford professor to entrepreneur, Intel business leader and CTO, and now scaling AI infrastructure at OpenAI has given me a unique perspective across the entire compute stack.\n\nAI is reinventing computing. Excited to bring everything I've learned together to build what's next.\n\nGrateful to the incredible OpenAI team. I'll continue as an advisor after November 15. More soon!"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-names-former-xai-executive-uday-ruddarraju-as-infrastructure-head-9fb5d110",
+    "title": "OpenAI Names Former xAI Executive Uday Ruddarraju as Infrastructure Head",
+    "publishedAt": "2026-10-14T16:08:47.888Z",
+    "eventTimeApprox": "2026-10-14T15:56:30.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business"
+    ],
+    "tweetCount": 26,
+    "authorCount": 23
+  }
+}

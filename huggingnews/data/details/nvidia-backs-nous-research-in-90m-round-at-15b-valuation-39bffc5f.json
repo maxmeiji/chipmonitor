@@ -1,0 +1,58 @@
+{
+  "slug": "nvidia-backs-nous-research-in-90m-round-at-15b-valuation-39bffc5f",
+  "title": "Nvidia Backs Nous Research in $90M Round at $1.5B Valuation",
+  "publishedAt": "2026-10-07T12:24:07.249Z",
+  "eventTimeApprox": "2026-10-07T11:50:36.500Z",
+  "isFreshStory": false,
+  "tweetCount": 43,
+  "authorCount": 29,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The developers of the Hermes AI assistant are shifting toward the corporate market to capitalize on the tool's rapid adoption, the Wall Street Journal reported. This strategic expansion involves bringing the startup's open source technology to enterprise users through a new suite of tools designed for professional environments.\n\nNous Research raised $90 million in a Series B funding round that values the company at $1.5 billion, with Nvidia among the participating investors. The Hermes agent has been downloaded 22.7 million times since February, and the company's annualized revenue was approximately $36 million as of mid-September. Management now forecasts revenue to exceed $100 million by the end of the year.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107799544809636126",
+      "role": "source",
+      "authorHandle": "thelatentco",
+      "url": "https://x.com/TheLatentCo/status/2107799544809636126",
+      "tweetedAt": "2026-10-07T11:45:47.000Z",
+      "bestBit": "its Hermes tool has been downloaded more than 22 million times since February",
+      "text": "NEW: Nous Research has raised $90 million in a Series B at a $1.5 billion valuation as it looks to bring its open-source AI assistant to enterprise users, the Wall Street Journal reported.\n\nNvidia participated in the round, while Nous said its Hermes tool has been downloaded more than 22 million times since February."
+    }
+  ],
+  "isSuperseded": false
+}

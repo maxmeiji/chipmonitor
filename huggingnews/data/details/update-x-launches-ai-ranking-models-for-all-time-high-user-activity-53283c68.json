@@ -1,0 +1,102 @@
+{
+  "slug": "update-x-launches-ai-ranking-models-for-all-time-high-user-activity-53283c68",
+  "title": "UPDATE: X Launches AI Ranking Models for All Time High User Activity",
+  "publishedAt": "2026-10-20T03:09:18.160Z",
+  "eventTimeApprox": "2026-10-18T15:12:17.500Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112373713937084809/HVCoslqWwAA_j6K-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112373713937084809/HVCoslqWwAA_j6K-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "elonmusk",
+      "tweetUrl": "https://x.com/elonmusk/status/2112373713937084809"
+    }
+  },
+  "summary": "Elon Musk is overhauling how content is suggested to millions of users through new machine learning tools designed to increase engagement. The platform is integrating a ranking model that better predicts the time a person will spend on a post and a retrieval model focused on surfacing content that users are more likely to read in its entirety. Musk stated that user active seconds are growing exponentially and reaching peaks nearly every day.\n\nThese updates follow data from Similarweb showing X recorded 13.43B website visits in the third quarter of 2026. Traffic grew 6% from the 12.67B visits seen in the second quarter, an addition of 760M visits in three months. Musk has characterized the current level of platform usage as being at an all-time high.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112373713937084809",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2112373713937084809",
+      "tweetedAt": "2026-10-20T02:41:54.000Z",
+      "bestBit": "User active seconds is growing exponentially and hitting all-time highs almost every day",
+      "text": "Two important changes to timeline recommendations:\n\n- New AI/SI ranking model that predicts probable time spent much better\n\n- Retrieval model trained to surface posts people read all the way through\n\nUser active seconds is growing exponentially and hitting all-time highs almost every day:"
+    },
+    {
+      "tweetId": "2111774229771489333",
+      "role": "source",
+      "authorHandle": "similarweb",
+      "url": "https://x.com/Similarweb/status/2111774229771489333",
+      "tweetedAt": "2026-10-18T10:59:45.000Z",
+      "bestBit": "X's website traffic grew by 6% in Q3 compared to Q2 2026",
+      "text": "X's website traffic grew by 6% in Q3 compared to Q2 2026. https://t.co/93nSeoA9Z5"
+    },
+    {
+      "tweetId": "2111796810889204064",
+      "role": "support",
+      "authorHandle": "xfreeze",
+      "url": "https://x.com/XFreeze/status/2111796810889204064",
+      "tweetedAt": "2026-10-18T12:29:29.000Z",
+      "bestBit": "X recorded 13.43 BILLION website visits in Q3 2026, up from 12.67 billion in Q2",
+      "text": "𝕏 keeps growing\n\n𝕏 recorded 13.43 BILLION website visits in Q3 2026, up from 12.67 billion in Q2, per Similarweb\n\n• 13.43B total visits\n• +6% quarter-over-quarter growth\n• +760M additional visits in a single quarter\n\n𝕏 continues to grow as it evolves into much more than a social platform, with SI, payments, creators, video and real-time news all coming together in one ecosystem"
+    },
+    {
+      "tweetId": "2111842588126818619",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2111842588126818619",
+      "tweetedAt": "2026-10-18T15:31:23.000Z",
+      "bestBit": "X is seeing all-time high usage",
+      "text": "𝕏 is seeing all-time high usage",
+      "quotedTweetText": "𝕏 keeps growing\n\n𝕏 recorded 13.43 BILLION website visits in Q3 2026, up from 12.67 billion in Q2, per Similarweb\n\n• 13.43B total visits\n• +6% quarter-over-quarter growth\n• +760M additional visits in a single quarter\n\n𝕏 continues to grow as it evolves into much more than a social platform, with SI, payments, creators, video and real-time news all coming together in one ecosystem"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "x-hits-1343-billion-q3-web-visits-for-all-time-high-usage-4bcad5ab",
+    "title": "X Hits 13.43 Billion Q3 Web Visits for All Time High Usage",
+    "publishedAt": "2026-10-18T15:53:56.852Z",
+    "eventTimeApprox": "2026-10-18T13:41:20.500Z",
+    "routingTopicKeys": [
+      "tech"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

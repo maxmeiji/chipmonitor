@@ -1,0 +1,58 @@
+{
+  "slug": "electric-plant-co-debuts-most-diverse-plant-ai-trained-on-125-species-8210d2f9",
+  "title": "Electric Plant Co. Debuts Most Diverse Plant AI Trained on 125+ Species",
+  "publishedAt": "2026-10-21T03:09:45.453Z",
+  "eventTimeApprox": "2026-10-20T21:38:45.500Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112583500008403437/HVFlD3YbMAAk5z4-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112583500008403437/HVFlD3YbMAAk5z4-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "justinmast",
+      "tweetUrl": "https://x.com/justinmast/status/2112583500008403437"
+    }
+  },
+  "summary": "The Bombadil foundation model monitors electrical biosignals to identify vegetation stress days before symptoms appear visually in the foliage. Developed by Electric Plant Co., the AI transforms the electrical signals of living plants into a continuous view of their physiology and was trained on more than 7M hours of data across 125+ species.\n\nThe company claims Bombadil is the most species-diverse model of directly recorded electrical biosignals currently in existence. Co-founder Justin Mast stated that the tool is intended to improve the management of farming and forestry, which he identified as the largest users of fresh water on Earth, by moving beyond monitoring these systems from the outside in.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112583500008403437",
+      "role": "source",
+      "authorHandle": "justinmast",
+      "url": "https://x.com/justinmast/status/2112583500008403437",
+      "tweetedAt": "2026-10-20T16:35:30.000Z",
+      "bestBit": "most species-diverse model of directly recorded electrical biosignals in existence",
+      "text": "1/ Today we’re unveiling Bombadil, @electricplantco's  foundation model that reads the electrical signals of living plants and turns them into a continuous view of their physiology.\n\nTrained on 7M+ hours of plant electrical signal across 125+ species. That makes Bombadil the most species-diverse model of directly recorded electrical biosignals in existence. The animal equivalent would be one model that reads the brainwaves of blue whales, horseshoe crabs and fruit flies."
+    },
+    {
+      "tweetId": "2112659234282471487",
+      "role": "support",
+      "authorHandle": "therundownai",
+      "url": "https://x.com/TheRundownAI/status/2112659234282471487",
+      "tweetedAt": "2026-10-20T21:36:27.000Z",
+      "bestBit": "can spot plant stress days before it actually shows in the leaves",
+      "text": "The Electric Plant Co. built an AI that reads a plant’s electrical signals to tell how it’s doing, minute by minute.\n\nIts Bombadil model was trained on over 7M hours of data from 125+ species, and can spot plant stress days before it actually shows in the leaves.\n\nCo-founder @justinmast says farming and forestry are \"the largest use of fresh water on Earth,\" yet nearly all of it is \"managed from the outside in.\"\n\n\"We need planetary gardeners.\""
+    }
+  ],
+  "isSuperseded": false
+}

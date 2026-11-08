@@ -1,0 +1,68 @@
+{
+  "slug": "amazon-pledges-over-euro16b-for-germany-in-2027-d03a016c",
+  "title": "Amazon Pledges Over €16B for Germany in 2027",
+  "publishedAt": "2026-10-20T10:23:44.913Z",
+  "eventTimeApprox": "2026-10-20T09:55:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "europe",
+      "name": "Europe"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "summary": "The establishment of a Berlin robotics lab and new media production facilities for Prime Video will drive a new phase of corporate growth in Europe. Amazon will invest more than €16 billion in Germany in 2027 to support these initiatives and build out its AWS and AI data centers.\n\nThe funding plan also includes development for the company's Leo satellite program to increase network connectivity. This expenditure expands Amazon's operational footprint in cloud computing, artificial intelligence, and robotics across the country.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112471769437352130",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2112471769437352130",
+      "tweetedAt": "2026-10-20T09:11:32.000Z",
+      "bestBit": "ANNOUNCES PLAN TO INVEST EUR 16B IN GERMANY IN 2027",
+      "text": "AMAZON: ANNOUNCES PLAN TO INVEST EUR 16B IN GERMANY IN 2027"
+    },
+    {
+      "tweetId": "2112486682364911848",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112486682364911848",
+      "tweetedAt": "2026-10-20T10:10:47.000Z",
+      "bestBit": "spend €16B+ in Germany in 2027 on AWS and AI data centers, its Leo satellite program, Prime Video media production, and a Berlin robotics lab",
+      "text": "Amazon pledges to spend €16B+ in Germany in 2027 on AWS and AI data centers, its Leo satellite program, Prime Video media production, and a Berlin robotics lab (@mhbergen / Bloomberg)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

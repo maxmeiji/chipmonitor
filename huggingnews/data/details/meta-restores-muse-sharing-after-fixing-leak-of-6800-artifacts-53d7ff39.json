@@ -1,0 +1,90 @@
+{
+  "slug": "meta-restores-muse-sharing-after-fixing-leak-of-6800-artifacts-53d7ff39",
+  "title": "Meta Restores Muse Sharing After Fixing Leak of 6,800 Artifacts",
+  "publishedAt": "2026-10-22T17:41:10.030Z",
+  "eventTimeApprox": "2026-10-21T15:07:59.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "The company has reactivated the ability for users to share content via its Muse AI chatbot after patching a security vulnerability. Meta's current fix resolves a design flaw where URLs for shared artifacts were discoverable via passive DNS, which had previously prompted the company to disable the sharing feature to prevent unintended data exposure. All items shared before the patch have been assigned new URLs, meaning previous links are no longer functional.\n\nThe vulnerability was highlighted by security firm Claroc, which found more than 6,800 exposed links including bank fraud alerts, loan applications, and confidential company documents. Meta clarified that the flaw specifically affected shared artifacts rather than general chat sharing. To encourage responsible disclosure, the company maintains a bug bounty program for Muse that provides awards of up to $300,000 for valid findings.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113317986635485559",
+      "role": "source",
+      "authorHandle": "dps",
+      "url": "https://x.com/dps/status/2113317986635485559",
+      "tweetedAt": "2026-10-22T17:14:06.000Z",
+      "bestBit": "The underlying issue is now fixed, and sharing is back on.",
+      "text": "An update on @Muse  shared artifacts.\n\nEarlier this week, a security researcher published details of a design flaw in @Muse shared artifacts: some shared artifact URLs were discoverable via passive DNS. We disabled sharing immediately to prevent any unintended exposure, which is why shared artifacts were temporarily unavailable. Some articles we have seen in the press mentioned a flaw in chat sharing, and that is not the case - this issue was specifically about shared artifacts.\n\nThe underlying issue is now fixed, and sharing is back on.\n\nIf you shared an artifact before the fix: it now has a new URL. Anyone visiting the old link will see a note asking them to get the new one from you. We know that's a pain, and we're sorry for the disruption — but protecting user data has to come first.\n\nWe're grateful to the researchers who find and report issues like this. The Muse bug bounty program exists so these reports can reach us directly and responsibly, with awards of up to $300,000 for valid findings. Every report is reviewed. If you find something, please send it our way."
+    },
+    {
+      "tweetId": "2112868073526923465",
+      "role": "commentary",
+      "authorHandle": "paul__walsh",
+      "url": "https://x.com/Paul__Walsh/status/2112868073526923465",
+      "tweetedAt": "2026-10-21T11:26:18.000Z",
+      "bestBit": "Security firm Claroc discovered more than 6,800 shared conversations with a single search",
+      "text": "Meta’s cuddly spy called Muse has exposed private conversations by making links to shared chats publicly searchable. Predictable. \n\nWhen someone shared a conversation, Meta created a web link with the title of that conversation. Those links ended up in publicly accessible records where strangers could find them.\n\nSecurity firm Claroc discovered more than 6,800 shared conversations with a single search. Some contained sensitive personal and business information, including a loan application, a bank fraud alert and confidential company documents.\n\nAnyone who found these links could open the conversations without a password or permission from the person who shared them.\n\nMeta says it has suspended the sharing feature, but records of the exposed links remain publicly accessible.\n\n💡 Meta should shut down this service. It’s riddled with security vulnerabilities and poses serious risks to everyone’s privacy, including people who don’t use it.\n\nIt doesn’t matter if you don’t use any of Meta’s products. If someone gives Muse access to their emails, messages or other private accounts, highly sensitive information about you could end up in Meta’s hands without your knowledge or consent.\n\nIf someone shares conversations you’ve had with them, or talks about you in messages Muse can access, Meta will learn who you know, what you’ve said, what you’re thinking, your emotional state and your personal vulnerabilities.\n\nThat kind of information is being used to build detailed profiles and social graphs about people who’ve never used Muse or agreed to share anything with Meta. You’d have no way of knowing what information had been collected about you or how it was being used.\n\nAnd because Meta is a US company, information it holds is subject to demands from US authorities.\n\nThis is an extraordinary invasion of privacy, including the privacy of people who’ve never used the service."
+    },
+    {
+      "tweetId": "2112960498115412321",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2112960498115412321",
+      "tweetedAt": "2026-10-21T17:33:34.000Z",
+      "bestBit": "found them through public DNS records",
+      "text": "Meta has paused sharing of Muse chats!\n\nThe security firm Claroc found more than 6,800 shared conversations that anyone could open without logging in. They found them through public DNS records.\n\nHitting \"share\" on an AI chat may be the same as publishing it."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "meta-muse-ai-leaks-6800-private-chats-in-search-flaw-065acb7c",
+    "title": "Meta Muse AI Leaks 6,800 Private Chats in Search Flaw",
+    "publishedAt": "2026-10-21T16:23:57.485Z",
+    "eventTimeApprox": "2026-10-21T14:06:15.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

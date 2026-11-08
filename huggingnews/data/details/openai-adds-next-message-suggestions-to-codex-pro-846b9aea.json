@@ -1,0 +1,88 @@
+{
+  "slug": "openai-adds-next-message-suggestions-to-codex-pro-846b9aea",
+  "title": "OpenAI Adds Next-Message Suggestions to Codex Pro",
+  "publishedAt": "2026-10-09T19:23:28.637Z",
+  "eventTimeApprox": "2026-10-09T18:30:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108624138369929725/HUNYknsWkAAz08q-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108624138369929725/HUNYknsWkAAz08q-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2108624112335863808/vid/avc1/1920x1080/MyExk_54kGQY87Q-.mp4?tag=16",
+    "credit": {
+      "handle": "openaidevs",
+      "tweetUrl": "https://x.com/OpenAIDevs/status/2108624138369929725"
+    }
+  },
+  "summary": "Analysis of a user's personal communication style and conversation history now powers a new beta feature in the Codex desktop app. The tool, known as 'composer predictions,' allows Pro users to automatically generate their next response for local tasks by pressing the Tab key to accept suggested text. The feature can be toggled off within the application settings.\n\nOpenAI is providing the predictions at no extra cost during the beta phase, noting that the tool was one of the most popular features tested internally. Representative Sharif Shameem stated that the company does not plan to train these predictions using a user's laod of Codex usage data, and this privacy policy will remain after the testing period concludes.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108624138369929725",
+      "role": "source",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2108624138369929725",
+      "tweetedAt": "2026-10-09T18:22:25.000Z",
+      "bestBit": "Codex can now suggest your next message based on your conversation and how you talk to it",
+      "text": "Now in beta: composer predictions in Codex for Pro users.\n\nCodex can now suggest your next message based on your conversation and how you talk to it.\n\nOne of the most loved new features we've ever tested internally. https://t.co/0u8d2a3feS"
+    },
+    {
+      "tweetId": "2108624150344646752",
+      "role": "support",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2108624150344646752",
+      "tweetedAt": "2026-10-09T18:22:28.000Z",
+      "bestBit": "Available in beta for Pro users in the Codex desktop app, for local tasks",
+      "text": "Available in beta for Pro users in the Codex desktop app, for local tasks.\n\nHit “Tab” to accept a suggestion, edit it if needed, then send.\n\nYou can turn composer predictions off in Settings.\n\nhttps://t.co/Go9GsTLCI3"
+    },
+    {
+      "tweetId": "2108629534673125784",
+      "role": "support",
+      "authorHandle": "btibor91",
+      "url": "https://x.com/btibor91/status/2108629534673125784",
+      "tweetedAt": "2026-10-09T18:43:52.000Z",
+      "bestBit": "During the beta, composer predictions are included at no additional cost for eligible Pro users",
+      "text": "“During the beta, composer predictions are included at no additional cost for eligible Pro users”",
+      "quotedTweetText": "Now in beta: composer predictions in Codex for Pro users.\n\nCodex can now suggest your next message based on your conversation and how you talk to it.\n\nOne of the most loved new features we've ever tested internally. https://t.co/0u8d2a3feS"
+    },
+    {
+      "tweetId": "2108636253981925849",
+      "role": "source",
+      "authorHandle": "sharifshameem",
+      "url": "https://x.com/sharifshameem/status/2108636253981925849",
+      "tweetedAt": "2026-10-09T19:10:34.000Z",
+      "bestBit": "We don't have any plans to ever have these predictions draw from your Codex usage, even after this testing period",
+      "text": "@btibor91 We don't have any plans to ever have these predictions draw from your Codex usage, even after this testing period"
+    }
+  ],
+  "isSuperseded": false
+}

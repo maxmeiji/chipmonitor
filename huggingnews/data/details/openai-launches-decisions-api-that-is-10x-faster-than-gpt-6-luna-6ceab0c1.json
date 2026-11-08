@@ -1,0 +1,73 @@
+{
+  "slug": "openai-launches-decisions-api-that-is-10x-faster-than-gpt-6-luna-6ceab0c1",
+  "title": "OpenAI Launches Decisions API That Is 10x Faster Than GPT-6 Luna",
+  "publishedAt": "2026-10-06T21:10:26.131Z",
+  "eventTimeApprox": "2026-10-06T20:52:36.500Z",
+  "isFreshStory": false,
+  "tweetCount": 42,
+  "authorCount": 32,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Developers can now integrate a new routing tool from OpenAI into their applications to select specific models, tools, or actions in near real-time. The Decisions API is currently in public beta and delivers a speed increase of up to 10x compared to accessing GPT-6 Luna through the Responses API, focusing on the high volume of minor operational choices required for app responsiveness.\n\nOpenAI plans to implement the tool internally to enhance the user experience across its own products. The system functions as a realtime general classifier, which the company states will create new possibilities for application design and efficiency.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107573382229188645",
+      "role": "source",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2107573382229188645",
+      "tweetedAt": "2026-10-06T20:47:05.000Z",
+      "bestBit": "The Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API",
+      "text": "Let your app choose the right model, tool, or action in near real-time with Decisions API, now available to all developers in public beta.\n\nThe Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API. https://t.co/zhgRVzJ3aP"
+    },
+    {
+      "tweetId": "2107574677250179176",
+      "role": "analysis",
+      "authorHandle": "stevenheidel",
+      "url": "https://x.com/stevenheidel/status/2107574677250179176",
+      "tweetedAt": "2026-10-06T20:52:14.000Z",
+      "bestBit": "small decisions are everywhere, now they're cheap and fast",
+      "text": "we're launching a new API around a very specific job: making quick decisions. Decisions API is up to 10x faster than calling GPT-6 Luna through Responses\n\nsmall decisions are everywhere, now they're cheap and fast",
+      "quotedTweetText": "Let your app choose the right model, tool, or action in near real-time with Decisions API, now available to all developers in public beta.\n\nThe Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API. https://t.co/zhgRVzJ3aP"
+    },
+    {
+      "tweetId": "2107574912349303197",
+      "role": "analysis",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2107574912349303197",
+      "tweetedAt": "2026-10-06T20:53:10.000Z",
+      "bestBit": "Realtime general classifier does open some great possibilities",
+      "text": "Day 2.4/\n\nDecisions API is live. We will use this ourselves to improve the experience for everyone in many fun ways. Realtime general classifier does open some great possibilities.",
+      "quotedTweetText": "Let your app choose the right model, tool, or action in near real-time with Decisions API, now available to all developers in public beta.\n\nThe Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API. https://t.co/zhgRVzJ3aP"
+    }
+  ],
+  "isSuperseded": false
+}

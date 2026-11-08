@@ -1,0 +1,125 @@
+{
+  "slug": "openai-reassigns-quarter-of-production-engineering-staff-to-security-ini-3af8c8a3",
+  "title": "OpenAI Reassigns Quarter of Production Engineering Staff to Security Initiative",
+  "publishedAt": "2026-11-03T22:22:57.783Z",
+  "eventTimeApprox": "2026-11-03T03:38:04.500Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "A manager known as 'General Tibo' has been appointed to lead a new internal security push at OpenAI, involving the reallocation of 25% of the company's production engineers to strengthen its infrastructure. The personnel shift focuses on hardening the AI lab's systems as its leadership believes the value of model weights will eventually exceed any possible security spending.\n\nThe initiative includes a security sprint with Cathedral Systems, a cybersecurity startup that previously penetrated internal HR and IT tools at competitor Anthropic in less than 12 hours. Alongside the partnership, OpenAI has increased the ceiling of its bug bounty program to pay as much as $300,000 per report, with rewards for critical vulnerabilities reaching $172,000 and prompt injection findings paying up to $130,000.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117444048227123277",
+      "role": "source",
+      "authorHandle": "openai",
+      "url": "https://x.com/OpenAI/status/2117444048227123277",
+      "tweetedAt": "2026-11-03T02:29:35.000Z",
+      "bestBit": "Exceptional findings will be eligible for up to $172,000, including bonuses.",
+      "text": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do.\n\nWe’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge our defenses. They’ll bring differentiated expertise and approaches to our ongoing work to find and fix weaknesses with AI.\n\nWe’re also raising bug bounty rewards, including more than quadrupling rewards for critical findings. Exceptional findings will be eligible for up to $172,000, including bonuses.\n\nWe’ll keep advancing our models, using them to strengthen our own systems, and expanding access for trusted defenders.\n\nhttps://t.co/vcaoHROTt2"
+    },
+    {
+      "tweetId": "2117739224846029060",
+      "role": "source",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2117739224846029060",
+      "tweetedAt": "2026-11-03T22:02:31.000Z",
+      "bestBit": "General Tibo is now in charge of the internal OpenAI security initiative, and has reassigned 1/4 of OAI's production engineers to improving security infrastructure.",
+      "text": "General Tibo is now in charge of the internal OpenAI security initiative, and has reassigned 1/4 of OAI's production engineers to improving security infrastructure. Dario said in an interview once that eventually the value of model weights will exceed any possible security spend. https://t.co/Mg8FIjZJAZ",
+      "quotedTweetText": "OpenAI has partnered with Cathedral systems. This is the cybersecurity startup founded by former DOGE staffers who very recently hacked Anthropic's Slack. https://t.co/Qey5Epjxov"
+    },
+    {
+      "tweetId": "2117594705043357823",
+      "role": "support",
+      "authorHandle": "annmarie",
+      "url": "https://x.com/annmarie/status/2117594705043357823",
+      "tweetedAt": "2026-11-03T12:28:15.000Z",
+      "bestBit": "This is the same startup that recently told Anthropic its researchers had penetrated sensitive internal data and messaging system",
+      "text": "OpenAI says it’s partnering with Cathedral Systems to use its AI models to test and strengthen its defenses.\n\nAnd ICYMI: This is the same startup that recently told Anthropic its researchers had penetrated sensitive internal data and messaging system, per The Washington Post.",
+      "quotedTweetText": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do.\n\nWe’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge our defenses. They’ll bring differentiated expertise and approaches to our ongoing work to find and fix weaknesses with AI.\n\nWe’re also raising bug bounty rewards, including more than quadrupling rewards for critical findings. Exceptional findings will be eligible for up to $172,000, including bonuses.\n\nWe’ll keep advancing our models, using them to strengthen our own systems, and expanding access for trusted defenders.\n\nhttps://t.co/vcaoHROTt2"
+    },
+    {
+      "tweetId": "2117474254430314751",
+      "role": "commentary",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2117474254430314751",
+      "tweetedAt": "2026-11-03T04:29:37.000Z",
+      "bestBit": "Cathedral’s AI agents reached HR, sales and IT tools in under 12 hours.",
+      "text": "Holy. OpenAI just partnered with the startup that got into Anthropic’s internal systems.\n\nCathedral’s AI agents reached HR, sales and IT tools in under 12 hours.\n\nNow Cathedral will use OpenAI’s own models to hunt for vulnerabilities inside OpenAI. Top bug bounties are rising to $172K.",
+      "quotedTweetText": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do.\n\nWe’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge our defenses. They’ll bring differentiated expertise and approaches to our ongoing work to find and fix weaknesses with AI.\n\nWe’re also raising bug bounty rewards, including more than quadrupling rewards for critical findings. Exceptional findings will be eligible for up to $172,000, including bonuses.\n\nWe’ll keep advancing our models, using them to strengthen our own systems, and expanding access for trusted defenders.\n\nhttps://t.co/vcaoHROTt2"
+    },
+    {
+      "tweetId": "2117451525731889429",
+      "role": "commentary",
+      "authorHandle": "dps",
+      "url": "https://x.com/dps/status/2117451525731889429",
+      "tweetedAt": "2026-11-03T02:59:18.000Z",
+      "bestBit": "Our bounty program is always open and pays up to $300K per report, including up to $130K for a prompt injection against a single user.",
+      "text": "If you like breaking things: Our bounty program is always open and pays up to $300K per report, including up to $130K for a prompt injection against a single user. That's several times the published maximums at other major AI labs.\n\nDonate your bounty to charity and we'll double it. https://t.co/YvCVOebQ3A"
+    },
+    {
+      "tweetId": "2117454783812673862",
+      "role": "commentary",
+      "authorHandle": "geoffwoo",
+      "url": "https://x.com/geoffwoo/status/2117454783812673862",
+      "tweetedAt": "2026-11-03T03:12:15.000Z",
+      "bestBit": "love seeing portfolio companies working together @openai 🤝 Cathedral",
+      "text": "love seeing portfolio companies working together\n\n@openai 🤝 Cathedral",
+      "quotedTweetText": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do.\n\nWe’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge our defenses. They’ll bring differentiated expertise and approaches to our ongoing work to find and fix weaknesses with AI.\n\nWe’re also raising bug bounty rewards, including more than quadrupling rewards for critical findings. Exceptional findings will be eligible for up to $172,000, including bonuses.\n\nWe’ll keep advancing our models, using them to strengthen our own systems, and expanding access for trusted defenders.\n\nhttps://t.co/vcaoHROTt2"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-taps-cathedral-systems-to-harden-security-and-increases-max-bug-b-b38cbde8",
+    "title": "OpenAI Taps Cathedral Systems to Harden Security and Increases Max Bug Bounties",
+    "publishedAt": "2026-11-03T03:07:20.254Z",
+    "eventTimeApprox": "2026-11-03T02:48:49.500Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 13,
+    "authorCount": 11
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "foxconn-beats-q3-revenue-forecasts-with-471percent-growth-124d7eff",
+  "title": "Foxconn Beats Q3 Revenue Forecasts With 47.1% Growth",
+  "publishedAt": "2026-10-05T10:39:57.672Z",
+  "eventTimeApprox": "2026-10-05T07:51:32.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "earnings",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Hon Hai reported September sales of NT$ 1.16 trillion, an increase of 38.4% compared with the previous year. Third-quarter revenue climbed 47.1% year-over-year to NT$ 3.027 trillion, or approximately $95.4 billion, beating analyst expectations as the company saw high demand for AI servers from partners like Nvidia.\n\nFoxconn, the common name for Hon Hai, anticipates that its AI-related operations will continue to grow in the fourth quarter, a trend signaling sustained spending on global AI infrastructure. Management cautioned that the company must monitor the impact of a volatile global political and economic environment.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107013681917931528",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2107013681917931528",
+      "tweetedAt": "2026-10-05T07:43:02.000Z",
+      "bestBit": "AI-RELATED OPERATIONS ARE EXPECTED TO CONTINUE GROWING IN THE FOURTH QUARTER",
+      "text": "FOXCONN: SEPTEMBER REVENUE +38.4% Y/Y || Q3 REVENUE +47.1% Y/Y || AI-RELATED OPERATIONS ARE EXPECTED TO CONTINUE GROWING IN THE FOURTH QUARTER || IT REMAINS NECESSARY TO MONITOR THE IMPACT OF A VOLATILE GLOBAL POLITICAL AND ECONOMIC ENVIRONMENT"
+    },
+    {
+      "tweetId": "2107011297841987867",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2107011297841987867",
+      "tweetedAt": "2026-10-05T07:33:34.000Z",
+      "bestBit": "HON HAI SEPT SALES +38.4% AT NT$ 1.16T",
+      "text": "HON HAI SEPT SALES +38.4% AT NT$ 1.16T || CALCULATIONS FOR Q3 SALES NT$ 3.027T"
+    },
+    {
+      "tweetId": "2107017962427183372",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2107017962427183372",
+      "tweetedAt": "2026-10-05T08:00:03.000Z",
+      "bestBit": "signaling sustained and elevated spending on global AI infrastructure",
+      "text": "Nvidia partner Hon Hai reported better-than-expected quarterly revenue, signaling sustained and elevated spending on global AI infrastructure https://t.co/UQWeWBHaaQ"
+    }
+  ],
+  "isSuperseded": false
+}

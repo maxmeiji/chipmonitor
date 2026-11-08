@@ -1,0 +1,64 @@
+{
+  "slug": "samsung-orders-2nm-equipment-to-reach-20000-wafers-monthly-at-first-us-f-9fad675d",
+  "title": "Samsung Orders 2nm Equipment to Reach 20,000 Wafers Monthly at First US Fab",
+  "publishedAt": "2026-10-23T07:39:02.801Z",
+  "eventTimeApprox": "2026-10-23T06:16:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113533397385793885/HVTHbHkb0AAyobo-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113533397385793885/HVTHbHkb0AAyobo-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "melvininvests",
+      "tweetUrl": "https://x.com/MelvinInvests/status/2113533397385793885"
+    }
+  },
+  "summary": "The production capacity of a fabrication plant in Texas will grow by 6,000 wafers per month after a new order for machinery. Samsung placed the order for its Taylor site's Fab 1 to produce 2nm chips, with the hardware scheduled to arrive by the end of 2026. This addition supplements a previous installation of tools for 10,000 wafers per month that began in late 2025, allowing the fab to hit its full design capacity of 20,000 wafers per month in the second half of 2027.\n\nThe Taylor facility is Samsung's first foundry production line in the U.S., featuring an initial investment of $17 billion and counting Tesla as a primary customer. Along with TSMC and Intel, Samsung is one of three companies capable of mass-producing the 2nm node. Construction for a second site, Fab 2, begins at the end of 2026 and is scheduled for operations in 2030.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113484603872997473",
+      "role": "source",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2113484603872997473",
+      "tweetedAt": "2026-10-23T04:16:10.000Z",
+      "bestBit": "Samsung has begun investing in additional equipment to expand capacity at its Taylor foundry Fab 1 by 6,000 wafers per month",
+      "text": "According to Korean media reports, Samsung has begun investing in additional equipment to expand capacity at its Taylor foundry Fab 1 by 6,000 wafers per month.\n\nThis is expected to bring the fab’s total capacity to 20,000 wafers per month in the second half of next year.\n\nhttps://t.co/jnjsn3aEhj"
+    },
+    {
+      "tweetId": "2113533397385793885",
+      "role": "commentary",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2113533397385793885",
+      "tweetedAt": "2026-10-23T07:30:04.000Z",
+      "bestBit": "Taylor is Samsung's first foundry production line in the United States, with an initial investment of $17 billion, and Tesla $TSLA is one of its main customers",
+      "text": "According to Korean media, Samsung just placed a NEW equipment order for its Taylor, Texas fab.\n\nThe order covers about 6,000 wafers per month of 2nm capacity, with the tools set to start arriving from the end of this year.\n\nSamsung has already been installing equipment for 10,000 wafers per month at Taylor since late last year.\n\nAdd the pilot line built in the early phase, and Taylor Fab 1 reaches its FULL design capacity of 20,000 2nm wafers per month in the second half of next year.\n\nTaylor is Samsung's first foundry production line in the United States, with an initial investment of $17 billion, and Tesla $TSLA is one of its main customers.\n\nThe next step is Taylor Fab 2, where construction is planned to start at the end of this year with operations targeted for 2030.\n\nOnly Samsung, $TSM and $INTC can mass produce 2nm chips, and AI demand is turning that node into the most important battleground in foundry.\n\nSamsung is spending into the selloff while everyone else panics, and I think that is exactly what a company confident in AI demand looks like.",
+      "quotedTweetText": "Elon Musk just put dates on Terafab.\n\nAccording to Reuters, Musk said on the SpaceX earnings call that Terafab's first working SRAM test chip is targeted for May or June 2027 at the research fab in Austin.\n\nVolume production is targeted for the third quarter of 2028 at the Gibbons Creek site in Texas, though Musk said it could slip to the fourth quarter.\n\nHe called the schedule \"very aggressive\" and said there are big error bars on the dates.\n\nTesla and SpaceX are building Terafab to make their own AI chips for robots, cars and satellites, right here in the United States.\n\nIf they pull it off, it would be one of the FASTEST chip fab ramps ever attempted."
+    }
+  ],
+  "isSuperseded": false
+}

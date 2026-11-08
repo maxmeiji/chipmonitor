@@ -1,0 +1,75 @@
+{
+  "slug": "mintive-raises-11m-for-ai-agent-identity-and-spending-control-platform-ac909f14",
+  "title": "Mintive Raises $11M for AI Agent Identity and Spending Control Platform",
+  "publishedAt": "2026-10-29T16:08:32.603Z",
+  "eventTimeApprox": "2026-10-29T15:23:01.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "summary": "The startup Mintive has introduced a security layer that provides autonomous AI agents with unique identities, preventing them from automatically inheriting the access rights of the employees who create them. The company announced the product's release alongside the closing of $11M in total funding, with Cowboy Ventures leading the most recent investment round.\n\nThe platform allows enterprises to set token budgets, monitor model costs and results, and scan tool calls for prompt injections. Mintive said its governance tools enabled Modern Treasury to implement a bank-operations agent in less than three weeks, which reduced a process that typically took four hours to several minutes.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115823843067691019",
+      "role": "source",
+      "authorHandle": "jiquanngiam",
+      "url": "https://x.com/JiquanNgiam/status/2115823843067691019",
+      "tweetedAt": "2026-10-29T15:11:28.000Z",
+      "bestBit": "We’ve raised $11M, with @cowboyvc leading our latest round.",
+      "text": "Every AI agent at work runs with the access of whoever set it up.\n\nThat’s why security keeps saying no.\n\nToday we’re launching @mintive: every agent gets its own identity and permissions, the same way every employee does.\n\nWe’ve raised $11M, with @cowboyvc leading our latest round."
+    },
+    {
+      "tweetId": "2115826287952679357",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115826287952679357",
+      "tweetedAt": "2026-10-29T15:21:11.000Z",
+      "bestBit": "Mintive says Modern Treasury deployed a bank-operations agent in under three weeks, cutting a four-hour task to minutes.",
+      "text": "MINTIVE LAUNCHES TO CONTROL WHAT AI AGENTS CAN ACCESS, DO & SPEND\n\nThey are announcing $11M in total funding, with Cowboy Ventures leading its latest round.\n\nThe platform gives each agent its own identity and permissions. Companies can approve specific tools and disable risky actions without granting everything the person setting up the agent can access.\n\nTeams can choose which models are allowed, set budgets and automatically stop new model calls when spending limits are reached.\n\nTool calls are checked for prompt injection and unsafe operations. An audit trail connects each call to the person, agent, server and model involved, with visibility into costs and results.\n\nShared Slack agents adjust their access based on the channel and who’s asking, rather than carrying the same permissions into every conversation.\n\nMintive says Modern Treasury deployed a bank-operations agent in under three weeks, cutting a four-hour task to minutes.\n\nhttps://t.co/wUXYrzlTgD",
+      "quotedTweetText": "Every AI agent at work runs with the access of whoever set it up.\n\nThat’s why security keeps saying no.\n\nToday we’re launching @mintive: every agent gets its own identity and permissions, the same way every employee does.\n\nWe’ve raised $11M, with @cowboyvc leading our latest round."
+    },
+    {
+      "tweetId": "2115835388975554671",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2115835388975554671",
+      "tweetedAt": "2026-10-29T15:57:21.000Z",
+      "bestBit": "Agents get their own identities and permissions, traces are logged properly, and teams get token budgets to set clear limits.",
+      "text": "We need to rethink agent infrastructure.\n\nCompanies are quickly moving from chatbots to autonomous agents that do real work across their systems. The infrastructure under those agents hasn't caught up.\n\n@mintive is building that layer, focusing on governance, efficiency, and security. Agents get their own identities and permissions, traces are logged properly, and teams get token budgets to set clear limits.",
+      "quotedTweetText": "Every AI agent at work runs with the access of whoever set it up.\n\nThat’s why security keeps saying no.\n\nToday we’re launching @mintive: every agent gets its own identity and permissions, the same way every employee does.\n\nWe’ve raised $11M, with @cowboyvc leading our latest round."
+    },
+    {
+      "tweetId": "2115827212222156997",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2115827212222156997",
+      "tweetedAt": "2026-10-29T15:24:52.000Z",
+      "bestBit": "Mintive just launched a platform that gives AI agents their own identities and permissions while letting companies control spending and track every action.",
+      "text": "Mintive just launched a platform that gives AI agents their own identities and permissions while letting companies control spending and track every action.\n\nAnother proof that controlling what AI agents can access becomes huge for cybersecurity.  https://t.co/5rSSuilT7A",
+      "quotedTweetText": "Every AI agent at work runs with the access of whoever set it up.\n\nThat’s why security keeps saying no.\n\nToday we’re launching @mintive: every agent gets its own identity and permissions, the same way every employee does.\n\nWe’ve raised $11M, with @cowboyvc leading our latest round."
+    }
+  ],
+  "isSuperseded": false
+}

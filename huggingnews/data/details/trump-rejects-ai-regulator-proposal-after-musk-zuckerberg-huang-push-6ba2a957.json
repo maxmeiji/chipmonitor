@@ -1,0 +1,144 @@
+{
+  "slug": "trump-rejects-ai-regulator-proposal-after-musk-zuckerberg-huang-push-6ba2a957",
+  "title": "Trump Rejects AI Regulator Proposal After Musk Zuckerberg Huang Push",
+  "publishedAt": "2026-09-17T15:11:26.998Z",
+  "eventTimeApprox": "2026-09-17T10:34:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "A plan to create an industry-funded body for AI oversight was scrapped by President Trump after opposition from Elon Musk, Mark Zuckerberg, and Jensen Huang. The proposed organization would have overseen AI companies and set industry standards using a model similar to the Financial Industry Regulatory Authority, known as FINRA.\n\nDeepMind chief Demis Hassabis pitched the framework to the White House, but Musk, Zuckerberg, and Huang argued the regulator would concentrate power among Google, OpenAI, and Anthropic. The decision to forgo the regulator follows direct communications between the tech leaders and the president, the Wall Street Journal reported.",
+  "selectedTweets": [
+    {
+      "tweetId": "2100580971074716107",
+      "role": "source",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2100580971074716107",
+      "tweetedAt": "2026-09-17T13:41:45.000Z",
+      "bestBit": "Elon Musk, Mark Zuckerberg, and Jensen Huang all told President Trump they opposed a FINRA-style industry body that Demis Hassabis had been pitching to the White House",
+      "text": "SITUATION DETECTED: Elon Musk, Mark Zuckerberg, and Jensen Huang all told President Trump they opposed a FINRA-style industry body that Demis Hassabis had been pitching to the White House. Ultimately Trump decided not to create it, per WSJ."
+    },
+    {
+      "tweetId": "2100533971176366464",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2100533971176366464",
+      "tweetedAt": "2026-09-17T10:34:59.000Z",
+      "bestBit": "The plan would have created an industry-funded body to set standards and oversee AI companies, similar to FINRA in finance",
+      "text": "Mark Zuckerberg, Elon Musk and Jensen Huang reportedly pushed Trump to drop a proposed AI regulator backed by Google DeepMind chief Demis Hassabis.\n\nThe plan would have created an industry-funded body to set standards and oversee AI companies, similar to FINRA in finance. https://t.co/3fZbKYborO"
+    },
+    {
+      "tweetId": "2100558812629647485",
+      "role": "support",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2100558812629647485",
+      "tweetedAt": "2026-09-17T12:13:42.000Z",
+      "bestBit": "They argued it could “concentrate power in OpenAI, Anthropic and Google.”",
+      "text": "$META CEO Mark Zuckerberg, $SPCX CEO Elon Musk and $NVDA Jensen Huang reportedly pushed Trump to drop a proposed AI regulator backed by $GOOGL DeepMind’s Demis Hassabis.\n\nThey argued it could “concentrate power in OpenAI, Anthropic and Google.” https://t.co/HLNSCpLdAk"
+    },
+    {
+      "tweetId": "2100458606886048058",
+      "role": "source",
+      "authorHandle": "berber_jin1",
+      "url": "https://x.com/berber_jin1/status/2100458606886048058",
+      "tweetedAt": "2026-09-17T05:35:31.000Z",
+      "bestBit": "Inside the White House tussles to sway Trump on AI",
+      "text": "RT @jdawsey1: Inside the White House tussles to sway Trump on AI. Our latest with a free link: https://t.co/BbqykWwE8t"
+    },
+    {
+      "tweetId": "2100462492640043355",
+      "role": "support",
+      "authorHandle": "textually",
+      "url": "https://x.com/textually/status/2100462492640043355",
+      "tweetedAt": "2026-09-17T05:50:57.000Z",
+      "bestBit": "Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis",
+      "text": "Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis https://t.co/ksLejFEpPd via @WSJ"
+    },
+    {
+      "tweetId": "2100422356900741185",
+      "role": "signal",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2100422356900741185",
+      "tweetedAt": "2026-09-17T03:11:28.000Z",
+      "bestBit": "Sources: Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis (Wall Street Journal)",
+      "text": "Sources: Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis (Wall Street Journal)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "trump-stalls-hassabis-ai-regulatory-plan-after-musk-and-zuckerberg-talks-dba193d0",
+    "title": "Trump Stalls Hassabis AI Regulatory Plan After Musk and Zuckerberg Talks",
+    "publishedAt": "2026-09-17T08:51:31.924Z",
+    "eventTimeApprox": "2026-09-17T03:11:28.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics",
+      "tech"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

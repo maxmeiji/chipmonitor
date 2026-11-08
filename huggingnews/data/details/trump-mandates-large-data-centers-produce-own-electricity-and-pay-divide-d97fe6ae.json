@@ -1,0 +1,56 @@
+{
+  "slug": "trump-mandates-large-data-centers-produce-own-electricity-and-pay-divide-d97fe6ae",
+  "title": "Trump Mandates Large Data Centers Produce Own Electricity and Pay Dividends",
+  "publishedAt": "2026-10-21T06:23:56.098Z",
+  "eventTimeApprox": "2026-10-21T06:05:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 25,
+  "authorCount": 21,
+  "routingTopicKeys": [
+    "us-politics",
+    "tech",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "executive-orders",
+      "name": "Executive Orders"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "summary": "Companies constructing expansive new computing sites are now required to return excess electricity to local communities, President Trump announced. These facilities are \"mandated\" to generate their own power and either sell or give any surplus energy back to the local grid or residents.\n\nTrump also stated that data center firms should pay a \"dividend\" to host communities to make these projects more popular. He called on the firms to share the benefits of their operations through these payments to residents and the surrounding areas.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112787247645041135",
+      "role": "source",
+      "authorHandle": "scottmelker",
+      "url": "https://x.com/scottmelker/status/2112787247645041135",
+      "tweetedAt": "2026-10-21T06:05:08.000Z",
+      "bestBit": "PRESIDENT TRUMP SAYS NEW AND LARGE DATA CENTERS ARE \"MANDATED\" TO MAKE THEIR OWN ELECTRICITY AND GIVE OR SELL ANY EXCESS BACK TO THE LOCAL COMMUNITY OR GRID",
+      "text": "🇺🇸 PRESIDENT TRUMP SAYS NEW AND LARGE DATA CENTERS ARE \"MANDATED\" TO MAKE THEIR OWN ELECTRICITY AND GIVE OR SELL ANY EXCESS BACK TO THE LOCAL COMMUNITY OR GRID"
+    },
+    {
+      "tweetId": "2112788507190071472",
+      "role": "support",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2112788507190071472",
+      "tweetedAt": "2026-10-21T06:10:08.000Z",
+      "bestBit": "Trump says companies should pay 'dividend' to communities to make data centers popular",
+      "text": "Trump says companies should pay 'dividend' to communities to make data centers popular https://t.co/v8sHv4BBlS https://t.co/v8sHv4BBlS"
+    }
+  ],
+  "isSuperseded": false
+}

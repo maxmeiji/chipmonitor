@@ -1,0 +1,45 @@
+{
+  "slug": "ray-dalio-warns-ai-bubble-nears-bursting-point-655d75b9",
+  "title": "Ray Dalio Warns AI Classic Bubble Nears Bursting Point",
+  "publishedAt": "2026-10-07T06:07:49.558Z",
+  "eventTimeApprox": "2026-10-07T05:52:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "summary": "Rising interest rates and the pressure for investors to liquidate assets into cash are pushing the artificial intelligence sector toward a crash, according to billionaire Ray Dalio. The hedge fund manager stated that the market's current valuation trajectory has become unsustainable and isapproaching a breaking point.\n\nDalio, the founder of Bridgewater, described the current AI boom as a \"classic bubble\" in his warning. He indicated that the combination of higher borrowing costs and a growing demand for liquidity among wealth holders is creating the primary risk of a market burst.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107687372708049021",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2107687372708049021",
+      "tweetedAt": "2026-10-07T04:20:03.000Z",
+      "bestBit": "warned that AI is a “classic bubble” that is nearing a bursting point thanks to rising interest rates and the need to turn wealth into cash",
+      "text": "Billionaire Ray Dalio warned that AI is a “classic bubble” that is nearing a bursting point thanks to rising interest rates and the need to turn wealth into cash. https://t.co/QWzE6Fk3CQ"
+    }
+  ],
+  "isSuperseded": false
+}

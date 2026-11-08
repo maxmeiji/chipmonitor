@@ -1,0 +1,77 @@
+{
+  "slug": "flat-tpu-kernels-beat-h100-by-3x-in-gla-training-8b7fb7ba",
+  "title": "FLAT TPU Kernels Beat H100 by 3x in GLA Training",
+  "publishedAt": "2026-10-14T01:54:32.778Z",
+  "eventTimeApprox": "2026-10-13T22:10:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110119911410524525/HUim4JqaEAAgPMf-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110119911410524525/HUim4JqaEAAgPMf-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "mayankmish98",
+      "tweetUrl": "https://x.com/MayankMish98/status/2110119911410524525"
+    }
+  },
+  "summary": "Mayank Mishra has developed a new framework for executing linear attention on Google's TPU hardware to speed up model training. The release, called FLAT, provides Pallas training kernels that enable a single TPU v6e to perform forward and backward passes up to 3x faster than Flash Linear Attention on an Nvidia H100 for GLA, and 1.5x faster for Mamba-2.\n\nThe new kernels are designed to optimize training for GLA, Mamba-2 and other linear attention architectures. Researchers Albert Gu and Percy Liang highlighted the release, which leverages Pallas to improve processing efficiency on the v6e hardware to reduce computational overhead.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110119911410524525",
+      "role": "source",
+      "authorHandle": "mayankmish98",
+      "url": "https://x.com/MayankMish98/status/2110119911410524525",
+      "tweetedAt": "2026-10-13T21:26:05.000Z",
+      "bestBit": "forward + backward is up to 3x faster than FLA on an H100 for GLA, and 1.5x faster for Mamba-2",
+      "text": "Releasing FLAT: Flash Linear Attention on TPUs 🚀\n\nPallas training kernels for Linear Attention, Mamba-2 and GLA. On one TPU v6e, forward + backward is up to 3x faster than FLA on an H100 for GLA, and 1.5x faster for Mamba-2.\n\n🧵 https://t.co/are10bcub8"
+    },
+    {
+      "tweetId": "2110131097690661348",
+      "role": "signal",
+      "authorHandle": "_albertgu",
+      "url": "https://x.com/_albertgu/status/2110131097690661348",
+      "tweetedAt": "2026-10-13T22:10:32.000Z",
+      "bestBit": "Pallas training kernels for Linear Attention, Mamba-2 and GLA",
+      "text": "RT @MayankMish98: Releasing FLAT: Flash Linear Attention on TPUs 🚀\n\nPallas training kernels for Linear Attention, Mamba-2 and GLA. On one T…"
+    },
+    {
+      "tweetId": "2110184364210630940",
+      "role": "signal",
+      "authorHandle": "percyliang",
+      "url": "https://x.com/percyliang/status/2110184364210630940",
+      "tweetedAt": "2026-10-14T01:42:12.000Z",
+      "bestBit": "Releasing FLAT: Flash Linear Attention on TPUs",
+      "text": "RT @MayankMish98: Releasing FLAT: Flash Linear Attention on TPUs 🚀\n\nPallas training kernels for Linear Attention, Mamba-2 and GLA. On one T…"
+    }
+  ],
+  "isSuperseded": false
+}

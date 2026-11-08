@@ -1,0 +1,62 @@
+{
+  "slug": "mnx-launches-ai-exchange-for-openai-and-anthropic-futures-d5b0058b",
+  "title": "MNX Launches AI Exchange for OpenAI and Anthropic Futures",
+  "publishedAt": "2026-10-13T17:27:23.199Z",
+  "eventTimeApprox": "2026-10-13T17:09:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "prediction-markets",
+      "name": "Prediction Markets"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "Speculators can now bet on the worth of unlisted artificial intelligence firms through a new trading platform. MNX has debuted an exchange that offers futures contracts for OpenAI and Anthropic, enabling market participants to take long or short positions on the valuations of these private labs without holding actual equity.\n\nWinning positions on the platform may receive less than their full payout if collateral and fees are insufficient. The service, developed by a team including Alex Masmej and MNX, went live on October 13 to allow direct trading on the growth of private AI companies.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110049233441378738",
+      "role": "source",
+      "authorHandle": "mnx_fi",
+      "url": "https://x.com/MNX_fi/status/2110049233441378738",
+      "tweetedAt": "2026-10-13T16:45:14.000Z",
+      "bestBit": "The AI exchange is live.",
+      "text": "The AI exchange is live.\n\nTrade the takeoff: https://t.co/rkyOmcbhHm https://t.co/VCcCUvUONw"
+    },
+    {
+      "tweetId": "2110055213210214417",
+      "role": "support",
+      "authorHandle": "defiantnews",
+      "url": "https://x.com/DefiantNews/status/2110055213210214417",
+      "tweetedAt": "2026-10-13T17:09:00.000Z",
+      "bestBit": "Traders can go long or short OpenAI and Anthropic valuations without owning shares.",
+      "text": "MNX LAUNCHES FUTURES ON PRIVATE AI LABS\n\nTraders can go long or short OpenAI and Anthropic valuations without owning shares. Winning positions can receive less than their full payout if collateral and fees fall short.\n\nRead more here:\nhttps://t.co/GrwH1Y96Fd"
+    }
+  ],
+  "isSuperseded": false
+}

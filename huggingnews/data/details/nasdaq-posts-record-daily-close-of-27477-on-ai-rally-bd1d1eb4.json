@@ -1,0 +1,120 @@
+{
+  "slug": "nasdaq-posts-record-daily-close-of-27477-on-ai-rally-bd1d1eb4",
+  "title": "Nasdaq Posts Record Daily Close of 27,477 on AI Rally",
+  "publishedAt": "2026-10-06T10:39:15.099Z",
+  "eventTimeApprox": "2026-10-05T20:20:55.500Z",
+  "isFreshStory": false,
+  "tweetCount": 27,
+  "authorCount": 21,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107200137659551979/HT5HU7ibQAAOwgQ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107200137659551979/HT5HU7ibQAAOwgQ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "bulltheoryio",
+      "tweetUrl": "https://x.com/BullTheoryio/status/2107200137659551979"
+    }
+  },
+  "summary": "Nvidia's 2% gain pushed its market valuation above $5.7 trillion and led the Nasdaq Composite to a record closing price of 27,477.31 on Oct. 5. The rally added $540 billion to the US stock market, while the S&P 500 climbed 0.7% to finish just 0.5% below its own all-time high. Gains in Microsoft, Meta, and Tesla further bolstered the tech-heavy index, which broke out of a 4 month trading range.\n\nThe record close occurred despite US 20 year and 30 year Treasury yields hitting 24 year highs and an ISM Services PMI reading that came in lower than expected. Investors focused on the long term benefits of artificial intelligence to override rising borrowing costs, with Interactive Brokers strategist Steve Sosnick noting that AI benefits are viewed by some as essentially infinite. Analysts now question whether higher financing costs will eventually slow AI investment for smaller companies unable to absorb the expense.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107208365126344902",
+      "role": "source",
+      "authorHandle": "yahoofinance",
+      "url": "https://x.com/YahooFinance/status/2107208365126344902",
+      "tweetedAt": "2026-10-05T20:36:38.000Z",
+      "bestBit": "$NVDA led the $IXIC to a new record high on Monday, closing at 27,477.31",
+      "text": "$NVDA led the $IXIC to a new record high on Monday, closing at 27,477.31. 🔥 https://t.co/Tg9R28LoVe"
+    },
+    {
+      "tweetId": "2107167927741088207",
+      "role": "support",
+      "authorHandle": "bulltheoryio",
+      "url": "https://x.com/BullTheoryio/status/2107167927741088207",
+      "tweetedAt": "2026-10-05T17:55:57.000Z",
+      "bestBit": "$540 billion added to the US stock market today as the Nasdaq hits a new all time high",
+      "text": "BREAKING: $540 billion added to the US stock market today as the Nasdaq hits a new all time high.\n\nThis is happening despite:\n\n1. ISM Services PMI coming in lower than expected.\n\n2. US 20-year and 30-year Treasury yields hitting fresh 24-year highs https://t.co/VAaWLM4kgo",
+      "quotedTweetText": "BREAKING: Nasdaq just hit a new ALL TIME HIGH of 27,450 for the first time in history. \n\nThis is its third record high in the last 10 trading sessions. https://t.co/GZXyL9CnSy"
+    },
+    {
+      "tweetId": "2107176947608437202",
+      "role": "analysis",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2107176947608437202",
+      "tweetedAt": "2026-10-05T18:31:48.000Z",
+      "bestBit": "If you think the benefits of AI are essentially infinite, so what if you have to pay more to borrow money?",
+      "text": "AI OPTIMISM OVERRIDES RISING BOND YIELDS\n\nTech stocks are rallying even as bond yields climb, with investors continuing to bet heavily on the long-term benefits of AI.\n\nInteractive Brokers strategist Steve Sosnick summed up the mood: “If you think the benefits of AI are essentially infinite, so what if you have to pay more to borrow money?”"
+    },
+    {
+      "tweetId": "2107293515059196293",
+      "role": "commentary",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2107293515059196293",
+      "tweetedAt": "2026-10-06T02:15:00.000Z",
+      "bestBit": "Nvidia gained 2% and pushed past a $5.7 trillion valuation",
+      "text": "🇺🇸 Wall Street keeps climbing\n\nThe Nasdaq hit another record, Nvidia gained 2% and pushed past a $5.7 trillion valuation, while Microsoft, Meta and Tesla also finished higher.\n\nThe big question is whether higher bond yields eventually make borrowing expensive enough to slow the AI investment boom.\n\nBig players like Nvidia, Microsoft, and Meta can probably absorb that.\n\nSmaller companies may have a much harder time keeping up if financing gets more expensive.\n\nWriter: Sol\nhttps://t.co/JJOBttFqEO"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nasdaq-hits-record-27450-in-third-high-within-10-sessions-a51bbc76",
+    "title": "Nasdaq Hits Record 27,450 in Third High Within 10 Sessions",
+    "publishedAt": "2026-10-05T17:37:38.461Z",
+    "eventTimeApprox": "2026-10-05T17:27:53.000Z",
+    "routingTopicKeys": [
+      "us-markets"
+    ],
+    "tweetCount": 25,
+    "authorCount": 21
+  }
+}

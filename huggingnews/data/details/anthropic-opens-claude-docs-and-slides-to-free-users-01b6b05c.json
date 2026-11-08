@@ -1,0 +1,91 @@
+{
+  "slug": "anthropic-opens-claude-docs-and-slides-to-free-users-01b6b05c",
+  "title": "Anthropic Opens Claude Docs and Slides to Free Users",
+  "publishedAt": "2026-10-08T22:22:49.270Z",
+  "eventTimeApprox": "2026-10-08T20:36:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108317532377722996/tWR24ks_uqLb_KwL-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108317532377722996/tWR24ks_uqLb_KwL-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2108317440639991808/vid/avc1/1920x1080/kGP9Fs2nMQMjA2ik.mp4?tag=29",
+    "credit": {
+      "handle": "wesroth",
+      "tweetUrl": "https://x.com/WesRoth/status/2108317532377722996"
+    }
+  },
+  "summary": "Every person using the Claude AI assistant can now create documents and presentations without a paid subscription as the company ends the beta period for those specific tools. Anthropic has also expanded the capabilities of the still-beta Claude Dashboards, which can now link to data platforms including Snowflake, BigQuery, Databricks, Redshift, ClickHouse, and Salesforce to build live SQL backed charts. Additionally, a new tool called Claude Motion converts static reports and walkthroughs into editable animations using code rather than a video generation model.\n\nClaude Dashboards is accessible on all paid tiers, while Claude Motion is reserved for Team and Enterprise users. Both utilities generate their outputs as code to allow for interactive data displays and automated queries of external CRM tools. The expansion targets analytics teams and product managers to streamline the process of turning raw datasets into presentation assets, continuing Anthropic's strategy of integrating AI into enterprise software workflows.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108317532377722996",
+      "role": "analysis",
+      "authorHandle": "wesroth",
+      "url": "https://x.com/WesRoth/status/2108317532377722996",
+      "tweetedAt": "2026-10-08T22:04:05.000Z",
+      "bestBit": "Dashboards can connect directly to sources like Snowflake, BigQuery, Databricks, Redshift, ClickHouse, and Salesforce",
+      "text": "Anthropic released Claude Dashboards and Claude Motion in beta, expanding Claude from generating documents into building live analytical and presentation assets.\n\nDashboards can connect directly to sources like Snowflake, BigQuery, Databricks, Redshift, ClickHouse, and Salesforce, then generate SQL-backed charts that refresh as the underlying data changes. \n\nMotion takes existing reports, charts, or walkthroughs and turns them into editable animations built entirely with code rather than a video generation model. \n\nClaude Docs, Slides, and Design are also leaving beta and becoming available on every Claude plan, including Free.",
+      "quotedTweetText": "Claude Dashboards and Claude Motion are in beta today.\n\nAsk Claude to turn your data into live dashboards and your ideas into animated explainers. https://t.co/V3fU4lMnzp"
+    },
+    {
+      "tweetId": "2108285624340144404",
+      "role": "commentary",
+      "authorHandle": "bcherny",
+      "url": "https://x.com/bcherny/status/2108285624340144404",
+      "tweetedAt": "2026-10-08T19:57:17.000Z",
+      "bestBit": "Ask Claude to turn your data into live dashboards and your ideas into animated explainers",
+      "text": "RT @claudeai: Claude Dashboards and Claude Motion are in beta today.\n\nAsk Claude to turn your data into live dashboards and your ideas into…"
+    },
+    {
+      "tweetId": "2108294558497030514",
+      "role": "commentary",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2108294558497030514",
+      "tweetedAt": "2026-10-08T20:32:47.000Z",
+      "bestBit": "Claude Dashboards is now available on all paid plans; Claude Motion is now available on Team and Enterprise plans.",
+      "text": "ANTHROPIC 🔥: Claude Dashboards is now available on all paid plans; Claude Motion is now available on Team and Enterprise plans.\n\n> Claude can query your data platform or CRM tool to build interactive dashboards or short animations.\n\nEverything is generated as code 👀\n\nAnother proof that Anthropic's focus on software development was the right direction, and it allowed them to slide into the enterprise world very seamlessly. \n\nThat's a huge deal for analytics teams and product manager roles, as well as thousands of others.  https://t.co/0hGuuytkSg"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropic-launches-claude-dashboards-and-motion-for-enterprise-users-e3563b7f",
+    "title": "Anthropic Launches Claude Dashboards and Motion for Enterprise Users",
+    "publishedAt": "2026-10-08T20:38:48.437Z",
+    "eventTimeApprox": "2026-10-08T19:57:17.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

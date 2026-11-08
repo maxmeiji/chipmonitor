@@ -1,0 +1,125 @@
+{
+  "slug": "update-cloudflare-integrates-clef-ai-into-sglang-for-sub-40-ms-latency-32190193",
+  "title": "UPDATE: Cloudflare Integrates Clef AI Into SGLang for Sub-40 ms Latency",
+  "publishedAt": "2026-10-12T17:12:52.170Z",
+  "eventTimeApprox": "2026-10-09T21:22:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NET",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cloudflare, Inc. Class A common stock, par value $0.001 per share",
+      "hubKey": "net"
+    }
+  ],
+  "summary": "Developers can now access the Clef family of decision models via the /v1/systemone API after a technical integration with the SGLang framework. Cloudflare contributed upstream performance optimizations that enable sub-40 ms decision latency for its Clef-Flash model on a single H200 GPU and allow as many as 64 questions to be answered in one prefill. The company is currently preparing to add support for its multimodal Clef-Omni model to the API.\n\nThis availability expands a broader update to Cloudflare's AI suite, which includes a 27B parameter decision model and a native multimodal pipeline in Clef-Omni for processing audio, video, and images. The company recently doubled inference speeds for the family and cut the price of the Clef-Flash model to $0.038 per million input tokens. Internal teams already use these models to identify personally identifiable information and detect malicious domains.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109688269512556614",
+      "role": "source",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2109688269512556614",
+      "tweetedAt": "2026-10-12T16:50:54.000Z",
+      "bestBit": "Sub-40 ms decision latency for Clef-Flash on a single H200",
+      "text": "Very proud to see @Cloudflare serving Clef with SGLang! Now available through SGLang’s existing /v1/systemone API.\n\nThe team also contributed Clef support and performance optimizations upstream to SGLang with:\n· Validated against the official reference implementation\n· Sub-40 ms decision latency for Clef-Flash on a single H200\n· 64 questions answered in one prefill, with text and image support\n\nClef-Omni support is up next!",
+      "quotedTweetText": "we've got more 𝚌𝚕𝚎𝚏 for you:\n • new 𝚌𝚕𝚎𝚏-𝚘𝚖𝚗𝚒 - takes audio, video, image, and text\n • 𝚌𝚕𝚎𝚏-𝚏𝚕𝚊𝚜𝚑 is now cheaper than jev\n • 𝚌𝚕𝚎𝚏 is now ~2x faster\nhttps://t.co/0RepfCpEYf"
+    },
+    {
+      "tweetId": "2108625984585170988",
+      "role": "source",
+      "authorHandle": "michellechen",
+      "url": "https://x.com/michellechen/status/2108625984585170988",
+      "tweetedAt": "2026-10-09T18:29:45.000Z",
+      "bestBit": "new 𝚌𝚕𝚎𝚏-𝚘𝚖𝚗𝚒 - takes audio, video, image, and text",
+      "text": "we've got more 𝚌𝚕𝚎𝚏 for you:\n • new 𝚌𝚕𝚎𝚏-𝚘𝚖𝚗𝚒 - takes audio, video, image, and text\n • 𝚌𝚕𝚎𝚏-𝚏𝚕𝚊𝚜𝚑 is now cheaper than jev\n • 𝚌𝚕𝚎𝚏 is now ~2x faster\nhttps://t.co/0RepfCpEYf"
+    },
+    {
+      "tweetId": "2108639662457905284",
+      "role": "support",
+      "authorHandle": "dok2001",
+      "url": "https://x.com/dok2001/status/2108639662457905284",
+      "tweetedAt": "2026-10-09T19:24:06.000Z",
+      "bestBit": "using it to find PII, detect malicious domains, and the docs repo to close spam issues",
+      "text": "Clef-omni is out. We add audio and video input, plus text and images. \n\n@Cloudflare teams are using it to find PII, detect malicious domains, and the docs repo to close spam issues.\n\nClef-flash is now cheaper at $0.038 per M input tokens.\n\nhttps://t.co/5SvWaoU8Af"
+    },
+    {
+      "tweetId": "2108696873510850758",
+      "role": "support",
+      "authorHandle": "cloudflare",
+      "url": "https://x.com/Cloudflare/status/2108696873510850758",
+      "tweetedAt": "2026-10-09T23:11:26.000Z",
+      "bestBit": "boosted Clef inference speeds by up to 2.0x",
+      "text": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x. https://t.co/UKDp0OKHHA"
+    },
+    {
+      "tweetId": "2108669382322761992",
+      "role": "support",
+      "authorHandle": "jilles",
+      "url": "https://x.com/Jilles/status/2108669382322761992",
+      "tweetedAt": "2026-10-09T21:22:12.000Z",
+      "bestBit": "clef: 27B decision model at $0.24/M input tokens",
+      "text": "✅ clef-flash: fast + just $0.09/M input tokens\n✅ clef: 27B decision model at $0.24/M input tokens\n✅ clef-omni: image, audio + video inputs  !!!!!\n\nAll available on Cloudflare Workers AI!\n\nLet me show you all 3 using Pictionary.. Or to hear me make animal sounds...? https://t.co/z4cX0oCgf5"
+    },
+    {
+      "tweetId": "2108717241713971592",
+      "role": "commentary",
+      "authorHandle": "eastdakota",
+      "url": "https://x.com/eastdakota/status/2108717241713971592",
+      "tweetedAt": "2026-10-10T00:32:23.000Z",
+      "bestBit": "What the team does on a Friday afternoon while I’m under anesthesia.",
+      "text": "What the team does on a Friday afternoon while I’m under anesthesia.",
+      "quotedTweetText": "We are expanding the Clef decision model family with Clef-omni, natively processing audio, video, images, and text in a single pipeline. We’ve also lowered Clef-flash pricing and boosted Clef inference speeds by up to 2.0x. https://t.co/UKDp0OKHHA"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "cloudflare-launches-full-modality-clef-omni-for-audio-and-video-processi-c410ccdd",
+    "title": "Cloudflare Launches Full Modality Clef-omni for Audio and Video Processing",
+    "publishedAt": "2026-10-09T20:23:45.024Z",
+    "eventTimeApprox": "2026-10-09T19:53:58.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 11,
+    "authorCount": 8
+  }
+}

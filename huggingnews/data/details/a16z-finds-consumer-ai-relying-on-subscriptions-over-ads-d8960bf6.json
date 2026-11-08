@@ -1,0 +1,132 @@
+{
+  "slug": "a16z-finds-consumer-ai-relying-on-subscriptions-over-ads-d8960bf6",
+  "title": "a16z Finds Consumer AI Relying on Subscriptions Over Ads",
+  "publishedAt": "2026-10-05T20:25:58.207Z",
+  "eventTimeApprox": "2026-10-05T16:52:23.000Z",
+  "isFreshStory": false,
+  "tweetCount": 36,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107125923061571996/HT4C_6ZbQAA7ZoU-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107125923061571996/HT4C_6ZbQAA7ZoU-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "omooretweets",
+      "tweetUrl": "https://x.com/omooretweets/status/2107125923061571996"
+    }
+  },
+  "summary": "The vast majority of leading artificial intelligence tools generate revenue through user fees rather than advertising, creating what a16z analyst Olivia Moore calls an unnatural inversion of the consumer internet. Analysis of a16z's expanded list of 150 consumer AI apps found that 85% of products on its web leaderboard monetize via subscriptions, and 62% use credits or usage payments. Only 13% of these apps utilize advertising, a stark contrast to the history of major technology companies that rely primarily on ad revenue or transaction fees.\n\nChatGPT has become the first AI tool to rank in the top 20 global consumer subscription bases, trailing primarily media firms and retailers like Amazon and Uber. However, AI adoption remains uneven across industries; 9 of 15 traditional consumer internet categories, including social, dating, gaming, and travel, have zero products in the a16z Top 100. While ChatGPT maintains 1B+ monthly active users on mobile, overall spending is concentrated among a small group of power users who average $903 per month, far exceeding the median customer spend of $25.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107109225814233391",
+      "role": "source",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107109225814233391",
+      "tweetedAt": "2026-10-05T14:02:42.000Z",
+      "bestBit": "ChatGPT still holds the throne, now with 1B+ monthly actives on mobile",
+      "text": "The seventh edition of our Top 100 Consumer AI Apps is here.\n\nNew this time: a revenue leaderboard, alongside the usual web and mobile traffic rankings.\n\nThree years ago we published the first edition. ChatGPT was #1, Claude was unranked, and the entire category was chatbots, image generators, and not much else.\n\nIn today's edition:\n\n- ChatGPT still holds the throne, now with 1B+ monthly actives on mobile\n\n- Claude has climbed to #3 on web with nearly 1B monthly visits\n\n- The category has expanded to vibe coding (Lovable, Cursor, Replit), music (Suno), design (Figma), voice (ElevenLabs), video (Higgsfield, Kling), agents (Manus), and even hardware (Plaud)\n\nFull breakdown from @omooretweets: https://t.co/J9edFBQvCN"
+    },
+    {
+      "tweetId": "2107187914568540448",
+      "role": "source",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107187914568540448",
+      "tweetedAt": "2026-10-05T19:15:23.000Z",
+      "bestBit": "Only 13% had ads or other options where you are the product instead of paying for the product.",
+      "text": "a16z's Olivia Moore thinks AI's subscription-heavy monetization is an unnatural inversion of the consumer internet, and other models like ads need to come back:\n\n\"Substantially all of the consumer AI revenue thus far has come from direct subscriptions. On our web list, 85% monetize via subscriptions, another 62% via credits or extra usage payments.\"\n\n\"Only 13% had ads or other options where you are the product instead of paying for the product.\"\n\n\"If you look back at the history of the consumer internet, that's a pretty unnatural inversion. Almost all of the really big consumer technology companies we have now make the vast majority of their revenue from ads or transaction fees, not subscriptions.\"\n\n\"The truth is... most people don't have the funds, or don't want to spend their funds, on software.\"\n\n\"If you look at the top 20 consumer subscription products globally, ChatGPT is already on there, which is crazy in three and a half years. Almost all the others are media companies or big platforms like Amazon or Uber, where you have very frequent purchase behavior.\"\n\n\"So I'm a big believer: we have transcended the need for everyone to buy a subscription to AI, and we need to see these other business models come back.\"\n\n@omooretweets",
+      "quotedTweetText": "The seventh edition of our Top 100 Consumer AI Apps is here, including a new dimension this time: what consumers are actually paying for.\n\na16z's Elena Burger sits down with Olivia Moore and Josh Elman to unpack the current state of consumer AI:\n\nThe data reveals a striking power-user economy. Only a small share of consumers currently pay for AI, but among those who do, spending is heavily concentrated at the top. Olivia and Josh discuss why developers, creators, and other power users dominate spending today, and why subscriptions may not be the business model that ultimately brings consumer AI to everyone.\n\nThey also dig into the rise of personal agents, the different trajectories of ChatGPT, Claude, and Gemini, how ads could reshape AI economics, and the enormous amount of consumer white space still left to build, from shopping and entertainment to social, dating, and marketplaces.\n\n00:56 Inside the 7th edition\n05:55 Muse and Instinct's launch numbers\n09:14 The privacy wall for personal agents\n14:39 The AI spending power law\n20:20 Why subscription is the wrong model\n23:51 OpenAI's $1B ad run rate\n29:21 ChatGPT vs Claude vs Gemini\n32:30 Where creative tools still win\n45:12 The white space: dating, shopping, entertainment\n\nYouTube: https://t.co/bxo4NbwAvt\n\n@omooretweets @JoshElman @VirtualElena"
+    },
+    {
+      "tweetId": "2107125923061571996",
+      "role": "support",
+      "authorHandle": "omooretweets",
+      "url": "https://x.com/omooretweets/status/2107125923061571996",
+      "tweetedAt": "2026-10-05T15:09:03.000Z",
+      "bestBit": "The top 1% spend $903 / month on AI on consumer cards alone",
+      "text": "Fewer than 5% of Americans pay for AI - and even in this group, spend is HEAVILY concentrated.\n\nThe top 1% spend $903 / month on AI on consumer cards alone (work spend is even higher).\n\nThey drive more revenue than the entire bottom 50% of spenders combined. https://t.co/Ay9zxshQPv"
+    },
+    {
+      "tweetId": "2107157873637679490",
+      "role": "support",
+      "authorHandle": "digg",
+      "url": "https://x.com/digg/status/2107157873637679490",
+      "tweetedAt": "2026-10-05T17:16:00.000Z",
+      "bestBit": "The top 1% average $903 a month; the median customer spends $25.",
+      "text": "A16z’s updated Consumer AI Top 100 adds YipitData revenue data, and it shows AI spend is concentrated in a tiny group of power users. The top 1% average $903 a month; the median customer spends $25.\n\nhttps://t.co/h0ddcIAA4P"
+    },
+    {
+      "tweetId": "2107163919106412585",
+      "role": "support",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107163919106412585",
+      "tweetedAt": "2026-10-05T17:40:02.000Z",
+      "bestBit": "ChatGPT is the first AI app to crack the top 20",
+      "text": "13 of the 20 biggest consumer subscription bases are media\n\nChatGPT is the first AI app to crack the top 20\n\nMore charts in our Top 100 Consumer AI Apps breakdown: https://t.co/JRt9CKTrHG https://t.co/XrDLrwy3DV",
+      "quotedTweetText": "The seventh edition of our Top 100 Consumer AI Apps is here.\n\nNew this time: a revenue leaderboard, alongside the usual web and mobile traffic rankings.\n\nThree years ago we published the first edition. ChatGPT was #1, Claude was unranked, and the entire category was chatbots, image generators, and not much else.\n\nIn today's edition:\n\n- ChatGPT still holds the throne, now with 1B+ monthly actives on mobile\n\n- Claude has climbed to #3 on web with nearly 1B monthly visits\n\n- The category has expanded to vibe coding (Lovable, Cursor, Replit), music (Suno), design (Figma), voice (ElevenLabs), video (Higgsfield, Kling), agents (Manus), and even hardware (Plaud)\n\nFull breakdown from @omooretweets: https://t.co/J9edFBQvCN"
+    },
+    {
+      "tweetId": "2107133244521205948",
+      "role": "commentary",
+      "authorHandle": "a16z",
+      "url": "https://x.com/a16z/status/2107133244521205948",
+      "tweetedAt": "2026-10-05T15:38:08.000Z",
+      "bestBit": "The @a16z Consumer AI Top 100 is back - but this time, it's 150!",
+      "text": "RT @omooretweets: 🚨 The @a16z Consumer AI Top 100 is back - but this time, it's 150!\n\nWe added revenue data from @yipitdata to track how co…"
+    },
+    {
+      "tweetId": "2107189687672516629",
+      "role": "commentary",
+      "authorHandle": "illscience",
+      "url": "https://x.com/illscience/status/2107189687672516629",
+      "tweetedAt": "2026-10-05T19:22:25.000Z",
+      "bestBit": "the top 1% of spenders have almost doubled monthly spend to almost $1,000 / month",
+      "text": "It's crazy that the top 1% of spenders have almost doubled monthly spend to almost $1,000 / month - demand here is very strong and demonstrates the opportunity to build \"narrow startups\": high-priced software with a very small N of customers. https://t.co/1FUiA5zD6D",
+      "quotedTweetText": "🚨 The @a16z Consumer AI Top 100 is back - but this time, it's 150!\n\nWe added revenue data from @yipitdata to track how consumers are spending not just time, but money, on AI.\n\nThe result? A story of heavy concentration among AI's power users. Our takeaways 👇 https://t.co/O41cbzqK6q"
+    },
+    {
+      "tweetId": "2107125913012039910",
+      "role": "engagement",
+      "authorHandle": "omooretweets",
+      "url": "https://x.com/omooretweets/status/2107125913012039910",
+      "tweetedAt": "2026-10-05T15:09:00.000Z",
+      "bestBit": "We added revenue data from @yipitdata to track how consumers are spending not just time, but money, on AI.",
+      "text": "🚨 The @a16z Consumer AI Top 100 is back - but this time, it's 150!\n\nWe added revenue data from @yipitdata to track how consumers are spending not just time, but money, on AI.\n\nThe result? A story of heavy concentration among AI's power users. Our takeaways 👇 https://t.co/O41cbzqK6q"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "top-1percent-of-ai-spenders-drive-more-revenue-than-bottom-50percent-in-acb037f1",
+    "title": "Top 1% of AI Spenders Drive More Revenue Than Bottom 50% in a16z Study",
+    "publishedAt": "2026-10-05T15:24:19.127Z",
+    "eventTimeApprox": "2026-10-05T15:09:02.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 26,
+    "authorCount": 10
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "astra-and-claude-help-solve-11-squares-packing-in-lean-76c3c0fb",
+  "title": "Astra and Claude Help Solve 11 Squares Packing in Lean",
+  "publishedAt": "2026-10-06T17:23:38.783Z",
+  "eventTimeApprox": "2026-10-06T16:50:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "math",
+      "name": "Math"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107508501610217640/HT9fmU0XgAAxaXE-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107508501610217640/HT9fmU0XgAAxaXE-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "manasseha06",
+      "tweetUrl": "https://x.com/ManassehA06/status/2107508501610217640"
+    }
+  },
+  "summary": "A team of mathematics researchers used an automated theorem prover to formally verify the optimality of a persistent geometry puzzle. ManassehA06 led the effort to assemble a Lean formalization over several days, using the AI models Astra and Claude to provide a rigorous proof for the optimal packing of 11 squares. The project involved key contributions from Ojoshe, Kleddamag, Wand_125, Guzhou0806, and Ctjlewis.\n\nThe finalized proof relies on a strong lower bound developed by Kleddamag, based on earlier work by Wand_125 and Ojoshe. This progression of mathematical refinement improved upon a previous lower bound established by Stromquist23881 in 2003, completing the long-term resolution of the packing problem.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107508501610217640",
+      "role": "source",
+      "authorHandle": "manasseha06",
+      "url": "https://x.com/ManassehA06/status/2107508501610217640",
+      "tweetedAt": "2026-10-06T16:29:17.000Z",
+      "bestBit": "The optimality of the packing for 11 squares has been formalized in lean thanks to Astra and Claude!",
+      "text": "The optimality of the packing for 11 squares has been formalized in lean thanks to Astra and Claude! Huge thanks to @ojoshe, @kleddamag, @wand_125, @guzhou0806, and @ctjlewis for aiding in the process.\n\nImage credit: https://t.co/2oUaPKe2Hz\n1/n https://t.co/pym7RQHeUC"
+    },
+    {
+      "tweetId": "2107513739222380935",
+      "role": "analysis",
+      "authorHandle": "ojoshe",
+      "url": "https://x.com/ojoshe/status/2107513739222380935",
+      "tweetedAt": "2026-10-06T16:50:05.000Z",
+      "bestBit": "strengthened the previous lower bound from @stromquist23881 in 2003",
+      "text": "Exciting to see a resolution of the long-standing geometry problem of packing 11 squares.\n\nThe proof is layered with an optimality proof and now a Lean formalization from @ManassehA06 assembled over the last few days, with assistance from @ctjlewis @guzhou0806 and others.\n\nIt relies on a strong lower bound from @kleddamag built on work from @wand_125 and my lower bound proof, which strengthened the previous lower bound from @stromquist23881 in 2003.\n\nThis has been a series of remarkable improvements and proof developments. It's been an honor and a pleasure to see the rapid progress and collaboration.",
+      "quotedTweetText": "The optimality of the packing for 11 squares has been formalized in lean thanks to Astra and Claude! Huge thanks to @ojoshe, @kleddamag, @wand_125, @guzhou0806, and @ctjlewis for aiding in the process.\n\nImage credit: https://t.co/2oUaPKe2Hz\n1/n https://t.co/pym7RQHeUC"
+    }
+  ],
+  "isSuperseded": false
+}

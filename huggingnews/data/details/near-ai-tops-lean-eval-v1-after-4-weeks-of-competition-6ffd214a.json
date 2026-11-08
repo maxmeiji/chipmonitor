@@ -1,0 +1,67 @@
+{
+  "slug": "near-ai-tops-lean-eval-v1-after-4-weeks-of-competition-6ffd214a",
+  "title": "NEAR AI Tops Lean Eval v1 After 4 Weeks of Competition",
+  "publishedAt": "2026-10-02T21:39:00.687Z",
+  "eventTimeApprox": "2026-10-02T18:55:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106094405564408006/HTpZeqma4AAM-sL-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106094405564408006/HTpZeqma4AAM-sL-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "ilblackdragon",
+      "tweetUrl": "https://x.com/ilblackdragon/status/2106094405564408006"
+    }
+  },
+  "summary": "An AI agent developed by the protocol's research team outperformed all other participants on a leaderboard managed by Lean FRO. The system, which is almost entirely powered by the open-weight DeepSeek V4.1 Flash model, claimed the No. 1 spot on the Lean Eval v1 benchmark for difficult formalization problems just four weeks after joining the competition. This architecture allows the division to operate without third-party model dependencies and significantly reduces the cost of formal verification.\n\nNEAR plans to utilize this verification agent to formally prove its own protocol and core smart contracts, as well as release a tool for other developers to verify their own software. The achievement follows a previous first-place finish on the putnambench leaderboard and is part of a broader investment to make software verification affordable and scalable for a wider range of users.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106094405564408006",
+      "role": "source",
+      "authorHandle": "ilblackdragon",
+      "url": "https://x.com/ilblackdragon/status/2106094405564408006",
+      "tweetedAt": "2026-10-02T18:50:10.000Z",
+      "bestBit": "reached first place despite joining the competition just four weeks ago, a full month later than other top participants",
+      "text": "NEAR AI has claimed first place on the Lean Eval v1 leaderboard.\n\nLean Eval v1 is an active benchmark maintained by Lean FRO that contains extremely hard formalization problems. We reached first place despite joining the competition just four weeks ago, a full month later than other top participants.\n\nNEAR is very heavily investing in formal verification efforts. Our ultimate goal is to formally prove the protocol and all the core contracts, and to provide a practical tool for others to formally verify their contracts in a fast and affordable way.\n\nThe system that enabled us to claim first place is almost entirely powered by DeepSeek V4.1 Flash, and thus is (a) extremely cheap, and (b) has no dependencies on third parties because the model is open weight.\n\nWhen it comes to formally verifying software, the approach boils down to three pillars:\n1. Representing the program in a way that can be reasoned about;\n2. Expressing the properties that we desire to prove;\n3. Coming up with a proof and formalizing it in Lean.\n\nUntil recently, step (3) was prohibitively expensive for practical use at scale. With the system that we used for Lean Eval, we now have it solved. Stay tuned for updates on how we apply it in practice to formally verify NEAR contracts."
+    },
+    {
+      "tweetId": "2106095845284426003",
+      "role": "support",
+      "authorHandle": "alexskidanov",
+      "url": "https://x.com/AlexSkidanov/status/2106095845284426003",
+      "tweetedAt": "2026-10-02T18:55:53.000Z",
+      "bestBit": "Following NEAR AI topping putnambench leaderboard, we now have claimed #1 on Lean Eval v1",
+      "text": "Following NEAR AI topping putnambench leaderboard, we now have claimed #1 on Lean Eval v1, the official active benchmark maintained by the Lean developers. \n\nWe now have a very capable and cheap formal verification agent, and will share how we use it to formally prove NEAR protocol and smart contracts soon."
+    }
+  ],
+  "isSuperseded": false
+}

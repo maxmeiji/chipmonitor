@@ -1,0 +1,116 @@
+{
+  "slug": "dutch-police-arrest-dozens-following-storming-of-microsoft-data-center-s-761377be",
+  "title": "Dutch Police Arrest Dozens Following Storming of Microsoft Data Center Site",
+  "publishedAt": "2026-11-06T19:53:45.060Z",
+  "eventTimeApprox": "2026-11-06T16:30:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 24,
+  "authorCount": 22,
+  "routingTopicKeys": [
+    "world",
+    "ai"
+  ],
+  "primaryRoutingTopic": "world",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "europe",
+      "name": "Europe"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118676520570884468/jBhfMWID-xxx2lns-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118676520570884468/jBhfMWID-xxx2lns-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2118673743736102912/vid/avc1/1280x720/nr8GU-Ja32lsQ3p-.mp4?tag=29",
+    "credit": {
+      "handle": "boweschay",
+      "tweetUrl": "https://x.com/BowesChay/status/2118676520570884468"
+    }
+  },
+  "summary": "Riot police in the Netherlands cleared a Microsoft construction site on Friday by using pepper spray and batons to remove dozens of activists. The demonstrators from Geef Tegengas occupied the grounds to block the buildout of three 85 meter tall data center towers. Some protesters chained themselves to an excavator and others climbed cranes to display banners criticizing the company for its ties to the Israeli military and the environmental costs of artificial intelligence.\n\nThe breach in Amsterdam is the first of a series of demonstrations planned at 85 locations across 16 European countries. The campaign is calling for an immediate moratorium on the development of large data centers, which the organizers say consume excessive amounts of local water and electricity.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118657483690348989",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2118657483690348989",
+      "tweetedAt": "2026-11-06T10:51:21.000Z",
+      "bestBit": "Protesters break into Microsoft data center site in Amsterdam",
+      "text": "Protesters break into Microsoft data center site in Amsterdam https://t.co/jahnXNkWDX"
+    },
+    {
+      "tweetId": "2118754724652490871",
+      "role": "support",
+      "authorHandle": "dropsitenews",
+      "url": "https://x.com/DropSiteNews/status/2118754724652490871",
+      "tweetedAt": "2026-11-06T17:17:45.000Z",
+      "bestBit": "They also condemned Microsoft's ties to the Israeli military amid the genocide in Gaza.",
+      "text": "🇳🇱 Around 200 protesters gathered in Amsterdam, the Netherlands, on Friday morning, with activists from Geef Tegengas taking over the construction site of three 85-meter-tall data center towers are being built for Microsoft, in an effort to halt construction.\n\nThe protesters raised concerns about AI, Big Tech’s growing power, and the environmental impact of data centers, arguing that they consume electricity, water, and land needed by local communities. They also condemned Microsoft's ties to the Israeli military amid the genocide in Gaza. “Amsterdam is saying no to genocide,” protesters chanted.\n\nActivists climbed scaffolding and a construction crane, hanging a banner reading “Down with datacentre, fuck AI.” Two protesters chained themselves to an excavator, while others waved Palestinian flags and painted “Free Palestine” on the site.\n\nDutch riot police used batons and pepper spray against demonstrators attempting to enter the site. Officers later cleared the construction site, arresting dozens. Amnesty International observers were present to monitor potential police violence."
+    },
+    {
+      "tweetId": "2118761581001728290",
+      "role": "commentary",
+      "authorHandle": "ajenglish",
+      "url": "https://x.com/AJEnglish/status/2118761581001728290",
+      "tweetedAt": "2026-11-06T17:45:00.000Z",
+      "bestBit": "This marks the start of two days of coordinated protests across 16 countries against the rapid expansion of AI infrastructure.",
+      "text": "More than 100 activists broke into a Microsoft data centre construction site in Amsterdam, climbing cranes and hanging anti-AI banners. \n\nThis marks the start of two days of coordinated protests across 16 countries against the rapid expansion of AI infrastructure. https://t.co/ASKYzFgaRg"
+    },
+    {
+      "tweetId": "2118782971796947331",
+      "role": "commentary",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2118782971796947331",
+      "tweetedAt": "2026-11-06T19:10:00.000Z",
+      "bestBit": "Dutch riot police used batons and pepper spray to clear the site, making dozens of arrests.",
+      "text": "🇳🇱 Activists STORM a Microsoft data center construction site in Amsterdam.\n\nOver 100 protesters broke into the site this morning, climbing cranes and scaffolding, hanging anti-AI banners, waving Palestinian flags, and chaining themselves to equipment while protesting Big Tech and Microsoft's work with the Israeli military.\n\nDutch riot police used batons and pepper spray to clear the site, making dozens of arrests. Amnesty observers were present.\n\nEurope’s data center backlash is getting louder and messier by the week.\n\nWriter: Lucas\n https://t.co/Xd8dApRQaZ"
+    },
+    {
+      "tweetId": "2118786494995550711",
+      "role": "commentary",
+      "authorHandle": "steve_hanke",
+      "url": "https://x.com/steve_hanke/status/2118786494995550711",
+      "tweetedAt": "2026-11-06T19:24:00.000Z",
+      "bestBit": "Today, hundreds of activists broke into a Microsoft data center construction site in Amsterdam.",
+      "text": "Today, hundreds of activists broke into a Microsoft data center construction site in Amsterdam.\n\nTHE AI BACKLASH IS INTERNATIONAL. https://t.co/eV6W8ZSSjE"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "protesters-launch-european-ai-campaign-across-16-countries-after-breach-e78e8554",
+    "title": "Protesters Launch European AI Campaign Across 16 Countries After Breach of Microsoft Site",
+    "publishedAt": "2026-11-06T18:08:08.469Z",
+    "eventTimeApprox": "2026-11-06T14:18:04.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "world"
+    ],
+    "tweetCount": 19,
+    "authorCount": 18
+  }
+}

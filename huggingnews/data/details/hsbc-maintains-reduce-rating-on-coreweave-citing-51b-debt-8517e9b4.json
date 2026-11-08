@@ -1,0 +1,65 @@
+{
+  "slug": "hsbc-maintains-reduce-rating-on-coreweave-citing-51b-debt-8517e9b4",
+  "title": "HSBC Maintains Reduce Rating on CoreWeave Citing $51B Debt",
+  "publishedAt": "2026-10-20T13:09:23.581Z",
+  "eventTimeApprox": "2026-10-20T11:41:21.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "earnings",
+    "ai",
+    "us-markets"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "subject",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    }
+  ],
+  "summary": "A $39 price target issued by HSBC implies that CoreWeave's shares could drop by 36%. The bank maintained its Reduce rating on the AI infrastructure provider, forecasting that its return on invested capital from 2026 to 2030 will average 8.9%, a figure that falls below the company's cost of borrowing.\n\nCoreWeave currently carries more than $51 billion in debt while facing a slowdown in AI revenue growth. HSBC warned that continued spending under these conditions could destroy shareholder value due to growing structural fears.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112509029595439581",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2112509029595439581",
+      "tweetedAt": "2026-10-20T11:39:35.000Z",
+      "bestBit": "estmates CoreWeave's 2026–2030 return on invested capital at 8.9%, below its borrowing costs",
+      "text": "$CRWV  - HSBC WARNS COREWEAVE IS SPENDING BILLIONS TO DESTROY VALUE\n\nHSBC maintains its Reduce rating on CoreWeave, with a $39 price target implying 36% downside.\n\nThe bank estimates CoreWeave's 2026–2030 return on invested capital at 8.9%, below its borrowing costs.\n\nWith over $51 billion in debt and slowing AI revenue growth, HSBC warns further investment could destroy shareholder value."
+    },
+    {
+      "tweetId": "2112528170666922187",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2112528170666922187",
+      "tweetedAt": "2026-10-20T12:55:39.000Z",
+      "bestBit": "With over $51 billion in debt and slowing AI revenue growth, HSBC warns further investment could destroy shareholder value",
+      "text": "Welp",
+      "quotedTweetText": "$CRWV  - HSBC WARNS COREWEAVE IS SPENDING BILLIONS TO DESTROY VALUE\n\nHSBC maintains its Reduce rating on CoreWeave, with a $39 price target implying 36% downside.\n\nThe bank estimates CoreWeave's 2026–2030 return on invested capital at 8.9%, below its borrowing costs.\n\nWith over $51 billion in debt and slowing AI revenue growth, HSBC warns further investment could destroy shareholder value."
+    }
+  ],
+  "isSuperseded": false
+}

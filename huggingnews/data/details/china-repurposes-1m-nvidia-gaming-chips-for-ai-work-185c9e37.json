@@ -1,0 +1,58 @@
+{
+  "slug": "china-repurposes-1m-nvidia-gaming-chips-for-ai-work-185c9e37",
+  "title": "China Repurposes 1M Nvidia Gaming Chips for AI Work",
+  "publishedAt": "2026-10-13T05:40:09.114Z",
+  "eventTimeApprox": "2026-10-13T01:06:20.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Domestic technology firms are using processors not originally intended for machine learning to address a severe shortage of high-end computing power. More than 1 million Nvidia gaming and workstation processors were repurposed for artificial intelligence work this year as demand for specialized accelerators far exceeds available supply.\n\nThe shift highlights an uphill battle for China to wean its tech industry off Nvidia's hardware, with companies snapping up products not designed for advanced AI to meet soaring requirements. This supply gap in computing hardware will remain until 2030.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109812225842221296",
+      "role": "source",
+      "authorHandle": "zijing_wu",
+      "url": "https://x.com/zijing_wu/status/2109812225842221296",
+      "tweetedAt": "2026-10-13T01:03:27.000Z",
+      "bestBit": "more than 1m gaming and workstation chips were repurposed for AI works this year, as demand far exceeds supply",
+      "text": "Second of our three-part series: China’s uphill battle to wean tech firms off Nvidia chips - more than 1m gaming and workstation chips were repurposed for AI works this year, as demand far exceeds supply. Gap will remain till 2030. \n\nLimited free link:\nhttps://t.co/ZZBblzLJo1"
+    }
+  ],
+  "isSuperseded": false
+}

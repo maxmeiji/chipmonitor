@@ -1,0 +1,102 @@
+{
+  "slug": "trump-to-let-local-communities-decide-on-ai-data-center-expansion-faeabe6c",
+  "title": "Trump to Let Local Communities Decide on AI Data Center Expansion",
+  "publishedAt": "2026-11-06T14:52:42.171Z",
+  "eventTimeApprox": "2026-11-06T13:39:50.500Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "related",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118679093940003152/HWcPaIEWMAAqfTp-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118679093940003152/HWcPaIEWMAAqfTp-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "annmarie",
+      "tweetUrl": "https://x.com/annmarie/status/2118679093940003152"
+    }
+  },
+  "summary": "White House economic director Kevin Hassett said the administration will leave the final decision on the placement of artificial intelligence infrastructure to local governments. While the administration views the expansion of data centers as a key tool for generating state-level wealth, Hassett told CNBC that the government will not override jurisdictions that do not want to host the facilities. He added that the U.S. economy is capable of maintaining strong growth even if the construction of these centers slows down.\n\nThe clarification comes as Trump encourages the development of \"super intelligence\" (SI), which he has described as an economic opportunity equivalent to \"gold.\" Hassett noted that while concerns over an AI bubble are worth monitoring and some chip companies have encountered \"small setbacks\" recently, the current performance of Intel is a positive signal for the semiconductor market.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118675843924799641",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2118675843924799641",
+      "tweetedAt": "2026-11-06T12:04:18.000Z",
+      "bestBit": "He calls it “GOLD” and says only “foolish leadership” would reject its economic potential",
+      "text": "TRUMP BACKS AI SUPERINTELLIGENCE 100%\n\nTrump declares full support for Super Intelligence (SI), pledging to work with US states embracing the technology.\n\nHe calls it “GOLD” and says only “foolish leadership” would reject its economic potential."
+    },
+    {
+      "tweetId": "2118709205821718970",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118709205821718970",
+      "tweetedAt": "2026-11-06T14:16:53.000Z",
+      "bestBit": "White House economic director Kevin Hassett says there is plenty of room for data center growth to continue",
+      "text": "White House economic director Kevin Hassett says there is plenty of room for data center growth to continue, and that Trump respects localities that don't want data centers, per CNBC https://t.co/IBugyy8O9D"
+    },
+    {
+      "tweetId": "2118712602972885174",
+      "role": "support",
+      "authorHandle": "dmjk001",
+      "url": "https://x.com/dmjk001/status/2118712602972885174",
+      "tweetedAt": "2026-11-06T14:30:22.000Z",
+      "bestBit": "脑宋数提出一一为“決泡”的怓怓数数径活怓怓关怓一",
+      "text": "22:24:54财联社11月6日电，白宫经济顾问哈塞特承认芯片公司近几周出现了一些“小波折”，他还表示，英特尔的业绩表现对芯片市场来说是个好消息。\n\n22:18:58【白宫经济顾问哈塞特：数据中心仍有很大发展空间 即使建设放缓美国经济仍可保持强劲增长】财联社11月6日电，白宫国家经济委员会主任凯文·哈塞特表示，数据中心建设仍有很大发展空间，相关项目应由当地社区决定。他同时表示，即使数据中心建设速度放缓，美国经济仍有望实现强劲增长。哈塞特回应了有关AI“泡沫”担忧的问题称，AI“泡沫”确实值得关注。\n\n22:14:48财联社11月6日电，白宫经济顾问哈塞特表示，特朗普尊重那些不希望建设数据中心的地区。"
+    },
+    {
+      "tweetId": "2118697666683310557",
+      "role": "commentary",
+      "authorHandle": "patriottakes",
+      "url": "https://x.com/patriottakes/status/2118697666683310557",
+      "tweetedAt": "2026-11-06T13:31:01.000Z",
+      "bestBit": "Trump Doubles Down on AI Data Center Expansion",
+      "text": "Trump Doubles Down on AI Data Center Expansion\n\nPresident dangles riches, ignores midterms mandate.\n\nhttps://t.co/TAJPkmwYjX\n\nhttps://t.co/TAJPkmwYjX"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "trump-backs-ai-superintelligence-to-attract-data-center-investment-to-us-c3c88437",
+    "title": "Trump Backs AI Superintelligence to Attract Data Center Investment to US States",
+    "publishedAt": "2026-11-06T12:22:22.047Z",
+    "eventTimeApprox": "2026-11-06T12:09:19.500Z",
+    "routingTopicKeys": [
+      "us-politics",
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 7
+  }
+}

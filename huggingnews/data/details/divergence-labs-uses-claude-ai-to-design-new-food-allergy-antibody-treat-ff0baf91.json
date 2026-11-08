@@ -1,0 +1,63 @@
+{
+  "slug": "divergence-labs-uses-claude-ai-to-design-new-food-allergy-antibody-treat-ff0baf91",
+  "title": "Divergence Labs Uses Claude AI to Design New Food Allergy Antibody Treatment",
+  "publishedAt": "2026-10-28T22:52:16.260Z",
+  "eventTimeApprox": "2026-10-28T18:58:03.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "pharma",
+      "name": "Pharma"
+    },
+    {
+      "slug": "bio",
+      "name": "Bio"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115235758802161846/gF2gprJLof_N-J2_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115235758802161846/gF2gprJLof_N-J2_-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2115235555466489856/vid/avc1/1280x720/XJoFM-_Oe--rxEcq.mp4?tag=29",
+    "credit": {
+      "handle": "bjing2016",
+      "tweetUrl": "https://x.com/bjing2016/status/2115235758802161846"
+    }
+  },
+  "summary": "Divergence Labs used the Claude AI assistant from Anthropic to develop an initial antibody treatment for food allergies, completing the design and experimental confirmation of the treatment's biophysical function within 30 days. The proposed antibody uses a two-arm format to actively remove IgE from the FcεRI receptor on mast cells, which the company says would offer a faster alternative to Xolair, the only current approved treatment for the condition.\n\nFood allergies affect more than 200 million people globally. Divergence Labs is currently assembling the confirmed antibody arms into full therapeutic formats for further development.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115235758802161846",
+      "role": "source",
+      "authorHandle": "bjing2016",
+      "url": "https://x.com/bjing2016/status/2115235758802161846",
+      "tweetedAt": "2026-10-28T00:14:38.000Z",
+      "bestBit": "Within one month, we designed, synthesized, and experimentally confirmed the biophysical function of the two arms, which we are now assembling into full therapeutic formats.",
+      "text": "Today, in collaboration with Anthropic, we’re excited to share rapid initial progress towards an antibody treatment for food allergy, which affects over 200 million people worldwide, discovered with the help of Claude.\n\nAt Divergence Labs, we believe that AI can unlock the next generation of antibody therapeutics with more effective mechanisms than before. Such mechanisms are urgently needed in food allergy, which involve overcoming one of the tightest affinity protein pairs in immunology, IgE and its receptor FcεRI, on mast cells.\n\nTreatment with Xolair—the only approved antibody for food allergy—sequesters circulating IgE, but mast cells remain sensitized for weeks to months due to the extraordinarily slow dissociation of IgE from FcεRI.\n\nWe envision a treatment that actively pulls IgE off of FcεRI, without waiting for natural dissociation. Like picking a lock, this requires the right combination of geometry and force.\n\nOur research team, working with Claude, ideated on mechanisms to accomplish this disruption, and converged on an antibody format with two arms with different functions and epitopes. Within one month, we designed, synthesized, and experimentally confirmed the biophysical function of the two arms, which we are now assembling into full therapeutic formats."
+    }
+  ],
+  "isSuperseded": false
+}

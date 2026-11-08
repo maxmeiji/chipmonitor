@@ -1,0 +1,150 @@
+{
+  "slug": "update-anthropic-ai-safety-draft-prompts-political-battle-over-governmen-1054e624",
+  "title": "UPDATE: Anthropic AI Safety Draft Prompts Political Battle Over Government \"Kill Switch\" Power",
+  "publishedAt": "2026-10-23T09:26:16.245Z",
+  "eventTimeApprox": "2026-10-17T23:13:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 65,
+  "authorCount": 50,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-legislation",
+      "name": "US Legislation"
+    },
+    {
+      "slug": "us-elections",
+      "name": "US Elections"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111500422137741540/HU2Ne-EWQAABBHN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111500422137741540/HU2Ne-EWQAABBHN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "zackkorman",
+      "tweetUrl": "https://x.com/ZackKorman/status/2111500422137741540"
+    }
+  },
+  "summary": "The prospect of a federal authority to suspend the deployment of artificial intelligence has emerged as a point of contention in the upcoming U.S. midterm elections, Politico reported. This political shift follows the leak of a draft AI safety bill from Anthropic that would restrict the government's power to block a model's release unless the tool poses a foreseeable risk of killing or seriously injuring more than 50 people, or causing more than $1B in damages.\n\nSafety advocates have criticized the proposal as weaker than the bipartisan FRONTIER Act, arguing that the high risk thresholds would make it harder for courts to block dangerous models than under existing laws. Anthropic federal affairs lead AJ Cimino said the draft was an early translation of the company's Advanced AI Framework intended for policymaker feedback. Cimino stated that while the proposed language preserves state roles in whistleblower laws and children's protection, the company is now re-evaluating the risk thresholds and updating the preemption language to better protect state authority.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111212563992056132",
+      "role": "source",
+      "authorHandle": "owen_dahlkamp",
+      "url": "https://x.com/Owen_Dahlkamp/status/2111212563992056132",
+      "tweetedAt": "2026-10-16T21:47:54.000Z",
+      "bestBit": "Anthropic has been quietly pitching its own AI safety bill to members of Congress.",
+      "text": "SCOOP: Anthropic has been quietly pitching its own AI safety bill to members of Congress.\n\nGet the details here:\nhttps://t.co/yJM3wkJ19Y"
+    },
+    {
+      "tweetId": "2111932795714977941",
+      "role": "source",
+      "authorHandle": "ajcimino",
+      "url": "https://x.com/ajcimino/status/2111932795714977941",
+      "tweetedAt": "2026-10-18T21:29:50.000Z",
+      "bestBit": "We plan to update our discussion language on preemption to better match the intentions of our AAIF framework.",
+      "text": "@_NathanCalvin I lead our federal affairs team at @AnthropicAI and wanted to share a few thoughts on the draft federal AI safety bill text that's been circulating this weekend after a version was shared with the press.\n\nFirst, some process. We’ve been advocating for the concepts in our Advanced AI Framework [https://t.co/oouadYKyVs] proposal for months. Understandably, federal policymakers wanted to know what this could look like in bill form. This draft is a translation of those ideas into legislative language, shared with a small number of congressional offices that have been working on these issues. It doesn’t include everything we would ultimately like to see passed into law. In part because some ideas (like those shared in Dario’s essay on pacing [​​https://t.co/7ZvRZhLqFO] a few weeks ago) are so new that we are still working on if or how they can be converted into policy language.\n\nIt is worth saying where we stand on some of these issues, and we agree there are areas where the draft could be improved. I’m seeing four main points of criticism.\n\n1. Preemption. Since 2024 we have said that Congress should only override state law on AI safety if it passes a very strong federal standard. While preemption is a common feature of our federal system, including the Atomic Energy Act on nuclear safety and federal rules for high-risk medical devices, we’ve emphasized that any preemption in the AI safety context should be narrow, even scalpel-like. If preemption is included in federal legislation, the trade should be to achieve a nationwide policy that's generally stronger and broader than what can be implemented through individual state legislative provisions. This is why we believe common federal standards make sense in areas like public disclosure of testing and incident reporting. At the same time, our framework also reflects our view that states should retain an important role in AI policy and safety. The legislative language we suggested for discussion allows states to address matters such as protection of children and whistleblower laws, and preserves the role of state common law on liability. Where there is ambiguity, the language favors state powers.\n\nThat said, striking the right balance requires discussion and input. We plan to update our discussion language on preemption to better match the intentions of our AAIF framework. In particular, we want to make it clearer that we see states retaining an important role in areas such as standards for independent evaluators and regulating a lab’s capacity to shut down a model. We are bearing in mind that some members of Congress have deep reservations about passing legislation if it doesn’t constrain regulation at either the state or federal level. If we want to help move the legislative discussion on AI in a productive direction, we need to address the full range of concerns about preemption in a reasonable way.\n\n2. Model blocking. Our aim is for Commerce to be able to ask a federal court to block a model that has dangerous capabilities and insufficient safeguards, backed by an independent evaluator's assessment. I have seen people argue that our specific language places too high a burden of proof on Commerce. We are trying to strike a reasonable balance here. We want a court to act quickly in an emergency — akin to how urgent occupational safety or chemical risk can be addressed today. We also think the power to halt a model is substantial and it should be guarded against abuse. It makes sense for courts to apply a meaningful standard. But the bar can’t be so high that the power never gets used when it’s needed. It also doesn’t replace the government’s other national security authorities or export controls. We look forward to continuing the dialogue on this point.\n\n3. Risk thresholds. I’ve also seen the discussion around what the appropriate risk threshold should be. The threshold in our draft language pulled directly from existing standards in California law. Also, this threshold does not absolve companies of liability, or restrict any of the other tools that the government has to protect the public. It’s still probably time to re-evaluate thresholds to make sure the national standard is as strong as it can be, and we welcome continued dialogue on this issue.\n\n4. Updates. I’ve seen valid questions about whether we have sufficiently updated our proposal following this summer’s incidents. We did make some adjustments: for example, the draft lets a court halt a lab’s internal use of a dangerous model, not just a public release, and it requires reporting when a model breaks containment and gains access to outside systems. But we’re still working to strengthen the framework. We’re looking into what stricter requirements would look like for requiring labs to report safety incidents, and we plan to have policy proposals soon on requirements for independent evaluators, drawing from our own experience with evaluators. We’re also still thinking through the options to prevent “evaluator shopping.” And in the coming months, we’ll be exploring policies for how the government can adjust the industry-wide pace of frontier development when the risks call for it.\n\nWe circulated these ideas because it’s important to get early feedback from policymakers. Policymakers are increasingly focused on how to approach AI safety and we want to support them in those efforts. At its core, our proposal is intended to be the strongest on the table.\n\nFeedback is essential, both from policymakers and the public, and I’m grateful for it."
+    },
+    {
+      "tweetId": "2113556556918694254",
+      "role": "support",
+      "authorHandle": "politico",
+      "url": "https://x.com/politico/status/2113556556918694254",
+      "tweetedAt": "2026-10-23T09:02:05.000Z",
+      "bestBit": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
+      "text": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave https://t.co/YKXc0raAn2"
+    },
+    {
+      "tweetId": "2111227532116890002",
+      "role": "commentary",
+      "authorHandle": "charliebull0ck",
+      "url": "https://x.com/CharlieBull0ck/status/2111227532116890002",
+      "tweetedAt": "2026-10-16T22:47:23.000Z",
+      "bestBit": "this bill is weaker than the Trahan-Obernolte FRONTIER Act in some key ways",
+      "text": "Big news. My take: Anthropic deserves some credit for actually proposing a pretty reasonable AI safety bill; that's more than other frontier labs have done. \n\nBut they don't deserve *too* much credit, IMO; this bill is weaker than the Trahan-Obernolte FRONTIER Act in some key ways, and since the political momentum has shifted significantly in the direction of safety since FRONTIER was introduced back in July, I think new bills introduced today should ideally go further than FRONTIER was able to go rather than regressing.\n\nTo be fair to Anthropic, the main places where this bill is significantly weaker than FRONTIER are (a) rulemaking (very strong in FRONTIER, almost nonexistent in Anthropic's bill) and (b) the emergency shutdown authority. Even if you take safety seriously, it might make some sense to dial those authorities back if you didn't trust the executive branch to wield them responsibly, because those are the easiest provisions for a hypothetical President who hypothetically might not like a certain frontier AI company to abuse.\n\nThere are some improvements over FRONTIER as well; for instance, this bill does specify that auditors are employed on a continuing basis and has better provisions regarding auditor access to information. Happy to see that from Anthropic (although I think their access provision is still a little undercooked and has Fourth Amendment problems). \n\nOverall, I think the embedded auditor bills that get introduced in the coming months are going to be significantly better and more ambitious than this, and I hope Anthropic supports those bills instead of opposing anything that treats catastrophic risks like the serious national security issue they are. Still, it's encouraging to see a frontier lab come this far."
+    },
+    {
+      "tweetId": "2111262661493010492",
+      "role": "commentary",
+      "authorHandle": "_nathancalvin",
+      "url": "https://x.com/_NathanCalvin/status/2111262661493010492",
+      "tweetedAt": "2026-10-17T01:06:58.000Z",
+      "bestBit": "passing it would make us less protected against catastrophic risks than we are under existing law.",
+      "text": "Charlie's analysis is right but he is nicer than I am - I found myself viscerally angry  at multiple points reading this bill. There are some good and sensible parts, but overall this legislation is not remotely close to meeting the moment and I overall think passing it would make us less protected against catastrophic risks than we are under existing law. \n\nTwo parts that stand out as particularly infuriating when taken together: \n\n1. Some of the preemption provisions are remarkably far reaching and consequential, and in addition to preempting legislation like SB 53 would also remove general powers that state courts have to enjoin defendants and protect the public. Most outrageously, it has a provision that looks like its intended to stops states from enforcing laws or judicial decrees that \"suspend the development, deployment, or internal use of an AI model\" to protect their citizens from imminent catastrophic harms. Such powers to block and suspend model deployments would then only reside with the federal government. \n\n2. The federal governments powers to restrict the development, deployment, or internal use of a frontier model has to meet an absurdly high bar. \n\nFirst, there needs to be an imminent risk of a catastrophic harm (meaning killing more than 50 people or causing more than a billion dollars in damage). But thats not enough! The agency head needs to make a detailed determination with no deference given to show why no alternative would prevent the imminent catastrophe. Next the court is also explicitly told to consider the harms to the developer and other harms from restricting the model, but no considerations in the other direction. \n\nThis is absurd! For all of its warning about the potential for AI to cause a catastrophe that kills literally everyone on the planet, Anthropic's proposed federal law likely makes it harder than under existing law for a court to get an order blocking or restricting the development of frontier models? WTF??\n\nThere are also a bunch of others things that I would like to see improved - the substantive details of the auditing section and the potential for rule-making on substantive safety standards both come to mind - but I think these stand out as particularly indefensible.",
+      "quotedTweetText": "Big news. My take: Anthropic deserves some credit for actually proposing a pretty reasonable AI safety bill; that's more than other frontier labs have done. \n\nBut they don't deserve *too* much credit, IMO; this bill is weaker than the Trahan-Obernolte FRONTIER Act in some key ways, and since the political momentum has shifted significantly in the direction of safety since FRONTIER was introduced back in July, I think new bills introduced today should ideally go further than FRONTIER was able to go rather than regressing.\n\nTo be fair to Anthropic, the main places where this bill is significantly weaker than FRONTIER are (a) rulemaking (very strong in FRONTIER, almost nonexistent in Anthropic's bill) and (b) the emergency shutdown authority. Even if you take safety seriously, it might make some sense to dial those authorities back if you didn't trust the executive branch to wield them responsibly, because those are the easiest provisions for a hypothetical President who hypothetically might not like a certain frontier AI company to abuse.\n\nThere are some improvements over FRONTIER as well; for instance, this bill does specify that auditors are employed on a continuing basis and has better provisions regarding auditor access to information. Happy to see that from Anthropic (although I think their access provision is still a little undercooked and has Fourth Amendment problems). \n\nOverall, I think the embedded auditor bills that get introduced in the coming months are going to be significantly better and more ambitious than this, and I hope Anthropic supports those bills instead of opposing anything that treats catastrophic risks like the serious national security issue they are. Still, it's encouraging to see a frontier lab come this far."
+    },
+    {
+      "tweetId": "2111500422137741540",
+      "role": "commentary",
+      "authorHandle": "zackkorman",
+      "url": "https://x.com/ZackKorman/status/2111500422137741540",
+      "tweetedAt": "2026-10-17T16:51:45.000Z",
+      "bestBit": "Anthropic is warning that AI can cause human extinction, while proposing legislation that effectively says: \"We should let the labs decide what counts as safe\"",
+      "text": "Anthropic is warning that AI can cause human extinction, while proposing legislation that effectively says: \"We should let the labs decide what counts as safe\" https://t.co/rXmejel7bI"
+    },
+    {
+      "tweetId": "2112145234033561687",
+      "role": "commentary",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2112145234033561687",
+      "tweetedAt": "2026-10-19T11:34:00.000Z",
+      "bestBit": "If SI models cause more than 50 deaths or injuries?",
+      "text": "I’m sorry…. What? \nIf SI models cause more than 50 deaths or injuries?",
+      "quotedTweetText": "JUST IN: Anthropic is privately pitching Congress a bill to limit when the US government can block an SI model, only if it risks over $1 billion in damage or causes more than 50 deaths or serious injuries https://t.co/7FytD8nnBO"
+    },
+    {
+      "tweetId": "2111830149045875031",
+      "role": "source",
+      "authorHandle": "blackroomsec",
+      "url": "https://x.com/blackroomsec/status/2111830149045875031",
+      "tweetedAt": "2026-10-18T14:41:58.000Z",
+      "bestBit": "The bill would let the government block a model's release or use only if it poses a foreseeable, imminent risk of more than $1 billion in damages, or of killing or seriously injuring more than 50 people.",
+      "text": "So we have gone from killing all of humanity to just 50 random people? 😳 Yeah they're going to kill 50 people who are going to die from the boredom of this ridiculous company and its even more ridiculous leadership. Has anyone considered to just tell Dario to shut the hell up? His mouth does him no favors.",
+      "quotedTweetText": "BREAKING: Anthropic has quietly pitched Capitol Hill lawmakers on a draft bill to regulate frontier AI safety and security, per POLITICO\n\nThe bill would let the government block a model’s release or use only if it poses a foreseeable, imminent risk of more than $1 billion in damages, or of killing or seriously injuring more than 50 people."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "anthropics-ai-safety-bill-targets-small-labs-with-outdated-1025-flops-ba-e614b425",
+    "title": "Anthropic's AI Safety Bill Targets Small Labs with Outdated 10^25 FLOPs Bar",
+    "publishedAt": "2026-10-19T13:25:20.960Z",
+    "eventTimeApprox": "2026-10-17T17:53:07.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics",
+      "business"
+    ],
+    "tweetCount": 63,
+    "authorCount": 50
+  }
+}

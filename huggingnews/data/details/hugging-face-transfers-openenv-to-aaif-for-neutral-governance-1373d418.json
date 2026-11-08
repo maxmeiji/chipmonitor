@@ -1,0 +1,57 @@
+{
+  "slug": "hugging-face-transfers-openenv-to-aaif-for-neutral-governance-1373d418",
+  "title": "Hugging Face Transfers OpenEnv to AAIF for Neutral Governance",
+  "publishedAt": "2026-10-22T18:09:04.686Z",
+  "eventTimeApprox": "2026-10-22T17:10:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "subject",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "summary": "The AAIF and the Linux Foundation now manage OpenEnv, a framework for training AI agents, to ensure the tool remains open source and neutrally governed. Hugging Face transferred the project to these organizations to democratize the reinforcement learning (RL) stack, stating that open environments are essential for teaching agents real-world capabilities. Contributors to the tool include Meta-PyTorch, Microsoft, Nebius, Modal, and Unsloth.\n\nA Technical Steering Committee featuring engineers from OpenAI, Google, Anthropic, Microsoft, OpenCode, and Earendil (Pi) will oversee the project's governance. Current user licenses remain unchanged, and developers can continue to use or contribute to the standard without joining the AAIF.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113298265857007801",
+      "role": "source",
+      "authorHandle": "ben_burtenshaw",
+      "url": "https://x.com/ben_burtenshaw/status/2113298265857007801",
+      "tweetedAt": "2026-10-22T15:55:44.000Z",
+      "bestBit": "giving OpenEnv to the AAIF and Linux Foundation so that it can be neutrally governed and shared by all",
+      "text": "So proud to share that @huggingface is giving OpenEnv to the AAIF and Linux Foundation so that it can be neutrally governed and shared by all. \n\nThis is a pivotal moment for RL, agents, and the whole field, and making agents’ learning environments open source is only getting more important by the day.\n\nWe believe, now more than ever, that democratizing AI requires a fully open stack. Reinforcement Learning environments are a fundamental part of that stack because they teach agents the capabilities they will use in the real world.\n\nThe committee behind OpenEnv is proud to bring AAIF into Reinforcement Learning, and further down the stack, by sharing what we’ve built and used at; Hugging Face, Microsoft, Reflection, Meta-PyTorch, Fleet, Mercor, RadixArk, Nebius, Modal, Prime Intellect, Unsloth, and more."
+    }
+  ],
+  "isSuperseded": false
+}

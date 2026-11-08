@@ -1,0 +1,63 @@
+{
+  "slug": "mistral-acquires-design-agency-new-material-to-build-sovereign-frontier-de5dcc68",
+  "title": "Mistral Acquires Design Agency New Material to Build Sovereign Frontier AI",
+  "publishedAt": "2026-10-14T15:39:31.122Z",
+  "eventTimeApprox": "2026-10-14T15:14:37.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:MIST",
+      "kind": "private",
+      "role": "subject",
+      "name": "Mistral AI",
+      "hubKey": "mistral-ai"
+    }
+  ],
+  "summary": "The Paris-based AI firm is establishing a new division called 'Solutions Design' to integrate customer feedback more tightly into its engineering process. Mistral acquired the design agency New Material to bridge the gap between product and engineering, creating a feedback loop where the team co-develops tools directly with users to refine real-world deployments.\n\nNew Material specializes in building AI-native products, workflows, and ventures, often forward-deploying design for organizations restructuring their operations. By absorbing the agency, Mistral aims to advance its development of sovereign frontier AI, as announced by the agency's founders and amplified by Mistral CEO Arthur Mensch.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110370455710282024",
+      "role": "source",
+      "authorHandle": "aaronabentheuer",
+      "url": "https://x.com/aaronabentheuer/status/2110370455710282024",
+      "tweetedAt": "2026-10-14T14:01:40.000Z",
+      "bestBit": "establishing a new team, 'Solutions Design' within Mistral: working across product, engineering and AI, the team will co-develop with customers",
+      "text": "Today I'm excited to share that New Material is joining @MistralAI to design sovereign frontier AI.\n\nWe're establishing a new team, 'Solutions Design' within Mistral: working across product, engineering and AI, the team will co-develop with customers, creating a tight feedback loop between real-world deployment and Mistral’s products.\n\nhttps://t.co/DMb10Z8397"
+    },
+    {
+      "tweetId": "2110390081521422538",
+      "role": "commentary",
+      "authorHandle": "sebjohnsonuk",
+      "url": "https://x.com/SebJohnsonUK/status/2110390081521422538",
+      "tweetedAt": "2026-10-14T15:19:39.000Z",
+      "bestBit": "New Material is a design agency that delivers AI-native products, workflows and ventures, by design",
+      "text": "Mistral has just acquired a design company to \"design the frontier\".\n\nVERY INTERESTING.\n\n@newmaterialAI is a design agency that delivers AI-native products, workflows and ventures, by design.\n\nThey \"forward-deploy design to the world's most ambitious organisations reshaping their industries with AI\".\n\nWithin Mistral they are establishing a new team named \"Solutions Design\" that will be \"working across design, engineering and AI, the team will co-develop with customers, creating a tight feedback loop between real-world deployment and Mistral’s products\".\n\nA frontier lab acquiring a design company \n\nVERY INTERESTING.\n\nHuge congrats @aaronabentheuer, @gabeschnitzel, @nicknikolov, @vedantmg"
+    }
+  ],
+  "isSuperseded": false
+}

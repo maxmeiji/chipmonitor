@@ -1,0 +1,57 @@
+{
+  "slug": "astra-ai-discovers-simpler-general-proof-for-first-passage-percolation-v-83a80f29",
+  "title": "Astra AI Discovers Simpler General Proof for First Passage Percolation Variance",
+  "publishedAt": "2026-11-02T18:08:25.263Z",
+  "eventTimeApprox": "2026-11-02T14:47:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "math",
+      "name": "Math"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117267279398232346/HWILXgZXEAA0vjP-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117267279398232346/HWILXgZXEAA0vjP-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "hesamation",
+      "tweetUrl": "https://x.com/Hesamation/status/2117267279398232346"
+    }
+  },
+  "summary": "Mathematicians Scott Armstrong and Ahmed Bourabee used the AI agent Astra to discover a simplified proof for a mathematical problem concerning how the variance of passage time in first-passage percolation scales sublinearly in the distance. The new argument identifies a mechanism that allows the proof to be valid in every dimension and on the lattice, provided certain regularity and curvature assumptions on the limiting shape are met.\n\nThe researchers were originally attempting to use the Lean formalization language to verify a 200 page proof published in 2023 by Basu, Sidoravicius, and Sly, which only applied to 2D models. The broader problem had remained open for decades since it was first mentioned by Harry Kesten in 1993. Armstrong stated that the simplified proof emerged from human-AI interaction after the agent was used to find workarounds for sections of the original proof that resisted formalization.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117246277465293217",
+      "role": "source",
+      "authorHandle": "scottnarmstrong",
+      "url": "https://x.com/scottnarmstrong/status/2117246277465293217",
+      "tweetedAt": "2026-11-02T13:23:43.000Z",
+      "bestBit": "this led to the discovery of a new mechanism which makes the induction in the scales argument work - giving us a different and dramatically simpler argument - which is valid in every dimension as well as on the lattice",
+      "text": "Astra found a short proof that the variance of the passage time in first-passage percolation scales sublinearly in the distance (by a strict power, exponent 1-\\epsilon).\n\nThis was an open problem for many years (decades) and mentioned by Kesten in 1993. \n\nRecently it was proved by Basu-Sidoravicius-Sly (2023) in two dimensions in a rotationally invariance continuum FPP model. Their proof is about 200 pages in total, and @ahmedbourabee1 and I decided to lean formalize it to understand it better. Some of their arguments turned out to be not ready for formalization (or at least we couldn't formalize them) and so we launched some agents to try to find workarounds. \n\nEventually, after a lot of interaction with the agents, this led to the discovery of a new mechanism which makes the induction in the scales argument work - giving us a different and dramatically simpler argument - which is valid in every dimension as well as on the lattice (under some curvature and regularity assumptions on the limiting shape). \n\nWe think this is an instance of \"AIs giving us new and better understanding of a previously proved theorem\" and of human-AI interaction (as we tested, this is not N-shottable by Astra for small N)."
+    }
+  ],
+  "isSuperseded": false
+}

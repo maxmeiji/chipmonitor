@@ -1,0 +1,168 @@
+{
+  "slug": "meta-alphabet-and-intel-fall-below-offering-prices-after-ai-stock-sales-39388088",
+  "title": "Meta, Alphabet and Intel Fall Below Offering Prices After AI Stock Sales",
+  "publishedAt": "2026-11-01T14:21:51.580Z",
+  "eventTimeApprox": "2026-10-22T12:50:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 553,
+  "authorCount": 137,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "AMD",
+      "kind": "equity",
+      "role": "related",
+      "name": "Advanced Micro Devices",
+      "hubKey": "amd"
+    },
+    {
+      "ticker": "MS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Morgan Stanley",
+      "hubKey": "ms"
+    }
+  ],
+  "summary": "Shares of Meta, Alphabet and Intel fell below their recent equity offering prices at their Oct. 30 intraday lows, leaving buyers underwater with Meta down 2.4%, Alphabet Class C down 32.5%, Alphabet Class A down 21.5% and Intel down 21.1%. The declines follow Alphabet's equity sale plan of up to $85 billion announced in June, Intel's $23 billion raise in August and Meta's $25 billion Class A share sale priced at $625 a share.\n\nThe pullback followed earnings reports in which Alphabet missed Search revenue estimates and Intel cited supply chain issues affecting data center components, alongside investor concerns that Meta's AI spending could outpace monetization and pressure cash flow and margins. S&P also stated that uncertainty over Meta's future capital expenditures and multiyear AI investments casts doubt on expected spending cuts.\n\nMeta's offering of 40 million Class A shares, structured through forward sale agreements with Morgan Stanley and Goldman Sachs, was five times oversubscribed and included $3 billion from Nvidia and $1 billion from AMD alongside expanded AI infrastructure and Muse model partnerships. Combined with $12.5 billion in mandatory convertible preferred depositary shares priced at $50 each and a planned $60 billion at-the-market sale of nonvoting Class C shares starting in early 2027, the transactions bring Meta's equity financing plan to $97.5 billion as 2026 capital spending is projected at $135 billion to $145 billion.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116893424682955030",
+      "role": "source",
+      "authorHandle": "globalmktobserv",
+      "url": "https://x.com/GlobalMktObserv/status/2116893424682955030",
+      "tweetedAt": "2026-11-01T14:01:37.000Z",
+      "bestBit": "Shares of Alphabet, $GOOGL, Meta, $META, and Intel, $INTC, have fallen below their recent offering prices, with Alphabet Class C down -32.5%, Alphabet Class A -21.5%, Intel -21.1%, and Meta -2.4%, based on their October 30th intraday lows.",
+      "text": "Big Tech share offerings are already leaving investors underwater:\n\nShares of Alphabet, $GOOGL, Meta, $META, and Intel, $INTC, have fallen below their recent offering prices, with Alphabet Class C down -32.5%, Alphabet Class A -21.5%, Intel -21.1%, and Meta -2.4%, based on their October 30th intraday lows.\n\nThis comes after Alphabet announced its equity sale plan in June, later increasing its size to as much as $85 billion. Intel raised $23 billion in August, while Meta launched a $25 billion share sale last week.\n\nThe selloff followed disappointing earnings, with Alphabet missing Search revenue estimates and Intel reporting supply-chain problems affecting data center components, intensifying concerns over the sustainability of AI spending.\n\nFurthermore, investors are also concerned that Meta's AI spending could outpace monetization, putting further pressure on cash flow and margins, while its planned sale of up to $60 billion in additional shares creates another overhang for the stock.\n\nThe selloff could make it increasingly difficult for Big Tech companies to raise the additional equity capital needed to finance their infrastructure expansion, particularly as cash flows have turned negative and AI monetization remains uncertain.\n\nShare dilution is becoming another cost of the AI frenzy."
+    },
+    {
+      "tweetId": "2114951707998269833",
+      "role": "source",
+      "authorHandle": "marketnews_feed",
+      "url": "https://x.com/MarketNews_Feed/status/2114951707998269833",
+      "tweetedAt": "2026-10-27T05:25:55.000Z",
+      "bestBit": "META PRICES $25 BILLION OF CLASS A COMMON STOCK AT $625 PER SHARE IN PUBLIC OFFERING",
+      "text": "META PRICES $25 BILLION OF CLASS A COMMON STOCK AT $625 PER SHARE IN PUBLIC OFFERING"
+    },
+    {
+      "tweetId": "2114960962734412112",
+      "role": "source",
+      "authorHandle": "nvidianewsroom",
+      "url": "https://x.com/nvidianewsroom/status/2114960962734412112",
+      "tweetedAt": "2026-10-27T06:02:42.000Z",
+      "bestBit": "NVIDIA and @Meta will expand our partnership on @Muse models to improve inference and training performance.",
+      "text": "NVIDIA and @Meta will expand our partnership on @Muse models to improve inference and training performance.\n\nTogether, we’re exploring NVIDIA OpenShell for safe AI agent deployment and NVIDIA Sentry for monitoring agent behavior.\n\nMeta plans broader deployments of NVIDIA Vera Rubin and Vera CPUs.\n\nRead the press release: https://t.co/cKO38c0k8H"
+    },
+    {
+      "tweetId": "2115092208357708272",
+      "role": "support",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2115092208357708272",
+      "tweetedAt": "2026-10-27T14:44:13.000Z",
+      "bestBit": "META PLATFORMS $META $25 BILLION STOCK SALE ENDED FIVE TIMES OVERSUBSCRIBED",
+      "text": "META PLATFORMS $META $25 BILLION STOCK SALE ENDED FIVE TIMES OVERSUBSCRIBED - Bloomberg"
+    },
+    {
+      "tweetId": "2115436975817679140",
+      "role": "commentary",
+      "authorHandle": "fullportshow",
+      "url": "https://x.com/fullportshow/status/2115436975817679140",
+      "tweetedAt": "2026-10-28T13:34:12.000Z",
+      "bestBit": "Meta said it wouldn't issue stock until 2027. This week it sold $25B at $625, and Nvidia took $3B of it.",
+      "text": "Meta said it wouldn't issue stock until 2027. This week it sold $25B at $625, and Nvidia took $3B of it. @gmoneynft and @hunterorrell on what the cash means. https://t.co/qfxNiuGIqk"
+    },
+    {
+      "tweetId": "2115142578920357997",
+      "role": "commentary",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2115142578920357997",
+      "tweetedAt": "2026-10-27T18:04:22.000Z",
+      "bestBit": "META PLATFORMS $META $25 BILLION STOCK SALE ENDED FIVE TIMES OVERSUBSCRIBED",
+      "text": "Guess that answers the Q of equity market demand lol",
+      "quotedTweetText": "META PLATFORMS $META $25 BILLION STOCK SALE ENDED FIVE TIMES OVERSUBSCRIBED - Bloomberg"
+    },
+    {
+      "tweetId": "2114693902749880548",
+      "role": "commentary",
+      "authorHandle": "billkristol",
+      "url": "https://x.com/BillKristol/status/2114693902749880548",
+      "tweetedAt": "2026-10-26T12:21:30.000Z",
+      "bestBit": "Meta unveiled a plan to raise up to $95 billion in waves of stock offering.",
+      "text": "Dunno, but this feels like one of those headlines from 2006 we were all looking back at in 2009 -- \"Wall Street celebrates new ways or reducing mortgage risk\" or the like.\n\n\"Meta unveiled a plan to raise up to $95 billion in waves of stock offering.\"\n\nhttps://t.co/7mC4n5S1me"
+    },
+    {
+      "tweetId": "2115148164055654700",
+      "role": "commentary",
+      "authorHandle": "amitisinvesting",
+      "url": "https://x.com/amitisinvesting/status/2115148164055654700",
+      "tweetedAt": "2026-10-27T18:26:34.000Z",
+      "bestBit": "the $meta $25b offering today at $625 was 5x oversubscribed, just like google's was",
+      "text": "the $meta selloff due to equity dilution is really annoying\n\nbut at the same time...can we really blame them?\n\nmeta and google both did equity raises this year for about $100B each. they are the greatest businesses in the world.\n\ngoogle is flat ytd and meta is now red after peaking at $780.\n\nthey have both been opportunity costs, but not because they are small spec plays that you took a chance on...these are some of the greatest businesses in the world.\n\nthe problem is, they need capital. they dont have fcf anymore. they levered up their balance sheets. the only thing left is equity to offer. if we want them to be the giant compounders that the global economy depends on, they need capital for their AI buildout and that capital will come from dilution which unfortunately keeps their stocks stuck.\n\never since google did their raise, they have gone nowhere but flat to down, even berkshire is bagholding 10b of $googl they bought at 350. \n\nthe $meta $25b offering today at $625 was 5x oversubscribed, just like google's was, which means smart money obviously knows these are amazing discounts/valuations to pay...but the street isnt going to easily let these names run with the threat of more shares entering into the market. \n\nthe fact that $nvda and $amd had to invest in $meta today also shows how much the chipmakers realize that these companies need cash and they will have to participate in financing these companies to make sure their chip sales are disrupted.\n\nthis all doesn't work if the capex isn't going to lead to an roi. if it will, then i expect them to continue diluting and that means we might have to deal with the hyperscalers potentially being stuck if the street can't get over their constant dillution.\n\nnow, $amzn and $msft haven't tapped equity markets yet...which means if they do, we know the playbook for how the street may react. if they don't, then they might have a better chance of avoiding that stagnation, but ultimately if you believe in the AI buildout, these companies need money and that money will have to come from shareholders.\n\nwe just get the opportunity, even if prolonged, to buy them at what are historically the lowest multiples they've ever had relative to their growth with the eventual ROI from all this capex coming over the next few years."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "metas-25b-stock-sale-draws-five-times-demand-in-975b-ai-push-7465b9f6",
+    "title": "Meta's $25B Stock Sale Draws Five Times Demand in $97.5B AI Push",
+    "publishedAt": "2026-10-28T02:08:09.457Z",
+    "eventTimeApprox": "2026-10-22T11:29:49.000Z",
+    "routingTopicKeys": [
+      "us-markets",
+      "ai",
+      "tech",
+      "business"
+    ],
+    "tweetCount": 551,
+    "authorCount": 136
+  }
+}

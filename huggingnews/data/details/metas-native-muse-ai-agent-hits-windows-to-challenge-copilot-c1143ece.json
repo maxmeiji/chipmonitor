@@ -1,0 +1,85 @@
+{
+  "slug": "metas-native-muse-ai-agent-hits-windows-to-challenge-copilot-c1143ece",
+  "title": "Meta's Native Muse AI Agent Hits Windows to Challenge Copilot",
+  "publishedAt": "2026-10-07T20:10:28.727Z",
+  "eventTimeApprox": "2026-10-07T17:38:40.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107887250600325286/HUC4SBfaAAAHgdR-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107887250600325286/HUC4SBfaAAAHgdR-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "richontech",
+      "tweetUrl": "https://x.com/richontech/status/2107887250600325286"
+    }
+  },
+  "summary": "Users of the most popular PC operating system can soon install a rival AI tool directly onto their hardware as a native application. A Microsoft executive confirmed that Meta's Muse AI agent is expanding to Windows, adding the desktop to its existing presence on smartphones, the web and WhatsApp, with a version for glasses coming soon. Microsoft is also launching new Copilot features powered by hybrid intelligence over the coming months.\n\nThe move follows a shift in Meta's market position in September 2026, during which Muse reached No. 1 on the App Store. To support its growth, Meta added 15 small business connectors, launched an enterprise platform led by CJ Desai and opened the agent to custom hardware. The decision by Microsoft to host a primary competitor alongside Copilot suggests the Windows environment is becoming neutral territory for AI agents.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107887250600325286",
+      "role": "source",
+      "authorHandle": "richontech",
+      "url": "https://x.com/richontech/status/2107887250600325286",
+      "tweetedAt": "2026-10-07T17:34:17.000Z",
+      "bestBit": "Metas’ smash-hit AI agent Muse is coming to Windows PCs as a native app!",
+      "text": "Metas’ smash-hit AI agent Muse is coming to Windows PCs as a native app! https://t.co/JKnldf2OjY"
+    },
+    {
+      "tweetId": "2107887707481420162",
+      "role": "support",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2107887707481420162",
+      "tweetedAt": "2026-10-07T17:36:06.000Z",
+      "bestBit": "Copilot features powered by hybrid intelligence rolling out over the coming months",
+      "text": "Microsoft Executive: Meta's Muse is coming to Windows; Copilot features powered by hybrid intelligence rolling out over the coming months — Event $MSFT $META"
+    },
+    {
+      "tweetId": "2107888998362513447",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107888998362513447",
+      "tweetedAt": "2026-10-07T17:41:14.000Z",
+      "bestBit": "September 2026 was the month the $META narrative flipped from “behind in AI” to “consumer AI winner.”",
+      "text": "$META Muse is reportedly coming to Windows adding the PC to phones, web, WhatsApp and soon glasses as Meta keeps extending the same agent across every surface people use.\n\nThe more surfaces Muse reaches the more context it can carry with you while $MSFT letting it sit beside Copilot shows Windows is becoming neutral ground for competing agents.",
+      "quotedTweetText": "September 2026 was the month the $META narrative flipped from “behind in AI” to “consumer AI winner.”\n\nIn just a few weeks Meta launched Muse, took it to No. 1 on the App Store, added 15 small business connectors, launched an enterprise platform under CJ Desai, brought Muse to glasses and opened it to custom hardware."
+    }
+  ],
+  "isSuperseded": false
+}

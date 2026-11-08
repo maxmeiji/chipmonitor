@@ -1,0 +1,112 @@
+{
+  "slug": "perplexity-new-v11-decision-model-tops-hugging-face-index-at-002-per-mil-eae6b882",
+  "title": "Perplexity New v1.1 Decision Model Tops Hugging Face Index at $0.02 per Million Tokens",
+  "publishedAt": "2026-10-06T17:38:40.075Z",
+  "eventTimeApprox": "2026-10-01T23:21:28.000Z",
+  "isFreshStory": false,
+  "tweetCount": 37,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:PPLX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Perplexity AI",
+      "hubKey": "perplexity-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107519531711418597/HT9p2GBbQAANYzk-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107519531711418597/HT9p2GBbQAANYzk-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "perplexitydevs",
+      "tweetUrl": "https://x.com/perplexitydevs/status/2107519531711418597"
+    }
+  },
+  "summary": "A new multimodal decision model from Perplexity has taken the top spot on the Hugging Face Decision Index 0.3 benchmark. The company launched pplx-decider-v1.1-27b as an open-weights model and cut its API price to $0.02 per million input tokens, or $20 per 1 billion tokens, down from the previous $0.04 per million rate for the first version.\n\nThe updated model is a generative discriminator fine-tuned from Qwen3.8-27B with a 250k context window that can analyze images. In an unofficial benchmark playing Tetris against seven other decision models, the system consistently performed the best. The first version of the tool previously outperformed the Jev model and scored 85.71% across early public benchmarks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107519531711418597",
+      "role": "source",
+      "authorHandle": "perplexitydevs",
+      "url": "https://x.com/perplexitydevs/status/2107519531711418597",
+      "tweetedAt": "2026-10-06T17:13:06.000Z",
+      "bestBit": "pplx-decider-v1.1-27b costs half as much as v1, at $0.02 per million input tokens",
+      "text": "pplx-decider-v1.1-27b, our updated open weights multimodal decision model, is now available.\n\nIt scores the highest on the new @huggingface Decision Index 0.3 benchmark. pplx-decider-v1.1-27b costs half as much as v1, at $0.02 per million input tokens.\n\nhttps://t.co/S6mjFL7Ws8 https://t.co/Sg6FtHW4cb"
+    },
+    {
+      "tweetId": "2107521117825179911",
+      "role": "support",
+      "authorHandle": "denisyarats",
+      "url": "https://x.com/denisyarats/status/2107521117825179911",
+      "tweetedAt": "2026-10-06T17:19:24.000Z",
+      "bestBit": "1B tokens now costs only $20",
+      "text": "a new checkpoint is available in the API and also open-sourced!\n\nit scores the best on the new @huggingface Decision Index 0.3 private benchmark.\n\nwe also optimized inference and cut the cost by 2x: 1B tokens now costs only $20.",
+      "quotedTweetText": "pplx-decider-v1.1-27b, our updated open weights multimodal decision model, is now available.\n\nIt scores the highest on the new @huggingface Decision Index 0.3 benchmark. pplx-decider-v1.1-27b costs half as much as v1, at $0.02 per million input tokens.\n\nhttps://t.co/S6mjFL7Ws8 https://t.co/Sg6FtHW4cb"
+    },
+    {
+      "tweetId": "2105806366405484628",
+      "role": "analysis",
+      "authorHandle": "hwchase17",
+      "url": "https://x.com/hwchase17/status/2105806366405484628",
+      "tweetedAt": "2026-10-01T23:45:36.000Z",
+      "bestBit": "cheap typed answers for the small calls inside a harness (routing, approvals, judging), big model for the rest",
+      "text": "congrats @AravSrinivas! more entrants in the decision model class, and this one is open weights\n\ncheap typed answers for the small calls inside a harness (routing, approvals, judging), big model for the rest\n\nhttps://t.co/GkGAUacsmV",
+      "quotedTweetText": "We’re open sourcing a state of the art multimodal Decision Model, pplx-decider-27b, and are offering it in a new Decisions API at 4 cents per million input tokens and free output tokens. We intend to bring down the price even further over the coming days. Enjoy!"
+    },
+    {
+      "tweetId": "2107489791562678689",
+      "role": "support",
+      "authorHandle": "alokbishoyi97",
+      "url": "https://x.com/alokbishoyi97/status/2107489791562678689",
+      "tweetedAt": "2026-10-06T15:14:56.000Z",
+      "bestBit": "8 decision models playing Tetris. In our tests @perplexity_ai Decider came consistently at the top",
+      "text": "Here's a fun benchmark we ran: 8 decision models playing Tetris. In our tests @perplexity_ai  Decider came consistently at the top !! ( cc @AravSrinivas )\n\nyou can try em out here - https://t.co/gRxQ4xqhLC https://t.co/3r41gXwz3Z"
+    },
+    {
+      "tweetId": "2105763091195768859",
+      "role": "commentary",
+      "authorHandle": "morganlinton",
+      "url": "https://x.com/morganlinton/status/2105763091195768859",
+      "tweetedAt": "2026-10-01T20:53:38.000Z",
+      "bestBit": "compare to what OpenAI released this week",
+      "text": "And Perplexity has entered the Decision Model arena. \n\nSuper sharp team at Perplexity, their APIs are 🤌\n\nExcited to try this and compare to what OpenAI released this week.",
+      "quotedTweetText": "Introducing the Perplexity Decisions API.\n\nIt's powered by pplx-decider-v1-27b, our multimodal decision model trained to output a probability distribution over a fixed set of answers instead of text.\n\nIt costs $0.04/million input tokens and scores 85.71% across benchmarks. https://t.co/3yzPjTXVXe"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "perplexity-open-sources-decision-model-that-beats-jev-on-cost-and-perfor-d9ee89fb",
+    "title": "Perplexity Open-Sources Decision Model That Beats Jev on Cost and Performance",
+    "publishedAt": "2026-10-01T18:39:10.769Z",
+    "eventTimeApprox": "2026-10-01T18:30:02.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 22,
+    "authorCount": 12
+  }
+}

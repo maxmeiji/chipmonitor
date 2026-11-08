@@ -1,0 +1,66 @@
+{
+  "slug": "anthropic-warns-climate-change-may-raise-operating-costs-in-ipo-filing-cba8dcf8",
+  "title": "Anthropic Warns Climate Change May Raise Operating Costs in IPO Filing",
+  "publishedAt": "2026-10-26T17:53:02.851Z",
+  "eventTimeApprox": "2026-10-26T15:35:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "environment",
+      "name": "Environment"
+    },
+    {
+      "slug": "climate",
+      "name": "Climate"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "Hotter temperatures may require more electricity and water to maintain the cooling of Anthropic's data centers, potentially driving up the AI developer's operating expenses. The company detailed these risks in its IPO filing, stating that the physical effects of climate change could impact its overall costs.\n\nThe disclosure also highlighted the company's vast infrastructure and electricity requirements as part of its broader warnings regarding environmental and climate risks to potential investors.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114734112137413087",
+      "role": "source",
+      "authorHandle": "disclosetv",
+      "url": "https://x.com/disclosetv/status/2114734112137413087",
+      "tweetedAt": "2026-10-26T15:01:16.000Z",
+      "bestBit": "hotter temperatures mean more electricity and water to keep data centers cool",
+      "text": "NEW - Anthropic says, \"the physical effects of climate change may increase our operating costs,\" warning in its IPO filing that hotter temperatures mean more electricity and water to keep data centers cool."
+    },
+    {
+      "tweetId": "2114742639996071950",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2114742639996071950",
+      "tweetedAt": "2026-10-26T15:35:10.000Z",
+      "bestBit": "Anthropic flagged climate and environmental risks in its IPO filing, highlighting its vast electricity and infrastructure needs",
+      "text": "Anthropic flagged climate and environmental risks in its IPO filing, highlighting its vast electricity and infrastructure needs https://t.co/6oUFrnfWYg"
+    }
+  ],
+  "isSuperseded": false
+}

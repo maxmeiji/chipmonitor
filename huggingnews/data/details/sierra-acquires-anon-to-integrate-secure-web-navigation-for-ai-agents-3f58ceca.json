@@ -1,0 +1,69 @@
+{
+  "slug": "sierra-acquires-anon-to-integrate-secure-web-navigation-for-ai-agents-3f58ceca",
+  "title": "Sierra Acquires Anon to Integrate Secure Web-Navigation for AI Agents",
+  "publishedAt": "2026-11-06T02:37:20.590Z",
+  "eventTimeApprox": "2026-11-06T02:12:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:SIER",
+      "kind": "private",
+      "role": "subject",
+      "name": "Sierra AI",
+      "hubKey": "sierra-ai"
+    }
+  ],
+  "summary": "The AI agent developer Sierra has purchased Anon, a startup that creates software to allow enterprise artificial intelligence agents to browse and use websites in a manner similar to human users.\n\nThe acquisition brings founders Daniel Mason, Richárd Hruby, and Hardik Patil to the Sierra team. Anon's technology focuses on improving the security and reliability of agents operating at scale within corporate environments, with earlier backing from investors including Bret Taylor and Clay Bavor.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118520769504534932",
+      "role": "source",
+      "authorHandle": "sierraplatform",
+      "url": "https://x.com/SierraPlatform/status/2118520769504534932",
+      "tweetedAt": "2026-11-06T01:48:06.000Z",
+      "bestBit": "Daniel Mason and team built Anon to help enterprise AI agents securely use websites the way people do",
+      "text": "Excited to share that Sierra has acquired Anon.\n\nDaniel Mason and team built Anon to help enterprise AI agents securely use websites the way people do, and in doing so have tackled some of the hardest challenges in making agents reliable and secure for enterprises at scale.\n\nWelcome Daniel, Richárd Hruby, and Hardik Patil!\n\nRead more: https://t.co/vj7EexCa0X"
+    },
+    {
+      "tweetId": "2118526792659280123",
+      "role": "source",
+      "authorHandle": "dgmason",
+      "url": "https://x.com/dgmason/status/2118526792659280123",
+      "tweetedAt": "2026-11-06T02:12:02.000Z",
+      "bestBit": "Thanks @claybavor and @btaylor for betting on us.",
+      "text": "Anon has been acquired by @SierraPlatform.\n\nThanks @claybavor and @btaylor for betting on us. And deep gratitude to the team, investors and customers who got us here.\n\nSierra already builds the best agents in the world. Time to make them even better.",
+      "quotedTweetText": "Excited to share that Sierra has acquired Anon.\n\nDaniel Mason and team built Anon to help enterprise AI agents securely use websites the way people do, and in doing so have tackled some of the hardest challenges in making agents reliable and secure for enterprises at scale.\n\nWelcome Daniel, Richárd Hruby, and Hardik Patil!\n\nRead more: https://t.co/vj7EexCa0X"
+    }
+  ],
+  "isSuperseded": false
+}

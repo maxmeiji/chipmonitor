@@ -1,0 +1,110 @@
+{
+  "slug": "ge-vernova-hikes-2026-outlook-following-surge-in-third-quarter-orders-f9a15b32",
+  "title": "GE Vernova Hikes 2026 Outlook Following Surge in Third Quarter Orders",
+  "publishedAt": "2026-10-28T10:38:33.064Z",
+  "eventTimeApprox": "2026-10-28T10:19:40.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "earnings",
+    "us-markets",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GEV",
+      "kind": "equity",
+      "role": "subject",
+      "name": "GE Vernova Inc.",
+      "hubKey": "gev"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115200745742250048/HVqzTK1XgAEhoeg-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115200745742250048/HVqzTK1XgAEhoeg-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "tradretfs",
+      "tweetUrl": "https://x.com/TradrETFs/status/2115200745742250048"
+    }
+  },
+  "summary": "GE Vernova reported third quarter revenue of $12.6B, exceeding analyst expectations of $11.99B, as strength in its power and electrification segments drove growth. The energy equipment maker saw its organic orders surge 96% to $29.3B, prompting the firm to double its share buyback authorization to $20B and raise its full-year revenue guidance to a range of $46.5B to $47.5B. The company also announced it will acquire the Trench Group for $9B, with the deal expected to close in late 2027.\n\nThe growth is primarily attributed to the build-out of AI data centers, which now account for about 20% of the company's gas turbine order book. This demand has pushed the gas turbine backlog and reservations to 122 GW and led GE Vernova to forecast its total backlog will exceed $200B in the fourth quarter. Along with higher revenue targets, the firm raised its forecast for 2026 free cash flow to between $16B and $17B.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115388608144109840",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115388608144109840",
+      "tweetedAt": "2026-10-28T10:22:00.000Z",
+      "bestBit": "Buyback Authorization: $20B; from $10B",
+      "text": "GE VERNOVA $GEV Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $12.6B (Est. $11.99B) 🟢; +27% YoY\n🔹 Organic Revenue Growth: +18% YoY\n🔹 EPS: $4.81\n🔹 Orders: $29.3B; +96% organically\n🔹 Backlog: $197B\n\nRaises FY26 Guide:\n🔹 Revenue: $46.5B-$47.5B (Est. $46.24B) 🟢; from $45.5B-$46.5B\n🔹 Adj. EBITDA Margin: 13.5%-14.5%; from 12%-14%\n🔹 Free Cash Flow: $16B-$17B; from $11.5B-$12.5B\n\nSegment Revenue:\n🔹 Power: $6.1B; +25% YoY\n🔹 Electrification: $3.9B; +51% YoY\n🔹 Wind: $2.7B; +4% YoY\n\nAnnouncements:\n🔹 Trench Group Acquisition: $9.0B; close expected late 2027\n🔹 Buyback Authorization: $20B; from $10B\n\nOther Q3 Metrics:\n🔹 Adj. EBITDA: $1.9B; 15.4% margin\n🔹 Free Cash Flow: $5.4B\n🔹 Gas Backlog & Reservations: 122 GW; at least 130 GW expected by year-end 2026\n\nCapital Return:\n🔹 Buybacks: 1.7M shares for $1.6B\n🔹 Dividend: $0.50/share\n\nComments:\n🔸 “We now expect our backlog to exceed $200 billion in the fourth quarter, with improved margins, and to exit 2026 with at least 130 GW of gas equipment under contract.”\n\n🔸 “Based on our strong financial performance, we are raising our guidance for 2026 revenue, adjusted EBITDA margin, and free cash flow.”"
+    },
+    {
+      "tweetId": "2115200745742250048",
+      "role": "source",
+      "authorHandle": "tradretfs",
+      "url": "https://x.com/TradrETFs/status/2115200745742250048",
+      "tweetedAt": "2026-10-27T21:55:30.000Z",
+      "bestBit": "first-half 2026 orders were priced over 20% above those of late 2025",
+      "text": "Data centers now take about a fifth of $GEV's gas turbine book.\n\nThe company expects to be mostly sold out through 2030 at its year-end target.\n\nAs a result, first-half 2026 orders were priced over 20% above those of late 2025.\n\nIts 3Q report, out tomorrow Oct 28, will show how close it is to that target."
+    },
+    {
+      "tweetId": "2115209843934142968",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2115209843934142968",
+      "tweetedAt": "2026-10-27T22:31:40.000Z",
+      "bestBit": "$GEV gas turbine book has grown from 50 GW to 116 GW in just five quarters",
+      "text": "$GEV gas turbine book has grown from 50 GW to 116 GW in just five quarters while production slot reservations have tripled to 63 GW.\n\nCustomers are now paying deposits just to get in line which tells you how tight the race to secure power for AI data centers has become. https://t.co/w3CnVVCWcw",
+      "quotedTweetText": "Data centers now take about a fifth of $GEV's gas turbine book.\n\nThe company expects to be mostly sold out through 2030 at its year-end target.\n\nAs a result, first-half 2026 orders were priced over 20% above those of late 2025.\n\nIts 3Q report, out tomorrow Oct 28, will show how close it is to that target."
+    },
+    {
+      "tweetId": "2115267355223761295",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2115267355223761295",
+      "tweetedAt": "2026-10-28T02:20:11.000Z",
+      "bestBit": "Demand for natural gas turbines is outpacing manufacturing capacity, leading to increased wait times",
+      "text": "Demand for natural gas turbines is outpacing manufacturing capacity, leading to increased wait times, according to one of the world’s top makers of the power generation equipment https://t.co/KZTJ6975l3"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "ai-data-center-demand-pushes-ge-vernova-gas-turbine-backlog-to-116-gw-a3dc6e6f",
+    "title": "AI Data Center Demand Pushes GE Vernova Gas Turbine Backlog to 116 GW",
+    "publishedAt": "2026-10-28T02:37:32.852Z",
+    "eventTimeApprox": "2026-10-27T22:31:40.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

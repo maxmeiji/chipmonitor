@@ -1,0 +1,140 @@
+{
+  "slug": "update-apple-plans-next-gen-touchscreen-macbooks-with-m7-chips-and-new-a-ac92a7a9",
+  "title": "UPDATE: Apple Plans Next-Gen Touchscreen MacBooks With M7 Chips and New AI Hardware",
+  "publishedAt": "2026-11-01T16:22:50.388Z",
+  "eventTimeApprox": "2026-10-28T17:32:21.500Z",
+  "isFreshStory": false,
+  "tweetCount": 91,
+  "authorCount": 36,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115499432321933444/HVvCySUW4AAFoUO-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115499432321933444/HVvCySUW4AAFoUO-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "raywongy",
+      "tweetUrl": "https://x.com/raywongy/status/2115499432321933444"
+    }
+  },
+  "summary": "Apple is developing an updated line of touch-screen MacBook Pros for next year that will feature M7 Pro and M7 Max chips, according to Mark Gurman. The next-generation laptops will include specialized hardware to enhance artificial intelligence capabilities and will add a new entry-level 14 inch model featuring the thinner chassis and slimmer bezels found on the high-end configurations.\n\nThe planned expansion follows the company's recent introduction of the first touch-enabled MacBooks, which start at $2,899 for the 14 inch and $3,399 for the 16 inch versions. The move to include touch interfaces marks a departure from a long-held corporate philosophy that dismissed the technology as impractical for laptops due to arm fatigue and ergonomics.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115491608670220714",
+      "role": "source",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2115491608670220714",
+      "tweetedAt": "2026-10-28T17:11:18.000Z",
+      "bestBit": "14-inch is $2,899, 16-inch is $3,339",
+      "text": "14-inch is $2,899, 16-inch is $3,399. https://t.co/WAW3Pkdac7",
+      "quotedTweetText": "Apple, after two decades of spurning the idea, unveiled an overhauled MacBook Pro that includes a touch screen, giving its flagship laptop a feature that has become a must-have in the personal computer industry. https://t.co/4Y5GFV9967"
+    },
+    {
+      "tweetId": "2116924868495364125",
+      "role": "source",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2116924868495364125",
+      "tweetedAt": "2026-11-01T16:06:33.000Z",
+      "bestBit": "Apple’s second-generation touch-screen MacBook Pros are coming next year with M7 Pro and M7 Max chips and new AI hardware capabilities",
+      "text": "Apple’s second-generation touch-screen MacBook Pros are coming next year with M7 Pro and M7 Max chips and new AI hardware capabilities. Apple is also planning an entry-level 14-inch M7 MacBook Pro with the thinner design and slimmer bezels of the new high-end models.",
+      "quotedTweetText": "Power On: Apple finally delivered the touch-screen MacBook Pro but it missed a chance to be revolutionary (here’s why I’m excited regardless) https://t.co/hACY0k61LR"
+    },
+    {
+      "tweetId": "2115265192447852868",
+      "role": "commentary",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2115265192447852868",
+      "tweetedAt": "2026-10-28T02:11:36.000Z",
+      "bestBit": "Apple has spent basically 20 years telling us that touch-screen laptops are horrible due to ergonomics/arm fatigue",
+      "text": "Pretty wild that Apple has spent basically 20 years telling us that touch-screen laptops are horrible due to ergonomics/arm fatigue and they are going to do it anyways tomorrow -- and not address the problem they proclaimed exists whatsoever. Either way I am pumped."
+    },
+    {
+      "tweetId": "2114361063986942284",
+      "role": "analysis",
+      "authorHandle": "markgurman",
+      "url": "https://x.com/markgurman/status/2114361063986942284",
+      "tweetedAt": "2026-10-25T14:18:55.000Z",
+      "bestBit": "Within Apple, Cook and Ternus both felt that customers had begun to expect touch screens on Macs",
+      "text": "Within Apple, Cook and Ternus both felt that customers had begun to expect touch screens on Macs. But the company’s industrial design team remained opposed to the idea. The compromise was to create a device where touch was an option but not the primary interface.",
+      "quotedTweetText": "Power On: Apple’s touch-screen MacBook Pro will arrive on Wednesday, marking the tech giant’s latest major reversal. https://t.co/P4M498jUTQ"
+    },
+    {
+      "tweetId": "2114535138638061773",
+      "role": "analysis",
+      "authorHandle": "stevesi",
+      "url": "https://x.com/stevesi/status/2114535138638061773",
+      "tweetedAt": "2026-10-26T01:50:37.000Z",
+      "bestBit": "Apple to Unveil Touch MacBook Pro After Two Decades of Resistance",
+      "text": "Apple to Unveil Touch MacBook Pro After Two Decades of Resistance  https://t.co/tleppcJTXJ \n\n// Will be interesting to see how this \"modality\" functions. \n\nIn general modes have a tricky problem where having a manual switch is something tech enthusiasts like (like a convertible car or unfolding phone) but humans in daily use rarely want to put this much thought into using something or find it inconvenient. \n\nOTOH, automagically switching modes when there is a cost and complexity to switching wrong means that the pick will be wrong some percentage > 0% and that means it will feel like it is wrong all the time.\n\nIn Windows 8 we were criticized for having two modes but there was no switch and touch worked as well as we could make it work with legacy apps in a desktop environment. There were APIs and design guidelines that could be followed. For new apps the APIs just worked mouse or touch. Later in Windows 8.x and up there was a \"touch mode\" which only proved to be wrong most of the time and no one managed it manually. \n\nToday's Mac generally relies on very little third party software and Apple can make all their \"desktop\" work fine with touch. There are utilities and some third parties used a good amount (Office, Adobe) but the long tail isn't as present on Mac OS (nor has it been for a very long time). And the vast majority of tech enthusiasts in the Apple world today are CLI people, not sitting in Win32 native apps like they were during the toaster-refrigerator era. So we'll see how this one aspect plays out.\n\nI, for one, look forward to having touch work on stuff like browsing since to this day I still touch the screen by accident. As I said in 2012 -- Once you touch your screen you won't ever go back. https://t.co/cVTmVksy2Y"
+    },
+    {
+      "tweetId": "2115582474482753972",
+      "role": "commentary",
+      "authorHandle": "caro_milanesi",
+      "url": "https://x.com/caro_milanesi/status/2115582474482753972",
+      "tweetedAt": "2026-10-28T23:12:22.000Z",
+      "bestBit": "The gestures mirror the track pad, so apps are ready on day one",
+      "text": ".@Apple put touch on the MacBook Pro, and the timing finally makes sense. AI is changing how we interact with our devices, a whole generation grew up tapping screens, and OLED makes for a lighter machine. The gestures mirror the track pad, so apps are ready on day one. https://t.co/LN7Tht1mDL"
+    },
+    {
+      "tweetId": "2115509521783333103",
+      "role": "commentary",
+      "authorHandle": "newsynick",
+      "url": "https://x.com/NewsyNick/status/2115509521783333103",
+      "tweetedAt": "2026-10-28T18:22:28.000Z",
+      "bestBit": "The maxed-out version of Apple’s new touch-screen MacBook Pro is priced at $14,549",
+      "text": "The maxed-out version of Apple’s new touch-screen MacBook Pro is priced at $14,549, or about the cost of a 2020 Toyota Corolla https://t.co/vviRG3rON5 via @markgurman"
+    },
+    {
+      "tweetId": "2115494929329770523",
+      "role": "support",
+      "authorHandle": "jornaloglobo",
+      "url": "https://x.com/JornalOGlobo/status/2115494929329770523",
+      "tweetedAt": "2026-10-28T17:24:29.000Z",
+      "bestBit": "Apple lança primeiro MacBook com tela sensível ao toque",
+      "text": "Apple lança primeiro MacBook com tela sensível ao toque https://t.co/0wly9lhenF"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "apple-debuts-first-touch-screen-macbook-pro-starting-at-2899-1e0ee5b8",
+    "title": "Apple Debuts First Touch-Screen MacBook Pro Starting at $2,899",
+    "publishedAt": "2026-10-28T17:24:27.677Z",
+    "eventTimeApprox": "2026-10-28T07:09:39.500Z",
+    "routingTopicKeys": [
+      "tech"
+    ],
+    "tweetCount": 88,
+    "authorCount": 36
+  }
+}

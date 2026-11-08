@@ -1,0 +1,65 @@
+{
+  "slug": "taiwan-president-urges-micron-to-avert-strike-at-primary-hbm-hub-6ad045dc",
+  "title": "Taiwan President Urges Micron to Avert Strike at Primary HBM Hub",
+  "publishedAt": "2026-10-15T12:39:28.646Z",
+  "eventTimeApprox": "2026-10-15T10:05:14.500Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "tech",
+    "business",
+    "war",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MU",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Micron Technology, Inc.",
+      "hubKey": "mu"
+    }
+  ],
+  "summary": "A new packaging plant in central Taiwan opened recently as Micron management and labor unions clashed over employee bonus schemes. President William Lai has since urged both parties to negotiate \"sincerely\" to avoid a strike that would disrupt the supply of high bandwidth memory (HBM) chips. One labor union claims it already possesses sufficient votes to initiate a walkout during a period of severe global memory chip shortages.\n\nTaiwan is Micron's largest manufacturing base, employing 15,000 people and serving as the company's primary center for HBM chip production. Over the last 30 years, Micron has invested $45 billion, or NT$1.4 trillion, in the region. The packaging facility attended by Lai was constructed and made operational in slightly over one year.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110630702282940556",
+      "role": "source",
+      "authorHandle": "dnystedt",
+      "url": "https://x.com/dnystedt/status/2110630702282940556",
+      "tweetedAt": "2026-10-15T07:15:47.000Z",
+      "bestBit": "Taiwan is Micron’s biggest manufacturing center, with 15,000 workers, and its main HBM chip production center",
+      "text": "Taiwan President William Lai implored Micron management and workers to resolve their differences ahead of a possible strike in Taiwan that could threaten memory chip supplies amid a severe shortage, media report. (\"魚幫水、水幫魚\")\n\nPresident Lai made the statement at the opening of a new Micron packaging plant in central Taiwan, where he highlighted the speed of local construction crews to have it up and running in just over a year, while also noting Micron’s continued commitment to Taiwan: NT$1.4 trillion (US$45 billion) invested over the past 30-years.\n\nOne union says it already has enough votes to call a strike over Micron’s employee bonus scheme. Taiwan is Micron’s biggest manufacturing center, with 15,000 workers, and its main HBM chip production center. $MU $SKHY $SSNLF #semiconductors"
+    },
+    {
+      "tweetId": "2110641929163624612",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2110641929163624612",
+      "tweetedAt": "2026-10-15T08:00:24.000Z",
+      "bestBit": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike",
+      "text": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike https://t.co/8dvi0zKOBe https://t.co/8dvi0zKOBe"
+    }
+  ],
+  "isSuperseded": false
+}

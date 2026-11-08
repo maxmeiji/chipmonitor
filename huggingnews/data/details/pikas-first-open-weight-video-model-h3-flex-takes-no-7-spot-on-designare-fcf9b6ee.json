@@ -1,0 +1,81 @@
+{
+  "slug": "pikas-first-open-weight-video-model-h3-flex-takes-no-7-spot-on-designare-fcf9b6ee",
+  "title": "Pika's First Open Weight Video Model H3 Flex Takes No. 7 Spot on DesignArena",
+  "publishedAt": "2026-10-29T18:08:55.725Z",
+  "eventTimeApprox": "2026-10-29T17:49:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 27,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115866693037863376/y-hmu1IsHEit6T6B-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115866693037863376/y-hmu1IsHEit6T6B-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2115866584313102336/vid/avc1/1920x1196/6jI7aPPzc6Vrf_aq.mp4?tag=29",
+    "credit": {
+      "handle": "designarena",
+      "tweetUrl": "https://x.com/DesignArena/status/2115866693037863376"
+    }
+  },
+  "summary": "Pika Labs' latest generative AI release earned a 1293 Elo rating on the DesignArena Video leaderboard, ranking it as the top open weight video model currently on the board. The tool, known as H3 Flex, placed No. 7 overall, surpassing lauding benchmarks for competing models such as FLUX 3 Video and Minimax H3.\n\nThe new model supports resolutions up to 4k and produces exportable audio stems, allowing the company to generate a 15 second clip with a soundtrack in as little as 7 seconds. Pika said the system is designed for professional iteration, and DesignArena noted the model's particular strengths in portraits and product-centered videos.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115860471215788262",
+      "role": "source",
+      "authorHandle": "pika_labs",
+      "url": "https://x.com/pika_labs/status/2115860471215788262",
+      "tweetedAt": "2026-10-29T17:37:01.000Z",
+      "bestBit": "It can produce a 15-second clip with soundtrack in as little as 7 seconds.",
+      "text": "Meet Pika H3 Flex, debuting today as the #1 open weight model on DesignArena’s t2v board.\n\nIt’s built for professional iteration, with exportable audio stems, resolutions up to 4k, and faster-than-realtime generation. It can produce a 15-second clip with soundtrack in as little as 7 seconds.\n\nSo, yeah. It’s kind of a flex 💅"
+    },
+    {
+      "tweetId": "2115866693037863376",
+      "role": "support",
+      "authorHandle": "designarena",
+      "url": "https://x.com/DesignArena/status/2115866693037863376",
+      "tweetedAt": "2026-10-29T18:01:45.000Z",
+      "bestBit": "Pika H3 Flex scored a 1293 Elo rating, just ahead of FLUX 3 Video, Minimax H3 Max, and Minimax H3.",
+      "text": "BREAKING: Pika H3 Flex by @pika_labs lands at #7 on DesignArena's Video leaderboard!\n\nPika H3 Flex scored a 1293 Elo rating, just ahead of FLUX 3 Video, Minimax H3 Max, and Minimax H3. It is also the highest ranking open-weights video model on the board. Pika H3 Flex also exhibited strengths for complicated camera motion, background details, product-centered videos, and portraits.\n\nCongrats to the @pika_labs team on the launch!"
+    },
+    {
+      "tweetId": "2115863636375671027",
+      "role": "commentary",
+      "authorHandle": "multimodalart",
+      "url": "https://x.com/multimodalart/status/2115863636375671027",
+      "tweetedAt": "2026-10-29T17:49:36.000Z",
+      "bestBit": "pika releasing an open weights model wasn't in my cards",
+      "text": "pika releasing an open weights model wasn't in my cards  🃏 \n\nlooks really good! i've been testing it on spaces https://t.co/e62W58YsFW",
+      "quotedTweetText": "Meet Pika H3 Flex, debuting today as the #1 open weight model on DesignArena’s t2v board.\n\nIt’s built for professional iteration, with exportable audio stems, resolutions up to 4k, and faster-than-realtime generation. It can produce a 15-second clip with soundtrack in as little as 7 seconds.\n\nSo, yeah. It’s kind of a flex 💅"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "mit-develops-protocol-for-different-ai-models-to-communicate-without-usi-3662a4de",
+  "title": "MIT Develops Protocol for Different AI Models to Communicate Without Using Words",
+  "publishedAt": "2026-10-29T16:08:31.847Z",
+  "eventTimeApprox": "2026-10-29T15:38:56.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "A new framework allows artificial intelligence models to synchronize their internal processing to share information more efficiently than traditional text. Developed by researchers at the Massachusetts Institute of Technology, the system enables models to swap internal neural states—a process the team dubbed \"telepathy\"—which led to communication that was four times faster and 40% more accurate on average. The researchers demonstrated the system's utility by enabling data exchange between models from different developers, such as Meta, Google and Alibaba.\n\nThe method also bridges the gap between AI models with different input capabilities. In one test, a vision-capable model transferred the content of a photograph to a text-only model via these internal states. The receiving model was then able to answer questions about the image more correctly than it had when provided with a written description of the photo.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115422104657281392",
+      "role": "source",
+      "authorHandle": "ai_database",
+      "url": "https://x.com/ai_database/status/2115422104657281392",
+      "tweetedAt": "2026-10-28T12:35:07.000Z",
+      "bestBit": "文章でやり取りするより平均40%正確で4倍速かったといいます。",
+      "text": "MITの研究者らが、AI同士が言葉を使わず頭の中の状態を直接渡して通信する仕組みを作り「テレパシー」と名付けました。\n文章でやり取りするより平均40%正確で4倍速かったといいます。\nまた「画像を見られるAI」が写真の内容を「テキストしか読めないAI」にテレパシーできるそうです。\n写真の内容をテレパシーを受信した「テキストしか読めないAI」は、テキストで説明を渡されるよりも写真についての質問に正しく答えられたとのこと。\nなお、別の会社のAI同士でもテレパシーできるようにしたのが今回の研究の一番の新規性のようです。\n例：\nMeta（Llama 3）→ Alibaba（Qwen 3）\nAlibaba（Qwen 3）→ Google（Gemma 2）\nGoogle（Gemma 3）→ IBM（Granite 3）\nGoogle（Gemma 3）→ Meta（Llama 3）\nMistral AI（Ministral 3）→ Meta（Llama 3.2）\nGoogle（Gemma 2）→ Mistral AI（Ministral 3）\nIBM（Granite 3）→ Hugging Face（SmolLM3）"
+    },
+    {
+      "tweetId": "2115830753355604148",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2115830753355604148",
+      "tweetedAt": "2026-10-29T15:38:56.000Z",
+      "bestBit": "別の会社のAI同士でもテレパシーできるようにしたのが今回の研究の一番の新規性のようです。",
+      "text": "Independent: https://t.co/4StqWHNX3x",
+      "quotedTweetText": "MITの研究者らが、AI同士が言葉を使わず頭の中の状態を直接渡して通信する仕組みを作り「テレパシー」と名付けました。\n文章でやり取りするより平均40%正確で4倍速かったといいます。\nまた「画像を見られるAI」が写真の内容を「テキストしか読めないAI」にテレパシーできるそうです。\n写真の内容をテレパシーを受信した「テキストしか読めないAI」は、テキストで説明を渡されるよりも写真についての質問に正しく答えられたとのこと。\nなお、別の会社のAI同士でもテレパシーできるようにしたのが今回の研究の一番の新規性のようです。\n例：\nMeta（Llama 3）→ Alibaba（Qwen 3）\nAlibaba（Qwen 3）→ Google（Gemma 2）\nGoogle（Gemma 3）→ IBM（Granite 3）\nGoogle（Gemma 3）→ Meta（Llama 3）\nMistral AI（Ministral 3）→ Meta（Llama 3.2）\nGoogle（Gemma 2）→ Mistral AI（Ministral 3）\nIBM（Granite 3）→ Hugging Face（SmolLM3）"
+    }
+  ],
+  "isSuperseded": false
+}

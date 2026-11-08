@@ -1,0 +1,69 @@
+{
+  "slug": "canva-launches-brush-vision-language-model-for-design-editing-1076ba59",
+  "title": "Canva Launches Brush Vision-Language Model for Design Editing",
+  "publishedAt": "2026-10-29T21:22:40.061Z",
+  "eventTimeApprox": "2026-10-29T20:40:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "summary": "Canva has introduced a new artificial intelligence tool called Brush that allows users to automate the modification of graphic layouts, layers and styles. The vision-language model is designed to perform tasks such as adjusting text and logos, adapting designs to different formats and applying consistent changes across multiple pages of a presentation.\n\nThe tool is the second design-focused model the company has released in seven days, following the debut of its image-generation model Craft. Craft reached No. 4 on the DesignArena leaderboard for image generation last week.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115885750013321704",
+      "role": "source",
+      "authorHandle": "canva",
+      "url": "https://x.com/canva/status/2115885750013321704",
+      "tweetedAt": "2026-10-29T19:17:28.000Z",
+      "bestBit": "Brush sees your design’s layout, layers and vibe the way you do, and edits alongside you.",
+      "text": "Introducing Brush: Our first vision-language model for design. 🖌️\n\nBrush sees your design’s layout, layers and vibe the way you do, and edits alongside you. Fix one line of text, restyle a whole deck or build from a blank page.\n\nSee what Brush can do 👇 https://t.co/RHKmlxZkmA"
+    },
+    {
+      "tweetId": "2115893437048434901",
+      "role": "support",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2115893437048434901",
+      "tweetedAt": "2026-10-29T19:48:01.000Z",
+      "bestBit": "Last week, Canva's model Craft debuted at #4 on DesignArena's image-gen leaderboard.",
+      "text": "Canva is building its own AI models for creating images and editing existing designs!\n\nLast week, Canva's model Craft debuted at #4 on DesignArena's image-gen leaderboard.\n\nNow comes Brush, a vision-language model focused on design editing.\n\nCanva says Brush can restyle existing designs, adapt them to different formats and apply changes consistently across multiple pages.",
+      "quotedTweetText": "Introducing Brush: Our first vision-language model for design. 🖌️\n\nBrush sees your design’s layout, layers and vibe the way you do, and edits alongside you. Fix one line of text, restyle a whole deck or build from a blank page.\n\nSee what Brush can do 👇 https://t.co/RHKmlxZkmA"
+    },
+    {
+      "tweetId": "2115910175693431238",
+      "role": "commentary",
+      "authorHandle": "turnernovak",
+      "url": "https://x.com/TurnerNovak/status/2115910175693431238",
+      "tweetedAt": "2026-10-29T20:54:32.000Z",
+      "bestBit": "They just launched their second design model in the past week which should finally fix this.",
+      "text": "I’ve been a Canva DAU across @BananaCap_ and @ThePeelPod for years because it’s such a simple yet powerful product\n\nOne of the most time consuming things I do is rearrange text and logos. They just launched their second design model in the past week which should finally fix this.",
+      "quotedTweetText": "Introducing Brush: Our first vision-language model for design. 🖌️\n\nBrush sees your design’s layout, layers and vibe the way you do, and edits alongside you. Fix one line of text, restyle a whole deck or build from a blank page.\n\nSee what Brush can do 👇 https://t.co/RHKmlxZkmA"
+    }
+  ],
+  "isSuperseded": false
+}

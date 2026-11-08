@@ -1,0 +1,82 @@
+{
+  "slug": "cambricon-forecasts-135b-yuan-revenue-despite-q3-shortfall-55c7a62e",
+  "title": "Cambricon Forecasts 13.5B Yuan Revenue Despite Q3 Shortfall",
+  "publishedAt": "2026-10-26T03:08:42.353Z",
+  "eventTimeApprox": "2026-10-23T15:56:12.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "A lack of available memory chips and capacity constraints hindered sales for Cambricon during the most recent quarter. The company stated it remains on track to meet its full-year revenue forecast of 13.5 billion yuan, an increase from the 6.5 billion yuan recorded in 2025, citing strong demand for its AI hardware.\n\nThird-quarter revenue reached 3.531 billion yuan ($496M), missing analyst estimates of 6.26 billion yuan, although quarterly net profit rose 148% to 1.404 billion yuan. For the first nine months of 2026, China's second-largest AI chip developer posted operating revenue of 9.526 billion yuan, up 106.76% from a year earlier.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114551864004166061",
+      "role": "source",
+      "authorHandle": "dnystedt",
+      "url": "https://x.com/dnystedt/status/2114551864004166061",
+      "tweetedAt": "2026-10-26T02:57:05.000Z",
+      "bestBit": "Cambricon, China’s 2nd biggest AI chip developer, posted 3rd quarter revenue of 3.531 billion yuan (US$496M), far short of the 6.26 billion expected due to capacity constraints and memory chip shortages",
+      "text": "Cambricon, China’s 2nd biggest AI chip developer, posted 3rd quarter revenue of 3.531 billion yuan (US$496M), far short of the 6.26 billion expected due to capacity constraints and memory chip shortages, media report, noting its net profit soared 148% to 1.404 billion. Cambricon said demand remains strong and it will meet its full-year revenue forecast of 13.5 billion, up from 2025 revenue 6.5B. #Huawei #Cambricon https://t.co/dl4sVnPWum"
+    },
+    {
+      "tweetId": "2113584593626423492",
+      "role": "commentary",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2113584593626423492",
+      "tweetedAt": "2026-10-23T10:53:30.000Z",
+      "bestBit": "CAMBRICON 3Q REV. 3.53B YUAN, EST. 6.26B YUAN",
+      "text": "*CAMBRICON 3Q REV. 3.53B YUAN, EST. 6.26B YUAN \n\nChina really needs to master circular financing"
+    },
+    {
+      "tweetId": "2113648478467260887",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2113648478467260887",
+      "tweetedAt": "2026-10-23T15:07:21.000Z",
+      "bestBit": "in the first three quarters, the company achieved operating revenue of 9.526 billion yuan, a year-over-year increase of 106.76%",
+      "text": "&gt; in the first three quarters, the company achieved operating revenue of 9.526 billion yuan, a year-over-year increase of 106.76%\nCambricon is growing\nA few more doublings later it may be important",
+      "quotedTweetText": "寒武纪，利润大增！\n\n刚才，寒武纪披露了2026年的三季度报表。\n\n数据显示，前三季度，公司实现营业收入95.26亿元，同比增长106.76%；归母净利润37.15亿元，同比增长131.49%；扣非归母净利润35.23亿元，同比增长148.30%。\n\n具体到第三季度，公司实现营业收入35.31亿元，同比增长104.47%；归母净利润14.04亿元，同比增长147.74%；扣非归母净利润13.58亿元，同比增长168.13%。当季经营现金流净额为-8367.79万元。\n\n从环比上看，根据公司财报数据测算，第二季度营业收入、归母净利润和扣非归母净利润分别为31.11亿元、12.98亿元和12.31亿元，第三季度分别环比增长13.50%、8.16%和10.3%。\n\n寒武纪表示，公司持续拓展市场，积极助力人工智能应用落地，营业收入较上年同期大幅增长，并带动利润增长。前三季度，公司非经常性损益净额为1.91亿元，其中第三季度为4602.54万元。"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "cambricon-3q-revenue-misses-626b-yuan-estimate-17c0a6f8",
+    "title": "Cambricon 3Q Revenue Misses 6.26B Yuan Estimate",
+    "publishedAt": "2026-10-23T16:53:28.499Z",
+    "eventTimeApprox": "2026-10-23T15:07:21.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "openrouter-shifts-ai-traffic-routing-to-prioritize-inference-quality-ove-356001e9",
+  "title": "OpenRouter Shifts AI Traffic Routing to Prioritize Inference Quality Over Price",
+  "publishedAt": "2026-10-29T19:38:33.881Z",
+  "eventTimeApprox": "2026-10-29T18:17:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPRT",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenRouter",
+      "hubKey": "openrouter"
+    }
+  ],
+  "summary": "The provider routing system used by OpenRouter now allocates traffic based on a balance of inference reliability and cost, rather than price alone. The update to the routing algorithm is designed to award more requests to AI inference providers that deliver higher quality output relative to their cost, which the company says will encourage a competitive environment for provider performance.\n\nThe company reported that early testing for open-weight models showed throughput and time to first token both increased by about 20%. Additionally, the transition to the new routing logic resulted in approximately 40% fewer fallbacks and about 60% fewer rate-limit errors.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115852889835114689",
+      "role": "source",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2115852889835114689",
+      "tweetedAt": "2026-10-29T17:06:54.000Z",
+      "bestBit": "Providers that deliver more value automatically win more traffic, so every provider has a reason to keep improving.",
+      "text": "We just shipped our biggest improvement to our provider router since the founding of OpenRouter.\n\nBefore, we prioritized mostly based on price. The new router now rewards the best quality inference for the actual cost of a request, so requests stay cheap but are also fast and reliable.\n\nProviders that deliver more value automatically win more traffic, so every provider has a reason to keep improving. And every time a provider gets better, so does your inference on OpenRouter."
+    },
+    {
+      "tweetId": "2115886732637807091",
+      "role": "support",
+      "authorHandle": "alexatallah",
+      "url": "https://x.com/alexatallah/status/2115886732637807091",
+      "tweetedAt": "2026-10-29T19:21:22.000Z",
+      "bestBit": "Our new routing algorithm dramatically raises the floor for inference on open-weight models.",
+      "text": "Our new routing algorithm dramatically raises the floor for inference on open-weight models.\n\nEarly head-to-head results vs. the old router:\n~20% faster time to first token\n~20% higher throughput\n~40% fewer fallbacks\n~60% fewer rate-limit errors",
+      "quotedTweetText": "We just shipped our biggest improvement to our provider router since the founding of OpenRouter.\n\nBefore, we prioritized mostly based on price. The new router now rewards the best quality inference for the actual cost of a request, so requests stay cheap but are also fast and reliable.\n\nProviders that deliver more value automatically win more traffic, so every provider has a reason to keep improving. And every time a provider gets better, so does your inference on OpenRouter."
+    }
+  ],
+  "isSuperseded": false
+}

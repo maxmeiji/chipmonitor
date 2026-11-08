@@ -1,0 +1,72 @@
+{
+  "slug": "salesforce-acquires-braze-for-566b-to-scale-agentforce-ai-e1d0057c",
+  "title": "Salesforce Acquires Braze for $5.66B to Scale Agentforce AI",
+  "publishedAt": "2026-10-20T12:23:41.520Z",
+  "eventTimeApprox": "2026-10-20T12:05:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 42,
+  "authorCount": 31,
+  "routingTopicKeys": [
+    "business",
+    "tech",
+    "ai",
+    "us-markets"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CRM",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Salesforce, Inc.",
+      "hubKey": "crm"
+    },
+    {
+      "ticker": "BRZE",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Braze, Inc. Class A Common Stock",
+      "hubKey": "brze"
+    }
+  ],
+  "summary": "A cash payout of $47.50 per share of Class A common stock will be delivered to Braze shareholders under a new definitive acquisition agreement with Salesforce. The deal values the customer engagement platform at approximately $5.66 billion in enterprise value, bringing real-time engagement technology into the sales and marketing cloud provider's ecosystem.\n\nThe transaction absorbs a competitor that had been poaching clients from Salesforce's own Marketing Cloud. The integration allows the company's Agentforce AI to act on live customer behavior and introduces a usage-based revenue model as the rise of AI agents challenges traditional per-seat software pricing.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112515463859077383",
+      "role": "source",
+      "authorHandle": "alphasenseinc",
+      "url": "https://x.com/AlphaSenseInc/status/2112515463859077383",
+      "tweetedAt": "2026-10-20T12:05:09.000Z",
+      "bestBit": "acquire Braze (NASDAQ: $BRZE), a leading customer engagement platform, for approximately $5.66 billion in enterprise value",
+      "text": "Salesforce Signs Definitive Agreement to Acquire Braze\n\n\"Salesforce (NYSE: $CRM), the world’s #1 AI CRM, today announced it has entered into a definitive agreement to acquire Braze (NASDAQ: $BRZE), a leading customer engagement platform, for approximately $5.66 billion in enterprise value. Under the terms of the agreement, holders of Braze Class A common stock will receive $47.50 in cash per share.\"\n\nhttps://t.co/alZbWLCxNd"
+    },
+    {
+      "tweetId": "2112516260219228351",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2112516260219228351",
+      "tweetedAt": "2026-10-20T12:08:19.000Z",
+      "bestBit": "The acquisition gives Agentforce ability to act on live customer behavior while adding Braze’s usage-based revenue model",
+      "text": "$CRM just agreed to acquire $BRZE for ~$5.7B in cash bringing in a real-time customer engagement platform that had been taking customers from Salesforce’s own Marketing Cloud.\n\nThe acquisition gives Agentforce ability to act on live customer behavior while adding Braze’s usage-based revenue model as AI agents increasingly challenge traditional per-seat software pricing."
+    }
+  ],
+  "isSuperseded": false
+}

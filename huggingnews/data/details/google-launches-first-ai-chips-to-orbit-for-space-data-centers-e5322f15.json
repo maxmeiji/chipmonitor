@@ -1,0 +1,120 @@
+{
+  "slug": "google-launches-first-ai-chips-to-orbit-for-space-data-centers-e5322f15",
+  "title": "Google Launches First AI Chips to Orbit for Space Data Centers",
+  "publishedAt": "2026-10-04T19:38:02.219Z",
+  "eventTimeApprox": "2026-10-01T11:24:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 35,
+  "authorCount": 27,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "space",
+      "name": "Space"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Planet Labs PBC",
+      "hubKey": "pl"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105811106841419835/HTlX6nrbAAAld38-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105811106841419835/HTlX6nrbAAAld38-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2105811106841419835"
+    }
+  },
+  "summary": "Four Trillium Tensor Processing Units were deployed into a sun-synchronous path on October 1 to test whether the hardware can maintain AI workloads without terrestrial cooling systems. Launched by SpaceX from Vandenberg, California, the refrigerator-sized prototype is part of 'Project Suncatcher' and runs Gemini inference in 15 minute bursts to prevent overheating in the vacuum of space. Google is partnering with Planet Labs on the Transporter-18 rideshare mission to evaluate the impact of cosmic radiation and physical stress on its custom AI accelerators.\n\nThe company aims to build scalable machine learning infrastructure in space to bypass land and electricity constraints, leveraging orbital solar panels that provide 8x more energy than ground based ones. Next year, Google plans to launch two additional satellites to test laser links capable of 800 Gbps for potential clusters of 81 satellites. Google estimates economic viability for a 1 GW orbital cluster may depend on launch costs falling to $200/kg by 2035 to approach the cost of terrestrial data centers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105803583648100611",
+      "role": "source",
+      "authorHandle": "google",
+      "url": "https://x.com/Google/status/2105803583648100611",
+      "tweetedAt": "2026-10-01T23:34:32.000Z",
+      "bestBit": "launched a prototype satellite carrying four TPUs into orbit on @SpaceX's Transporter-18 rideshare mission",
+      "text": "Up, up, and away. 🚀\n\nToday, in partnership with @planet, we launched a prototype satellite carrying four TPUs into orbit on @SpaceX's Transporter-18 rideshare mission. This launch is the first step of Project Suncatcher, our long-term research moonshot to see whether we can one day host scalable machine learning infrastructure in space.\n\nOver the coming weeks, we'll gather in-orbit data on how our TPUs handle the physical stress, radiation, and thermal extremes of space. Whatever we learn, we'll use it to refine our future designs."
+    },
+    {
+      "tweetId": "2105821230368706769",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "tweetedAt": "2026-10-02T00:44:40.000Z",
+      "bestBit": "Workloads are Gemini inference, in bursts of about 15 minutes, then shutdown so the radiators can catch up",
+      "text": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.\n\n> launched 1 October 2026 on SpaceX Falcon 9 Transporter-18 from Vandenberg, California.\n\n> Four Trillium TPUs (Google Cloud TPU v6e), roughly the compute of one data-center server / a small TPU slice.\n\n> Workloads are Gemini inference, in bursts of about 15 minutes, then shutdown so the radiators can catch up. Continuous operation is not possible on this prototype.\n\n> Cooling cannot use air or fans. Heat moves through thermal interface material into aluminum/copper heat pipes, then radiators that dump infrared into space.\n\n> Launch loads: the stack sees sustained acceleration around 10g (10 times normal Earth gravity); \nindividual components can see 50–100g.\n\n> Dawn-dusk sun-synchronous low Earth orbit, so the panels see near-continuous sunlight. In that orbit, space solar can deliver up to about 8× the energy of an equivalent ground panel (no atmosphere, weather, or night).\n\n > Google supplied the compute. About refrigerator-sized. Planned life about one year; designed to deorbit within roughly six years.\n\n> the original plan was two purpose-built satellites in 2027. Google put chips on an existing Planet bus to fly this year.\n\n> Radiation: proton-beam tests at UC Davis. Trillium showed no hard failures up to 15 krad(Si). HBM was the weak point, with irregularities after about 2 krad(Si), versus a shielded five-year dose requirement of about 750 rad(Si). Real risk in orbit is single-event bit flips from cosmic rays and solar particles, not just total dose.\n\n> 2027: two satellites to test high-bandwidth laser links between them.\n\n> Long-term design is tight formations, not lone satellites. A research paper models an 81-satellite cluster inside about a 1 km radius, using free-space optical links. A bench demo has already done 800 Gbps each way on one transceiver pair. Close formation is required because optical power falls with distance squared.\n\n> Future craft would carry dozens of TPUs each. Radiators and solar arrays would dwarf the chips — analysts have said radiators could approach airliner scale.\n\n> Scale claim from the program: on the order of 10,000 satellites for a 1 GW orbital cluster. BCG estimates today’s build-and-launch cost for that equivalent at about $30 billion. Earth still wins on cost; Google’s bet is launch-cost decline eventually closes the gap.\n https://t.co/hro8mrHPlA"
+    },
+    {
+      "tweetId": "2105818334532915706",
+      "role": "commentary",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2105818334532915706",
+      "tweetedAt": "2026-10-02T00:33:09.000Z",
+      "bestBit": "This is the first time we have put AI compute in space",
+      "text": "Google $GOOGL and Planet Labs $PL today successfully launched a prototype satellite in space with a Google TPU\n\nThis is the first time we have put AI compute in space \n\nThe prototype was taken to space on a SpaceX $SPCX rocket \n https://t.co/p8TkXeocVJ"
+    },
+    {
+      "tweetId": "2105752316867485882",
+      "role": "commentary",
+      "authorHandle": "axios",
+      "url": "https://x.com/axios/status/2105752316867485882",
+      "tweetedAt": "2026-10-01T20:10:49.000Z",
+      "bestBit": "test orbital data centers and \"energy beaming\"",
+      "text": "New satellites test orbital data centers and \"energy beaming\" https://t.co/rz6gqZ3NuC"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "planet-labs-makes-contact-with-google-first-orbital-ai-chips-f8c00d3d",
+    "title": "Planet Labs Makes Contact With Google First Orbital AI Chips",
+    "publishedAt": "2026-10-02T00:24:09.384Z",
+    "eventTimeApprox": "2026-10-01T11:24:08.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 30,
+    "authorCount": 25
+  }
+}

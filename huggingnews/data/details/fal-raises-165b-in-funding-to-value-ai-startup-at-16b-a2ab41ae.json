@@ -1,0 +1,72 @@
+{
+  "slug": "fal-raises-165b-in-funding-to-value-ai-startup-at-16b-a2ab41ae",
+  "title": "Fal Raises $1.65B in Funding to Value AI Startup at $16B",
+  "publishedAt": "2026-11-03T18:24:37.548Z",
+  "eventTimeApprox": "2026-11-03T18:06:35.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The San Francisco-based AI startup secured new capital through its most recent Series E and F investment rounds to expand its cloud compute capabilities. Led by Bessemer Venture Partners and Sequoia, the combined $1.65B raise includes participation from Nvidia and brings the company's valuation to $16B, double the $8B value it held in April.\n\nFounded in 2021 by former Amazon and Coinbase engineers, Fal provides the backend infrastructure for developers and studios to generate AI images, video and audio. The company has scaled to approximately 150 employees and reportedly hit $800M in annualized revenue this year, with high-volume professional clients spending up to $20K per month on the platform.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117679688860508283",
+      "role": "source",
+      "authorHandle": "fal",
+      "url": "https://x.com/fal/status/2117679688860508283",
+      "tweetedAt": "2026-11-03T18:05:57.000Z",
+      "bestBit": "Our Series E was led by @sequoia and our Series F was led by @BessemerVP with continued investment from @nvidia.",
+      "text": "Today, we’re announcing we raised our Series E & F rounds for a combined total of $1.65B. Our Series E was led by @sequoia and our Series F was led by @BessemerVP with continued investment from @nvidia.\n\nWe’re excited to push the boundaries of what’s possible even more next year and this funding will enable the team to build the way we want to."
+    },
+    {
+      "tweetId": "2117680975488704856",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2117680975488704856",
+      "tweetedAt": "2026-11-03T18:11:03.000Z",
+      "bestBit": "a source says it hit $800M in annualized revenue this year (@nmasc_ / Bloomberg)",
+      "text": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year (@nmasc_ / Bloomberg)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2117678362235957427",
+      "role": "analysis",
+      "authorHandle": "mollysoshea",
+      "url": "https://x.com/MollySOShea/status/2117678362235957427",
+      "tweetedAt": "2026-11-03T18:00:40.000Z",
+      "bestBit": "Professional users spend $10K–$20K/month generating AI media.",
+      "text": "BREAKING: @fal just raised $1.65 BILLION across its Series E & F\n\n› Series E led by @sequoia\n› Series F led by @BessemerVP\n\nI sat down w/ Co-Founders: CEO Burkay Gür (@burkaygur) & CTO Görkem Yurtseven (@gorkem) to discuss the explosive growth of generative media, which they believe is 1 of only 3 major product-market fits in AI, alongside search & coding agents.\n\nFounded in 2021 by former Coinbase & Amazon engineers, fal powers the infrastructure behind AI image, video, audio & 3D models, serving developers, studios & model labs.\n\nfal\n/faɫ/ · noun · Turkish\nPronounced approximately “fahl” (rhymes with doll in many American accents)\n\nDefinitions\n1. Fortune-telling; divination. The practice of predicting future events, particularly through interpreting coffee grounds, cards, or other symbols.\n\n2. Fortune; fate; luck. A person's destiny or prospects.\n\n3. Omen; augury. A sign interpreted as indicating what may happen in the future.\n\nA few highlights:\n›› Professional users spend $10K–$20K/month generating AI media.\n›› Video reached ~70% of fal's revenue before image editing drove a resurgence, bringing the mix back to 50/50.\n›› Demand continued growing even as premium AI video model prices jumped more than 10X.\n›› fal has scaled to ~150 employees with just 2 reporting levels.\n›› Compute shortages are shaping model launches, while the founders believe AI's strongest margins will be captured by infrastructure providers rather than applications.\n\n\"AI really has 3 product market fits. One of them is search. The other really clear one that's growing really fast now is coding agents. & the third one is, we believe, generative media.\"\n\nWe recorded at Dalida in San Francisco & got into fal's evolution from Python infrastructure, the economics of AI inference, Hollywood, robotics, world models & the future of compute.\n\nThis was SO much fun!!\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n(00:00) Burkay Gur & Gorkem Yurtseven, Co-Founders at fal\n(00:48) Why fal stopped chasing headlines\n(03:15) Why generative media is AI’s next big market\n(04:51) The infinite demand for AI videos\n(09:35) The future of AI-generated ads\n(13:19) How fal pivoted into generative media\n(18:02) Hiring people who live and breathe AI\n(23:01) Where AI meets Hollywood\n(24:29) From friends to Co-Founders\n(27:48) What a “Super IC” actually is\n(35:58) The hardest part of staying at the frontier\n(37:42) Why compute is the bottleneck for new models\n(41:55) Why AI models have such weird names\n(43:56) The story behind the name fal\n(45:12) Why open source isn't going anywhere\n(49:02) \"AI has had zero impact on Hollywood\"\n(53:39) Waiting for AI's Toy Story moment\n(56:58) Why Jack Dorsey is underrated\n(58:55) Why the application layer has no margins"
+    }
+  ],
+  "isSuperseded": false
+}

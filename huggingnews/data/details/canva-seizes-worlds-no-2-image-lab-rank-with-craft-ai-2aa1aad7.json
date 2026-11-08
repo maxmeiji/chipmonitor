@@ -1,0 +1,107 @@
+{
+  "slug": "canva-seizes-worlds-no-2-image-lab-rank-with-craft-ai-2aa1aad7",
+  "title": "Canva Seizes World's No. 2 Image Lab Rank With Craft AI",
+  "publishedAt": "2026-10-22T19:54:59.815Z",
+  "eventTimeApprox": "2026-10-22T19:26:58.500Z",
+  "isFreshStory": false,
+  "tweetCount": 30,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113354668571050187/HVQjKsoWsAAxR07-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113354668571050187/HVQjKsoWsAAxR07-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2113354668571050187"
+    }
+  },
+  "summary": "The latest image generation tool from Canva entered the DesignArena leaderboard in fourth place with an Elo score of 1340. Named Craft, the model outperformed rivals including Google's Nano Banana 2.1, Microsoft's MAI-Image-2.6, Meta's Muse Image 1.0, and ByteDance's Seedream 5.0 Pro, with only OpenAI models ranking higher. This debut elevates Canva to the position of the world's second-most advanced AI image lab globally.\n\nCraft was trained on human-designed templates such as infographics and posters rather than photographs to prioritize precise layout and placement. The model utilizes a two-stage process where a planner maps the composition before a renderer generates the final image at up to 2K resolution in 55 languages. It currently ranks first in DesignArena's portrait and landscape subcategories and is available via Dream Lab and a public API for developers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113348711019639190",
+      "role": "source",
+      "authorHandle": "canva",
+      "url": "https://x.com/canva/status/2113348711019639190",
+      "tweetedAt": "2026-10-22T19:16:11.000Z",
+      "bestBit": "Canva Craft debuted as the world's 4th most advanced image generation model on @DesignArena with an Elo score of 1340",
+      "text": "Canva Craft debuted as the world's 4th most advanced image generation model on @DesignArena with an Elo score of 1340.\n\nIt delivers exceptional visual quality and state-of-the-art text rendering, outperforming some of the world's leading frontier models. https://t.co/W5Z35uZR3G"
+    },
+    {
+      "tweetId": "2113349031762268476",
+      "role": "source",
+      "authorHandle": "designarena",
+      "url": "https://x.com/DesignArena/status/2113349031762268476",
+      "tweetedAt": "2026-10-22T19:17:27.000Z",
+      "bestBit": "it wins most often on photorealistic product and object shots... it also ranks #1 on the Portrait and Landscape subcategories",
+      "text": "Canva Craft, the first ever image model by @canva, takes the #4 spot on DesignArena's Image leaderboard. This makes Canva the #2 Image Lab after @OpenAI!\n\nNotably, it wins most often on photorealistic product and object shots, setting up studio-style lighting and detailed material textures on a single hero object. It also ranks #1 on the Portrait and Landscape subcategories.\n\nCongrats to the @canva team on the launch!"
+    },
+    {
+      "tweetId": "2113355960215650659",
+      "role": "commentary",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2113355960215650659",
+      "tweetedAt": "2026-10-22T19:44:59.000Z",
+      "bestBit": "ranked #4, ahead of Google’s Nano Banana 2.1, Microsoft’s MAI-Image-2.6, xAI’s Grok Imagine Image 2, Meta’s Muse Image 1.0 and ByteDance’s Seedream 5.0 Pro",
+      "text": "INSANE. Canva has launched its first image-generation model, Craft. In preliminary Design Arena testing, it ranked #4, ahead of Google’s Nano Banana 2.1, Microsoft’s MAI-Image-2.6, xAI’s Grok Imagine Image 2, Meta’s Muse Image 1.0 and ByteDance’s Seedream 5.0 Pro, with only OpenAI models ranking higher.\n\nUnlike most image models, Craft was trained on human-designed templates rather than photographs, including posters, presentations and infographics, with contributions from https://t.co/JvCmZ0HAJZ researchers. It plans spatial relationships, scale, hierarchy and text before rendering images at up to 2K resolution.",
+      "quotedTweetText": "Introducing Canva Craft 🚀\n\nExtraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\n\nWith Craft, Canva is now the world's second most advanced AI lab for image generation on @DesignArena's global leaderboard.\n\nSee what it can do 👇"
+    },
+    {
+      "tweetId": "2113350604215185432",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2113350604215185432",
+      "tweetedAt": "2026-10-22T19:23:42.000Z",
+      "bestBit": "built for better layouts and precise placement rather than generic image generation",
+      "text": "Canva just unveiled Craft which is its own AI image model built for better layouts and precise placement rather than generic image generation.\n\nAnother sign of how companies with proprietary data and distribution build their own specialized models. https://t.co/qVRLKNqT1N",
+      "quotedTweetText": "Introducing Canva Craft 🚀\n\nExtraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\n\nWith Craft, Canva is now the world's second most advanced AI lab for image generation on @DesignArena's global leaderboard.\n\nSee what it can do 👇"
+    },
+    {
+      "tweetId": "2113354668571050187",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2113354668571050187",
+      "tweetedAt": "2026-10-22T19:39:51.000Z",
+      "bestBit": "supports up to 2K resolution and text in 55 languages. It is available now in Dream Lab, with public API access for developers.",
+      "text": "CANVA JUST LAUNCHED ITS OWN AI IMAGE MODEL!\n\nIt’s called Craft. Canva says it now ranks 2ND among image-generation labs on DesignArena, behind OpenAI.\n\nIt uses a two-stage process: a planner maps out the layout, objects and exact text from your prompt, then a separate renderer generates the image.\n\nThis approach is designed for work like posters, ads and product mockups, where readable text and precise placement matter. Canva refined the model using feedback from professional designers.\n\nCraft supports up to 2K resolution and text in 55 languages. It is available now in Dream Lab, with public API access for developers.",
+      "quotedTweetText": "Introducing Canva Craft 🚀\n\nExtraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\n\nWith Craft, Canva is now the world's second most advanced AI lab for image generation on @DesignArena's global leaderboard.\n\nSee what it can do 👇"
+    },
+    {
+      "tweetId": "2113352933874041325",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2113352933874041325",
+      "tweetedAt": "2026-10-22T19:32:58.000Z",
+      "bestBit": "It can plan the composition before it renders anything",
+      "text": "Let's go!!! Extremely bullish on specialized models. \n\nAnd Canva just entered the frontier image model race.\n\nCraft is Canva's first image model for design, built by their Canva Research team. It can plan the composition before it renders anything.\n\nWe use Canva at our company, so it's exciting to see where this goes, given their expertise.",
+      "quotedTweetText": "Introducing Canva Craft 🚀\n\nExtraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\n\nWith Craft, Canva is now the world's second most advanced AI lab for image generation on @DesignArena's global leaderboard.\n\nSee what it can do 👇"
+    }
+  ],
+  "isSuperseded": false
+}

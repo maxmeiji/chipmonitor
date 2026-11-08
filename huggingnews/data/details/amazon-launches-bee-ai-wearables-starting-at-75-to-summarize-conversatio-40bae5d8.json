@@ -1,0 +1,63 @@
+{
+  "slug": "amazon-launches-bee-ai-wearables-starting-at-75-to-summarize-conversatio-40bae5d8",
+  "title": "Amazon Launches Bee AI Wearables Starting at $75 to Summarize Conversations",
+  "publishedAt": "2026-10-15T12:24:12.380Z",
+  "eventTimeApprox": "2026-10-15T12:10:42.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "wearables",
+      "name": "Wearables"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "summary": "The company released the Bee Frontier wristband and Bee Eclipse phone attachment to capture spoken conversations and convert them into reminders and to-do lists. The $74.99 Bee Frontier offers a 7 day battery life, while the magnetic Bee Eclipse attachment starts at $99.99 and lasts more than 21 days. Amazon stated that audio is processed in real time and is never stored.\n\nThe hardware integrates with Alexa+ and Amazon to provide personalized assistance and shopping recommendations. A monthly subscription to Bee Pro for the devices costs $12. The system is designed to remember daily interactions and transform them into concisely written summaries to help users track their activity.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110703074935267585",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2110703074935267585",
+      "tweetedAt": "2026-10-15T12:03:22.000Z",
+      "bestBit": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "text": "Amazon launches new Bee 'personal AI' devices that listen to conversations https://t.co/jEHjklA4zw"
+    },
+    {
+      "tweetId": "2110705036242112903",
+      "role": "support",
+      "authorHandle": "ftr_investors",
+      "url": "https://x.com/ftr_investors/status/2110705036242112903",
+      "tweetedAt": "2026-10-15T12:11:10.000Z",
+      "bestBit": "designed to remember conversations and turn them into summaries, reminders, and to-dos",
+      "text": "$AMZN Amazon introduces two new Bee AI devices designed to remember conversations and turn them into summaries, reminders, and to-dos 🐝\n\n⌚ Bee Frontier: Wearable AI device with 7-day battery life. $74.99.\n\n📱 Bee Eclipse: Magnetic phone attachment with 21+ days of battery life. From $99.99.\n\nBoth integrate with Alexa+ and Amazon com for personalized assistance and shopping recommendations.\n\nAudio is processed in real time and never stored 🔒"
+    }
+  ],
+  "isSuperseded": false
+}

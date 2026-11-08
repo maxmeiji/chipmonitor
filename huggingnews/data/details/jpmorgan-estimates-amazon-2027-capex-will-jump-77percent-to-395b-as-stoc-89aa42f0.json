@@ -1,0 +1,148 @@
+{
+  "slug": "jpmorgan-estimates-amazon-2027-capex-will-jump-77percent-to-395b-as-stoc-89aa42f0",
+  "title": "JPMorgan Estimates Amazon 2027 Capex Will Jump 77% to $395B as Stock Erases Post-Earnings Drop",
+  "publishedAt": "2026-11-02T15:36:30.879Z",
+  "eventTimeApprox": "2026-10-29T20:30:49.500Z",
+  "isFreshStory": false,
+  "tweetCount": 157,
+  "authorCount": 60,
+  "routingTopicKeys": [
+    "earnings",
+    "ai",
+    "us-markets",
+    "tech"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115898679639085442/HV0uictWwAA0Gqu-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115898679639085442/HV0uictWwAA0Gqu-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "stockmktnewz",
+      "tweetUrl": "https://x.com/StockMKTNewz/status/2115898679639085442"
+    }
+  },
+  "summary": "JPMorgan estimates Amazon will increase capital expenditures by about 77% to $395 billion in 2027 from roughly $220 billion planned for 2026, following management's guidance that next year's spending will be \"meaningfully more.\" Meanwhile, Amazon shares have rallied 11% from their 7.5% post-earnings drop on Thursday evening, leaving the stock up 3% from its close just before the third quarter report.\n\nOn the earnings call, CEO Andy Jassy said Amazon is installing an AI accelerator chip, either a GPU or custom Trainium processor, roughly every 14 seconds as customers consume capacity almost as fast as it comes online. Within Amazon Web Services, Bedrock token volume grew nearly 17-fold year over year, Fortune 500 spending on Bedrock rose almost sevenfold, and inference accounted for well over half of AWS AI revenue.\n\nThe stock rebound followed an initial selloff after third quarter revenue of $201.9 billion and earnings of $1.89 per share missed consensus estimates of $202.3 billion and $1.96, while quarterly capital spending hit $77.3 billion and pushed trailing 12 month free cash flow to negative $42.4 billion. Even so, operating income jumped 61% to $28.1 billion as AWS sales rose 39% to $46 billion, and Jassy projected the cloud division will grow more than 40% in both 2027 and 2028.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117276088204161067",
+      "role": "source",
+      "authorHandle": "bespokeinvest",
+      "url": "https://x.com/bespokeinvest/status/2117276088204161067",
+      "tweetedAt": "2026-11-02T15:22:11.000Z",
+      "bestBit": "At 8 PM ET last Thursday, Amazon $AMZN was down 7.5% following earnings.  Shares have rallied 11% since then, and the stock is now up 3% since the close right before it released its latest quarterly results.",
+      "text": "At 8 PM ET last Thursday, Amazon $AMZN was down 7.5% following earnings.  Shares have rallied 11% since then, and the stock is now up 3% since the close right before it released its latest quarterly results. https://t.co/VuyYDTfVld"
+    },
+    {
+      "tweetId": "2117273349835411565",
+      "role": "support",
+      "authorHandle": "yahoofinance",
+      "url": "https://x.com/YahooFinance/status/2117273349835411565",
+      "tweetedAt": "2026-11-02T15:11:18.000Z",
+      "bestBit": "$JPM estimates Amazon will step it up next year by about 77% to $395 billion",
+      "text": "$AMZN is going to spend $220 billion on capex this year. \n\nGoing forward? $JPM estimates Amazon will step it up next year by about 77% to $395 billion, @BrianSozzi says. 😧 https://t.co/4TdAMG1b4h"
+    },
+    {
+      "tweetId": "2115897266837794846",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115897266837794846",
+      "tweetedAt": "2026-10-29T20:03:14.000Z",
+      "bestBit": "Our AWS investment in functionality and infrastructure is working, with over 39% year-over-year revenue growth in Q3 ($184 billion revenue run rate) and projected revenue growth rates of over 40% both in 2027 and in 2028",
+      "text": "AMAZON $AMZN Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $201.9B (Est. $202.3B) 🟡; +12% YoY\n🔹 EPS: $1.89 (Est. $1.96) 🔴; w/ Anthropic gain\n🔹 Operating Income: $28.1B (Est. $26.2B) 🟢\n🔹 AWS Sales: $46.0B (Est. $45.4B) 🟢; +39% YoY\n🔹 CapEx: $77.3B (Est. $57.47B) 🟢\n\nQ4 Guide:\n🔹 Revenue: $240.0B-$247.0B (Est. $244.5B) 🟡\n🔹 Op. Income: $28.5B-$33.5B (Est. $33.1B) 🟡\n🔹 Revenue Growth: +12%-+16% YoY\n\nSegment Net Sales:\n🔹 North America: $112.9B (Est. $113.39B) 🔴\n🔹 International: $43.1B (Est. $43.21B) 🔴\n\nOther Q3 Metrics:\n🔹 Advertising: $19.6B (Est. $20.87B) 🔴\n🔹 Subscription: $14.0B (Est. $13.69B) 🟢\n🔹 AWS Operating Income: $17.8B\n🔹 Free Cash Flow (TTM): -$42.4B\n\nKey Updates:\n🔹 Anthropic: $9.5B pre-tax gain in Q3’25 included in non-operating income\n🔹 AWS: $184B annualized revenue run rate; over 39% YoY growth\n🔹 AgentCore: Tens of thousands of customers; 2x more agents deployed in Q3\n🔹 Alexa for Shopping: 400M+ customers; interactions up 570% YoY\n\nComments:\n🔸 “Our AWS investment in functionality and infrastructure is working, with over 39% year-over-year revenue growth in Q3 ($184 billion revenue run rate) and projected revenue growth rates of over 40% both in 2027 and in 2028”"
+    },
+    {
+      "tweetId": "2115914547416768678",
+      "role": "support",
+      "authorHandle": "edludlow",
+      "url": "https://x.com/EdLudlow/status/2115914547416768678",
+      "tweetedAt": "2026-10-29T21:11:54.000Z",
+      "bestBit": "CapEx \"meaningfully more\" in 2027 for Amazon than the $220 billion this year",
+      "text": "CapEx \"meaningfully more\" in 2027 for Amazon than the $220 billion this year"
+    },
+    {
+      "tweetId": "2115893949495730329",
+      "role": "analysis",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2115893949495730329",
+      "tweetedAt": "2026-10-29T19:50:03.000Z",
+      "bestBit": "Tonight Amazon is guided to $22.5–26.5bn of operating profit, up from $17.4bn a year ago.",
+      "text": "$AMZN reports after the bell today. Two years ago everyone said AWS was losing the AI race. Last quarter it grew 37%, its fastest in almost five years.\n\nTonight Amazon is guided to $22.5–26.5bn of operating profit, up from $17.4bn a year ago. Microsoft just guided Azure to ~50% and Google Cloud doubled, so cloud demand clearly isn't the problem. The question is how much of it AWS captures. We think a lot. PT $370. Overweight.",
+      "quotedTweetText": "$INTC reports after the bell today. A year ago people asked if Intel would survive. Last quarter sales grew 25%, the fastest in 15 years and margins jumped 12 points.\n\nAI agents run on CPUs and Intel's data center business is up almost 60%. Sales are guided to $15.8–16.8bn tonight. What we want to hear is more outside customers for the foundry and progress on 18A. Tonight is about how far it goes. PT $130. Overweight."
+    },
+    {
+      "tweetId": "2115897017247379885",
+      "role": "commentary",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2115897017247379885",
+      "tweetedAt": "2026-10-29T20:02:15.000Z",
+      "bestBit": "Tonight Amazon is guided to $22.5–26.5bn of operating profit, up from $17.4bn a year ago.",
+      "text": "@earnings_guy Fuckkk 10%",
+      "quotedTweetText": "$AMZN reports after the bell today. Two years ago everyone said AWS was losing the AI race. Last quarter it grew 37%, its fastest in almost five years.\n\nTonight Amazon is guided to $22.5–26.5bn of operating profit, up from $17.4bn a year ago. Microsoft just guided Azure to ~50% and Google Cloud doubled, so cloud demand clearly isn't the problem. The question is how much of it AWS captures. We think a lot. PT $370. Overweight."
+    },
+    {
+      "tweetId": "2115938479049990393",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2115938479049990393",
+      "tweetedAt": "2026-10-29T22:47:00.000Z",
+      "bestBit": "In those same three months it spent $77.3 billion on data centers and equipment, up from $35 billion a year ago.",
+      "text": "🦔Amazon’s cloud business, AWS, grew 39% last quarter. That’s its fastest growth in years. Earnings missed though. Amazon made $1.89 a share and Wall Street expected about $2. In those same three months it spent $77.3 billion on data centers and equipment, up from $35 billion a year ago.\n\nMy Take\nI don’t like where Amazon’s cash is going. Over the last 12 months it spent $42 billion more than it brought in, and it has borrowed about $115 billion this year to cover the difference. Jassy says AWS will grow over 40% in each of the next two years, and that’s how he justifies all of it. I’m not so sure. Microsoft and Google pitch investors the same story to defend the same kind of spending (Google borrowed too), and I think at least one of them ends up with way more data centers than customers. I just don’t know which one yet.\n\nHedgie🤗"
+    },
+    {
+      "tweetId": "2116183501301252546",
+      "role": "signal",
+      "authorHandle": "vestexchange",
+      "url": "https://x.com/VestExchange/status/2116183501301252546",
+      "tweetedAt": "2026-10-30T15:00:38.000Z",
+      "bestBit": "$AMZN missed Q3 revenue and EPS estimates after yesterday's close, with a trailing free cash flow outflow of $42.4B.",
+      "text": "$AMZN missed Q3 revenue and EPS estimates after yesterday's close, with a trailing free cash flow outflow of $42.4B.\n\n→ Revenue: $201.9B vs. $202.26B expected, up 12% YoY\n→ EPS: $1.89 vs. $1.96 expected\n→ AWS: $46.0B, up 39% YoY, its fastest growth in nearly five years\n→ Q4 revenue guide: $240.0B to $247.0B, midpoint below the $244.5B expected\n\nOn the session, shares are down around 1.7%, recovering from a decline of as much as 7% in extended trading, with Q3 capex at $77.3B against $35.1B a year earlier.\n\n$AMZN operating income rose to $28.1B from $17.4B, with 2026 cash capex held at around $220B."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "amazon-projects-higher-capex-in-2027-above-220b-pace-as-aws-backlog-hits-41aeb60e",
+    "title": "Amazon Projects Higher Capex in 2027 Above $220B Pace as AWS Backlog Hits $578B",
+    "publishedAt": "2026-10-29T21:38:12.460Z",
+    "eventTimeApprox": "2026-10-29T20:13:12.500Z",
+    "routingTopicKeys": [
+      "earnings",
+      "us-markets",
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 149,
+    "authorCount": 59
+  }
+}

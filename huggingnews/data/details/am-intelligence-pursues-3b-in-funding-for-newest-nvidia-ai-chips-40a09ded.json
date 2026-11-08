@@ -1,0 +1,55 @@
+{
+  "slug": "am-intelligence-pursues-3b-in-funding-for-newest-nvidia-ai-chips-40a09ded",
+  "title": "AM Intelligence Pursues $3B in Funding for Newest Nvidia AI Chips",
+  "publishedAt": "2026-10-30T03:51:50.649Z",
+  "eventTimeApprox": "2026-10-30T02:41:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The Indian infrastructure company is looking for financing to complete its order of high-end accelerators for artificial intelligence. AM Intelligence is attempting to raise as much as $3 billion to fund the purchase of the latest semiconductor systems from Nvidia, according to people familiar with the matter.\n\nThe funding would be used to acquire Vera Rubin systems, a next-generation line of chips that the firm had previously announced it intended to incorporate into its AI infrastructure operations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116012255254896685",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2116012255254896685",
+      "tweetedAt": "2026-10-30T03:40:09.000Z",
+      "bestBit": "Indian AI infrastructure firm AM Intelligence is seeking to raise as much as $3 billion to fund a previously announced purchase of Nvidia’s next-generation chips",
+      "text": "Indian AI infrastructure firm AM Intelligence is seeking to raise as much as $3 billion to fund a previously announced purchase of Nvidia’s next-generation chips, according to sources https://t.co/2nB8g3T515"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "80-organizations-seek-license-for-voice-arenas-first-asr-dataset-a86b19a9",
+  "title": "80 Organizations Seek License for Voice Arena’s First ASR Dataset",
+  "publishedAt": "2026-10-08T16:38:25.352Z",
+  "eventTimeApprox": "2026-10-08T16:24:51.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "Fine-tuning the 769M-parameter Whisper Medium model on the Monsoon dataset reduced the word error rate for Bengali FLEURS from 85.27% to 7.65%. This result for low-resource languages drove more than 80 organizations to request licenses for the automatic speech recognition (ASR) corpus within one week of its launch at the Interspeech conference in Sydney, Voice Arena announced.\n\nThe Monsoon corpus currently contains 100,000 hours of audio across 50 languages, primarily focusing on long-tail dialects. Voice Arena provides API access to the model so labs can verify performance on internal benchmarks, demonstrating that data volume can outperform model size in weak languages. The company will expand the dataset to 100 languages by February and 1,000 by the end of 2027.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108226876296904935",
+      "role": "source",
+      "authorHandle": "shobhitbanga",
+      "url": "https://x.com/shobhitbanga/status/2108226876296904935",
+      "tweetedAt": "2026-10-08T16:03:50.000Z",
+      "bestBit": "80+ organisations have asked to license Monsoon ASR corpus since we launched it seven days ago",
+      "text": "Crazy week for Voice Arena at Interspeech in Sydney. \n\n80+ organisations have asked to license Monsoon ASR corpus since we launched it seven days ago.\n\nThe most common reason why labs are interested: Monsoon promises results.\n\nWhen we decided to build datasets at Voice Arena, we set one rule. Either the dataset promises results, or we don't build it. \n\nMonsoon promises results. On Bengali FLEURS, fine-tuning Whisper Medium on Monsoon took its LLM word error rate from 85.27% down to 7.65%. The other thing labs like is that we give them access to our model API. They can test it on their own internal benchmarks and see for themselves whether it will improve their models.\n\nYou can see the detailed results and get API access here: https://t.co/m6RSiF9tWP\n\nMonsoon is 100,000 hours across 50 languages from around the world, and most of them are long-tail languages. 100 languages by February, 1,000 by the end of 2027.\n\nIt's only the first dataset Voice Arena has launched. We are excited to keep working on the key problems that get us closer to the dream of machines that talk like humans."
+    },
+    {
+      "tweetId": "2108234264877940776",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2108234264877940776",
+      "tweetedAt": "2026-10-08T16:33:12.000Z",
+      "bestBit": "Medium is the 769M-parameter Whisper. Small enough to serve cheaply, and in many settings small enough to run close to the user",
+      "text": "For ASR (automatic speech recognition) on weak languages, more training data tends to beat a bigger model.\n\n@voicearena_ai’s Bengali result for Monsoon, its ASR corpus, is shows it.\n\nWhisper Medium fine-tuned on Monsoon went from 85.27% to 7.65% LLM word error rate on Bengali FLEURS.\n\nMedium is the 769M-parameter Whisper. Small enough to serve cheaply, and in many settings small enough to run close to the user.",
+      "quotedTweetText": "Crazy week for Voice Arena at Interspeech in Sydney. \n\n80+ organisations have asked to license Monsoon ASR corpus since we launched it seven days ago.\n\nThe most common reason why labs are interested: Monsoon promises results.\n\nWhen we decided to build datasets at Voice Arena, we set one rule. Either the dataset promises results, or we don't build it. \n\nMonsoon promises results. On Bengali FLEURS, fine-tuning Whisper Medium on Monsoon took its LLM word error rate from 85.27% down to 7.65%. The other thing labs like is that we give them access to our model API. They can test it on their own internal benchmarks and see for themselves whether it will improve their models.\n\nYou can see the detailed results and get API access here: https://t.co/m6RSiF9tWP\n\nMonsoon is 100,000 hours across 50 languages from around the world, and most of them are long-tail languages. 100 languages by February, 1,000 by the end of 2027.\n\nIt's only the first dataset Voice Arena has launched. We are excited to keep working on the key problems that get us closer to the dream of machines that talk like humans."
+    },
+    {
+      "tweetId": "2108232165465186761",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2108232165465186761",
+      "tweetedAt": "2026-10-08T16:24:51.000Z",
+      "bestBit": "WER dropped from 85% to 7.65% on Bengali with one fine-tune",
+      "text": "WER dropped from 85% to 7.65% on Bengali with one fine-tune. \n\nNumbers like that are why 80 labs asked to license Monsoon in a week. What I respect most is the rule behind it: @voicearena_ai only builds a dataset if it moves the needle. Most data vendors can't say that.",
+      "quotedTweetText": "Crazy week for Voice Arena at Interspeech in Sydney. \n\n80+ organisations have asked to license Monsoon ASR corpus since we launched it seven days ago.\n\nThe most common reason why labs are interested: Monsoon promises results.\n\nWhen we decided to build datasets at Voice Arena, we set one rule. Either the dataset promises results, or we don't build it. \n\nMonsoon promises results. On Bengali FLEURS, fine-tuning Whisper Medium on Monsoon took its LLM word error rate from 85.27% down to 7.65%. The other thing labs like is that we give them access to our model API. They can test it on their own internal benchmarks and see for themselves whether it will improve their models.\n\nYou can see the detailed results and get API access here: https://t.co/m6RSiF9tWP\n\nMonsoon is 100,000 hours across 50 languages from around the world, and most of them are long-tail languages. 100 languages by February, 1,000 by the end of 2027.\n\nIt's only the first dataset Voice Arena has launched. We are excited to keep working on the key problems that get us closer to the dream of machines that talk like humans."
+    }
+  ],
+  "isSuperseded": false
+}

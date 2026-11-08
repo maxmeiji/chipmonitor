@@ -1,0 +1,58 @@
+{
+  "slug": "prime-intellect-launches-prime-inference-after-serving-trillions-of-toke-1945cb2d",
+  "title": "Prime Intellect Launches Prime Inference After Serving Trillions of Tokens",
+  "publishedAt": "2026-10-02T22:54:19.284Z",
+  "eventTimeApprox": "2026-10-02T22:17:09.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "summary": "The provider's new AI infrastructure now allows external users to access serverless endpoints and reserved capacity. Prime Intellect released its Prime Inference stack on Oct 2, moving a system that had previously processed trillions of tokens for reinforcement learning and dedicated customer deployments into general availability.\n\nThe company aims to give users more control over their artificial intelligence by enabling them to own their inference process. A full technical breakdown of the stack's architecture was published alongside the launch of the service.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106146483003384253",
+      "role": "source",
+      "authorHandle": "primeintellect",
+      "url": "https://x.com/PrimeIntellect/status/2106146483003384253",
+      "tweetedAt": "2026-10-02T22:17:06.000Z",
+      "bestBit": "served trillions of tokens for RL and dedicated customer deployments",
+      "text": "Introducing Prime Inference:\n\nWe've served trillions of tokens for RL and dedicated customer deployments\n\nTo own your intelligence, you need to own your inference\n\nUnpacking our inference stack https://t.co/bKYOkEk3Py"
+    },
+    {
+      "tweetId": "2106146497092067632",
+      "role": "source",
+      "authorHandle": "primeintellect",
+      "url": "https://x.com/PrimeIntellect/status/2106146497092067632",
+      "tweetedAt": "2026-10-02T22:17:09.000Z",
+      "bestBit": "available today with serverless endpoints and reserved capacity",
+      "text": "Prime Inference is available today with serverless endpoints and reserved capacity.\n\nRead the full technical breakdown:\n\nhttps://t.co/zAkludJgh8"
+    },
+    {
+      "tweetId": "2106148136196644895",
+      "role": "support",
+      "authorHandle": "willcb",
+      "url": "https://x.com/willcb/status/2106148136196644895",
+      "tweetedAt": "2026-10-02T22:23:40.000Z",
+      "bestBit": "Introducing Prime Inference",
+      "text": "RT @PrimeIntellect: Introducing Prime Inference:\n\nWe've served trillions of tokens for RL and dedicated customer deployments\n\nTo own your i…"
+    }
+  ],
+  "isSuperseded": false
+}

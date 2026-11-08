@@ -1,0 +1,70 @@
+{
+  "slug": "googles-share-of-enterprise-ai-api-spending-falls-to-9percent-9bbf9bdc",
+  "title": "Google's Share of Enterprise AI API Spending Falls to 9%",
+  "publishedAt": "2026-11-03T15:30:52.191Z",
+  "eventTimeApprox": "2026-11-03T14:29:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117619071953125643/HWNLSiJbIAEmRPF-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117619071953125643/HWNLSiJbIAEmRPF-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "menloventures",
+      "tweetUrl": "https://x.com/MenloVentures/status/2117619071953125643"
+    }
+  },
+  "summary": "Total spending on artificial intelligence for corporate use surged to $177B in 2026, a 5.4x increase from the $33B spent the previous year. A report from Menlo Ventures released Nov. 3 found that frontier labs now capture nearly 70% of that spend, compared to 50% in 2025.\n\nThe data highlights a shift in the enterprise API market, where Anthropic's share of expenditures grew from 40% to 55%. In contrast, Google's portion of the market declined to 9% from 21% the year before.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117619071953125643",
+      "role": "source",
+      "authorHandle": "menloventures",
+      "url": "https://x.com/MenloVentures/status/2117619071953125643",
+      "tweetedAt": "2026-11-03T14:05:04.000Z",
+      "bestBit": "enterprise AI spend skyrocketed 5.4x from $33B to $177B in a single year",
+      "text": "This just in: Menlo Ventures’ 2026 The State of Enterprise AI report is live.\n\nIn 2026, enterprise AI spend skyrocketed 5.4x from $33B to $177B in a single year.\n\nThe full report covers how AI became an economy-scale force this year, and shows where the dollars are going, which markets are working, and which models buyers choose.\n\nMore from @timt, @mejoff, @deedydas, and @derekgxiao: https://t.co/YTjYg03W0w"
+    },
+    {
+      "tweetId": "2117630185281302776",
+      "role": "commentary",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2117630185281302776",
+      "tweetedAt": "2026-11-03T14:49:14.000Z",
+      "bestBit": "Anthropic grew its share of enterprise API spending from 40% to 55%, while Google fell from 21% to 9%",
+      "text": "More bad news for Google:\n\n“Right now, the best models are capturing the lion’s share of enterprise,” said Deedy Das, Partner at Menlo Ventures. “Our data shows that frontier labs capture nearly seven of every ten dollars spent on enterprise AI, up from half last year. Anthropic grew its share of enterprise API spending from 40% to 55%, while Google fell from 21% to 9%. That’s how quickly the competitive landscape can change.\""
+    }
+  ],
+  "isSuperseded": false
+}

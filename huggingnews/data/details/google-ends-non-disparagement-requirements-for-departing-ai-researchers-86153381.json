@@ -1,0 +1,103 @@
+{
+  "slug": "google-ends-non-disparagement-requirements-for-departing-ai-researchers-86153381",
+  "title": "Google Ends Non-Disparagement Requirements for Departing AI Researchers",
+  "publishedAt": "2026-11-04T09:37:23.142Z",
+  "eventTimeApprox": "2026-11-03T19:45:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Google has stopped requiring that departing employees abide by non-disparagement agreements and has eliminated post-termination restrictions for new hires. A company spokesperson said Tuesday that Google does not enforce these clauses once workers leave the firm and maintains internal channels for employees to escalate concerns to executives.\n\nThe change follows a push from researchers at the UK-based Google DeepMind who argued that lifelong gag clauses prevented them from alerting the public to safety risks associated with artificial intelligence. One worker claimed that internal disclosures filed in September regarding the clauses went ignored, asserting that the policy reversal only occurred after the issue gained public and employee awareness.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117666620680421741",
+      "role": "source",
+      "authorHandle": "gerritd",
+      "url": "https://x.com/GerritD/status/2117666620680421741",
+      "tweetedAt": "2026-11-03T17:14:01.000Z",
+      "bestBit": "Google DeepMind researchers say their contracts are preventing them from participating in the public conversation about AI safety",
+      "text": "Google DeepMind researchers say their contracts are preventing them from participating in the public conversation about AI safety https://t.co/N1Kgoa2cik"
+    },
+    {
+      "tweetId": "2117895397519601727",
+      "role": "support",
+      "authorHandle": "haydnbelfield",
+      "url": "https://x.com/HaydnBelfield/status/2117895397519601727",
+      "tweetedAt": "2026-11-04T08:23:06.000Z",
+      "bestBit": "Recently, we’ve updated our terms for new hires, which included removing the post-termination aspect of non-disparagement clauses.",
+      "text": "“We’ve always encouraged an open dialogue about safety and responsibility,” a Google spokesperson said in an email Tuesday. “Recently, we’ve updated our terms for new hires, which included removing the post-termination aspect of non-disparagement clauses.”\n\nThe company does not enforce non-disparagement clauses after people leave Google, and it has dedicated, internal channels for workers to escalate concerns to top leaders, the spokesperson said.\n\nhttps://t.co/v7F3SXnk7q"
+    },
+    {
+      "tweetId": "2117910329569202182",
+      "role": "commentary",
+      "authorHandle": "blackhc",
+      "url": "https://x.com/BlackHC/status/2117910329569202182",
+      "tweetedAt": "2026-11-04T09:22:26.000Z",
+      "bestBit": "In September, I filed a protected disclosure at Google about non-disparagement clauses and related issues in September, and nothing was changed",
+      "text": "I don't believe internal channels for workers work at Google\n\nIn September, I filed a protected disclosure at Google about non-disparagement clauses and related issues in September, and nothing was changed\n\nOnly public and employee awareness got Google to drop this and say that",
+      "quotedTweetText": "“We’ve always encouraged an open dialogue about safety and responsibility,” a Google spokesperson said in an email Tuesday. “Recently, we’ve updated our terms for new hires, which included removing the post-termination aspect of non-disparagement clauses.”\n\nThe company does not enforce non-disparagement clauses after people leave Google, and it has dedicated, internal channels for workers to escalate concerns to top leaders, the spokesperson said.\n\nhttps://t.co/v7F3SXnk7q"
+    },
+    {
+      "tweetId": "2117738331697983813",
+      "role": "commentary",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2117738331697983813",
+      "tweetedAt": "2026-11-03T21:58:58.000Z",
+      "bestBit": "Google DeepMind employees in the UK are fighting contract clauses that BAN staff from publicly criticizing Google FOR LIFETIME, even after quitting.",
+      "text": "WTF. Google DeepMind employees in the UK are fighting contract clauses that BAN staff from publicly criticizing Google FOR LIFETIME, even after quitting. Workers fear the restrictions could stop them from warning the public about AI risks they discover through their work.\n\nDozens discussed the clauses internally, with some invoking '1984,' per The Washington Post."
+    },
+    {
+      "tweetId": "2117682730884542663",
+      "role": "analysis",
+      "authorHandle": "robertwiblin",
+      "url": "https://x.com/robertwiblin/status/2117682730884542663",
+      "tweetedAt": "2026-11-03T18:18:02.000Z",
+      "bestBit": "This month Anthropic, OpenAI and GDM gave us a counterproductive AI bill, dubious firings and fresh clauses gagging staff.",
+      "text": "Laying into AI companies is more effective than you might think.\n\nGag clauses torn up.\n~$75bn moved to the OpenAI Foundation.\nOpenAI flipped on SB315.\nBrockman quit his SuperPAC.\nAnthropic backpedalled on its federal bill.\n\nReporters, lawyers, ex-staff, and shitposters on X got it done – with huge help from staff speaking up internally.\n\nThis month Anthropic, OpenAI and GDM gave us a counterproductive AI bill, dubious firings and fresh clauses gagging staff.\n\nIf you work at one of these companies: it's time to post in #general (metaphorically or maybe literally).\n\nIf you don't: consider becoming a sophisticated and strategic pain in the ass for these companies when they do bad things.\n\nIt’s a neglected career and probably high impact, especially for people who really get what's going on. I explain some options:\n\n00:00 We need a stronger effort to push AI companies to do better\n01:14 Anthropic: who gets to pull the brake?\n07:14 OpenAI fires three safety researchers\n12:44 Google DeepMind’s lifelong gag clause\n5:39 Credit where it’s due\n16:34 How to make AI companies behave better\n17:31 Insiders: if you want to stay\n18:40 Insiders: if you’re willing to leave\n19:37 So… should you leave?\n20:39 Outsiders: what’s already worked\n22:51 Outsiders: digging up and explaining\n25:12 Outsiders: reaching the public and politicians\n00:27:52 Keep the pressure on\n\n(On the 80,000 Hours Podcast, links below.)"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "google-deepmind-staff-urge-end-to-bans-on-discussing-ai-safety-risks-217cc00f",
+    "title": "Google DeepMind Staff Urge End to Bans on Discussing AI Safety Risks",
+    "publishedAt": "2026-11-03T18:41:28.263Z",
+    "eventTimeApprox": "2026-11-03T18:01:30.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business"
+    ],
+    "tweetCount": 8,
+    "authorCount": 8
+  }
+}

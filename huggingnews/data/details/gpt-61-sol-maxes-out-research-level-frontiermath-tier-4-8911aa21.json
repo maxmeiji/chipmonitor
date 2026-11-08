@@ -1,0 +1,58 @@
+{
+  "slug": "gpt-61-sol-maxes-out-research-level-frontiermath-tier-4-8911aa21",
+  "title": "GPT-6.1 Sol Maxes Out Research Level FrontierMath Tier 4",
+  "publishedAt": "2026-10-03T04:23:15.952Z",
+  "eventTimeApprox": "2026-10-02T23:28:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106129595959251214/HTpv6HjaEAADry7-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106129595959251214/HTpv6HjaEAADry7-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "haider1",
+      "tweetUrl": "https://x.com/haider1/status/2106129595959251214"
+    }
+  },
+  "summary": "The latest mathematical AI has achieved a perfect score on a testing suite previously deemed too difficult for most human researchers. The model, known as GPT-6.1 Sol, reached this performance ceiling after a development period of 10 months.\n\nThe agent saturated the FrontierMath Tier 4 benchmark, which was considered exceptionally difficult even for research-level mathematics last year. In a separate development, an AI named Astra solved 5 Erdős problems, completing 2 of them under the assigned budget.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106129595959251214",
+      "role": "source",
+      "authorHandle": "haider1",
+      "url": "https://x.com/haider1/status/2106129595959251214",
+      "tweetedAt": "2026-10-02T21:10:00.000Z",
+      "bestBit": "Astra solved 5 erdős problems, and 2 of them under budget",
+      "text": "gpt-6.1 sol has saturated the FrontierMath Tier 4 benchmark that was considered exceptionally difficult even for research-level math just last year\n\nthat's only 10 months of progress\n\nalso Astra solved 5 erdős problems, and 2 of them under budget"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "metas-muse-ai-agent-expands-to-mexico-and-opens-voice-video-access-to-al-7de5cac8",
+  "title": "Meta's Muse AI Agent Expands to Mexico and Opens Voice Video Access to All US Users",
+  "publishedAt": "2026-11-05T23:09:41.462Z",
+  "eventTimeApprox": "2026-11-05T20:17:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 26,
+  "authorCount": 18,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118411432161403375/oTYD4b99rKEkFugq-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118411432161403375/oTYD4b99rKEkFugq-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2118411099657883648/vid/avc1/1260x2736/5ix3sUfBVKVbzaBd.mp4?tag=29",
+    "credit": {
+      "handle": "alexandr_wang",
+      "tweetUrl": "https://x.com/alexandr_wang/status/2118411432161403375"
+    }
+  },
+  "summary": "The Muse assistant is now open to residents of Mexico, as the company expanded the availability of its conversational agent to the new market. Simultaneously, Meta broadened access to the app's real-time voice and video capabilities in the U.S., enabling all domestic users to hold live, lip-synced calls with AI agents that can be styled as people, animals, or other objects.\n\nThe software's video agents use a student model that reproduces the output of a teacher model in 2 passes per video chunk instead of 120, which supports portrait video at 25 frames per second. Meta stated that the integration of 4-bit quantization and dynamic batching allows one Nvidia GB200 to handle 12 concurrent video streams, with the agent beginning its reply about 870 milliseconds after a user stops speaking.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118410617698517088",
+      "role": "source",
+      "authorHandle": "finkd",
+      "url": "https://x.com/finkd/status/2118410617698517088",
+      "tweetedAt": "2026-11-05T18:30:24.000Z",
+      "bestBit": "Now in the Muse app: talk with your Muse in real time. And pick from multiple voices",
+      "text": "Now in the Muse app: talk with your Muse in real time. And pick from multiple voices 🗣️"
+    },
+    {
+      "tweetId": "2118412135340572850",
+      "role": "source",
+      "authorHandle": "aiatmeta",
+      "url": "https://x.com/AIatMeta/status/2118412135340572850",
+      "tweetedAt": "2026-11-05T18:36:25.000Z",
+      "bestBit": "Today, we’re rolling it out in the @Muse app in the US, giving people a more natural way to engage with their personal agents.",
+      "text": "During Connect, we previewed Muse Realtime Avatar, our real-time embodiment technology that turns Muse Realtime Voice into expressive, interactive avatars.\n\nToday, we’re rolling it out in the @Muse app in the US, giving people a more natural way to engage with their personal agents.\n\nLearn more about Muse Realtime Avatar on our research blog: https://t.co/V2cSOHunRw"
+    },
+    {
+      "tweetId": "2118475468890575278",
+      "role": "source",
+      "authorHandle": "dps",
+      "url": "https://x.com/dps/status/2118475468890575278",
+      "tweetedAt": "2026-11-05T22:48:05.000Z",
+      "bestBit": "We're live in Mexico! Excited to keep bringing @muse to more people.",
+      "text": "We're live in Mexico! Excited to keep bringing @muse to more people. https://t.co/C0oBDkDUgI",
+      "quotedTweetText": "from la playa to the pyramids, so much for Muse to explore! https://t.co/T2OeSwWvR8, now in México 🇲🇽 https://t.co/UlS8eEMvAz"
+    },
+    {
+      "tweetId": "2118428749553393788",
+      "role": "analysis",
+      "authorHandle": "dps",
+      "url": "https://x.com/dps/status/2118428749553393788",
+      "tweetedAt": "2026-11-05T19:42:27.000Z",
+      "bestBit": "We built Muse Realtime Voice and Muse Realtime Avatar to keep the voice, expressions and gestures in sync.",
+      "text": "We built Muse Realtime Voice and Muse Realtime Avatar to keep the voice, expressions and gestures in sync. It responds right away, and you can jump in while it’s talking.\n\nProud of the team that built this!",
+      "quotedTweetText": "Introducing Voice. Talk to your Muse and Muse talks back, so you can go from “what should I cook?” to cooking, just like that ✨ https://t.co/pEcRTqPkn2"
+    },
+    {
+      "tweetId": "2118424446612758841",
+      "role": "commentary",
+      "authorHandle": "altryne",
+      "url": "https://x.com/altryne/status/2118424446612758841",
+      "tweetedAt": "2026-11-05T19:25:21.000Z",
+      "bestBit": "Meta is training a custom model on every custom avatar, and so this is more that just talking, you can see your muse talking back at you!",
+      "text": "I've had access to this incredible voice mode with Wolfred for a bit, and it's mindblowing. It's like facetime!\n\nMeta is training a custom model on every custom avatar, and so this is more that just talking, you can see your muse talking back at you! \n\nHere's an example of mine https://t.co/XXCzSqdFVM",
+      "quotedTweetText": "Now in the Muse app: talk with your Muse in real time. And pick from multiple voices 🗣️"
+    },
+    {
+      "tweetId": "2118445350621171974",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2118445350621171974",
+      "tweetedAt": "2026-11-05T20:48:25.000Z",
+      "bestBit": "Adding 4-bit quantization, caching and dynamic batching lets a single Nvidia GB200 run 12 video streams at once.",
+      "text": "Meta just opened live video calls with its Muse AI agent to every US user.\n\nCallers see an animated avatar they can restyle as a person, animal or other character, and it reacts while listening.\n\nMuse Realtime Voice emits speech tokens carrying words and delivery, and Muse Realtime Avatar turns the same stream into lip-synced video.\n\nTo run that live, Meta trained a student model to reproduce in 2 passes per video chunk what a teacher built in 120.\n\nthe system streams 448x768 portrait video at 25 frames per second and starts replying about 870ms after a user stops talking.\n\nAdding 4-bit quantization, caching and dynamic batching lets a single Nvidia GB200 run 12 video streams at once.\n\nIn company-run tests of 2- to 3-minute calls, raters preferred the avatar to Runway Characters 78% to 22% and HeyGen LiveAvatar 88% to 12%.\n\nAt 12 streams per GB200, 1M simultaneous callers would need about 83K of them for video alone, so serving cost could cap the avatar’s reach."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "meta-debuts-real-time-ai-voice-avatars-for-us-muse-app-users-bb19aa94",
+    "title": "Meta Debuts Real-Time AI Voice Avatars for US Muse App Users",
+    "publishedAt": "2026-11-05T19:38:57.903Z",
+    "eventTimeApprox": "2026-11-05T19:06:37.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 16,
+    "authorCount": 13
+  }
+}

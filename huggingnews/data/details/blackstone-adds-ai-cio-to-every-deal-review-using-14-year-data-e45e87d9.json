@@ -1,0 +1,54 @@
+{
+  "slug": "blackstone-adds-ai-cio-to-every-deal-review-using-14-year-data-e45e87d9",
+  "title": "Blackstone Adds AI CIO to Every Deal Review Using 14 Year Data",
+  "publishedAt": "2026-10-19T18:38:21.683Z",
+  "eventTimeApprox": "2026-10-19T14:28:47.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "BX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Blackstone Inc.",
+      "hubKey": "bx"
+    }
+  ],
+  "summary": "The private equity firm now requires an artificial intelligence model to generate a review memo for nearly every potential investment it considers. This AI chief investment officer is trained on a proprietary dataset comprising more than 14 years of the firm's internal deal memos and debates, and its output is read alongside the analysis provided by the human deal team. The tool does not have a vote in final investment decisions.\n\nThe implementation embeds automated analysis based on over a decade of historical transaction data directly into the deal review process. The shift requires investment teams to evaluate machine-generated critiques of new opportunities before pursuing a transaction.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112189029735424091",
+      "role": "source",
+      "authorHandle": "trungtphan",
+      "url": "https://x.com/TrungTPhan/status/2112189029735424091",
+      "tweetedAt": "2026-10-19T14:28:01.000Z",
+      "bestBit": "Every potential new Blackstone investment requires reading of two memos now: a deal team memo and one from AI CIO",
+      "text": "Blackstone created an AI chief investment officer, which is trained on 14 years of the PE firm’s internal deal memos and debates. \n\nEvery potential new Blackstone investment requires reading of two memos now: a deal team memo and one from AI CIO (it doesn’t have a vote, though). https://t.co/c1IwFhXtOm"
+    }
+  ],
+  "isSuperseded": false
+}

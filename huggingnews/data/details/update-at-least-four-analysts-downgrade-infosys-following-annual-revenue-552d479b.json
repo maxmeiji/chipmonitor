@@ -1,0 +1,99 @@
+{
+  "slug": "update-at-least-four-analysts-downgrade-infosys-following-annual-revenue-552d479b",
+  "title": "UPDATE: At Least Four Analysts Downgrade Infosys Following Annual Revenue Guidance Cut",
+  "publishedAt": "2026-10-27T07:08:37.529Z",
+  "eventTimeApprox": "2026-10-23T16:40:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "earnings",
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "INFY",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Infosys Limited American Depositary Shares",
+      "hubKey": "infy"
+    }
+  ],
+  "summary": "The Indian software exporter saw its stock ratings tumble on Oct. 27 as at least four analysts downgraded the firm in a single day. The wave of cuts followed a reduction in the company's annual revenue outlook, highlighting growing investor anxiety that artificial intelligence is beginning to disrupt the traditional business models of the IT outsourcing sector.\n\nInfosys shares fell 7.7% in U.S. pre-market trading after the company lowered its FY27 constant currency revenue growth forecast to a range of 1% to 2%. The revised guidance comes as corporate clients scale back expenditures on IT projects, contributing to a second-quarter revenue of $5.15B that missed estimates of $5.19B.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113603422146502736",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2113603422146502736",
+      "tweetedAt": "2026-10-23T12:08:19.000Z",
+      "bestBit": "Revenue: $5.15B (Est. $5.19B)",
+      "text": "INFOSYS $INFY Q2’27 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $5.15B (Est. $5.19B) 🔴; +1.3% YoY\n🔹 Diluted EPS: $0.20 (Est. $0.21) 🔴\n🔹 Operating Margin: 21.0%\n🔹 CC Revenue Growth: +1.5% YoY; +1.2% QoQ\n\nFY27 Guide:\n🔹 Revenue Growth: 1%-2%; constant currency\n🔹 Operating Margin: 20%-22%\n\nOther Q2 Metrics:\n🔹 Large Deal TCV: $5.2B; 62% net new\n🔹 FCF: $928M; 113.3% of net profit\n🔹 AI Share of Revenue: 10.5%\n🔹 EPS Growth (Rupee Terms): +8.7% YoY\n\nKey Updates:\n🔹 Interim Dividend: ₹26 per share\n\nComments:\n🔸 “Our AI revenue was at 10.5% and grew 29% quarter-on-quarter.”"
+    },
+    {
+      "tweetId": "2114965355139346432",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2114965355139346432",
+      "tweetedAt": "2026-10-27T06:20:09.000Z",
+      "bestBit": "Infosys was downgraded by at least four analysts in a single day",
+      "text": "Infosys was downgraded by at least four analysts in a single day after India’s second-largest software exporter cut its annual sales forecast, deepening concerns over disruption from artificial intelligence. https://t.co/W2sm65y7JP"
+    },
+    {
+      "tweetId": "2113671835296395651",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2113671835296395651",
+      "tweetedAt": "2026-10-23T16:40:10.000Z",
+      "bestBit": "Infosys lowered its annual sales forecast in a sign companies continue to curb spending on major information technology projects",
+      "text": "Infosys lowered its annual sales forecast in a sign companies continue to curb spending on major information technology projects https://t.co/VAP4tueaKY"
+    },
+    {
+      "tweetId": "2113613561067188651",
+      "role": "source",
+      "authorHandle": "openoutcrier",
+      "url": "https://x.com/OpenOutcrier/status/2113613561067188651",
+      "tweetedAt": "2026-10-23T12:48:36.000Z",
+      "bestBit": "$INFY (-7.7% pre) Infosys’ U.S. shares tumble after revenue outlook cut",
+      "text": "$INFY (-7.7% pre) Infosys’ U.S. shares tumble after revenue outlook cut\n\nhttps://t.co/1Lc72SfIqo"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "infosys-cuts-annual-revenue-growth-forecast-to-1percent-2percent-d1cfc1d4",
+    "title": "Infosys Cuts Annual Revenue Growth Forecast to 1%-2%",
+    "publishedAt": "2026-10-23T16:52:54.817Z",
+    "eventTimeApprox": "2026-10-23T12:48:36.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "tech"
+    ],
+    "tweetCount": 4,
+    "authorCount": 3
+  }
+}

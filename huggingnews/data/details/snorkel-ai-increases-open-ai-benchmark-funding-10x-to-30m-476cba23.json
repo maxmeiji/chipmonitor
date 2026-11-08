@@ -1,0 +1,54 @@
+{
+  "slug": "snorkel-ai-increases-open-ai-benchmark-funding-10x-to-30m-476cba23",
+  "title": "Snorkel AI Increases Open AI Benchmark Funding 10x to $30M",
+  "publishedAt": "2026-10-07T22:38:16.150Z",
+  "eventTimeApprox": "2026-10-07T21:02:18.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "A series of new initiatives from Snorkel AI aims to prevent AI benchmarks from becoming obsolete as large-scale models evolve. The company has increased its financial commitment to the Open Benchmarks Grants tenfold to $30 million to support a more diverse and continuously updated ecosystem of open measurement tools. This expansion includes the launch of an Open Benchmarks Red Team to test and strengthen existing benchmarks and the introduction of the Snorkel Research Fellowship for contributors developing new evaluation methods.\n\nThe investment targets the risk of \"benchmaxxing,\" where frontier models are optimized for specific tests rather than actual intelligence, rendering metrics static or too simple. Snorkel AI has already collaborated with the developers of Terminal-Bench, ARC-AGI-3, and OSWorld 2.0, and the company noted that its funded benchmarks are currently featured on model cards from every major frontier lab to index progress and alignment.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107929695132196956",
+      "role": "source",
+      "authorHandle": "vincentsunnchen",
+      "url": "https://x.com/vincentsunnchen/status/2107929695132196956",
+      "tweetedAt": "2026-10-07T20:22:57.000Z",
+      "bestBit": "expanding @SnorkelAI’s Open Benchmarks Grants by 10x to a $30M commitment",
+      "text": "Today, we’re expanding @SnorkelAI’s Open Benchmarks Grants by 10x to a $30M commitment: \n- Funding a more diverse, robust, and continuously-updated ecosystem of open benchmarks\n- Launching the Open Benchmarks Red Team to continually test and strengthen them\n- Introducing the Snorkel Research Fellowship to support independent contributors developing new evaluation methods\n\nSince our launch earlier this year, we’ve been humbled to partner with the teams behind Terminal-Bench, TB-Science, ARC-AGI-3, OSWorld 2.0, Agents’ Last Exam, Continual Learning Bench, Senior SWE-Bench, SlopCodeBench, and more. Alongside these teams, we’ve helped design evaluation methodologies, develop task construction pipelines, and scale quality control. OBG-funded benchmarks have appeared on the latest model cards from every major frontier lab; have helped to index and measure frontier progress and alignment; and have contributed to guiding the frontier of AI development.\n\nBenchmarks have always been guideposts for—and drivers of— AI progress: setting a metric and then “hillclimbing” against it is the core of how AI works! But when benchmarks fall behind frontier capabilities, our ability to evaluate and align these systems does as well. They become too simple, static, or correlated, and the risk of “benchmaxxing” increases.\n\nWe need more diverse, robust, and continuously-updated benchmarks, developed by a broader ecosystem of researchers and domain leaders.\nWe’re incredibly excited to accelerate frontier evaluation with Open Benchmarks Grants— raising the ambition and investment in robust, open, and independent measurement. Read our full announcement and apply here: https://t.co/E5kfZQ0Im5"
+    },
+    {
+      "tweetId": "2107939598613582009",
+      "role": "commentary",
+      "authorHandle": "lvwerra",
+      "url": "https://x.com/lvwerra/status/2107939598613582009",
+      "tweetedAt": "2026-10-07T21:02:18.000Z",
+      "bestBit": "Amazing to see more funding for the most fundamental tool for AI right now: strong benchmarks!",
+      "text": "Amazing to see more funding for the most fundamental tool for AI right now: strong benchmarks!",
+      "quotedTweetText": "Today, we’re expanding @SnorkelAI’s Open Benchmarks Grants by 10x to a $30M commitment: \n- Funding a more diverse, robust, and continuously-updated ecosystem of open benchmarks\n- Launching the Open Benchmarks Red Team to continually test and strengthen them\n- Introducing the Snorkel Research Fellowship to support independent contributors developing new evaluation methods\n\nSince our launch earlier this year, we’ve been humbled to partner with the teams behind Terminal-Bench, TB-Science, ARC-AGI-3, OSWorld 2.0, Agents’ Last Exam, Continual Learning Bench, Senior SWE-Bench, SlopCodeBench, and more. Alongside these teams, we’ve helped design evaluation methodologies, develop task construction pipelines, and scale quality control. OBG-funded benchmarks have appeared on the latest model cards from every major frontier lab; have helped to index and measure frontier progress and alignment; and have contributed to guiding the frontier of AI development.\n\nBenchmarks have always been guideposts for—and drivers of— AI progress: setting a metric and then “hillclimbing” against it is the core of how AI works! But when benchmarks fall behind frontier capabilities, our ability to evaluate and align these systems does as well. They become too simple, static, or correlated, and the risk of “benchmaxxing” increases.\n\nWe need more diverse, robust, and continuously-updated benchmarks, developed by a broader ecosystem of researchers and domain leaders.\nWe’re incredibly excited to accelerate frontier evaluation with Open Benchmarks Grants— raising the ambition and investment in robust, open, and independent measurement. Read our full announcement and apply here: https://t.co/E5kfZQ0Im5"
+    }
+  ],
+  "isSuperseded": false
+}

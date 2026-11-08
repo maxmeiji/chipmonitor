@@ -1,0 +1,59 @@
+{
+  "slug": "intel-samples-d-series-gpus-and-shifts-to-open-agentic-ai-infrastructure-22a92634",
+  "title": "Intel Samples D-Series GPUs and Shifts to Open Agentic AI Infrastructure",
+  "publishedAt": "2026-10-12T21:03:18.742Z",
+  "eventTimeApprox": "2026-10-12T19:39:35.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    }
+  ],
+  "summary": "Initial shipments of the company's new graphics processors have reached customer sites to enable the build-out of autonomous AI agents. Intel has begun sampling its D-Series GPUs and expanding its associated infrastructure to accelerate the development of open platforms for the emerging agentic AI era.\n\nThe strategy marks a transition toward standardized, vendor-neutral architecture instead of the proprietary solutions typically used in the industry. By prioritizing interoperable systems, Intel intends to capture demand from enterprise customers deploying autonomous AI across diverse and mixed hardware environments.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109730723272036721",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2109730723272036721",
+      "tweetedAt": "2026-10-12T19:39:35.000Z",
+      "bestBit": "INTEL HAS BEGUN CUSTOMER SAMPLING OF ITS D-SERIES GPUS AND IS EXPANDING ITS AGENTIC AI INFRASTRUCTURE",
+      "text": "INTEL HAS BEGUN CUSTOMER SAMPLING OF ITS D-SERIES GPUS AND IS EXPANDING ITS AGENTIC AI INFRASTRUCTURE, ACCELERATING DEVELOPMENT OF OPEN INFRASTRUCTURE TO SUPPORT THE EMERGING AGENTIC AI ERA"
+    },
+    {
+      "tweetId": "2109742500676280637",
+      "role": "analysis",
+      "authorHandle": "photoncap",
+      "url": "https://x.com/PhotonCap/status/2109742500676280637",
+      "tweetedAt": "2026-10-12T20:26:23.000Z",
+      "bestBit": "positioning itself in the emerging agentic AI market by emphasizing open, interoperable infrastructure rather than proprietary solutions",
+      "text": "- $INTC announces strategic focus on open infrastructure platforms to support agentic AI deployment\n- Positioning reflects shift toward standardized, vendor-neutral AI systems architecture\n\n> $INTC is positioning itself in the emerging agentic AI market by emphasizing open, interoperable infrastructure rather than proprietary solutions.\n> This strategy aims to capture demand from customers building autonomous AI systems across diverse hardware environments."
+    }
+  ],
+  "isSuperseded": false
+}

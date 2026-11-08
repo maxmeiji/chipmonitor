@@ -1,0 +1,130 @@
+{
+  "slug": "sk-hynix-sees-ai-memory-shortage-persisting-through-2030-a7087e4e",
+  "title": "SK Hynix Sees AI Memory Shortage Persisting Through 2030",
+  "publishedAt": "2026-10-28T02:24:16.249Z",
+  "eventTimeApprox": "2026-10-20T21:32:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 197,
+  "authorCount": 60,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "subject",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    },
+    {
+      "ticker": "DELL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Dell Technologies Inc.",
+      "hubKey": "dell"
+    }
+  ],
+  "summary": "The South Korean chipmaker announced that its production capacity for high-bandwidth memory and DRAM is already effectively exhausted for the next several years, with the majority of its volumes through 2029 committed to customers. To support shareholders following a recent decline in its stock price, SK Hynix declared it would distribute at least 50% of its cumulative free cash flow between 2025 and 2027, which includes $75B in dividends and buybacks for the 2026 calendar year.\n\nThe outlook that the global memory shortage will likely persist through 2030 comes as the firm reported quarterly revenue of $78.9B and operating profit of $62.8B, both of which beat market estimates. These results and the projection of long-term demand contrast with fears of a 2027 oversupply that have weighed on memory stocks recently, though Dell CEO Michael Dell warned that the current chip crunch could worsen in the short term as he manages a $95B backlog of AI servers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115258287193252082",
+      "role": "source",
+      "authorHandle": "kalshi_finance",
+      "url": "https://x.com/Kalshi_Finance/status/2115258287193252082",
+      "tweetedAt": "2026-10-28T01:44:09.000Z",
+      "bestBit": "Revenue: $78.9B vs. $74.8B est.",
+      "text": "JUST IN: SK Hynix $SKHY reports:\n\n• Revenue: $78.9B vs. $74.8B est. \n• Operating Profit: $62.8B vs. $58.5B est."
+    },
+    {
+      "tweetId": "2115265167919653233",
+      "role": "commentary",
+      "authorHandle": "aleabitoreddit",
+      "url": "https://x.com/aleabitoreddit/status/2115265167919653233",
+      "tweetedAt": "2026-10-28T02:11:30.000Z",
+      "bestBit": "SK Hynix announced $75B in shareholder returns (dividends/buybacks) for CY2026.",
+      "text": "Woah, stellar earnings from and AI market projections...  \n\n1. SK Hynix: \"Memory supply shortage to persist through 2030\". \n2. There's the $4.8B operating profit beat ($62.8B vs. ~$58B est)... 80% operating margins. \n\nSo you had:\n- Revenue: $78.84B vs. $74.02B\n- Operating profit: $62.80B vs. $58.00B\n- Operating margin: 79.7% vs. 78.3%\n\nWith forward projections of \n\n3. \"Our DRAM and HBM volumes through 2029 are effectively sold out.\"\n4. Signed LTAs covering 50%+ of 2027–2028 capacity, while retaining pricing flexibility\n5. The company intends to fulfill its commitment to return 50%+  of cumulative FCF for 2025-2027\n6. \"We have included deposits and other practical enforcement mechanisms\" (LTAs have actual enforcement)\n7. \"We expect the profitability gap between HBM and conventional DRAM to narrow significantly\" (hello broader memory industry) \n8. SK Hynix announced $75B in shareholder returns (dividends/buybacks) for CY2026. \n\nI'm not sure what there isn't to like here? \n\nYou have a memory company just printing... demand visibility super high from enforceable commitments... and now they're returning that via dividends/buybacks.",
+      "quotedTweetText": "Oh look… more memory durability evidence for $MU and co.\n\nFollowing the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.\n\nSome customers are reportedly pushing for 10 year contracts as well, into 2035.\n\n“As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” \n\nSource: Maeil News\n\nDon't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… \n\nIf there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029?"
+    },
+    {
+      "tweetId": "2111131954787889205",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2111131954787889205",
+      "tweetedAt": "2026-10-16T16:27:35.000Z",
+      "bestBit": "Dell CEO Michael Dell says memory shortage is going to “get worse” next year with ~$95B in AI server backlog",
+      "text": "$DELL CEO Michael Dell says memory shortage is going to “get worse” next year with ~$95B in AI server backlog and DRAM supply still limiting deliveries.\n\nWith new memory fabs unlikely to provide meaningful relief until 2029 or 2030, the 2027 oversupply fears weighing on $MU and $SKHY look really disconnected from what customers are actually seeing."
+    },
+    {
+      "tweetId": "2111420247685374401",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2111420247685374401",
+      "tweetedAt": "2026-10-17T11:33:09.000Z",
+      "bestBit": "Michael Dell says memory shortage is going to “get worse” next year",
+      "text": "RT @StockSavvyShay: $DELL CEO Michael Dell says memory shortage is going to “get worse” next year with ~$95B in AI server backlog and DRAM…"
+    },
+    {
+      "tweetId": "2114235520406671460",
+      "role": "commentary",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2114235520406671460",
+      "tweetedAt": "2026-10-25T06:00:03.000Z",
+      "bestBit": "SK Hynix is down about 30% in three weeks.",
+      "text": "SK Hynix is down about 30% in three weeks.\n\nThe quarter it reports this week is still expected to be a RECORD, with about ₩77 trillion of operating profit expected.\n\nNomura ran a scenario where the stock goes absolutely nowhere from here.\n\nIf earnings meet consensus, SK Hynix would trade at under 2 times forward earnings by the end of 2027.\n\nThe market is pricing a memory CRASH but the  numbers are still pricing a memory BOOM.\n\nOne of them is wrong, and we find out this week.\n\n$SKHY $MU $SNDK",
+      "quotedTweetText": "Jensen Huang just pushed back HARD on the memory oversupply fears.\n\nSpeaking to CNBC at GTC Berlin, the $NVDA CEO said he does not see a surplus of memory by 2029, even after the selloff in memory stocks this past week.\n\n\"One of the things that's really great about memory is that you can always use more of it,\" he said.\n\nHe added that HBM will be used for years to come, and pointed out that Nvidia was the first company to bring LPDDR into the data center.\n\nThe selloff started after a Korean newspaper column predicted a memory price war by 2029, and it dragged down $MU, Samsung and SK Hynix.\n\nWhen the biggest buyer of AI memory on the planet tells you demand keeps growing, I would take that more seriously than an opinion column."
+    },
+    {
+      "tweetId": "2113313683384271037",
+      "role": "analysis",
+      "authorHandle": "unusual_whales",
+      "url": "https://x.com/unusual_whales/status/2113313683384271037",
+      "tweetedAt": "2026-10-22T16:57:00.000Z",
+      "bestBit": "Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
+      "text": "Nvidia's, $NVDA, Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-sk-hynix-posts-628b-operating-profit-beating-quarterly-estimates-041c71f0",
+    "title": "UPDATE: SK Hynix Posts $62.8B Operating Profit, Beating Quarterly Estimates",
+    "publishedAt": "2026-10-28T02:09:40.244Z",
+    "eventTimeApprox": "2026-10-20T04:30:02.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 25,
+    "authorCount": 13
+  }
+}

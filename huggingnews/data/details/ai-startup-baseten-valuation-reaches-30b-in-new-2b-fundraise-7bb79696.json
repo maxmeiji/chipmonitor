@@ -1,0 +1,56 @@
+{
+  "slug": "ai-startup-baseten-valuation-reaches-30b-in-new-2b-fundraise-7bb79696",
+  "title": "AI Startup Baseten Valuation Reaches $30B in New $2B Fundraise",
+  "publishedAt": "2026-10-31T00:37:25.494Z",
+  "eventTimeApprox": "2026-10-31T00:17:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:BSTN",
+      "kind": "private",
+      "role": "subject",
+      "name": "Baseten",
+      "hubKey": "baseten"
+    }
+  ],
+  "summary": "The AI inference company is dividing its latest capital raise into two distinct tranches to bring in roughly $2 billion in funding, according to people familiar with the matter. The round, led by Sands Capital, values Baseten at $26 billion for one portion of the raise and $30 billion for the second.\n\nThe current valuation would more than double the company's $13 billion valuation from June, when it raised $1.5 billion.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116299146936176937",
+      "role": "source",
+      "authorHandle": "rebeccatorrenc5",
+      "url": "https://x.com/RebeccaTorrenc5/status/2116299146936176937",
+      "tweetedAt": "2026-10-30T22:40:10.000Z",
+      "bestBit": "The AI inference startup is raising in 2 tranches -- one at $26 billion and the other at $30 billion, per our sources. Sands Capital is leading.",
+      "text": "Scoop! Baseten is set for a $30 billion valuation in its latest fundraise.\n\nThe AI inference startup is raising in 2 tranches -- one at $26 billion and the other at $30 billion, per our sources. Sands Capital is leading.\n\nRound total = about $2 billion. w/ @BTLipschultz 👇"
+    },
+    {
+      "tweetId": "2116322916984123817",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2116322916984123817",
+      "tweetedAt": "2026-10-31T00:14:37.000Z",
+      "bestBit": "These double valuations are so weird",
+      "text": "These double valuations are so weird",
+      "quotedTweetText": "Scoop! Baseten is set for a $30 billion valuation in its latest fundraise.\n\nThe AI inference startup is raising in 2 tranches -- one at $26 billion and the other at $30 billion, per our sources. Sands Capital is leading.\n\nRound total = about $2 billion. w/ @BTLipschultz 👇"
+    }
+  ],
+  "isSuperseded": false
+}

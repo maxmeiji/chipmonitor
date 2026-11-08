@@ -1,0 +1,51 @@
+{
+  "slug": "us-senators-probe-google-ai-impact-on-schoolchildren-8c82d17c",
+  "title": "US Senators Probe Google AI Impact on Schoolchildren",
+  "publishedAt": "2026-10-21T16:53:42.611Z",
+  "eventTimeApprox": "2026-10-21T16:30:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "The Wall Street Journal has published an investigation into the integration of artificial intelligence within US schools, prompting lawmakers to demand more transparency. US senators have launched a formal inquiry into Google to determine the effects of its AI tools on students, stating they have \"grave concerns\" regarding the company's push to embed these technologies in classrooms.\n\nThe congressional probe focuses on the influence of Google's artificial intelligence products on schoolchildren and requires the company to provide specific answers regarding its implementation strategies. This inquiry follows the report's findings on how AI integration is currently being managed in educational environments.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112945401691299848",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2112945401691299848",
+      "tweetedAt": "2026-10-21T16:33:35.000Z",
+      "bestBit": "SENATORS EXPRESS ‘GRAVE CONCERNS,’ LAUNCH INQUIRY INTO GOOGLE’S AI PUSH IN SCHOOLS",
+      "text": "SENATORS EXPRESS ‘GRAVE CONCERNS,’ LAUNCH INQUIRY INTO GOOGLE’S AI PUSH IN SCHOOLS – WSJ"
+    }
+  ],
+  "isSuperseded": false
+}

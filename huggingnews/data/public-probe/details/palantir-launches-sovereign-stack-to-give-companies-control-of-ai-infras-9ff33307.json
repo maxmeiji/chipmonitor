@@ -1,0 +1,54 @@
+{
+  "slug": "palantir-launches-sovereign-stack-to-give-companies-control-of-ai-infras-9ff33307",
+  "title": "Palantir Launches 'Sovereign Stack' to Give Companies Control of AI Infrastructure",
+  "publishedAt": "2026-11-06T16:37:34.010Z",
+  "eventTimeApprox": "2026-11-06T16:19:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PLTR",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Palantir Technologies Inc. Class A Common Stock",
+      "hubKey": "pltr"
+    }
+  ],
+  "summary": "The software firm unveiled a new suite of tools at its latest developer conference to let businesses manage their artificial intelligence operations without relying on outside providers. The sovereign stack, as the company calls it, provides a combination of compute infrastructure, agent stacks, and evaluation primitives designed to give organizations complete control over their AI pipeline.\n\nLaunched at DevCon 7, the toolkit includes fine-tuned models that Palantir says can beat frontier performance levels. The company framed the move as a shift toward corporate autonomy, claiming the infrastructure allows organizations to own the value they create rather than \"renting\" intelligence from third parties.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118739707408298477",
+      "role": "source",
+      "authorHandle": "palantirtech",
+      "url": "https://x.com/PalantirTech/status/2118739707408298477",
+      "tweetedAt": "2026-11-06T16:18:05.000Z",
+      "bestBit": "Compute infrastructure, agent stack, eval primitives — the full set of tools to control every layer of your AI operations.",
+      "text": "\"Sovereignty means ownership over the value that your organization creates.”\n\nAt DevCon 7, Palantir launched the sovereign stack built to protect your alpha.\n\nFine-tuned models that beat frontier performance.\n\nCompute infrastructure, agent stack, eval primitives — the full set of tools to control every layer of your AI operations.\n\nStop renting intelligence. Start owning it. Stay sovereign."
+    }
+  ],
+  "isSuperseded": false
+}

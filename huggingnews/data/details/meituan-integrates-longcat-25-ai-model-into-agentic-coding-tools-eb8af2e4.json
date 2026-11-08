@@ -1,0 +1,80 @@
+{
+  "slug": "meituan-integrates-longcat-25-ai-model-into-agentic-coding-tools-eb8af2e4",
+  "title": "Meituan Integrates LongCat-2.5 AI Model Into Agentic Coding Tools",
+  "publishedAt": "2026-11-03T00:23:04.162Z",
+  "eventTimeApprox": "2026-11-02T16:39:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117264311714537633/HWIIqORaQAAr7tz-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117264311714537633/HWIIqORaQAAr7tz-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "meituan_longcat",
+      "tweetUrl": "https://x.com/Meituan_LongCat/status/2117264311714537633"
+    }
+  },
+  "summary": "The Chinese company's newest multimodal model has been made available for use inside developer tools such as Claude Code, Codex, and Hermes to assist with high-complexity software projects. To support these agentic tasks, LongCat-2.5 now features a 1M-token context window and is offered at promotional API rates of $0.30 per million uncached input tokens and $1.20 per million output tokens.\n\nThe system utilizes a mixture-of-experts architecture with 1.6T total parameters, of which approximately 48B are active during operations. Designed for long-horizon tasks including 3D creative design and visual coding, the model is now available to developers via APIs and is positioned as a competitor to other large-scale systems like GPT-5.5 and Claude-Opus-5.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117264311714537633",
+      "role": "source",
+      "authorHandle": "meituan_longcat",
+      "url": "https://x.com/Meituan_LongCat/status/2117264311714537633",
+      "tweetedAt": "2026-11-02T14:35:23.000Z",
+      "bestBit": "Introducing LongCat-2.5, our latest natively multimodal agentic model with 1.6T total parameters and ~48B active.",
+      "text": "Introducing LongCat-2.5, our latest natively multimodal agentic model with 1.6T total parameters and ~48B active.\n\nBuilt for long-horizon agentic tasks, it brings stronger visual understanding and agentic coding to work ranging from complex coding projects to visual coding such as creative design and 3D tasks.\n\nLearn more about LongCat-2.5: https://t.co/ULLDweplqR"
+    },
+    {
+      "tweetId": "2117406406781649253",
+      "role": "commentary",
+      "authorHandle": "wesroth",
+      "url": "https://x.com/WesRoth/status/2117406406781649253",
+      "tweetedAt": "2026-11-03T00:00:01.000Z",
+      "bestBit": "A 1M-token context window, with promotional pricing of $0.30 per million uncached input tokens and $1.20 per million output tokens.",
+      "text": "A 1M-token context window, with promotional pricing of $0.30 per million uncached input tokens and $1.20 per million output tokens.\n\nMeituan’s LongCat-2.5 also works inside Claude Code, Codex, and Hermes.\n\nThat’s aggressive pricing.\n\nThose costs matter when an agent needs several attempts to finish a task. Being able to try another model inside tools you already use makes the competition much more practical. More of this, please.",
+      "quotedTweetText": "Introducing LongCat-2.5, our latest natively multimodal agentic model with 1.6T total parameters and ~48B active.\n\nBuilt for long-horizon agentic tasks, it brings stronger visual understanding and agentic coding to work ranging from complex coding projects to visual coding such as creative design and 3D tasks.\n\nLearn more about LongCat-2.5: https://t.co/ULLDweplqR"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "meituan-launches-longcat-25-multimodal-model-with-16t-parameters-4596cd4e",
+    "title": "Meituan Launches LongCat-2.5 Multimodal Model with 1.6T Parameters",
+    "publishedAt": "2026-11-02T16:51:50.892Z",
+    "eventTimeApprox": "2026-11-02T16:00:33.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

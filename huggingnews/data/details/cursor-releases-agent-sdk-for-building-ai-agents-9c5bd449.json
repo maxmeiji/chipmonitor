@@ -1,0 +1,50 @@
+{
+  "slug": "cursor-releases-agent-sdk-for-building-ai-agents-9c5bd449",
+  "title": "Cursor Releases Agent SDK for Building AI Agents",
+  "publishedAt": "2026-10-26T19:53:40.596Z",
+  "eventTimeApprox": "2026-10-26T19:17:51.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:CRSR",
+      "kind": "private",
+      "role": "subject",
+      "name": "Cursor",
+      "hubKey": "cursor"
+    }
+  ],
+  "summary": "The toolset allows developers to define AI agents using TypeScript for tools and Markdown for prompts. These agents can be run on a user's own infrastructure or deployed through Cursor's hosted services.\n\nThe release includes built-in evaluations designed to let developers measure changes to agent behavior and refine their performance over time.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114793714531102901",
+      "role": "source",
+      "authorHandle": "cursor_ai",
+      "url": "https://x.com/cursor_ai/status/2114793714531102901",
+      "tweetedAt": "2026-10-26T18:58:07.000Z",
+      "bestBit": "Define agents as code, with prompts in Markdown and tools in TypeScript.",
+      "text": "The Agent SDK is now available.\n\nDefine agents as code, with prompts in Markdown and tools in TypeScript. Deploy them on our hosted infrastructure, or run them on your own.\n\nBuilt-in evals let you measure every change and make your agents better over time. https://t.co/sww7EXYBFI"
+    }
+  ],
+  "isSuperseded": false
+}

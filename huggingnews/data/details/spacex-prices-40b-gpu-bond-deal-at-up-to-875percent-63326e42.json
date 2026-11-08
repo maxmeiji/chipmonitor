@@ -1,0 +1,156 @@
+{
+  "slug": "spacex-prices-40b-gpu-bond-deal-at-up-to-875percent-63326e42",
+  "title": "SpaceX Prices $40B GPU Bond Deal at Up to 8.75%",
+  "publishedAt": "2026-10-26T13:07:25.740Z",
+  "eventTimeApprox": "2026-10-26T12:02:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 58,
+  "authorCount": 40,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "APO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Apollo Global Management, Inc.",
+      "hubKey": "apo"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114440674300882981/HVgAk58WIAAb2em-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114440674300882981/HVgAk58WIAAb2em-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "stockmktnewz",
+      "tweetUrl": "https://x.com/StockMKTNewz/status/2114440674300882981"
+    }
+  },
+  "summary": "Elon Musk's aerospace firm has finalized the cost of capital for its newest equipment credit facility, which will fund the acquisition of next-generation computer chips. SpaceX priced the bonds for the $40B arrangement at interest rates of up to 8.75% to secure the hardware needed for its terrestrial artificial intelligence compute buildout.\n\nThe master finance lease with Apollo Global Management will be used to purchase Nvidia Vera Rubin GPUs, with equipment deliveries scheduled for the first half of 2027. The deal is managed through a special purpose vehicle to keep the debt off SpaceX's balance sheet and is scheduled to close by the end of 2026. The company is using its investment-grade credit rating, supported by Starlink and rocket launch revenue, to access financing that Musk says is now nearly unavailable to smaller \"neocloud\" providers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114688952686805491",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2114688952686805491",
+      "tweetedAt": "2026-10-26T12:01:49.000Z",
+      "bestBit": "Apollo will purchase GPU pods and related equipment and lease them to SpaceX, with aggregate scheduled principal payments expected to total $40 billion.",
+      "text": "$SPCX - SPACEX SIGNS $40 BILLION GPU FINANCING DEAL WITH APOLLO\n\nSpaceX has entered into a binding commitment for a master finance lease with Apollo Global Management ($APO ), according to an SEC filing.\n\nApollo will purchase GPU pods and related equipment and lease them to SpaceX, with aggregate scheduled principal payments expected to total $40 billion.\n\nThe agreement is expected to close before year-end 2026.\n\nThe key takeaway: SpaceX is securing large-scale GPU infrastructure through lease financing, highlighting the enormous capital requirements of AI expansion."
+    },
+    {
+      "tweetId": "2114526226341638145",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2114526226341638145",
+      "tweetedAt": "2026-10-26T01:15:13.000Z",
+      "bestBit": "people familiar with the matter said the parties were still engaged in pricing discussions as of Sunday and the deal had not yet closed.",
+      "text": "Elon Musk has claimed that SpaceX closed a $40 billion debt deal to pay for the chips it needs to fuel its AI ambitions.\n\nHowever, people familiar with the matter said the parties were still engaged in pricing discussions as of Sunday and the deal had not yet closed. https://t.co/0eXV6fIEnm"
+    },
+    {
+      "tweetId": "2114701319307235506",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2114701319307235506",
+      "tweetedAt": "2026-10-26T12:50:58.000Z",
+      "bestBit": "SPACEX PRICES BONDS AT UP TO 8.75% ON $40B CREDIT DEAL: SEMAFOR",
+      "text": "SPACEX PRICES BONDS AT UP TO 8.75% ON $40B CREDIT DEAL: SEMAFOR"
+    },
+    {
+      "tweetId": "2114519765742178476",
+      "role": "source",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2114519765742178476",
+      "tweetedAt": "2026-10-26T00:49:32.000Z",
+      "bestBit": "debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers.",
+      "text": "This is the first time we have received confirmation that SpaceX $SPCX has completed its $40 Billion debt offering",
+      "quotedTweetText": "Elon Musk just posted this:\n\n“As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers.”\n\n“That means the 200+ neoclouds are going to see guppy-level death and consolidation. Some will make it through, but not many.”"
+    },
+    {
+      "tweetId": "2114689159181054296",
+      "role": "commentary",
+      "authorHandle": "negligible_cap",
+      "url": "https://x.com/negligible_cap/status/2114689159181054296",
+      "tweetedAt": "2026-10-26T12:02:39.000Z",
+      "bestBit": "SpaceX to sign $40B GPU equipment finance lease with Apollo",
+      "text": "*SPACEX TO SIGN $40B GPU EQUIPMENT FINANCE LEASE WITH APOLLO\n\n\"Financing is impossible for neoclouds but watch this\" - Elon probably"
+    },
+    {
+      "tweetId": "2114527553557762048",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2114527553557762048",
+      "tweetedAt": "2026-10-26T01:20:29.000Z",
+      "bestBit": "your financiers are immediately saying “yeah yeah nothing is signed yet” over your $40 billion deal",
+      "text": "Yeah it’s ideal that your financiers are immediately saying “yeah yeah nothing is signed yet” over your $40 billion deal",
+      "quotedTweetText": "Elon Musk has claimed that SpaceX closed a $40 billion debt deal to pay for the chips it needs to fuel its AI ambitions.\n\nHowever, people familiar with the matter said the parties were still engaged in pricing discussions as of Sunday and the deal had not yet closed. https://t.co/0eXV6fIEnm"
+    },
+    {
+      "tweetId": "2114692403806265849",
+      "role": "analysis",
+      "authorHandle": "sonalibasak",
+      "url": "https://x.com/sonalibasak/status/2114692403806265849",
+      "tweetedAt": "2026-10-26T12:15:32.000Z",
+      "bestBit": "roughly a five-year lease term totalling $40 billion.",
+      "text": "APOLLO'S SPACEX BET: @elonmusk's firm in a regulatory filing this morning disclosed that Apollo will be responsible for buying and leasing GPUs, with roughly a five-year lease term totalling $40 billion.\n\nIt's another really large affirmation of the AI buildout, even if the industry is facing rotations more largely. It also shows you how much dry powder is still on the sidelines for just a single-issuer deal, with one major credit counterparty (though wouldn't be surprised to see Apollo syndicate the deal). Think this is really just the tip of the iceberg with how much private capital will continue to flow in."
+    },
+    {
+      "tweetId": "2114702780128710724",
+      "role": "analysis",
+      "authorHandle": "junkbondinvest",
+      "url": "https://x.com/junkbondinvest/status/2114702780128710724",
+      "tweetedAt": "2026-10-26T12:56:46.000Z",
+      "bestBit": "Recall Apollo has been doing these Musk GPU deals for a while now. The difference this time is scale. $40bn is massive.",
+      "text": "SpaceX just announced a ~$40bn GPU financing with Apollo. \n\nRecall Apollo has been doing these Musk GPU deals for a while now. The difference this time is scale. $40bn is massive. Gotta put that Athene money to work!\n\n$SPCX https://t.co/yjb0WCPHCs"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "spacex-signs-40b-gpu-finance-lease-with-apollo-4c3db8bd",
+    "title": "SpaceX Signs $40B GPU Finance Lease With Apollo",
+    "publishedAt": "2026-10-26T12:23:07.144Z",
+    "eventTimeApprox": "2026-10-26T04:36:46.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "tech"
+    ],
+    "tweetCount": 25,
+    "authorCount": 19
+  }
+}

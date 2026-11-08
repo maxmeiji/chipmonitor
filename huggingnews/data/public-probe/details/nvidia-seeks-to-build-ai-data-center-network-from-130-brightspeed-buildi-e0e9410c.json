@@ -1,0 +1,100 @@
+{
+  "slug": "nvidia-seeks-to-build-ai-data-center-network-from-130-brightspeed-buildi-e0e9410c",
+  "title": "Nvidia Seeks to Build AI Data Center Network From 130+ Brightspeed Buildings",
+  "publishedAt": "2026-11-05T22:23:16.766Z",
+  "eventTimeApprox": "2026-11-05T20:04:40.500Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 18,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "APO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Apollo Global Management, Inc.",
+      "hubKey": "apo"
+    }
+  ],
+  "summary": "The chipmaker has asked the Apollo-owned broadband provider to let it repurpose some of its legacy real estate to house a distributed system of processing hubs. The formal request targets more than 130 of Brightspeed's telephone buildings, which Nvidia says could provide roughly 1 gigawatt of available power—capacity that the company estimates would support tens of billions of dollars in Vera Rubin chip systems.\n\nBy utilizing sites with existing power hookups and zoning, Nvidia intends to bypass the permitting delays and regulatory hurdles associated with building new large-scale data centers. The proposed network would cover as many as 20 states using assets that Apollo integrated into Brightspeed after purchasing Lumen's local phone operations for $7.5B in 2022.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118463433494446101",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2118463433494446101",
+      "tweetedAt": "2026-11-05T22:00:16.000Z",
+      "bestBit": "roughly 1 gigawatt of available power, potentially enough to run tens of billions of dollars of Vera Rubin chip systems",
+      "text": "Exclusive: Nvidia has submitted a proposal to Brightspeed, an Apollo-owned broadband provider reportedly nearing bankruptcy, to convert some of its 130-plus telecom buildings into AI data centers. \n\nNvidia estimates the sites have roughly 1 gigawatt of available power, potentially enough to run tens of billions of dollars of Vera Rubin chip systems.\n\nRead more: https://t.co/6fFBdcrIT9"
+    },
+    {
+      "tweetId": "2118438310473544079",
+      "role": "source",
+      "authorHandle": "kevkubernetes",
+      "url": "https://x.com/KevKubernetes/status/2118438310473544079",
+      "tweetedAt": "2026-11-05T20:20:26.000Z",
+      "bestBit": "Now Nvidia has a plan to do it using buildings from struggling telco firm Brightspeed",
+      "text": "News: Tech companies have discussed turning telco central offices into AI data centers for some time. Now Nvidia has a plan to do it using buildings from struggling telco firm Brightspeed. More here in this scoop with @dakincampbell &amp; @_pheebini: https://t.co/69xqqdP3eR"
+    },
+    {
+      "tweetId": "2118433826410258807",
+      "role": "commentary",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2118433826410258807",
+      "tweetedAt": "2026-11-05T20:02:37.000Z",
+      "bestBit": "NVIDIA HAS APPROACHED APOLLO ABOUT CREATING A NETWORK OF SMALL AI DATA CENTERS POTENTIALLY SPANNING 20 STATES ACROSS THE US",
+      "text": "*NVIDIA HAS APPROACHED APOLLO ABOUT CREATING A NETWORK OF SMALL AI DATA CENTERS POTENTIALLY SPANNING 20 STATES ACROSS THE US\n\n*NVIDIA IS EXPLORING RETROFITTING OLD TELECOM BUILDINGS FOR AI DATA CENTERS🤯🤯 https://t.co/pmnCxIp1cv",
+      "quotedTweetText": "*MICHAEL BURRY SAYS HE SOLD HIS SEMICONDUCTOR ETF PUTS https://t.co/vdcRbDpmFL"
+    },
+    {
+      "tweetId": "2118434864097890505",
+      "role": "analysis",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2118434864097890505",
+      "tweetedAt": "2026-11-05T20:06:44.000Z",
+      "bestBit": "The plan would use buildings owned by Brightspeed, the telecom company Apollo created after buying Lumen's local phone business for $7.5 billion in 2022",
+      "text": "Nvidia may have just found a way around the data center BACKLASH.\n\nAccording to The Information, Nvidia has approached Apollo about building a network of small AI data centers inside old telephone buildings across the United States.\n\nThe plan would use buildings owned by Brightspeed, the telecom company Apollo created after buying Lumen's local phone business for $7.5 billion in 2022.\n\nThe network could potentially span 20 states, and sources say those existing buildings could provide around 1 gigawatt of power capacity for Nvidia's servers.\n\nThe timing is no accident, since data center stocks have been crushed this week on fears that the Democratic midterm sweep will lead to new moratoriums and tougher permitting rules.\n\nExisting telecom buildings already have power hookups in place, so they could face far less resistance than a brand new campus.\n\nNvidia has wiped out its entire 2026 gain this week, but Jensen is clearly NOT going down without a fight, and demand for AI compute is still finding a way to get built.\n\n$NVDA $APO $LUMN",
+      "quotedTweetText": "We are heading into an even BIGGER supply crisis across the entire AI infrastructure industry.\n\nAccording to TrendForce, supply conditions have tightened across nearly every major component needed for AI infrastructure, including CPUs, GPUs, DRAM, NAND, HDDs, ABF substrates, and MLCCs. And some of these numbers are absolutely insane. GPU lead times are now 30–45 weeks, hard drives are taking 50 weeks, and ABF substrates are taking 48–56 weeks. Meanwhile, DRAM supply remains severely constrained, and even server CPUs are experiencing significant shortages. We're starting to see these shortages spread beyond GPUs and memory into components that most investors probably haven't even considered. ABF substrates, for example, are essential for advanced semiconductor packaging, and their lead times are now approaching an entire year. Even if NVIDIA and other chipmakers secure enough manufacturing capacity, shortages in other parts of the supply chain could still delay how quickly these AI systems reach customers.\n\nAnd I think this is only going to get worse as hyperscalers continue ramping up their infrastructure spending. Companies like Microsoft, Amazon, Google, and Meta are competing for many of the same components, and manufacturers simply cannot expand production fast enough to meet everyone's needs. We're also seeing manufacturers prioritize their largest customers, which could leave smaller companies struggling to secure enough hardware. This could end up giving the biggest hyperscalers an even greater advantage, especially as AI workloads become more demanding and require significantly more computing power. Meanwhile, suppliers are investing billions into expanding production, but some of that additional capacity won't become available until 2027 or 2028. Until then, I expect demand to continue outpacing supply across several parts of the industry, potentially driving higher prices and stronger margins for companies that control these critical components.\n\nAs AI infrastructure spending continues accelerating, I think many of these businesses could see significant earnings growth over the next several years. We're only in the second or third innings of this massive AI infrastructure buildout, and we're already seeing lead times approaching an entire year for certain components. Bullish on the supply bottlenecks and if you want to see how I’m investing across memory, packaging, and the rest of the AI infrastructure stack, check out my portfolio below.\n\nhttps://t.co/MMkdjfqdCH"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nvidia-approaches-apollo-to-build-ai-data-center-network-in-old-telephon-bcd03cd7",
+    "title": "Nvidia Approaches Apollo to Build AI Data Center Network in Old Telephone Buildings",
+    "publishedAt": "2026-11-05T20:09:18.987Z",
+    "eventTimeApprox": "2026-11-05T19:52:06.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "tech"
+    ],
+    "tweetCount": 15,
+    "authorCount": 13
+  }
+}

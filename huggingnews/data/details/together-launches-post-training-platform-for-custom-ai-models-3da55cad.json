@@ -1,0 +1,59 @@
+{
+  "slug": "together-launches-post-training-platform-for-custom-ai-models-3da55cad",
+  "title": "Together Launches Post Training Platform for Custom AI Models",
+  "publishedAt": "2026-10-19T19:37:38.774Z",
+  "eventTimeApprox": "2026-10-19T19:14:42.000Z",
+  "isFreshStory": false,
+  "tweetCount": 21,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:TGAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "Together AI",
+      "hubKey": "together-ai"
+    }
+  ],
+  "summary": "Developers can now use Together Post-Training to convert open-weight models into custom AI via Supervised Fine-Tuning and Reinforcement Learning. Together provides the managed infrastructure and hardware to optimize for speed and quality, while users maintain control over the training loop, environment, reward systems, and data.\n\nThe platform is designed to help companies move from rented to owned intelligence by leveraging the flexibility of open weight models. Tri Dao, a collaborator on the project, stated that the availability of such a tool for SFT and RL is a primary reason why open weight models are valuable.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112241595273621857",
+      "role": "source",
+      "authorHandle": "togethercompute",
+      "url": "https://x.com/togethercompute/status/2112241595273621857",
+      "tweetedAt": "2026-10-19T17:56:54.000Z",
+      "bestBit": "Turn open models into custom models you own, with SFT or RL.",
+      "text": "Together Post-Training is live\n\nTurn open models into custom models you own, with SFT or RL.\n\nYou define the data, rewards, environments and the training loop itself. We run the hard infrastructure underneath it, tuned for quality and speed."
+    },
+    {
+      "tweetId": "2112263652070043733",
+      "role": "signal",
+      "authorHandle": "tri_dao",
+      "url": "https://x.com/tri_dao/status/2112263652070043733",
+      "tweetedAt": "2026-10-19T19:24:33.000Z",
+      "bestBit": "We now have a platform for SFT & RL. This is why open weight models are great",
+      "text": "We now have a platform for SFT &amp; RL. This is why open weight models are great",
+      "quotedTweetText": "Together Post-Training is live\n\nTurn open models into custom models you own, with SFT or RL.\n\nYou define the data, rewards, environments and the training loop itself. We run the hard infrastructure underneath it, tuned for quality and speed."
+    }
+  ],
+  "isSuperseded": false
+}

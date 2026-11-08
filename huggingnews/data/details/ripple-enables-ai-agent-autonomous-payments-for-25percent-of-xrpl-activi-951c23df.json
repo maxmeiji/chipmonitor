@@ -1,0 +1,88 @@
+{
+  "slug": "ripple-enables-ai-agent-autonomous-payments-for-25percent-of-xrpl-activi-951c23df",
+  "title": "Ripple Enables AI Agent Autonomous Payments for 25% of XRPL Activity",
+  "publishedAt": "2026-10-14T07:23:07.512Z",
+  "eventTimeApprox": "2026-10-13T21:47:44.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "crypto",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "crypto",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "blockchains",
+      "name": "Blockchains"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:RPPL",
+      "kind": "private",
+      "role": "subject",
+      "name": "Ripple",
+      "hubKey": "ripple"
+    },
+    {
+      "ticker": "PVT:STRP",
+      "kind": "private",
+      "role": "related",
+      "name": "Stripe",
+      "hubKey": "stripe"
+    }
+  ],
+  "summary": "Automated programs are now capable of managing digital assets on the XRP Ledger via a technical rollout from Privy. This integration allows software agents to autonomously hold and spend XRP and the RLUSD stablecoin, extending the utility of the network's embedded wallet system beyond human-operated interfaces.\n\nPayments initiated by these agents already account for 25% of all activity on the XRP Ledger. By leveraging the infrastructure from the Stripe-owned firm, developers can implement wallet functionality directly into their applications without building the backend systems required to support crypto holdings.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110037888502988853",
+      "role": "source",
+      "authorHandle": "theblockco",
+      "url": "https://x.com/TheBlockCo/status/2110037888502988853",
+      "tweetedAt": "2026-10-13T16:00:09.000Z",
+      "bestBit": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+      "text": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger https://t.co/T8Mdly0l7P"
+    },
+    {
+      "tweetId": "2110263934548844722",
+      "role": "support",
+      "authorHandle": "coindesk",
+      "url": "https://x.com/CoinDesk/status/2110263934548844722",
+      "tweetedAt": "2026-10-14T06:58:23.000Z",
+      "bestBit": "letting AI agents hold and spend $XRP and $RLUSD autonomously as agent payments already represent 25% of XRPL activity",
+      "text": "NEW: @Ripple integrates @privy_io wallet infrastructure into the XRP Ledger, letting AI agents hold and spend $XRP and $RLUSD autonomously as agent payments already represent 25% of XRPL activity. https://t.co/0zVWJah1WD"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "ripple-and-stripe-owned-privy-bring-embedded-wallets-to-xrp-ledger-c8f1d867",
+    "title": "Ripple and Stripe-Owned Privy Bring Embedded Wallets to XRP Ledger",
+    "publishedAt": "2026-10-13T18:53:33.499Z",
+    "eventTimeApprox": "2026-10-13T16:28:27.000Z",
+    "routingTopicKeys": [
+      "crypto",
+      "tech",
+      "business"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

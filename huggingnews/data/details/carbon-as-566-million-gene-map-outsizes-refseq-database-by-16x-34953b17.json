@@ -1,0 +1,72 @@
+{
+  "slug": "carbon-as-566-million-gene-map-outsizes-refseq-database-by-16x-34953b17",
+  "title": "Carbon-A’s 566 Million Gene Map Outsizes RefSeq Database by 16x",
+  "publishedAt": "2026-10-08T15:53:18.542Z",
+  "eventTimeApprox": "2026-10-08T15:38:42.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "bio",
+      "name": "Bio"
+    }
+  ],
+  "summary": "Researchers have launched an AI tool designed to pinpoint the exact locations of genes within DNA sequences without relying on established biological references. The model, called Carbon-A, was released alongside the Carbon Annotation Database, which contains 566.34 million candidate genes identified across 22,617 species, including mammals and fungi. This volume is roughly 16x larger than the annotations found in the RefSeq dataset, the primary reference for gene sequencing.\n\nThe project utilized wet lab experiments with partners at Active Site and UCSD to validate 239 genes in common species, such as Syrian hamsters and chickens, that were previously missing from RefSeq. To address safety concerns, the authors designed Carbon-A to identify the coordinates of genes rather than predicting their function or designing new DNA. The goal is to make the discovery of genes as accessible to the scientific community as AlphaFold made the prediction of protein structures.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108217685133656523",
+      "role": "source",
+      "authorHandle": "cgeorgiaw",
+      "url": "https://x.com/cgeorgiaw/status/2108217685133656523",
+      "tweetedAt": "2026-10-08T15:27:19.000Z",
+      "bestBit": "discover 566.34 million new gene candidates across 22,617 species",
+      "text": "Today, we're releasing the Carbon Annotation Database and the model behind it, Carbon-A. \n\nWe've used this model to discover 566.34 million new gene candidates across 22,617 species, thousands of which have never been studied like this before. \n\nWe wet-lab validated a number of these new genes in well-studied species, such as in cats, chicken, and arabidopsis (plant), with our partners at Active Site and @UCSD, with more extensive wet lab results on previously-unstudied genomes coming soon."
+    },
+    {
+      "tweetId": "2108220549268639992",
+      "role": "analysis",
+      "authorHandle": "thom_wolf",
+      "url": "https://x.com/Thom_Wolf/status/2108220549268639992",
+      "tweetedAt": "2026-10-08T15:38:42.000Z",
+      "bestBit": "found RNA evidence for 239 genes missing from the reference annotations of species as common as cats, chickens, hamsters",
+      "text": "Scientists have sequenced the genomes of thousands of species. But for most of them, nobody knows *where the genes are*\n\nToday we're releasing Carbon-A, an open model that finds genes directly in DNA. We used it to create a database of 566 million candidate genes across 22,617 species, from fungi to mammals (that we are sharing as well)\n\nWhy bother? A few reasons\n\n1. Elephants rarely get cancer. Part of the explanation turned up in their genes: extra copies of a tumor-suppressor gene humans have only one of. You can't ask that kind of question about a species until someone, or some tool, has found its genes.\n\n2. The first GLP-1 drug was based on a peptide from Gila monster venom. Nobody would have put the Gila monster on a priority list. Same for wild relatives of crops, which carry resistance to drought and disease. Many of these species have never been annotated.\n\n3. Most of what we know about genes comes from about a dozen model species, like mice, flies and yeast. That focus worked remarkably well, but annotation pipelines still lean heavily on comparisons with them, which makes genes unique to other species easy to miss, and those can be the most interesting ones. \n\nCarbon-A belongs to a newer family of tools that read DNA directly. It learned from known genomes, but it doesn't need a close relative to read a new one.\n\n4. Even familiar genomes still have gaps. With our partners at Active Site and UCSD, we found RNA evidence for 239 genes missing from the reference annotations of species as common as cats, chickens, hamsters and a lab plant.\n\n5. AlphaFold can predict the shape of a protein, but only once someone has found the gene that makes it. In a species with no annotated genes, it has nothing to work with.\n\nSome notes on safety:\n\nCarbon-A doesn't design DNA or predict what a gene does. It marks where genes are in DNA. This is one of the reasons we think releasing it openly is the right call.\n\nMore annotations also help health research: many species that carry or cause disease are among those covered, and work on controlling the diseases they spread often starts from their genes.\n\nModel and database and more details in Georgia's thread 👇",
+      "quotedTweetText": "Today, we're releasing the Carbon Annotation Database and the model behind it, Carbon-A. \n\nWe've used this model to discover 566.34 million new gene candidates across 22,617 species, thousands of which have never been studied like this before. \n\nWe wet-lab validated a number of these new genes in well-studied species, such as in cats, chicken, and arabidopsis (plant), with our partners at Active Site and @UCSD, with more extensive wet lab results on previously-unstudied genomes coming soon."
+    },
+    {
+      "tweetId": "2108221824257462732",
+      "role": "support",
+      "authorHandle": "lvwerra",
+      "url": "https://x.com/lvwerra/status/2108221824257462732",
+      "tweetedAt": "2026-10-08T15:43:46.000Z",
+      "bestBit": "produced 566 million gene candidates, about 16× the number of gene annotations in the RefSeq dataset",
+      "text": "We're releasing Carbon-A: an open model to discover new genes in DNA.\n\nWith Carbon-A, we annotated genomes from 22k+ species and produced 566 million gene candidates, about 16× the number of gene annotations in the RefSeq dataset. We're releasing the candidates as a database, alongside the model. Initial wet lab experiments support previously unannotated gene candidates even in well-studied organisms.\n\nWe think 2027 will be the year for biology. As AI labs move from math and coding into biology, we want scientists to have capable open models and resources they can build on without depending on the priorities and policies of a handful of closed labs.\n\nToday, we can sequence genomes faster than we can identify the genes they contain. Finding genes often requires experimental data or comparisons with well-studied species, leaving much of the tree of life poorly understood. Carbon-A predicts where genes are directly from DNA, identifying regions that contain instructions for making proteins.\n\nEven familiar genomes still have gaps. Across cats, Syrian hamsters, chickens, and the plant Arabidopsis, independent RNA experiments in the wet lab supported 239 gene candidates missing from RefSeq, a major reference annotation database.\n\nOur ambition is to make finding genes across life as accessible as AlphaFold made predicting protein structures.",
+      "quotedTweetText": "Today, we're releasing the Carbon Annotation Database and the model behind it, Carbon-A. \n\nWe've used this model to discover 566.34 million new gene candidates across 22,617 species, thousands of which have never been studied like this before. \n\nWe wet-lab validated a number of these new genes in well-studied species, such as in cats, chicken, and arabidopsis (plant), with our partners at Active Site and @UCSD, with more extensive wet lab results on previously-unstudied genomes coming soon."
+    }
+  ],
+  "isSuperseded": false
+}

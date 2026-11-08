@@ -1,0 +1,66 @@
+{
+  "slug": "claude-code-finds-planet-candidate-in-7-years-of-nasa-data-02a52dbd",
+  "title": "Claude Code Finds Planet Candidate in 7 Years of NASA Data",
+  "publishedAt": "2026-10-08T15:53:03.727Z",
+  "eventTimeApprox": "2026-10-08T15:37:18.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "space",
+      "name": "Space"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "P. Rabtsevich wrote more than 1,000 scripts to scan space archives for an undocumented celestial object, identifying a new planet candidate. To perform the analysis, the researcher used Claude Code with the Opus 5.5 and Fable 5.1 models to search through 7 years of telescope data that had previously gone unexamined for this discovery.\n\nNASA has approved a formal request for telescope time to verify the findings after reviewing the researcher's data. This next step will provide the observational verification needed to confirm the existence of the planet.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108221537837105402",
+      "role": "source",
+      "authorHandle": "cyantist",
+      "url": "https://x.com/cyantist/status/2108221537837105402",
+      "tweetedAt": "2026-10-08T15:42:38.000Z",
+      "bestBit": "It's been hiding in NASA telescope data for seven years",
+      "text": "RT @p_rabtsevich: I think I found a planet nobody knew existed.\n\nIt's been hiding in NASA telescope data for seven years. \n\nAt the end of t…"
+    },
+    {
+      "tweetId": "2108220333807509948",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2108220333807509948",
+      "tweetedAt": "2026-10-08T15:37:51.000Z",
+      "bestBit": "NASA has approved telescope time for verification after looking at his data",
+      "text": "@brunocordista @grok NASA has approved telescope time for verification after looking at his data."
+    }
+  ],
+  "isSuperseded": false
+}

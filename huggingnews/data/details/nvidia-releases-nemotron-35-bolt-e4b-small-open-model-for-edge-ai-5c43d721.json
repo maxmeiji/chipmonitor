@@ -1,0 +1,74 @@
+{
+  "slug": "nvidia-releases-nemotron-35-bolt-e4b-small-open-model-for-edge-ai-5c43d721",
+  "title": "Nvidia Releases Nemotron 3.5 Bolt E4B Small Open Model for Edge AI",
+  "publishedAt": "2026-10-23T16:08:14.480Z",
+  "eventTimeApprox": "2026-10-23T15:49:54.500Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113657112408785153/DwHQQCn53wZ7Oasb-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113657112408785153/DwHQQCn53wZ7Oasb-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2113656945517432833/vid/avc1/1280x720/Pu44VS97NV0P6LzA.mp4?tag=29",
+    "credit": {
+      "handle": "nvidiaai",
+      "tweetUrl": "https://x.com/NVIDIAAI/status/2113657112408785153"
+    }
+  },
+  "summary": "The company's latest addition to its open model lineup is optimized for the limited memory of mobile phones and robotics. Nemotron 3.5 Bolt E4B allows conversational agents and interactive characters to perform tool use and maintain dialogues directly on edge hardware.\n\nTrained on Gemma 4, the model supports vision and can run on the Jetson Orin Nano 8GB, where it was demoed alongside the NVIDIA Cosmos vision model to power a Reachy Mini robot. While Nvidia lists the model as 4GB, Unsloth states it runs locally on 6GB RAM.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113657112408785153",
+      "role": "source",
+      "authorHandle": "nvidiaai",
+      "url": "https://x.com/NVIDIAAI/status/2113657112408785153",
+      "tweetedAt": "2026-10-23T15:41:40.000Z",
+      "bestBit": "built for local assistants, interactive characters and robots that can carry on a conversation and use tools to get things done",
+      "text": "Available now: NVIDIA Nemotron 3.5 Bolt E4B 4GB ⚡️\n\nOur newest small open model is built for local assistants, interactive characters and robots that can carry on a conversation and use tools to get things done.\n\nWatch Reachy Mini chat and move, with Bolt handling conversation and NVIDIA Cosmos handling vision. Both models run locally on Jetson Orin Nano 8GB.\n\nLearn more: https://t.co/B8ODaWMn0O"
+    },
+    {
+      "tweetId": "2113658964365971681",
+      "role": "support",
+      "authorHandle": "unslothai",
+      "url": "https://x.com/UnslothAI/status/2113658964365971681",
+      "tweetedAt": "2026-10-23T15:49:01.000Z",
+      "bestBit": "Trained on Gemma 4, it supports vision",
+      "text": "NVIDIA releases Nemotron-3.5-Bolt-E4B, a new model that runs locally on 6GB RAM. 💚\n\nBolt-E4B can run on edge devices like phones and delivers top-tier performance for its size. Trained on Gemma 4, it supports vision.\n\nGGUF: https://t.co/NsDphrHOGC\nGuide: https://t.co/RIgVixplpT https://t.co/L5cR5FDD1g",
+      "quotedTweetText": "Available now: NVIDIA Nemotron 3.5 Bolt E4B 4GB ⚡️\n\nOur newest small open model is built for local assistants, interactive characters and robots that can carry on a conversation and use tools to get things done.\n\nWatch Reachy Mini chat and move, with Bolt handling conversation and NVIDIA Cosmos handling vision. Both models run locally on Jetson Orin Nano 8GB.\n\nLearn more: https://t.co/B8ODaWMn0O"
+    }
+  ],
+  "isSuperseded": false
+}

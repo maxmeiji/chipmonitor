@@ -1,0 +1,94 @@
+{
+  "slug": "white-circles-rise-tool-exposes-easier-jailbreaks-in-new-ai-image-models-ae0b1eca",
+  "title": "White Circle’s RISE Tool Exposes Easier Jailbreaks in New AI Image Models",
+  "publishedAt": "2026-10-14T17:54:20.427Z",
+  "eventTimeApprox": "2026-10-14T17:30:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110423426016092475/HUm6624WMAAOl1q-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110423426016092475/HUm6624WMAAOl1q-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "hesamation",
+      "tweetUrl": "https://x.com/Hesamation/status/2110423426016092475"
+    }
+  },
+  "summary": "Generative AI systems from OpenAI and DeepMind are vulnerable to a new red-teaming attack that requires no additional model training to execute. The tool, called RISE and released by White Circle, utilizes existing models such as Qwen and Gemini Flash to identify and bypass security layers on the most recent image-generation systems produced by these and other developers.\n\nIndependent safety tests conducted alongside the release indicate that the latest image models from OpenAI and Google have become more susceptible to jailbreaking than previous versions. Researchers found that applying the same attacks to newer models yielded higher success rates, raising concerns regarding the stability of safety protections for AI-generated images and video.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110420697814114693",
+      "role": "source",
+      "authorHandle": "whitecircle",
+      "url": "https://x.com/whitecircle/status/2110420697814114693",
+      "tweetedAt": "2026-10-14T17:21:18.000Z",
+      "bestBit": "open-sourcing RISE, our red-teaming algorithm that breaks the safeguards of the latest image models from OpenAI, DeepMind, and others",
+      "text": "We are open-sourcing RISE, our red-teaming algorithm that breaks the safeguards of the latest image models from OpenAI, DeepMind, and others.\n\nRISE uses readily available models like Qwen and Gemini Flash under the hood, with no additional training required.\n\nRead more: https://t.co/kt8ub0OmeW"
+    },
+    {
+      "tweetId": "2110423426016092475",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2110423426016092475",
+      "tweetedAt": "2026-10-14T17:32:09.000Z",
+      "bestBit": "found BOTH got easier to jailbreak. same attacks, newer models, higher success rates",
+      "text": "Well this is pretty concerning.\n\nindependent safety researchers tested the latest OpenAI and Google image models and found BOTH got easier to jailbreak.\n\nsame attacks,\nnewer models,\nhigher success rates. https://t.co/ymoYiXoUOQ",
+      "quotedTweetText": "We are open-sourcing RISE, our red-teaming algorithm that breaks the safeguards of the latest image models from OpenAI, DeepMind, and others.\n\nRISE uses readily available models like Qwen and Gemini Flash under the hood, with no additional training required.\n\nRead more: https://t.co/kt8ub0OmeW"
+    },
+    {
+      "tweetId": "2110423613639979396",
+      "role": "commentary",
+      "authorHandle": "ksimback",
+      "url": "https://x.com/KSimback/status/2110423613639979396",
+      "tweetedAt": "2026-10-14T17:32:53.000Z",
+      "bestBit": "I do worry about safety, especially around images and video Very happy to see projects like @whitecircle coming at this from an independent angle",
+      "text": "My 12yo son is becoming a power user of AI, which is great and I’ve supported him in his journey, but I do worry about safety, especially around images and video\n\nVery happy to see projects like @whitecircle coming at this from an independent angle",
+      "quotedTweetText": "We are open-sourcing RISE, our red-teaming algorithm that breaks the safeguards of the latest image models from OpenAI, DeepMind, and others.\n\nRISE uses readily available models like Qwen and Gemini Flash under the hood, with no additional training required.\n\nRead more: https://t.co/kt8ub0OmeW"
+    }
+  ],
+  "isSuperseded": false
+}

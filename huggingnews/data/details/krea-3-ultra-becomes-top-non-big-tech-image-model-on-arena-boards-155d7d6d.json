@@ -1,0 +1,123 @@
+{
+  "slug": "krea-3-ultra-becomes-top-non-big-tech-image-model-on-arena-boards-155d7d6d",
+  "title": "Krea 3 Ultra Becomes Top Non-Big Tech Image Model on Arena Boards",
+  "publishedAt": "2026-10-20T16:40:12.432Z",
+  "eventTimeApprox": "2026-10-16T13:33:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 65,
+  "authorCount": 30,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112577841418428564/HVFh8YAbQAASVmB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112577841418428564/HVFh8YAbQAASVmB-small.jpg",
+    "mediaType": "animated_gif",
+    "videoUrl": "https://video-s.twimg.com/tweet_video/HVFh8YAbQAASVmB.mp4",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2112577841418428564"
+    }
+  },
+  "summary": "The independent startup's vision model earned 1435 points in the Multi-Image Edit Arena to place fourth among all laboratories, while ranking fifth in the Single-Image Edit Arena. Krea 3 Ultra is currently the highest-ranked image editing model not developed by OpenAI, Google, or Microsoft on the Artificial Analysis AA-Image-Editing v2.1 board, where it holds the fifth position overall. The model is second only to GPT Image 2.5 Sunburst in both Animation & Gaming and Frontier editing workloads.\n\nThe model ranks in the top seven across 15 of 17 editing categories and ties Microsoft's MAI-Image-2.6 with an Elo score of 1151, trailing Google's Nano Banana 2.1 by one point. Krea 3 offers two modes via its API: a \"Fast\" mode priced at $0.03 per 1K image, and an \"Ultra\" mode for 2K edits that costs $0.27 per image with one 1K reference. The company is the only lab in the top 10 of these rankings with a valuation under $1 trillion.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112567020353102324",
+      "role": "source",
+      "authorHandle": "krea_ai",
+      "url": "https://x.com/krea_ai/status/2112567020353102324",
+      "tweetedAt": "2026-10-20T15:30:01.000Z",
+      "bestBit": "the only company valued under $1T in the top-10!",
+      "text": "today, Krea 3 makes it to the top of image arenas.\n\n- \"Fast\" pushes the pareto curve of speed and quality.\n- \"Ultra\" ranks top-4, only surpassed by OpenAI models.\n\nthe only company valued under $1T in the top-10!\n\nmore below 👇 https://t.co/BD8aVEI1WY"
+    },
+    {
+      "tweetId": "2112578867521319377",
+      "role": "source",
+      "authorHandle": "arena",
+      "url": "https://x.com/arena/status/2112578867521319377",
+      "tweetedAt": "2026-10-20T16:17:06.000Z",
+      "bestBit": "#4 by lab in Multi-Image Edit, and #5 by lab in Image Edit!",
+      "text": "Krea 3 Ultra by @krea_ai has landed in the Single-Image Edit Arena and the Multi-Image Edit Arena.\n\n@krea_ai is now among the top 5 labs for both arenas: #4 by lab in Multi-Image Edit, and #5 by lab in Image Edit!\n\nIn the Multi-Image Edit Arena, Krea 3 Ultra is #4 with 1435 pts. By category it is:\n- #2 in Commercial Design and in 3D\n- #4 in Cartoon/Fantasy and in Text Rendering\n\nIn the Image Edit Arena it landed #8 with 1411 pts, and by category:\n- #6 in Commercial Design, Cartoon/Fantasy and Text Rendering\n- #8 in 3D\n\nCongrats to the team at @krea_ai on this release!",
+      "quotedTweetText": "today, Krea 3 makes it to the top of image arenas.\n\n- \"Fast\" pushes the pareto curve of speed and quality.\n- \"Ultra\" ranks top-4, only surpassed by OpenAI models.\n\nthe only company valued under $1T in the top-10!\n\nmore below 👇 https://t.co/BD8aVEI1WY"
+    },
+    {
+      "tweetId": "2112577841418428564",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2112577841418428564",
+      "tweetedAt": "2026-10-20T16:13:01.000Z",
+      "bestBit": "Krea 3 Ultra is the highest-ranked image editing model from outside OpenAI, Google and Microsoft",
+      "text": "Krea 3 Ultra lands at #5 on AA-Image-Editing v2.1, with quality similar to Nano Banana 2.1 and MAI-Image-2.6\n\nKrea 3, released on October 15, is Krea's new image editing model and its first on our Image Editing leaderboard. Today Krea adds Ultra, its highest thinking mode, alongside the default Fast mode, and we tested both modes through the Krea API at 2K resolution.\n\nKrea 3 Ultra is the highest-ranked image editing model from outside OpenAI, Google and Microsoft. It places in the top 7 in 15 of our 17 Image Editing categories. Its best results are in Animation & Gaming and Frontier, at #2 in both. Krea 3 Fast, the default mode, lands at #11.\n\nOn the Krea API, Krea 3 Fast costs $0.03 per 1K image, plus $0.02 per 1K reference image. Krea 3 Ultra supports 2K output only, and costs $0.27 for a 2K edit with one 1K reference image.\n\nKrea 3 is available on Krea's API and through other 3rd party APIs.\n\nCongratulations to @krea_ai on the release!\n\nSee below for our analysis and example outputs of Krea 3 in the Artificial Analysis Image Arena 🧵"
+    },
+    {
+      "tweetId": "2112567870702092322",
+      "role": "commentary",
+      "authorHandle": "synthwavedd",
+      "url": "https://x.com/synthwavedd/status/2112567870702092322",
+      "tweetedAt": "2026-10-20T15:33:24.000Z",
+      "bestBit": "one point behind google's nano banana 2.1",
+      "text": "krea 3 ultra is #4 on artificial analysis's image editing arena at 1151 elo, one point behind google's nano banana 2.1 👀\n\nthe only models above it are from openai and google!! it's ahead of everything meta, bytedance and xai have launched. cool to see from an independent lab https://t.co/8RLrsdcxLU",
+      "quotedTweetText": "today, Krea 3 makes it to the top of image arenas.\n\n- \"Fast\" pushes the pareto curve of speed and quality.\n- \"Ultra\" ranks top-4, only surpassed by OpenAI models.\n\nthe only company valued under $1T in the top-10!\n\nmore below 👇 https://t.co/BD8aVEI1WY"
+    },
+    {
+      "tweetId": "2112569806247674344",
+      "role": "commentary",
+      "authorHandle": "itsolelehmann",
+      "url": "https://x.com/itsolelehmann/status/2112569806247674344",
+      "tweetedAt": "2026-10-20T15:41:06.000Z",
+      "bestBit": "it edits about 4x faster for less than half the price",
+      "text": "there's an old rule in engineering: fast, cheap, good: pick 2\n\nthis has been true for AI image models, until now\n\nKrea 3 just tied Google's Nano Banana 2.1 on Artificial Analysis's blind leaderboard (1151 vs 1152), and it edits about 4x faster for less than half the price\n\nso now you get all three :)",
+      "quotedTweetText": "today, Krea 3 makes it to the top of image arenas.\n\n- \"Fast\" pushes the pareto curve of speed and quality.\n- \"Ultra\" ranks top-4, only surpassed by OpenAI models.\n\nthe only company valued under $1T in the top-10!\n\nmore below 👇 https://t.co/BD8aVEI1WY"
+    },
+    {
+      "tweetId": "2112574271226528156",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2112574271226528156",
+      "tweetedAt": "2026-10-20T15:58:50.000Z",
+      "bestBit": "Krea 3 Ultra scores 1,151 Elo on Artificial Analysis’s AA-Image-Editing v2.1",
+      "text": "Krea’s published results put an independent lab right alongside Google and Microsoft in image editing.\n\nKrea 3 Ultra scores 1,151 Elo on Artificial Analysis’s AA-Image-Editing v2.1. That’s the same displayed score as Microsoft’s MAI-Image-2.6, and one point behind Google’s Nano Banana 2.1.",
+      "quotedTweetText": "today, Krea 3 makes it to the top of image arenas.\n\n- \"Fast\" pushes the pareto curve of speed and quality.\n- \"Ultra\" ranks top-4, only surpassed by OpenAI models.\n\nthe only company valued under $1T in the top-10!\n\nmore below 👇 https://t.co/BD8aVEI1WY"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-krea-3-ultra-ranks-4th-on-ai-image-editing-leaderboard-253c9fc4",
+    "title": "UPDATE: Krea 3 Ultra Ranks 4th on AI Image Editing Leaderboard",
+    "publishedAt": "2026-10-20T15:54:48.330Z",
+    "eventTimeApprox": "2026-10-16T02:43:17.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 46,
+    "authorCount": 20
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "new-york-bans-ai-chatbots-from-posing-as-human-companions-to-minors-ac37ebc3",
+  "title": "New York Bans AI Chatbots From Posing as Human Companions to Minors",
+  "publishedAt": "2026-10-29T05:06:49.260Z",
+  "eventTimeApprox": "2026-10-29T04:47:12.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "summary": "Governor Kathy Hochul signed a law prohibiting AI chatbot developers from misleading users under 18 into believing their software is human. The legislation specifically targets bots designed to act as companions to children, barring them from claiming to share personal relationships with minors.\n\nThe measure restricts the general use of AI chatbots for children in New York and bans the use of specific features designated as unsafe for users under 18.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115651090154729916",
+      "role": "source",
+      "authorHandle": "trtworld",
+      "url": "https://x.com/trtworld/status/2115651090154729916",
+      "tweetedAt": "2026-10-29T03:45:01.000Z",
+      "bestBit": "barring them from misleading minors into believing they are human or share a personal relationship",
+      "text": "New York Governor Kathy Hochul signs a new law cracking down on AI chatbots that pose as companions to children, barring them from misleading minors into believing they are human or share a personal relationship \nhttps://t.co/fAp16hwY6V"
+    },
+    {
+      "tweetId": "2115666015258595505",
+      "role": "support",
+      "authorHandle": "theinsiderpaper",
+      "url": "https://x.com/TheInsiderPaper/status/2115666015258595505",
+      "tweetedAt": "2026-10-29T04:44:19.000Z",
+      "bestBit": "New York passes law restricting children's use of AI chatbots",
+      "text": "NEW - New York passes law restricting children's use of AI chatbots"
+    }
+  ],
+  "isSuperseded": false
+}

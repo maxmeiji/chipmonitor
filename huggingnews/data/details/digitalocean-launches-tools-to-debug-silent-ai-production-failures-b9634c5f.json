@@ -1,0 +1,108 @@
+{
+  "slug": "digitalocean-launches-tools-to-debug-silent-ai-production-failures-b9634c5f",
+  "title": "DigitalOcean Launches Tools to Debug Silent AI Production Failures",
+  "publishedAt": "2026-10-12T16:39:25.380Z",
+  "eventTimeApprox": "2026-10-12T15:49:09.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "DOCN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "DigitalOcean Holdings, Inc.",
+      "hubKey": "docn"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109666287429255516/AIrj_r7MHG97KlXq-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109666287429255516/AIrj_r7MHG97KlXq-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2109658645466402816/vid/avc1/1920x1080/DiYBtaFz4BFYip_N.mp4?tag=29",
+    "credit": {
+      "handle": "omarsar0",
+      "tweetUrl": "https://x.com/omarsar0/status/2109666287429255516"
+    }
+  },
+  "summary": "The cloud computing firm now offers a set of services that allow developers to isolate errors in autonomous assistants that appear to be working while delivering incorrect responses. DigitalOcean has released its Agent Learning and Agent Data Services, including a public preview of Signals to monitor live traffic for indicators of user frustration using rule-based detection rather than AI models. The suite also features Simulations for replaying failed conversations to verify fixes, as well as Insights, while Agent Data Services is available in private preview to let developers diagnose problems by reviewing documents and support recordings.\n\nThe tools are compatible with Claude Code, Codex, and OpenCode agents, and they replayed 10 production scenarios in under a minute during internal company testing. Every proposed fix requires a human to review and approve or deny the change before release. By automatically converting production failures into a test set, the system eliminates the need for manual transcript audits or expensive grading by large language models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109658000612835374",
+      "role": "source",
+      "authorHandle": "digitalocean",
+      "url": "https://x.com/digitalocean/status/2109658000612835374",
+      "tweetedAt": "2026-10-12T14:50:37.000Z",
+      "bestBit": "find the bug and fix it before anyone else hits it, with Agent Learning Services and Agent Data Services",
+      "text": "Catch it at the first user, not the four-hundredth.\n\nA new user’s bank link fails, the agent says “try again later,” and nothing shows up in the logs. Watch a team find the bug and fix it before anyone else hits it, with Agent Learning Services and Agent Data Services, launching today."
+    },
+    {
+      "tweetId": "2109667399142093203",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2109667399142093203",
+      "tweetedAt": "2026-10-12T15:27:58.000Z",
+      "bestBit": "launched a public preview of Signals, Simulations, and Insights, and a private preview of Agent Data Services",
+      "text": "DigitalOcean has launched a public preview of Signals, Simulations, and Insights, and a private preview of Agent Data Services.\n\nWith these tools, teams can now catch issues with the first affected user and test the fix on that exact conversation before releasing.\n\n> Signals can read live agent traffic and flag sessions that went wrong, like a tool call that succeeded but queried the wrong region.\n\n> Users can turn a flagged session into a test, and Simulations will replay the whole conversation with the proposed fix.\n\n> Agent Data Services allows the agent to review old support call recordings and documents to figure out what caused the problem.",
+      "quotedTweetText": "Catch it at the first user, not the four-hundredth.\n\nA new user’s bank link fails, the agent says “try again later,” and nothing shows up in the logs. Watch a team find the bug and fix it before anyone else hits it, with Agent Learning Services and Agent Data Services, launching today."
+    },
+    {
+      "tweetId": "2109667401776205854",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2109667401776205854",
+      "tweetedAt": "2026-10-12T15:27:58.000Z",
+      "bestBit": "in DigitalOcean's testing, it replayed 10 production scenarios end-to-end in under a minute",
+      "text": "Simulations can run on the same agent setup and tools used in production, with mock tools available to simulate actions that have a cost.\n\nThe preview works with Claude Code, Codex, and OpenCode agents, and in DigitalOcean's testing, it replayed 10 production scenarios end-to-end in under a minute.\n\nA human reviews and approves or denies every fix. Agent Data Services is available by request.\n\nTest it out 👀\nhttps://t.co/jqiwBcBY69"
+    },
+    {
+      "tweetId": "2109666287429255516",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2109666287429255516",
+      "tweetedAt": "2026-10-12T15:23:33.000Z",
+      "bestBit": "DigitalOcean's Signals flags sessions where users got frustrated or tools failed and turns them into evals with one click",
+      "text": "Your agent traces are your best eval data.\n\nThe most important failures only show up in production, and they rarely make it into your test set.\n\nDigitalOcean's Signals flags sessions where users got frustrated or tools failed and turns them into evals with one click. Simulations then replay them against your fix on your agent's real harness before it ships.\n\nIf you're running agents in production, you need this loop.\n\nhttps://t.co/cWqMgwrEhL",
+      "quotedTweetText": "Catch it at the first user, not the four-hundredth.\n\nA new user’s bank link fails, the agent says “try again later,” and nothing shows up in the logs. Watch a team find the bug and fix it before anyone else hits it, with Agent Learning Services and Agent Data Services, launching today."
+    },
+    {
+      "tweetId": "2109681008484467076",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2109681008484467076",
+      "tweetedAt": "2026-10-12T16:22:03.000Z",
+      "bestBit": "Signals watches every live session with cheap rules, not an AI model, that look for human trouble signs",
+      "text": "Agent failures often pass every health check. A tool call hits the wrong database region, returns 200, and the user gets a slower, worse answer. Nothing alerts.\n\nDigitalOcean’s new tools flag agent sessions that fail silently, then replay them against a fix before release.\n\nBecause, the clue behind an agent bug is often sitting in something nobody can search.\n\nSignals watches every live session with cheap rules, not an AI model, that look for human trouble signs such as a user repeating themselves, asking for a human, or a tool being retried in a loop, then passes those sessions to Simulations, which replays them with a fake user against your fixed agent to check the whole conversation works before the fix ships.\n\nUntil now teams had to pay an LLM to grade every conversation, read transcripts by hand, or invent test cases from imagination, while here the real failures from production automatically become the test set.\n\nhttps://t.co/6Wkqd4oULX",
+      "quotedTweetText": "Catch it at the first user, not the four-hundredth.\n\nA new user’s bank link fails, the agent says “try again later,” and nothing shows up in the logs. Watch a team find the bug and fix it before anyone else hits it, with Agent Learning Services and Agent Data Services, launching today."
+    },
+    {
+      "tweetId": "2109680383566758321",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2109680383566758321",
+      "tweetedAt": "2026-10-12T16:19:34.000Z",
+      "bestBit": "$DOCN just launched Agent Learning and Agent Data Services to help developers catch AI agents failing silently",
+      "text": "$DOCN just launched Agent Learning and Agent Data Services to help developers catch AI agents failing silently and fix problems before they affect more users.\n\nDigitalOcean is moving into helping startups run, debug and improve their agents making its platform more valuable and harder to replace as adoption scales. https://t.co/clhm01sBbG"
+    }
+  ],
+  "isSuperseded": false
+}

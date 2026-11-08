@@ -1,0 +1,67 @@
+{
+  "slug": "openbmb-releases-minicpm-ocr-suite-with-13b-parsing-and-2b-accuracy-mode-67199a1a",
+  "title": "OpenBMB Releases MiniCPM-OCR Suite With 1.3B Parsing and 2B Accuracy Models",
+  "publishedAt": "2026-10-27T20:08:51.475Z",
+  "eventTimeApprox": "2026-10-27T18:04:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115124474882469955/HVpufwLasAA2bIg-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115124474882469955/HVpufwLasAA2bIg-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "openbmb",
+      "tweetUrl": "https://x.com/OpenBMB/status/2115124474882469955"
+    }
+  },
+  "summary": "The developer of the MiniCPM family of AI models has launched a new set of document-parsing tools designed to lower the costs of converting physical text and complex layouts into digital formats. Distributed under an Apache 2.0 license, the new software consists of two models: MiniCPM-OCR 1.0, a 1.3B parameter parser for text and tables, and MiniCPM-OCR Jev, a 2B parameter judge model used to validate the accuracy of the output and flag unreliable results for human review.\n\nThe tools are optimized for throughput using the DSpark optimizer, which allows the system to process up to 128 pages per minute. On the OCRBench v2 benchmark, the parsing model recorded a score of 54.7, while the Jev quality judge achieved 93.6 on JevOCRBench. The suite offers day-one support for Nvidia, Intel, and Arm chips, and integrates with deployment frameworks including vLLM, Ollama, and llama.cpp.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115124474882469955",
+      "role": "source",
+      "authorHandle": "openbmb",
+      "url": "https://x.com/OpenBMB/status/2115124474882469955",
+      "tweetedAt": "2026-10-27T16:52:26.000Z",
+      "bestBit": "With DSpark, MiniCPM-OCR runs at 1.49× the speed of PaddleOCR-VL-1.6 and 3.62× that of MinerU2.5 Pro.",
+      "text": "Your OCR says it’s done—but did it get everything right? 🤔 In high-stakes workflows, even a small error can be costly.\n\n🚀 Meet the MiniCPM-OCR suite: an open-source solution to parse fast and guard the results.\n\nTwo new models:\n🔹 MiniCPM-OCR 1.0 — SOTA OCR performance and speed at 1B scale. Compact, accurate, and fast.\n🔹 MiniCPM-OCR Jev — A 2B decision model that helps assess parsing accuracy, with performance approaching that of Qwen3.5-397B-A17B on JevOCRBench.\n\n⚡ What’s new?\nSmall model, SOTA results: MiniCPM-OCR 1.0 scores 93.68 on Real5-OmniDocBench and 54.7 on OCRBench v2.\n\nA sharp goalkeeper 🛡️: MiniCPM-OCR Jev is model-agnostic, checking text, formulas, and tables from different OCR parsers. It achieves 93.6 on JevOCRBench, outperforming JEV-35B-A3B (90.1) and approaching Qwen3.5-397B-A17B (93.8).\n\nUp to 128 pages per minute 🤯: With DSpark, MiniCPM-OCR runs at 1.49× the speed of PaddleOCR-VL-1.6 and 3.62× that of MinerU2.5 Pro. The SDK’s concurrency optimizations further boost throughput to as much as 128 pages per minute.\n\nDeploy where you work: Day-0 support for Arm, Houmo AI, Intel, and NVIDIA, plus 10 more chip vendors through FlagOS.\n\nReady for your stack: vLLM, SGLang, llama.cpp, and Ollama, with quantized models, fine-tuning support, and Agent Skills.\n\n🔗 GitHub: https://t.co/2SlATAJk08\n🤗 Hugging Face:\nMiniCPM-OCR 1.0：https://t.co/i347di4Fju\nMiniCPM-OCR Jev：https://t.co/ayVzhCJenh\n👉 Try the Demo：https://t.co/QsFAJT3AFy\nUse the API：https://t.co/dP01jBS2j2"
+    },
+    {
+      "tweetId": "2115169795251614152",
+      "role": "commentary",
+      "authorHandle": "arankomatsuzaki",
+      "url": "https://x.com/arankomatsuzaki/status/2115169795251614152",
+      "tweetedAt": "2026-10-27T19:52:31.000Z",
+      "bestBit": "it makes no sense to keep paying $10 per 1k pages on proprietary products anymore when you can pay <$1 per 1k pages.",
+      "text": "OpenBMB presents MiniCPM-OCR 1.0, a 1.3B open-source OCR model with open-SOTA results across major benchmarks.\n- OCRBench v2: 47.4 -> 54.7\n- CHAOS-Bench: 21.28 -> 29.78\n- Competitive throughput: 1.49× PaddleOCR-VL-1.6\n\nRecently, open OCR models have rapidly improved to the point where they often exceed proprietary OCR products offered by hyperscalers, while costing an order of magnitude less. This release pushes the trend further. Honestly, it makes no sense to keep paying $10 per 1k pages on proprietary products anymore when you can pay <$1 per 1k pages.\n\nDay-one support: vLLM, SGLang, llama.cpp and Ollama, plus quantized versions.\n\nAlso released: MiniCPM-OCR Jev, a 2B quality judge for flagging unreliable OCR outputs and prioritizing review. It achieves 93.6 on JevOCRBench, outperforming JEV-35B-A3B (90.1) and approaching Qwen3.5-397B-A17B (93.8).\n\nHF (MiniCPM-OCR 1.0): https://t.co/D0yFoe648o\nHF (MiniCPM-OCR Jev): https://t.co/E19N6rrtRm\nGitHub: https://t.co/42TSMHtk1D\n@OpenBMB",
+      "quotedTweetText": "Your OCR says it’s done—but did it get everything right? 🤔 In high-stakes workflows, even a small error can be costly.\n\n🚀 Meet the MiniCPM-OCR suite: an open-source solution to parse fast and guard the results.\n\nTwo new models:\n🔹 MiniCPM-OCR 1.0 — SOTA OCR performance and speed at 1B scale. Compact, accurate, and fast.\n🔹 MiniCPM-OCR Jev — A 2B decision model that helps assess parsing accuracy, with performance approaching that of Qwen3.5-397B-A17B on JevOCRBench.\n\n⚡ What’s new?\nSmall model, SOTA results: MiniCPM-OCR 1.0 scores 93.68 on Real5-OmniDocBench and 54.7 on OCRBench v2.\n\nA sharp goalkeeper 🛡️: MiniCPM-OCR Jev is model-agnostic, checking text, formulas, and tables from different OCR parsers. It achieves 93.6 on JevOCRBench, outperforming JEV-35B-A3B (90.1) and approaching Qwen3.5-397B-A17B (93.8).\n\nUp to 128 pages per minute 🤯: With DSpark, MiniCPM-OCR runs at 1.49× the speed of PaddleOCR-VL-1.6 and 3.62× that of MinerU2.5 Pro. The SDK’s concurrency optimizations further boost throughput to as much as 128 pages per minute.\n\nDeploy where you work: Day-0 support for Arm, Houmo AI, Intel, and NVIDIA, plus 10 more chip vendors through FlagOS.\n\nReady for your stack: vLLM, SGLang, llama.cpp, and Ollama, with quantized models, fine-tuning support, and Agent Skills.\n\n🔗 GitHub: https://t.co/2SlATAJk08\n🤗 Hugging Face:\nMiniCPM-OCR 1.0：https://t.co/i347di4Fju\nMiniCPM-OCR Jev：https://t.co/ayVzhCJenh\n👉 Try the Demo：https://t.co/QsFAJT3AFy\nUse the API：https://t.co/dP01jBS2j2"
+    }
+  ],
+  "isSuperseded": false
+}

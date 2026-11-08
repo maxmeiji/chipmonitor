@@ -1,0 +1,71 @@
+{
+  "slug": "sperid-labs-releases-iris-3b-open-3b-parameter-image-model-without-vae-7fc1531e",
+  "title": "Sperid Labs Releases Iris-3B Open 3B Parameter Image Model Without VAE",
+  "publishedAt": "2026-10-08T23:23:34.124Z",
+  "eventTimeApprox": "2026-10-08T20:46:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108333163768582177/82820BdEYC3baF4b-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108333163768582177/82820BdEYC3baF4b-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2108333125885726720/vid/avc1/1440x1080/MgWGnPGlTaMLu61x.mp4?tag=29",
+    "credit": {
+      "handle": "_akhaliq",
+      "tweetUrl": "https://x.com/_akhaliq/status/2108333163768582177"
+    }
+  },
+  "summary": "A new framework from Sperid Labs produces visual data by bypassing traditional latent stages. Known as Iris-3B, the 3B parameter text-to-image model was pre-trained from scratch and is available under an Apache 2.0 license. The organization has published the model's weights, source code, and a demonstration for public use.\n\nThe developers also applied the model's generative prior to detail-critical vision tasks, specifically image restoration and depth estimation. These methods are detailed in a research paper titled 'Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning' released alongside the model.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108241672291438830",
+      "role": "source",
+      "authorHandle": "speridlabs",
+      "url": "https://x.com/speridlabs/status/2108241672291438830",
+      "tweetedAt": "2026-10-08T17:02:38.000Z",
+      "bestBit": "a pixel-space T2I model and general vision learner that generates every pixel directly. No VAE.",
+      "text": "Meet Iris-3B: a pixel-space T2I model and general vision learner that generates every pixel directly. No VAE.\n\nPre-trained from scratch, 3B, open weights.\nWe also explore its generative prior on detail-critical vision tasks: depth estimation and image restoration.\n\nFully open: weights, code and demo (Apache 2.0)\n\nhttps://t.co/sg3fwKpfud"
+    },
+    {
+      "tweetId": "2108333163768582177",
+      "role": "support",
+      "authorHandle": "_akhaliq",
+      "url": "https://x.com/_akhaliq/status/2108333163768582177",
+      "tweetedAt": "2026-10-08T23:06:11.000Z",
+      "bestBit": "Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning",
+      "text": "Iris-3B\n\nGoing Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning\n\npaper: https://t.co/3XEpGbAxda https://t.co/7cOKaMzSYL"
+    }
+  ],
+  "isSuperseded": false
+}

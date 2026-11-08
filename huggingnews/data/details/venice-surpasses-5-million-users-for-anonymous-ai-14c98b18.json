@@ -1,0 +1,36 @@
+{
+  "slug": "venice-surpasses-5-million-users-for-anonymous-ai-14c98b18",
+  "title": "Venice Surpasses 5 Million Users for Anonymous AI",
+  "publishedAt": "2026-10-19T18:24:08.515Z",
+  "eventTimeApprox": "2026-10-19T18:03:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "summary": "The developers of a privacy focused artificial intelligence network provide an environment for users to interact with models without the content filters and identity requirements typically used by mainstream platforms. This tool is specifically targeted at builders and creators who prioritize anonymity over corporate safety guardrails.\n\nVenice announced on Oct. 19 that its user base has passed 5,000,000 people. The platform maintains that its growth has not compromised its core tenets of remaining private and unrestricted, noting that its community consists primarily of free thinkers and developers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112242467651428359",
+      "role": "source",
+      "authorHandle": "askvenice",
+      "url": "https://x.com/AskVenice/status/2112242467651428359",
+      "tweetedAt": "2026-10-19T18:00:22.000Z",
+      "bestBit": "Still private. Still anonymous. Still unrestricted. Thank you to every builder, creator, and free thinker on Venice.",
+      "text": "Today, Venice passed 5,000,000 users.\n\nStill private. Still anonymous. Still unrestricted.\n\nThank you to every builder, creator, and free thinker on Venice. https://t.co/Ci5aK6b9dY"
+    }
+  ],
+  "isSuperseded": false
+}

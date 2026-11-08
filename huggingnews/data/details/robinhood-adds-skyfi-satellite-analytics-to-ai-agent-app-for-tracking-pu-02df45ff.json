@@ -1,0 +1,94 @@
+{
+  "slug": "robinhood-adds-skyfi-satellite-analytics-to-ai-agent-app-for-tracking-pu-02df45ff",
+  "title": "Robinhood Adds SkyFi Satellite Analytics to AI Agent App for Tracking Public Company Sites",
+  "publishedAt": "2026-11-04T18:29:12.356Z",
+  "eventTimeApprox": "2026-11-04T17:53:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "HOOD",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Robinhood Markets, Inc. Class A Common Stock",
+      "hubKey": "hood"
+    },
+    {
+      "ticker": "BKSY",
+      "kind": "equity",
+      "role": "related",
+      "name": "BlackSky Technology Inc.",
+      "hubKey": "bksy"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118039039810916859/HWTJAXCWUAA8BB6-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118039039810916859/HWTJAXCWUAA8BB6-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "lukefischer",
+      "tweetUrl": "https://x.com/lukefischer/status/2118039039810916859"
+    }
+  },
+  "summary": "Robinhood has launched a new tool allowing retail investors to monitor physical activity at facilities tied to publicly traded companies using satellite imagery. The service, provided by SkyFi, is integrated as an agent app within the Robinhood platform and uses an LLM interface to deliver imagery and analysis from BlackSky over corporate sites such as data center construction zones and vehicle manufacturing plants.\n\nThe application starts with coverage of 24 sites and costs $10 a month after a 30 day free trial. Users can query their AI agent about a specific location to receive the most recent satellite observations and data to inform their investment decisions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118019154179666025",
+      "role": "source",
+      "authorHandle": "skyfiapp",
+      "url": "https://x.com/SkyfiApp/status/2118019154179666025",
+      "tweetedAt": "2026-11-04T16:34:51.000Z",
+      "bestBit": "It returns SkyFi's analysis of @BlackSky_Inc satellite observations, with the image, analyzed data, and capture date.",
+      "text": "Satellite Intelligence from SkyFi is now available as a @Robinhoodapp Agent app.\n\nAsk your Robinhood agent about a monitored site. It returns SkyFi's analysis of  @BlackSky_Inc satellite observations, with the image, analyzed data, and capture date. https://t.co/CRRaMQccIh https://t.co/lCFEWyUkdO"
+    },
+    {
+      "tweetId": "2118027520352112769",
+      "role": "support",
+      "authorHandle": "blacksky_inc",
+      "url": "https://x.com/BlackSky_Inc/status/2118027520352112769",
+      "tweetedAt": "2026-11-04T17:08:06.000Z",
+      "bestBit": "allows a Robinhood customer to ask their agent about physical activity at a fixed set of facilities, including vehicle plants, fulfillment centers, theme parks, and data center construction sites.",
+      "text": "@SkyfiApp's Satellite Intelligence, a @RobinhoodApp Agent App, is now available. \n\nBlackSky is the initial imagery provider for the app, which allows a Robinhood customer to ask their agent about physical activity at a fixed set of facilities, including vehicle plants, fulfillment centers, theme parks, and data center construction sites. \n\nSkyFi delivers the analytic results, which are derived from BlackSky satellite imagery captured within set time windows. For example, the imagery below shows the number of vehicles at the @Tesla factory in Austin. \n\nCheck it out today: https://t.co/IRX7NzldaS"
+    },
+    {
+      "tweetId": "2118039039810916859",
+      "role": "support",
+      "authorHandle": "lukefischer",
+      "url": "https://x.com/lukefischer/status/2118039039810916859",
+      "tweetedAt": "2026-11-04T17:53:53.000Z",
+      "bestBit": "24 sites to start. $10/month, first 30 days free.",
+      "text": "Our \"Satellite Intelligence\" app from @SkyfiApp is live in @RobinhoodApp's Agent Apps!\n\nIt pulls fresh imagery from @BlackSky_Inc over monitored sites tied to publicly traded companies and gives you the context you need to make a decision in an LLM experience.\n\nIt works for data center builds, fulfillment hubs, EV manufacturers, even theme park parking lots.\n\n24 sites to start. $10/month, first 30 days free."
+    },
+    {
+      "tweetId": "2118038932361285711",
+      "role": "engagement",
+      "authorHandle": "bp22",
+      "url": "https://x.com/bp22/status/2118038932361285711",
+      "tweetedAt": "2026-11-04T17:53:27.000Z",
+      "bestBit": "Robinhood is going with advanced intelligence capabilities",
+      "text": "Robinhood is going with advanced intelligence capabilities",
+      "quotedTweetText": "Satellite Intelligence from SkyFi is now available as a @Robinhoodapp Agent app.\n\nAsk your Robinhood agent about a monitored site. It returns SkyFi's analysis of  @BlackSky_Inc satellite observations, with the image, analyzed data, and capture date. https://t.co/CRRaMQccIh https://t.co/lCFEWyUkdO"
+    }
+  ],
+  "isSuperseded": false
+}

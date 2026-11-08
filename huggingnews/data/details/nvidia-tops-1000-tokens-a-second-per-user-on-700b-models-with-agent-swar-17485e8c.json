@@ -1,0 +1,119 @@
+{
+  "slug": "nvidia-tops-1000-tokens-a-second-per-user-on-700b-models-with-agent-swar-17485e8c",
+  "title": "Nvidia Tops 1,000 Tokens a Second per User on 700B+ Models With Agent Swarm Code",
+  "publishedAt": "2026-11-01T18:06:12.470Z",
+  "eventTimeApprox": "2026-10-20T21:06:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 164,
+  "authorCount": 92,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "related",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112703315373076536/HVHSpBaawAAI00b-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112703315373076536/HVHSpBaawAAI00b-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "vllm_project",
+      "tweetUrl": "https://x.com/vllm_project/status/2112703315373076536"
+    }
+  },
+  "summary": "A new Nvidia submission to the SemiAnalysis AgentX benchmark uses software written by an agent swarm to push high bandwidth memory chips past 1,000 tokens per second per user on models with more than 700B parameters. Running on Nvidia's Rubin NVL72 system, the submission delivers 20.9 times the performance per total cost of ownership of a GB300 NVL72 rack at 325 tokens per second per user, and up to 9.11 times the performance per TCO at 200 tokens per second per user.\n\nThe result follows a series of AgentX gains on DeepSeek's 552B parameter V4.1 Flash model after the Chinese lab open sourced its internal DeepInfer engine on Oct. 20. Open source inference framework SGLang, working with RadixArk and Nvidia on a GB300 NVL72 rack, reached 943 tokens per second per user at a concurrency of 1 using MegaKernel and raised peak total throughput to 1.09 million tokens per second per GPU, up from 654,000 four days earlier.\n\nRival framework vLLM also integrated DeepSeek's open source kernels to match DeepInfer's decode curve across batch sizes 8 to 256 at half the expert parallelism, posting 954,000 tokens per second per GPU on AgentX on a GB300 NVL72 system and generating $38.96 per GPU hour at DeepSeek's off peak API prices. In its DeepInfer technical report, DeepSeek disclosed that a single production cluster processes 155 trillion tokens per day with a 96% input cache hit rate, earning $38 in revenue per GPU hour at off peak rates.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116950855718998288",
+      "role": "source",
+      "authorHandle": "semianalysis_",
+      "url": "https://x.com/SemiAnalysis_/status/2116950855718998288",
+      "tweetedAt": "2026-11-01T17:49:49.000Z",
+      "bestBit": "HBM CHIPS CAN REACH OVER 1000 tok/s/user on giant 700B+ models via agent swarm-written software, according to a new NVIDIA AgentX submission",
+      "text": "BREAKING NEWS🚨: HBM CHIPS CAN REACH OVER 1000 tok/s/user on giant 700B+ models via agent swarm-written software, according to a new NVIDIA AgentX submission.\n\nFurthermore, on Rubin NVL72, it can achieve 20.9x better perf per TCO than GB300 NVL72 at even \"ultrafast\" speeds of 325 tok/s/user and up to 9.11x better perf per TCO at 200 tok/s/user. (1/2)🧵"
+    },
+    {
+      "tweetId": "2115821309137465536",
+      "role": "support",
+      "authorHandle": "semianalysis_",
+      "url": "https://x.com/SemiAnalysis_/status/2115821309137465536",
+      "tweetedAt": "2026-10-29T15:01:24.000Z",
+      "bestBit": "GB300 NVL72 @sgl_project can get close to 1000 tok/s/user on DeepSeek Flash v4.1 by aggressively fusing kernels together",
+      "text": "ALERT🚨: GB300 NVL72 @sgl_project can get close to 1000 tok/s/user on DeepSeek Flash v4.1 by aggressively fusing kernels together!!\n\nTileRT started this trend in the ecosystem of megakernel engines on OSS frontier models! Glad to see SGLang widely adopting it!\n\nGreat work by the SGLang, @radixark, and NVIDIA teams on pushing performance!"
+    },
+    {
+      "tweetId": "2115913588741468629",
+      "role": "commentary",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2115913588741468629",
+      "tweetedAt": "2026-10-29T21:08:05.000Z",
+      "bestBit": "DeepSeek V4.1 Flash on GB300 NVL72, with SGLang’s aggressive kernel fusion pushing performance further",
+      "text": "Closing in on 1,000 tok/s/user. 🚀\n\nDeepSeek V4.1 Flash on GB300 NVL72, with SGLang’s aggressive kernel fusion pushing performance further.\n\nHuge thanks to the SGLang contributors and @nvidia for making this happen, and @SemiAnalysis_ for the benchmarks!",
+      "quotedTweetText": "ALERT🚨: GB300 NVL72 @sgl_project can get close to 1000 tok/s/user on DeepSeek Flash v4.1 by aggressively fusing kernels together!!\n\nTileRT started this trend in the ecosystem of megakernel engines on OSS frontier models! Glad to see SGLang widely adopting it!\n\nGreat work by the SGLang, @radixark, and NVIDIA teams on pushing performance!"
+    },
+    {
+      "tweetId": "2116353629057962217",
+      "role": "source",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2116353629057962217",
+      "tweetedAt": "2026-10-31T02:16:39.000Z",
+      "bestBit": "DeepSeek V4.1 Flash with SGLang went from 654K to 1.09M tok/s per GPU in peak total throughput (cache + new input + output) on AgentX over the past four days",
+      "text": "No alerts, but DeepSeek V4.1 Flash with SGLang went from 654K to 1.09M tok/s per GPU in peak total throughput (cache + new input + output) on AgentX over the past four days 🤫\n\nFor ultra-low latency, we also measured 943 tok/s/user at concurrency 1 with MegaKernel.  \n\nThere is still more to come 🤌"
+    },
+    {
+      "tweetId": "2114779348838338719",
+      "role": "support",
+      "authorHandle": "semianalysis_",
+      "url": "https://x.com/SemiAnalysis_/status/2114779348838338719",
+      "tweetedAt": "2026-10-26T18:01:02.000Z",
+      "bestBit": "Congrats to the SGLang and RadixArk team for their amazing work on MegaKernel + PD, improving both high concurrency throughput and low-latency serving as well",
+      "text": "Congrats to the SGLang and RadixArk team for their amazing work on MegaKernel + PD, improving both high concurrency throughput and low-latency serving as well! (1/2)🧵 https://t.co/G9liiKmGvh"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "sglang-hits-109m-tokens-a-second-per-gpu-943-per-user-on-deepseek-v41-fl-b7662677",
+    "title": "SGLang Hits 1.09M Tokens a Second per GPU, 943 per User on DeepSeek V4.1 Flash",
+    "publishedAt": "2026-10-31T02:36:01.684Z",
+    "eventTimeApprox": "2026-10-20T20:56:29.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 163,
+    "authorCount": 92
+  }
+}

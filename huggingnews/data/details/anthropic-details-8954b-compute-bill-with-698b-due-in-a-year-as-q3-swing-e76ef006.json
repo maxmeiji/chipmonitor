@@ -1,0 +1,142 @@
+{
+  "slug": "anthropic-details-8954b-compute-bill-with-698b-due-in-a-year-as-q3-swing-e76ef006",
+  "title": "Anthropic Details $895.4B Compute Bill With $69.8B Due in a Year as Q3 Swings to Operating Loss",
+  "publishedAt": "2026-11-02T16:07:08.755Z",
+  "eventTimeApprox": "2026-10-26T13:14:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 1524,
+  "authorCount": 402,
+  "routingTopicKeys": [
+    "earnings",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Anthropic disclosed a multi-decade payment schedule for its $895.4 billion in compute and infrastructure commitments in an amended IPO filing on Monday, detailing that $69.8 billion is due within the 12 months following Sept. 30, $447.5 billion is expected through 2030 and the remainder stretches from 2031 to 2045. Leases signed but not yet started account for $451 billion of the total, including $100 billion signed after Sept. 30, while $214 billion of the obligations carry termination rights or contingent conditions and another $150 billion to $175 billion in deals without fixed dollar amounts sits outside the tally. The filing also showed Anthropic swung to a third-quarter GAAP operating loss of $567 million from a $974 million operating profit in the second quarter, even as quarterly revenue jumped 1,127% year over year and 47% sequentially to $16.96 billion.\n\nThe return to an operating loss came as compute and infrastructure expenses rose 78% from the prior quarter to $9.86 billion, lifting compute costs to 58% of revenue and cutting revenue per dollar of compute spend from $2.08 to $1.72. Total third-quarter operating expenses reached $17.5 billion, driven by $5 billion in pricier short-term compute capacity and a $2 billion noncash charge from its employee charitable donation-matching program. Adjusted operating income rose to $2.5 billion from $2.2 billion in the second quarter, though the adjusted operating margin narrowed to 15% from 19%, and Anthropic warned that continued reliance on short-term capacity will further squeeze near-term margins.\n\nThird-quarter net loss widened to $23.3 billion from $12.1 billion a year earlier, including $21.9 billion in noncash revaluation charges on convertible notes, bringing nine-month revenue to $33.2 billion and the nine-month net loss to $104 billion. Operating cash flow for the first nine months was $6.6 billion, up from a $2 billion outflow a year earlier, and Anthropic ended September with $95.6 billion in cash, $36.3 billion in short-term investments, $15 billion in undrawn credit and $13.8 billion in remaining performance obligations. The company also raised its minimum Google Cloud commitment to $121.3 billion through July 2033, granted Alphabet an option to buy up to $10 billion in nonvoting shares at the IPO price, and warned it may imminently reach its internal safety threshold for dramatically accelerated AI-driven research progress.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117262613239288317",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2117262613239288317",
+      "tweetedAt": "2026-11-02T14:28:38.000Z",
+      "bestBit": "Anthropic also disclosed approximately $895.4 billion in aggregate purchase and lease commitments as of and subsequent to September 30.",
+      "text": "$ANT - ANTHROPIC REPORTS 1,127% REVENUE SURGE, $895 BILLION IN COMMITMENTS\n\nAnthropic reported Q3 2026 revenue of $17 billion, representing 1,127% year-over-year growth, according to SEC filing headlines.\n\nThe AI company reported a $567 million operating loss, alongside $2.5 billion in adjusted operating income and a 15% adjusted operating margin.\n\nAnthropic also disclosed approximately $895.4 billion in aggregate purchase and lease commitments as of and subsequent to September 30."
+    },
+    {
+      "tweetId": "2117273729319452862",
+      "role": "source",
+      "authorHandle": "edludlow",
+      "url": "https://x.com/EdLudlow/status/2117273729319452862",
+      "tweetedAt": "2026-11-02T15:12:48.000Z",
+      "bestBit": "Anthropic has $895.4 BILLION of committed spend, substantially all for compute and infrastructure:\n\n$447.5B expected through 2030\n$69.8B due in the next 12 months.",
+      "text": "Anthropic S-1/A:\n\nQ3 revenue: $17B, +1,127% YoY\n\nQ3 GAAP op. margin: -3%\nAdj. op. margin: +15%\n\nBig new number: Anthropic has $895.4 BILLION of committed spend, substantially all for compute and infrastructure:\n\n$447.5B expected through 2030\n$69.8B due in the next 12 months."
+    },
+    {
+      "tweetId": "2117263614164025722",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117263614164025722",
+      "tweetedAt": "2026-11-02T14:32:37.000Z",
+      "bestBit": "Anthropic attributed its return to an operating loss partly to $5B in higher-cost short-term compute and a $2B noncash donation-matching charge.",
+      "text": "ANTHROPIC Q3 2026 FINANCIAL HIGHLIGHTS:\n\n- Revenue: $17.0B, +1,127% YoY & 47% QoQ\n- Oper Loss: $567M (vs. $974M profit in Q2)\n- Net Loss: $23.3B, vs. $12.1B YoY\n- Adj. Oper Income: $2.5B\n- Adj. Oper Margin: 15%, down from 19% in Q2\n- 9M Revenue: $33.2B\n\nAnthropic attributed its return to an operating loss partly to $5B in higher-cost short-term compute and a $2B noncash donation-matching charge.\n\nIts nine-month net loss reached $104B, largely reflecting $94.3B in noncash charges from the rising value of its convertible notes.\n\nAnthropic also disclosed approximately $895.4B in aggregate purchase and lease commitments as of and after Sept. 30, largely tied to AI compute infrastructure."
+    },
+    {
+      "tweetId": "2117273268436840874",
+      "role": "commentary",
+      "authorHandle": "hedgeyetech",
+      "url": "https://x.com/HedgeyeTech/status/2117273268436840874",
+      "tweetedAt": "2026-11-02T15:10:58.000Z",
+      "bestBit": "For $ANT Q3: Compute costs rose 78% sequentially versus 47% revenue growth, and adjusted operating margins contracted 5% points.",
+      "text": "For $ANT Q3: Compute costs rose 78% sequentially versus 47% revenue growth, and adjusted operating margins contracted 5% points.",
+      "quotedTweetText": "These Anthropic numbers stink relative to what the Buy Side was hoping for @HedgeyeTech https://t.co/8QZ6rInp58"
+    },
+    {
+      "tweetId": "2117273187167666408",
+      "role": "commentary",
+      "authorHandle": "spyjared",
+      "url": "https://x.com/SPYJared/status/2117273187167666408",
+      "tweetedAt": "2026-11-02T15:10:39.000Z",
+      "bestBit": "Anthropic’s first operating profit lasted one quarter. The $974 million gain in the second quarter flipped to a $567 million loss in the third.",
+      "text": "📉 Anthropic’s first operating profit lasted one quarter. The $974 million gain in the second quarter flipped to a $567 million loss in the third.\n\n🎯 Three days before the filing, @jaygoldberg of Seaport Research Partners called it, telling me: “[T]hey’re going to start going back into losses.”"
+    },
+    {
+      "tweetId": "2117265151103799527",
+      "role": "commentary",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2117265151103799527",
+      "tweetedAt": "2026-11-02T14:38:43.000Z",
+      "bestBit": "Anthropic just did $16.96 billion of revenue in a single quarter. A year ago it was $1.38 billion.",
+      "text": "Anthropic just did $16.96 billion of revenue in a single quarter. A year ago it was $1.38 billion. That's 12x in twelve months at a scale no other company has ever grown at…🤯\n\nThis is just the beginning folks!! https://t.co/FZXABGg2j5",
+      "quotedTweetText": "*ANTHROPIC REPORTS 1,127% REVENUE SURGE, $895 BILLION IN COMMITMENTS🤯\n\nAnthropic reported Q3 2026 revenue of $17 billion, representing 1,127% year over year growth, according to SEC filing headlines.\n\nThe AI company reported a $567 million operating loss, alongside $2.5 billion in adjusted operating income and a 15% adjusted operating margin."
+    },
+    {
+      "tweetId": "2117277316543860958",
+      "role": "analysis",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2117277316543860958",
+      "tweetedAt": "2026-11-02T15:27:04.000Z",
+      "bestBit": "These commitments include approximately $447.5 billion expected to be incurred before December 31, 2030, and substantially all of the remainder is expected to be incurred between 2031 and 2045. Approximately $69.8 billion of these commitments are due in the 12 months following September 30, 2026.",
+      "text": "It included a schedule on the aggregate commitments this time that wasn't filled in the last one. Only ~$70B (8%) in the next 12 months, ~$448B (50%) through 2030, and the remainder (42%) over 15 years from 2031-2045. That's a lot more digestible than the big scary number without any details on near-term binding nature. Still a large number, but there is some flexibility in timing, there. \n\n$17B quarterly rev so run-rate is ~$68B.\n\n\"These commitments represent substantial fixed obligations. As of and subsequent to September 30, 2026, we have entered into purchase commitments and lease agreements, including short-term commitments, as well as leases not yet commenced, with an aggregate committed spend of approximately $895.4 billion, substantially all of which is related to compute and infrastructure. These commitments include approximately $447.5 billion expected to be incurred before December 31, 2030, and substantially all of the remainder is expected to be incurred between 2031 and 2045. Approximately $69.8 billion of these commitments are due in the 12 months following September 30, 2026.\"",
+      "quotedTweetText": "Anthropic S-1/A:\n\nQ3 revenue: $17B, +1,127% YoY\n\nQ3 GAAP op. margin: -3%\nAdj. op. margin: +15%\n\nBig new number: Anthropic has $895.4 BILLION of committed spend, substantially all for compute and infrastructure:\n\n$447.5B expected through 2030\n$69.8B due in the next 12 months."
+    },
+    {
+      "tweetId": "2117285920500273582",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2117285920500273582",
+      "tweetedAt": "2026-11-02T16:01:15.000Z",
+      "bestBit": "Leases signed but not yet started make up $451B of the $895B total, and $100B was signed after September 30.",
+      "text": "Anthropic published an updated IPO filing today with its third-quarter results for the first time.\n\n> Anthropic went from a $974M operating profit in the second quarter to a $567M operating loss in the third. \n\nThe main causes were $5 B of short-term compute, which costs much more than its long-term contracts, and a $2 B noncash charge for matching employee charitable donations.\n\n> Anthropic swung from a $974M second-quarter operating profit to a $567M loss. Compute rose to 58% of revenue, including $5.0B of pricier short-term capacity, and donation matching added $2B of noncash charges.\n\n> Adjusted operating income still rose to $2.5B from $2.2B, but the adjusted margin fell to 15% from 19%. Anthropic expects to use more short-term compute in the near term, which will squeeze margins further.\n\n> The total compute commitment, left blank in the original, is now $895B. \nOf that, $447B  is expected before the end of 2030, $70B is due within 12 months, and $214B carries termination rights or contingent conditions.\n\n> Leases signed but not yet started make up $451B of the $895B total, and $100B was signed after September 30. Another $150B to $175B in deals without fixed dollar amounts sits outside the total.\n\n> Google’s minimum commitment rose to $121B through July 2033, up from $115B in the October 26 filing, after amendments signed through October.\n\n> Operating cash flow was positive at $7B for the 9 months. Liquidity reached $147B on September 30: $96B cash, $36B short-term investments and $15B of available credit."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropics-amended-ipo-filing-shows-17b-q3-revenue-and-swing-to-operatin-68d5e07a",
+    "title": "Anthropic's Amended IPO Filing Shows $17B Q3 Revenue and Swing to Operating Loss as Commitments Hit $895.4B",
+    "publishedAt": "2026-11-02T15:06:59.260Z",
+    "eventTimeApprox": "2026-10-26T13:10:59.500Z",
+    "routingTopicKeys": [
+      "earnings",
+      "ai",
+      "us-markets",
+      "tech",
+      "startups"
+    ],
+    "tweetCount": 1461,
+    "authorCount": 394
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "apple-hits-first-ever-5-trillion-market-cap-39793a5e",
+  "title": "Apple Hits First Ever $5 Trillion Market Cap",
+  "publishedAt": "2026-10-13T17:16:14.009Z",
+  "eventTimeApprox": "2026-10-13T14:26:47.000Z",
+  "isFreshStory": false,
+  "tweetCount": 26,
+  "authorCount": 20,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110047430703981007/HUhkErqWgAA62U8-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110047430703981007/HUhkErqWgAA62U8-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "barchart",
+      "tweetUrl": "https://x.com/Barchart/status/2110047430703981007"
+    }
+  },
+  "summary": "Shares of the company rose to $348.15 on Oct. 13, marking the 22nd time the stock has reached an all-time high during 2026. This price surge pushed Apple's total market valuation above $5 trillion for the first time in its history, placing the electronics giant alongside Nvidia as one of the two most valuable corporations in the world.\n\nThe valuation milestone coincides with the launch of HomeView, a $299 smart home display that personalizes Siri and connects to home cameras and locks to maintain a hardware edge over AI agents from Meta, Google, and Amazon. Meanwhile, Microsoft and Meta shares are also trading near their own record peaks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110001024337338827",
+      "role": "source",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2110001024337338827",
+      "tweetedAt": "2026-10-13T13:33:40.000Z",
+      "bestBit": "Apple $AAPL is back to being worth more than $5 Trillion",
+      "text": "Apple $AAPL is back to being worth more than $5 Trillion https://t.co/FKzyc1FzNX"
+    },
+    {
+      "tweetId": "2110006025789354188",
+      "role": "support",
+      "authorHandle": "bulltheoryio",
+      "url": "https://x.com/BullTheoryio/status/2110006025789354188",
+      "tweetedAt": "2026-10-13T13:53:33.000Z",
+      "bestBit": "hit 22 all time highs in 2026",
+      "text": "BREAKING: 🇺🇸 Apple just hit a new ALL TIME HIGH of $348.\n\nIt has now hit 22 all time highs in 2026. https://t.co/PPZ7E25zJC"
+    },
+    {
+      "tweetId": "2110047430703981007",
+      "role": "support",
+      "authorHandle": "barchart",
+      "url": "https://x.com/Barchart/status/2110047430703981007",
+      "tweetedAt": "2026-10-13T16:38:04.000Z",
+      "bestBit": "hits a $5 Trillion Market Cap, joining Nvidia $NVDA as the world's 2 most valuable companies",
+      "text": "JUST IN 🚨: Apple $AAPL hits a $5 Trillion Market Cap, joining Nvidia $NVDA as the world's 2 most valuable companies 📈📈"
+    },
+    {
+      "tweetId": "2110014390129041641",
+      "role": "support",
+      "authorHandle": "mr_derivatives",
+      "url": "https://x.com/Mr_Derivatives/status/2110014390129041641",
+      "tweetedAt": "2026-10-13T14:26:47.000Z",
+      "bestBit": "$MSFT About to make a new ATH any hour now. $META Close to making a new ATH.",
+      "text": "$AAPL New ATH today.\n\n$MSFT About to make a new ATH any hour now.\n\n$META Close to making a new ATH."
+    },
+    {
+      "tweetId": "2110012113989361849",
+      "role": "analysis",
+      "authorHandle": "mr_derivatives",
+      "url": "https://x.com/Mr_Derivatives/status/2110012113989361849",
+      "tweetedAt": "2026-10-13T14:17:44.000Z",
+      "bestBit": "intraday hit $348.15",
+      "text": "$AAPL New ATH today.. intraday hit $348.15…",
+      "quotedTweetText": "$AAPL if it closes today at the current price right now, it will be a new ATH closing price.\n\nTechnically, looks good to go for $350-$360 very near term imho.\n\nGiving me PLTR type vibes where it’s just so close it’s a self fulfilling phrophecy."
+    },
+    {
+      "tweetId": "2110020137831342152",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2110020137831342152",
+      "tweetedAt": "2026-10-13T14:49:37.000Z",
+      "bestBit": "introduced HomeView which is a $299 smart home display that recognizes up to six people",
+      "text": "$AAPL IS NOW OFFICIALLY A $5 TRILLION COMPANY https://t.co/ym3rNHgalj",
+      "quotedTweetText": "$AAPL just introduced HomeView which is a $299 smart home display that recognizes up to six people and personalizes Siri while connecting cameras, locks and other home devices.\n\nApple is betting its hardware ecosystem and privacy advantage can keep Siri at center of the home as $META, $GOOGL and $AMZN bring their own AI agents into everyday life."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "apple-market-cap-hits-498-trillion-in-22nd-all-time-high-of-2026-7f62c8d4",
+    "title": "Apple Market Cap Hits $4.98 Trillion in 22nd All Time High of 2026",
+    "publishedAt": "2026-10-13T17:02:22.184Z",
+    "eventTimeApprox": "2026-10-13T14:22:15.500Z",
+    "routingTopicKeys": [
+      "us-markets",
+      "tech"
+    ],
+    "tweetCount": 4,
+    "authorCount": 3
+  }
+}

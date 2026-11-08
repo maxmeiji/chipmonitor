@@ -1,0 +1,70 @@
+{
+  "slug": "update-nous-research-adds-subagent-monitoring-to-hermes-agent-f9c8abe6",
+  "title": "UPDATE: Nous Research Adds Subagent Monitoring to Hermes Agent",
+  "publishedAt": "2026-10-11T10:22:40.728Z",
+  "eventTimeApprox": "2026-10-08T21:32:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108231536772596193/HUHvizAWYAMXhEE-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108231536772596193/HUHvizAWYAMXhEE-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "nousresearch",
+      "tweetUrl": "https://x.com/NousResearch/status/2108231536772596193"
+    }
+  },
+  "summary": "The latest features for the Tern interface include a /model command to change AI assistants and the ability to interrupt autonomous agents during live turns. Users can now monitor sub-agents through a real-time transcript to steer their actions and handle security requests for API keys and two-factor authentication mid-turn, with sensitive data masked as asterisks. The update also clarifies errors by naming the required fix for failed turns and provides notifications when approvals are withdrawn.\n\nThese functional expansions build upon the recent debut of Hermes Agent as a featured one-click installation in the Microsoft Store. Developed by Nous Research, the tool is designed for the Windows ecosystem, and the recent additions to the Tern update focus on providing more granular control over how the agent processes complex tasks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108996332375663034",
+      "role": "source",
+      "authorHandle": "fullctx",
+      "url": "https://x.com/fullctx/status/2108996332375663034",
+      "tweetedAt": "2026-10-10T19:01:23.000Z",
+      "bestBit": "watch a subagent: live transcript, interrupt, steer",
+      "text": "Hermes for Tern update\n\n• /model: switch Hermes's model from the composer, over a native sheet with prices and search\n• sudo, API keys, vault and 2FA asks answered mid-turn, masked as ****\n• watch a subagent: live transcript, interrupt, steer\n• /btw asks beside the running turn; /bg hands off a task\n• failed turns now name the fix, set $KEY, sign in again, limit lifts in 3m\n• withdrawn approvals say so instead of hanging\n\nhttps://t.co/VEb4uGVYaN"
+    },
+    {
+      "tweetId": "2108231536772596193",
+      "role": "support",
+      "authorHandle": "nousresearch",
+      "url": "https://x.com/NousResearch/status/2108231536772596193",
+      "tweetedAt": "2026-10-08T16:22:22.000Z",
+      "bestBit": "Hermes Agent is now live (and featured) in the @Microsoft Store for seamless one-click install",
+      "text": "Hermes Agent is now live (and featured) in the @Microsoft Store for seamless one-click install.\n\nMore updates for the Windows ecosystem coming soon! https://t.co/lPH4snZ2L3"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "nous-research-debuts-featured-hermes-agent-in-microsoft-store-5afb11cf",
+    "title": "Nous Research Debuts Featured Hermes Agent in Microsoft Store",
+    "publishedAt": "2026-10-08T21:38:32.845Z",
+    "eventTimeApprox": "2026-10-08T16:29:27.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

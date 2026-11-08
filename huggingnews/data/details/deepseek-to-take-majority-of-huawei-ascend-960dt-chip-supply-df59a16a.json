@@ -1,0 +1,95 @@
+{
+  "slug": "deepseek-to-take-majority-of-huawei-ascend-960dt-chip-supply-df59a16a",
+  "title": "DeepSeek to Take Majority of Huawei Ascend 960DT Chip Supply",
+  "publishedAt": "2026-10-19T18:38:43.003Z",
+  "eventTimeApprox": "2026-10-19T16:06:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 30,
+  "authorCount": 19,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "summary": "The artificial intelligence developer will begin pre-training models using Ascend 950DT processors by the close of 2026, The Information reports. DeepSeek has also arranged to receive the majority of the supply of Huawei's Ascend 960DT chips throughout 2027 as the two firms collaborate on custom silicon to challenge the market dominance of Nvidia and eliminate reliance on CUDA software.\n\nThe partnership arrives as the US barred DeepSeek products from federal civilian agency systems on Oct. 19 over national security concerns. DeepSeek, which recently optimized a supernode using 128 Ascend 950 chips, is preparing an initial public offering on the Shanghai STAR Market with a filing target by the end of this year.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112246620641456628",
+      "role": "source",
+      "authorHandle": "kyleichan",
+      "url": "https://x.com/kyleichan/status/2112246620641456628",
+      "tweetedAt": "2026-10-19T18:16:52.000Z",
+      "bestBit": "DeepSeek is planning to use Huawei Ascend 950DT chips for pre-training “as soon as the end of this year” and will receive “most of the supply of the Ascend 960DT” next year",
+      "text": "DeepSeek is planning to use Huawei Ascend 950DT chips for pre-training “as soon as the end of this year” and will receive “most of the supply of the Ascend 960DT” next year, according to The Information. https://t.co/sPfc1vV8gi"
+    },
+    {
+      "tweetId": "2112215400041574779",
+      "role": "commentary",
+      "authorHandle": "osint613",
+      "url": "https://x.com/Osint613/status/2112215400041574779",
+      "tweetedAt": "2026-10-19T16:12:49.000Z",
+      "bestBit": "DeepSeek and Huawei have teamed up on new AI chip designs",
+      "text": "A challenge to Nvidia's dominance is in the works. DeepSeek and Huawei have teamed up on new AI chip designs, The Information reports."
+    },
+    {
+      "tweetId": "2112227356031250837",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2112227356031250837",
+      "tweetedAt": "2026-10-19T17:00:19.000Z",
+      "bestBit": "he had a fairly serious intention to produce independent Whale Compute Units",
+      "text": "Wenfeng, looking at the abysmal state of Huawei hardware: \"Fine, I'll do it… okay, okay, together\".\nAs far as I know he had a fairly serious intention to produce independent Whale Compute Units. I guess with the scarcity of capacity, Huawei found a way to persuade him otherwise.",
+      "quotedTweetText": "芯片的 DeepSeek 时刻要来了？ https://t.co/6svpqmkCsP"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "deepseek-and-huawei-design-ai-chips-for-next-year-to-challenge-nvidia-88cc2710",
+    "title": "DeepSeek and Huawei Design AI Chips for Next Year to Challenge Nvidia",
+    "publishedAt": "2026-10-19T16:25:32.743Z",
+    "eventTimeApprox": "2026-10-19T16:05:31.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "business"
+    ],
+    "tweetCount": 16,
+    "authorCount": 11
+  }
+}

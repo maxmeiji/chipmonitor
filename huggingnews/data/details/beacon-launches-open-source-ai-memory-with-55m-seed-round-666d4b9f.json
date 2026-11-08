@@ -1,0 +1,56 @@
+{
+  "slug": "beacon-launches-open-source-ai-memory-with-55m-seed-round-666d4b9f",
+  "title": "Beacon Launches Open Source AI Memory with $5.5M Seed Round",
+  "publishedAt": "2026-10-20T16:22:53.832Z",
+  "eventTimeApprox": "2026-10-20T15:56:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "summary": "The new software transforms a developer's debugging sessions and problem-solving patterns into reusable skills for automated coding assistants. Beacon released this memory system as a free, open-source tool to prevent the loss of context that typically occurs when users switch between different agents. The company launched the product alongside a $5.5 million seed funding round and provided immediate support for more than 20 tools, including Codex, Cursor and Claude Code.\n\nThe system utilizes decision models such as Jev to identify which pieces of information from a session are worth retaining for future use. This architecture allows developers to migrate active tasks between disparate tools with a single command, enabling a subsequent coding agent to learn from the corrections and fixes made by a previous one.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112552451547001218",
+      "role": "source",
+      "authorHandle": "jqdsouza",
+      "url": "https://x.com/jqdsouza/status/2112552451547001218",
+      "tweetedAt": "2026-10-20T14:32:08.000Z",
+      "bestBit": "We’re betting our $5.5M seed round that the next leap in AI coding won’t come from OpenAI or Anthropic.",
+      "text": "We’re betting our $5.5M seed round that the next leap in AI coding won’t come from OpenAI or Anthropic.\n\nIt’ll come from a new feedback loop that learns from you.\n\nIntroducing Beacon: open-source, self-improving memory for coding agents.\n\nYour sessions capture how you debug and solve problems. Today, that context gets lost and you have to re-explain things every time you switch tools.\n\nBeacon continuously distills your sessions into reusable skills across Claude Code, Cursor, Codex, and 20+ harnesses, so your next agent can learn from the last.\n\nBeacon is free and OSS 🌟 https://t.co/Q6gvnXXT5f\n\nWhy should the frontier labs be the only ones winning with your sessions?\n\nYou already did the work. Now let your coding agents learn from you."
+    },
+    {
+      "tweetId": "2112573641141473318",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2112573641141473318",
+      "tweetedAt": "2026-10-20T15:56:20.000Z",
+      "bestBit": "Developers can also start a task in Claude Code and continue it in Codex with one command, transferring context between tools.",
+      "text": "Beacon has launched an open-source memory system for AI coding agents, alongside a $5.5 million seed round announced by its team.\n\nThe software captures coding sessions and converts useful debugging patterns, fixes and corrections into reusable skills. It supports more than 20 coding tools, including Claude Code, Cursor and Codex.\n\nBeacon uses decision models such as Jev to identify information worth retaining. Developers can also start a task in Claude Code and continue it in Codex with one command, transferring context between tools.\nhttps://t.co/wVdm2JA5Yr",
+      "quotedTweetText": "We’re betting our $5.5M seed round that the next leap in AI coding won’t come from OpenAI or Anthropic.\n\nIt’ll come from a new feedback loop that learns from you.\n\nIntroducing Beacon: open-source, self-improving memory for coding agents.\n\nYour sessions capture how you debug and solve problems. Today, that context gets lost and you have to re-explain things every time you switch tools.\n\nBeacon continuously distills your sessions into reusable skills across Claude Code, Cursor, Codex, and 20+ harnesses, so your next agent can learn from the last.\n\nBeacon is free and OSS 🌟 https://t.co/Q6gvnXXT5f\n\nWhy should the frontier labs be the only ones winning with your sessions?\n\nYou already did the work. Now let your coding agents learn from you."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "sglang-speeds-kimi-k3-inference-by-20percent-on-nvidia-vera-rubin-e243b253",
+  "title": "SGLang Speeds Kimi K3 Inference by 20% on NVIDIA Vera Rubin",
+  "publishedAt": "2026-10-10T02:40:05.732Z",
+  "eventTimeApprox": "2026-10-09T23:48:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:MNSH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Moonshot AI",
+      "hubKey": "moonshot-ai"
+    }
+  ],
+  "summary": "Kernel optimization for MoE tail fusion removed 276 kernel launches per decode step, creating a 5.9% speedup in end-to-end inference on next-generation chips. The SGLang project, working with NVIDIA on early-access Vera Rubin hardware, achieved up to 20% faster FP8 MLA at batch 1 with a 128K context for the Kimi K3 model. Other gains include 20% faster KDA verification with bit-identical output and a 16% speedup for batch 16, made possible by Rubin's 327 KiB of shared memory per CTA.\n\nThese efficiency gains enable the Miles platform by radixark to execute full reinforcement learning loops on a single 4-GPU tray using Megatron training and SGLang rollouts in one container. This setup increased the GSM8K reward for Qwen3-30B-A3B from roughly 45% to 95% over 50 rollouts. The Vera CPU also supports 64 concurrent mini-SWE-agent sandboxes for agentic RL with Qwen3.5-35B-A3B, while the system supports end-to-end rollout and training for DeepSeek-V4-Flash.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108699825005060496",
+      "role": "source",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2108699825005060496",
+      "tweetedAt": "2026-10-09T23:23:10.000Z",
+      "bestBit": "removing 276 kernel launches per decode step",
+      "text": "We brought SGLang to NVIDIA Vera Rubin and accelerated Kimi K3 inference.\nWorking closely with @NVIDIA, we optimized attention, MoE, and speculative verification kernels on early-access Rubin hardware.\n\nHighlights:\n• Up to 20% faster FP8 MLA at batch 1 / 128K context\n• 20% faster KDA verification, with bitwise-identical output\n• 5.9% end-to-end inference speedup from MoE tail fusion, removing 276 kernel launches per decode step\n\nSGLang also powers rollouts for Miles' end-to-end RL training on Rubin, including agentic RL with 64 concurrent sandboxes on the Vera CPU.\n\nFull results and engineering details 👉 https://t.co/xGwlR0ax4L"
+    },
+    {
+      "tweetId": "2108705876118995440",
+      "role": "analysis",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2108705876118995440",
+      "tweetedAt": "2026-10-09T23:47:13.000Z",
+      "bestBit": "Rubin’s 327 KiB of shared memory per CTA fits a deeper decode pipeline, delivering a 16% speedup at batch 16 / 128K context",
+      "text": "Highlights of how we made inference faster:\nMLA: Rubin’s 327 KiB of shared memory per CTA fits a deeper decode pipeline, delivering a 16% speedup at batch 16 / 128K context with bit-identical output. At batch 1 / 128K, restructuring split-KV reduction makes full FP8 MLA 20% faster.\n\nMoE: Finalization, shared expert, 8-GPU all-reduce and RMSNorm fused into one collective kernel.\n\nKDA: Keeping weights in registers and simplifying synchronization cuts barrier stalls, making the verify kernel 20% faster.\n\nThe post also covers FP8 conversion, all-reduce tuning, tensor-core GEMM, and eliminating hidden copies."
+    },
+    {
+      "tweetId": "2108706274888253865",
+      "role": "source",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2108706274888253865",
+      "tweetedAt": "2026-10-09T23:48:48.000Z",
+      "bestBit": "Qwen3-30B-A3B on GSM8K: ~45% → ~95% reward over 50 rollouts, matching the GB300 curve",
+      "text": "Miles runs the full RL loop on Rubin (SGLang rollout, Megatron training, one container image). On one 4-GPU tray:\n\n• Qwen3-30B-A3B on GSM8K: ~45% → ~95% reward over 50 rollouts, matching the GB300 curve.\n• DeepSeek-V4-Flash (4-layer, FP8): rollout and training end to end.\n• Qwen3.5-35B-A3B agentic RL: 64 concurrent mini-SWE-agent sandboxes on the Vera CPU, on SWE-bench Verified. Reward holds ~0.6, median response length down ~30%."
+    }
+  ],
+  "isSuperseded": false
+}

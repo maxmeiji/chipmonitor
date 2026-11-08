@@ -1,0 +1,81 @@
+{
+  "slug": "chatgpt-makes-personal-finance-tools-free-for-all-us-free-and-go-users-bcf5b249",
+  "title": "ChatGPT Makes Personal Finance Tools Free for All US Free and Go Users",
+  "publishedAt": "2026-10-02T19:25:52.719Z",
+  "eventTimeApprox": "2026-10-02T18:07:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "fintech",
+      "name": "Fintech"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106097222974664923/HTpbGScXwAA8nJx-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106097222974664923/HTpbGScXwAA8nJx-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "jbahrdestefano",
+      "tweetUrl": "https://x.com/jbahrdestefano/status/2106097222974664923"
+    }
+  },
+  "summary": "OpenAI has integrated credit score monitoring and spending dashboards into its AI assistant for the U.S. market. These personal finance tools are now available to users on the Free and Go account tiers, allowing them to link banking data via Plaid and Experian to track net worth, subscriptions, and bills. In September, the feature set was expanded to include stock watchlists, Coinbase support, and Voice integration.\n\nThe expansion of free access comes as competitor finance app Monarch Money reported crossing 1 million members and $100M in annual recurring revenue in October. Monarch, which focuses on budgeting and cash flow planning, also recently acquired MBI, formerly known as hmbradley.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106083592522932320",
+      "role": "source",
+      "authorHandle": "chatgpt",
+      "url": "https://x.com/ChatGPT/status/2106083592522932320",
+      "tweetedAt": "2026-10-02T18:07:12.000Z",
+      "bestBit": "Securely connect your accounts with @Plaid and @Experian to make sense of your money and credit",
+      "text": "Finances in ChatGPT is rolling out to Free and Go users in the U.S.\n\nSecurely connect your accounts with @Plaid and @Experian to make sense of your money and credit, with answers based on your own financial information. https://t.co/I0drGHpkoQ"
+    },
+    {
+      "tweetId": "2106097222974664923",
+      "role": "commentary",
+      "authorHandle": "jbahrdestefano",
+      "url": "https://x.com/jbahrdestefano/status/2106097222974664923",
+      "tweetedAt": "2026-10-02T19:01:22.000Z",
+      "bestBit": "One day after learning @monarch_money is at 1M+ users + $100M ARR",
+      "text": "One day after learning @monarch_money is at 1M+ users + $100M ARR\n\n@ebloch shared that @ChatGPT made Finances FREE + in Sept they shipped credit score monitoring, stock watchlists, Voice, & Coinbase support\n\nFor ChatGPT Finances, you connect your accounts via @Plaid & get dashboards on spending, subscriptions, bills, net worth, portfolio allocation, + daily moves on ur holdings\n\nFeels like it's already at parity with PFMs on the basics?\n\nHave been having a version of this debate a lot recently re: the labs eating into the app layer --> the bear case for standalone PFMs is that every incremental new user gets more expensive to acquire when a free version lives inside ChatGPT\n\nI still think there's room for both. Tech-forward users who love tinkering will prolly use ChatGPT for this stuff, but most consumers are passive and need to be acquired, educated & feel like they're working with a brand built for them\n\nThe labs will take a slice of PFM but I think the biggest consumer fintech cos will still be the ones whose whole purpose is serving that customer",
+      "quotedTweetText": "More fintech consolidation as @monarch_money acquired MBI (fka @hmbradley) \n\nMonarch also announced it crossed $100M ARR!\n\nMonarch is a PFM app for budgeting, net worth, cash flow + planning\n\nBeen quite the run for Monarch in the wake of Mint shutting down: \n- Nov '23: @Intuit announces @mint shutdown, Monarch ships a Mint data importer & paid subs grow ~20x over the following year \n- May '25: $75M Series B co-led by @FPVventures & @ForerunnerVC at an $850M val (anecdotally heard they were at ~$40m ARR at the time of the round)\n- Mar '26: passes 1M members, 2x+ YoY \n- Oct '26: $100M ARR  \n\nCo-founder/CEO @valagostino was the first PM on the original Mint team\n\nhttps://t.co/SYV9RYbX7x"
+    }
+  ],
+  "isSuperseded": false
+}

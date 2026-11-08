@@ -1,0 +1,49 @@
+{
+  "slug": "gemini-4-argon-processes-25-trillion-tokens-in-first-72-hours-of-launch-d9d132b3",
+  "title": "Gemini 4 Argon Processes 25 Trillion Tokens in First 72 Hours of Launch",
+  "publishedAt": "2026-10-21T08:09:54.030Z",
+  "eventTimeApprox": "2026-10-21T04:48:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 19,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "The latest intelligence model from Google experienced an immediate surge in usage and data throughput following its public release. The Gemini 4 Argon system processed approximately 25 trillion tokens during the first 72 hours of its operation, according to Logan Kilpatrick.\n\nKilpatrick stated that the current demand for artificial intelligence is \"incredible and still under appreciated.\" The usage figures were highlighted in a post that was subsequently shared by other officials, including Demis Hassabis and Sam Sheffer.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112767157746688480",
+      "role": "source",
+      "authorHandle": "officiallogank",
+      "url": "https://x.com/OfficialLoganK/status/2112767157746688480",
+      "tweetedAt": "2026-10-21T04:45:18.000Z",
+      "bestBit": "In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence is incredible and still under appreciated!",
+      "text": "In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence is incredible and still under appreciated!"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "tsmc-demands-operational-control-of-musk-terafab-site-in-project-clash-e50d761a",
+  "title": "TSMC Demands Operational Control of Musk Terafab Site in Project Clash",
+  "publishedAt": "2026-10-15T10:41:21.176Z",
+  "eventTimeApprox": "2026-10-05T12:19:51.000Z",
+  "isFreshStory": false,
+  "tweetCount": 65,
+  "authorCount": 38,
+  "routingTopicKeys": [
+    "tech",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSM",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "hubKey": "tsm"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    },
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "related",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    },
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "summary": "Chief Executive Officer C.C. Wei announced that TSMC will only participate in Elon Musk's Texas semiconductor venture if the foundry is granted full governing authority over the plants. The Taiwanese chipmaker is currently weighing a new Texas campus that would add tens of billions of dollars to its existing $265B investment in Arizona, provided the company manages the resulting facilities.\n\nThe demand creates a standoff with Musk, who previously stated his businesses would independently build and operate the 'Terafab' complex, limiting TSMC to a potential sublease of the site. The project aims for 1 TW of annual compute production and a cycle of 10 chip designs per year to serve Tesla, SpaceX, and xAI. Intel has already partnered with the Texas project, providing its 14A process technology to support Musk's hardware requirements.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107781956020883738",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2107781956020883738",
+      "tweetedAt": "2026-10-07T10:35:53.000Z",
+      "bestBit": "Elon Musk says his business empire will build and operate the Texas-based Terafab chipmaking project, explicitly ruling out any operational role for TSMC",
+      "text": "Elon Musk says his business empire will build and operate the Texas-based Terafab chipmaking project, explicitly ruling out any operational role for TSMC (@debbywuintaipei / Bloomberg)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2107721071571128709",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2107721071571128709",
+      "tweetedAt": "2026-10-07T06:33:57.000Z",
+      "bestBit": "No, we will build and run the fab. Let there be ZERO doubt about that.",
+      "text": "@herbertong @thejefflutz No, we will build and run the fab. Let there be ZERO doubt about that. \n\nMaybe TSMC subleases part of the Terafab if they want, but nothing more than that."
+    },
+    {
+      "tweetId": "2106102072173367738",
+      "role": "source",
+      "authorHandle": "tculpan",
+      "url": "https://x.com/tculpan/status/2106102072173367738",
+      "tweetedAt": "2026-10-02T19:20:38.000Z",
+      "bestBit": "TSMC sees a path forward in Texas by working with @elonmusk and @SpaceX's Terafab",
+      "text": "Just in:\nTSMC sees a path forward in Texas by working with @elonmusk and @SpaceX's Terafab, \n@culpium reports exclusively\n\nRead on to see how the venture might play out, and its implications for @intel \n\nhttps://t.co/Zh7SpNDGcu https://t.co/qXEL1HlHvn"
+    },
+    {
+      "tweetId": "2106290688237129958",
+      "role": "analysis",
+      "authorHandle": "xfreeze",
+      "url": "https://x.com/XFreeze/status/2106290688237129958",
+      "tweetedAt": "2026-10-03T07:50:07.000Z",
+      "bestBit": "The goal is 1 TW of compute production every year.....around 50× the current global output of AI compute",
+      "text": "Anything TSMC contributes to Terafab would basically be supplemental\n\nTerafab itself is going to be absurdly massive\n\nThe goal is 1 TW of compute production every year.....around 50× the current global output of AI compute\n\nThis isn’t just another fab. It’s being built for a scale the semiconductor industry simply does not operate at any known scale today"
+    },
+    {
+      "tweetId": "2106290920605790717",
+      "role": "commentary",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2106290920605790717",
+      "tweetedAt": "2026-10-03T07:51:03.000Z",
+      "bestBit": "Just discussions, but something may come of it",
+      "text": "@wholemars Just discussions, but something may come of it"
+    },
+    {
+      "tweetId": "2109436441331982632",
+      "role": "support",
+      "authorHandle": "dnystedt",
+      "url": "https://x.com/dnystedt/status/2109436441331982632",
+      "tweetedAt": "2026-10-12T00:10:13.000Z",
+      "bestBit": "Elon Musk wants to do 10 chip designs a year with Terafab compared to 1 every 2 years",
+      "text": "RT @pequityresearch: Elon Musk wants to do 10 chip designs a year with Terafab compared to 1 every 2 years:\n\n\"The advancement of any given…"
+    },
+    {
+      "tweetId": "2109077117304807722",
+      "role": "commentary",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2109077117304807722",
+      "tweetedAt": "2026-10-11T00:22:24.000Z",
+      "bestBit": "If Terafab really wants equipment makers to build these custom tools, it’ll have to put up an enormous amount of money",
+      "text": "Elon, this really doesn’t make sense… Why would equipment makers build custom tools specifically for Terafab? They can simply keep selling the tools they already make to Intel, TSMC, and Samsung. Why would they spend extra on R&D to develop tools exclusively for Terafab?\n\nIf Terafab really wants equipment makers to build these custom tools, it’ll have to put up an enormous amount of money. The number of tools required and the amount you’d have to spend on them would be on a completely different scale from manufacturing EVs or rockets.",
+      "quotedTweetText": "Elon Musk today on Terafab:\n\n“I still have a lot to learn about chip making. Gotta start somewhere. I didn’t know how to make cars or rockets. The (chip) equipment’s not very customized, it’s all coming from the same vendors. If you tour a Tesla factory, we got tons of custom equipment. We’re gonna start with conventional equipment and then make customer equipment that allows for much higher throughput on wafers.”"
+    },
+    {
+      "tweetId": "2107788042572321278",
+      "role": "commentary",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2107788042572321278",
+      "tweetedAt": "2026-10-07T11:00:04.000Z",
+      "bestBit": "Musk says TSMC won't run Terafab AI chip complex",
+      "text": "Musk says TSMC won't run Terafab AI chip complex https://t.co/sZoxEOwDZe https://t.co/sZoxEOwDZe"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "musk-plans-10-chip-designs-yearly-at-terafab-to-beat-2-year-industry-cyc-76262d22",
+    "title": "Musk Plans 10 Chip Designs Yearly at Terafab to Beat 2 Year Industry Cycle",
+    "publishedAt": "2026-10-14T01:43:14.312Z",
+    "eventTimeApprox": "2026-10-05T12:11:32.500Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 60,
+    "authorCount": 36
+  }
+}

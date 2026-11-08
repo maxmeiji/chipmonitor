@@ -1,0 +1,144 @@
+{
+  "slug": "midjourney-denies-participation-in-musks-grok-bot-expansion-568adf89",
+  "title": "Midjourney Denies Participation in Musk's Grok Bot Expansion",
+  "publishedAt": "2026-10-07T19:55:05.866Z",
+  "eventTimeApprox": "2026-10-07T10:40:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 43,
+  "authorCount": 39,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107803665457189061/HUBsQtaWMAA2_jU-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107803665457189061/HUBsQtaWMAA2_jU-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "testingcatalog",
+      "tweetUrl": "https://x.com/testingcatalog/status/2107803665457189061"
+    }
+  },
+  "summary": "Elon Musk's strategy to leverage external AI for his Grok Bot assistant has hit a hurdle after the creators of Midjourney clarified they are not part of the project. The image generation firm confirmed it has no immediate plans to be integrated into the SpaceX product, contradicting a public announcement by Musk that the assistant would route tasks to the best available models, specifically naming Midjourney. This pushback challenges the current vision for Grok Bot to act as a model router for diverse AI tasks.\n\nThe proposed system would direct complex prompts to large-scale models like Claude Opus 5.5 and Suno, while routing simpler queries to a high-speed version of Grok 4.8 once that model is released. Musk stated that the assistant's operating principle is to optimize for the best combination of speed and intelligence by utilizing leading APIs regardless of the provider. This approach allows SpaceX to vertically integrate inference and capture margins on third-party model usage.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107724314451878104",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2107724314451878104",
+      "tweetedAt": "2026-10-07T06:46:50.000Z",
+      "bestBit": "@SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs",
+      "text": "Important note regarding Grok @Bot:\n\nGoing forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. \n\nWhatever is most likely to give you the best outcome."
+    },
+    {
+      "tweetId": "2107849623364895151",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2107849623364895151",
+      "tweetedAt": "2026-10-07T15:04:46.000Z",
+      "bestBit": "Simple questions will route to small, fast models. Questions with complex answers will route to large models.",
+      "text": "Grok @Bot will use whatever achieves the best outcome for users. \n\nSimple questions will route to small, fast models. Questions with complex answers will route to large models.",
+      "quotedTweetText": "Grok goes open. Holy shit."
+    },
+    {
+      "tweetId": "2107743427668648229",
+      "role": "commentary",
+      "authorHandle": "koltregaskes",
+      "url": "https://x.com/koltregaskes/status/2107743427668648229",
+      "tweetedAt": "2026-10-07T08:02:47.000Z",
+      "bestBit": "I hope @midjourney and @suno are aware of this",
+      "text": "I hope @midjourney and @suno are aware of this, hehe.",
+      "quotedTweetText": "Important note regarding Grok @Bot:\n\nGoing forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. \n\nWhatever is most likely to give you the best outcome."
+    },
+    {
+      "tweetId": "2107916956326334533",
+      "role": "commentary",
+      "authorHandle": "koltregaskes",
+      "url": "https://x.com/koltregaskes/status/2107916956326334533",
+      "tweetedAt": "2026-10-07T19:32:20.000Z",
+      "bestBit": "Midjourney confirms there are \"no immediate plans\" for Midjourney in Grok Bot",
+      "text": "Midjourney confirms there are \"no immediate plans\" for Midjourney in Grok Bot. Elon's wishful thinking. ;-)",
+      "quotedTweetText": "I hope @midjourney and @suno are aware of this, hehe."
+    },
+    {
+      "tweetId": "2107843863972839801",
+      "role": "analysis",
+      "authorHandle": "intuitmachine",
+      "url": "https://x.com/IntuitMachine/status/2107843863972839801",
+      "tweetedAt": "2026-10-07T14:41:53.000Z",
+      "bestBit": "SpaceX betting on stickiness of interface versus stickiness of model",
+      "text": "SpaceX betting on stickiness of interface versus stickiness of model.",
+      "quotedTweetText": "Important note regarding Grok @Bot:\n\nGoing forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. \n\nWhatever is most likely to give you the best outcome."
+    },
+    {
+      "tweetId": "2107812322756501984",
+      "role": "analysis",
+      "authorHandle": "illscience",
+      "url": "https://x.com/illscience/status/2107812322756501984",
+      "tweetedAt": "2026-10-07T12:36:33.000Z",
+      "bestBit": "they can capture margin on 3P models through inference",
+      "text": "What’s so interesting about this is that SpaceX is getting to eat their cake and have it too - they get the benefits of being a lab, vertical integration into inference, and being a Cursor style router.\n\nThey have a SOTA model so labs can’t bully them, they can capture margin on 3P models through inference, and somehow (Elon!) they have access to Suno and MJ as well. They can offer the overall best, the pareto best or the best for a tail modality and the house always wins. \n\nAmazing on so many levels.",
+      "quotedTweetText": "Important note regarding Grok @Bot:\n\nGoing forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. \n\nWhatever is most likely to give you the best outcome."
+    },
+    {
+      "tweetId": "2107783220288704652",
+      "role": "analysis",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2107783220288704652",
+      "tweetedAt": "2026-10-07T10:40:55.000Z",
+      "bestBit": "Wonder how the economics work out for Grok Bot then?",
+      "text": "Grok Bot going flexible model deployment. Great for consumers and should lead to better outcomes for their bots/agents.\n\nWonder how the economics work out for Grok Bot then? \n\nAnyone more technical know the type of data Grok Bot gets when its tools use other models? Is the play here that they get more data from other models on the best ways to use their bots which they can then use to train the next Grok?",
+      "quotedTweetText": "Important note regarding Grok @Bot:\n\nGoing forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. \n\nWhatever is most likely to give you the best outcome."
+    },
+    {
+      "tweetId": "2107861189296300493",
+      "role": "commentary",
+      "authorHandle": "altryne",
+      "url": "https://x.com/altryne/status/2107861189296300493",
+      "tweetedAt": "2026-10-07T15:50:44.000Z",
+      "bestBit": "Elon is getting in bed with Anthropic",
+      "text": "whoah, so this isn't just routing, this is a huge deal both for @bot users (who's bots have now just the best intelligence in the world) and anthropic's upcoming IPO? \n\nElon is getting in bed with Anthropic (and is probably pissed that his Grok 4.7 didn't land well) https://t.co/4ANJRFUHhz",
+      "quotedTweetText": "Important note regarding Grok @Bot:\n\nGoing forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. \n\nWhatever is most likely to give you the best outcome."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "spacex-to-use-grok-48-for-bulk-of-grok-bots-simple-requests-7495a6fc",
+    "title": "SpaceX to Use Grok 4.8 for Bulk of Grok Bot’s Simple Requests",
+    "publishedAt": "2026-10-07T18:24:11.132Z",
+    "eventTimeApprox": "2026-10-07T10:20:25.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 38,
+    "authorCount": 35
+  }
+}

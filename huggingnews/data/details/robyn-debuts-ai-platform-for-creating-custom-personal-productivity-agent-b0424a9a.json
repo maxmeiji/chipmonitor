@@ -1,0 +1,61 @@
+{
+  "slug": "robyn-debuts-ai-platform-for-creating-custom-personal-productivity-agent-b0424a9a",
+  "title": "Robyn Debuts AI Platform for Creating Custom Personal Productivity Agents",
+  "publishedAt": "2026-10-29T17:09:39.134Z",
+  "eventTimeApprox": "2026-10-29T16:19:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115852232520528072/6jvzJZMtWSnTggFV-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115852232520528072/6jvzJZMtWSnTggFV-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2115852148844191744/vid/avc1/1920x1200/7gtvxXUUjORiWNwY.mp4?tag=29",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2115852232520528072"
+    }
+  },
+  "summary": "The startup behind Robyn has opened registration for its new personal agentic platform that allows users to deploy networks of AI assistants to manage professional and daily tasks. Accessible via the web or text, the tool connects with external applications and can deliver scheduled updates through iMessage, with founder Jenny Shao stating the service can save users 20 hours per week.\n\nThe platform is currently limited to 1,000 people via an invite-only system and competes with existing AI productivity tools like Muse and Instinct. Shao, who developed the system using research on human memory from Nobel laureate Eric Kandel, says the tool requires no setup and can respond to a single-sentence request.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115837315939742190",
+      "role": "source",
+      "authorHandle": "iamjennyshao",
+      "url": "https://x.com/iamjennyshao/status/2115837315939742190",
+      "tweetedAt": "2026-10-29T16:05:01.000Z",
+      "bestBit": "Invite only access opens today. We’re giving out 1000 invite codes.",
+      "text": "Meet Robyn, the personal agentic platform built around your life and work.\n\n- Tell her what you need in one sentence. No setup, ever.\n- Spin up a fleet of agents preloaded with your context that work while you sleep.\n- Access it on the web or just text it.\n- 20hrs/week saved per user.\n\nI’m Jenny, and I spent 3 years working with Nobel Laureate Eric Kandel, who mapped out memory in the human brain. \n\nWe built all of that into Robyn, making it the first AI capable of taking intelligent action.\n\nInvite only access opens today. We’re giving out 1000 invite codes. Link in first comment. Comment \"Robyn\" for 100 free credits."
+    },
+    {
+      "tweetId": "2115851941372932317",
+      "role": "support",
+      "authorHandle": "theinsiderpaper",
+      "url": "https://x.com/TheInsiderPaper/status/2115851941372932317",
+      "tweetedAt": "2026-10-29T17:03:08.000Z",
+      "bestBit": "Robyn can pull the newsletters together into a five-minute catch-up, with an agent you can schedule to run each morning.",
+      "text": "Keeping up with AI news is becoming a job of its own.\n\nRobyn can pull the newsletters together into a five-minute catch-up, with an agent you can schedule to run each morning.\n\nMuse and Instinct have fresh competition.\n\n[https://t.co/ukyxaNgzGB] https://t.co/uPywC5nm2J",
+      "quotedTweetText": "Meet Robyn, the personal agentic platform built around your life and work.\n\n- Tell her what you need in one sentence. No setup, ever.\n- Spin up a fleet of agents preloaded with your context that work while you sleep.\n- Access it on the web or just text it.\n- 20hrs/week saved per user.\n\nI’m Jenny, and I spent 3 years working with Nobel Laureate Eric Kandel, who mapped out memory in the human brain. \n\nWe built all of that into Robyn, making it the first AI capable of taking intelligent action.\n\nInvite only access opens today. We’re giving out 1000 invite codes. Link in first comment. Comment \"Robyn\" for 100 free credits."
+    }
+  ],
+  "isSuperseded": false
+}

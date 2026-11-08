@@ -1,0 +1,40 @@
+{
+  "slug": "datology-launches-curation-studio-for-frontier-data-curation-b4d7d053",
+  "title": "Datology Launches Curation Studio for Frontier Data Curation",
+  "publishedAt": "2026-10-09T15:54:23.284Z",
+  "eventTimeApprox": "2026-10-09T15:32:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "Machine learning teams can now optimize the volume and quality of the information used to build their own AI models. Datology released terms of access for Curation Studio, a tool that provides customizable frontier data curation to ensure that data quality acts as the \"ultimate compute multiplier\" for model performance.\n\nThe studio is designed to be accessible to any team training its own models to simplify the process of selecting high-quality training data. The company made the tool available starting October 9.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108576703014736073",
+      "role": "source",
+      "authorHandle": "datologyai",
+      "url": "https://x.com/datologyai/status/2108576703014736073",
+      "tweetedAt": "2026-10-09T15:13:56.000Z",
+      "bestBit": "launch the Datology Curation Studio, customizable frontier data curation for every team training its own models",
+      "text": "Today, we’re excited to launch the Datology Curation Studio, customizable frontier data curation for every team training its own models.  \n\nData quality is the ultimate compute multiplier, and Curation Studio makes it easy for everyone. https://t.co/z84H6YbHVI"
+    }
+  ],
+  "isSuperseded": false
+}

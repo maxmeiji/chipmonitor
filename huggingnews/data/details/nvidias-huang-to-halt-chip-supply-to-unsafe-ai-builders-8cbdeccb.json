@@ -1,0 +1,59 @@
+{
+  "slug": "nvidias-huang-to-halt-chip-supply-to-unsafe-ai-builders-8cbdeccb",
+  "title": "Nvidia’s Huang to Halt Chip Supply to Unsafe AI Builders",
+  "publishedAt": "2026-10-14T18:24:40.636Z",
+  "eventTimeApprox": "2026-10-14T17:48:14.500Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Jensen Huang stated that he is willing to terminate the delivery of GPUs to any client developing hazardous artificial intelligence software. The chief executive's remarks, reported by Bloomberg, indicate that the hardware provider may withhold its chips from companies that fail to meet safety standards when building AI tools.\n\nHuang characterized existing safety concerns as \"growing pains\" for the industry and emphasized his intention to cut off the supply chain for unsafe systems. No specific criteria for determining which software is considered unsafe were detailed in the comments provided on October 14.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110430751791652949",
+      "role": "source",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2110430751791652949",
+      "tweetedAt": "2026-10-14T18:01:15.000Z",
+      "bestBit": "Nvidia $NVDA CEO Jensen Huang said he would halt the supply of chips to a customer that was developing unsafe AI software",
+      "text": "Nvidia $NVDA CEO Jensen Huang said he would halt the supply of chips to a customer that was developing unsafe AI software - Bloomberg https://t.co/jOKVdVJyN5"
+    }
+  ],
+  "isSuperseded": false
+}

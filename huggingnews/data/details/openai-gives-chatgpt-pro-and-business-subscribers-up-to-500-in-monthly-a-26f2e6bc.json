@@ -1,0 +1,72 @@
+{
+  "slug": "openai-gives-chatgpt-pro-and-business-subscribers-up-to-500-in-monthly-a-26f2e6bc",
+  "title": "OpenAI Gives ChatGPT Pro and Business Subscribers Up to $500 in Monthly API Credits",
+  "publishedAt": "2026-10-28T23:36:46.210Z",
+  "eventTimeApprox": "2026-10-28T23:21:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115586101444329948/HVwSULAWUAAfoU3-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115586101444329948/HVwSULAWUAAfoU3-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "testingcatalog",
+      "tweetUrl": "https://x.com/testingcatalog/status/2115586101444329948"
+    }
+  },
+  "summary": "Subscribers to OpenAI's paid chat tiers can now obtain monthly funding to develop their own software and specialized assistants via the company's API. The new benefit allows eligible users to claim credits for the costs associated with building third-party agents and applications.\n\nThe credits are distributed based on subscription levels, with Pro plans receiving $100, $200, or $500 per month. Business accounts are allocated $20 for each paid Standard seat and $100 for each Premium seat, with a maximum pooled limit of $500 per workspace.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115583698074755078",
+      "role": "source",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2115583698074755078",
+      "tweetedAt": "2026-10-28T23:17:13.000Z",
+      "bestBit": "eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and agents",
+      "text": "Starting today, eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and agents. https://t.co/kcbaKSQh1M"
+    },
+    {
+      "tweetId": "2115586101444329948",
+      "role": "commentary",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2115586101444329948",
+      "tweetedAt": "2026-10-28T23:26:46.000Z",
+      "bestBit": "- Pro plans get $100, $200, or $500 per month by tier. - Business plans get $20 per paid Standard seat or $100 per paid Premium seat, pooled up to $500 per workspace.",
+      "text": "OPENAI 🔥: ChatGPT Pro and Business subscribers can now claim monthly API credits!\n\n- Pro plans get $100, $200, or $500 per month by tier.\n- Business plans get $20 per paid Standard seat or $100 per paid Premium seat, pooled up to $500 per workspace.\n\nThat's exactly what is needed for testing 👀",
+      "quotedTweetText": "Starting today, eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and agents. https://t.co/kcbaKSQh1M"
+    }
+  ],
+  "isSuperseded": false
+}

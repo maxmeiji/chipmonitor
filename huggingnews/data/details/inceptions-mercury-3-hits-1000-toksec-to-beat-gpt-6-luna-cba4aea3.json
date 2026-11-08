@@ -1,0 +1,58 @@
+{
+  "slug": "inceptions-mercury-3-hits-1000-toksec-to-beat-gpt-6-luna-cba4aea3",
+  "title": "Inception's Mercury 3 Hits 1,000+ Tok/Sec to Beat GPT-6 Luna",
+  "publishedAt": "2026-10-19T17:08:35.017Z",
+  "eventTimeApprox": "2026-10-19T16:52:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 32,
+  "authorCount": 27,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112225779782398131/HVAiJQ-aIAA08LF-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112225779782398131/HVAiJQ-aIAA08LF-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "openrouter",
+      "tweetUrl": "https://x.com/OpenRouter/status/2112225779782398131"
+    }
+  },
+  "summary": "A new artificial intelligence model from Inception offers a 1M token context window, representing a fourfold increase over the company's previous generation. Mercury 3, a diffusion LLM, processes data at speeds exceeding 1,000 tokens per second and is reported by the company to outperform GPT-6 Luna and Haiku 5.5 on quality. It specifically beats those models on the GPQA Diamond, IFBench, and SWE-Bench Atlas benchmarks.\n\nThe model is currently live on the OpenRouter platform with a launch discount of 50%. Introductory pricing is $0.10 per million input tokens and $0.35 per million output tokens. Stefano Ermon described the release as the most intelligent diffusion LLM ever made available to the public.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112222911218291051",
+      "role": "source",
+      "authorHandle": "stefanoermon",
+      "url": "https://x.com/StefanoErmon/status/2112222911218291051",
+      "tweetedAt": "2026-10-19T16:42:39.000Z",
+      "bestBit": "Mercury 3 is by far our most powerful model and the most intelligent diffusion LLM ever released",
+      "text": "1/4 Today, we’re releasing Mercury 3. Mercury 3 is by far our most powerful model and the most intelligent diffusion LLM ever released. It outperforms GPT-6 Luna and Haiku 5.5 on quality while running at 1000+ tok/sec. https://t.co/TYevDl43Lm"
+    },
+    {
+      "tweetId": "2112225779782398131",
+      "role": "support",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2112225779782398131",
+      "tweetedAt": "2026-10-19T16:54:03.000Z",
+      "bestBit": "generates 1,000+ tok/s with 1M context, 4x more than Mercury 2.5",
+      "text": "Mercury 3 is live on OpenRouter!\n\n@_inception_ai's new diffusion model generates 1,000+ tok/s with 1M context, 4x more than Mercury 2.5. Inception reports it beats GPT-6 Luna and Haiku 5.5 on IFBench, GPQA Diamond, and SWE-Bench Atlas.\n\n50% off at launch: $0.10/M in, $0.35/M out https://t.co/QuHw9l3QYe"
+    }
+  ],
+  "isSuperseded": false
+}

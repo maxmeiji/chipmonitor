@@ -1,0 +1,148 @@
+{
+  "slug": "nvidia-rejects-blame-in-us-probe-of-smuggled-ai-chips-to-china-c4227825",
+  "title": "Nvidia Rejects Blame in US Probe of Smuggled AI Chips to China",
+  "publishedAt": "2026-10-05T20:38:43.882Z",
+  "eventTimeApprox": "2026-10-02T01:29:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 45,
+  "authorCount": 30,
+  "routingTopicKeys": [
+    "tech",
+    "geopolitics",
+    "business",
+    "ai",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105718023092916681/HTkDYFNWQAAAH8v-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105718023092916681/HTkDYFNWQAAAH8v-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "nypost",
+      "tweetUrl": "https://x.com/nypost/status/2105718023092916681"
+    }
+  },
+  "summary": "Nvidia maintains that it adheres to United States export laws exactly as they are written, countering claims from officials that the company ignored clear \"red flags\" regarding shipments reaching China. The company argued it must honor current laws rather than the preferences of critics, according to its responses to an ongoing US probe. This conflict arises as regulators investigate a systemic failure by both the government and industry to prevent high-end graphics processors from being diverted to adversaries.\n\nThe scrutiny follows the arrest of Earthmade Computers owner Greg Lui, who is accused of smuggling over $300 million in restricted Nvidia servers through Malaysia and Singapore between 2023 and 2024. Court documents allege Earthmade received more than $176 million from Malaysian firms to facilitate these transfers. Recent enforcement alerts identified nearly $800 million in smuggled hardware in a single day, suggesting that China's AI ecosystem remains heavily dependent on American hardware despite strict export controls.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105757882994352171",
+      "role": "source",
+      "authorHandle": "usattyessayli",
+      "url": "https://x.com/USAttyEssayli/status/2105757882994352171",
+      "tweetedAt": "2026-10-01T20:32:57.000Z",
+      "bestBit": "smuggled more than $300 million in export-controlled computer servers containing American-made GPUs used for Super Intelligence (formerly-AI) to China",
+      "text": "Greg Lui, 38, of San Gabriel, was arrested on federal charges alleging he smuggled more than $300 million in export-controlled computer servers containing American-made GPUs used for Super Intelligence (formerly-AI) to China.\n \nAccording to the indictment, Lui and his co-conspirators used false paperwork and routed shipments through Malaysia and Singapore to conceal their destination and evade U.S. export restrictions.\n \nHe is charged with export-control conspiracy, smuggling, and money laundering conspiracy.\n \nProtecting America’s national security means keeping our advanced SI technology from being used to strengthen our adversaries’ military capabilities.",
+      "quotedTweetText": "San Gabriel man arrested on federal charges alleging he smuggled to China more than $300 million in export-controlled computer servers https://t.co/c9SkXAyK5g"
+    },
+    {
+      "tweetId": "2105964092385382458",
+      "role": "source",
+      "authorHandle": "mackhawk",
+      "url": "https://x.com/mackhawk/status/2105964092385382458",
+      "tweetedAt": "2026-10-02T10:12:21.000Z",
+      "bestBit": "Nvidia says \"companies honor US laws as they are, not as America’s critics wish they were\"",
+      "text": "I wrote about the systemic failure by the world's most valuable company and powerful government to stop smuggling of AI chips to China\n\nUS officials say Nvidia is missing obvious signs. Nvidia says \"companies honor US laws as they are, not as America’s critics wish they were\"\n\n1/ https://t.co/Ct8VeCCquL"
+    },
+    {
+      "tweetId": "2105820517198626876",
+      "role": "signal",
+      "authorHandle": "rdd147",
+      "url": "https://x.com/rdd147/status/2105820517198626876",
+      "tweetedAt": "2026-10-02T00:41:50.000Z",
+      "bestBit": "Nearly $800 million in $NVDA chips smuggled into China in 2 announcements today",
+      "text": "Nearly $800 million in $NVDA chips smuggled into China in 2 announcements today, as US regulators reportedly begin probe on Nvidia to determine the substantial number of missed diversions totaling billions of dollars."
+    },
+    {
+      "tweetId": "2105806029938364785",
+      "role": "commentary",
+      "authorHandle": "denisewu",
+      "url": "https://x.com/denisewu/status/2105806029938364785",
+      "tweetedAt": "2026-10-01T23:44:16.000Z",
+      "bestBit": "contradict Jensen Huang’s statement of “there’s no evidence of any AI diversion.”",
+      "text": "More GPU smuggling busts that contradict Jensen Huang’s statement of “there’s no evidence of any AI diversion.”",
+      "quotedTweetText": "California Man Arrested for Smuggling More Than $300 Million in Export-Controlled Computer Servers to China\n\n“SI is the defining technology of the era,” said Assistant Attorney General John A. Eisenberg. “The National Security Division will protect the American advantage in the chips that power this technology, a product of our unparalleled innovation and hard work, from illegal diversion by our economic and military adversaries.”\n\n🔗: https://t.co/hO3e8LU6Cq"
+    },
+    {
+      "tweetId": "2106011555850547382",
+      "role": "commentary",
+      "authorHandle": "chrisrmcguire",
+      "url": "https://x.com/ChrisRMcGuire/status/2106011555850547382",
+      "tweetedAt": "2026-10-02T13:20:57.000Z",
+      "bestBit": "on AI, Jensen says we don’t need new laws because companies “should have the courage to do the right thing.”",
+      "text": "Unbelievable. On chip smuggling, Nvidia says “companies honor US laws as they are, not as America’s critics wish they were.” \n\nBut on AI, Jensen says we don’t need new laws because companies “should have the courage to do the right thing.”\n\nWhy doesn’t Nvidia have that courage?",
+      "quotedTweetText": "I wrote about the systemic failure by the world's most valuable company and powerful government to stop smuggling of AI chips to China\n\nUS officials say Nvidia is missing obvious signs. Nvidia says \"companies honor US laws as they are, not as America’s critics wish they were\"\n\n1/ https://t.co/Ct8VeCCquL"
+    },
+    {
+      "tweetId": "2105833851843166649",
+      "role": "commentary",
+      "authorHandle": "niubi",
+      "url": "https://x.com/niubi/status/2105833851843166649",
+      "tweetedAt": "2026-10-02T01:34:49.000Z",
+      "bestBit": "China’s AI ecosystem remains much more dependent on American hardware than state media or Nvidia’s lobbyists suggest",
+      "text": "“The upshot, industry analysts and government officials say, is that China’s AI ecosystem remains much more dependent on American hardware than state media or Nvidia’s lobbyists suggest.” And some nvidia-friendly think tankers and “consultants” suggest",
+      "quotedTweetText": "As investigators find more restricted chips diverted to China, US officials are asking why Nvidia failed to catch red flags https://t.co/gU78RMNnpu"
+    },
+    {
+      "tweetId": "2106050211240169550",
+      "role": "analysis",
+      "authorHandle": "kakashiii111",
+      "url": "https://x.com/kakashiii111/status/2106050211240169550",
+      "tweetedAt": "2026-10-02T15:54:33.000Z",
+      "bestBit": "Shipping to Malaysia, Singapore, and other SEA countries. Then re-exporting them to China",
+      "text": "Yet another case of smuggling.\nWhat do we have here that is common to every case of smuggling?\nA company headquartered in the US.\nShipping to Malaysia, Singapore, and other SEA countries.\nThen re-exporting them to China.\nDo you see the pattern?\nDoes it make sense now why Nvidia changed its geographic revenue reporting from billing to company headquarters?"
+    },
+    {
+      "tweetId": "2105831257078894979",
+      "role": "analysis",
+      "authorHandle": "mrbcyber",
+      "url": "https://x.com/mrbcyber/status/2105831257078894979",
+      "tweetedAt": "2026-10-02T01:24:30.000Z",
+      "bestBit": "dummy servers were used to mislead inspectors about the true destination of the super computers",
+      "text": "Remember the SuperMicro founder smuggling super computers to China.  We have another case of a technology company actively assisting with China's espionage operations. \n\nThese are sophisticated operations.  In both cases dummy servers were used to mislead inspectors about the true destination of the super computers.  But in both cases senior officials were caught and now face significant jail time."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-300m-ai-server-smuggling-to-china-triggers-us-probe-of-nvidia-751bd3e1",
+    "title": "UPDATE: $300M AI Server Smuggling to China Triggers US Probe of Nvidia",
+    "publishedAt": "2026-10-02T00:25:10.188Z",
+    "eventTimeApprox": "2026-10-01T17:54:33.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "business",
+      "geopolitics",
+      "ai",
+      "us-politics"
+    ],
+    "tweetCount": 43,
+    "authorCount": 30
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "us-semiconductors-hit-longest-losing-streak-since-2008-97fd92cf",
+  "title": "US Semiconductors Hit Longest Losing Streak Since 2008",
+  "publishedAt": "2026-10-20T12:55:54.453Z",
+  "eventTimeApprox": "2026-10-19T07:58:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "related",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    },
+    {
+      "ticker": "AVGO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Broadcom Inc. Common Stock",
+      "hubKey": "avgo"
+    },
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "related",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    },
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "related",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112155046418989319/HU_h0fYXcAA7V-I-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112155046418989319/HU_h0fYXcAA7V-I-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "lizannsonders",
+      "tweetUrl": "https://x.com/LizAnnSonders/status/2112155046418989319"
+    }
+  },
+  "summary": "A Goldman Sachs basket of Asian AI hardware stocks fell 11% last week, its steepest decline since July, as investors weigh the impact of rising financing costs on technology spending. US semiconductor stocks fell for eight consecutive sessions, their longest losing streak since 2008, which pulled the sector's benchmark index down 16%. SK Hynix and Samsung Electronics plummeted 57% and 43% respectively from their June peaks, while Samsung Electro-Mechanics sank 23%. These losses occurred despite a fleeting rebound in Seoul, where SK Hynix perpetual futures rallied nearly 8% before those gains were erased.\n\nBroadcom CEO Hock Tan warned that limited access to capital could become the primary constraint on AI growth, risking project delays by neocloud providers. This financial stress spread to other firms, including CoreWeave, whose shares dropped 25% this week as its bonds sank to distressed levels. Additional pressure came from a new AI model from DeepSeek, which sparked concerns that demand for high-end memory chips would soften, further destabilizing the regional stock rally.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112522069003165928",
+      "role": "source",
+      "authorHandle": "mr_derivatives",
+      "url": "https://x.com/Mr_Derivatives/status/2112522069003165928",
+      "tweetedAt": "2026-10-20T12:31:24.000Z",
+      "bestBit": "$SKHY went down 10 days in a row for -30%",
+      "text": "$SKHY went down 10 days in a row for -30%.\n\nThen yesterday had a nice pop of +8-9% at the highs then close +4%.\n\nToday faded all those gains.\n\nJeez…"
+    },
+    {
+      "tweetId": "2112180519811362932",
+      "role": "source",
+      "authorHandle": "polymarketmoney",
+      "url": "https://x.com/PolymarketMoney/status/2112180519811362932",
+      "tweetedAt": "2026-10-19T13:54:12.000Z",
+      "bestBit": "SK Hynix $SKHY perpetual futures rally nearly 8% in 24 hours as AI chip stocks rebound",
+      "text": "BREAKING: SK Hynix $SKHY perpetual futures rally nearly 8% in 24 hours as AI chip stocks rebound from last week's selloff. https://t.co/EVdi62Z8WZ"
+    },
+    {
+      "tweetId": "2112029530898776507",
+      "role": "signal",
+      "authorHandle": "barchart",
+      "url": "https://x.com/Barchart/status/2112029530898776507",
+      "tweetedAt": "2026-10-19T03:54:14.000Z",
+      "bestBit": "South Korean Stocks with a strong reversal, now bullish",
+      "text": "South Korean Stocks with a strong reversal, now bullish 📈📈 https://t.co/2zBwpxjJYw",
+      "quotedTweetText": "BREAKING 🚨: South Korea\n\nSouth Korean Stocks continue to plunge and have now taken out the July lows 📉 👀 😱 https://t.co/We0d992ZcW"
+    },
+    {
+      "tweetId": "2111978195511558436",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2111978195511558436",
+      "tweetedAt": "2026-10-19T00:30:15.000Z",
+      "bestBit": "DeepSeek’s latest model sparked concerns over demand for memory chips",
+      "text": "South Korean stocks resumed declines Monday, as DeepSeek’s latest model sparked concerns over demand for memory chips, compounding market worries over AI financing https://t.co/nJ7FHc0NEn"
+    },
+    {
+      "tweetId": "2112090879007543480",
+      "role": "support",
+      "authorHandle": "globalmktobserv",
+      "url": "https://x.com/GlobalMktObserv/status/2112090879007543480",
+      "tweetedAt": "2026-10-19T07:58:00.000Z",
+      "bestBit": "A Goldman Sachs basket of Asian AI hardware stocks dropped -11% last week, its steepest decline since mid-July",
+      "text": "AI trade is facing a MASSIVE REVERSAL:\n\nA Goldman Sachs basket of Asian AI hardware stocks dropped -11% last week, its steepest decline since mid-July.\n\nNan Ya Plastics, a maker of printed-circuit-board materials, plunged -12% from its record high, Unimicron, a producer of printed circuit boards and substrates, fell -14%, and Samsung Electro-Mechanics, a manufacturer of electronic components, sank -23%.\n\nFurthermore, SK Hynix $SKHY  and Samsung Electronics are down 57% and 43%, respectively, from their June peaks.\n\nIn the US, semiconductor stocks fell for 8 consecutive sessions, $SOXX , their longest losing streak since 2008, with the sector’s benchmark down -16%, as renewed inflation concerns threatened to keep borrowing costs elevated.\n\nFinancing stress is spreading across the AI ecosystem, with CoreWeave shares plunging -25% for the week and its bonds sinking to distressed levels.\n\nMeanwhile, Broadcom CEO Hock Tan warned last week that access to capital could become the biggest constraint on AI growth, raising the risk that hyperscalers and neocloud providers delay projects and cut orders for Asian chipmakers and hardware suppliers.\n\nDoubts about the sustainability of the AI trade are rapidly surging."
+    },
+    {
+      "tweetId": "2111622443576201275",
+      "role": "analysis",
+      "authorHandle": "dmjk001",
+      "url": "https://x.com/dmjk001/status/2111622443576201275",
+      "tweetedAt": "2026-10-18T00:56:37.000Z",
+      "bestBit": "美国半导体股票连续八个交易日暴跌，导致该行业的基准指数下跌了约 16%",
+      "text": "彭博：AI 交易逆转冲击亚洲明星股票\n美国科技股的持续抛售暴露了亚洲人工智能贸易的一个新脆弱性，不断上涨的融资成本可能会扼杀维持这一繁荣所需的支出。\n随着油价飙升，投资者将注意力转向为建设人工智能基础设施而借贷的数万亿美元，亚洲人工智能贸易面临的压力加剧。美国半导体股票连续八个交易日暴跌，导致该行业的基准指数下跌了约 16%。\nGAM 投资管理公司的基金经理 Jian Shi Cortesi 表示，融资成本可能会使基础设施项目更难融资，并推迟支出，这可能会引发亚洲供应商盈利预期和估值的重置。"
+    },
+    {
+      "tweetId": "2112155046418989319",
+      "role": "commentary",
+      "authorHandle": "lizannsonders",
+      "url": "https://x.com/LizAnnSonders/status/2112155046418989319",
+      "tweetedAt": "2026-10-19T12:12:59.000Z",
+      "bestBit": "Semiconductors have declined for eight straight sessions, longest streak in 16 years",
+      "text": "Semiconductors have declined for eight straight sessions, longest streak in 16 years (index is still up &gt;50% YTD)\n \n[Past performance is no guarantee of future results.] https://t.co/MVYwqyi09Q"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "south-korean-stocks-reverse-plunge-after-breaking-july-lows-d7efd7cc",
+    "title": "South Korean Stocks Reverse Plunge After Breaking July Lows",
+    "publishedAt": "2026-10-19T04:08:41.563Z",
+    "eventTimeApprox": "2026-10-19T00:30:15.000Z",
+    "routingTopicKeys": [
+      "global-markets",
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 14,
+    "authorCount": 10
+  }
+}

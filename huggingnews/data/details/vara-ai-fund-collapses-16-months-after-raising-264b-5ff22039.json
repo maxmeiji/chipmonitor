@@ -1,0 +1,51 @@
+{
+  "slug": "vara-ai-fund-collapses-16-months-after-raising-264b-5ff22039",
+  "title": "VARA AI Fund Collapses 16 Months After Raising $26.4B",
+  "publishedAt": "2026-10-17T15:26:02.955Z",
+  "eventTimeApprox": "2026-10-17T02:44:04.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "summary": "A hedge fund targeting artificial intelligence investments has reportedly blown up after a rapid expansion of its capital base. The VARA AI fund, managed by a young executive, grew to approximately $26.4B in assets under management by the end of June, just 16 months after its inception.\n\nThe firm operated with only 9 employees, sparking scrutiny over whether the manager ignored basic principles of correlation and value at risk (VaR). Industry observers are now questioning if the fund had any of its market exposure hedged with options to prevent the collapse.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111276773677895810",
+      "role": "commentary",
+      "authorHandle": "stratslabs",
+      "url": "https://x.com/StratsLabs/status/2111276773677895810",
+      "tweetedAt": "2026-10-17T02:03:03.000Z",
+      "bestBit": "A young manager reportedly raised $26B for the VARA AI fund, which now appears to have blown up.",
+      "text": "This one is hard to believe.\n\nA young manager reportedly raised $26B for the VARA AI fund, which now appears to have blown up.\n\nGet a CFA, make a few phone calls, and you are a fund manager.\n\nHow did he miss the fundamentals of correlation and VaR (value at risk)?\n\nI also wonder whether he hedged any of the exposure with options.\n\nAt least Leopold Aschenbrenner's blowout was far better than this."
+    },
+    {
+      "tweetId": "2111343729449558453",
+      "role": "commentary",
+      "authorHandle": "bkclaims",
+      "url": "https://x.com/Bkclaims/status/2111343729449558453",
+      "tweetedAt": "2026-10-17T06:29:06.000Z",
+      "bestBit": "Never trust a looksmaxxer.",
+      "text": "Never trust a looksmaxxer.",
+      "quotedTweetText": "This one is hard to believe.\n\nA young manager reportedly raised $26B for the VARA AI fund, which now appears to have blown up.\n\nGet a CFA, make a few phone calls, and you are a fund manager.\n\nHow did he miss the fundamentals of correlation and VaR (value at risk)?\n\nI also wonder whether he hedged any of the exposure with options.\n\nAt least Leopold Aschenbrenner's blowout was far better than this."
+    }
+  ],
+  "isSuperseded": false
+}

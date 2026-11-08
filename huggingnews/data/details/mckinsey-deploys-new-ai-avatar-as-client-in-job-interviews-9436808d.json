@@ -1,0 +1,67 @@
+{
+  "slug": "mckinsey-deploys-new-ai-avatar-as-client-in-job-interviews-9436808d",
+  "title": "McKinsey Deploys New AI Avatar as Client in Job Interviews",
+  "publishedAt": "2026-10-14T13:07:43.957Z",
+  "eventTimeApprox": "2026-10-14T11:32:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "Job seekers at McKinsey offices are now participating in 10 minute simulated interactions with an artificial intelligence agent acting as a client. Company partners and assessors remain in the room during these sessions to monitor the candidates' behavior and performance in real time while they interact with the new avatar.\n\nThe deployment follows a broader increase in AI use throughout the recruitment cycle, including the adoption of AI amplified applications and algorithmic filters used by human resources departments to narrow candidate pools. These automated tools are altering the job application process more rapidly than AI is transforming the actual professional roles.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110317214142185848",
+      "role": "source",
+      "authorHandle": "wsj",
+      "url": "https://x.com/WSJ/status/2110317214142185848",
+      "tweetedAt": "2026-10-14T10:30:06.000Z",
+      "bestBit": "rolling out a new AI avatar to play the part of a client in some consulting interviews",
+      "text": "Exclusive: McKinsey, the elite consulting firm, is rolling out a new AI avatar to play the part of a client in some consulting interviews https://t.co/N4HdcbGPVL"
+    },
+    {
+      "tweetId": "2110348555093188927",
+      "role": "analysis",
+      "authorHandle": "dkthomp",
+      "url": "https://x.com/DKThomp/status/2110348555093188927",
+      "tweetedAt": "2026-10-14T12:34:38.000Z",
+      "bestBit": "10-minute conversations with AI [that] take place in McKinsey’s very real offices, with partners or interview assessors in the room observing how the candidates do",
+      "text": "\"AI is disrupting the job-application market much faster than the job market\" continues to gather evidence\n\n- AI-amplified job applications\n- AI-enabled filters, and other AI tools, used by HR depts to narrow the application pool\n- interviews with AI avatars\n- and now, \"10-minute conversations with AI [that] take place in McKinsey’s very real offices, with partners or interview assessors in the room observing how the candidates do\""
+    },
+    {
+      "tweetId": "2110352041784828294",
+      "role": "commentary",
+      "authorHandle": "politicalmath",
+      "url": "https://x.com/politicalmath/status/2110352041784828294",
+      "tweetedAt": "2026-10-14T12:48:29.000Z",
+      "bestBit": "Humans should not have to argue with robots",
+      "text": "Humans should not have to argue with robots",
+      "quotedTweetText": "\"AI is disrupting the job-application market much faster than the job market\" continues to gather evidence\n\n- AI-amplified job applications\n- AI-enabled filters, and other AI tools, used by HR depts to narrow the application pool\n- interviews with AI avatars\n- and now, \"10-minute conversations with AI [that] take place in McKinsey’s very real offices, with partners or interview assessors in the room observing how the candidates do\""
+    }
+  ],
+  "isSuperseded": false
+}

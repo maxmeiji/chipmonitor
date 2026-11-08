@@ -1,0 +1,81 @@
+{
+  "slug": "verizon-raises-full-year-outlook-and-signs-2b-ai-deal-with-amazon-33d75ca1",
+  "title": "Verizon Raises Full-Year Outlook and Signs $2B AI Deal With Amazon",
+  "publishedAt": "2026-10-26T11:22:29.941Z",
+  "eventTimeApprox": "2026-10-26T11:02:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "earnings",
+    "ai",
+    "us-markets",
+    "business"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "VZ",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Verizon Communications",
+      "hubKey": "vz"
+    },
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "summary": "Verizon reported third-quarter adjusted earnings per share of $1.31, exceeding analyst estimates of $1.27 to $1.28, and signed an AI infrastructure partnership with Amazon Web Services valued at more than $2B. During the quarter, the carrier added 406,000 postpaid phone subscribers, nearly double the 209,000 analysts had projected.\n\nThe company raised its full-year adjusted EPS guidance to a range of $5.04 to $5.06, up from its previous forecast of $4.99 to $5.04. Verizon also increased its annual target for postpaid phone additions to between 1.1M and 1.2M. Third-quarter revenue of $34.3B fell short of estimates, which ranged from $34.74B to $34.76B.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114673667284041860",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2114673667284041860",
+      "tweetedAt": "2026-10-26T11:01:05.000Z",
+      "bestBit": "Postpaid Phone Net Adds: 1.1M-1.2M; from upper half of 750K-1.0M",
+      "text": "VERIZON $VZ Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $34.30B (Est. $34.74B) 🔴; +1.5% YoY\n🔹 Adj. EPS: $1.31 (Est. $1.27) 🟢; +8.3% YoY\n🔹 Adj. EBITDA: $13.80B (Est. $13.71B) 🟢\n🔹 Free Cash Flow: $7.8B; +12.1% YoY\n\nRaises FY26 Guide:\n🔹 Adj. EPS: $5.04-$5.06 (Est. $5.04) 🟡\n🔹 Postpaid Phone Net Adds: 1.1M-1.2M; from upper half of 750K-1.0M\n🔹 Cash Flow From Operations Growth: ~+3.5%-+5.0%; from +2.0%-+4.0%\n🔹 FCF Growth: ~+12.0%; from +9.0%-+10.0%\n🔹 M&B Service Revenue Growth: upper half of +2.5%-+3.0%\n🔹 Capital Expenditures: $16.0B-$16.5B\n\nQ4 Guide:\n🔹 M&B Service Revenue Growth: ~+4.0%\n\nSegment Revenue:\n🔹 Consumer Revenue: $26.43B (Est. $26.90B) 🔴\n🔹 Business Revenue: $7.02B (Est. $7.19B) 🔴\n\nConsumer:\n🔹 Segment EBITDA: $11.97B\n🔹 Segment EBITDA Margin: 45.3%; vs 43.0% LY\n\nBusiness:\n🔹 Segment EBITDA: $1.94B\n🔹 Segment EBITDA Margin: 27.6%; vs 25.1% LY\n\nMobility & Broadband (Q3):\n🔹 Service Revenue: ~$23.5B; +2.9% YoY\n🔹 Postpaid Phone Net Adds: 406,000\n🔹 Postpaid Net Account Adds: 137,000\n🔹 Broadband Net Adds: 314,000\n🔹 Fixed Wireless Net Adds: 159,000\n🔹 Fiber Net Adds: 155,000\n🔹 Fixed Wireless & Fiber Connections: ~17.4M\n\nOther Q3 Metrics:\n🔹 Adj. EBITDA Margin: 40.2%; vs 37.8% LY\n🔹 Operating Cash Flow: $11.5B; +2.2% YoY\n🔹 GAAP EPS: $1.25; vs $1.17 LY\n🔹 Postpaid Phone Churn: 0.94%\n\nKey Updates:\n🔹 Amortization of acquisition-related intangible assets: $0.05/share\n🔹 Acquisition and integration related charges: $0.01/share\n🔹 AWS AI Infrastructure Deal: $2.0B+\n\nComments:\n🔸 “By prioritizing customer-first offerings like Simplicity and our expanded loyalty program over heavy subsidies, we are winning loyal, high-value customers while expanding margins, reducing churn, and generating strong sustained cash flow.”"
+    },
+    {
+      "tweetId": "2114674474054459425",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2114674474054459425",
+      "tweetedAt": "2026-10-26T11:04:18.000Z",
+      "bestBit": "Sees FY Adj EPS Growth: +7% To +7.5% (prev +6% To +7%)",
+      "text": "Verizon Q3 2026 Earnings\n- Adj EPS: $1.31 (est $1.28)\n\n- Oper Rev: $34.3B (est $34.76B)\n\n- Adj EBITDA: $13.80B (est $13.73B)\n\n- Capex: $3.72B (est $4.03B)\n\n- Sees FY Adj EPS: $5.04 To $5.06 (prev $4.99 To $5.04)\n\n- Sees FY Adj EPS Growth: +7% To +7.5% (prev +6% To +7%)\n\n- Still Sees FY Capex: $16B To $16.5B (est $16.34B)\n\n- AI Expanded Partnership With Amazon Valued Over $2B\n\n- Inks AI Infrastructure Deal With Amazon's AWS Unit"
+    },
+    {
+      "tweetId": "2114673947434201185",
+      "role": "support",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2114673947434201185",
+      "tweetedAt": "2026-10-26T11:02:12.000Z",
+      "bestBit": "Postpaid phone additions: 406K vs. 209K expected",
+      "text": "$VZ - VERIZON BEATS EPS ESTIMATES, ADDS TWICE AS MANY PHONE SUBSCRIBERS AS EXPECTED\n\nVerizon  Q3 results:\n\n🔸 Adjusted EPS: $1.31 vs. $1.27 expected\n🔸 Revenue: $34.3B vs. $34.74B expected\n🔸 Postpaid phone additions: 406K vs. 209K expected\n🔸 Broadband additions: 314K\n\nVerizon also announced an AI infrastructure deal with Amazon Web Services worth over $2B.\n\nFY guidance: Adjusted EPS of $5.04–$5.06, with 1.1M–1.2M postpaid phone additions.\n\nThe key takeaway: Strong subscriber growth and an AWS AI deal offset a modest revenue miss, while Verizon maintains its capex outlook.\n\nRelated tickers: $VZ, $AMZN, $T\n\nSource: Verizon Q3 Earnings Release"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "experts-reject-ai-research-papers-from-gpt-6-and-fable-51-be3fed28",
+  "title": "Experts Reject AI Research Papers from GPT-6 and Fable 5.1",
+  "publishedAt": "2026-10-20T21:38:37.901Z",
+  "eventTimeApprox": "2026-10-20T20:59:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112617994496991379/HVFzXK1XAAEOcG0-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112617994496991379/HVFzXK1XAAEOcG0-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "pkirgis",
+      "tweetUrl": "https://x.com/pkirgis/status/2112617994496991379"
+    }
+  },
+  "summary": "Researchers found that the latest frontier models cannot yet independently conduct scientific research despite access to dedicated compute and credit budgets. In an evaluation of open-ended AI research, expert reviewers rejected papers authored by OpenAI's GPT-6 Astra and Anthropic's Claude Fable 5.1. Each model was provided with research questions from unpublished papers and a $10,000 budget for API credits and compute, but the original authors of those papers identified gaps in communication, judgment, and creative problem solving.\n\nThe agents demonstrated improvements in experimental design and resource management compared to tests conducted in July with Claude Opus 4.8 and GPT-5.6 Sol. While most AI research benchmarks focus on narrow, verifiable tasks, this test specifically measured the ability to perform open-ended discovery. The team plans to continue these evaluations using higher budgets and improved scaffolding for the models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112617994496991379",
+      "role": "source",
+      "authorHandle": "pkirgis",
+      "url": "https://x.com/pkirgis/status/2112617994496991379",
+      "tweetedAt": "2026-10-20T18:52:35.000Z",
+      "bestBit": "persistent limitations in creative problem solving, judgment, calibration, and communication; both papers were rejected by our experts",
+      "text": "We gave GPT-6 Astra and Claude Fable 5.1 open-ended AI research questions from unpublished papers, with a $10,000 budget each, and had the original authors grade the papers they produced. Compared to our first tests with Claude Opus 4.8 in July, we saw meaningful improvements in experimental design and resource management, but persistent limitations in creative problem solving, judgment, calibration, and communication; both papers were rejected by our experts.\n\nhttps://t.co/n1OMKf4M7T"
+    },
+    {
+      "tweetId": "2112648736484806847",
+      "role": "support",
+      "authorHandle": "sayashk",
+      "url": "https://x.com/sayashk/status/2112648736484806847",
+      "tweetedAt": "2026-10-20T20:54:44.000Z",
+      "bestBit": "observed meaningful improvements to the agents' capabilities at experimental design and resource management",
+      "text": "An update on our evaluations of AI agents conducting open-ended AI research.\n\nMost evaluations of agents conducting AI research focus on narrow, verifiable tasks. But AI research is often open ended. In July we tested the ability of frontier AI agents to conduct open-ended AI research, using Claude Opus 4.8 and GPT-5.6 Sol.\n\nWe gave agents research questions from two unpublished papers and thousands of dollars of API credits and compute. The authors of the original papers reviewed the AI-generated papers, following a NeurIPS-style template, and rejected both papers.\n\nSince then, OpenAI has released GPT-6 Astra and Anthropic has released Fable 5.1. Can these new models conduct open-ended research with a $10,000 budget?\n\nIn follow-up experiments on two papers (one with Fable 5.1 and another with GPT-6 Astra), we observed meaningful improvements to the agents' capabilities at experimental design and resource management.\n\nBut we also saw continued limitations in creative problem solving, judgment, calibration, and communication. As a result, the expert reviewers still unambiguously rejected the agents' papers. \n\nWe plan to continue running these evaluations with better models, better scaffolds, and higher budgets. If you are interested in long-running agent evaluations, reach out!"
+    }
+  ],
+  "isSuperseded": false
+}

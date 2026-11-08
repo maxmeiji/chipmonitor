@@ -1,0 +1,79 @@
+{
+  "slug": "meta-muse-spark-open-hits-389-to-top-us-open-weights-intelligence-8a1d67f8",
+  "title": "Meta Muse Spark Open Hits 38.9 to Top US Open Weights Intelligence",
+  "publishedAt": "2026-10-20T21:39:09.260Z",
+  "eventTimeApprox": "2026-10-20T21:14:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112564497361568153/QrreBPBsiFthJSgL-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112564497361568153/QrreBPBsiFthJSgL-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2112360971394334720/vid/avc1/2160x2160/vlm80jH2JYLmhHO_.mp4?tag=29",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2112564497361568153"
+    }
+  },
+  "summary": "Reflection launched its first model Beam 1.0 on Friday, securing the top rank among US open-weight models for building Excel financial models on the EMB benchmark. The model scored 30.3 on the Intelligence Index with 501B parameters. Nvidia also released Nemotron 3.5 Bolt and Nemotron 3.5 Super VL on Thursday; Super VL achieved a score of 26.5 using 120B parameters to displace Inkling Small on the Pareto frontier.\n\nMeta's Muse Spark Open outscored the Nvidia and Reflection models with a 38.9 on the Intelligence Index, leading Super VL by more than 12 points. This release establishes a new high for intelligence among US open-weights models. The clustered launches of these models last week have effectively shifted the efficiency and performance frontier for open-weights AI developed in the US.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112564497361568153",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2112564497361568153",
+      "tweetedAt": "2026-10-20T15:20:00.000Z",
+      "bestBit": "Super VL scored 26.5 on the Intelligence Index with 120B parameters, pushing Inkling Small off the Pareto frontier",
+      "text": "US open-weights models made gains in both intelligence and parameter efficiency last week:\n\n➤ Thursday morning: NVIDIA released Nemotron 3.5 Bolt and Nemotron 3.5 Super VL. Super VL scored 26.5 on the Intelligence Index with 120B parameters, pushing Inkling Small off the Pareto frontier\n\n➤ Thursday midday: Meta's Muse Spark Open scored 38.9, more than 12 points ahead of Super VL and the highest intelligence yet for a US open weights model\n\n➤ Friday morning: Beam 1.0, Reflection's first model, scored 30.3 with 501B parameters, joining the frontier between Super VL and Muse Spark Open\n\nSee our full comparison of open weight models on Artificial Analysis https://t.co/Xbo3xVvEod"
+    },
+    {
+      "tweetId": "2112655204646883388",
+      "role": "support",
+      "authorHandle": "valsai",
+      "url": "https://x.com/ValsAI/status/2112655204646883388",
+      "tweetedAt": "2026-10-20T21:20:26.000Z",
+      "bestBit": "Beam ranks #14 among all open-weight models and #1 among US open-weight models, just ahead of Muse Spark Open",
+      "text": "Beam 1.0 did especially well on EMB, which tests agents on building Excel financial models. Beam ranks #14 among all open-weight models and #1 among US open-weight models, just ahead of Muse Spark Open."
+    }
+  ],
+  "isSuperseded": false
+}

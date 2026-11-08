@@ -1,0 +1,65 @@
+{
+  "slug": "luxor-technology-raises-16m-to-scale-ai-compute-infrastructure-8bce5d2f",
+  "title": "Luxor Technology Raises $16M to Scale AI Compute Infrastructure",
+  "publishedAt": "2026-10-27T14:26:41.998Z",
+  "eventTimeApprox": "2026-10-27T13:09:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CAN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Canaan Inc. American Depositary Shares",
+      "hubKey": "can"
+    }
+  ],
+  "summary": "A strategic investment round led by CMT Digital has provided Luxor Technology with funding to expand its capabilities in the artificial intelligence compute market. The $16 million raise saw participation from several angel investors and industry partners, including Canaan, MicroBT, Halo and Steelhead.\n\nThe bitcoin mining and infrastructure firm will utilize the capital to leverage its eight years of experience in energy and risk management to support AI compute customers. CMT Digital stated that the investment is intended to help the company's clients navigate the hardware and power requirements of the growing AI sector.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115067452472041798",
+      "role": "source",
+      "authorHandle": "luxor",
+      "url": "https://x.com/luxor/status/2115067452472041798",
+      "tweetedAt": "2026-10-27T13:05:51.000Z",
+      "bestBit": "Today we announce a $16M strategic round led by @CMT_Digital, with participation from Canaan, MicroBT, Halo, Steelhead and additional angel investors.",
+      "text": "Today we announce a $16M strategic round led by @CMT_Digital, with participation from Canaan, MicroBT, Halo, Steelhead and additional angel investors.\n\nEach investor is an operating partner in the compute supply chain Luxor serves: hardware, capital, and power.\n\nRead the full release: https://t.co/ooln1ewN4e"
+    },
+    {
+      "tweetId": "2115083489880031238",
+      "role": "support",
+      "authorHandle": "cmt_digital",
+      "url": "https://x.com/CMT_Digital/status/2115083489880031238",
+      "tweetedAt": "2026-10-27T14:09:34.000Z",
+      "bestBit": "Luxor is putting that experience to work in AI compute, helping customers navigate an increasingly complex market.",
+      "text": "Proud to lead @luxor’s $16M strategic round. Eight years of operating experience have sharpened the team’s expertise across energy, infrastructure and risk management. Luxor is putting that experience to work in AI compute, helping customers navigate an increasingly complex market. We’re excited for what’s next!",
+      "quotedTweetText": "Today we announce a $16M strategic round led by @CMT_Digital, with participation from Canaan, MicroBT, Halo, Steelhead and additional angel investors.\n\nEach investor is an operating partner in the compute supply chain Luxor serves: hardware, capital, and power.\n\nRead the full release: https://t.co/ooln1ewN4e"
+    }
+  ],
+  "isSuperseded": false
+}

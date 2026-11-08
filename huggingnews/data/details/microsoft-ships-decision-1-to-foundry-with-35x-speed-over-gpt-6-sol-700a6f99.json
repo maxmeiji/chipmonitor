@@ -1,0 +1,104 @@
+{
+  "slug": "microsoft-ships-decision-1-to-foundry-with-35x-speed-over-gpt-6-sol-700a6f99",
+  "title": "Microsoft Ships Decision-1 to Foundry with 35x Speed Over GPT-6 Sol",
+  "publishedAt": "2026-10-09T20:09:10.570Z",
+  "eventTimeApprox": "2026-10-09T18:49:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 20,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108627923888754862/F8PiWtkxs482oQPJ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108627923888754862/F8PiWtkxs482oQPJ-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2108626811164999680/vid/avc1/1920x1080/qAmiTPZyrxQVymxQ.mp4?tag=29",
+    "credit": {
+      "handle": "satyanadella",
+      "tweetUrl": "https://x.com/satyanadella/status/2108627923888754862"
+    }
+  },
+  "summary": "Nearly 150,000 blind questions across 36 different benchmarks resulted in the highest accuracy for Microsoft's latest structured-task model. Known as Microsoft-Decision-1, the tool is now available on Microsoft Foundry and was post-trained on Qwen3.5-9B to enable fast, single-pass decision scoring. The company reports that the model operates 4.5 times quicker than its closest rival, Quyet-1.0-Large, and 35 times faster than GPT-6 Sol.\n\nThe model is being used internally to power LLM judges, manage incident response, and screen candidate hypotheses in scientific discovery pipelines. Future updates will include rebasing the tool on other architectures, such as MAI and OpenAI models, to refine latency and quality. This release follows a broader industry trend of deploying specialized decision-making architectures to outperform general-purpose large language models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108627923888754862",
+      "role": "source",
+      "authorHandle": "satyanadella",
+      "url": "https://x.com/satyanadella/status/2108627923888754862",
+      "tweetedAt": "2026-10-09T18:37:28.000Z",
+      "bestBit": "testing it across Microsoft for everything from incident response and quality control to scientific discovery",
+      "text": "Introducing Microsoft-Decision-1, our new model for fast decision-making.\n\nIt delivers top performance on structured decision tasks, outperforming both LLMs and other decision models in latency and quality.\n\nWe’re already testing it across Microsoft for everything from incident response and quality control to scientific discovery."
+    },
+    {
+      "tweetId": "2108647491033821668",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2108647491033821668",
+      "tweetedAt": "2026-10-09T19:55:13.000Z",
+      "bestBit": "4.5 times quicker than Quyet-1.0-Large, the runner-up, and 35 times quicker than GPT-6 Sol",
+      "text": "MICROSOFT 🔥: A new Microsoft-Decision-1 model for fast decision-making is now available on Microsoft Foundry.\n\nMicrosoft-Decision-1 was post-trained on Qwen3.5-9B for fast, single-pass decision scoring. Later, Microsoft is planning to rebase it on other models, including MAI and OpenAI models. \n\n> \"Microsoft-Decision-1 achieved the highest accuracy in our 36-benchmark comparison, spanning nearly 150,000 questions across benchmarks kept blind from training.\"\n\n> \"4.5 times quicker than Quyet-1.0-Large, the runner-up, and 35 times quicker than GPT-6 Sol.\"\n\n> \"We’re already testing it across Microsoft for everything from incident response and quality control to scientific discovery.\"\n\nEveryone is testing 💪👀 https://t.co/ZI28j79Q0n"
+    },
+    {
+      "tweetId": "2108644675166888033",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2108644675166888033",
+      "tweetedAt": "2026-10-09T19:44:01.000Z",
+      "bestBit": "application of decision-making models to power LLM judges and improve scientific discovery pipelines (e.g., screening candidate hypotheses)",
+      "text": "NEW: Microsoft also releases its System One model, Microsoft-Decision-1.\n\nWhat a crazy effect Jev has had in the space.\n\nAlso, a very cool application of decision-making models to power LLM judges and improve scientific discovery pipelines (e.g., screening candidate hypotheses). \n\nI'll add this model to my ever-growing list of eval runs. In my ongoing evals, consistency and more complex decision-making are two areas where I see these decision models struggle.\n\nI'm also exploring a bunch of science applications at @dair_ai and will share when ready.",
+      "quotedTweetText": "Introducing Microsoft-Decision-1, our new model for fast decision-making.\n\nIt delivers top performance on structured decision tasks, outperforming both LLMs and other decision models in latency and quality.\n\nWe’re already testing it across Microsoft for everything from incident response and quality control to scientific discovery."
+    },
+    {
+      "tweetId": "2108631066961477646",
+      "role": "commentary",
+      "authorHandle": "scaling01",
+      "url": "https://x.com/scaling01/status/2108631066961477646",
+      "tweetedAt": "2026-10-09T18:49:57.000Z",
+      "bestBit": "pretty interesting how fast everyone deployed decision models",
+      "text": "pretty interesting how fast everyone deployed decision models",
+      "quotedTweetText": "Introducing Microsoft-Decision-1, our new model for fast decision-making.\n\nIt delivers top performance on structured decision tasks, outperforming both LLMs and other decision models in latency and quality.\n\nWe’re already testing it across Microsoft for everything from incident response and quality control to scientific discovery."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "microsoft-launches-decision-1-model-to-beat-llm-latency-c9dda14d",
+    "title": "Microsoft Launches Decision-1 Model to Beat LLM Latency",
+    "publishedAt": "2026-10-09T18:53:17.413Z",
+    "eventTimeApprox": "2026-10-09T18:40:56.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 9,
+    "authorCount": 9
+  }
+}

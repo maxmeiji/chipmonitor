@@ -1,0 +1,172 @@
+{
+  "slug": "broadcom-lends-anthropic-42b-to-offset-ai-funding-shortage-5d97b9eb",
+  "title": "Broadcom Lends Anthropic $42B to Offset AI Funding Shortage",
+  "publishedAt": "2026-10-13T07:09:07.052Z",
+  "eventTimeApprox": "2026-10-12T15:49:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 38,
+  "authorCount": 31,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "startups",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AVGO",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Broadcom Inc. Common Stock",
+      "hubKey": "avgo"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "related",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    },
+    {
+      "ticker": "MU",
+      "kind": "equity",
+      "role": "related",
+      "name": "Micron Technology, Inc.",
+      "hubKey": "mu"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109688834959057238/HUcez12W8AAnUqH-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109688834959057238/HUcez12W8AAnUqH-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "nypost",
+      "tweetUrl": "https://x.com/nypost/status/2109688834959057238"
+    }
+  },
+  "summary": "Hock Tan believes that the availability of cash will soon be the primary constraint on the development of advanced neural networks. While speaking at an event in Singapore, the Broadcom chief executive stated that access to capital, rather than chip or memory shortages, could become the industry's main growth bottleneck. Broadcom is already attempting to mitigate these constraints by backing a debt package of up to $42 billion for Anthropic to fund the leasing of AI semiconductors, even as Tan cautioned that many current investors are betting like they are in a casino.\n\nThe remarks contributed to a global chip stock sell-off, with Samsung falling as much as 8.8%, SK Hynix sliding 9.2%, and Micron dropping 4%. Intel CEO Lip-Bu Tan agreed that capital costs are a front-line challenge, though he noted that hardware will remain in short supply for the next 2 to 3 years. Despite the funding risks, Broadcom projects its AI chip revenue will double to $230 billion by 2028, while ex-Google CEO Eric Schmidt noted that the U.S. capital markets are uniquely equipped to handle the trillion-dollar costs of the AI buildout.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109617458222952919",
+      "role": "source",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2109617458222952919",
+      "tweetedAt": "2026-10-12T12:09:31.000Z",
+      "bestBit": "Intel $INTC CEO Lip-Bu Tan said AI hardware will stay in short supply for the next 2 to 3 years",
+      "text": "BROADCOM $AVGO CEO HOCK TAN SAYS SOME AI INVESTORS ARE BETTING LIKE THEY'RE IN A CASINO\n\nTan spoke Monday at an event in Singapore, per Bloomberg.\n\n- \"A lot of investors have no clue what they are investing in.\" \n- He warned a shortage of capital could be the next limit on AI growth\n- He compared companies spending on AI tokens to kids who burn through $10 of arcade tokens in 10 minutes\n\nOn the same panel, Intel $INTC CEO Lip-Bu Tan said AI hardware will stay in short supply for the next 2 to 3 years.",
+      "quotedTweetText": "The CEOs of Intel and Broadcom warn that access to capital, not chip or memory shortages, could become the biggest bottleneck for the AI boom."
+    },
+    {
+      "tweetId": "2109873194081681815",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2109873194081681815",
+      "tweetedAt": "2026-10-13T05:05:43.000Z",
+      "bestBit": "Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4%",
+      "text": "A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% (Financial Times)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2109640191740621217",
+      "role": "commentary",
+      "authorHandle": "michaeljburry",
+      "url": "https://x.com/michaeljburry/status/2109640191740621217",
+      "tweetedAt": "2026-10-12T13:39:51.000Z",
+      "bestBit": "compared companies spending on AI tokens to kids who burn through $10 of arcade tokens in 10 minutes",
+      "text": "Well well well. Well. \nBloomberg: Broadcom CEO Likens Many AI Investors to Casino Gamblers\nand more...\nBroadcom’s Tan said AI model developers need to find customers that can generate returns from deploying the technology, rather than relying on users who are now “wasting money” on tokens as they experiment with AI.\n“When you are a kid you go to a video arcade, you play. Your parents give you $10 of tokens, you finish it in 10 minutes and you haven’t learned anything,” he said. “That’s what happening in enterprises today.”"
+    },
+    {
+      "tweetId": "2109783260356329823",
+      "role": "commentary",
+      "authorHandle": "mr_derivatives",
+      "url": "https://x.com/Mr_Derivatives/status/2109783260356329823",
+      "tweetedAt": "2026-10-12T23:08:21.000Z",
+      "bestBit": "calling people gamblers. Whether there is some truth in that or not (probably true) you just don’t say those things as the CEO",
+      "text": "$AVGO \n\nBroadcom’s CEO has now made two critical errors.\n\n1) He read the wrong earnings report last quarter. He began the conference call reading LAST YEARS results lol. Ya’ll remember that?!\n\n2) Today he did the ultimate no-no for shareholders by calling people gamblers. Whether there is some truth in that or not (probably true) you just don’t say those things as the CEO. Let someone else say it. You know, like Michael Burry.\n\nMy brother, GET WITH THE PROGRAM.\n\n2 strikes.\n\n1 more strike and then….",
+      "quotedTweetText": "@Mr_Derivatives Same guy who opened earnings reading the previous earnings report"
+    },
+    {
+      "tweetId": "2109713489686307027",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2109713489686307027",
+      "tweetedAt": "2026-10-12T18:31:07.000Z",
+      "bestBit": "Broadcom agreed to lend Anthropic up to $42 billion to lease its chips",
+      "text": "🦔Broadcom CEO Hock Tan said Monday that a lot of AI investors have no clue what they’re investing in and act like they’re in a casino. He also compared companies spending on AI to a kid who burns through $10 of arcade tokens in 10 minutes and learns nothing.\n\nMy Take\nHe’s not wrong, but it’s a strange thing to hear from the guy running the house. Broadcom agreed to lend Anthropic up to $42 billion to lease its chips, and Tan still projects his AI chip revenue doubling to $230 billion in 2028. A lot of the money he’s calling casino money ends up as Broadcom revenue.\n\nIf businesses keep burning through AI spending like that kid with the arcade tokens, those budgets get cut, and the chip orders behind them shrink too. Tan also warned that AI companies could start running short of money to borrow, and Firmus already pulled its IPO last week when investors balked at the price. If companies cut their AI budgets or the money dries up, I have a hard time seeing Broadcom hit $230 billion in AI chip sales by 2028.\n\nHedgie🤗"
+    },
+    {
+      "tweetId": "2109661150728081580",
+      "role": "commentary",
+      "authorHandle": "kakashiii111",
+      "url": "https://x.com/kakashiii111/status/2109661150728081580",
+      "tweetedAt": "2026-10-12T15:03:08.000Z",
+      "bestBit": "Broadcom CEO Likens Many AI Investors to Casino Gamblers",
+      "text": "RT @michaeljburry: Well well well. Well. \nBloomberg: Broadcom CEO Likens Many AI Investors to Casino Gamblers\nand more...\nBroadcom’s Tan sa…"
+    },
+    {
+      "tweetId": "2109856402424639906",
+      "role": "commentary",
+      "authorHandle": "kalshi",
+      "url": "https://x.com/Kalshi/status/2109856402424639906",
+      "tweetedAt": "2026-10-13T03:59:00.000Z",
+      "bestBit": "warn capital, not chips, could become AI's biggest bottleneck",
+      "text": "JUST IN: Intel and Broadcom CEOs warn capital, not chips, could become AI's biggest bottleneck https://t.co/wW9LEuDrJz"
+    },
+    {
+      "tweetId": "2109638191934513541",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2109638191934513541",
+      "tweetedAt": "2026-10-12T13:31:54.000Z",
+      "bestBit": "The real limit to AI is not energy; it is actually cash",
+      "text": "Ex Google CEO, Dr. Eric Schmidt: AI may hit a money wall before it hits a power wall.\n\nPerf per watt had a good run. At 6%, a trillion in debt costs $60B a year.\n\n\"The real limit to AI is not energy; it is actually cash. When you add up the cost of these things, if you take round numbers, say $50 bn per gigawatt, then 10 gigawatts is half a trillion dollars.\n\nHow many companies, countries, and so forth can hand an industry a trillion dollars of capital? Very, very few. The Chinese could certainly do it. I do not know if they are doing it, but I am going to try to find out.\n\nIn America, there are people who hope that is going to happen. It is interesting that you can finance these things because the brilliance of the American capital market allows us to borrow that kind of money. For example, the Europeans cannot do this, which they are sort of sore about.\"\n\n---\n\nFull video from 'Special Competitive Studies Project' YT channel ( link in comment)",
+      "quotedTweetText": "Broadcom CEO Hock Tan says capital, not chips, memory or power, may become AI’s biggest constraint.\n\ninancing is harder to fix, because data centers and chips get paid for years before they earn anything, and higher bond yields raise that cost.\n\nIntel CEO Lip-Bu Tan named the same pressure, calling “capital and the cost of capital” the front-line challenge and saying people will eventually want to see ROI.\n\nNeither sees demand cooling soon, and Hock Tan said compute demand outstrips supply and could stay that way through 2029, possibly into 2030."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-samsung-and-sk-hynix-plunge-after-broadcom-ceo-calls-ai-a-casino-442b52a4",
+    "title": "UPDATE: Samsung and SK Hynix Plunge After Broadcom CEO Calls AI a Casino",
+    "publishedAt": "2026-10-13T05:23:22.650Z",
+    "eventTimeApprox": "2026-10-12T15:37:21.500Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 31,
+    "authorCount": 25
+  }
+}

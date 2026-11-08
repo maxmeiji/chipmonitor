@@ -1,0 +1,67 @@
+{
+  "slug": "nevis-raises-70m-for-ai-wealth-platform-at-reported-500m-valuation-fdd38529",
+  "title": "Nevis Raises $70M for AI Wealth Platform at Reported $500M Valuation",
+  "publishedAt": "2026-10-26T16:52:04.163Z",
+  "eventTimeApprox": "2026-10-26T15:55:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SCHW",
+      "kind": "equity",
+      "role": "related",
+      "name": "The Charles Schwab Corporation",
+      "hubKey": "schw"
+    }
+  ],
+  "summary": "EQT Ventures led a new investment in wealth management startup Nevis, bringing the AI company's total capital raised to $110M over the last two years. The Series B round totaled $70M and values the business at $500M, a source told Fortune. Nevis provides an AI platform that integrates CRM, meeting intelligence, and custodial workflows to automate administrative tasks for financial advisors.\n\nThe startup reported its revenue grew more than 25x over the past 12 months, while assets on the platform increased from $50B to more than $700B. New investors in the round include Charles Schwab and Quantum Light, with participation from existing backers Sequoia, ICONIQ Capital, and Ribbit Capital. The company stated its AI agents have performed over 100,000 operational tasks to date.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114721492168519879",
+      "role": "source",
+      "authorHandle": "markswan_",
+      "url": "https://x.com/MarkSwan_/status/2114721492168519879",
+      "tweetedAt": "2026-10-26T14:11:08.000Z",
+      "bestBit": "Assets on Nevis have grown from $50B to over $700B, adding $50B every month.",
+      "text": "We've raised a $70,000,000 Series B, led by @eqtventures, bringing our total funding to $110 million in just two years.\n\nAt @neviswealth we believe financial advice will always be human-led. But advisors spend far too much time on administrative work, held back by outdated and fragmented technology.\n\nNevis brings CRM, meeting intelligence, financial planning and custodial workflows into one AI platform. Our agents execute work end-to-end, enabling advisors to serve more clients, deliver more services and grow faster.\n\nThe past 12 months have been extraordinary:\n\n- Revenue has grown more than 25x.\n- We've partnered with 10+ leading RIAs, including Focus Financial Partners, IEQ Capital and United Capital.\n- Assets on Nevis have grown from $50B to over $700B, adding $50B every month.\n- Our AI agents have completed over 100,000 operational tasks.\n\nAdvisors using Nevis are already reclaiming up to 10 hours a week and taking 30% more prospect meetings.\n\nOur ambition is to make every financial advisor a super advisor, equipped to serve more clients, deliver more personalized advice and build businesses at an entirely new scale.\n\nThis funding will allow us to grow our team, accelerate product development and build new products across the wealth management technology stack.\n\nI'm also excited to welcome two new investors, @CharlesSchwab and Quantum Light. Schwab's strategic investment will deepen our partnership and unlock more AI-powered workflows for the 16,000+ independent RIAs they serve. QuantumLight is the venture capital firm founded by Revolut founder and CEO Nik Storonsky.\n\nEvery one of our existing investors, including @sequoia , @ICONIQCapital and @RibbitCapital, has also doubled down.\n\nTo our customers, investors and above all our team, thank you for your trust, ambition and relentless execution.\n\nWe're building the foundational AI platform for wealth management.\n\nAnd we're just getting started.\n\nRead more here: https://t.co/Xs1jrWjTqn"
+    },
+    {
+      "tweetId": "2114747811455774745",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2114747811455774745",
+      "tweetedAt": "2026-10-26T15:55:43.000Z",
+      "bestBit": "Nevis, which uses AI to automate paperwork for financial advisors, raised a $70M Series B led by EQT Ventures, a source says at a $500M valuation",
+      "text": "Nevis, which uses AI to automate paperwork for financial advisors, raised a $70M Series B led by EQT Ventures, a source says at a $500M valuation (@c_grigera / Fortune)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

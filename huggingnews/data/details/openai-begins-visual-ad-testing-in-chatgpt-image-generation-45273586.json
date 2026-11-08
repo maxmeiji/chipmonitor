@@ -1,0 +1,75 @@
+{
+  "slug": "openai-begins-visual-ad-testing-in-chatgpt-image-generation-45273586",
+  "title": "OpenAI Begins Visual Ad Testing in ChatGPT Image Generation",
+  "publishedAt": "2026-10-05T10:54:09.090Z",
+  "eventTimeApprox": "2026-10-05T10:25:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "DV",
+      "kind": "equity",
+      "role": "related",
+      "name": "DoubleVerify Holdings, Inc.",
+      "hubKey": "dv"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107052193102934220/HT3AzcgbAAAfRR4-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107052193102934220/HT3AzcgbAAAfRR4-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "btibor91",
+      "tweetUrl": "https://x.com/btibor91/status/2107052193102934220"
+    }
+  },
+  "summary": "Initial US-based campaigns will appear within the chatbot's creative tools later this month for a select set of users. OpenAI will display clearly labeled visual ads while people generate images, deploying the new format to a limited group of advertisers as part of a regional test.\n\nThe company is collaborating with Haus, Measured and WorkMagic to evaluate the effectiveness of the advertisements. Parallel efforts to ensure the placements align with corporate standards are being conducted through partnerships with DoubleVerify and Integral Ad Science for brand-suitability testing.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107052193102934220",
+      "role": "source",
+      "authorHandle": "btibor91",
+      "url": "https://x.com/btibor91/status/2107052193102934220",
+      "tweetedAt": "2026-10-05T10:16:04.000Z",
+      "bestBit": "OpenAI is testing a new visual ad format in ChatGPT during image generation, starting later this month in the US",
+      "text": "OpenAI is testing a new visual ad format in ChatGPT during image generation, starting later this month in the US\n\nhttps://t.co/Uu0OmBNywM https://t.co/yjx6bnhFP5"
+    },
+    {
+      "tweetId": "2107054642035032506",
+      "role": "support",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2107054642035032506",
+      "tweetedAt": "2026-10-05T10:25:48.000Z",
+      "bestBit": "OpenAI is also partnering with Haus, Measured and WorkMagic on ad-effectiveness experiments, while working with DoubleVerify and Integral Ad Science on brand-suitability testing",
+      "text": "OPENAI INTRODUCES NEW VISUAL ADS IN CHATGPT\n\nOpenAI is introducing a new visual advertising format in ChatGPT, with U.S. testing beginning later this month among an initial group of advertisers.\n\nThe format will initially appear during image generation.\n\nOpenAI is also partnering with Haus, Measured and WorkMagic on ad-effectiveness experiments, while working with DoubleVerify and Integral Ad Science on brand-suitability testing."
+    }
+  ],
+  "isSuperseded": false
+}

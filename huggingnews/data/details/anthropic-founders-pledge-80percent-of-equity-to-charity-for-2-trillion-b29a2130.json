@@ -1,0 +1,85 @@
+{
+  "slug": "anthropic-founders-pledge-80percent-of-equity-to-charity-for-2-trillion-b29a2130",
+  "title": "Anthropic Founders Pledge 80% of Equity to Charity for $2 Trillion IPO",
+  "publishedAt": "2026-10-06T19:10:21.851Z",
+  "eventTimeApprox": "2026-10-06T13:41:56.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "Dario Amodei and six other co-founders of the AI startup have committed the bulk of their personal ownership stakes to philanthropic causes, as disclosed in a recent filing. The seven founders have pledged 80% of their equity to charity, although the document does not reveal the total shares they hold. The disclosure is part of the company's preparations for a potential public offering with a target valuation exceeding $2 trillion.\n\nThe filing also reveals that CEO Dario Amodei and President Daniela Amodei had their base salaries doubled to $1.4 million each in July. Total compensation for 2025 was $18 million for Dario and $16.4 million for Daniela, figures composed mostly of stock and options. Anthropic has since granted both executives additional restricted stock units tied to employee retention and the IPO, which may occur as early as this fall.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107411216390119567",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2107411216390119567",
+      "tweetedAt": "2026-10-06T10:02:42.000Z",
+      "bestBit": "preparing for a potential IPO as early as this fall at a valuation above $2 Trillion",
+      "text": "Anthropic CEO Dario Amodei earned $18 Million in 2025, mostly from stock and options. \n\nHis salary was raised to $1.4M this July, while Anthropic is preparing for a potential IPO as early as this fall at a valuation above $2 Trillion.\n\nSource: Reuters https://t.co/2atJeBR28V"
+    },
+    {
+      "tweetId": "2107442225991098720",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2107442225991098720",
+      "tweetedAt": "2026-10-06T12:05:55.000Z",
+      "bestBit": "President Daniela Amodei, his sister, earned $16.4M",
+      "text": "Anthropic's IPO prospectus: Dario Amodei earned $18M in 2025, middle of the pack for tech CEOs, and President Daniela Amodei, his sister, earned $16.4M (Reuters)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2107544740430254130",
+      "role": "analysis",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2107544740430254130",
+      "tweetedAt": "2026-10-06T18:53:17.000Z",
+      "bestBit": "Dario, Daniela and Anthropic's other five co-founders have pledged 80% of their personal Anthropic equity to charity",
+      "text": "🚨BREAKING: According to Anthropic's IPO filing, Dario Amodei made $18 million in 2025. His sister Daniela made $16.4 million.\n\nBoth had their base salaries doubled to $1.4 million in July, and Anthropic has since granted them additional restricted stock units, with some tied to staying at the company and some tied to the IPO.\n\nThe filing still does not disclose how much of Anthropic its founders actually own. At a potential valuation above $2 trillion, those stakes could dwarf the annual pay figures. Dario, Daniela and Anthropic's other five co-founders have pledged 80% of their personal Anthropic equity to charity."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropic-reveals-18m-ceo-pay-in-2-trillion-ipo-prospectus-d32239a3",
+    "title": "Anthropic Reveals $18M CEO Pay in $2 Trillion IPO Prospectus",
+    "publishedAt": "2026-10-06T15:38:40.504Z",
+    "eventTimeApprox": "2026-10-06T12:05:55.000Z",
+    "routingTopicKeys": [
+      "startups",
+      "ai"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

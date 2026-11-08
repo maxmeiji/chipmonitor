@@ -1,0 +1,41 @@
+{
+  "slug": "hume-launches-audio-decision-api-to-analyze-emotion-in-voice-recordings-4c72d06e",
+  "title": "Hume Launches Audio Decision API to Analyze Emotion in Voice Recordings",
+  "publishedAt": "2026-11-02T16:23:10.917Z",
+  "eventTimeApprox": "2026-11-02T16:13:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "summary": "Hume released a tool that allows developers to identify sonic nuances, such as laughter or hesitation, within audio files to determine a speaker's emotional state. The company's new Audio Decision API provides probability scores for specific questions about a recording by analyzing tone and interruptions rather than relying on text transcripts.\n\nThe API is trained on more than 10 million human judgments and can process audio in realtime or from archives lasting several hours. Hume stated the system consolidates tasks that previously required more than 10 separate models into a single API call, which can help teams managing voice agents identify when to review a call or ask for clarification.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117285608745820372",
+      "role": "source",
+      "authorHandle": "hume_ai",
+      "url": "https://x.com/hume_ai/status/2117285608745820372",
+      "tweetedAt": "2026-11-02T16:00:01.000Z",
+      "bestBit": "Trained on 10M+ human judgments, so it answers the way human listeners would.",
+      "text": "Introducing the Hume Audio Decision API.\n\nAsk anything: How many speakers? Is anyone laughing? Is the caller frustrated?\n\nWhat used to take 10+ models is now one call.\n\nTrained on 10M+ human judgments, so it answers the way human listeners would.\n\nRealtime, or across hours of recordings.\n\nRequest access below."
+    }
+  ],
+  "isSuperseded": false
+}

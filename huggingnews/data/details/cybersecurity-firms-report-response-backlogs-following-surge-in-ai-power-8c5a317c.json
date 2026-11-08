@@ -1,0 +1,92 @@
+{
+  "slug": "cybersecurity-firms-report-response-backlogs-following-surge-in-ai-power-8c5a317c",
+  "title": "Cybersecurity Firms Report Response Backlogs Following Surge in AI-Powered Cyberattacks",
+  "publishedAt": "2026-10-29T12:55:01.407Z",
+  "eventTimeApprox": "2026-10-28T03:22:58.500Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "DGX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Quest Diagnostics Inc.",
+      "hubKey": "dgx"
+    }
+  ],
+  "summary": "Cybersecurity firm Sophos processed seven major incident response cases in a single week, a volume of work that typically takes the company three months to resolve. This surge in activity has created systemic bottlenecks across the industry, known among practitioners as \"Black October,\" with response firm MoxFive warning that newly breached companies may now face waits of up to five days for emergency help to mitigate attacks.\n\nSecurity executives warn that AI is allowing attackers to identify and exploit software vulnerabilities more rapidly than human defenders can deploy patches. This capability gap has already impacted core infrastructure, including an Oct. 21 breach of the Quanum LSM platform at Quest Diagnostics, which forced medical providers to return to paper-based requisitions for laboratory tests to maintain patient care.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115786067529846851",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2115786067529846851",
+      "tweetedAt": "2026-10-29T12:41:22.000Z",
+      "bestBit": "Cybersecurity firm Sophos says its incident-response team handled SEVEN major incidents in SEVEN days, a workload that normally takes THREE MONTHS.",
+      "text": "WTF. Cybersecurity firm Sophos says its incident-response team handled SEVEN major incidents in SEVEN days, a workload that normally takes THREE MONTHS.\n\nThe WSJ reports security firms are overwhelmed by what insiders call 'Black October.' MoxFive says newly breached companies may have to wait up to FIVE DAYS for help.\n\nSecurity executives say AI is helping attackers exploit vulnerabilities faster than defenders can respond."
+    },
+    {
+      "tweetId": "2114752250707054600",
+      "role": "analysis",
+      "authorHandle": "liangsays",
+      "url": "https://x.com/liangsays/status/2114752250707054600",
+      "tweetedAt": "2026-10-26T16:13:21.000Z",
+      "bestBit": "Jason D. Clinton, Deputy Chief Information Security Officer of Anthropic, says “things are going to get a lot worse before they get better.”",
+      "text": "there are so many emergent situations. we are doing a weekly roundup format, penned by @theojaffee\n\nas cyber starts to climb the exponential, here's a look at black october, agent containment incidents, dario amodei vs. nathan calvin, and sci-fi startups raising lots of money\n\nhttps://t.co/IBCUqDQ4fE",
+      "quotedTweetText": "Situation of the Week 10/19-10/25:\n\nBlack October\n\nThough real-world impacts have lagged behind, AI has been cyber-capable for quite some time now. Anthropic finished training Claude Mythos Preview in February. It was substantially better than previous models at cyber tasks, so instead of releasing it right away, Anthropic and industry partners secretly launched Project Glasswing to find and fix vulnerabilities in open-source software so they couldn’t be exploited. Anthropic announced Mythos and Glasswing in April, but didn’t release a Mythos-class model to the public until Fable in June, when they had built strong enough safeguards to block the model from doing cyber tasks.\n\nOther labs soon caught up. In May, OpenAI launched Daybreak, their own version of Project Glasswing, and in July, they caught up to the cyber frontier with GPT-5.6 Sol. Chinese labs kept pace a few months behind, with https://t.co/90zyG2rPa4’s GLM-5.2 in June, then Moonshot AI’s Kimi K3 in July, and finally https://t.co/90zyG2rPa4’s GLM-5.3 in August, which was about as cyber-capable as early Mythos. Yet despite the Cyber ECI climbing steadily month after month, and despite warnings from cyber experts growing louder and louder, there was no increase whatsoever in cyberattacks on American citizens between June and September.\n\nThen, all of a sudden, the last week saw a flood of disclosed vulnerabilities in various important pieces of software. A quick timeline:\n\nMonday:\nA Chinese hacker used just $5k of tokens to break into over 100 websites, including ones owned by major companies like Deere, SharkNinja, and Cummins, using the penetration-testing agent harness Cairn.\nAnthropic announces OSS Scanner, a free service scanning open-source code repositories for vulnerabilities.\n\nTuesday:\nVals AI finds that the open-weight DeepSeek-V4.1-Flash-1017 (released on October 17), beats the cyber-enabled version of GPT-6 Sol (released less than a month earlier, on September 22), on their offensive cybersecurity evaluation.\n\nFortinet, a major cybersecurity company, announces that they will release a set of security updates across their products to help defend against agentic cyberattacks.\n\nWednesday:\nTwo critical vulnerabilities in PHP, a scripting language powering the majority of sites on the Internet, are patched with the help of OpenAI’s Patch the Planet program. The NSA urges all organizations using PHP to update immediately, or take their systems offline until the vulnerability can be mitigated.\n\nGitLab, a software development platform with over 50 million users, releases a critical patch to fix a vulnerability that allowed for remote code execution.\n\nNode.js releases a critical patch for their own remote code execution bug.\n\nRailway, a platform for deploying software in the cloud, discloses a major breach where attackers were able to access ~100k customer environment variables, and urges users to rotate their API keys.\n\nLiteLLM, an LLM gateway, discloses their own breach.\nJason D. Clinton, Deputy Chief Information Security Officer of Anthropic, says “things are going to get a lot worse before they get better.”\n\nThursday:\nAxios reports on banks seeing a major increase in unauthorized agent activity in user accounts, though most of this is users’ personal agents acting on their behalf.\n\nAbliteration¹, a startup that sells access to open-weight models with cyber guardrails removed, releases abliterated-model-large-flash, an abliterated version of DeepSeek-V4.1-Flash-1017.\n\nQuest Diagnostics, a healthcare company serving tens of millions of Americans, announces it was breached and sensitive patient information was stolen.\n\nSam Altman says “I no longer think we’re going to be able to just patch all the bugs. We’ll have to use the same AI technology to build a new kind of defense shield.”\n\nMatthew Prince, CEO of internet infrastructure company Cloudflare, says he is aware of “a bunch of additional severe vulnerabilities that are present in other pieces of critical software” and says “I think we’re going to have a couple years where every single week it’s going to feel like the sky is falling.”\n\nMoonshot AI releases Kimi K3.1 Pro, which outperforms all publicly available models on cyber tasks, even despite Moonshot saying it will not push the absolute cyber frontier.\n\nX users take to calling the recent slate of cyber incidents “Black October.”\n\nFriday:\nOpenAI reveals that the vulnerability in Node.js came from Brotli, a compression library used in a lot of software, including the JavaScript runtime environment Bun (now owned by Anthropic and a critical part of Claude Code).\n\nSaturday:\nGMO Internet Group, Japan’s largest internet infrastructure company, experiences a major cyberattack where some users’ financial accounts were drained. They call for help from the government, and CEO Masatoshi Kumagai says that “the Internet itself is on the verge of collapse.”\n\nSo, will there be major disruptions to the Internet or real life? Something like the French supermarket hacks from last week that shut down refrigeration systems and forced hundreds of markets to throw out food, but at a much larger scale? It’s not clear.\n\nOn the one hand, the trend lines are clear. AI is getting increasingly powerful and its capabilities are getting increasingly diffuse, and attack surfaces are just so vast. Defenders have to patch all the vulnerabilities, while attackers only have to exploit one of them. “Security by obscurity” is now completely inadequate, as agent swarms can scan for vulnerabilities more tirelessly than any human.\n\nOn the other hand, most of the cyber incidents reported (so far) are disclosures of vulnerabilities that have already been patched. Markets don’t seem to be reacting much. SPY fell 0.95% over the past week. CIBR, the First Trust NASDAQ Cybersecurity ETF, rose 5.91%. VIX, a measure of volatility, rose 5.82%, a negligible spike compared to major world events from the last few years like COVID, Trump’s Liberation Day tariffs, or the Iran War. And defenders are much better-resourced than attackers.\n\nSo maybe agentic botnets will overwhelm the cyber infrastructure that we take for granted, forcing much of the internet offline as defenders scramble to take them down, and impacting people’s lives like COVID. Or maybe society’s ability to respond will be strong enough to address these problems before they manifest fully, and it’ll be another Y2K.\n\nIn either case, you can make yourself a more difficult target. Turn on automatic updates for your phone, computer, browser, and apps. Don’t click on suspicious links or emails. Never reuse passwords, and store them securely in a password manager like 1Password. Use two-factor authentication with your accounts, and use an authenticator app like Duo Mobile rather than your phone number. Add a port-out pin with your mobile carrier so they won’t transfer your phone number to an attacker’s SIM card. Set up a family safe word or phrase to avoid voice scams over the phone, and turn off voice authentication at your bank or mobile carrier. If you really want to be secure, use a Yubikey, a physical hardware authentication device, instead of a password.\n\nOne worrying sign for the future: If this is how AI makes impacts in the real world — first by silently climbing benchmarks while the real world stays exactly the same, then by crossing some critical threshold that causes real-world impacts to go vertical — it really doesn’t bode well for society’s ability to respond to much larger future problems like biorisk, unemployment, or loss of control.\n\nWritten by @theojaffee"
+    },
+    {
+      "tweetId": "2115142849339830461",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2115142849339830461",
+      "tweetedAt": "2026-10-27T18:05:27.000Z",
+      "bestBit": "Quest found unauthorized access to Quanum LSM, the platform doctors' offices use to order labs and see results. It shut the system down and told offices to use paper requisitions.",
+      "text": "Quest's breach last week is a symptom of a disease in healthcare: one centralized server, thousands of providers with access, and millions of patients records.\n\n→ 2019: a billing-collections vendor was breached for 8 months. 11.9M Quest patients were exposed.\n\n→ 2024: ransomware hit Synnovis, the pathology lab behind several London hospitals. Thousands of appointments and procedures were cancelled. A year later, King's College Hospital confirmed the attack contributed to a patient's death. One factor: a long wait for a blood test result.\n\n→ Oct 21, 2026: Quest found unauthorized access to Quanum LSM, the platform doctors' offices use to order labs and see results. It shut the system down and told offices to use paper requisitions. It still hasn't said how many patients were affected.\n\nIn 2025, 697 large health data breaches were reported to HHS, affecting ~61M people. Healthcare has been the most expensive industry for breaches 14 years running: $7.42M per breach on average, and 279 days to identify and contain one (IBM).\n\nWhen one system has access to everything, it becomes a major weakness. One breach & everything is gone.\n\nPatient records aren’t eggs we should keep in one basket. I like seeing systems that keep data at the hospital.",
+      "quotedTweetText": "Today, we’re introducing the next chapter of Concurrence and the world’s greatest leap toward Superintelligent Care.\n\nWhen I was 13 I lost my mom to cancer that should’ve been caught earlier.\n\nWe’re building a system that sees every patient’s future in time to change the outcome https://t.co/MOkLgjFqs8"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "ai-enabled-bots-trigger-wave-of-breaches-across-core-internet-software-af6c74a4",
+    "title": "AI-Enabled Bots Trigger Wave of Breaches Across Core Internet Software",
+    "publishedAt": "2026-10-26T16:38:48.796Z",
+    "eventTimeApprox": "2026-10-26T16:13:21.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "tech",
+      "ai",
+      "startups"
+    ],
+    "tweetCount": 9,
+    "authorCount": 8
+  }
+}

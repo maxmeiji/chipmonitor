@@ -1,0 +1,141 @@
+{
+  "slug": "update-recursive-runs-eight-agent-ai-research-swarm-on-a-single-48gb-mac-8485a21f",
+  "title": "UPDATE: Recursive Runs Eight Agent AI Research Swarm on a Single 48GB Mac With Flint Model",
+  "publishedAt": "2026-10-27T16:08:07.402Z",
+  "eventTimeApprox": "2026-10-21T19:13:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 162,
+  "authorCount": 85,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112944394081067340/HVKupDPXAAA4Ujv-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112944394081067340/HVKupDPXAAA4Ujv-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "richardsocher",
+      "tweetUrl": "https://x.com/RichardSocher/status/2112944394081067340"
+    }
+  },
+  "summary": "Recursive released code and demos enabling an eight agent research swarm to run locally on a single 48GB M4 Pro Mac using one shared instance of its 40B parameter Flint model. Given a problem and a target score, the agents write code, test ideas and build on successful experiments directly on the device without external compute.\n\nThe setup builds on Recursive's Eureka Machine, an automated AI research system that helped build Flint from scratch in under four months across pre-training, post-training, reinforcement learning and inference. Co-founder Tim Shi said the startup \"actually didn't have any pre-training, post-training effort until like 1 month ago,\" relying on the automated system to pick the mixture of experts architecture with 2.5B active parameters and to quantize the language model head to 4 bits, a move usually avoided by human researchers that stayed within 0.7 points of BF16 precision.\n\nReleased under an Apache 2.0 license with a 262K token context window, Flint posted 54.9% on Terminal-Bench 2.1, 89.7% on SWE-bench Pro v2 and 74.2% on SWE-bench Verified, placing it just behind the more than 10x larger Inkling model. The model generates more than 125 tokens per second on an M4 Pro MacBook Pro and over 150 tokens per second on a 64GB Nvidia RTX Spark, while independent tests clocked it 4.7x faster than Nemotron 3.5 in local agent orchestration and nearly 4x faster than Qwen3.8 27B on a Mac Studio at 110 tokens per second versus 28.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115107192173170748",
+      "role": "source",
+      "authorHandle": "cong_ml",
+      "url": "https://x.com/cong_ml/status/2115107192173170748",
+      "tweetedAt": "2026-10-27T15:43:46.000Z",
+      "bestBit": "Eight agents share one local 40B Flint model on a 48 GB M4 Pro: writing code, testing ideas and building on whatever works.",
+      "text": "1/ You can now run a research swarm entirely on your Mac, model included.\n\nEight agents share one local 40B Flint model on a 48 GB M4 Pro: writing code, testing ideas and building on whatever works.\n\nGive them a problem and a score to beat. Here's how 🧵 https://t.co/EjutN2z2QJ"
+    },
+    {
+      "tweetId": "2112944385415426249",
+      "role": "support",
+      "authorHandle": "richardsocher",
+      "url": "https://x.com/RichardSocher/status/2112944385415426249",
+      "tweetedAt": "2026-10-21T16:29:32.000Z",
+      "bestBit": "Introducing Flint, @Recursive_SI’s first model: a fast local coding model built with our automated research system, the Eureka Machine.",
+      "text": "Introducing Flint, @Recursive_SI’s first model: a fast local coding model built with our automated research system, the Eureka Machine.\n\n• Best-in-class fast local coding\n• Up to 2x faster than comparable models: 125+ tokens/sec on a MacBook Pro, 150+ on RTX Spark\n• Built from scratch in under 4 months\n\nPrivate, unmetered intelligence on your own machine. Open weights available now on @huggingface, run it locally on your favorite framework or try it for free on @opencode or @pidotdev."
+    },
+    {
+      "tweetId": "2112952791480357331",
+      "role": "support",
+      "authorHandle": "tydsh",
+      "url": "https://x.com/tydsh/status/2112952791480357331",
+      "tweetedAt": "2026-10-21T17:02:56.000Z",
+      "bestBit": "Strong performance. 54.9% on Terminal-Bench 2.1, 89.7% on SWE-bench Pro v2, and 74.2% on SWE-bench Verified.",
+      "text": "Today, we release our first model, Flint-40B-A2B, a fast local coding model built with our automated research system. https://t.co/hL2yHS8pam\n\n1. Strong performance. 54.9% on Terminal-Bench 2.1, 89.7% on SWE-bench Pro v2, and 74.2% on SWE-bench Verified. \n\n2. It is trained from scratch (tokenizer->Pretrain->Midtrain->SFT->RL).\n\n3. Fast in your local laptop. Up to 2x faster than comparable models: 125+ tokens/sec on a MacBook Pro, 150+ on RTX Spark. \n\n4. We build the complete model training pipeline in 4 month!",
+      "quotedTweetText": "Introducing Flint, @Recursive_SI’s first model: a fast local coding model built with our automated research system, the Eureka Machine.\n\n• Best-in-class fast local coding\n• Up to 2x faster than comparable models: 125+ tokens/sec on a MacBook Pro, 150+ on RTX Spark\n• Built from scratch in under 4 months\n\nPrivate, unmetered intelligence on your own machine. Open weights available now on @huggingface, run it locally on your favorite framework or try it for free on @opencode or @pidotdev."
+    },
+    {
+      "tweetId": "2113081745973162334",
+      "role": "commentary",
+      "authorHandle": "spolen23",
+      "url": "https://x.com/spolen23/status/2113081745973162334",
+      "tweetedAt": "2026-10-22T01:35:22.000Z",
+      "bestBit": "Flint did 110 tok/s vs 28 and nailed every one. Qwen thought for 7 minutes on one and never answered.",
+      "text": "Had my agent race Flint against Qwen3.8 27B on my Mac Studio with a couple real coding tasks.\n\nFlint did 110 tok/s vs 28 and nailed every one. Qwen thought for 7 minutes on one and never answered.\n\nAnd Recursive's fast kernels don't even support my M4 Max yet. New local default. https://t.co/CrTCfFrkr5",
+      "quotedTweetText": "Introducing Flint, @Recursive_SI’s first model: a fast local coding model built with our automated research system, the Eureka Machine.\n\n• Best-in-class fast local coding\n• Up to 2x faster than comparable models: 125+ tokens/sec on a MacBook Pro, 150+ on RTX Spark\n• Built from scratch in under 4 months\n\nPrivate, unmetered intelligence on your own machine. Open weights available now on @huggingface, run it locally on your favorite framework or try it for free on @opencode or @pidotdev."
+    },
+    {
+      "tweetId": "2112967683813609724",
+      "role": "commentary",
+      "authorHandle": "thom_wolf",
+      "url": "https://x.com/Thom_Wolf/status/2112967683813609724",
+      "tweetedAt": "2026-10-21T18:02:07.000Z",
+      "bestBit": "an AI researcher looking at the lm_head (that *everyone* tells you to keep in high precision) deciding to quantize it to 4 bits AND being actually right (0.7pt from bf16) is definitely impressive.",
+      "text": "My bar for AGI is still an AI winning a Nobel.\n\nBut an AI researcher looking at the lm_head (that *everyone* tells you to keep in high precision) deciding to quantize it to 4 bits AND being actually right (0.7pt from bf16) is definitely impressive.\n\nEven better when the result are open-weights pushed on the Hugging Gace hub.\n\nCongrats @Recursive_SI !",
+      "quotedTweetText": "Introducing Flint, @Recursive_SI’s first model: a fast local coding model built with our automated research system, the Eureka Machine.\n\n• Best-in-class fast local coding\n• Up to 2x faster than comparable models: 125+ tokens/sec on a MacBook Pro, 150+ on RTX Spark\n• Built from scratch in under 4 months\n\nPrivate, unmetered intelligence on your own machine. Open weights available now on @huggingface, run it locally on your favorite framework or try it for free on @opencode or @pidotdev."
+    },
+    {
+      "tweetId": "2112986090680234048",
+      "role": "analysis",
+      "authorHandle": "roberttlange",
+      "url": "https://x.com/RobertTLange/status/2112986090680234048",
+      "tweetedAt": "2026-10-21T19:15:16.000Z",
+      "bestBit": "NVFP4 incl. a 4-bit lm_head (12% of active weights), self-distilled to within 0.7 pts of BF16",
+      "text": "Recursive's Flint at a glance 👇 40B-A2.5B coding MoE trained from scratch:\n\n– 256 experts (512 wide), top-6 + 2 shared (512 x 2), sigmoid router\n– 3:1 sliding-window (513): NoPE global attention\n– learned attention sinks, QK-norm, 32q/4kv GQA\n– NVFP4 incl. a 4-bit lm_head (12% of active weights), self-distilled to within 0.7 pts of BF16\n– ~7 GiB KV at 262K ctx\n– 131 tok/s on M4 Pro (69 avg to 128K)\n\nWeights: https://t.co/vUQso8HSrB\n\nThinking of making these one-pagers a tradition for new model releases 🤗",
+      "quotedTweetText": "3/ Flint is a mixture-of-experts model: 40B parameters, just 2.5B active per token.\n\nIt leads our &lt;50B MoE agentic-coding comparisons.\n\nMeasured at short context: 125+ tok/s on M4 Pro; 150+ on 64GB RTX Spark.\n\nRecommended context: up to 256k. https://t.co/r2ttuI9qdf"
+    },
+    {
+      "tweetId": "2115069871872729236",
+      "role": "commentary",
+      "authorHandle": "altryne",
+      "url": "https://x.com/altryne/status/2115069871872729236",
+      "tweetedAt": "2026-10-27T13:15:28.000Z",
+      "bestBit": "Tim Shi from @Recursive_SI: \"We actually didn't have any pre-training, post-training effort until like 1 month ago\"",
+      "text": "4 months to release a model from scratch 🤯\n\nTim Shi from @Recursive_SI: \"We actually didn't have any pre-training, post-training effort until like 1 month ago\"\n\nThey run auto research on almost every stage, from pre-training to RL to inference https://t.co/ubmSzpKmp1"
+    },
+    {
+      "tweetId": "2115108389684650302",
+      "role": "commentary",
+      "authorHandle": "_rockt",
+      "url": "https://x.com/_rockt/status/2115108389684650302",
+      "tweetedAt": "2026-10-27T15:48:31.000Z",
+      "bestBit": "Great news for doing science on autoresearch swarms at home.",
+      "text": "Great news for doing science on autoresearch swarms at home.",
+      "quotedTweetText": "1/ You can now run a research swarm entirely on your Mac, model included.\n\nEight agents share one local 40B Flint model on a 48 GB M4 Pro: writing code, testing ideas and building on whatever works.\n\nGive them a problem and a score to beat. Here's how 🧵 https://t.co/EjutN2z2QJ"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "recursives-flint-model-nears-claude-haiku-45-in-gpu-research-69d5ffeb",
+    "title": "Recursive's Flint Model Nears Claude Haiku 4.5 in GPU Research",
+    "publishedAt": "2026-10-22T18:10:32.303Z",
+    "eventTimeApprox": "2026-10-21T18:27:59.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 152,
+    "authorCount": 84
+  }
+}

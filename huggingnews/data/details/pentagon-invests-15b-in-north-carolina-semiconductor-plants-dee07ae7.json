@@ -1,0 +1,60 @@
+{
+  "slug": "pentagon-invests-15b-in-north-carolina-semiconductor-plants-dee07ae7",
+  "title": "Pentagon Invests $1.5B in North Carolina Semiconductor Plants",
+  "publishedAt": "2026-10-21T00:54:38.570Z",
+  "eventTimeApprox": "2026-10-21T00:41:44.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "tech",
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-domestic-policy",
+      "name": "US Domestic Policy"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112706037899730959/Dd0385kKiTLf9zro-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112706037899730959/Dd0385kKiTLf9zro-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2112706009101717504/vid/avc1/1280x720/3cRFK6VYcKLUXJw9.mp4?tag=16",
+    "credit": {
+      "handle": "atrupar",
+      "tweetUrl": "https://x.com/atrupar/status/2112706037899730959"
+    }
+  },
+  "summary": "A new federal effort to boost domestic tech production will rely on resources from the defense budget, President Donald Trump announced. The Department of War will invest $1.5B to manufacture cutting edge semiconductor chips in North Carolina, a project the president described as \"a very very big one\" for the United States.\n\nThe funding will build facilities for processor components used in nearly all advanced electronic hardware. The project is managed by the Pentagon, which Trump explicitly referred to as the Department of War during his announcement on Oct 21.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112706037899730959",
+      "role": "source",
+      "authorHandle": "atrupar",
+      "url": "https://x.com/atrupar/status/2112706037899730959",
+      "tweetedAt": "2026-10-21T00:42:26.000Z",
+      "bestBit": "The Department of War will be investing $1.5 billion to produce cutting edge semiconductor chips right here in North Carolina",
+      "text": "Trump: \"I'm pleased to announce something else. This is a very very big one. The Department of War will be investing $1.5 billion to produce cutting edge semiconductor chips right here in North Carolina.\" https://t.co/EeXfkXFqwK"
+    }
+  ],
+  "isSuperseded": false
+}

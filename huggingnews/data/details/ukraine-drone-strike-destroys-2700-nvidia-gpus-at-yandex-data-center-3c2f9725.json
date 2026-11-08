@@ -1,0 +1,136 @@
+{
+  "slug": "ukraine-drone-strike-destroys-2700-nvidia-gpus-at-yandex-data-center-3c2f9725",
+  "title": "Ukraine Drone Strike Destroys 2,700 Nvidia GPUs at Yandex Data Center",
+  "publishedAt": "2026-10-08T07:23:48.354Z",
+  "eventTimeApprox": "2026-10-08T05:13:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 35,
+  "authorCount": 23,
+  "routingTopicKeys": [
+    "war",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "war",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "war",
+      "name": "War"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107990034305765794/o_U_ALp4cH1yc1bG-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107990034305765794/o_U_ALp4cH1yc1bG-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2107989485631762432/vid/avc1/720x720/um6B36mQMNkKBvDW.mp4?tag=29",
+    "credit": {
+      "handle": "osinttechnical",
+      "tweetUrl": "https://x.com/Osinttechnical/status/2107990034305765794"
+    }
+  },
+  "summary": "Outages across Russia's most dominant internet provider surged Thursday following a fire that crippled a critical computing hub in Sasovo. The 35+ MW facility, one of the largest in the country, reportedly housed nearly 2,700 Nvidia A100 GPUs imported before sanctions locked down the nation's tech sector. Ukrainian drones struck the site on Wednesday night, which is colocated with the Sasta machine-tool plant, a manufacturer supplying equipment to Russia's defense industry.\n\nYandex engineering reported power failures in the ru-central1-b zone, affecting search, map, and taxi services. The aerial campaign also targeted the Gazprom Neftekhim Salavat refinery in Bashkortostan and follows a series of Russian strikes on Ukrainian data centers. The loss of the pre-sanction GPU clusters limits the tech giant's capacity to train large-scale AI models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108023322156098034",
+      "role": "source",
+      "authorHandle": "osinttechnical",
+      "url": "https://x.com/Osinttechnical/status/2108023322156098034",
+      "tweetedAt": "2026-10-08T02:34:59.000Z",
+      "bestBit": "The 35+ MW facility reportedly housed nearly 2,700 Nvidia A100 GPUs by 2021",
+      "text": "Ukrainian attack drones struck Yandex's Sasovo Datacenter tonight, one of Russia's largest, setting it on fire. \n\nThe 35+ MW facility reportedly housed nearly 2,700 Nvidia A100 GPUs by 2021, imported before sanctions locked down Russia's tech sector. https://t.co/sCNx0eqvTD"
+    },
+    {
+      "tweetId": "2107990034305765794",
+      "role": "source",
+      "authorHandle": "osinttechnical",
+      "url": "https://x.com/Osinttechnical/status/2107990034305765794",
+      "tweetedAt": "2026-10-08T00:22:43.000Z",
+      "bestBit": "Ukrainian attack drones hit Russia's Sasta machine-tool plant tonight, colocated with a major datacenter belonging to the Russian internet giant Yandex",
+      "text": "Ukrainian attack drones hit Russia's Sasta machine-tool plant tonight, colocated with a major datacenter belonging to the Russian internet giant Yandex. \n\nMultiple explosions and a large fire were reported at the complex in Ryazan Oblast. https://t.co/kPZwmd0IDq"
+    },
+    {
+      "tweetId": "2107993624310857922",
+      "role": "support",
+      "authorHandle": "osinttechnical",
+      "url": "https://x.com/Osinttechnical/status/2107993624310857922",
+      "tweetedAt": "2026-10-08T00:36:59.000Z",
+      "bestBit": "reporting an open power-failure incident in zone ru-central1-b, starting roughly 2 hours ago",
+      "text": "Yandex Cloud is reporting an open power-failure incident in zone ru-central1-b, starting roughly 2 hours ago."
+    },
+    {
+      "tweetId": "2108002325143118018",
+      "role": "source",
+      "authorHandle": "netblocks",
+      "url": "https://x.com/netblocks/status/2108002325143118018",
+      "tweetedAt": "2026-10-08T01:11:33.000Z",
+      "bestBit": "Metrics show a significant disruption to the network of Russian internet and cloud giant Yandex",
+      "text": "⚠️ Confirmed: Metrics show a significant disruption to the network of Russian internet and cloud giant Yandex. Reports indicate a major fire at one of the company's data centers in Sasovo, Ryazan Oblast, #Russia, after a Ukrainian drone attack campaign. https://t.co/pILuzgdg5T"
+    },
+    {
+      "tweetId": "2108082255096647930",
+      "role": "support",
+      "authorHandle": "osinttechnical",
+      "url": "https://x.com/Osinttechnical/status/2108082255096647930",
+      "tweetedAt": "2026-10-08T06:29:10.000Z",
+      "bestBit": "continued to suffer a major fire this morning after an overnight Ukrainian drone attack",
+      "text": "Yandex's Sasovo datacenter, one of Russia's largest, continued to suffer a major fire this morning after an overnight Ukrainian drone attack. \n\nYandex engineering reported that an \"incident\" interrupted operations at the facility. https://t.co/96PqsX7MXn"
+    },
+    {
+      "tweetId": "2108087772523225441",
+      "role": "support",
+      "authorHandle": "clashreport",
+      "url": "https://x.com/clashreport/status/2108087772523225441",
+      "tweetedAt": "2026-10-08T06:51:06.000Z",
+      "bestBit": "damaged one of Yandex’s largest data centers, causing power outages and widespread disruptions to its cloud services",
+      "text": "Ukrainian drones struck a Yandex data center in Sasovo, Russia’s Ryazan Oblast, and the Gazprom Neftekhim Salavat oil refinery in Bashkortostan overnight, sparking fires.\n\nIn Sasovo, the attack damaged one of Yandex’s largest data centers, causing power outages and widespread disruptions to its cloud services.\n\nThe strike followed a series of Russian attacks on Ukrainian data centers.\n\nA fire also broke out at the Sasta machine-tool plant, which shares the site with the data center and supplies Russia’s defense industry."
+    },
+    {
+      "tweetId": "2108034760731926656",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2108034760731926656",
+      "tweetedAt": "2026-10-08T03:20:27.000Z",
+      "bestBit": "no more training for Ya",
+      "text": "It begins\nno more training for Ya",
+      "quotedTweetText": "Ukrainian attack drones struck Yandex's Sasovo Datacenter tonight, one of Russia's largest, setting it on fire. \n\nThe 35+ MW facility reportedly housed nearly 2,700 Nvidia A100 GPUs by 2021, imported before sanctions locked down Russia's tech sector. https://t.co/sCNx0eqvTD"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "ukrainian-drones-disrupt-yandex-network-and-cloud-with-sasovo-strike-d058768f",
+    "title": "Ukrainian Drones Disrupt Yandex Network and Cloud with Sasovo Strike",
+    "publishedAt": "2026-10-08T02:37:46.038Z",
+    "eventTimeApprox": "2026-10-08T01:11:33.000Z",
+    "routingTopicKeys": [
+      "war",
+      "tech"
+    ],
+    "tweetCount": 19,
+    "authorCount": 11
+  }
+}

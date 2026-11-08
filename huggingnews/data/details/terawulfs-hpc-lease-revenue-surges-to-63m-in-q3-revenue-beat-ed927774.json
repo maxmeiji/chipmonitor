@@ -1,0 +1,94 @@
+{
+  "slug": "terawulfs-hpc-lease-revenue-surges-to-63m-in-q3-revenue-beat-ed927774",
+  "title": "TeraWulf's HPC Lease Revenue Surges to $63M in Q3 Revenue Beat",
+  "publishedAt": "2026-11-06T12:54:04.685Z",
+  "eventTimeApprox": "2026-11-06T12:27:13.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "earnings",
+    "ai",
+    "us-markets",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "WULF",
+      "kind": "equity",
+      "role": "subject",
+      "name": "TeraWulf Inc. Common Stock",
+      "hubKey": "wulf"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118684263008608319/HWcUBrfWwAEz3yI-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118684263008608319/HWcUBrfWwAEz3yI-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "theblockco",
+      "tweetUrl": "https://x.com/TheBlockCo/status/2118684263008608319"
+    }
+  },
+  "summary": "TeraWulf reported third-quarter revenue of $76.2M, exceeding analyst expectations of $61.8M as the company pivots toward artificial intelligence infrastructure. High-performance computing (HPC) lease revenue grew 774% year-over-year to $63M, and now constitutes 83% of total sales compared to 14% in the same period last year.\n\nThe company reported net income of $709.9M, which was largely driven by a $728.4M non-cash fair-value gain on warrants and derivatives, although it posted an adjusted EBITDA loss of $12.8M. While native bitcoin mining revenue fell 69% to $13.2M, TeraWulf highlighted growth catalysts including a new ~401 MW lease with Anthropic valued at approximately $19B in contracted revenue and a $250M cash infusion from its Abernathy JV sale.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118675972039880831",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118675972039880831",
+      "tweetedAt": "2026-11-06T12:04:49.000Z",
+      "bestBit": "Anthropic Lease: ~401 MW; ~$19B contracted revenue",
+      "text": "TERAWULF $WULF Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $76.2M (Est. $61.8M) 🟢\n🔹 Adjusted EBITDA: -$12.8M (Est. $12.8M) 🔴\n🔹 Diluted EPS: -$0.03 (Est. -$0.19) 🟢\n🔹 Net Income: $709.9M\n\nOther Q3 Metrics:\n🔹 HPC Lease Revenue: $63.0M; 83% of total revenue\n🔹 Critical IT Capacity Online: 102 MW\n🔹 Critical IT Capacity Under Construction: 336 MW\n🔹 Cash: ~$2.4B\n\nAnnouncements:\n🔹 Anthropic Lease: ~401 MW; ~$19B contracted revenue\n🔹 Muskie: 1,000 MW contracted power\n🔹 Lake Mariner: 102 MW online; 336 MW under construction\n\nKey Updates:\n🔹 Warrant/Derivative MTM: $728.4M fair-value gain\n🔹 Abernathy Sale: 50.1% interest; $250M cash; $95M gain\n🔹 Revolving Credit Agreement: $400M commitments; $150M accordion\n\nAffirms FY26 Guide:\n🔹 Incremental Critical IT Capacity: 250MW-500MW annually\n\nComments:\n🔸 “Third-quarter results reflect strong execution across the business. Lake Mariner is delivering contracted capacity and generating revenue, Justified has the customer, credit support and construction framework to move forward at scale, and Muskie gives us a contracted path to a gigawatt of power.”\n\n🔸 “We ended the quarter with substantial liquidity and further strengthened our financial flexibility through the Abernathy monetization and expansion of our revolving credit facility.”"
+    },
+    {
+      "tweetId": "2118684263008608319",
+      "role": "support",
+      "authorHandle": "theblockco",
+      "url": "https://x.com/TheBlockCo/status/2118684263008608319",
+      "tweetedAt": "2026-11-06T12:37:46.000Z",
+      "bestBit": "TeraWulf's $WULF bitcoin bitcoin:native mining revenue plunged 69% year-over-year to $13.2 million in the third quarter",
+      "text": "THE BLOCK: TeraWulf's $WULF bitcoin bitcoin:native mining revenue plunged 69% year-over-year to $13.2 million in the third quarter, while AI-focused high-performance computing lease revenue surged 774% to $63 million.\n\nHPC leasing now accounts for approximately 83% of the company's total revenue, up from 14% a year earlier."
+    },
+    {
+      "tweetId": "2118681607867380147",
+      "role": "commentary",
+      "authorHandle": "matthew_sigel",
+      "url": "https://x.com/matthew_sigel/status/2118681607867380147",
+      "tweetedAt": "2026-11-06T12:27:13.000Z",
+      "bestBit": "received $250M of cash during 3Q",
+      "text": "$WULF HPC lease rev of $63M is a beat (must include some non-rent rev because much higher than implied rev per MW from contracts)\n>Reaffirming 250-500MW contracted a year and the delivery timelines for CB4 (4Q) and CB5 (1Q27)\n>Capex remains $8-10M per MW across Lake Mariner construction\n>CB-4 at Lake Mariner on track for rent commencement this quarter\n>Abernathy JV sale: received $250M of cash during 3Q and another $150M by year end and $130M by April 30•"
+    }
+  ],
+  "isSuperseded": false
+}

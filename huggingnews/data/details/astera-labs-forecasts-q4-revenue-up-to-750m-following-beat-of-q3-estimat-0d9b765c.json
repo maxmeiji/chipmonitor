@@ -1,0 +1,75 @@
+{
+  "slug": "astera-labs-forecasts-q4-revenue-up-to-750m-following-beat-of-q3-estimat-0d9b765c",
+  "title": "Astera Labs Forecasts Q4 Revenue Up to $750M Following Beat of Q3 Estimates",
+  "publishedAt": "2026-11-03T21:25:02.378Z",
+  "eventTimeApprox": "2026-11-03T21:12:34.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ALAB",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Astera Labs, Inc. Common Stock",
+      "hubKey": "alab"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117726784993325267/HWOtSYhWEAATvgf-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117726784993325267/HWOtSYhWEAATvgf-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "realnickmugalli",
+      "tweetUrl": "https://x.com/RealNickMugalli/status/2117726784993325267"
+    }
+  },
+  "summary": "Astera Labs reported Q3 revenue of $584.9M, exceeding analyst projections of $551M. The connectivity chipmaker's adjusted earnings per share reached $1.32, compared to an estimated $1.19, representing a 169% increase year-over-year. Looking ahead, the company provided Q4 revenue guidance between $730M and $750M and adjusted EPS of $1.62 to $1.66, both of which surpass market expectations of $656M and $1.42.\n\nNon-GAAP operating income for the quarter was $261.6M, beating the $233M expected by analysts, with non-GAAP gross margins at 72.4%. Astera Labs also highlighted growth in its product portfolio, noting that its Scorpio 320-lane fabric switch is now its largest product family and that the Leo X-Series offers up to 62% faster time-to-first-token performance.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117725783128965612",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2117725783128965612",
+      "tweetedAt": "2026-11-03T21:09:06.000Z",
+      "bestBit": "Scorpio: 320-lane fabric switch became largest product family",
+      "text": "ASTERA LABS $ALAB Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $584.9M (Est. $551M) 🟢; +154% YoY\n🔹 Adj. EPS: $1.32 (Est. $1.19) 🟢; +169% YoY\n🔹 Non-GAAP Oper Income: $261.6M (Est. $233M) 🟢\n\nQ4 Guide:\n🔹 Revenue: $730M-$750M (Est. $656M) 🟢\n🔹 Adj. EPS: $1.62-$1.66 (Est. $1.42) 🟢\n🔹 Non-GAAP Gross Margin: 72% (Est. 71.1%) 🟢\n\nOther Q3 Metrics:\n🔹 Non-GAAP Gross Margin: 72.4% (Est. 71.9%) 🟢; -400 bps YoY\n🔹 Non-GAAP Operating Income: $261.6M\n🔹 Non-GAAP Operating Margin: 44.7%; +300 bps YoY\n\nAnnouncements:\n🔹 Scorpio: 320-lane fabric switch became largest product family\n🔹 Aries 7: connectivity reach extends to 50+ meters\n🔹 Orion: six reference designs; scales from 8 to 160 accelerators\n🔹 Leo X-Series: up to 62% faster time-to-first-token; 22% more tokens/sec\n\nComments:\n🔸 “Design activity accelerated with wins across a broad set of programs and applications at multiple customers.”\n\n🔸 “The expansion of our intelligent connectivity platform and new design wins position us to strongly grow our dollar content per accelerator and further increase our total market opportunity.”"
+    },
+    {
+      "tweetId": "2117726784993325267",
+      "role": "commentary",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2117726784993325267",
+      "tweetedAt": "2026-11-03T21:13:05.000Z",
+      "bestBit": "That's another 26% jump in a single quarter with 72% gross margins.",
+      "text": "$ALAB did $585m of revenue up 154% y/y. EPS came in at $1.32 vs $1.19. Then it guided Q4 to $730–750m against $656m expected. \n\nThat's another 26% jump in a single quarter with 72% gross margins.\n\nEvery AI cluster needs more of what they make and they keep blowing past their own numbers. The selloff never made sense for this one. Overweight, $480 PT.",
+      "quotedTweetText": "$ALAB makes the plumbing inside AI clusters. Revenue more than doubled, it's guiding to another +140% and its Scorpio switches are about to become its biggest product. Overweight, $480 PT.\n\nFull post: https://t.co/9m74wIaGdh https://t.co/6weGu534fZ"
+    }
+  ],
+  "isSuperseded": false
+}

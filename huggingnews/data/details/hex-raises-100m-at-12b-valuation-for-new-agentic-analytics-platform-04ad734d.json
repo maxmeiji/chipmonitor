@@ -1,0 +1,65 @@
+{
+  "slug": "hex-raises-100m-at-12b-valuation-for-new-agentic-analytics-platform-04ad734d",
+  "title": "Hex Raises $100M at $1.2B Valuation for New Agentic Analytics Platform",
+  "publishedAt": "2026-10-27T16:08:17.818Z",
+  "eventTimeApprox": "2026-10-27T15:19:14.500Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "The data analytics startup raised $100M in a funding round led by Peak XV Partners and 137 Ventures, giving the company a valuation of $1.2B. The round saw participation from a16z, Sequoia, Redpoint, AvraCap, ZeroPrimeVC, and Amplify Partners to support the company's transition toward agentic AI.\n\nAlong with the capital raise, the company launched Hex 4.0, a platform rebuild designed to allow AI agents to work directly with data using a code-based foundation. CEO Alden Barral said the pivot follows the company's best quarter of growth in May, and the new funds will be used to increase hiring and support more than 2,500 existing teams building on the platform.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115095682004726173",
+      "role": "source",
+      "authorHandle": "barrald",
+      "url": "https://x.com/barrald/status/2115095682004726173",
+      "tweetedAt": "2026-10-27T14:58:01.000Z",
+      "bestBit": "a $100m fundraise at a $1.2B valuation, led by @peakxvpartners",
+      "text": "In May, we had just closed our best quarter ever – and of course decided to re-build @hexanalytics from scratch.\n\nToday we're announcing two things: Hex 4.0, the first analytics platform truly built for agents; and a $100m fundraise at a $1.2B valuation, led by @peakxvpartners \n\nThe world is changing fast, and we're not slowing down! Read more here:\n\nhttps://t.co/FrhzVYu81f"
+    },
+    {
+      "tweetId": "2115098545682280570",
+      "role": "support",
+      "authorHandle": "hexanalytics",
+      "url": "https://x.com/hexanalytics/status/2115098545682280570",
+      "tweetedAt": "2026-10-27T15:09:24.000Z",
+      "bestBit": "Everything is code, so agents can work with your data and people can verify every number",
+      "text": "Today we’re announcing our $100M raise, led by\n@peakxvpartners and @137ventures, with\n@AvraCap, @a16z, @sequoia, @Redpoint, @ZeroPrimeVC, and @AmplifyPartners\nall joining the round.  \n\nAnd that’s not all: we’re also launching Hex 4.0, a new foundation built for agents. Everything is code, so agents can work with your data and people can verify every number. This round lets us keep building on that foundation without slowing down growth or hiring.   \n\nMore on Hex 4.0 later today.  \n\nWe’re deeply grateful to the 2,500+ teams building on Hex. There’s still so much to build, and it’s never been a better time to work with data.  \n\nHear more from our CEO, @barrald  → https://t.co/VyyXu6T25h"
+    },
+    {
+      "tweetId": "2115109762161582483",
+      "role": "commentary",
+      "authorHandle": "sarahcat21",
+      "url": "https://x.com/sarahcat21/status/2115109762161582483",
+      "tweetedAt": "2026-10-27T15:53:58.000Z",
+      "bestBit": "agent experience will matter as much as devex",
+      "text": "In the future, tools will be built for both humans and agents; agent experience will matter as much as devex. Very cool to see Hex complete this transformation.",
+      "quotedTweetText": "In May, we had just closed our best quarter ever – and of course decided to re-build @hexanalytics from scratch.\n\nToday we're announcing two things: Hex 4.0, the first analytics platform truly built for agents; and a $100m fundraise at a $1.2B valuation, led by @peakxvpartners \n\nThe world is changing fast, and we're not slowing down! Read more here:\n\nhttps://t.co/FrhzVYu81f"
+    }
+  ],
+  "isSuperseded": false
+}

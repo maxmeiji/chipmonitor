@@ -1,0 +1,60 @@
+{
+  "slug": "keel-infrastructure-liquidates-bitcoin-treasury-in-192m-q3-sale-1c55f60a",
+  "title": "Keel Infrastructure Liquidates Bitcoin Treasury in $192M Q3 Sale",
+  "publishedAt": "2026-11-05T14:53:24.770Z",
+  "eventTimeApprox": "2026-11-05T13:06:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "crypto",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "crypto",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "crypto-mining",
+      "name": "Crypto Mining"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "KEEL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Keel Infrastructure Corp. Common Stock",
+      "hubKey": "keel"
+    }
+  ],
+  "summary": "The cryptocurrency mining firm formerly known as Bitfarms sold its entire stash of digital assets to raise capital for a transition into the artificial intelligence sector. Keel Infrastructure offloaded 2,520 BTC in the third quarter to fund a shift toward high-performance computing and stated it will now sell any bitcoin it mines on a daily basis.\n\nThe company is currently developing an AI data center in Moses Lake, which it says may be configured to support Nvidia's Vera Rubin architecture. Keel expects that the new infrastructure project will begin generating revenue in 2027.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118327225879756880",
+      "role": "source",
+      "authorHandle": "theblockco",
+      "url": "https://x.com/TheBlockCo/status/2118327225879756880",
+      "tweetedAt": "2026-11-05T12:59:01.000Z",
+      "bestBit": "Keel Infrastructure $KEEL, formerly Bitfarms, sold 2,520 BTC for $192 million in Q3, effectively liquidating its bitcoin treasury.",
+      "text": "NEW: Keel Infrastructure $KEEL, formerly Bitfarms, sold 2,520 BTC for $192 million in Q3, effectively liquidating its bitcoin treasury.\n\nThe company said it plans to sell newly mined bitcoin:native daily as it shifts toward AI data center infrastructure.",
+      "quotedTweetText": "THE LATENT: Keel Infrastructure $KEEL, formerly Bitfarms, has begun construction at its Moses Lake AI data center site, with HPC revenue expected in 2027.\n\nThe company is negotiating leases across three sites and says Moses Lake could be configured to support Nvidia's next-generation Vera Rubin architecture."
+    }
+  ],
+  "isSuperseded": false
+}

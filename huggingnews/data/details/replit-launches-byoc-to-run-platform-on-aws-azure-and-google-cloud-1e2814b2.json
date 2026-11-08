@@ -1,0 +1,74 @@
+{
+  "slug": "replit-launches-byoc-to-run-platform-on-aws-azure-and-google-cloud-1e2814b2",
+  "title": "Replit Launches BYOC to Run Platform on AWS, Azure and Google Cloud",
+  "publishedAt": "2026-10-17T15:24:59.146Z",
+  "eventTimeApprox": "2026-10-17T03:14:55.500Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111219084352221410/HUx5SYZXYAAXN6l-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111219084352221410/HUx5SYZXYAAXN6l-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "replit",
+      "tweetUrl": "https://x.com/Replit/status/2111219084352221410"
+    }
+  },
+  "summary": "Regulated organizations can now host their software development environment within their own security perimeters to prevent sensitive data from leaving their infrastructure. Replit launched its Bring Your Own Cloud (BYOC) feature to enable this functionality across AWS, Azure and Google Cloud for both development and production workloads. The service is offered in three tiers: a private preview for Full BYOC, which migrates the entire platform to the customer's cloud, and early access for BYOC for Published Apps and Image Exports via Docker and Terraform.\n\nThe update targets the healthcare, finance and government sectors to remove data residency barriers that previously limited adoption. This deployment allows security teams to maintain greater isolation by ensuring the agent harness operates within the customer's own cell environment. The company stated the goal is to ensure data belongs to the user and remains within their controlled cloud tenants.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111219084352221410",
+      "role": "source",
+      "authorHandle": "replit",
+      "url": "https://x.com/Replit/status/2111219084352221410",
+      "tweetedAt": "2026-10-16T22:13:48.000Z",
+      "bestBit": "Our approach gives security and platform teams greater isolation and control while preserving the familiar Replit experience",
+      "text": "We’re introducing Bring Your Own Cloud (BYOC) for Replit, with options for development and production in your cloud, whether you use @Azure, @GoogleCloud, or @AWScloud.\n\nOur approach gives security and platform teams greater isolation and control while preserving the familiar Replit experience.\n\nExplore BYOC: https://t.co/RkpasiPFzL"
+    },
+    {
+      "tweetId": "2111267314012496121",
+      "role": "support",
+      "authorHandle": "amasad",
+      "url": "https://x.com/amasad/status/2111267314012496121",
+      "tweetedAt": "2026-10-17T01:25:27.000Z",
+      "bestBit": "Designed for high stakes environments like governments, finance, and healthcare",
+      "text": "Your data belongs to you! We’ll deploy Replit to your cloud and data never leaves home.\n\nDesigned for high stakes environments like governments, finance, and healthcare.",
+      "quotedTweetText": "We’re introducing Bring Your Own Cloud (BYOC) for Replit, with options for development and production in your cloud, whether you use @Azure, @GoogleCloud, or @AWScloud.\n\nOur approach gives security and platform teams greater isolation and control while preserving the familiar Replit experience.\n\nExplore BYOC: https://t.co/RkpasiPFzL"
+    },
+    {
+      "tweetId": "2111322414483464411",
+      "role": "commentary",
+      "authorHandle": "nobita2040",
+      "url": "https://x.com/nobita2040/status/2111322414483464411",
+      "tweetedAt": "2026-10-17T05:04:24.000Z",
+      "bestBit": "Full BYOC：Replitプラットフォームごと自社クラウドへ（プライベートプレビュー）",
+      "text": "Replitを自社のクラウドに置けるようになりました。Azure、Google Cloud、AWSに対応したBYOCは3段階。\n\n・Full BYOC：Replitプラットフォームごと自社クラウドへ（プライベートプレビュー）\n・BYOC for Published Apps：公開アプリのホスティングを自社テナントに（アーリーアクセス）\n・Image Exports：DockerイメージとTerraformで自社運用（アーリーアクセス）\n\nAgentのハーネスまで自社環境のセル内で動くのが大きい。日本の企業と話していると、最後に引っかかるのはいつもデータの置き場所。その壁を越える選択肢がようやく揃いました。",
+      "quotedTweetText": "We’re introducing Bring Your Own Cloud (BYOC) for Replit, with options for development and production in your cloud, whether you use @Azure, @GoogleCloud, or @AWScloud.\n\nOur approach gives security and platform teams greater isolation and control while preserving the familiar Replit experience.\n\nExplore BYOC: https://t.co/RkpasiPFzL"
+    }
+  ],
+  "isSuperseded": false
+}

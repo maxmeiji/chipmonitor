@@ -1,0 +1,60 @@
+{
+  "slug": "reka-ai-launches-rho-1-19b-omni-model-for-unified-robot-control-2368cee1",
+  "title": "Reka AI Launches Rho-1 19B Omni Model for Unified Robot Control",
+  "publishedAt": "2026-10-05T15:54:06.837Z",
+  "eventTimeApprox": "2026-10-05T14:52:46.500Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "summary": "Various modalities of data are processed by a unified neural network in a new research project that eliminates the need for specialized sub models. Reka AI has released a research preview of Rho-1, a 19B parameter omni model capable of understanding and generating text, images, video, and robot actions within a single end to end architecture.\n\nThe system supports real time video simulation, reasoning, and continuous robotic control to manage physical actions. While Reka AI states that the project is in the early stages of the compute curve and acknowledges existing limits in the current version, the team noted that gains across different modalities are already compounding.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107118937490006363",
+      "role": "source",
+      "authorHandle": "rekaailabs",
+      "url": "https://x.com/RekaAILabs/status/2107118937490006363",
+      "tweetedAt": "2026-10-05T14:41:17.000Z",
+      "bestBit": "releasing a research preview of Rho-1, our 19B omni model that understands and generates text, images, video and robot actions",
+      "text": "Today, we are releasing a research preview of Rho-1, our 19B omni model that understands and generates text, images, video and robot actions, all inside a single neural network. https://t.co/heADIM5Ntu"
+    },
+    {
+      "tweetId": "2107123784234721443",
+      "role": "source",
+      "authorHandle": "artetxem",
+      "url": "https://x.com/artetxem/status/2107123784234721443",
+      "tweetedAt": "2026-10-05T15:00:33.000Z",
+      "bestBit": "No agent calling specialist models behind the curtain. Just one model, end to end.",
+      "text": "Incredibly proud of what the team built! Here are some unedited screen recordings of Rho-1, exactly as it ran.\n\nNo agent calling specialist models behind the curtain. Just one model, end to end. https://t.co/bBkA2L7zJq",
+      "quotedTweetText": "Today, we are releasing a research preview of Rho-1, our 19B omni model that understands and generates text, images, video and robot actions, all inside a single neural network. https://t.co/heADIM5Ntu"
+    },
+    {
+      "tweetId": "2107119871951786386",
+      "role": "analysis",
+      "authorHandle": "daniyogatama",
+      "url": "https://x.com/DaniYogatama/status/2107119871951786386",
+      "tweetedAt": "2026-10-05T14:45:00.000Z",
+      "bestBit": "reasoning, real-time video simulation, and continuous robotic control inside a model.",
+      "text": "really proud to share what the team has been working on.\n\nrho-1 is our 19B omni model. reasoning, real-time video simulation, and continuous robotic control inside a model.\n\nwe are very early on the compute curve and candid about current limits in the post, but the compounding gains across modalities are already clear.",
+      "quotedTweetText": "Today, we are releasing a research preview of Rho-1, our 19B omni model that understands and generates text, images, video and robot actions, all inside a single neural network. https://t.co/heADIM5Ntu"
+    }
+  ],
+  "isSuperseded": false
+}

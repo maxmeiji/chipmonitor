@@ -1,0 +1,66 @@
+{
+  "slug": "fico-cuts-15percent-of-staff-to-integrate-ai-5f7d8bda",
+  "title": "FICO Cuts 15% of Staff to Integrate AI",
+  "publishedAt": "2026-10-06T22:39:08.718Z",
+  "eventTimeApprox": "2026-10-06T21:00:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "business",
+    "us-markets",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "FICO",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Fair Isaac Corporation",
+      "hubKey": "fico"
+    }
+  ],
+  "summary": "The provider of credit analytics is embedding artificial intelligence into its product suite to accelerate development and operational efficiency. FICO will eliminate about 15% of its workforce to facilitate this transition and simplify its internal business processes, according to a shift toward deeper AI integration in product development.\n\nCritics have attributed the job reductions to a loss of customers after the company reportedly increased prices 17 times over five years. FICO shares have declined 64% this year as mortgage giants Fannie Mae and Freddie Mac move to allow the use of competing scores from VantageScore.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107596692635914531",
+      "role": "source",
+      "authorHandle": "polymarket",
+      "url": "https://x.com/Polymarket/status/2107596692635914531",
+      "tweetedAt": "2026-10-06T22:19:43.000Z",
+      "bestBit": "eliminate about 15% of its workforce as it integrates AI more deeply into product development and simplifies operations",
+      "text": "JUST IN: FICO plans to eliminate about 15% of its workforce as it integrates AI more deeply into product development and simplifies operations."
+    },
+    {
+      "tweetId": "2107576880706761165",
+      "role": "commentary",
+      "authorHandle": "gurgavin",
+      "url": "https://x.com/gurgavin/status/2107576880706761165",
+      "tweetedAt": "2026-10-06T21:00:59.000Z",
+      "bestBit": "RAISE PRICES 17X CUSTOMERS SWITCH THEN BLAME EMPLOYEES AND THEN DO LAYOFFS",
+      "text": "*FICO TO LAYOFF 15% OF ALL IT’S EMPLOYEES \n\nRAISE PRICES 17X CUSTOMERS SWITCH THEN BLAME EMPLOYEES AND THEN DO LAYOFFS \n\nALWAYS THE SAME STORY\n\n$FICO",
+      "quotedTweetText": "$FICO IS A PERFECT EXAMPLE OF TOO MUCH CORPORATE GREED\n\nFOR YEARS, PRICES BARELY MOVED\n\nTHEN FICO RAISED THEM 17X IN 5 YEARS\n\nNOW FANNIE &amp; FREDDIE ARE OPENING THE MARKET TO VANTAGESCORE\n\n$FICO IS NOW DOWN 64% YTD https://t.co/SF4kmntirw"
+    }
+  ],
+  "isSuperseded": false
+}

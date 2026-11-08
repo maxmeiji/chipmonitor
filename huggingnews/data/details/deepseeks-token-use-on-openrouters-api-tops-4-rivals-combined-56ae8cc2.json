@@ -1,0 +1,72 @@
+{
+  "slug": "deepseeks-token-use-on-openrouters-api-tops-4-rivals-combined-56ae8cc2",
+  "title": "DeepSeek’s Token Use on OpenRouter’s API Tops 4 Rivals Combined",
+  "publishedAt": "2026-10-08T01:53:23.592Z",
+  "eventTimeApprox": "2026-10-07T23:29:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107933993173954859/HUDiy4jagAATvFv-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107933993173954859/HUDiy4jagAATvFv-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "socialcapital",
+      "tweetUrl": "https://x.com/socialcapital/status/2107933993173954859"
+    }
+  },
+  "summary": "The volume of AI requests handled by DeepSeek outperformed the collective throughput of Google, Anthropic, xAI and OpenAI during the final seven days of September. This activity occurred on OpenRouter, a unified API gateway that allows developers to access and compare multiple large language models from different providers through a single interface.\n\nSocial Capital first reported the figures, and Peter Walker of OpenRouter confirmed the usage statistics on the platform. The results show a shift in adoption toward DeepSeek's models relative to the leading providers in the AI market for the specified period.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107933993173954859",
+      "role": "source",
+      "authorHandle": "socialcapital",
+      "url": "https://x.com/socialcapital/status/2107933993173954859",
+      "tweetedAt": "2026-10-07T20:40:02.000Z",
+      "bestBit": "DeepSeek models processed more tokens on OpenRouter than OpenAI, Google, Anthropic and xAI models combined",
+      "text": "In the last week of September, DeepSeek models processed more tokens on OpenRouter than OpenAI, Google, Anthropic and xAI models combined. https://t.co/ICyf29pCfF"
+    },
+    {
+      "tweetId": "2108011246402535614",
+      "role": "commentary",
+      "authorHandle": "peterj_walker",
+      "url": "https://x.com/PeterJ_Walker/status/2108011246402535614",
+      "tweetedAt": "2026-10-08T01:47:00.000Z",
+      "bestBit": "Thanks for spending time with our data! May I introduce you to the rest of the color wheel",
+      "text": "Thanks for spending time with our data! May I introduce you to the rest of the color wheel 😅",
+      "quotedTweetText": "In the last week of September, DeepSeek models processed more tokens on OpenRouter than OpenAI, Google, Anthropic and xAI models combined. https://t.co/ICyf29pCfF"
+    }
+  ],
+  "isSuperseded": false
+}

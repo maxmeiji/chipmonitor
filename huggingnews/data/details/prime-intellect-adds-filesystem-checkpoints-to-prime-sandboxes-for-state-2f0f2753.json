@@ -1,0 +1,41 @@
+{
+  "slug": "prime-intellect-adds-filesystem-checkpoints-to-prime-sandboxes-for-state-2f0f2753",
+  "title": "Prime Intellect Adds Filesystem Checkpoints to Prime Sandboxes for State Forking",
+  "publishedAt": "2026-10-14T23:37:17.016Z",
+  "eventTimeApprox": "2026-10-14T22:17:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "Users of the Prime Intellect environment can now save the state of a sandbox at any point in a trajectory and restore it into multiple new instances. This filesystem checkpointing feature allows developers to preserve specific points in a process to avoid repeating earlier steps during testing or deployment.\n\nThe update enables forking new rollouts from any intermediate state, after which users can create further checkpoints within that branch. This layering process allows for more granular exploration of different execution paths within the Prime Sandboxes system.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110489647583486339",
+      "role": "source",
+      "authorHandle": "a_kirillo",
+      "url": "https://x.com/a_kirillo/status/2110489647583486339",
+      "tweetedAt": "2026-10-14T21:55:17.000Z",
+      "bestBit": "Fork new rollouts from any intermediate state, then checkpoint inside a branch and fork again to dig deeper",
+      "text": "Introducing filesystem checkpoints for Prime Sandboxes:\n\nCheckpoint a sandbox at any point in a trajectory and restore it into as many fresh sandboxes as you need.\n\nFork new rollouts from any intermediate state, then checkpoint inside a branch and fork again to dig deeper. https://t.co/2KpTuRalkl"
+    }
+  ],
+  "isSuperseded": false
+}

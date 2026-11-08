@@ -1,0 +1,69 @@
+{
+  "slug": "harvey-earns-fedramp-class-d-certification-for-us-federal-legal-work-b6d9ea30",
+  "title": "Harvey Earns FedRAMP Class D Certification for US Federal Legal Work",
+  "publishedAt": "2026-10-28T15:52:55.525Z",
+  "eventTimeApprox": "2026-10-28T15:24:47.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HRVY",
+      "kind": "private",
+      "role": "subject",
+      "name": "Harvey",
+      "hubKey": "harvey"
+    }
+  ],
+  "summary": "U.S. federal agencies and their contractors can now deploy the AI legal tool Harvey for work involving sensitive government data. The company's platform recently attained FedRAMP Class D (High) certification, a security requirement for cloud software operating within one of the program's most rigorous vetting tiers.\n\nTo meet the designation, Harvey rebuilt its infrastructure to run in an isolated environment where all vendors touching federal data are self-hosted or certified by the FedRAMP program. The overhaul included transitioning to FIPS-hardened images and deploying a separate government CI/CD and observability stack, a process that involved more than 1,000 pull requests across nine product suites.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115414566511505808",
+      "role": "source",
+      "authorHandle": "harvey",
+      "url": "https://x.com/harvey/status/2115414566511505808",
+      "tweetedAt": "2026-10-28T12:05:09.000Z",
+      "bestBit": "U.S. federal agencies, contractors, and partners can now use Harvey for legal work in an environment built for sensitive government information.",
+      "text": "Harvey is now FedRAMP Class D (High) certified.\n\nU.S. federal agencies, contractors, and partners can now use Harvey for legal work in an environment built for sensitive government information.\n\nRead the announcement: https://t.co/qGw6HMH1zw https://t.co/zuhOeJdY7p"
+    },
+    {
+      "tweetId": "2115464803716390967",
+      "role": "analysis",
+      "authorHandle": "gabepereyra",
+      "url": "https://x.com/gabepereyra/status/2115464803716390967",
+      "tweetedAt": "2026-10-28T15:24:47.000Z",
+      "bestBit": "We rebuilt auth, moved to FIPS-hardened images and stood up a separate gov CI/CD and observability stack. Over 1k PRs from nearly every eng team to get all nine product suites passing end to end.",
+      "text": "Proud to share @harvey has achieved FedRAMP Class D certification.\n\nFedRAMP Class D is one of the most rigorous tiers of the program used to vet cloud software and required to support federal agencies.\n\nGetting there meant rebuilding Harvey to run entirely inside an isolated environment where every vendor touching federal data must be FedRAMP certified or self-hosted.\n\nWe rebuilt auth, moved to FIPS-hardened images and stood up a separate gov CI/CD and observability stack. Over 1k PRs from nearly every eng team to get all nine product suites passing end to end.\n\nThat work makes Harvey stronger for the most regulated organizations we serve both in how we secure their work and in how fully they can own their own intelligence.\n\nAmazing work by our CISO, Brooks, and our VP of Infrastructure @sridhartreddy and both of their teams.",
+      "quotedTweetText": "Harvey is now FedRAMP Class D (High) certified.\n\nU.S. federal agencies, contractors, and partners can now use Harvey for legal work in an environment built for sensitive government information.\n\nRead the announcement: https://t.co/qGw6HMH1zw https://t.co/zuhOeJdY7p"
+    }
+  ],
+  "isSuperseded": false
+}

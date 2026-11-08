@@ -1,0 +1,110 @@
+{
+  "slug": "blackstone-forecasts-junk-credit-rating-for-anthropic-following-ipo-8a17475a",
+  "title": "Blackstone Forecasts Junk Credit Rating for Anthropic Following IPO",
+  "publishedAt": "2026-10-30T17:08:45.364Z",
+  "eventTimeApprox": "2026-10-30T16:49:13.000Z",
+  "isFreshStory": false,
+  "tweetCount": 48,
+  "authorCount": 41,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "AVGO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Broadcom Inc. Common Stock",
+      "hubKey": "avgo"
+    }
+  ],
+  "summary": "The AI laboratory is expected to receive a credit rating in the double-B range following its debut on the public market, meaning it will likely miss out on investment-grade status. Blackstone told investors the \"high junk\" outlook is a reversal of its earlier projections that the startup would secure an investment-grade rating by the end of the year, the Financial Times reports.\n\nThe rating could increase borrowing costs for Anthropic as it executes a plan to spend more than $800B on computing infrastructure through 2045. To fund its growth, the company has relied on a $63B financing deal known as Project North Star, in which Broadcom guarantees $42B in senior loans. While Anthropic reportedly holds $112B in cash, a junk rating would restrict its access to capital from insurance companies and pension funds that are barred from investing in non-investment-grade debt.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116214267531698548",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2116214267531698548",
+      "tweetedAt": "2026-10-30T17:02:53.000Z",
+      "bestBit": "Blackstone told investors Anthropic may not receive an investment-grade rating immediately after going public, a reversal from its previous guidance",
+      "text": "Breaking news: Blackstone told investors Anthropic may not receive an investment-grade rating immediately after going public, a reversal from its previous guidance that would complicate the AI lab’s ability to finance its massive spending. https://t.co/HYNtZHDGBC https://t.co/xX7YzxX7Ya"
+    },
+    {
+      "tweetId": "2116210992992694426",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2116210992992694426",
+      "tweetedAt": "2026-10-30T16:49:52.000Z",
+      "bestBit": "The lower rating could make it more expensive for Anthropic to finance its massive AI infrastructure expansion, while limiting access to pension funds and insurers",
+      "text": "ANTHROPIC EXPECTED TO RECEIVE A “HIGH” JUNK CREDIT RATING AFTER IPO: FT\n\nBlackstone has told investors Anthropic is likely to receive a credit rating in the double-B range after going public, below investment grade, reversing its earlier expectations for an investment-grade rating by year-end.\n\nThe lower rating could make it more expensive for Anthropic to finance its massive AI infrastructure expansion, while limiting access to pension funds and insurers that face restrictions on investing in junk-rated debt.\n\nThe warning comes as Blackstone participates in Anthropic's $63B financing deal, known as Project North Star, to support the leasing of 1.5 GW of Google's AI chips.\n\nUnder the deal:\n\n• More than $42B in senior loans are guaranteed by Broadcom $AVGO.\n\n• Another $18B in junior debt is backed by Anthropic's lease payments.\n\n• Blackstone's funds invested $9B in junior debt, earning yields above 10%.\n\nAnthropic's IPO prospectus outlined plans to spend more than $800B on computing infrastructure through 2045.\n\nWithout an investment-grade rating, Anthropic may need to continue relying on financially stronger partners to support its borrowing.\n\nThe major credit agencies, Moody's, S&P and Fitch, have not yet formally issued ratings for Anthropic, per FT."
+    },
+    {
+      "tweetId": "2116210393022677477",
+      "role": "commentary",
+      "authorHandle": "zerohedge",
+      "url": "https://x.com/zerohedge/status/2116210393022677477",
+      "tweetedAt": "2026-10-30T16:47:29.000Z",
+      "bestBit": "you mean the $700BN in unfunded commitments could get in the way?",
+      "text": "*ANTHROPIC EXPECTED TO RECEIVE A “HIGH” JUNK RATING: FT\n\nNot to be confused with deep, rotting junk",
+      "quotedTweetText": "*ANTHROPIC MAY NOT SECURE INVESTMENT-GRADE RATING AFTER IPO: FT\n\nyou mean the $700BN in unfunded commitments could get in the way?"
+    },
+    {
+      "tweetId": "2116212226474512889",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2116212226474512889",
+      "tweetedAt": "2026-10-30T16:54:46.000Z",
+      "bestBit": "Not ideal when you're planning over $800B in compute spending and $AVGO is already guaranteeing $42B of your loans",
+      "text": "$ANT is reportedly expected to receive a junk credit rating after its IPO with Blackstone now anticipating a double-B rating instead of investment grade.\n\nNot ideal when you're planning over $800B in compute spending and $AVGO is already guaranteeing $42B of your loans. https://t.co/ZxF8Kwqinc",
+      "quotedTweetText": "Anthropic scales faster by plugging into Big Tech’s existing distribution.\n\n$AMZN and $GOOGL help it scale infrastructure and reach customers without building those channels from scratch.But that also puts more of Anthropic’s business in the hands of two companies.\n\nAfter the Anthropic IPO @TradrETFs expects to launch leveraged long and short ETFs, $ANTT and $ANTZ.\n\nA registration statement relating to these securities has been filed with the Securities and Exchange Commission but has not yet become effective. See the pre-effective prospectus. https://t.co/5J2TYQn4jP"
+    },
+    {
+      "tweetId": "2116213005528727608",
+      "role": "commentary",
+      "authorHandle": "rory_johnston",
+      "url": "https://x.com/Rory_Johnston/status/2116213005528727608",
+      "tweetedAt": "2026-10-30T16:57:52.000Z",
+      "bestBit": "They’re calling it slop debt.",
+      "text": "They’re calling it slop debt.",
+      "quotedTweetText": "*ANTHROPIC EXPECTED TO RECEIVE A “HIGH” JUNK RATING: FT"
+    },
+    {
+      "tweetId": "2116210955864486349",
+      "role": "commentary",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2116210955864486349",
+      "tweetedAt": "2026-10-30T16:49:43.000Z",
+      "bestBit": "I swear the FT is a Chinese operator escalating the selloff on semis on this",
+      "text": "*ANTHROPIC MAY NOT SECURE INVESTMENT-GRADE RATING AFTER IPO, BLACKSTONE TELLS INVESTORS - FT\n\n*ANTHROPIC EXPECTED TO RECEIVE A \"HIGH\" JUNK RATING: FT\n\nI swear the FT is a Chinese operator escalating the selloff on semis on this https://t.co/GxXxVWeMkr",
+      "quotedTweetText": "How far from all time highs AI Infrastructure companies are:\n\n$IREN: -65% $CRWV: -60% $ORCL: -51% $NBIS: -41% $ARM: -55% $INTC: -54% $CIEN: -70% $ALAB: -48% $MRVL: -39% $AVGO: -34% $WDC: -54% $SNDK: -49% $STX: -42% $MU: -29% $SMCI: -39% $GEV: -20%+ $VRT: -20%+ $CAT: -20%+\n$AMD: -20% \n$ARM -53% \n$AAOI -70% \n$AXTI -60% \n$CBRS -67% \n$SPCX -35% \n$BE -40% \n$LITE -30% \n$SKHY -25%"
+    }
+  ],
+  "isSuperseded": false
+}

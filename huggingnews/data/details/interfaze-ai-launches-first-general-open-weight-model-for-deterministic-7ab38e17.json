@@ -1,0 +1,44 @@
+{
+  "slug": "interfaze-ai-launches-first-general-open-weight-model-for-deterministic-7ab38e17",
+  "title": "Interfaze AI Launches First General Open Weight Model for Deterministic Work",
+  "publishedAt": "2026-10-05T19:54:03.498Z",
+  "eventTimeApprox": "2026-10-05T17:58:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "summary": "A new tool for data extraction and classification called interfaze-1-lite is now available for public use. Interfaze AI released the system as the first general open weight model specifically designed for deterministic work, aiming for consistency and predictability in tasks like optical character recognition and speech-to-text.\n\nThe model generates confidence scores and metadata, including bounding boxes, for every run to provide verifiable results. These technical outputs allow users to audit how the software identifies and processes specific visual or auditory elements within a dataset.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107144505711595575",
+      "role": "source",
+      "authorHandle": "interfaze_ai",
+      "url": "https://x.com/interfaze_ai/status/2107144505711595575",
+      "tweetedAt": "2026-10-05T16:22:53.000Z",
+      "bestBit": "interfaze-1-lite, the first general open-weight model for deterministic work",
+      "text": "Introducing interfaze-1-lite, the first general open-weight model for deterministic work\n\nOCR, speech-to-text, extraction, classification and more\n\nIt returns confidence scores and metadata like bounding boxes on every run\n\nhttps://t.co/WbOM7eqBFm https://t.co/qcaXVNyNTj"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "binance-unveils-ai-suite-including-agent-os-with-280000-daily-calls-b177b0f2",
+  "title": "Binance Unveils AI Suite Including Agent OS With 280,000 Daily Calls",
+  "publishedAt": "2026-10-05T15:54:54.436Z",
+  "eventTimeApprox": "2026-10-05T13:08:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "A three part artificial intelligence system designed for retail traders, professionals and software developers now anchors the company's finance intelligence strategy. The suite includes a free version of Binance AI, a professional tier called Binance AI Pro that converts natural-language trading ideas into executable strategies and workflows, and a lauchpad for AI applications called Binance Agent OS. Agent OS has exceeded 280,000 daily calls since its initial release in August.\n\nBinance debuted the expanded toolkit during a livestream on Oct 5 to demonstrate its vision of providing intelligence for all financial services. The event included a 5,000 USDC giveaway for participants and an early look at how the AI-powered layer integrates across the exchange's ecosystem.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107078356995105173",
+      "role": "source",
+      "authorHandle": "binance",
+      "url": "https://x.com/binance/status/2107078356995105173",
+      "tweetedAt": "2026-10-05T12:00:02.000Z",
+      "bestBit": "Tune in to the Binance Intelligence Product Launch Event and explore what’s next, with a few surprises in store for participants",
+      "text": "We’re live now. 🎙️\n\nTune in to the Binance Intelligence Product Launch Event and explore what’s next, with a few surprises in store for participants.\n\nJoin us here 👉 https://t.co/hPquJ3a78H",
+      "quotedTweetText": "Introducing a new layer of intelligence for everything finance.\n\nJoin the Binance Intelligence launch livestream for an early look at what we've been building.\n\n🗓 Oct 5 | 12:00 UTC\n📍 Binance Square Official\n\nSet your reminder: https://t.co/hPquJ3a78H https://t.co/CeU4o0MMA6"
+    },
+    {
+      "tweetId": "2107133136094298145",
+      "role": "support",
+      "authorHandle": "wublockchain",
+      "url": "https://x.com/WuBlockchain/status/2107133136094298145",
+      "tweetedAt": "2026-10-05T15:37:42.000Z",
+      "bestBit": "Agent OS, which launched in August, has now surpassed 280,000 daily calls",
+      "text": "Binance Launches AI Suite for Users, Automated Trading and Developers  \n\nBinance announced Binance Intelligence, comprising three products: the free Binance AI for general users, Binance AI Pro for turning natural-language trading ideas into executable strategies and automated workflows, and Binance Agent OS for developers building AI applications and agents. Agent OS, which launched in August, has now surpassed 280,000 daily calls."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "binance-launches-binance-intelligence-ai-financial-layer-e294d335",
+    "title": "Binance Launches Binance Intelligence AI Financial Layer",
+    "publishedAt": "2026-10-05T14:09:22.923Z",
+    "eventTimeApprox": "2026-10-05T12:13:16.000Z",
+    "routingTopicKeys": [
+      "crypto",
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 3
+  }
+}

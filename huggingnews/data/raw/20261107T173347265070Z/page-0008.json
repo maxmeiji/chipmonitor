@@ -1,0 +1,5826 @@
+{
+  "dayGroups": [
+    {
+      "dayKey": "2026-10-17",
+      "stories": [
+        {
+          "slug": "coreweave-ceo-sold-907m-of-stock-in-2026-before-calling-25percent-rout-i-c8d92f4e",
+          "title": "CoreWeave CEO Sold $907M of Stock in 2026 Before Calling 25% Rout Irrational",
+          "publishedAt": "2026-10-17T15:38:50.577Z",
+          "eventTimeApprox": "2026-10-15T14:01:37.000Z",
+          "isFreshStory": false,
+          "tweetCount": 249,
+          "authorCount": 76,
+          "routingTopicKeys": [
+            "us-markets",
+            "ai",
+            "business"
+          ],
+          "primaryRoutingTopic": "us-markets",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "CRWV",
+              "kind": "equity",
+              "role": "subject",
+              "name": "CoreWeave, Inc. Class A Common Stock",
+              "hubKey": "crwv"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110018879930130553/HUhJTUrWsAARhdz-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110018879930130553/HUhJTUrWsAARhdz-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "junkbondinvest",
+              "tweetUrl": "https://x.com/junkbondinvest/status/2110018879930130553"
+            }
+          }
+        },
+        {
+          "slug": "update-us-chip-producer-prices-surge-27percent-as-ai-data-centers-squeez-22d287ee",
+          "title": "UPDATE: US Chip Producer Prices Surge 27% as AI Data Centers Squeeze Supply",
+          "publishedAt": "2026-10-17T09:39:14.948Z",
+          "eventTimeApprox": "2026-10-15T12:56:26.000Z",
+          "isFreshStory": false,
+          "tweetCount": 116,
+          "authorCount": 73,
+          "routingTopicKeys": [
+            "tech",
+            "us-markets",
+            "ai"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "macroeconomics",
+              "name": "Macroeconomics"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110711445197664304/HUrA32VWUAAzkfH-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110711445197664304/HUrA32VWUAAzkfH-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "lizannsonders",
+              "tweetUrl": "https://x.com/LizAnnSonders/status/2110711445197664304"
+            }
+          }
+        },
+        {
+          "slug": "nyc-comptroller-demands-pause-of-anthropics-2t-ipo-over-ai-safety-6a8de43b",
+          "title": "NYC Comptroller Demands Pause of Anthropic's $2T IPO Over AI Safety",
+          "publishedAt": "2026-10-17T16:10:07.586Z",
+          "eventTimeApprox": "2026-10-16T14:12:36.000Z",
+          "isFreshStory": false,
+          "tweetCount": 25,
+          "authorCount": 21,
+          "routingTopicKeys": [
+            "ai",
+            "business",
+            "startups"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110841412401172829/HUs2Nbsb0AAX7ci-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110841412401172829/HUs2Nbsb0AAX7ci-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "rohanpaul_ai",
+              "tweetUrl": "https://x.com/rohanpaul_ai/status/2110841412401172829"
+            }
+          }
+        },
+        {
+          "slug": "vllm-and-nvidia-hit-842-tokens-per-second-on-kimi-k3-c765455a",
+          "title": "vLLM and NVIDIA Hit 842 Tokens Per Second on Kimi K3",
+          "publishedAt": "2026-10-18T02:25:08.980Z",
+          "eventTimeApprox": "2026-10-13T01:01:26.000Z",
+          "isFreshStory": false,
+          "tweetCount": 18,
+          "authorCount": 13,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-inference-platforms",
+              "name": "AI Inference"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            },
+            {
+              "ticker": "PVT:MNSH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Moonshot AI",
+              "hubKey": "moonshot-ai"
+            },
+            {
+              "ticker": "2513",
+              "kind": "equity",
+              "role": "related",
+              "name": "Z.AI",
+              "hubKey": "zhipu-ai"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2109679465609470216/HUcVIt7XYAAvmp0-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2109679465609470216/HUcVIt7XYAAvmp0-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "zwljohnny",
+              "tweetUrl": "https://x.com/zwljohnny/status/2109679465609470216"
+            }
+          }
+        },
+        {
+          "slug": "meta-removes-ai-news-scraping-clause-in-revised-commercial-terms-f2eadc8c",
+          "title": "Meta Removes AI News Scraping Clause in Revised Commercial Terms",
+          "publishedAt": "2026-10-17T19:29:43.238Z",
+          "eventTimeApprox": "2026-10-17T16:54:31.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai",
+            "tech",
+            "business"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "META",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Meta Platforms, Inc. Class A Common Stock",
+              "hubKey": "meta"
+            }
+          ]
+        },
+        {
+          "slug": "anthropic-co-founder-says-ai-singularity-has-begun-at-imf-eeeba924",
+          "title": "Anthropic Co-Founder Says AI Singularity Has Begun at IMF",
+          "publishedAt": "2026-10-17T15:25:45.375Z",
+          "eventTimeApprox": "2026-10-17T09:10:31.000Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111384352559153554/HU0hXdxWYAAL0xP-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111384352559153554/HU0hXdxWYAAL0xP-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "choblin29",
+              "tweetUrl": "https://x.com/choblin29/status/2111384352559153554"
+            }
+          }
+        },
+        {
+          "slug": "vara-ai-fund-collapses-16-months-after-raising-264b-5ff22039",
+          "title": "VARA AI Fund Collapses 16 Months After Raising $26.4B",
+          "publishedAt": "2026-10-17T15:26:02.955Z",
+          "eventTimeApprox": "2026-10-17T02:44:04.000Z",
+          "isFreshStory": false,
+          "tweetCount": 3,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "business",
+            "ai"
+          ],
+          "primaryRoutingTopic": "business",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            }
+          ]
+        },
+        {
+          "slug": "replit-launches-byoc-to-run-platform-on-aws-azure-and-google-cloud-1e2814b2",
+          "title": "Replit Launches BYOC to Run Platform on AWS, Azure and Google Cloud",
+          "publishedAt": "2026-10-17T15:24:59.146Z",
+          "eventTimeApprox": "2026-10-17T03:14:55.500Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "tech",
+            "ai"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111219084352221410/HUx5SYZXYAAXN6l-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111219084352221410/HUx5SYZXYAAXN6l-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "replit",
+              "tweetUrl": "https://x.com/Replit/status/2111219084352221410"
+            }
+          }
+        },
+        {
+          "slug": "replit-shifts-to-openai-as-preferred-partner-for-ai-agent-d79ba1a5",
+          "title": "Replit Shifts to OpenAI as Preferred Partner for AI Agent",
+          "publishedAt": "2026-10-17T16:53:33.338Z",
+          "eventTimeApprox": "2026-10-17T16:33:25.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            },
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "related",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayKey": "2026-10-16",
+      "stories": [
+        {
+          "slug": "microsoft-to-deploy-1-million-maia-300-ai-chips-next-year-for-primary-in-8451d909",
+          "title": "Microsoft to Deploy 1 Million Maia 300 AI Chips Next Year for Primary Inference",
+          "publishedAt": "2026-10-16T08:41:02.588Z",
+          "eventTimeApprox": "2026-10-12T15:28:57.500Z",
+          "isFreshStory": false,
+          "tweetCount": 75,
+          "authorCount": 53,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "MSFT",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Microsoft Corp",
+              "hubKey": "msft"
+            },
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            },
+            {
+              "ticker": "AMD",
+              "kind": "equity",
+              "role": "related",
+              "name": "Advanced Micro Devices",
+              "hubKey": "amd"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2109634232163471782/HUbsid1akAAPd8U-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2109634232163471782/HUbsid1akAAPd8U-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "microsoft",
+              "tweetUrl": "https://x.com/Microsoft/status/2109634232163471782"
+            }
+          }
+        },
+        {
+          "slug": "china-confirms-ai-export-controls-with-auto-licensing-for-open-source-82b1f7d8",
+          "title": "China Confirms AI Export Controls With Auto-Licensing for Open Source",
+          "publishedAt": "2026-10-16T14:10:29.640Z",
+          "eventTimeApprox": "2026-10-16T11:43:05.000Z",
+          "isFreshStory": false,
+          "tweetCount": 89,
+          "authorCount": 50,
+          "routingTopicKeys": [
+            "ai",
+            "geopolitics",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "china",
+              "name": "China"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111088326749069388/HUwXpA-bwAAnhNv-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111088326749069388/HUwXpA-bwAAnhNv-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "maxforai",
+              "tweetUrl": "https://x.com/MaxForAI/status/2111088326749069388"
+            }
+          }
+        },
+        {
+          "slug": "anthropics-bb-june-credit-rating-issued-without-free-cash-flow-data-7bc7b67d",
+          "title": "Anthropic's BB+ June Credit Rating Issued Without Free Cash Flow Data",
+          "publishedAt": "2026-10-16T23:25:05.599Z",
+          "eventTimeApprox": "2026-10-12T23:07:02.000Z",
+          "isFreshStory": false,
+          "tweetCount": 53,
+          "authorCount": 39,
+          "routingTopicKeys": [
+            "ai",
+            "startups",
+            "business"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            },
+            {
+              "ticker": "AVGO",
+              "kind": "equity",
+              "role": "related",
+              "name": "Broadcom Inc. Common Stock",
+              "hubKey": "avgo"
+            },
+            {
+              "ticker": "APO",
+              "kind": "equity",
+              "role": "related",
+              "name": "Apollo Global Management, Inc.",
+              "hubKey": "apo"
+            }
+          ]
+        },
+        {
+          "slug": "openai-reports-4-rogue-ai-agent-acts-with-2-critical-data-breaches-b95ec0fd",
+          "title": "OpenAI Reports 4 Rogue AI Agent Acts With 2 Critical Data Breaches",
+          "publishedAt": "2026-10-16T20:54:47.775Z",
+          "eventTimeApprox": "2026-10-16T05:51:09.000Z",
+          "isFreshStory": false,
+          "tweetCount": 30,
+          "authorCount": 25,
+          "routingTopicKeys": [
+            "ai",
+            "cybersecurity",
+            "crypto"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "cybersecurity",
+              "name": "Cybersecurity"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111172863013380235/HUxjCYgWQAEAad_-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111172863013380235/HUxjCYgWQAEAad_-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "choblin29",
+              "tweetUrl": "https://x.com/choblin29/status/2111172863013380235"
+            }
+          }
+        },
+        {
+          "slug": "tencent-blames-third-party-models-for-first-rogue-ai-agent-fleet-in-wild-4e7eeb53",
+          "title": "Tencent Blames Third Party Models for First Rogue AI Agent Fleet in Wild",
+          "publishedAt": "2026-10-16T05:10:50.477Z",
+          "eventTimeApprox": "2026-10-14T16:50:36.000Z",
+          "isFreshStory": false,
+          "tweetCount": 42,
+          "authorCount": 30,
+          "routingTopicKeys": [
+            "ai",
+            "cybersecurity",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "cybersecurity",
+              "name": "Cybersecurity"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "BABA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+              "hubKey": "baba"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110442577820516682/HUnMA8La4AArdKL-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110442577820516682/HUnMA8La4AArdKL-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "maxforai",
+              "tweetUrl": "https://x.com/MaxForAI/status/2110442577820516682"
+            }
+          }
+        },
+        {
+          "slug": "update-openai-math-results-threaten-encryption-for-online-payments-and-c-5d369370",
+          "title": "UPDATE: OpenAI Math Results Threaten Encryption for Online Payments and Crypto",
+          "publishedAt": "2026-10-16T17:55:23.046Z",
+          "eventTimeApprox": "2026-10-08T14:42:08.500Z",
+          "isFreshStory": false,
+          "tweetCount": 57,
+          "authorCount": 28,
+          "routingTopicKeys": [
+            "crypto",
+            "ai",
+            "cybersecurity"
+          ],
+          "primaryRoutingTopic": "crypto",
+          "topicTags": [
+            {
+              "slug": "crypto",
+              "name": "Crypto"
+            },
+            {
+              "slug": "blockchains",
+              "name": "Blockchains"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            },
+            {
+              "ticker": "BTGO",
+              "kind": "equity",
+              "role": "related",
+              "name": "BitGo Holdings, Inc.",
+              "hubKey": "btgo"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2107987784707514462/HUETtj7bEAAyuFt-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2107987784707514462/HUETtj7bEAAyuFt-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "wublockchain",
+              "tweetUrl": "https://x.com/WuBlockchain/status/2107987784707514462"
+            }
+          }
+        },
+        {
+          "slug": "reflection-ai-releases-501b-beam-weights-as-first-open-model-5994f368",
+          "title": "Reflection AI Releases 501B Beam Weights as First Open Model",
+          "publishedAt": "2026-10-16T14:40:24.378Z",
+          "eventTimeApprox": "2026-10-16T13:23:16.500Z",
+          "isFreshStory": false,
+          "tweetCount": 122,
+          "authorCount": 65,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111087606759030831/HUwQ8XIbIAAEBTD-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111087606759030831/HUwQ8XIbIAAEBTD-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "artificialanlys",
+              "tweetUrl": "https://x.com/ArtificialAnlys/status/2111087606759030831"
+            }
+          }
+        },
+        {
+          "slug": "update-claude-debunks-25-year-nsa-backdoor-theory-on-nist-seeds-574a7ded",
+          "title": "UPDATE: Claude Debunks 25 Year NSA Backdoor Theory on NIST Seeds",
+          "publishedAt": "2026-10-16T20:54:25.915Z",
+          "eventTimeApprox": "2026-10-16T18:20:08.000Z",
+          "isFreshStory": false,
+          "tweetCount": 50,
+          "authorCount": 38,
+          "routingTopicKeys": [
+            "ai",
+            "cybersecurity",
+            "crypto"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111154520575340816/i0GjlJDOe3JTfzPI-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111154520575340816/i0GjlJDOe3JTfzPI-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video.twimg.com/amplify_video/2111154414111375360/vid/avc1/3840x2160/FcWsvCYOXtcEk7dx.mp4?tag=29",
+            "credit": {
+              "handle": "andrewcurran_",
+              "tweetUrl": "https://x.com/AndrewCurran_/status/2111154520575340816"
+            }
+          }
+        },
+        {
+          "slug": "ai-investment-bust-could-cut-global-growth-13-points-by-2028-bae00d8f",
+          "title": "AI Investment Bust Could Cut Global Growth 1.3 Points by 2028",
+          "publishedAt": "2026-10-16T11:24:32.155Z",
+          "eventTimeApprox": "2026-10-13T12:08:41.000Z",
+          "isFreshStory": false,
+          "tweetCount": 18,
+          "authorCount": 13,
+          "routingTopicKeys": [
+            "global-markets",
+            "ai",
+            "us-markets",
+            "startups"
+          ],
+          "primaryRoutingTopic": "global-markets",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "macroeconomics",
+              "name": "Macroeconomics"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110007753200554064/HUhAzxHXoAEe68M-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110007753200554064/HUhAzxHXoAEe68M-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "hedgiemarkets",
+              "tweetUrl": "https://x.com/HedgieMarkets/status/2110007753200554064"
+            }
+          }
+        },
+        {
+          "slug": "taiwan-curbs-ai-chip-exports-to-china-under-us-deal-812c48c4",
+          "title": "Taiwan Curbs AI Chip Exports to China Under US Deal",
+          "publishedAt": "2026-10-16T06:08:53.655Z",
+          "eventTimeApprox": "2026-10-16T05:50:55.000Z",
+          "isFreshStory": false,
+          "tweetCount": 14,
+          "authorCount": 13,
+          "routingTopicKeys": [
+            "geopolitics",
+            "tech",
+            "ai",
+            "global-markets",
+            "business"
+          ],
+          "primaryRoutingTopic": "geopolitics",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "china",
+              "name": "China"
+            }
+          ]
+        },
+        {
+          "slug": "taiwan-launches-us-industrial-park-program-for-nvidia-ai-supply-chain-e280fd63",
+          "title": "Taiwan Launches US Industrial Park Program for Nvidia AI Supply Chain",
+          "publishedAt": "2026-10-16T04:38:45.534Z",
+          "eventTimeApprox": "2026-10-16T04:30:10.000Z",
+          "isFreshStory": false,
+          "tweetCount": 13,
+          "authorCount": 12,
+          "routingTopicKeys": [
+            "business",
+            "tech",
+            "ai"
+          ],
+          "primaryRoutingTopic": "business",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ]
+        },
+        {
+          "slug": "elorian-ai-launches-glimpse-visual-model-matching-astra-at-17x-lower-cos-fe0abcdb",
+          "title": "Elorian AI Launches Glimpse Visual Model Matching Astra at 17x Lower Cost",
+          "publishedAt": "2026-10-16T17:24:40.244Z",
+          "eventTimeApprox": "2026-10-16T17:09:12.000Z",
+          "isFreshStory": false,
+          "tweetCount": 30,
+          "authorCount": 23,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            }
+          ]
+        },
+        {
+          "slug": "claude-mythos-5-beats-most-efficient-quantum-circuits-on-7-of-8-tasks-b2402eb8",
+          "title": "Claude Mythos 5 Beats Most Efficient Quantum Circuits on 7 of 8 Tasks",
+          "publishedAt": "2026-10-16T18:08:36.250Z",
+          "eventTimeApprox": "2026-10-16T17:57:15.000Z",
+          "isFreshStory": false,
+          "tweetCount": 19,
+          "authorCount": 16,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111154520575340816/i0GjlJDOe3JTfzPI-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111154520575340816/i0GjlJDOe3JTfzPI-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video.twimg.com/amplify_video/2111154414111375360/vid/avc1/3840x2160/FcWsvCYOXtcEk7dx.mp4?tag=29",
+            "credit": {
+              "handle": "andrewcurran_",
+              "tweetUrl": "https://x.com/AndrewCurran_/status/2111154520575340816"
+            }
+          }
+        },
+        {
+          "slug": "rogue-ai-agents-breach-indian-corporate-systems-in-first-official-case-b0c5b74e",
+          "title": "Rogue AI Agents Breach Indian Corporate Systems in First Official Case",
+          "publishedAt": "2026-10-16T08:39:04.359Z",
+          "eventTimeApprox": "2026-10-16T08:07:47.500Z",
+          "isFreshStory": false,
+          "tweetCount": 14,
+          "authorCount": 12,
+          "routingTopicKeys": [
+            "cybersecurity",
+            "ai"
+          ],
+          "primaryRoutingTopic": "cybersecurity",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "cybersecurity",
+              "name": "Cybersecurity"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "india",
+              "name": "India"
+            }
+          ]
+        },
+        {
+          "slug": "nvidia-rivals-intel-and-amd-with-128gb-rtx-spark-pcs-163a67bd",
+          "title": "Nvidia Rivals Intel and AMD With 128GB RTX Spark PCs",
+          "publishedAt": "2026-10-16T13:23:40.904Z",
+          "eventTimeApprox": "2026-10-16T12:58:13.500Z",
+          "isFreshStory": false,
+          "tweetCount": 33,
+          "authorCount": 18,
+          "routingTopicKeys": [
+            "tech",
+            "ai"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            },
+            {
+              "ticker": "MSFT",
+              "kind": "equity",
+              "role": "related",
+              "name": "Microsoft Corp",
+              "hubKey": "msft"
+            },
+            {
+              "ticker": "DELL",
+              "kind": "equity",
+              "role": "related",
+              "name": "Dell Technologies Inc.",
+              "hubKey": "dell"
+            },
+            {
+              "ticker": "HPQ",
+              "kind": "equity",
+              "role": "related",
+              "name": "HP Inc.",
+              "hubKey": "hpq"
+            }
+          ]
+        },
+        {
+          "slug": "google-deepmind-ai-agents-conquer-minecraft-in-first-autonomous-run-3bcf5c09",
+          "title": "Google DeepMind AI Agents Conquer Minecraft in First Autonomous Run",
+          "publishedAt": "2026-10-16T14:09:10.325Z",
+          "eventTimeApprox": "2026-10-16T09:31:00.000Z",
+          "isFreshStory": false,
+          "tweetCount": 19,
+          "authorCount": 16,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111093058024755365/HUwb8rlaUAANJFr-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111093058024755365/HUwb8rlaUAANJFr-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "omarsar0",
+              "tweetUrl": "https://x.com/omarsar0/status/2111093058024755365"
+            }
+          }
+        },
+        {
+          "slug": "update-databricks-integrates-jev-114-to-speed-up-ai-decisions-by-200x-d7bf43ae",
+          "title": "UPDATE: Databricks Integrates Jev 1.14 to Speed Up AI Decisions by 200x",
+          "publishedAt": "2026-10-16T21:09:10.560Z",
+          "eventTimeApprox": "2026-10-15T01:43:02.000Z",
+          "isFreshStory": false,
+          "tweetCount": 18,
+          "authorCount": 15,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:DBRX",
+              "kind": "private",
+              "role": "subject",
+              "name": "Databricks",
+              "hubKey": "databricks"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110546960767992105/HUomLUcbkAAk3OA-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110546960767992105/HUomLUcbkAAk3OA-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "exrhizo",
+              "tweetUrl": "https://x.com/exrhizo/status/2110546960767992105"
+            }
+          }
+        },
+        {
+          "slug": "citi-bars-ai-agent-account-access-to-help-protect-16t-deposit-base-d148edc6",
+          "title": "Citi Bars AI Agent Account Access to Help Protect $1.6T Deposit Base",
+          "publishedAt": "2026-10-16T18:27:03.741Z",
+          "eventTimeApprox": "2026-10-16T17:21:11.000Z",
+          "isFreshStory": false,
+          "tweetCount": 10,
+          "authorCount": 7,
+          "routingTopicKeys": [
+            "business",
+            "ai"
+          ],
+          "primaryRoutingTopic": "business",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "C",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Citigroup Inc.",
+              "hubKey": "c"
+            },
+            {
+              "ticker": "JPM",
+              "kind": "equity",
+              "role": "related",
+              "name": "JPMorgan Chase & Co.",
+              "hubKey": "jpm"
+            },
+            {
+              "ticker": "BAC",
+              "kind": "equity",
+              "role": "related",
+              "name": "Bank of America Corporation",
+              "hubKey": "bac"
+            },
+            {
+              "ticker": "WFC",
+              "kind": "equity",
+              "role": "related",
+              "name": "Wells Fargo & Co.",
+              "hubKey": "wfc"
+            }
+          ]
+        },
+        {
+          "slug": "nvidia-bars-neoclouds-using-amd-chips-from-gtc-berlin-37059af9",
+          "title": "Nvidia Bars Neoclouds Using AMD Chips from GTC Berlin",
+          "publishedAt": "2026-10-16T20:41:05.448Z",
+          "eventTimeApprox": "2026-10-16T18:50:56.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "tech",
+            "ai",
+            "business"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            },
+            {
+              "ticker": "AMD",
+              "kind": "equity",
+              "role": "related",
+              "name": "Advanced Micro Devices",
+              "hubKey": "amd"
+            },
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "related",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            }
+          ]
+        },
+        {
+          "slug": "dell-shields-business-from-ai-bust-with-just-in-time-model-73c3c008",
+          "title": "Dell Shields Business from AI Bust With Just in Time Model",
+          "publishedAt": "2026-10-16T16:40:51.516Z",
+          "eventTimeApprox": "2026-10-16T16:14:36.000Z",
+          "isFreshStory": false,
+          "tweetCount": 12,
+          "authorCount": 8,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "DELL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Dell Technologies Inc.",
+              "hubKey": "dell"
+            },
+            {
+              "ticker": "MU",
+              "kind": "equity",
+              "role": "related",
+              "name": "Micron Technology, Inc.",
+              "hubKey": "mu"
+            },
+            {
+              "ticker": "SKHY",
+              "kind": "equity",
+              "role": "related",
+              "name": "SK hynix Inc. American Depositary Shares",
+              "hubKey": "skhy"
+            }
+          ]
+        },
+        {
+          "slug": "bank-of-america-warns-1t-ai-investment-mirrors-classic-bust-cycle-21b77e54",
+          "title": "Bank of America Warns $1T AI Investment Mirrors Classic Bust Cycle",
+          "publishedAt": "2026-10-16T19:39:20.570Z",
+          "eventTimeApprox": "2026-10-16T18:39:10.000Z",
+          "isFreshStory": false,
+          "tweetCount": 9,
+          "authorCount": 9,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            }
+          ]
+        },
+        {
+          "slug": "update-australian-police-use-ai-child-profiles-to-track-social-media-21c718f7",
+          "title": "UPDATE: Australian Police Use AI Child Profiles to Track Social Media",
+          "publishedAt": "2026-10-16T16:25:55.890Z",
+          "eventTimeApprox": "2026-10-15T03:57:05.000Z",
+          "isFreshStory": false,
+          "tweetCount": 7,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "world",
+            "cybersecurity",
+            "ai"
+          ],
+          "primaryRoutingTopic": "world",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110555495706874097/HUozCJtaIAA7hNT-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110555495706874097/HUozCJtaIAA7hNT-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "drewpavlou",
+              "tweetUrl": "https://x.com/DrewPavlou/status/2110555495706874097"
+            }
+          }
+        },
+        {
+          "slug": "g7-agrees-to-simulate-ai-cyberattacks-on-financial-systems-8b3bfb4e",
+          "title": "G7 Agrees to Simulate AI Cyberattacks on Financial Systems",
+          "publishedAt": "2026-10-16T07:53:17.932Z",
+          "eventTimeApprox": "2026-10-16T06:30:20.000Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "cybersecurity",
+            "geopolitics",
+            "ai"
+          ],
+          "primaryRoutingTopic": "cybersecurity",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            }
+          ]
+        },
+        {
+          "slug": "dynamic-creatures-launches-first-human-companion-robot-hugo-5315fe27",
+          "title": "Dynamic Creatures Launches First Human Companion Robot Hugo",
+          "publishedAt": "2026-10-16T16:25:04.579Z",
+          "eventTimeApprox": "2026-10-16T16:10:28.500Z",
+          "isFreshStory": false,
+          "tweetCount": 10,
+          "authorCount": 10,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "robotics",
+              "name": "Robotics"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            }
+          ]
+        },
+        {
+          "slug": "coinbase-launches-ai-trading-for-us-500-and-crypto-perpetuals-5fe8c82a",
+          "title": "Coinbase Launches AI Trading for US 500 and Crypto Perpetuals",
+          "publishedAt": "2026-10-16T21:28:34.546Z",
+          "eventTimeApprox": "2026-10-14T18:24:15.000Z",
+          "isFreshStory": false,
+          "tweetCount": 13,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "crypto",
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "crypto",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "fintech",
+              "name": "Fintech"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "COIN",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Coinbase Global, Inc. Class A Common Stock",
+              "hubKey": "coin"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110355189890691322/gKk18AObVozhJRCD-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110355189890691322/gKk18AObVozhJRCD-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video-s.twimg.com/amplify_video/2110209201184051200/vid/avc1/3340x2160/ylGByPsvNYLkkkLR.mp4?tag=29",
+            "credit": {
+              "handle": "murrlincoln",
+              "tweetUrl": "https://x.com/MurrLincoln/status/2110355189890691322"
+            }
+          }
+        },
+        {
+          "slug": "new-constructs-values-anthropic-at-144b-93percent-below-targeted-2t-ipo-f0fd2255",
+          "title": "New Constructs Values Anthropic at $144B, 93% Below Targeted $2T IPO",
+          "publishedAt": "2026-10-16T23:08:50.246Z",
+          "eventTimeApprox": "2026-10-16T22:53:00.000Z",
+          "isFreshStory": false,
+          "tweetCount": 3,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "earnings",
+            "ai",
+            "startups"
+          ],
+          "primaryRoutingTopic": "earnings",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            },
+            {
+              "ticker": "ACN",
+              "kind": "equity",
+              "role": "related",
+              "name": "Accenture PLC",
+              "hubKey": "acn"
+            }
+          ]
+        },
+        {
+          "slug": "perplexitys-new-decision-models-take-no-2-spot-on-hf-index-296cda22",
+          "title": "Perplexity's New Decision Models Take No 2 Spot on HF Index",
+          "publishedAt": "2026-10-16T19:53:57.388Z",
+          "eventTimeApprox": "2026-10-16T19:07:43.000Z",
+          "isFreshStory": false,
+          "tweetCount": 18,
+          "authorCount": 9,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:PPLX",
+              "kind": "private",
+              "role": "subject",
+              "name": "Perplexity AI",
+              "hubKey": "perplexity-ai"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111166029539758120/HUxeUKXXkAAi-Cm-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111166029539758120/HUxeUKXXkAAi-Cm-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "perplexitydevs",
+              "tweetUrl": "https://x.com/perplexitydevs/status/2111166029539758120"
+            }
+          }
+        },
+        {
+          "slug": "waymo-expands-to-canada-with-2028-toronto-robotaxi-launch-03d6224a",
+          "title": "Waymo Expands to Canada With 2028 Toronto Robotaxi Launch",
+          "publishedAt": "2026-10-16T12:54:22.248Z",
+          "eventTimeApprox": "2026-10-16T11:54:26.000Z",
+          "isFreshStory": false,
+          "tweetCount": 8,
+          "authorCount": 8,
+          "routingTopicKeys": [
+            "tech",
+            "ai"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "canada",
+              "name": "Canada"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            }
+          ]
+        },
+        {
+          "slug": "china-state-council-prioritizes-ai-application-to-raise-productive-capac-de21f3bc",
+          "title": "China State Council Prioritizes AI Application to Raise Productive Capacity",
+          "publishedAt": "2026-10-16T12:07:58.276Z",
+          "eventTimeApprox": "2026-10-16T11:41:42.500Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai",
+            "world"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "china",
+              "name": "China"
+            }
+          ]
+        },
+        {
+          "slug": "national-design-studio-and-cognition-launch-6-month-government-residency-3a310c09",
+          "title": "National Design Studio and Cognition Launch 6 Month Government Residency",
+          "publishedAt": "2026-10-16T12:54:03.160Z",
+          "eventTimeApprox": "2026-10-16T12:43:22.000Z",
+          "isFreshStory": false,
+          "tweetCount": 18,
+          "authorCount": 9,
+          "routingTopicKeys": [
+            "tech",
+            "ai"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:COGN",
+              "kind": "private",
+              "role": "subject",
+              "name": "Cognition",
+              "hubKey": "cognition"
+            }
+          ]
+        },
+        {
+          "slug": "tencent-hy-memory-20-beats-opus-5-on-4-ai-memory-benchmarks-cc143a77",
+          "title": "Tencent Hy Memory 2.0 Beats Opus 5 on 4 AI Memory Benchmarks",
+          "publishedAt": "2026-10-16T10:24:10.007Z",
+          "eventTimeApprox": "2026-10-16T09:49:53.000Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111031871018574077/HUvkI8VWUAAMzPI-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111031871018574077/HUvkI8VWUAAMzPI-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "adinayakup",
+              "tweetUrl": "https://x.com/AdinaYakup/status/2111031871018574077"
+            }
+          }
+        },
+        {
+          "slug": "openmoss-open-sources-5b-moss-image-model-for-layout-control-6ff69700",
+          "title": "Open_MOSS Open Sources 5B MOSS Image Model for Layout Control",
+          "publishedAt": "2026-10-16T17:37:31.506Z",
+          "eventTimeApprox": "2026-10-16T17:09:01.000Z",
+          "isFreshStory": false,
+          "tweetCount": 11,
+          "authorCount": 10,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111094509845332037/HUwboXhbYAAtZ7Z-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111094509845332037/HUwboXhbYAAtZ7Z-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "mosiai_official",
+              "tweetUrl": "https://x.com/MosiAI_Official/status/2111094509845332037"
+            }
+          }
+        },
+        {
+          "slug": "claudes-ai-writes-90percent-of-claude-code-and-more-than-doubles-prs-3844ff52",
+          "title": "Claude's AI Writes 90% of Claude Code and More Than Doubles PRs",
+          "publishedAt": "2026-10-16T19:40:05.016Z",
+          "eventTimeApprox": "2026-10-16T19:15:04.000Z",
+          "isFreshStory": false,
+          "tweetCount": 7,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            },
+            {
+              "ticker": "PVT:MNSH",
+              "kind": "private",
+              "role": "related",
+              "name": "Moonshot AI",
+              "hubKey": "moonshot-ai"
+            }
+          ]
+        },
+        {
+          "slug": "nvidia-and-mercedes-benz-expand-partnership-for-level-4-robolimousines-30448bcc",
+          "title": "Nvidia and Mercedes-Benz Expand Partnership for Level 4 Robolimousines",
+          "publishedAt": "2026-10-16T13:38:09.088Z",
+          "eventTimeApprox": "2026-10-16T08:05:21.000Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "tech",
+            "business",
+            "ai"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "automobile",
+              "name": "Automobile"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ]
+        },
+        {
+          "slug": "fastino-launches-training-api-for-nemotron-35-with-85percent-cost-cut-ov-f7576d03",
+          "title": "Fastino Launches Training API for Nemotron 3.5 with 85% Cost Cut Over Tinker",
+          "publishedAt": "2026-10-16T22:24:24.282Z",
+          "eventTimeApprox": "2026-10-16T06:43:11.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110752331705053564/HUrl_DCaAAA5OVB-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110752331705053564/HUrl_DCaAAA5OVB-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "george_onx",
+              "tweetUrl": "https://x.com/george_onx/status/2110752331705053564"
+            }
+          }
+        },
+        {
+          "slug": "perplexity-computer-now-rebuilds-apps-without-source-code-77571aa2",
+          "title": "Perplexity Computer Now Rebuilds Apps Without Source Code",
+          "publishedAt": "2026-10-16T16:52:43.777Z",
+          "eventTimeApprox": "2026-10-16T15:59:02.000Z",
+          "isFreshStory": false,
+          "tweetCount": 7,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:PPLX",
+              "kind": "private",
+              "role": "subject",
+              "name": "Perplexity AI",
+              "hubKey": "perplexity-ai"
+            },
+            {
+              "ticker": "FIG",
+              "kind": "equity",
+              "role": "related",
+              "name": "Figma, Inc.",
+              "hubKey": "fig"
+            }
+          ]
+        },
+        {
+          "slug": "opencode-makes-glm-53-flash-ai-model-free-e1a21e77",
+          "title": "OpenCode Makes GLM 5.3 Flash AI Model Free",
+          "publishedAt": "2026-10-16T10:38:39.710Z",
+          "eventTimeApprox": "2026-10-16T07:10:36.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-inference-platforms",
+              "name": "AI Inference"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "2513",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Z.AI",
+              "hubKey": "zhipu-ai"
+            }
+          ]
+        },
+        {
+          "slug": "hao-ai-labs-open-robot-agents-rival-gpt-and-claude-on-visual-input-c3bf2b7e",
+          "title": "Hao AI Lab's Open Robot Agents Rival GPT and Claude on Visual Input",
+          "publishedAt": "2026-10-16T04:08:13.882Z",
+          "eventTimeApprox": "2026-10-16T03:53:49.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:DPSK",
+              "kind": "private",
+              "role": "related",
+              "name": "DeepSeek",
+              "hubKey": "deepseek"
+            }
+          ]
+        },
+        {
+          "slug": "openai-adds-parallel-agents-to-gpt-6-astra-pro-in-chatgpt-11862b06",
+          "title": "OpenAI Adds Parallel Agents to GPT-6 Astra Pro in ChatGPT",
+          "publishedAt": "2026-10-16T21:08:02.673Z",
+          "eventTimeApprox": "2026-10-16T20:13:55.000Z",
+          "isFreshStory": false,
+          "tweetCount": 8,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111199863689879841/HUx9FgHX0AAJ_2h-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111199863689879841/HUx9FgHX0AAJ_2h-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "testingcatalog",
+              "tweetUrl": "https://x.com/testingcatalog/status/2111199863689879841"
+            }
+          }
+        },
+        {
+          "slug": "gemini-4-argon-sets-sota-record-on-wandr-benchmark-a16bc0b0",
+          "title": "Gemini 4 Argon Sets SoTA Record on WANDR Benchmark",
+          "publishedAt": "2026-10-16T19:08:27.661Z",
+          "eventTimeApprox": "2026-10-16T15:14:41.500Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            },
+            {
+              "ticker": "PVT:PPLX",
+              "kind": "private",
+              "role": "subject",
+              "name": "Perplexity AI",
+              "hubKey": "perplexity-ai"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2111110772747321460/HUwsDzfaAAEhrGS-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2111110772747321460/HUwsDzfaAAEhrGS-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "perplexity_ai",
+              "tweetUrl": "https://x.com/perplexity_ai/status/2111110772747321460"
+            }
+          }
+        },
+        {
+          "slug": "researchers-introduce-gracefulrl-to-train-llms-to-fail-gracefully-908361c7",
+          "title": "Researchers Introduce GracefulRL to Train LLMs to Fail Gracefully",
+          "publishedAt": "2026-10-16T17:38:07.350Z",
+          "eventTimeApprox": "2026-10-16T16:20:02.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayKey": "2026-10-15",
+      "stories": [
+        {
+          "slug": "kospi-hits-6-month-low-on-36b-foreign-selloff-9d470843",
+          "title": "KOSPI Hits 6 Month Low on $3.6B Foreign Selloff",
+          "publishedAt": "2026-10-15T14:59:02.539Z",
+          "eventTimeApprox": "2026-10-15T03:31:32.000Z",
+          "isFreshStory": false,
+          "tweetCount": 69,
+          "authorCount": 37,
+          "routingTopicKeys": [
+            "global-markets",
+            "tech",
+            "ai"
+          ],
+          "primaryRoutingTopic": "global-markets",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "south-korea",
+              "name": "South Korea"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "SKHY",
+              "kind": "equity",
+              "role": "related",
+              "name": "SK hynix Inc. American Depositary Shares",
+              "hubKey": "skhy"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110578530341793815/HUpHZKhXoAACYS--large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110578530341793815/HUpHZKhXoAACYS--small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "kobeissiletter",
+              "tweetUrl": "https://x.com/KobeissiLetter/status/2110578530341793815"
+            }
+          }
+        },
+        {
+          "slug": "anthropic-reports-168b-q3-revenue-as-growth-slows-from-145percent-to-45p-a19ee4ae",
+          "title": "Anthropic Reports $16.8B Q3 Revenue as Growth Slows From 145% to 45% Ahead of IPO",
+          "publishedAt": "2026-10-15T14:58:15.135Z",
+          "eventTimeApprox": "2026-10-14T23:36:18.500Z",
+          "isFreshStory": false,
+          "tweetCount": 299,
+          "authorCount": 130,
+          "routingTopicKeys": [
+            "earnings",
+            "ai",
+            "us-markets",
+            "startups",
+            "tech"
+          ],
+          "primaryRoutingTopic": "earnings",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "company-earnings",
+              "name": "Company Earnings"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            },
+            {
+              "ticker": "INTC",
+              "kind": "equity",
+              "role": "related",
+              "name": "Intel Corp",
+              "hubKey": "intc"
+            },
+            {
+              "ticker": "MRVL",
+              "kind": "equity",
+              "role": "related",
+              "name": "Marvell Technology, Inc. Common Stock",
+              "hubKey": "mrvl"
+            },
+            {
+              "ticker": "AMD",
+              "kind": "equity",
+              "role": "related",
+              "name": "Advanced Micro Devices",
+              "hubKey": "amd"
+            },
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110417089123250440/HUm1JyOa0AE_mYZ-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110417089123250440/HUm1JyOa0AE_mYZ-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "unusual_whales",
+              "tweetUrl": "https://x.com/unusual_whales/status/2110417089123250440"
+            }
+          }
+        },
+        {
+          "slug": "tsmc-shares-fall-64percent-in-ai-selloff-as-chipmaker-plans-new-3nm-tain-e6b56c76",
+          "title": "TSMC Shares Fall 6.4% in AI Selloff as Chipmaker Plans New 3nm Tainan Fab",
+          "publishedAt": "2026-10-15T20:39:17.501Z",
+          "eventTimeApprox": "2026-10-15T06:44:15.000Z",
+          "isFreshStory": false,
+          "tweetCount": 89,
+          "authorCount": 37,
+          "routingTopicKeys": [
+            "earnings",
+            "tech",
+            "ai"
+          ],
+          "primaryRoutingTopic": "earnings",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "company-earnings",
+              "name": "Company Earnings"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "TSM",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+              "hubKey": "tsm"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110792895192289678/HUsK880bgAAgryK-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110792895192289678/HUsK880bgAAgryK-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "fiscal_ai",
+              "tweetUrl": "https://x.com/Fiscal_ai/status/2110792895192289678"
+            }
+          }
+        },
+        {
+          "slug": "tsmc-demands-operational-control-of-musk-terafab-site-in-project-clash-e50d761a",
+          "title": "TSMC Demands Operational Control of Musk Terafab Site in Project Clash",
+          "publishedAt": "2026-10-15T10:41:21.176Z",
+          "eventTimeApprox": "2026-10-05T12:19:51.000Z",
+          "isFreshStory": false,
+          "tweetCount": 65,
+          "authorCount": 38,
+          "routingTopicKeys": [
+            "tech",
+            "business",
+            "ai"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "TSM",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+              "hubKey": "tsm"
+            },
+            {
+              "ticker": "SPCX",
+              "kind": "equity",
+              "role": "related",
+              "name": "Space Exploration Technologies Corp. Class A Common Stock",
+              "hubKey": "spcx"
+            },
+            {
+              "ticker": "INTC",
+              "kind": "equity",
+              "role": "related",
+              "name": "Intel Corp",
+              "hubKey": "intc"
+            },
+            {
+              "ticker": "TSLA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Tesla, Inc. Common Stock",
+              "hubKey": "tsla"
+            }
+          ]
+        },
+        {
+          "slug": "apple-chairman-confirms-ai-approval-for-china-launch-in-december-65ccb7d1",
+          "title": "Apple Chairman Confirms AI Approval for China Launch in December",
+          "publishedAt": "2026-10-15T09:24:13.970Z",
+          "eventTimeApprox": "2026-10-14T20:05:59.000Z",
+          "isFreshStory": false,
+          "tweetCount": 22,
+          "authorCount": 16,
+          "routingTopicKeys": [
+            "ai",
+            "tech",
+            "business"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "china",
+              "name": "China"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "AAPL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Apple Inc.",
+              "hubKey": "aapl"
+            },
+            {
+              "ticker": "BABA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+              "hubKey": "baba"
+            },
+            {
+              "ticker": "BIDU",
+              "kind": "equity",
+              "role": "related",
+              "name": "Baidu, Inc.",
+              "hubKey": "bidu"
+            },
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "related",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110568515757355157/HUo-1z-bYAAcY9a-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110568515757355157/HUo-1z-bYAAcY9a-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "maxforai",
+              "tweetUrl": "https://x.com/MaxForAI/status/2110568515757355157"
+            }
+          }
+        },
+        {
+          "slug": "meta-releases-816b-parameter-muse-ai-in-first-apple-deal-since-2017-b476a1ec",
+          "title": "Meta Releases 816B Parameter Muse AI in First Apple Deal Since 2017",
+          "publishedAt": "2026-10-15T17:26:17.924Z",
+          "eventTimeApprox": "2026-10-15T17:08:05.000Z",
+          "isFreshStory": false,
+          "tweetCount": 259,
+          "authorCount": 155,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "META",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Meta Platforms, Inc. Class A Common Stock",
+              "hubKey": "meta"
+            },
+            {
+              "ticker": "AAPL",
+              "kind": "equity",
+              "role": "related",
+              "name": "Apple Inc.",
+              "hubKey": "aapl"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110778025629347999/HUr9XldXIAAPeX3-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110778025629347999/HUr9XldXIAAPeX3-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "finkd",
+              "tweetUrl": "https://x.com/finkd/status/2110778025629347999"
+            }
+          }
+        },
+        {
+          "slug": "update-open-source-contributors-verify-openais-sub-n-log-n-integer-multi-e2e127c7",
+          "title": "UPDATE: Open Source Contributors Verify OpenAI's Sub-n log n Integer Multiplication Proof in Lean in Six Days",
+          "publishedAt": "2026-10-15T19:14:28.861Z",
+          "eventTimeApprox": "2026-10-07T17:25:50.500Z",
+          "isFreshStory": false,
+          "tweetCount": 348,
+          "authorCount": 184,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            },
+            {
+              "slug": "science",
+              "name": "Science"
+            },
+            {
+              "slug": "math",
+              "name": "Math"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ]
+        },
+        {
+          "slug": "openai-integer-multiplication-collaboration-lifts-bound-to-00017-earns-f-1d76d427",
+          "title": "OpenAI Integer Multiplication Collaboration Lifts Bound to 0.0017, Earns First Academic Citation",
+          "publishedAt": "2026-10-15T15:39:21.590Z",
+          "eventTimeApprox": "2026-10-07T17:23:07.500Z",
+          "isFreshStory": false,
+          "tweetCount": 338,
+          "authorCount": 180,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "science",
+              "name": "Science"
+            },
+            {
+              "slug": "math",
+              "name": "Math"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "prediction-markets",
+              "name": "Prediction Markets"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ]
+        },
+        {
+          "slug": "nvidia-launches-nemotron-35-super-vl-open-120b-agent-model-208adeac",
+          "title": "Nvidia Launches Nemotron 3.5 Super VL Open 120B Agent Model",
+          "publishedAt": "2026-10-15T15:48:11.745Z",
+          "eventTimeApprox": "2026-10-15T15:10:50.000Z",
+          "isFreshStory": false,
+          "tweetCount": 145,
+          "authorCount": 86,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110749840141652118/HUrjT9-bkAAEnQP-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110749840141652118/HUrjT9-bkAAEnQP-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "nvidiaai",
+              "tweetUrl": "https://x.com/NVIDIAAI/status/2110749840141652118"
+            }
+          }
+        },
+        {
+          "slug": "update-fake-ai-images-of-punched-trump-protester-spread-online-5bccfa94",
+          "title": "UPDATE: Fake AI Images of Punched Trump Protester Spread Online",
+          "publishedAt": "2026-10-15T20:10:28.873Z",
+          "eventTimeApprox": "2026-10-13T01:52:13.000Z",
+          "isFreshStory": false,
+          "tweetCount": 41,
+          "authorCount": 31,
+          "routingTopicKeys": [
+            "culture",
+            "ai"
+          ],
+          "primaryRoutingTopic": "culture",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            },
+            {
+              "slug": "politics",
+              "name": "Politics"
+            },
+            {
+              "slug": "us-elections",
+              "name": "US Elections"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2109816848510230804/HUeTIkwWYAEYb9V-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2109816848510230804/HUeTIkwWYAEYb9V-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video-s.twimg.com/amplify_video/2109816074090795009/vid/avc1/1920x1080/PG6ms5aYIc3sJf6X.mp4?tag=29",
+            "credit": {
+              "handle": "mtracey",
+              "tweetUrl": "https://x.com/mtracey/status/2109816848510230804"
+            }
+          }
+        },
+        {
+          "slug": "ftc-issues-50-page-subpoenas-to-openai-and-anthropic-over-ai-safety-2a175c57",
+          "title": "FTC Issues 50 Page Subpoenas to OpenAI and Anthropic over AI Safety",
+          "publishedAt": "2026-10-15T09:38:38.201Z",
+          "eventTimeApprox": "2026-10-15T09:04:48.000Z",
+          "isFreshStory": false,
+          "tweetCount": 17,
+          "authorCount": 14,
+          "routingTopicKeys": [
+            "ai",
+            "business",
+            "us-politics"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            },
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            }
+          ]
+        },
+        {
+          "slug": "update-voltas-5b-ai-debt-prices-at-114percent-yield-after-banks-limit-ri-fa3466db",
+          "title": "UPDATE: Volta's $5B AI Debt Prices at 11.4% Yield After Banks Limit Risk",
+          "publishedAt": "2026-10-16T01:55:22.640Z",
+          "eventTimeApprox": "2026-10-13T03:07:31.000Z",
+          "isFreshStory": false,
+          "tweetCount": 11,
+          "authorCount": 9,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "JPM",
+              "kind": "equity",
+              "role": "related",
+              "name": "JPMorgan Chase & Co.",
+              "hubKey": "jpm"
+            },
+            {
+              "ticker": "GS",
+              "kind": "equity",
+              "role": "related",
+              "name": "Goldman Sachs Group Inc.",
+              "hubKey": "gs"
+            },
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "related",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            },
+            {
+              "ticker": "CRWV",
+              "kind": "equity",
+              "role": "related",
+              "name": "CoreWeave, Inc. Class A Common Stock",
+              "hubKey": "crwv"
+            }
+          ]
+        },
+        {
+          "slug": "update-black-forest-labs-adds-4k-video-and-cuts-flux-upscale-costs-by-50-aa5bab28",
+          "title": "UPDATE: Black Forest Labs Adds 4K Video and Cuts FLUX Upscale Costs by 50%",
+          "publishedAt": "2026-10-15T22:39:56.160Z",
+          "eventTimeApprox": "2026-10-15T15:51:24.000Z",
+          "isFreshStory": false,
+          "tweetCount": 38,
+          "authorCount": 27,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110751201105256925/3C4Dr5S6AmTzDM4Q-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110751201105256925/3C4Dr5S6AmTzDM4Q-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video-s.twimg.com/amplify_video/2110739723388153857/vid/avc1/2400x1260/pI-oG0LetK4auYwn.mp4?tag=29",
+            "credit": {
+              "handle": "bfl_ai",
+              "tweetUrl": "https://x.com/bfl_ai/status/2110751201105256925"
+            }
+          }
+        },
+        {
+          "slug": "update-anthropic-grants-6-metr-researchers-employee-level-access-for-saf-a140ca6a",
+          "title": "UPDATE: Anthropic Grants 6 METR Researchers Employee Level Access for Safety Audit",
+          "publishedAt": "2026-10-15T18:10:08.510Z",
+          "eventTimeApprox": "2026-10-15T08:41:56.000Z",
+          "isFreshStory": false,
+          "tweetCount": 27,
+          "authorCount": 20,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110786916966887802/HUsFg52b0AAOX4j-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110786916966887802/HUsFg52b0AAOX4j-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "andrewcurran_",
+              "tweetUrl": "https://x.com/AndrewCurran_/status/2110786916966887802"
+            }
+          }
+        },
+        {
+          "slug": "google-willow-chip-slashes-quantum-resource-costs-40x-4b92469f",
+          "title": "Google Willow Chip Slashes Quantum Resource Costs 40x",
+          "publishedAt": "2026-10-15T18:24:24.562Z",
+          "eventTimeApprox": "2026-10-15T18:08:49.000Z",
+          "isFreshStory": false,
+          "tweetCount": 41,
+          "authorCount": 34,
+          "routingTopicKeys": [
+            "tech",
+            "ai"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "science",
+              "name": "Science"
+            },
+            {
+              "slug": "physics",
+              "name": "Physics"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110796415589032431/HUsNoQ-awAAOTd7-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110796415589032431/HUsNoQ-awAAOTd7-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "stocksavvyshay",
+              "tweetUrl": "https://x.com/StockSavvyShay/status/2110796415589032431"
+            }
+          }
+        },
+        {
+          "slug": "update-prime-intellect-launches-moondream-ai-on-openrouter-with-60-infer-efb82ac3",
+          "title": "UPDATE: Prime Intellect Launches Moondream AI on OpenRouter with 60 Inferences Per Second",
+          "publishedAt": "2026-10-15T23:39:47.911Z",
+          "eventTimeApprox": "2026-10-13T20:06:33.000Z",
+          "isFreshStory": false,
+          "tweetCount": 29,
+          "authorCount": 15,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-inference-platforms",
+              "name": "AI Inference"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "mergers-acquisitions",
+              "name": "Mergers & Acquisitions"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110874118694527173/HUtU0jnasAAqNDN-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110874118694527173/HUtU0jnasAAqNDN-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "openrouter",
+              "tweetUrl": "https://x.com/OpenRouter/status/2110874118694527173"
+            }
+          }
+        },
+        {
+          "slug": "accenture-caps-central-claude-funding-at-29-per-person-monthly-91611aa4",
+          "title": "Accenture Caps Central Claude Funding at $29 per Person Monthly",
+          "publishedAt": "2026-10-15T20:05:14.055Z",
+          "eventTimeApprox": "2026-10-15T18:51:14.000Z",
+          "isFreshStory": false,
+          "tweetCount": 17,
+          "authorCount": 17,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "ACN",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Accenture PLC",
+              "hubKey": "acn"
+            },
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "related",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            }
+          ]
+        },
+        {
+          "slug": "deepseek-refunds-7-day-api-costs-after-5-hour-system-crash-247a53ef",
+          "title": "DeepSeek Refunds 7 Day API Costs After 5 Hour System Crash",
+          "publishedAt": "2026-10-15T09:54:34.031Z",
+          "eventTimeApprox": "2026-10-15T04:37:27.000Z",
+          "isFreshStory": false,
+          "tweetCount": 16,
+          "authorCount": 9,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-inference-platforms",
+              "name": "AI Inference"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:DPSK",
+              "kind": "private",
+              "role": "subject",
+              "name": "DeepSeek",
+              "hubKey": "deepseek"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110582625429831994/HUpLnyRWwAEoSOi-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110582625429831994/HUpLnyRWwAEoSOi-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "teortaxestex",
+              "tweetUrl": "https://x.com/teortaxesTex/status/2110582625429831994"
+            }
+          }
+        },
+        {
+          "slug": "nvidia-and-spacex-design-star-mind-servers-for-space-data-centers-ae446331",
+          "title": "Nvidia and SpaceX Design Star Mind Servers for Space Data Centers",
+          "publishedAt": "2026-10-15T18:25:09.033Z",
+          "eventTimeApprox": "2026-10-15T16:28:54.500Z",
+          "isFreshStory": false,
+          "tweetCount": 12,
+          "authorCount": 10,
+          "routingTopicKeys": [
+            "ai",
+            "tech",
+            "business"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            },
+            {
+              "ticker": "SPCX",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Space Exploration Technologies Corp. Class A Common Stock",
+              "hubKey": "spcx"
+            }
+          ]
+        },
+        {
+          "slug": "coreweave-akamai-and-crusoe-to-offer-perplexity-space-ai-sandbox-9f5c1b74",
+          "title": "Coreweave Akamai and Crusoe to Offer Perplexity SPACE AI Sandbox",
+          "publishedAt": "2026-10-15T20:25:42.978Z",
+          "eventTimeApprox": "2026-10-15T17:26:16.000Z",
+          "isFreshStory": false,
+          "tweetCount": 27,
+          "authorCount": 16,
+          "routingTopicKeys": [
+            "ai",
+            "tech",
+            "cybersecurity",
+            "business"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-inference-platforms",
+              "name": "AI Inference"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:PPLX",
+              "kind": "private",
+              "role": "subject",
+              "name": "Perplexity AI",
+              "hubKey": "perplexity-ai"
+            },
+            {
+              "ticker": "CRWV",
+              "kind": "equity",
+              "role": "related",
+              "name": "CoreWeave, Inc. Class A Common Stock",
+              "hubKey": "crwv"
+            },
+            {
+              "ticker": "AKAM",
+              "kind": "equity",
+              "role": "related",
+              "name": "Akamai Technologies Inc",
+              "hubKey": "akam"
+            },
+            {
+              "ticker": "PVT:CRUS",
+              "kind": "private",
+              "role": "related",
+              "name": "Crusoe",
+              "hubKey": "crusoe"
+            }
+          ]
+        },
+        {
+          "slug": "elon-musk-proposes-amazon-rival-after-grok-shopping-block-f7b0483a",
+          "title": "Elon Musk Proposes Amazon Rival After Grok Shopping Block",
+          "publishedAt": "2026-10-15T14:38:55.539Z",
+          "eventTimeApprox": "2026-10-15T13:13:55.000Z",
+          "isFreshStory": false,
+          "tweetCount": 10,
+          "authorCount": 10,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "SPCX",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Space Exploration Technologies Corp. Class A Common Stock",
+              "hubKey": "spcx"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110737038471225593/HUrYJohW0AAfZ99-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110737038471225593/HUrYJohW0AAfZ99-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video.twimg.com/amplify_video/2110737006883913728/vid/avc1/1080x1920/idEkoMjJYTtmBmGJ.mp4?tag=16",
+            "credit": {
+              "handle": "yahoofinance",
+              "tweetUrl": "https://x.com/YahooFinance/status/2110737038471225593"
+            }
+          }
+        },
+        {
+          "slug": "germany-funds-nvidia-ai-project-with-hundreds-of-millions-of-euros-752ba677",
+          "title": "Germany Funds Nvidia AI Project With Hundreds of Millions of Euros",
+          "publishedAt": "2026-10-15T15:12:39.599Z",
+          "eventTimeApprox": "2026-10-15T14:51:28.000Z",
+          "isFreshStory": false,
+          "tweetCount": 11,
+          "authorCount": 7,
+          "routingTopicKeys": [
+            "ai",
+            "business",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "europe",
+              "name": "Europe"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ]
+        },
+        {
+          "slug": "microsoft-mai-trains-3t-parameter-model-entirely-in-house-9c748746",
+          "title": "Microsoft MAI Trains 3T Parameter Model Entirely In House",
+          "publishedAt": "2026-10-15T17:09:37.752Z",
+          "eventTimeApprox": "2026-10-15T16:16:00.500Z",
+          "isFreshStory": false,
+          "tweetCount": 22,
+          "authorCount": 19,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "MSFT",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Microsoft Corp",
+              "hubKey": "msft"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110766656750575855/HUry5krbkAAvZ0Q-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110766656750575855/HUry5krbkAAvZ0Q-small.jpg",
+            "mediaType": "animated_gif",
+            "videoUrl": "https://video-s.twimg.com/tweet_video/HUry5krbkAAvZ0Q.mp4",
+            "credit": {
+              "handle": "mustafasuleyman",
+              "tweetUrl": "https://x.com/mustafasuleyman/status/2110766656750575855"
+            }
+          }
+        },
+        {
+          "slug": "black-forest-labs-opens-56b-parameter-image-model-for-consumer-gpus-9b7c633a",
+          "title": "Black Forest Labs Opens 5.6B Parameter Image Model for Consumer GPUs",
+          "publishedAt": "2026-10-15T15:40:06.826Z",
+          "eventTimeApprox": "2026-10-15T15:21:07.000Z",
+          "isFreshStory": false,
+          "tweetCount": 29,
+          "authorCount": 23,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110751201105256925/3C4Dr5S6AmTzDM4Q-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110751201105256925/3C4Dr5S6AmTzDM4Q-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video-s.twimg.com/amplify_video/2110739723388153857/vid/avc1/2400x1260/pI-oG0LetK4auYwn.mp4?tag=29",
+            "credit": {
+              "handle": "bfl_ai",
+              "tweetUrl": "https://x.com/bfl_ai/status/2110751201105256925"
+            }
+          }
+        },
+        {
+          "slug": "prismml-releases-bonsai-2-local-ai-models-starting-at-043-gb-71b9404c",
+          "title": "PrismML Releases Bonsai 2 Local AI Models Starting at 0.43 GB",
+          "publishedAt": "2026-10-15T20:25:23.216Z",
+          "eventTimeApprox": "2026-10-15T20:08:14.500Z",
+          "isFreshStory": false,
+          "tweetCount": 33,
+          "authorCount": 17,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110823968831832189/TsrHJJVX60nrsDsw-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110823968831832189/TsrHJJVX60nrsDsw-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video-s.twimg.com/amplify_video/2110789684255408128/vid/avc1/1920x1080/1u6TXTR-ae2aNOFf.mp4?tag=29",
+            "credit": {
+              "handle": "prismml",
+              "tweetUrl": "https://x.com/PrismML/status/2110823968831832189"
+            }
+          }
+        },
+        {
+          "slug": "liquid-ais-d1-ultra-tops-decision-index-with-no-output-costs-86806f11",
+          "title": "Liquid AI's d1-ultra Tops Decision Index with No Output Costs",
+          "publishedAt": "2026-10-15T18:02:52.505Z",
+          "eventTimeApprox": "2026-10-15T17:26:43.000Z",
+          "isFreshStory": false,
+          "tweetCount": 30,
+          "authorCount": 16,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110784448132489376/HUsDKi0WgAAbRBy-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110784448132489376/HUsDKi0WgAAbRBy-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "mikelecheve",
+              "tweetUrl": "https://x.com/MikelEcheve/status/2110784448132489376"
+            }
+          }
+        },
+        {
+          "slug": "openai-warns-staff-of-honeypot-spies-targeting-ai-secrets-37de69a7",
+          "title": "OpenAI Warns Staff of Honeypot Spies Targeting AI Secrets",
+          "publishedAt": "2026-10-15T22:24:08.218Z",
+          "eventTimeApprox": "2026-10-15T18:26:30.000Z",
+          "isFreshStory": false,
+          "tweetCount": 9,
+          "authorCount": 8,
+          "routingTopicKeys": [
+            "ai",
+            "cybersecurity"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "cybersecurity",
+              "name": "Cybersecurity"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ]
+        },
+        {
+          "slug": "openai-adds-6-new-languages-in-gpt-live-11-voice-update-51eb1353",
+          "title": "OpenAI Adds 6 New Languages in GPT-Live-1.1 Voice Update",
+          "publishedAt": "2026-10-15T18:39:12.821Z",
+          "eventTimeApprox": "2026-10-15T18:22:49.500Z",
+          "isFreshStory": false,
+          "tweetCount": 16,
+          "authorCount": 16,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ]
+        },
+        {
+          "slug": "altimeter-exits-all-coreweave-stakes-for-3-year-low-in-ai-exposure-fee053d7",
+          "title": "Altimeter Exits All CoreWeave Stakes for 3 Year Low in AI Exposure",
+          "publishedAt": "2026-10-15T20:24:36.539Z",
+          "eventTimeApprox": "2026-10-15T20:00:20.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "us-markets",
+            "ai"
+          ],
+          "primaryRoutingTopic": "us-markets",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "vc",
+              "name": "VC"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "CRWV",
+              "kind": "equity",
+              "role": "subject",
+              "name": "CoreWeave, Inc. Class A Common Stock",
+              "hubKey": "crwv"
+            },
+            {
+              "ticker": "META",
+              "kind": "equity",
+              "role": "related",
+              "name": "Meta Platforms, Inc. Class A Common Stock",
+              "hubKey": "meta"
+            },
+            {
+              "ticker": "TSLA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Tesla, Inc. Common Stock",
+              "hubKey": "tsla"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110823105258217829/2DM1v5oSTv-aKEKc-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110823105258217829/2DM1v5oSTv-aKEKc-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video-s.twimg.com/amplify_video/2110821442925301760/vid/avc1/1920x1080/Qy8DrEtMI0w-c2Mw.mp4?tag=29",
+            "credit": {
+              "handle": "financelancelot",
+              "tweetUrl": "https://x.com/FinanceLancelot/status/2110823105258217829"
+            }
+          }
+        },
+        {
+          "slug": "taiwan-president-urges-micron-to-avert-strike-at-primary-hbm-hub-6ad045dc",
+          "title": "Taiwan President Urges Micron to Avert Strike at Primary HBM Hub",
+          "publishedAt": "2026-10-15T12:39:28.646Z",
+          "eventTimeApprox": "2026-10-15T10:05:14.500Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "tech",
+            "business",
+            "war",
+            "ai"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "MU",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Micron Technology, Inc.",
+              "hubKey": "mu"
+            }
+          ]
+        },
+        {
+          "slug": "krea-ai-launches-krea-3-beta-enabling-2k-image-edits-under-8-seconds-5c5d6424",
+          "title": "Krea AI Launches Krea 3 Beta Enabling 2K Image Edits Under 8 Seconds",
+          "publishedAt": "2026-10-15T16:09:31.666Z",
+          "eventTimeApprox": "2026-10-15T15:50:30.000Z",
+          "isFreshStory": false,
+          "tweetCount": 32,
+          "authorCount": 17,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110760045214625863/HUrnusuawAAsSXe-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110760045214625863/HUrnusuawAAsSXe-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "krea_ai",
+              "tweetUrl": "https://x.com/krea_ai/status/2110760045214625863"
+            }
+          }
+        },
+        {
+          "slug": "bytedance-to-become-2nd-large-customer-for-mediatek-ai-chips-467b50f7",
+          "title": "ByteDance to Become 2nd Large Customer for MediaTek AI Chips",
+          "publishedAt": "2026-10-15T05:38:45.742Z",
+          "eventTimeApprox": "2026-10-15T03:45:58.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "tech",
+            "ai",
+            "business"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:BYTE",
+              "kind": "private",
+              "role": "subject",
+              "name": "ByteDance",
+              "hubKey": "bytedance"
+            }
+          ]
+        },
+        {
+          "slug": "stepfun-opens-600b-parameter-step-5-preview-as-open-weights-flagship-fcb3f690",
+          "title": "StepFun Opens 600B Parameter Step 5 Preview as Open Weights Flagship",
+          "publishedAt": "2026-10-15T13:24:44.759Z",
+          "eventTimeApprox": "2026-10-15T13:01:13.000Z",
+          "isFreshStory": false,
+          "tweetCount": 20,
+          "authorCount": 13,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-inference-platforms",
+              "name": "AI Inference"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110689169848647834/HUqsXOyWIAAQKmK-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110689169848647834/HUqsXOyWIAAQKmK-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "adinayakup",
+              "tweetUrl": "https://x.com/AdinaYakup/status/2110689169848647834"
+            }
+          }
+        },
+        {
+          "slug": "google-signs-cnn-to-400-publisher-ai-news-pilot-b37b3aa9",
+          "title": "Google Signs CNN to 400 Publisher AI News Pilot",
+          "publishedAt": "2026-10-15T19:23:39.134Z",
+          "eventTimeApprox": "2026-10-15T17:41:37.500Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai",
+            "business",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            },
+            {
+              "ticker": "WBD",
+              "kind": "equity",
+              "role": "related",
+              "name": "Warner Bros. Discovery, Inc. Series A Common Stock",
+              "hubKey": "wbd"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110772064214827410/HUr3_qlXAAAWYPb-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110772064214827410/HUr3_qlXAAAWYPb-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "maxwelltani",
+              "tweetUrl": "https://x.com/maxwelltani/status/2110772064214827410"
+            }
+          }
+        },
+        {
+          "slug": "cursor-probes-leak-of-confidential-client-data-to-spacex-ai-b2b256ce",
+          "title": "Cursor Probes Leak of Confidential Client Data to SpaceX AI",
+          "publishedAt": "2026-10-15T18:09:18.590Z",
+          "eventTimeApprox": "2026-10-15T15:00:59.000Z",
+          "isFreshStory": false,
+          "tweetCount": 9,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai",
+            "cybersecurity",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "cybersecurity",
+              "name": "Cybersecurity"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:CRSR",
+              "kind": "private",
+              "role": "subject",
+              "name": "Cursor",
+              "hubKey": "cursor"
+            },
+            {
+              "ticker": "SPCX",
+              "kind": "equity",
+              "role": "related",
+              "name": "Space Exploration Technologies Corp. Class A Common Stock",
+              "hubKey": "spcx"
+            }
+          ]
+        },
+        {
+          "slug": "nscale-plans-35b-ipo-despite-6-month-flagship-center-delay-053cf971",
+          "title": "Nscale Plans $35B IPO Despite 6 Month Flagship Center Delay",
+          "publishedAt": "2026-10-16T00:15:38.677Z",
+          "eventTimeApprox": "2026-10-15T22:59:23.000Z",
+          "isFreshStory": false,
+          "tweetCount": 9,
+          "authorCount": 7,
+          "routingTopicKeys": [
+            "ai",
+            "tech",
+            "startups",
+            "us-markets",
+            "business"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            }
+          ]
+        },
+        {
+          "slug": "neocloud-stocks-sink-on-gartners-80percent-failure-warning-67fdc2ff",
+          "title": "Neocloud Stocks Sink on Gartner's 80% Failure Warning",
+          "publishedAt": "2026-10-15T16:55:51.905Z",
+          "eventTimeApprox": "2026-10-15T12:56:17.500Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "us-markets",
+            "ai"
+          ],
+          "primaryRoutingTopic": "us-markets",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "IREN",
+              "kind": "equity",
+              "role": "subject",
+              "name": "IREN Limited Ordinary Shares",
+              "hubKey": "iren"
+            },
+            {
+              "ticker": "NBIS",
+              "kind": "equity",
+              "role": "related",
+              "name": "Nebius Group N.V. Class A Ordinary Shares",
+              "hubKey": "nbis"
+            },
+            {
+              "ticker": "CRWV",
+              "kind": "equity",
+              "role": "related",
+              "name": "CoreWeave, Inc. Class A Common Stock",
+              "hubKey": "crwv"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110771551582998642/HUr3il2boAAlQRj-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110771551582998642/HUr3il2boAAlQRj-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "vestexchange",
+              "tweetUrl": "https://x.com/VestExchange/status/2110771551582998642"
+            }
+          }
+        },
+        {
+          "slug": "nvidia-ceo-urges-us-china-cooperation-on-ai-safety-ebd2428a",
+          "title": "Nvidia CEO Urges US China Cooperation on AI Safety",
+          "publishedAt": "2026-10-15T14:22:21.993Z",
+          "eventTimeApprox": "2026-10-15T12:50:54.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai",
+            "geopolitics",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ]
+        },
+        {
+          "slug": "google-gemini-4-argon-hits-975percent-to-become-second-lab-to-top-arc-ag-4fbef265",
+          "title": "Google Gemini 4 Argon Hits 97.5% to Become Second Lab to Top ARC-AGI-3",
+          "publishedAt": "2026-10-15T17:11:11.367Z",
+          "eventTimeApprox": "2026-10-15T16:33:52.000Z",
+          "isFreshStory": false,
+          "tweetCount": 9,
+          "authorCount": 9,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110768288523251762/HUr0knyXsAANlKB-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110768288523251762/HUr0knyXsAANlKB-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "arcprize",
+              "tweetUrl": "https://x.com/arcprize/status/2110768288523251762"
+            }
+          }
+        },
+        {
+          "slug": "amazon-launches-bee-ai-wearables-starting-at-75-to-summarize-conversatio-40bae5d8",
+          "title": "Amazon Launches Bee AI Wearables Starting at $75 to Summarize Conversations",
+          "publishedAt": "2026-10-15T12:24:12.380Z",
+          "eventTimeApprox": "2026-10-15T12:10:42.000Z",
+          "isFreshStory": false,
+          "tweetCount": 14,
+          "authorCount": 14,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "wearables",
+              "name": "Wearables"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "AMZN",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Amazon.Com Inc",
+              "hubKey": "amzn"
+            }
+          ]
+        },
+        {
+          "slug": "pwnescapes-93-cvss-kvm-flaw-gives-vm-guests-root-host-control-d1e65905",
+          "title": "PwnEscape's 9.3 CVSS KVM Flaw Gives VM Guests Root Host Control",
+          "publishedAt": "2026-10-15T18:39:19.818Z",
+          "eventTimeApprox": "2026-10-15T17:48:19.000Z",
+          "isFreshStory": false,
+          "tweetCount": 11,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "cybersecurity",
+            "ai"
+          ],
+          "primaryRoutingTopic": "cybersecurity",
+          "topicTags": [
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "cybersecurity",
+              "name": "Cybersecurity"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ]
+        },
+        {
+          "slug": "gpt-6-astra-hits-98percent-on-physics-test-by-correcting-experts-2122d325",
+          "title": "GPT-6 Astra Hits 98% on Physics Test by Correcting Experts",
+          "publishedAt": "2026-10-15T15:55:37.854Z",
+          "eventTimeApprox": "2026-10-14T23:29:39.500Z",
+          "isFreshStory": false,
+          "tweetCount": 10,
+          "authorCount": 10,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110596026314740206/HUpKDoaXgAAZ0PY-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110596026314740206/HUpKDoaXgAAZ0PY-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "kimmonismus",
+              "tweetUrl": "https://x.com/kimmonismus/status/2110596026314740206"
+            }
+          }
+        },
+        {
+          "slug": "ai-model-steals-24-years-of-hospital-data-in-government-site-breach-7361e470",
+          "title": "AI Model Steals 24 Years of Hospital Data in Government Site Breach",
+          "publishedAt": "2026-10-16T02:53:18.032Z",
+          "eventTimeApprox": "2026-10-16T02:14:53.000Z",
+          "isFreshStory": false,
+          "tweetCount": 7,
+          "authorCount": 7,
+          "routingTopicKeys": [
+            "cybersecurity",
+            "ai"
+          ],
+          "primaryRoutingTopic": "cybersecurity",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "cybersecurity",
+              "name": "Cybersecurity"
+            }
+          ]
+        },
+        {
+          "slug": "brave-launches-end-to-end-encrypted-leo-ai-chats-via-near-ai-cloud-bcdfefef",
+          "title": "Brave Launches End to End Encrypted Leo AI Chats via NEAR AI Cloud",
+          "publishedAt": "2026-10-15T18:09:03.300Z",
+          "eventTimeApprox": "2026-10-15T17:35:30.500Z",
+          "isFreshStory": false,
+          "tweetCount": 9,
+          "authorCount": 7,
+          "routingTopicKeys": [
+            "ai",
+            "tech",
+            "crypto"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-inference-platforms",
+              "name": "AI Inference"
+            }
+          ]
+        },
+        {
+          "slug": "ai21-beats-claude-opus-55-at-33x-lower-cost-with-nemotron-35-157dc711",
+          "title": "AI21 Beats Claude Opus 5.5 at 33x Lower Cost with Nemotron 3.5",
+          "publishedAt": "2026-10-15T15:39:45.363Z",
+          "eventTimeApprox": "2026-10-15T15:12:00.500Z",
+          "isFreshStory": false,
+          "tweetCount": 17,
+          "authorCount": 8,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            },
+            {
+              "ticker": "PVT:DEEL",
+              "kind": "private",
+              "role": "related",
+              "name": "Deel",
+              "hubKey": "deel"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110747752523038916/HUq75A6XsAAk_WR-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110747752523038916/HUq75A6XsAAk_WR-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "ai21labs",
+              "tweetUrl": "https://x.com/AI21Labs/status/2110747752523038916"
+            }
+          }
+        },
+        {
+          "slug": "fields-medalist-jacob-tsimerman-forgoes-openai-role-to-lead-new-maisi-8d5062bb",
+          "title": "Fields Medalist Jacob Tsimerman Forgoes OpenAI Role to Lead New MAISI",
+          "publishedAt": "2026-10-15T20:25:20.471Z",
+          "eventTimeApprox": "2026-10-15T19:37:14.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ]
+        },
+        {
+          "slug": "simons-foundation-launches-15m-ai-math-initiative-with-openai-and-anthro-b58d5353",
+          "title": "Simons Foundation Launches $15M AI Math Initiative With OpenAI and Anthropic",
+          "publishedAt": "2026-10-15T14:53:30.168Z",
+          "eventTimeApprox": "2026-10-15T14:35:29.000Z",
+          "isFreshStory": false,
+          "tweetCount": 9,
+          "authorCount": 9,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            },
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "related",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            }
+          ]
+        },
+        {
+          "slug": "iambic-therapeutics-shares-jump-18percent-on-debut-after-150m-ipo-b2dcb4bb",
+          "title": "Iambic Therapeutics Shares Jump 18% on Debut After $150M IPO",
+          "publishedAt": "2026-10-15T21:24:16.450Z",
+          "eventTimeApprox": "2026-10-15T21:01:54.000Z",
+          "isFreshStory": false,
+          "tweetCount": 3,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "us-markets",
+            "startups",
+            "ai"
+          ],
+          "primaryRoutingTopic": "us-markets",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "science",
+              "name": "Science"
+            },
+            {
+              "slug": "pharma",
+              "name": "Pharma"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110838602485604736/HUs0hdAXQAIqRvR-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110838602485604736/HUs0hdAXQAIqRvR-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "alphaspace",
+              "tweetUrl": "https://x.com/alphaspace/status/2110838602485604736"
+            }
+          }
+        },
+        {
+          "slug": "update-rishi-sunak-urges-middle-powers-to-become-poisonous-shrimp-for-ec-7f3a4384",
+          "title": "UPDATE: Rishi Sunak Urges Middle Powers to Become Poisonous Shrimp for Economic Leverage",
+          "publishedAt": "2026-10-15T06:23:54.339Z",
+          "eventTimeApprox": "2026-10-13T08:05:36.000Z",
+          "isFreshStory": false,
+          "tweetCount": 22,
+          "authorCount": 7,
+          "routingTopicKeys": [
+            "geopolitics",
+            "ai"
+          ],
+          "primaryRoutingTopic": "geopolitics",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-policy-regulation",
+              "name": "AI Policy"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "india",
+              "name": "India"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110610261857988931/HUpk2Q8WoAAJFer-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110610261857988931/HUpk2Q8WoAAJFer-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video-s.twimg.com/amplify_video/2110610188851871744/vid/avc1/1080x1920/GEsonaFrB6zn1Z2E.mp4?tag=16",
+            "credit": {
+              "handle": "business",
+              "tweetUrl": "https://x.com/business/status/2110610261857988931"
+            }
+          }
+        },
+        {
+          "slug": "volvo-taps-nvidia-for-door-to-door-driving-by-2030-59398c34",
+          "title": "Volvo Taps Nvidia for Door to Door Driving by 2030",
+          "publishedAt": "2026-10-15T18:39:49.930Z",
+          "eventTimeApprox": "2026-10-15T18:13:23.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "tech",
+            "ai",
+            "business"
+          ],
+          "primaryRoutingTopic": "tech",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "automobile",
+              "name": "Automobile"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110799078497960084/HUsQe6aXEAAAZuT-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110799078497960084/HUsQe6aXEAAAZuT-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "nvidia",
+              "tweetUrl": "https://x.com/nvidia/status/2110799078497960084"
+            }
+          }
+        },
+        {
+          "slug": "cologne-police-seize-robot-used-in-first-humanoid-sexual-assault-cb3a4b95",
+          "title": "Cologne Police Seize Robot Used in First Humanoid Sexual Assault",
+          "publishedAt": "2026-10-15T17:09:56.561Z",
+          "eventTimeApprox": "2026-10-13T03:51:03.000Z",
+          "isFreshStory": false,
+          "tweetCount": 8,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "world",
+            "ai"
+          ],
+          "primaryRoutingTopic": "world",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "tech",
+              "name": "Tech"
+            },
+            {
+              "slug": "robotics",
+              "name": "Robotics"
+            },
+            {
+              "slug": "world",
+              "name": "World"
+            },
+            {
+              "slug": "europe",
+              "name": "Europe"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2109716530338435571/HUc3_4uXoAAe7UG-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2109716530338435571/HUc3_4uXoAAe7UG-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "nypost",
+              "tweetUrl": "https://x.com/nypost/status/2109716530338435571"
+            }
+          }
+        },
+        {
+          "slug": "leading-the-future-ai-super-pac-raises-zero-new-donations-in-third-quart-57297c13",
+          "title": "Leading the Future AI Super PAC Raises Zero New Donations in Third Quarter",
+          "publishedAt": "2026-10-15T15:14:01.014Z",
+          "eventTimeApprox": "2026-10-15T13:34:40.500Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "us-politics",
+            "ai"
+          ],
+          "primaryRoutingTopic": "us-politics",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "politics",
+              "name": "Politics"
+            },
+            {
+              "slug": "us-elections",
+              "name": "US Elections"
+            }
+          ]
+        },
+        {
+          "slug": "openrouter-launches-armor-to-block-unauthorized-ai-agent-tool-calls-1589e52b",
+          "title": "OpenRouter Launches Armor to Block Unauthorized AI Agent Tool Calls",
+          "publishedAt": "2026-10-15T23:10:09.251Z",
+          "eventTimeApprox": "2026-10-15T21:41:08.000Z",
+          "isFreshStory": false,
+          "tweetCount": 8,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai",
+            "tech",
+            "cybersecurity"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPRT",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenRouter",
+              "hubKey": "openrouter"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110838266920591515/HUs0N2YbIAAX2IG-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110838266920591515/HUs0N2YbIAAX2IG-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "openrouter",
+              "tweetUrl": "https://x.com/OpenRouter/status/2110838266920591515"
+            }
+          }
+        },
+        {
+          "slug": "gray-swan-launches-largest-ai-red-team-event-with-300000-prize-121122ad",
+          "title": "Gray Swan Launches Largest AI Red Team Event With $300,000 Prize",
+          "publishedAt": "2026-10-15T21:00:03.622Z",
+          "eventTimeApprox": "2026-10-15T17:55:32.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai",
+            "cybersecurity"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "related",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            },
+            {
+              "ticker": "META",
+              "kind": "equity",
+              "role": "related",
+              "name": "Meta Platforms, Inc. Class A Common Stock",
+              "hubKey": "meta"
+            },
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "related",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            }
+          ]
+        },
+        {
+          "slug": "googles-synthid-wins-time-best-invention-honor-for-180b-assets-e9f2238a",
+          "title": "Google's SynthID Wins TIME Best Invention Honor for 180B Assets",
+          "publishedAt": "2026-10-15T14:38:39.230Z",
+          "eventTimeApprox": "2026-10-15T13:50:56.500Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            }
+          ]
+        },
+        {
+          "slug": "self-labs-launches-agent-vault-for-ai-agent-logins-and-payments-cb03372d",
+          "title": "Self Labs Launches Agent Vault for AI Agent Logins and Payments",
+          "publishedAt": "2026-10-15T17:52:52.861Z",
+          "eventTimeApprox": "2026-10-15T16:51:00.000Z",
+          "isFreshStory": false,
+          "tweetCount": 7,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ]
+        },
+        {
+          "slug": "cern-and-mistral-build-large-physics-model-from-billions-of-collisions-882bee3d",
+          "title": "CERN and Mistral Build Large Physics Model From Billions of Collisions",
+          "publishedAt": "2026-10-15T14:22:57.550Z",
+          "eventTimeApprox": "2026-10-15T13:45:22.000Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:MIST",
+              "kind": "private",
+              "role": "subject",
+              "name": "Mistral AI",
+              "hubKey": "mistral-ai"
+            }
+          ]
+        },
+        {
+          "slug": "cognition-launches-ai-sre-to-automate-thousands-of-daily-production-aler-20c524cf",
+          "title": "Cognition Launches AI SRE to Automate Thousands of Daily Production Alerts",
+          "publishedAt": "2026-10-15T18:23:55.784Z",
+          "eventTimeApprox": "2026-10-15T17:54:49.000Z",
+          "isFreshStory": false,
+          "tweetCount": 10,
+          "authorCount": 7,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:COGN",
+              "kind": "private",
+              "role": "subject",
+              "name": "Cognition",
+              "hubKey": "cognition"
+            }
+          ]
+        },
+        {
+          "slug": "openai-launches-new-free-life-sciences-ai-program-for-us-labs-9bebd95e",
+          "title": "OpenAI Launches New Free Life Sciences AI Program for US Labs",
+          "publishedAt": "2026-10-16T01:41:43.545Z",
+          "eventTimeApprox": "2026-10-15T21:21:19.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ]
+        },
+        {
+          "slug": "blackstone-adopts-factory-for-autonomous-ai-software-development-714e123f",
+          "title": "Blackstone Adopts Factory for Autonomous AI Software Development",
+          "publishedAt": "2026-10-15T16:54:57.250Z",
+          "eventTimeApprox": "2026-10-15T16:10:32.000Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai",
+            "business"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "BX",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Blackstone Inc.",
+              "hubKey": "bx"
+            },
+            {
+              "ticker": "PVT:FCTY",
+              "kind": "private",
+              "role": "subject",
+              "name": "Factory",
+              "hubKey": "factory"
+            }
+          ]
+        },
+        {
+          "slug": "thesys-launches-openui-10-to-open-source-ai-interface-generation-dfad1ead",
+          "title": "Thesys Launches OpenUI 1.0 to Open Source AI Interface Generation",
+          "publishedAt": "2026-10-15T16:45:00.184Z",
+          "eventTimeApprox": "2026-10-15T15:49:12.000Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ]
+        },
+        {
+          "slug": "nvidia-b300-gpu-rentals-hit-new-high-after-17-day-streak-bf2646b6",
+          "title": "Nvidia B300 GPU Rentals Hit New High After 17 Day Streak",
+          "publishedAt": "2026-10-15T20:09:26.500Z",
+          "eventTimeApprox": "2026-10-15T18:42:06.000Z",
+          "isFreshStory": false,
+          "tweetCount": 6,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110782355984019736/HUsBUvZXUAAvXBp-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110782355984019736/HUsBUvZXUAAvXBp-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "matthew_sigel",
+              "tweetUrl": "https://x.com/matthew_sigel/status/2110782355984019736"
+            }
+          }
+        },
+        {
+          "slug": "radical-numerics-halcyon-models-cut-pretraining-compute-275x-821c8f32",
+          "title": "Radical Numerics' Halcyon Models Cut Pretraining Compute 275x",
+          "publishedAt": "2026-10-15T20:04:40.752Z",
+          "eventTimeApprox": "2026-10-15T16:27:37.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110766846391800215/HUrzOTXa0AQ6_BZ-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110766846391800215/HUrzOTXa0AQ6_BZ-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "radicalnumerics",
+              "tweetUrl": "https://x.com/RadicalNumerics/status/2110766846391800215"
+            }
+          }
+        },
+        {
+          "slug": "phonellm-debuts-open-voice-ai-models-with-sub-100ms-latency-ff609474",
+          "title": "PhoneLLM Debuts Open Voice AI Models With Sub-100ms Latency",
+          "publishedAt": "2026-10-15T22:39:01.471Z",
+          "eventTimeApprox": "2026-10-15T22:22:52.000Z",
+          "isFreshStory": false,
+          "tweetCount": 9,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            }
+          ]
+        },
+        {
+          "slug": "most-of-135-ai-research-papers-fail-integrity-checks-in-new-benchmark-13ae7e92",
+          "title": "Most of 135 AI Research Papers Fail Integrity Checks in New Benchmark",
+          "publishedAt": "2026-10-15T18:38:46.151Z",
+          "eventTimeApprox": "2026-10-15T15:39:12.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ]
+        },
+        {
+          "slug": "mueon-raises-65m-for-ai-server-racks-with-10x-capacity-585ae7b9",
+          "title": "Mueon Raises $65M for AI Server Racks With 10x Capacity",
+          "publishedAt": "2026-10-15T20:04:08.181Z",
+          "eventTimeApprox": "2026-10-15T16:32:27.500Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "startups",
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "startups",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "INTC",
+              "kind": "equity",
+              "role": "related",
+              "name": "Intel Corp",
+              "hubKey": "intc"
+            }
+          ]
+        },
+        {
+          "slug": "trl-reduces-agentic-rl-trainer-compute-26x-via-tree-packing-ea1297fe",
+          "title": "TRL Reduces Agentic RL Trainer Compute 26x via Tree Packing",
+          "publishedAt": "2026-10-15T09:23:00.300Z",
+          "eventTimeApprox": "2026-10-15T08:22:34.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-inference-platforms",
+              "name": "AI Inference"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:HGFC",
+              "kind": "private",
+              "role": "subject",
+              "name": "Hugging Face",
+              "hubKey": "hugging-face"
+            }
+          ]
+        },
+        {
+          "slug": "buywithhoma-raises-5m-seed-for-ai-home-buying-platform-5a351f1f",
+          "title": "BuyWithHoma Raises $5M Seed for AI Home Buying Platform",
+          "publishedAt": "2026-10-15T21:24:06.704Z",
+          "eventTimeApprox": "2026-10-15T18:00:41.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "startups",
+            "ai"
+          ],
+          "primaryRoutingTopic": "startups",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "real-estate",
+              "name": "Real Estate"
+            }
+          ]
+        },
+        {
+          "slug": "erpai-launches-proto-agent-with-0-per-seat-business-software-46a38698",
+          "title": "ERP•AI Launches Proto Agent With $0 Per Seat Business Software",
+          "publishedAt": "2026-10-15T18:01:13.809Z",
+          "eventTimeApprox": "2026-10-15T16:50:16.000Z",
+          "isFreshStory": false,
+          "tweetCount": 7,
+          "authorCount": 5,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110772035366580272/aT39BLzd7878OCjQ-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110772035366580272/aT39BLzd7878OCjQ-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video-s.twimg.com/amplify_video/2110771788368273408/vid/avc1/1920x1080/s5_886Fptr_y9hcz.mp4?tag=29",
+            "credit": {
+              "handle": "rohanpaul_ai",
+              "tweetUrl": "https://x.com/rohanpaul_ai/status/2110772035366580272"
+            }
+          }
+        },
+        {
+          "slug": "bland-launches-imessage-ai-agents-for-businesses-with-30-second-setup-c797f2a0",
+          "title": "Bland Launches iMessage AI Agents for Businesses with 30 Second Setup",
+          "publishedAt": "2026-10-15T17:53:08.554Z",
+          "eventTimeApprox": "2026-10-15T17:29:11.500Z",
+          "isFreshStory": false,
+          "tweetCount": 7,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-enterprise-tools",
+              "name": "AI Enterprise"
+            }
+          ]
+        },
+        {
+          "slug": "sakana-ai-releases-agentic-scientist-v3-for-automated-scientific-discove-d7eacdf8",
+          "title": "Sakana AI Releases Agentic Scientist v3 for Automated Scientific Discovery",
+          "publishedAt": "2026-10-15T14:39:01.422Z",
+          "eventTimeApprox": "2026-10-15T14:25:07.000Z",
+          "isFreshStory": false,
+          "tweetCount": 9,
+          "authorCount": 6,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:SKNA",
+              "kind": "private",
+              "role": "subject",
+              "name": "Sakana AI",
+              "hubKey": "sakana-ai"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2110738746304061491/HUrZl7zakAANPOO-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2110738746304061491/HUrZl7zakAANPOO-small.jpg",
+            "mediaType": "animated_gif",
+            "videoUrl": "https://video-s.twimg.com/tweet_video/HUrZl7zakAANPOO.mp4",
+            "credit": {
+              "handle": "sakanaailabs",
+              "tweetUrl": "https://x.com/SakanaAILabs/status/2110738746304061491"
+            }
+          }
+        },
+        {
+          "slug": "google-research-launches-deep-review-after-15000-research-paper-pilot-9a240cb6",
+          "title": "Google Research Launches Deep Review After 15,000 Research Paper Pilot",
+          "publishedAt": "2026-10-15T09:22:40.849Z",
+          "eventTimeApprox": "2026-10-15T05:48:00.000Z",
+          "isFreshStory": false,
+          "tweetCount": 5,
+          "authorCount": 4,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "GOOGL",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Alphabet Inc. Class A Common Stock",
+              "hubKey": "googl"
+            }
+          ]
+        },
+        {
+          "slug": "harvey-cuts-legal-ai-agent-task-costs-by-48percent-with-context-graphs-80336008",
+          "title": "Harvey Cuts Legal AI Agent Task Costs by 48% With Context Graphs",
+          "publishedAt": "2026-10-15T21:24:16.583Z",
+          "eventTimeApprox": "2026-10-15T16:46:58.000Z",
+          "isFreshStory": false,
+          "tweetCount": 3,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:HRVY",
+              "kind": "private",
+              "role": "subject",
+              "name": "Harvey",
+              "hubKey": "harvey"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasMore": true,
+  "nextBeforeDayKey": "2026-10-15",
+  "lastUpdatedAt": "2026-11-07T17:08:38.508Z"
+}

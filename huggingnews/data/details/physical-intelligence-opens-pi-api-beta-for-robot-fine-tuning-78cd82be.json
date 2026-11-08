@@ -1,0 +1,85 @@
+{
+  "slug": "physical-intelligence-opens-pi-api-beta-for-robot-fine-tuning-78cd82be",
+  "title": "Physical Intelligence Opens Pi API Beta for Robot Fine Tuning",
+  "publishedAt": "2026-10-13T22:28:25.213Z",
+  "eventTimeApprox": "2026-10-13T21:48:51.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:PHYS",
+      "kind": "private",
+      "role": "subject",
+      "name": "Physical Intelligence",
+      "hubKey": "physical-intelligence"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110115571681690051/vxPgb6XJ-d9vKdgV-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110115571681690051/vxPgb6XJ-d9vKdgV-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2110114891558490112/vid/avc1/1920x1080/TV7zIhhnKaphnzJf.mp4?tag=29",
+    "credit": {
+      "handle": "physical_int",
+      "tweetUrl": "https://x.com/physical_int/status/2110115571681690051"
+    }
+  },
+  "summary": "Various partner companies are already using Physical Intelligence's π models to automate tasks such as strawberry harvesting and server assembly. The firm is now broadening access to its Pi API, enabling external developers to customize and fine-tune these models for their own robotic hardware.\n\nThe company opened the beta program to a wider group of teams to increase the scale of testing for the interface across diverse industries. Interested developers can apply for access through a signup process to adapt the model foundations to specific applications.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110115571681690051",
+      "role": "source",
+      "authorHandle": "physical_int",
+      "url": "https://x.com/physical_int/status/2110115571681690051",
+      "tweetedAt": "2026-10-13T21:08:50.000Z",
+      "bestBit": "from harvesting strawberries to assembling servers",
+      "text": "Announcing the beta release of the Pi API. We’ve partnered with companies across diverse industries to adapt our models to their robots and applications, from harvesting strawberries to assembling servers. Now we’re opening access to more teams. https://t.co/0T9tTFjVqM"
+    },
+    {
+      "tweetId": "2110125641819668636",
+      "role": "support",
+      "authorHandle": "chelseabfinn",
+      "url": "https://x.com/chelseabfinn/status/2110125641819668636",
+      "tweetedAt": "2026-10-13T21:48:51.000Z",
+      "bestBit": "Many people have already been using it to fine-tune π models for their robots",
+      "text": "The Pi API is officially in beta! 🤖\n\nMany people have already been using it to fine-tune π models for their robots -- below are a few\n\nWe’re hoping to expand testing significantly. Let us know if you are interested!\n\nBlog: https://t.co/JBTahDOmg7\nSignup: https://t.co/pIVpvdGxCN https://t.co/5pmbAlASaq"
+    }
+  ],
+  "isSuperseded": false
+}

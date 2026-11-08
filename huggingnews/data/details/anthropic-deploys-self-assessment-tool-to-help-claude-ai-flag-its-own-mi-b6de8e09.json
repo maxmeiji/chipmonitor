@@ -1,0 +1,64 @@
+{
+  "slug": "anthropic-deploys-self-assessment-tool-to-help-claude-ai-flag-its-own-mi-b6de8e09",
+  "title": "Anthropic Deploys 'Self-Assessment' Tool to Help Claude AI Flag Its Own Misuse",
+  "publishedAt": "2026-10-29T18:38:54.168Z",
+  "eventTimeApprox": "2026-10-29T18:24:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The developer of the Claude chatbot has trained its models to conduct an internal safety review of their own responses to identify potential policy violations. This technique, called self-assessment, runs a brief check on every conversation to flag dangerous behavior, using the model's own judgment to detect harms that traditional classifiers might miss. The process reuses the model's KV cache, adding less than 2% to the total inference compute needed for each response.\n\nSince the system's deployment in June, it has uncovered a variety of abuse cases, including an automated romance scam and more than 100,000 flags for child exploitation from a single customer. Anthropic noted that about 33% of these flags involved issues not previously categorized in its safety taxonomy, such as prompt injections and unauthorized agent actions. The company reported that the system has identified 94% of high-priority misuse on its Fable 5 model.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115871889549865429",
+      "role": "source",
+      "authorHandle": "anthropicai",
+      "url": "https://x.com/AnthropicAI/status/2115871889549865429",
+      "tweetedAt": "2026-10-29T18:22:24.000Z",
+      "bestBit": "Since we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t designed to catch.",
+      "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t designed to catch. \n\nBecause Claude has already read the conversation, self-assessment is very efficient. And unlike classifiers, which target a discrete set of harms, it draws on Claude’s own judgment, so it gets more accurate as our models improve.\n\nRead more on our new Safeguards blog:\nhttps://t.co/18j6zdHub4"
+    },
+    {
+      "tweetId": "2115874057275289967",
+      "role": "analysis",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2115874057275289967",
+      "tweetedAt": "2026-10-29T18:31:00.000Z",
+      "bestBit": "the system has surfaced over 100,000 child-exploitation flags from one API customer and an automated Claude Code romance scam, with a third of all flags falling outside Anthropic's existing harm taxonomy.",
+      "text": "WTF. Anthropic now runs a hidden ~10-token 'self-assessment' turn after responses in every Claude model since Fable 5, reusing the KV cache to add under 2% to inference compute while catching 94% of high-priority misuse on Fable 5.\n\nAnthropic says Claude's new self-monitoring system uncovered some wild real-world misuse.\n\nSince June, the system has surfaced over 100,000 child-exploitation flags from one API customer and an automated Claude Code romance scam, with a third of all flags falling outside Anthropic's existing harm taxonomy. \n\n'These clusters found in-the-wild include illicit distillation attempts to extract Claude's reasoning, prompt injection, and cases where Claude, acting as an agent, took actions the user had not authorized.'",
+      "quotedTweetText": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t designed to catch. \n\nBecause Claude has already read the conversation, self-assessment is very efficient. And unlike classifiers, which target a discrete set of harms, it draws on Claude’s own judgment, so it gets more accurate as our models improve.\n\nRead more on our new Safeguards blog:\nhttps://t.co/18j6zdHub4"
+    }
+  ],
+  "isSuperseded": false
+}

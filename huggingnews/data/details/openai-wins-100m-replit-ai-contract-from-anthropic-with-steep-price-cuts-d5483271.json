@@ -1,0 +1,74 @@
+{
+  "slug": "openai-wins-100m-replit-ai-contract-from-anthropic-with-steep-price-cuts-d5483271",
+  "title": "OpenAI Wins $100M Replit AI Contract From Anthropic With Steep Price Cuts",
+  "publishedAt": "2026-10-24T19:53:46.998Z",
+  "eventTimeApprox": "2026-10-24T18:50:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 19,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "OpenAI is offering steep pricing discounts to win the largest AI coding customers from its rival, Anthropic. Replit shifted most of its AI expenditures to OpenAI after being offered more than 30% off on a contract worth over $100M a year, a move that came after Anthropic refused to extend Replit's prior discount without a higher spending commitment.\n\nThe discounts have also shifted workloads at Rippling, where OpenAI's share of coding work grew from 16% in May to 52% while Anthropic's share fell from 57% to 18%. OpenAI also offered DataCamp a 40% discount to use Codex, a deal the company estimates could cut costs by 80% to 90%. These efforts to gain market share occur as OpenAI projects that its compute spending this year will exceed its revenue.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114080932693193033",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2114080932693193033",
+      "tweetedAt": "2026-10-24T19:45:46.000Z",
+      "bestBit": "Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year",
+      "text": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2114066987995349180",
+      "role": "commentary",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2114066987995349180",
+      "tweetedAt": "2026-10-24T18:50:22.000Z",
+      "bestBit": "Anthropic’s renewed lead on OpenRouter suggests better models can quickly win users back",
+      "text": "OpenAI is winning over Anthropic customers with steep discounts, gaining coding workloads at companies like Rippling and Replit while potentially deepening its own losses. But Anthropic’s renewed lead on OpenRouter suggests better models can quickly win users back.\n\nAt least this explains why consumer sub plans were halved I guess..."
+    }
+  ],
+  "isSuperseded": false
+}

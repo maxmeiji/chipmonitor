@@ -1,0 +1,46 @@
+{
+  "slug": "data-center-demand-added-1110-per-mwh-to-pjm-wholesale-power-costs-in-ea-c33f770a",
+  "title": "Data Center Demand Added $11.10 per MWh to PJM Wholesale Power Costs in Early 2026",
+  "publishedAt": "2026-11-07T16:08:19.557Z",
+  "eventTimeApprox": "2026-11-07T14:20:34.000Z",
+  "isFreshStory": true,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "energy-markets",
+      "name": "Energy Markets"
+    }
+  ],
+  "summary": "PJM's independent market monitor estimated wholesale power costs reached $114.50 per megawatt-hour (MWh) during the first half of 2026, noting that costs would have been $103.40 per MWh without the impact of data center demand on capacity. While data center demand added $11.10 per MWh to the total, the monitor found that these capacity costs were only a minority driver of the overall increase in wholesale prices during the period.\n\nThe primary cause of the price surge was the cost of electricity itself, which rose 47.7% compared to the first half of 2025. The Energy Information Administration also linked 2026 wholesale price hikes in some regions to extreme weather, specifically a winter storm and summer heat. Separately, a report from the Washington Post stated that data centers accounted for 4% of utility rate increases over the previous five years.",
+  "selectedTweets": [
+    {
+      "tweetId": "2119051645698932764",
+      "role": "support",
+      "authorHandle": "kimmonismus",
+      "url": "https://x.com/kimmonismus/status/2119051645698932764",
+      "tweetedAt": "2026-11-07T12:57:37.000Z",
+      "bestBit": "The independent market monitor estimated total costs at $114.50 per megawatt-hour, compared with $103.40 without the effect of data-center demand on capacity costs.",
+      "text": "to add up: In PJM, higher capacity costs accounted for a minority of the increase in wholesale power costs in the first half of 2026. The independent market monitor estimated total costs at $114.50 per megawatt-hour, compared with $103.40 without the effect of data-center demand on capacity costs. Most of the increase from the first half of 2025 came from the cost of electricity itself, which rose 47.7% (Monitoring Analytics, July 2026). In its October outlook, the EIA attributed higher wholesale prices in some regions in 2026 mainly to weather events, including a winter storm and summer heat."
+    },
+    {
+      "tweetId": "2119072520527819160",
+      "role": "commentary",
+      "authorHandle": "robinhanson",
+      "url": "https://x.com/robinhanson/status/2119072520527819160",
+      "tweetedAt": "2026-11-07T14:20:34.000Z",
+      "bestBit": "data centers … were responsible for just 4 percent of the [electricity] utility rate increases over the last five years",
+      "text": "\"data centers … were responsible for just 4 percent of the [electricity] utility rate increases over the last five years\"",
+      "quotedTweetText": "Well well well, @washingtonpost https://t.co/02DHzItLsj"
+    }
+  ],
+  "isSuperseded": false
+}

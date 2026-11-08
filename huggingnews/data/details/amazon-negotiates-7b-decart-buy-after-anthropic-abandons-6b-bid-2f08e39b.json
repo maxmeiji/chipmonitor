@@ -1,0 +1,85 @@
+{
+  "slug": "amazon-negotiates-7b-decart-buy-after-anthropic-abandons-6b-bid-2f08e39b",
+  "title": "Amazon Negotiates $7B Decart Buy After Anthropic Abandons $6B Bid",
+  "publishedAt": "2026-10-11T21:08:44.060Z",
+  "eventTimeApprox": "2026-10-11T20:46:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 31,
+  "authorCount": 26,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "rumors",
+      "name": "Rumors"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The operator of AWS is in discussions to acquire an artificial intelligence startup to strengthen its compute capabilities. Amazon is negotiating a purchase of Decart for approximately $7 billion, according to the Wall Street Journal. This bid follows a separate $6 billion acquisition attempt by Anthropic that collapsed during the due diligence process. Decart, which specializes in world and video models, had been valued at roughly $4 billion just one quarter ago.\n\nDecart develops software that allows easier switching between different AI chips, which can help Amazon reduce its hardware dependency on Nvidia. Integrating this technology is intended to boost the adoption of Amazon's proprietary Trainium chips and lower the general cost of AI computing within its cloud ecosystem.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109382055192596921",
+      "role": "commentary",
+      "authorHandle": "negligible_cap",
+      "url": "https://x.com/negligible_cap/status/2109382055192596921",
+      "tweetedAt": "2026-10-11T20:34:07.000Z",
+      "bestBit": "ANTHROPIC SAID TO WALK AWAY FROM $6 BILLION DECART ACQUISITION",
+      "text": "*AMAZON IN TALKS TO BUY AI STARTUP DECART FOR AROUND $7B: WSJ",
+      "quotedTweetText": "*ANTHROPIC SAID TO WALK AWAY FROM $6 BILLION DECART ACQUISITION\n\nReasons not specified. Wouldn’t be surprised if Decart wanted more"
+    },
+    {
+      "tweetId": "2109385800966402325",
+      "role": "analysis",
+      "authorHandle": "himanshustwts",
+      "url": "https://x.com/himanshustwts/status/2109385800966402325",
+      "tweetedAt": "2026-10-11T20:49:00.000Z",
+      "bestBit": "now amazon is going after to acquire the company given anthropic (who were early buyers) have cancelled the deal during the due diligence",
+      "text": "the fascination towards decart is going crazy\n\nnow amazon is going after to acquire the company given anthropic (who were early buyers) have cancelled the deal during the due diligence. https://t.co/DNgGE3OkzV",
+      "quotedTweetText": "Decart could be one of the first AI labs focused on world/video models to be acquired by a frontier AI lab. Even crazier is they were valued at ~$4B just a quarter ago!\n\nI think this could also mark an initial phase where frontier labs start treating world models as a major strategic capability (alongside inference optimization as a major offering from Decart!)"
+    }
+  ],
+  "isSuperseded": false
+}

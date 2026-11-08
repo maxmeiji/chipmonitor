@@ -1,0 +1,55 @@
+{
+  "slug": "every-debuts-slack-ai-coworker-with-zero-token-markup-0c59ba5e",
+  "title": "Every Debuts Slack AI Coworker with Zero Token Markup",
+  "publishedAt": "2026-10-06T16:37:59.080Z",
+  "eventTimeApprox": "2026-10-06T16:06:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "The Every Agent provides Slack teams with a tool to automate complex tasks including the creation of pull requests, the generation of reports from large datasets, and the monitoring of customer feedback. By hosting these interactions in public channels instead of private chat windows, the agent allows coworkers to observe AI workflows and adopt the tool across an organization. The system has now officially exited beta and is available for public installation.\n\nSubscriptions for the agent cost $30 per month plus token fees, which Every charges at cost with 0% markup. New users can access $15 in free credits per person, up to a maximum of $500 per workspace. The agent comes with pre-installed workflows for engineering and writing, as well as automated alerts that notify users when new AI models are relevant to their specific workflows.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107501521885594101",
+      "role": "source",
+      "authorHandle": "danshipper",
+      "url": "https://x.com/danshipper/status/2107501521885594101",
+      "tweetedAt": "2026-10-06T16:01:32.000Z",
+      "bestBit": "delegate difficult, long-running—like opening PRs, writing reports from large datasets, and monitoring social or customer feedback",
+      "text": "BREAKING: \n\nIntroducing the @Every Agent—an agentic coworker in Slack built to help you AI-pill your company.\n\nIt comes with:\n- Everything you'd expect from a premium company agent. You can delegate difficult, long-running—like opening PRs, writing reports from large datasets, and monitoring social or customer feedback—and get high-quality results all from Slack\n- Every's best workflows, pre-installed and always updated. Compound Engineering to Compound Writing. We add more all the time. \n- Personalized Frontier Alerts. to help you keep up with new models. When we drop a Vibe Check, the Every Agent will read it and let you know if the new model is relevant to your workflow.\n- Zero markup on tokens. What we pay is what you pay—as token prices go down, so does your bill.\n\nYou can try it today with $15 in free credits per person, up to $500 per workspace. \n\nAfter that: it comes with your $30/month Every subscription, plus tokens at cost.\n\nAdd the Every Agent to Slack: https://t.co/L7ergneERt\n\nWhy it's hard to AI-pill your coworkers\nIf you’re the AI-pilled one at work, you know the problem: you discover something incredible in Claude or Codex, but getting your coworkers to try it is another matter. \n\nThe problem is that most of your AI use is invisible. You do it alone, in a terminal or a chat window. \n\nYour coworkers see the finished report or the five new ads, but they never see the request that produced them, or the corrections you made along the way. When you describe it afterward, it sounds like magic, but nobody learns a magic trick without seeing how it’s done.\n\nWhy a company agent, in Slack, solves this problem\nWhen you use a company agent like the @every agent you go from prompting in private, to prompting in public. \n\nIn a Slack channel, a coworker who would never open a terminal scrolls past a thread with your agent interaction and thinks: I could do that too.\n\nThis lets you show instead of tell your coworkers about your discoveries. New AI tools and workflows then spread naturally and virally across your organization.\n\nThat's why we made the @every agent for ourselves—and why we're releasing it to you today.\n\nAdd the Every Agent to Slack: https://t.co/L7ergneERt"
+    },
+    {
+      "tweetId": "2107508248337379738",
+      "role": "commentary",
+      "authorHandle": "leeknowlton",
+      "url": "https://x.com/leeknowlton/status/2107508248337379738",
+      "tweetedAt": "2026-10-06T16:28:16.000Z",
+      "bestBit": "doing zero markup on tokens to keep incentives aligned",
+      "text": "Stoked to debut Every Agent today.\n\nMy favorite part of building it has been onboarding new teammates, then checking in a week later and finding them so AI-pilled they’re running work through it I hadn’t even thought was possible.\n\nWe're doing zero markup on tokens to keep incentives aligned and also have some free tokens try it out. \n\nAdd Every Agent to Slack here.\nhttps://t.co/teLKqgndXo",
+      "quotedTweetText": "BREAKING: \n\nIntroducing the @Every Agent—an agentic coworker in Slack built to help you AI-pill your company.\n\nIt comes with:\n- Everything you'd expect from a premium company agent. You can delegate difficult, long-running—like opening PRs, writing reports from large datasets, and monitoring social or customer feedback—and get high-quality results all from Slack\n- Every's best workflows, pre-installed and always updated. Compound Engineering to Compound Writing. We add more all the time. \n- Personalized Frontier Alerts. to help you keep up with new models. When we drop a Vibe Check, the Every Agent will read it and let you know if the new model is relevant to your workflow.\n- Zero markup on tokens. What we pay is what you pay—as token prices go down, so does your bill.\n\nYou can try it today with $15 in free credits per person, up to $500 per workspace. \n\nAfter that: it comes with your $30/month Every subscription, plus tokens at cost.\n\nAdd the Every Agent to Slack: https://t.co/L7ergneERt\n\nWhy it's hard to AI-pill your coworkers\nIf you’re the AI-pilled one at work, you know the problem: you discover something incredible in Claude or Codex, but getting your coworkers to try it is another matter. \n\nThe problem is that most of your AI use is invisible. You do it alone, in a terminal or a chat window. \n\nYour coworkers see the finished report or the five new ads, but they never see the request that produced them, or the corrections you made along the way. When you describe it afterward, it sounds like magic, but nobody learns a magic trick without seeing how it’s done.\n\nWhy a company agent, in Slack, solves this problem\nWhen you use a company agent like the @every agent you go from prompting in private, to prompting in public. \n\nIn a Slack channel, a coworker who would never open a terminal scrolls past a thread with your agent interaction and thinks: I could do that too.\n\nThis lets you show instead of tell your coworkers about your discoveries. New AI tools and workflows then spread naturally and virally across your organization.\n\nThat's why we made the @every agent for ourselves—and why we're releasing it to you today.\n\nAdd the Every Agent to Slack: https://t.co/L7ergneERt"
+    }
+  ],
+  "isSuperseded": false
+}

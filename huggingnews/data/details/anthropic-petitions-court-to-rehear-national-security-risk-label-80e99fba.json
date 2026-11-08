@@ -1,0 +1,68 @@
+{
+  "slug": "anthropic-petitions-court-to-rehear-national-security-risk-label-80e99fba",
+  "title": "Anthropic Petitions Court to Rehear National Security Risk Label",
+  "publishedAt": "2026-10-14T01:15:05.819Z",
+  "eventTimeApprox": "2026-10-13T22:54:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-judiciary",
+      "name": "US Judiciary"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "A Washington, D.C. appeals court is being asked to reconsider a ruling that let the government blacklist an AI developer for posing security threats. Anthropic filed a petition to have the court rehear its case against a designation that labels the company a supply-chain risk to the United States.\n\nThe firm alleges that the Pentagon's decision was an act of retaliation for the company's advocacy of AI safety. The designation, enacted under the Trump administration, was previously upheld by the federal court, maintaining that the firm constitutes a risk to national security.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110142268254392488",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2110142268254392488",
+      "tweetedAt": "2026-10-13T22:54:55.000Z",
+      "bestBit": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+      "text": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting https://t.co/NU4XrxcTF2"
+    },
+    {
+      "tweetId": "2110168763907662121",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2110168763907662121",
+      "tweetedAt": "2026-10-14T00:40:13.000Z",
+      "bestBit": "Anthropic urged the federal appeals court in Washington to revisit its decision upholding the Trump administration’s designation of the artificial intelligence company as a supply-chain risk to US national security",
+      "text": "Anthropic urged the federal appeals court in Washington to revisit its decision upholding the Trump administration’s designation of the artificial intelligence company as a supply-chain risk to US national security https://t.co/afrENeOtA3"
+    }
+  ],
+  "isSuperseded": false
+}

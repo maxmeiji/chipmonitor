@@ -1,0 +1,67 @@
+{
+  "slug": "tuesday-labs-opens-reservations-for-voxel-home-robot-to-ship-in-2028-0a0ef6c2",
+  "title": "Tuesday Labs Opens Reservations for Voxel Home Robot to Ship in 2028",
+  "publishedAt": "2026-10-20T16:23:04.367Z",
+  "eventTimeApprox": "2026-10-20T15:40:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "summary": "Tidying residential spaces, locating misplaced items, and tending houseplants are the core capabilities of the new Voxel home robot. Tuesday Labs has opened reservations for the first batch of 999 numbered units of the Series-1 model, which are scheduled to ship in 2028. The robot is designed to function as a droid butler, with the ability to fetch objects from different rooms and return items to their proper locations while focusing on human-centric behavior.\n\nThe company developed Voxel from a concept to a working prototype within one year. To refine its personality as a butler-in-training, Tuesday Labs consulted with advisors from Pixar. The company was founded by Ros Shinkle, who previously developed the object manipulation algorithms for Boston Dynamics' Spot robot.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112565146354860151",
+      "role": "source",
+      "authorHandle": "make_robot_go",
+      "url": "https://x.com/make_robot_go/status/2112565146354860151",
+      "tweetedAt": "2026-10-20T15:22:35.000Z",
+      "bestBit": "Introducing Voxel, a droid butler made by Tuesday Labs.",
+      "text": "Introducing Voxel, a droid butler made by Tuesday Labs. https://t.co/Mq2wTtE8cz"
+    },
+    {
+      "tweetId": "2112576267203551301",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2112576267203551301",
+      "tweetedAt": "2026-10-20T16:06:46.000Z",
+      "bestBit": "Founder Ros Shinkle previously wrote the algorithms that allow Boston Dynamics' Spot to pick up and place objects.",
+      "text": "Tuesday Labs introduced a Voxel Series-1 home robot, with the first batch of 999 units shipping in 2028.\n\nVoxel is being built with a special focus on how it behaves around humans while tidying a home, from returning things to where they belong to grabbing something from another room and bringing it back.\n\n> At launch, it will find misplaced items and care for houseplants.\n\n> Tuesday Labs has worked with Pixar advisors on its personality, acting like a butler-in-training who likes to keep things in order.\n\n> Founder Ros Shinkle previously wrote the algorithms that allow Boston Dynamics' Spot to pick up and place objects.",
+      "quotedTweetText": "Introducing Voxel, a droid butler made by Tuesday Labs. https://t.co/Mq2wTtE8cz"
+    },
+    {
+      "tweetId": "2112569588575523258",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2112569588575523258",
+      "tweetedAt": "2026-10-20T15:40:14.000Z",
+      "bestBit": "The first 999 units are numbered and open for reservation today.",
+      "text": "Home robots need taste too. Personalized agents are a super interesting new trend I am bullish on. \n\nIf a robot is going to live in my home, I want one I like having around. @roboticscorp is building robots for that.\n\nThe first 999 units are numbered and open for reservation today.",
+      "quotedTweetText": "Introducing Voxel, a droid butler made by Tuesday Labs. https://t.co/Mq2wTtE8cz"
+    },
+    {
+      "tweetId": "2112573862001205624",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112573862001205624",
+      "tweetedAt": "2026-10-20T15:57:13.000Z",
+      "bestBit": "getting a home robot from idea to working prototype in a year shows how far robotics has come",
+      "text": "Tidying a room is one of the best everyday tests for a home robot.\n\nAnd getting a home robot from idea to working prototype in a year shows how far robotics has come.\n\nTuesday Labs built Voxel, a robot that tidies, fetches, finds and tends plants, in that time, and spent just as much effort on his personality.",
+      "quotedTweetText": "Introducing Voxel, a droid butler made by Tuesday Labs. https://t.co/Mq2wTtE8cz"
+    }
+  ],
+  "isSuperseded": false
+}

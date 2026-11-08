@@ -1,0 +1,91 @@
+{
+  "slug": "toshibas-380m-ai-hdd-expansion-hits-seagate-shares-10percent-e7728dfc",
+  "title": "Toshiba's $380M AI HDD Expansion Hits Seagate Shares 10%",
+  "publishedAt": "2026-10-02T11:39:41.851Z",
+  "eventTimeApprox": "2026-10-02T11:24:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "tech",
+    "us-markets",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "STX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
+      "hubKey": "stx"
+    },
+    {
+      "ticker": "WDC",
+      "kind": "equity",
+      "role": "related",
+      "name": "Western Digital Corp.",
+      "hubKey": "wdc"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105982239750476036/HTny9Dba8AAgQKC-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105982239750476036/HTny9Dba8AAgQKC-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2105982239750476036"
+    }
+  },
+  "summary": "A ¥60 billion investment will increase the output of hard disk drives for artificial intelligence workloads at a manufacturing site in the Philippines. Toshiba intends to double its production capacity for AI data centers by fiscal 2027, a move that triggered a 10% drop in Seagate shares and a 7% decline for Western Digital.\n\nThe expansion comes as demand for AI storage shifts toward HDDs because solid-state drives cost roughly 20 times more. Toshiba is targeting 65TB drives by 2030 and eventually 100TB capacities to address tight memory supply. The news surprised investors who had previously assumed the few remaining manufacturers in the HDD market would avoid aggressive growth to maintain restricted supply.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105841682466136469",
+      "role": "source",
+      "authorHandle": "jukan05",
+      "url": "https://x.com/jukan05/status/2105841682466136469",
+      "tweetedAt": "2026-10-02T02:05:56.000Z",
+      "bestBit": "double its production capacity for HDDs used in AI data centers during fiscal 2027 (April 2027–March 2028)",
+      "text": "Japan’s Nikkei reports that Toshiba plans to invest approximately ¥60 billion to expand its factory in the Philippines and double its production capacity for HDDs used in AI data centers during fiscal 2027 (April 2027–March 2028).\n\nhttps://t.co/22fOlHwQzw"
+    },
+    {
+      "tweetId": "2105982239750476036",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2105982239750476036",
+      "tweetedAt": "2026-10-02T11:24:27.000Z",
+      "bestBit": "targeting 65TB drives by 2030 and eventually 100TB, as tight memory supply and SSDs costing ~20x more push more AI storage demand toward HDDs",
+      "text": "$STX -10%; $WDC -7%\n\nToshiba plans to invest ~$380M to double HDD capacity for AI data centers by FY2027, expanding its Philippines plant.\n\nIt’s targeting 65TB drives by 2030 and eventually 100TB, as tight memory supply and SSDs costing ~20x more push more AI storage demand toward HDDs."
+    },
+    {
+      "tweetId": "2105907736580116823",
+      "role": "commentary",
+      "authorHandle": "zephyr_z9",
+      "url": "https://x.com/zephyr_z9/status/2105907736580116823",
+      "tweetedAt": "2026-10-02T06:28:24.000Z",
+      "bestBit": "Everyone was saying that HDD players won't expand capacity recklessly because it's a trioply",
+      "text": "LOL\nEveryone was saying that HDD players won't expand capacity recklessly because it's a trioply",
+      "quotedTweetText": "Japan’s Nikkei reports that Toshiba plans to invest approximately ¥60 billion to expand its factory in the Philippines and double its production capacity for HDDs used in AI data centers during fiscal 2027 (April 2027–March 2028).\n\nhttps://t.co/22fOlHwQzw"
+    }
+  ],
+  "isSuperseded": false
+}

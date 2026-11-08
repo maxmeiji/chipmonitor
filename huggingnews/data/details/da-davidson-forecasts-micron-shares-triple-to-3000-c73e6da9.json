@@ -1,0 +1,69 @@
+{
+  "slug": "da-davidson-forecasts-micron-shares-triple-to-3000-c73e6da9",
+  "title": "D.A. Davidson Forecasts Micron Shares Triple to $3,000",
+  "publishedAt": "2026-10-07T14:38:33.241Z",
+  "eventTimeApprox": "2026-10-07T13:21:21.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MU",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Micron Technology, Inc.",
+      "hubKey": "mu"
+    }
+  ],
+  "summary": "Tight memory supply through 2028 will fundamentally change how analysts value Micron, according to a report by D.A. Davidson. The firm set a price target of $3,000, which would nearly triple the stock's value, and argues the company should rerate toward a 20x earnings multiple. This bullish outlook is driven by long-term agreements with major technology firms, including Amazon, Microsoft, Google, Nvidia, and Apple.\n\nMicron stated on a recent conference call that more than 75% of its shipments for the current year are already committed, and customers are currently negotiating allocations for next year. D.A. Davidson also views current \"de-specing\"—where customers reduce memory specifications to maintain shipment volumes—as a positive indicator, as restoring that performance later will create additional demand.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107823594466398521",
+      "role": "source",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107823594466398521",
+      "tweetedAt": "2026-10-07T13:21:21.000Z",
+      "bestBit": "D.A. Davidson expects $MU to nearly triple to $3,000 saying “If you don’t buy it, they will” as memory stays tight through 2027 and 2028",
+      "text": "D.A. Davidson expects $MU to nearly triple to $3,000 saying “If you don’t buy it, they will” as memory stays tight through 2027 and 2028.\n\nThe interesting part is they see de-specing as bullish because customers cutting memory to ship more systems today can create even more demand later when they try to restore performance.\n\nThe note basically argues Micron will stop trading like a normal memory cycle and rerate toward ~20x earnings as long-term agreements spread across $AMZN, $MSFT, $GOOGL, $NVDA and $AAPL."
+    },
+    {
+      "tweetId": "2107840997036347395",
+      "role": "commentary",
+      "authorHandle": "tengyanai",
+      "url": "https://x.com/tengyanAI/status/2107840997036347395",
+      "tweetedAt": "2026-10-07T14:30:30.000Z",
+      "bestBit": "more than 75% of its shipments for the year are already committed, and customers are now negotiating allocation for the year after",
+      "text": "@StockSavvyShay the line from micron's own call i'd watch more than any target: more than 75% of its shipments for the year are already committed, and customers are now negotiating allocation for the year after. 🤔"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "google-willow-chip-slashes-quantum-resource-costs-40x-4b92469f",
+  "title": "Google Willow Chip Slashes Quantum Resource Costs 40x",
+  "publishedAt": "2026-10-15T18:24:24.562Z",
+  "eventTimeApprox": "2026-10-15T18:08:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 41,
+  "authorCount": 34,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "physics",
+      "name": "Physics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110796415589032431/HUsNoQ-awAAOTd7-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110796415589032431/HUsNoQ-awAAOTd7-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "stocksavvyshay",
+      "tweetUrl": "https://x.com/StockSavvyShay/status/2110796415589032431"
+    }
+  },
+  "summary": "A new processor developed by the AI research lab at Alphabet aims to resolve a critical technical barrier to building scalable computation systems. Google's Willow quantum chip produces critical resources known as 'magic states' with 99.99% fidelity while reducing their production costs by roughly 40x, according to company data.\n\nThe efficiency gain clears a key resource bottleneck that previously hindered the reliability of quantum systems. By optimising the production of these states, Google can improve stability without simply adding more hardware, potentially bringing practical quantum computers closer to deployment.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110796415589032431",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2110796415589032431",
+      "tweetedAt": "2026-10-15T18:14:16.000Z",
+      "bestBit": "its Willow quantum chip can produce critical quantum resources called “magic states” at 99.99% fidelity while reducing their production cost by ~40x",
+      "text": "$GOOGL says its Willow quantum chip can produce critical quantum resources called “magic states” at 99.99% fidelity while reducing their production cost by ~40x.\n\nReally interesting seeing Google make quantum computing more reliable without simply adding more hardware which potentially brings useful quantum computers closer than I expected."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "llamacpp-releases-v090-with-support-for-native-fp8-and-multi-node-tensor-ec738073",
+  "title": "llama.cpp Releases v0.9.0 With Support for Native FP8 and Multi Node Tensor Parallelism",
+  "publishedAt": "2026-11-04T20:37:18.534Z",
+  "eventTimeApprox": "2026-11-04T17:50:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "summary": "Version 0.9.0 of the llama.cpp library introduces support for native FP8 (OCP E4M3) and enables tensor parallels across multiple nodes via NCCL. The update also includes improved multi-sequence serving and faster prefill speeds for Gemma 4 E2B and E4B models, alongside new compatibility for the Mistral Large 4, Metis-1.6, and Clover models.\n\nThe development team said the project is preparing for the launch of version 1.0.0, its first major release, within the next few weeks. The v0.9.0 update also adds speech capabilities to the library, incorporating Chatterbox TTS and Nemotron 3.5 Transcribe.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118019105869492301",
+      "role": "source",
+      "authorHandle": "ggerganov",
+      "url": "https://x.com/ggerganov/status/2118019105869492301",
+      "tweetedAt": "2026-11-04T16:34:40.000Z",
+      "bestBit": "Today we ship llama.cpp v0.9.0 and in the next couple of weeks we are gearing towards the first major v1.0.0 release",
+      "text": "Today we ship llama.cpp v0.9.0 and in the next couple of weeks we are gearing towards the first major v1.0.0 release\n\nhttps://t.co/DXxgGYUv3T"
+    },
+    {
+      "tweetId": "2118038226589925427",
+      "role": "support",
+      "authorHandle": "victormustar",
+      "url": "https://x.com/victormustar/status/2118038226589925427",
+      "tweetedAt": "2026-11-04T17:50:39.000Z",
+      "bestBit": "Faster multi-seq serving: flash_attn_ext_rows",
+      "text": "llama.cpp v0.9.0 is out 💃🕺\n\n> Native FP8 (OCP E4M3)\n> Faster multi-seq serving: flash_attn_ext_rows\n> Multi-node tensor parallel via NCCL (ggml 0.29.0)\n> New models: Clover, Limite, Metis-1.6, Mistral Large 4\n> Speech: Chatterbox TTS, Nemotron 3.5 Transcribe\n> Faster Gemma 4 E2B/E4B prefill\n> much more...\n\nhttps://t.co/0OI3fQkXKs"
+    }
+  ],
+  "isSuperseded": false
+}

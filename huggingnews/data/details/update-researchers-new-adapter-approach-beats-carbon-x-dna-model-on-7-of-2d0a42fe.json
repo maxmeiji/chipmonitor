@@ -1,0 +1,98 @@
+{
+  "slug": "update-researchers-new-adapter-approach-beats-carbon-x-dna-model-on-7-of-2d0a42fe",
+  "title": "UPDATE: Researcher’s New Adapter Approach Beats Carbon-X DNA Model on 7 of 9 Tasks",
+  "publishedAt": "2026-11-04T10:52:31.416Z",
+  "eventTimeApprox": "2026-11-02T10:22:28.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117415821366743138/HWKODxCaMAAh-Dw-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117415821366743138/HWKODxCaMAAh-Dw-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "danielmckinn0n",
+      "tweetUrl": "https://x.com/danielmckinn0n/status/2117415821366743138"
+    }
+  },
+  "summary": "An independent researcher claims a genomic reasoning system he built using a simple adapter and projector approach outperformed the Carbon-X model on 7 of 9 benchmarks. Daniel McKinnon said he used an RTX 5090 GPU and a research loop powered by Claude Opus 5.5 to generate training data and orchestrate the system, which he says required far less compute and data than the process used to build Carbon-X. The new approach combined a frozen Evo2 7B DNA encoder with a Qwen3-14B language model using a task-specific LoRA.\n\nThe claim follows the release of Carbon-X and the FineDNA dataset, which contains more than 300B tokens of interleaved genomic sequences and natural language. Carbon-X was designed to allow users to reason about DNA in plain English rather than receiving a simple score. McKinnon stated he will now score his model on the RareBench benchmark to evaluate its performance on out-of-sample classification tasks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117415821366743138",
+      "role": "source",
+      "authorHandle": "danielmckinn0n",
+      "url": "https://x.com/danielmckinn0n/status/2117415821366743138",
+      "tweetedAt": "2026-11-03T00:37:26.000Z",
+      "bestBit": "I had Claude Opus 5.5 run an autoresearch loop on my 5090 over a few days and significantly outperformed Carbon-X on 7/9 of their tasks",
+      "text": "Despite overcoming a broken GPU, results are in. It's fairly clear that beating Carbon-X with a simple adapter/projector approach is possible!\n\nI had Claude Opus 5.5 run an autoresearch loop on my 5090 over a few days and significantly outperformed Carbon-X on 7/9 of their tasks, despite using orders of magnitude less compute and data.\n\nThis isn't totally surprising. My approach, which @adibvafa pointed out is not unique and he successfully used for BioReason, reuses the enormous amount of compute and genomic data that went into @arcinstitute Evo2. @huggingface face needed to train that into @Alibaba_Qwen from scratch.\n\nWhat I found more interesting than the results was the process. I spent in aggregate a few hours on this project giving the model high-level guidance. Claude generated training data suitable for the tasks (you could argue this is overfit, but I don't think any more so than the FineDNA dataset used for Carbon-X), orchestrate a half dozen training runs, ablated a huge number of variables, and ultimately generated a very strong system.\n\nThis is insane. I worked on AI at Meta for 7 years and this work could have easily consumed a reasonably senior RS for a half and resulted in a modest publication.\n\nOvernight, I will score my model on RareBench to see how I perform on truly out-of-sample classification tasks and train directly on FineDNA fine-tuning tasks to see how an adapter performs in an apples-to-apples comparison.",
+      "quotedTweetText": "The @huggingface Carbon-X DNA model @LoubnaBenAllal1 trained reminded me of the early days of vision-language models. No one knew how to best fuse multiple modalities into the same reasoning backbone, but it turned out that training a small adapter to project images/speech into text space worked really well (LLaVa, Llama 3, etc.)\n\nI let Codex take over my 5090 today to few-shot this approach with DNA. I used @arcinstitute Evo2 7B as the frozen DNA encoder and Qwen3-14B as my LLM, which later received a task-specific LoRA.\n\nThe results were really good! With 24h of cheap compute and occasional human intervention, I trained an adapter-LoRA approach that seems to outperform Carbon-X across the board on my (very reasonable) tasks (and match Astra, which when prompted correctly gets most of them right but isn't really suited for these tasks).\n\nI'm running on the BioReason, GenomeQA, and other Carbon-X benchmarks overnight and will report back tomorrow and vibe code everything into a @GamowLabs blog post for inspection, but I think this is a fruitful area of research and I want to see how far I can push an adapter approach with minimal compute resources."
+    },
+    {
+      "tweetId": "2116914192124920099",
+      "role": "source",
+      "authorHandle": "_lewtun",
+      "url": "https://x.com/_lewtun/status/2116914192124920099",
+      "tweetedAt": "2026-11-01T15:24:08.000Z",
+      "bestBit": "trained a model called Carbon-X on FineDNA and it performs well on specialised tasks like variant effect prediction",
+      "text": "@m_att_dunn @adithya_s_k Thanks! We trained a model called Carbon-X on FineDNA and it performs well on specialised tasks like variant effect prediction \n\nIf you want something more general, I'd currently suggest gpt-6.1-sol: it was by far the least likely to refuse legitimate requests :)\n\nhttps://t.co/orIrAL7bHr",
+      "quotedTweetText": "Today we're releasing Carbon-X, a 14B model that brings DNA and natural language together for the first time 🧬\n\n1. Beats every open language model we tested across DNA benchmarks. Within a point of GPT-6.1 Sol at >1,000× lower inference cost.\n\n2. Mid-trained on 300B tokens of interleaved DNA and text, followed by SFT (without distillation!) and RL.\n\n3. A new hybrid tokenizer encodes DNA using ~3× fewer tokens than BPE.\n\n4. Gives other models a DNA specialist subagent: Kimi K3 gains 11.1 points when it consults Carbon-X.\n\n5. Runs locally on a laptop with llama.cpp. Apache 2.0. Your DNA stays on your hardware.\n\nModel: https://t.co/7wBE7WUVp1\nBlog: https://t.co/A3OjalTpIJ"
+    },
+    {
+      "tweetId": "2116785229159673914",
+      "role": "source",
+      "authorHandle": "loubnabenallal1",
+      "url": "https://x.com/LoubnaBenAllal1/status/2116785229159673914",
+      "tweetedAt": "2026-11-01T06:51:41.000Z",
+      "bestBit": "300B+ tokens of genomic sequences, papers and web pages mixing DNA and text, plus 200k SFT and 98k RL samples.",
+      "text": "Introducing 🧬 FineDNA: the best dataset to teach any language model DNA.\n\nTraining Qwen3-14B on it gives the strongest open model.\n\n300B+ tokens of genomic sequences, papers and web pages mixing DNA and text, plus 200k SFT and 98k RL samples.\n\nhttps://t.co/hiiM7TByIj https://t.co/EBdX5m3ptq"
+    },
+    {
+      "tweetId": "2117296749102432301",
+      "role": "analysis",
+      "authorHandle": "_lewtun",
+      "url": "https://x.com/_lewtun/status/2117296749102432301",
+      "tweetedAt": "2026-11-02T16:44:17.000Z",
+      "bestBit": "Off the shelf, Qwen3-14B gave a learning signal on 17% of our prompts. After mid-training on 300B tokens of DNA and text, 42%",
+      "text": "Btw none of this works unless the model already knows something about the domain. \n\nOff the shelf, Qwen3-14B gave a learning signal on 17% of our prompts. After mid-training on 300B tokens of DNA and text, 42% https://t.co/5LAnOmVGIC"
+    },
+    {
+      "tweetId": "2117200662417043707",
+      "role": "analysis",
+      "authorHandle": "loubnabenallal1",
+      "url": "https://x.com/LoubnaBenAllal1/status/2117200662417043707",
+      "tweetedAt": "2026-11-02T10:22:28.000Z",
+      "bestBit": "we wanted a model that reasons about the sequence in plain English before giving you the answer, so people can see why it reached an answer",
+      "text": "@loukesio @grok FineDNA is the training dataset for our model Carbon-X.\n\nThe motivation for Carbon-X is different: specialized DNA models like PlantCAD2 give you a score but we wanted a model that reasons about the sequence in plain English before giving you the answer, so people can see why it reached an answer and leverage the reasoning.  \n\nSpecialized models are still great for scoring whole genomes cheaply. But we hope that combining DNA with language can unlock new use cases. Also the final benchmarks are on human variants not plants."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "carbon-x-14b-model-matches-gpt-61-sol-in-dna-tasks-at-lower-cost-62bd8550",
+    "title": "Carbon-X 14B Model Matches GPT-6.1 Sol in DNA Tasks at Lower Cost",
+    "publishedAt": "2026-11-01T15:37:49.799Z",
+    "eventTimeApprox": "2026-11-01T10:55:36.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 16,
+    "authorCount": 6
+  }
+}

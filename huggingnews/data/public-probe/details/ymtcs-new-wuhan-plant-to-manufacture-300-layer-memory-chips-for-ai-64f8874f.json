@@ -1,0 +1,62 @@
+{
+  "slug": "ymtcs-new-wuhan-plant-to-manufacture-300-layer-memory-chips-for-ai-64f8874f",
+  "title": "YMTC's New Wuhan Plant to Manufacture 300-Layer Memory Chips for AI",
+  "publishedAt": "2026-11-06T11:23:30.918Z",
+  "eventTimeApprox": "2026-11-06T04:55:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "tech",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "summary": "China's largest flash memory manufacturer will target a domestic sourcing rate of between 60% and 70% for the equipment used at its upcoming fourth fabrication facility in Wuhan. The plant is intended to produce NAND flash memory chips with more than 300 layers for artificial intelligence data centers, a goal that would increase the use of local machinery from the slightly more than 50% share used at the company's third plant.\n\nConstruction on the fourth site will begin next year, forming part of a broader expansion alongside plants three and five. Once fully operational, the three newest facilities will each process approximately 100,000 silicon wafers a month, which will more than double the overall manufacturing capacity of Yangtze Memory Technologies despite ongoing US export restrictions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118556512767406412",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2118556512767406412",
+      "tweetedAt": "2026-11-06T04:10:08.000Z",
+      "bestBit": "China's top flash memory chipmaker targets more homegrown tools for new factory, sources say",
+      "text": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say https://t.co/uZE0B7ngmo"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "yangtze-memory-targets-70percent-homegrown-equipment-for-upcoming-flash-f45c0756",
+    "title": "Yangtze Memory Targets 70% Homegrown Equipment for Upcoming Flash Chip Plant",
+    "publishedAt": "2026-11-06T04:37:29.934Z",
+    "eventTimeApprox": "2026-11-06T04:10:18.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "business"
+    ],
+    "tweetCount": 6,
+    "authorCount": 5
+  }
+}

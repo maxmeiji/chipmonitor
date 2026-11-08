@@ -1,0 +1,55 @@
+{
+  "slug": "higgsfield-hits-1b-annualized-revenue-and-secures-new-funding-from-nvidi-8b0cf050",
+  "title": "Higgsfield Hits $1B Annualized Revenue and Secures New Funding from NVIDIA and TCV",
+  "publishedAt": "2026-10-24T16:09:15.049Z",
+  "eventTimeApprox": "2026-10-24T14:34:04.500Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "NVIDIA and TCV have joined Higgsfield as investors in a Series B extension to support the startup's growing infrastructure. Higgsfield currently utilizes NVIDIA's Hopper and Blackwell GPUs and will integrate Vera Rubin chips to meet rising demand.\n\nSince its August Series B round, Higgsfield has expanded its global user base to over 40 million and seen enterprise contracts rise 71%, with monthly growth exceeding 100%. The company has now crossed $1 billion in annualized revenue.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113996828379336979",
+      "role": "source",
+      "authorHandle": "higgsfield",
+      "url": "https://x.com/higgsfield/status/2113996828379336979",
+      "tweetedAt": "2026-10-24T14:11:34.000Z",
+      "bestBit": "We’ve grown from 30 million to over 40 million users globally.",
+      "text": "Jensen Huang: “… the founders of Higgsfield are visionary in the work that they do … but these are some of the brightest people in the world.”\n\nWe're grateful to Jensen and the teams at NVIDIA and TCV for believing in us. Both companies have joined Higgsfield as investors in our Series B\nextension.\n\nSince our August Series B:\n• We’ve crossed $1 billion in annualized revenue.\n• Enterprise contracts are up 71%, growing 100%+ month-over-month\n• We’ve grown from 30 million to over 40 million users globally.\n\nTCV has backed Netflix, Facebook, ByteDance and Spotify, companies that changed how people create and consume media. NVIDIA has powered every generation of Higgsfield, from L40 and A40 GPUs through Hopper and Blackwell, with Vera Rubin next to meet growing demand.\n\nThank you to our creators and customers for building with us every day, and to everyone at Higgsfield whose work brought us here.\n\nThe full Bloomberg Announcement is linked below."
+    }
+  ],
+  "isSuperseded": false
+}

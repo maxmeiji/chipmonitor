@@ -1,0 +1,143 @@
+{
+  "slug": "chinese-tech-orders-6m-nvidia-gpus-and-double-2027-global-supply-08487928",
+  "title": "Chinese Tech Orders 6M Nvidia GPUs and Double 2027 Global Supply",
+  "publishedAt": "2026-10-20T16:55:08.502Z",
+  "eventTimeApprox": "2026-10-20T13:07:18.000Z",
+  "isFreshStory": false,
+  "tweetCount": 33,
+  "authorCount": 27,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "business",
+    "us-markets",
+    "geopolitics"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:BYTE",
+      "kind": "private",
+      "role": "related",
+      "name": "ByteDance",
+      "hubKey": "bytedance"
+    },
+    {
+      "ticker": "BABA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+      "hubKey": "baba"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112552393057746982/HVFLNNMbUAACovh-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112552393057746982/HVFLNNMbUAACovh-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "milkroadai",
+      "tweetUrl": "https://x.com/MilkRoadAI/status/2112552393057746982"
+    }
+  },
+  "summary": "Request volumes from firms across the mainland have put extreme pressure on Nvidia's manufacturing capacity for its latest trade compliant chip. Total orders for the RTX PRO 5500 in the region have exceeded 6 million units, though the company only expects to produce 3 million units worldwide in 2027. Because demand so far outweighs available supply, Nvidia has warned its partners that they may receive only 5% to 10% of the quantities they requested, with commercial deliveries scheduled to begin in the first quarter of 2027.\n\nByteDance, Alibaba and Tencent alone have placed orders for 3 million cards with a combined sticker price of over $35 billion to support AI inference workloads. These GPUs use GDDR7 memory instead of high-bandwidth memory to ensure compliance with US export restrictions and to avoid diverting packaging capacity from Nvidia's next-generation Rubin platform. The shift in demand comes as the older RTX 6000D model was discontinued after failing to attract interest from major Chinese buyers last year.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112570788339761238",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2112570788339761238",
+      "tweetedAt": "2026-10-20T15:45:00.000Z",
+      "bestBit": "valued at over $35 billion, two sources said, in a rush for a less powerful but export-compliant chip",
+      "text": "ByteDance, Alibaba and Tencent have ordered more than 3 million of Nvidia's new RTX PRO 5500 graphics cards, valued at over $35 billion, two sources said, in a rush for a less powerful but export-compliant chip amid US restrictions on trade with China https://t.co/Dj1jcTtJPb https://t.co/fJaU8aH1MZ"
+    },
+    {
+      "tweetId": "2112470392040255539",
+      "role": "support",
+      "authorHandle": "marketnews_feed",
+      "url": "https://x.com/MarketNews_Feed/status/2112470392040255539",
+      "tweetedAt": "2026-10-20T09:06:03.000Z",
+      "bestBit": "PRICE PER CARD IS ABOUT 85,000 YUAN, SOURCES SAY; COMBINED ORDER WORTH MORE THAN $35 BILLION",
+      "text": "BYTEDANCE, ALIBABA, TENCENT HAVE ORDERED MORE THAN 3 MILLION NVIDIA RTX PRO 5500 GRAPHICS CARDS – RTRS CITES SOURCES\n- NVIDIA TELLS CUSTOMERS IT CANNOT GUARANTEE FILLING CHINA ORDERS AS DEMAND FAR EXCEEDS PLANNED PRODUCTION\n- PRICE PER CARD IS ABOUT 85,000 YUAN, SOURCES SAY; COMBINED ORDER WORTH MORE THAN $35 BILLION\nNVIDIA TELLS PARTNERS THEY MIGHT GET ONLY 5% TO 10% OF RTX PRO 5500 QUANTITIES REQUESTED ..."
+    },
+    {
+      "tweetId": "2112570129741394294",
+      "role": "commentary",
+      "authorHandle": "niubi",
+      "url": "https://x.com/niubi/status/2112570129741394294",
+      "tweetedAt": "2026-10-20T15:42:23.000Z",
+      "bestBit": "All that expensive memory going to PRC customers",
+      "text": "All that expensive memory going to PRC customers - ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders https://t.co/3xUBOSS21p"
+    },
+    {
+      "tweetId": "2112524772630495607",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2112524772630495607",
+      "tweetedAt": "2026-10-20T12:42:09.000Z",
+      "bestBit": "these GPUs use GDDR7 instead of HBM allowing Nvidia to serve China's inference market without taking memory or advanced packaging capacity away from Rubin",
+      "text": "$NVDA is reportedly seeing over $35B in RTX PRO 5500 orders from ByteDance, $BABA and Tencent as Chinese tech giants look to secure AI chips under U.S. export restrictions.\n\nWhats wild is that these GPUs use GDDR7 instead of HBM allowing Nvidia to serve China's inference market without taking memory or advanced packaging capacity away from Rubin.\n\nAnd with Chinese demand reportedly exceeding 6M GPUs against just 3M planned for global production in 2027, the opportunity could be massive if export approvals and shipments actually materialize."
+    },
+    {
+      "tweetId": "2112504001208205758",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2112504001208205758",
+      "tweetedAt": "2026-10-20T11:19:36.000Z",
+      "bestBit": "Total orders from China have exceeded 6 million, but Nvidia has indicated it could produce no more than 3 million globally in 2027",
+      "text": "INSANE. Reuters reports that ByteDance, Alibaba and Tencent have ordered more than 3 million of Nvidia's export-compliant RTX PRO 5500 cards, worth over $35 billion at list prices. Two people familiar with the matter told Reuters anonymously.\n\nDemand across China is far larger than Nvidia may be able to supply. Total orders from China have exceeded 6 million, but Nvidia has indicated it could produce no more than 3 million globally in 2027. One source warns that partners may receive only 5% to 10% of what they requested.\n\nChinese firms want the cards primarily for AI inference rather than training, with commercial deliveries expected in Q1 2027. The older RTX 6000D drew little interest from major Chinese buyers last year. It has since been discontinued, and its market price in China has doubled."
+    },
+    {
+      "tweetId": "2112537430981263494",
+      "role": "commentary",
+      "authorHandle": "singularityres",
+      "url": "https://x.com/SingularityRes/status/2112537430981263494",
+      "tweetedAt": "2026-10-20T13:32:27.000Z",
+      "bestBit": "Nvidia told partners they may get just 5-10%, and it can make no more than ~3M worldwide in 2027",
+      "text": "Everything that happened in the data center world today (Oct 20, 2026)\n\nRecord orders, sold-out chips, and the stocks fell anyway.\n\nNEOCLOUDS + FINANCING\n- HSBC rates CoreWeave Reduce, $39 target, 36% below Monday's close. It sees an 8.9% average return on capital for 2026-30, \"below its cost of borrowing.\" HSBC's CEO: \"You have to look at the quality of the tenancy agreements\" (CNBC)\n- JPMorgan says banks' CoreWeave risk is mostly secured: ~$24B of project loans ($15B drawn, $9B undrawn) paid out on milestones. The $21B of unsecured parent debt is taking the hit (The Market Reporter)\n- IREN's co-CEO says its data centers carry no debt. Prepayments on recent 3-year deals cover 45-55% of GPU cost, and 2027 capacity is several times oversubscribed (Stocktwits)\n- Korean AI cloud firm Elice fell ~30% on debut despite 388x institutional demand. Firmus, AirTrunk and SB Energy shelved IPOs this month (CNBC)\n\nPOWER + GRID\n- Google will pay for ~$600M of Entergy Arkansas grid and battery work (1.4GWh) plus a 440MW solar PPA, after regulators rejected Entergy's own deal for that solar farm. Needs state approval (Entergy, DCD)\n- Google Cloud's London region went down overnight after a \"power event.\" Revolut, Lloyds and UK court video hearings had problems. Still active at 6:22 AM PT (BBC, Google)\n- A Texas study finds on-site gas engines emit about 4x the NOx of grid power for the same data center. Large Texas projects could need an estimated 439GW from the grid (Texas Tribune)\n- Wisconsin's settlement: full environmental reviews for new data centers and a statewide study by Jan 2028, paid for by Vantage (Wisconsin Examiner)\n\nNEW PROJECTS\n- Amazon plans €16B+ in Germany in 2027, including €4.8B to expand AWS Frankfurt (Amazon)\n\nCHIPS\n- ByteDance, Alibaba and Tencent ordered 3M+ RTX PRO 5500 cards, $35B+ at list. Nvidia told partners they may get just 5-10%, and it can make no more than ~3M worldwide in 2027 (Reuters)\n- Modal says Nvidia's Vera CPU hit up to 2x the throughput of a comparable Intel x86 server on agent sandboxes under heavy load. It's adding Vera, keeping x86 (Modal)\n\nMEMORY\n- Micron's Taoyuan union plans to strike Thursday over bonuses. The site makes DRAM and HBM. No length given (Reuters)\n- Q4 DRAM contract prices seen +20%, after ~80% in Q2 and ~40% in Q3, as LTA price caps kick in. If Rubin Ultra went to 8-high HBM, the same DRAM could in theory feed 50% more GPUs (Commercial Times via TrendForce)\n\nPARTS + PACKAGING\n- Unimicron's chair: some key tool lead times hit 30 months, and low-CTE glass cloth, CCL and ABF could be ~20% short in 2027. CoWoS capacity up 6.8x from 2024 to 2028, substrates only 2x (Wealth Magazine via TrendForce)\n- 3M gave Amazon a warrant for up to 3.16M shares at $164.89. 85% vests as Amazon buys optical and other data center products, fully at $6B spent (3M filing)\n\nEARNINGS + MARKETS\n- ABB orders rose 40% to a record $12B, data center orders more than doubled, guidance went up. Stock fell ~6% (Reuters)\n- KOSPI -3.73%. SK hynix -4.23% to its lowest close since April, Samsung -2.98%. Foreigners net bought Samsung, net sold SK hynix (JoongAng Daily, Yonhap)\n\nWhat it all means: ABB posts a record and drops ~6%. Elice is 388x oversubscribed and falls 30% on day one. Nobody's arguing about demand anymore. The fight is over who's good for the money. The best credits win twice. Google pays its way to the front of the grid line, and 3M hands Amazon a warrant just to win its business. Everyone else gets sorted by who their tenant is. The number I'd watch is CoreWeave's $9B of undrawn bank loans. Drawn on schedule, the panic stays in the bonds. Milestones slip, that's the real crack. And DRAM going +80%, +40%, +20% while workers want a bigger cut starts to look like a price top, even with supply tight. Lam tomorrow tells us if tool orders care.\n\n$CRWV $IREN $NVDA $MU $SKHY $SSNLF $GOOGL $AMZN $MMM $ABBNY $ETR $LRCX\n\nFollow @SingularityRes for the full data center roundup every morning."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "bytedance-alibaba-and-tencent-order-35b-of-nvidia-gpus-d9fe683b",
+    "title": "ByteDance, Alibaba and Tencent Order $35B of Nvidia GPUs",
+    "publishedAt": "2026-10-20T10:08:17.327Z",
+    "eventTimeApprox": "2026-10-20T09:11:17.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai",
+      "geopolitics",
+      "business"
+    ],
+    "tweetCount": 17,
+    "authorCount": 16
+  }
+}

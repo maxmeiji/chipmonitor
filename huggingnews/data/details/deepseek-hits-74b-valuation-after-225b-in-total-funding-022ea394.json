@@ -1,0 +1,132 @@
+{
+  "slug": "deepseek-hits-74b-valuation-after-225b-in-total-funding-022ea394",
+  "title": "DeepSeek Hits $74B Valuation After $22.5B in Total Funding",
+  "publishedAt": "2026-10-22T10:25:41.548Z",
+  "eventTimeApprox": "2026-10-22T03:16:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 32,
+  "authorCount": 27,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "summary": "A coalition of industrial giants including SMIC and Geely has invested in the Hangzhou-based startup to support its bid for global AI dominance. The company raised approximately $15B (100 billion yuan) in its latest financing round, which assigned DeepSeek a pre-money valuation of about $74.8B, according to Bloomberg and Chinese media. This capital raise was led by Tencent and battery maker CATL, with the latter contributing about $1.5B to double its stake. Other participants included IT provider Lenovo, Stony Creek Capital, and Legend Capital.\n\nThe AI lab has collected roughly $22.5B over the past six months, including a prior round of more than $7.5B that closed in June. DeepSeek is allocating the funds to construct data centers and expand its open-source models to compete with US rivals OpenAI and Anthropic. The company is also preparing for an initial public offering while leveraging its hardware-heavy investor pool to secure the infrastructure needed for large-scale computing.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113211084450488384",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2113211084450488384",
+      "tweetedAt": "2026-10-22T10:09:18.000Z",
+      "bestBit": "DEEPSEEK VALUED AT $74 BILLION PRE-MONEY IN LATEST ROUND, SOURCES SAY",
+      "text": "CHINA'S DEEPSEEK RAISES $15 BILLION IN FINANCING ROUND, SOURCES SAY\n\nDEEPSEEK VALUED AT $74 BILLION PRE-MONEY IN LATEST ROUND, SOURCES SAY\n\nCATL, TENCENT, MONOLITH, SHIXIANG INVEST IN DEEPSEEK, SOURCES SAY\n\nNEW DEEPSEEK BACKERS INCLUDE STONY CREEK CAPITAL, LEGEND CAPITAL AND GEELY, SOURCES SAY"
+    },
+    {
+      "tweetId": "2113106318659928525",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2113106318659928525",
+      "tweetedAt": "2026-10-22T03:13:00.000Z",
+      "bestBit": "Together with a first round above $7.5B that closed in June, DeepSeek has collected about $22.5B in roughly 6 months",
+      "text": "Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.\n\nThe Hangzhou lab lifted its target at least twice during talks, from about $7.5B to $12B\n\nCATL and Tencent were among the largest backers, with CATL reportedly committing about $1.5B, double its first-round check.\n\nChinese media put the pre-money valuation at about $74.8B, unchanged as the round doubled, so new money bought bigger stakes at the same price.\n\nTogether with a first round above $7.5B that closed in June, DeepSeek has collected about $22.5B in roughly 6 months."
+    },
+    {
+      "tweetId": "2113101606363484199",
+      "role": "source",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2113101606363484199",
+      "tweetedAt": "2026-10-22T02:54:17.000Z",
+      "bestBit": "The Whale has raised another $15 billion",
+      "text": "The Whale has raised another $15 billion. https://t.co/AghYcLmseD"
+    },
+    {
+      "tweetId": "2113107338311987504",
+      "role": "commentary",
+      "authorHandle": "miles_brundage",
+      "url": "https://x.com/Miles_Brundage/status/2113107338311987504",
+      "tweetedAt": "2026-10-22T03:17:03.000Z",
+      "bestBit": "Still way way less than the leading American companies but way more than enough to build ASI",
+      "text": "Whoa that’s more than I would have guessed they could raise\n\nStill way way less than the leading American companies but way more than enough to build ASI (especially with lax export controls)",
+      "quotedTweetText": "The Whale has raised another $15 billion. https://t.co/AghYcLmseD"
+    },
+    {
+      "tweetId": "2113103653863125124",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2113103653863125124",
+      "tweetedAt": "2026-10-22T03:02:25.000Z",
+      "bestBit": "In total, 150 billion RMB over 4 months. That's $22.45B at 6.68 RMB/$",
+      "text": "In total, 150 billion RMB over 4 months. That's $22.45B at 6.68 RMB/$. ($19.46B if we count non-Wenfeng capital only). Plus crazy API profitability. Whale is probably the most cash-rich AI startup in China. When they have physical assets, they can start loaning.\nWhale will win.",
+      "quotedTweetText": "The Whale has raised another $15 billion. https://t.co/AghYcLmseD"
+    },
+    {
+      "tweetId": "2113139285666767095",
+      "role": "support",
+      "authorHandle": "leo114119",
+      "url": "https://x.com/leo114119/status/2113139285666767095",
+      "tweetedAt": "2026-10-22T05:24:00.000Z",
+      "bestBit": "做存储芯片的——兆易 做 CPU 代工的——中芯 做 IT 的——联想 老牌投资——IDG 老牌资本——中信 做汽车的——吉利",
+      "text": "深扒DeepSeek本轮融资的十大股东，都不简单啊。。\n\n做存储芯片的——兆易\n做 CPU 代工的——中芯\n做 IT 的——联想\n老牌投资——IDG\n老牌资本——中信\n做汽车的——吉利\n搞游戏的——腾讯\n\n全是大佬啊。。。 https://t.co/Sw9EiY9eQ6"
+    },
+    {
+      "tweetId": "2113152006739419404",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2113152006739419404",
+      "tweetedAt": "2026-10-22T06:14:33.000Z",
+      "bestBit": "DeepSeek has a very hardware-heavy investor pool. From CATL to SMIC to Geely",
+      "text": "DeepSeek has a very hardware-heavy investor pool. From CATL to SMIC to Geely… is this normal?",
+      "quotedTweetText": "深扒DeepSeek本轮融资的十大股东，都不简单啊。。\n\n做存储芯片的——兆易\n做 CPU 代工的——中芯\n做 IT 的——联想\n老牌投资——IDG\n老牌资本——中信\n做汽车的——吉利\n搞游戏的——腾讯\n\n全是大佬啊。。。 https://t.co/Sw9EiY9eQ6"
+    },
+    {
+      "tweetId": "2113115967555301735",
+      "role": "commentary",
+      "authorHandle": "ns123abc",
+      "url": "https://x.com/ns123abc/status/2113115967555301735",
+      "tweetedAt": "2026-10-22T03:51:21.000Z",
+      "bestBit": "DeepSeek just raised $15 BILLION to aggressively build data centers and open-source models",
+      "text": "BREAKING: DeepSeek just raised $15 BILLION to aggressively build data centers and open-source models \n\n>walks into investor meetings in hangzhou\n>\"we need $7 billion\"\n>investors start sweating >\"actually make it $11 billion\"\n>Tencent nods immediately\n>\"you know what, $15 billion\"\n>CATL, a literal battery company, throws in a bag\n>everyone just kept nodding\n\nOne of the largest funding rounds in Chinese history btw."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "deepseek-raises-15b-in-one-of-chinas-largest-funding-rounds-034bd830",
+    "title": "DeepSeek Raises $15B in One of China's Largest Funding Rounds",
+    "publishedAt": "2026-10-22T02:54:04.056Z",
+    "eventTimeApprox": "2026-10-22T02:33:56.000Z",
+    "routingTopicKeys": [
+      "startups",
+      "ai"
+    ],
+    "tweetCount": 16,
+    "authorCount": 15
+  }
+}

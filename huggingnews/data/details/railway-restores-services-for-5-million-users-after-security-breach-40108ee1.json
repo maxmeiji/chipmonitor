@@ -1,0 +1,134 @@
+{
+  "slug": "railway-restores-services-for-5-million-users-after-security-breach-40108ee1",
+  "title": "Railway Restores Services for 5 Million Users After Security Breach",
+  "publishedAt": "2026-10-26T20:08:08.427Z",
+  "eventTimeApprox": "2026-10-22T00:01:11.500Z",
+  "isFreshStory": false,
+  "tweetCount": 44,
+  "authorCount": 33,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "tech",
+    "ai",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "crypto-hacks",
+      "name": "Crypto Hacks"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113712529646203369/HVVqOrvbYAAqz-W-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113712529646203369/HVVqOrvbYAAqz-W-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "thehackersnews",
+      "tweetUrl": "https://x.com/TheHackersNews/status/2113712529646203369"
+    }
+  },
+  "summary": "The cloud developer platform Railway has returned to normal operating capacity for its current users following a cyberattack that compromised stored environment variables. While services have been fully restored for the platform's 5 million existing users, the company has temporarily paused new signups to maintain system stability during the recovery phase.\n\nThe security breach potentially exposed credentials in roughly 100,000 workspaces, with Railway noting that attackers targeted AI API keys to conduct model distillation. The company stated it cannot refund customers for fraudulent AI token spending incurred through compromised keys, although it is assisting in escalating refund requests to those providers. Separately, an incident responder tracked a suspected attacker wallet moving approximately $371,000 in stolen cryptocurrency across 19 chains following the intrusion.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114800443188535656",
+      "role": "source",
+      "authorHandle": "railway",
+      "url": "https://x.com/Railway/status/2114800443188535656",
+      "tweetedAt": "2026-10-26T19:24:51.000Z",
+      "bestBit": "Railway’s services are fully restored for our 5 million existing users.",
+      "text": "The security incident is resolved for existing users. We value transparency, and thus will continue to provide updates until all surface areas of Railway are fully operational.\n\nWhy is Railway still not accepting new signups?\nRailway’s services are fully restored for our 5 million existing users. To securely and reliably support market demand, we have paused new signups as we prioritize uptime during this recovery period. We will reopen signups this week to continue supporting the ambition of product builders worldwide.\n\nHow can I get a refund for fraudulent AI spend on other platforms? \nRailway is unable to refund customers for spend performed with compromised API keys. However, we encourage you to reach out to AI token providers directly. Afterwards, please submit a support request at station.railway.​com with timestamps, prompts, and addition proof of fraudulent spend so we can escalate the request on your behalf. More information to follow.\n\nWhat is Railway doing to improve security moving forward? \nThis week, we have already or are actively implementing a new generation of builder, encryption, and logging systems. Railway has been acknowledged as critical cyber infrastructure, allowing us to utilize to previously inaccessible tooling to provide best-in-class security for our users.\n\nOur goal has never been to simply get back to where we were. As more of the world's software gets built and run by agents alongside humans, security stops being one team's concern and becomes everyone’s ground floor. With these improvements, Railway will continue to be the best place for humans and agents to bring software to life.\n\nWe'll keep sharing updates in the link below\n\nhttps://t.co/3OJ7RQGGJH"
+    },
+    {
+      "tweetId": "2113026791363473513",
+      "role": "source",
+      "authorHandle": "dobroslav_dev",
+      "url": "https://x.com/dobroslav_dev/status/2113026791363473513",
+      "tweetedAt": "2026-10-21T21:56:59.000Z",
+      "bestBit": "ROTATE ALL YOUR API KEYS YOU HAVE IN RAILWAY RIGHT NOW",
+      "text": "So @Railway was hacked!\n\nROTATE ALL YOUR API KEYS YOU HAVE IN RAILWAY RIGHT NOW\n\nMy @OpenRouter API key was drained!\n\nIt's only on railway, nowhere else"
+    },
+    {
+      "tweetId": "2113056813646238196",
+      "role": "analysis",
+      "authorHandle": "tayvano_",
+      "url": "https://x.com/tayvano_/status/2113056813646238196",
+      "tweetedAt": "2026-10-21T23:56:17.000Z",
+      "bestBit": "They did drain crypto keys that were in Railway.",
+      "text": "They did drain crypto keys that were in Railway.\n\nSeems like an okay sweeper script (read: not something homegrown for this one op)\n\nAttacker:\n0xd9773325282874d18cb83f1fe50f14c39750b2ee\n\n~$371,000\nOct 21 19:36 UTC\n500+ txns\n200+ distict addresses\n19+ EVM chains"
+    },
+    {
+      "tweetId": "2113081753036636427",
+      "role": "commentary",
+      "authorHandle": "tayvano_",
+      "url": "https://x.com/tayvano_/status/2113081753036636427",
+      "tweetedAt": "2026-10-22T01:35:23.000Z",
+      "bestBit": "21:51: Railway actually announces security incident, tells people to rotate keys",
+      "text": "This timeline is an ambulance chasing lawyers wettest fucking wetdream 🫠\n\n07:24: Railway builds are paused\n\n09:28: Railway API + CLI + Dashboard + builds are paused\n\n(lots of \"we're still offline\" updates here)\n\n19:36: First known crypto theft transaction\n\n21:11: Postiz is like \"I'm out, Stripe + Ant are notifying us that our keys are rekt.\"\n\n21:51: Railway actually announces security incident, tells people to rotate keys"
+    },
+    {
+      "tweetId": "2113761371410288664",
+      "role": "commentary",
+      "authorHandle": "tayvano_",
+      "url": "https://x.com/tayvano_/status/2113761371410288664",
+      "tweetedAt": "2026-10-23T22:35:57.000Z",
+      "bestBit": "Stripe and Ant specifically notified Railway customers before Railway did",
+      "text": "@LukeYoungblood Stripe and Ant specifically notified Railway customers before Railway did (see attached tweet)\n\nInitially I assumed this was automated based on abnormal usage / detection\n\nNow we know that Railway sent them to those providers\n\nAt 9:xx utc\n\n10 hours before the crypto was stolen https://t.co/F5vywO5CiQ",
+      "quotedTweetText": "We are currently shutting down Postiz for all customers. We are afraid @Railway has been compromised; they won't tell us.\n\nWe have received emails from Anthropic and Stripe that our keys have been compromised.\n\nWe are digging into it and will get back to you ASAP!"
+    },
+    {
+      "tweetId": "2113047601058873564",
+      "role": "commentary",
+      "authorHandle": "theo",
+      "url": "https://x.com/theo/status/2113047601058873564",
+      "tweetedAt": "2026-10-21T23:19:41.000Z",
+      "bestBit": "Blocking deploys so we can roll keys without downtime is unacceptable.",
+      "text": "Lakebed, Postplan, and Shoo will be down indefinitely until Railway gets their shit fixed and I can actually redeploy them with rolled keys.\n\nIncidents happen. I understand.\n\nBlocking deploys so we can roll keys without downtime is unacceptable. I'm disappointed in Railway."
+    },
+    {
+      "tweetId": "2113287029307944969",
+      "role": "commentary",
+      "authorHandle": "denk_tweets",
+      "url": "https://x.com/denk_tweets/status/2113287029307944969",
+      "tweetedAt": "2026-10-22T15:11:05.000Z",
+      "bestBit": "yesterday, Railway was breached and thousands of vibe-coders (and companies) spent the day rotating every API key / password / token they had stored on there",
+      "text": "congrats, you vibe-coded your own software. you’re also the head of security now\n\nyesterday, Railway was breached and thousands of vibe-coders (and companies) spent the day rotating every API key / password / token they had stored on there\n\nthen had to audit their entire tech stack and assess their exposure (i.e. maybe they weren’t exposed directly, but vendor A they use was)\n\nsame day, PHP (the language behind ~70% of websites) patched two bugs that could let a stranger take over your server without a password\n\nif you are building your own software, all of that is on you:\n\n> you need to stay up to date on the latest cybersecurity news\n\n> you need to routinely audit and update your tech stack\n\n> you need to spring into action to reduce exposure on days like yesterday\n\n> you’re responsible and liable for your (and your customers’) data\n\nor rather than vibe-coding your own storefront, you could pay shopify $39/mo and let 7,600 experts handle payments, fraud, PCI compliance, and all of the above for you\n\nrather than vibe-coding your own newsletter platform, you could pay @beehiiv $49/mo and let 130 specialists handle deliverability, security, uptime, and everything else\n\nAI made it easier to build your own software… but it also made it easier to break into it. there will be many more p0 exploits like yesterday moving forward\n\nSaaS isn’t invulnerable, but at least those companies are staffed with senior engineering teams and security experts who handle issues like this for a living"
+    },
+    {
+      "tweetId": "2113274044955099629",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2113274044955099629",
+      "tweetedAt": "2026-10-22T14:19:29.000Z",
+      "bestBit": "Railway said a subset of users may be affected, yet it froze all deployments and reset bucket keys and GitHub tokens itself.",
+      "text": "Developer platform Railway told every customer to rotate all secrets after an intruder decrypted some stored credentials.\n\nThose environment variables hold database passwords, cloud keys and model API keys, letting anyone holding them sign in as the owner.\n\nRailway said a subset of users may be affected, yet it froze all deployments and reset bucket keys and GitHub tokens itself.\n\nIt tied the intrusion to a string of attacks on platforms aimed at AI inference providers, and asked those providers to revoke keys.\n\nDays earlier, OpenCode blamed a distillation attack for a breach possibly exposing OpenAI, Anthropic and Google keys saved by 1.4% of Console users.\n\nStolen keys let attackers harvest frontier-model answers for training rival models while victims pay the bills."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "railway-reports-secrets-in-100000-workspaces-exposed-in-ai-targeted-brea-16e7da49",
+    "title": "Railway Reports Secrets in 100,000 Workspaces Exposed in AI-Targeted Breach",
+    "publishedAt": "2026-10-23T20:42:24.317Z",
+    "eventTimeApprox": "2026-10-21T23:51:28.500Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "ai",
+      "tech",
+      "crypto"
+    ],
+    "tweetCount": 43,
+    "authorCount": 33
+  }
+}

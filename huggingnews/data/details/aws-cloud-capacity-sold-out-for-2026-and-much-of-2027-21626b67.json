@@ -1,0 +1,81 @@
+{
+  "slug": "aws-cloud-capacity-sold-out-for-2026-and-much-of-2027-21626b67",
+  "title": "AWS Cloud Capacity Sold Out for 2026 and Much of 2027",
+  "publishedAt": "2026-10-23T21:39:45.586Z",
+  "eventTimeApprox": "2026-10-23T21:05:40.000Z",
+  "isFreshStory": false,
+  "tweetCount": 41,
+  "authorCount": 33,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113694871517340029/3W5R18kVNhnAFnTh-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113694871517340029/3W5R18kVNhnAFnTh-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2113694521792110592/vid/avc1/1920x1080/j7sgfB4YwGORorv9.mp4?tag=29",
+    "credit": {
+      "handle": "firesidealpha",
+      "tweetUrl": "https://x.com/firesidealpha/status/2113694871517340029"
+    }
+  },
+  "summary": "Amazon's cloud division has filled nearly all of its compute availability for the coming years, with CEO Andy Jassy stating that a \"good chunk\" of 2028 bookings is already gone. AWS capacity is currently sold out for 2026 and largely booked for 2027, as constraints on power, memory, and data center space persist through the end of 2027.\n\nJassy said that rapid growth in both AI and non-AI core business has created a conflict in memory allocation, requiring trade-offs between High Bandwidth Memory for AI accelerators and DRAM for core services. He noted that the high volume of demand justifies increased capital investment to further expand the company's infrastructure.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113694871517340029",
+      "role": "source",
+      "authorHandle": "firesidealpha",
+      "url": "https://x.com/firesidealpha/status/2113694871517340029",
+      "tweetedAt": "2026-10-23T18:11:42.000Z",
+      "bestBit": "If you think about it, there’s only so much data center and power today. There’s only so much memory, and I don’t think that that shortage ends in 2027.",
+      "text": "Andy Jassy reveals AWS capacity is sold out for 2026, largely sold out for 2027, and a good chunk of 2028 is gone\n\n“If you think about it, there’s only so much data center and power today. There’s only so much memory, and I don’t think that that shortage ends in 2027.\"\n\n\"I believe, one of the reasons, coming back to the capital investment, why I think we could invest a lot more and it wouldn’t be a bad use of capital is that '26 is obviously at this point sold out. '27 is largely sold out. We always leave a certain amount for on-demand in our inference service, Bedrock or EC2, but largely sold out, all the big chunks. A good chunk of '28 is sold out.\"\n\n\"There’s so much demand. If you think about the AI business and what we call core business, which think of core as non-AI, they’re both growing at really rapid rates right now. And if you have only a certain amount of memory, you have to decide how much of the memory you want to allocate to HBM, to the AI accelerators, versus to DRAM, into your core. So these are real trade-offs you have to make.”",
+      "quotedTweetText": "Ben Horowitz reveals Amazon CEO Andy Jassy told him its AI compute is sold out beyond 2028, and says that shortage makes this fundamentally different from the dot-com bubble\n\n“This shortage is so bad. You know, I was speaking with Andy Jassy, who runs Amazon, yesterday. And I said, yeah, like, we’re out of everything, you know, till 2028. He’s like, oh, it’s beyond 2028. Like, I don’t think we get stuff back, like, end of 2028, maybe. So everything else is sold out.”\n\n“So he has the advantage of that, he’s got supply in a great shortage, which is extremely different than the internet bubble. The internet bubble, we didn’t have enough demand, because we had to build the internet, people had to get broadband, you know, you needed all this stuff people had to buy, you know, originally, they had to get their browser at price, all this kind of thing.”\n\n“There weren’t enough consumers on the internet to absorb all the bandwidth that had gotten built out. And they had a massive amount of debt, not unlike we’re building today, although not as big. But the lack of demand killed it. We don’t really have a lack of demand in AI. So I think the dynamics will be different.”\n\n“I do think, like, for sure, if you get into a pathological debt situation, that can wreck anybody. It’s why, by the way, we’re not invested in any of these neo-clouds either, for that reason.”"
+    },
+    {
+      "tweetId": "2113740080565350655",
+      "role": "commentary",
+      "authorHandle": "azeem",
+      "url": "https://x.com/azeem/status/2113740080565350655",
+      "tweetedAt": "2026-10-23T21:11:21.000Z",
+      "bestBit": "Ben Horowitz reveals Amazon CEO Andy Jassy told him its AI compute is sold out beyond 2028, and says that shortage makes this fundamentally different from the dot-com bubble",
+      "text": "Who are the buyers?",
+      "quotedTweetText": "Andy Jassy reveals AWS capacity is sold out for 2026, largely sold out for 2027, and a good chunk of 2028 is gone\n\n“If you think about it, there’s only so much data center and power today. There’s only so much memory, and I don’t think that that shortage ends in 2027.\"\n\n\"I believe, one of the reasons, coming back to the capital investment, why I think we could invest a lot more and it wouldn’t be a bad use of capital is that '26 is obviously at this point sold out. '27 is largely sold out. We always leave a certain amount for on-demand in our inference service, Bedrock or EC2, but largely sold out, all the big chunks. A good chunk of '28 is sold out.\"\n\n\"There’s so much demand. If you think about the AI business and what we call core business, which think of core as non-AI, they’re both growing at really rapid rates right now. And if you have only a certain amount of memory, you have to decide how much of the memory you want to allocate to HBM, to the AI accelerators, versus to DRAM, into your core. So these are real trade-offs you have to make.”"
+    },
+    {
+      "tweetId": "2113741810556346852",
+      "role": "commentary",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2113741810556346852",
+      "tweetedAt": "2026-10-23T21:18:13.000Z",
+      "bestBit": "AWS is the largest cloud and bringing on the most capacity",
+      "text": "Man, AWS is the largest cloud and bringing on the most capacity\n\nHard not to hear something like this and not be bullish on their opportunity",
+      "quotedTweetText": "Andy Jassy reveals AWS capacity is sold out for 2026, largely sold out for 2027, and a good chunk of 2028 is gone\n\n“If you think about it, there’s only so much data center and power today. There’s only so much memory, and I don’t think that that shortage ends in 2027.\"\n\n\"I believe, one of the reasons, coming back to the capital investment, why I think we could invest a lot more and it wouldn’t be a bad use of capital is that '26 is obviously at this point sold out. '27 is largely sold out. We always leave a certain amount for on-demand in our inference service, Bedrock or EC2, but largely sold out, all the big chunks. A good chunk of '28 is sold out.\"\n\n\"There’s so much demand. If you think about the AI business and what we call core business, which think of core as non-AI, they’re both growing at really rapid rates right now. And if you have only a certain amount of memory, you have to decide how much of the memory you want to allocate to HBM, to the AI accelerators, versus to DRAM, into your core. So these are real trade-offs you have to make.”"
+    }
+  ],
+  "isSuperseded": false
+}

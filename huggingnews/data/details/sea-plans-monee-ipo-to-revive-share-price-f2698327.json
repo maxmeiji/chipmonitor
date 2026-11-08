@@ -1,0 +1,64 @@
+{
+  "slug": "sea-plans-monee-ipo-to-revive-share-price-f2698327",
+  "title": "Sea Plans Monee IPO to Revive Share Price",
+  "publishedAt": "2026-10-20T07:25:04.156Z",
+  "eventTimeApprox": "2026-10-20T06:05:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "tech",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SE",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",
+      "hubKey": "se"
+    }
+  ],
+  "summary": "The operator of the Shopee e-commerce marketplace is launching Sea Cloud to provide AI-powered infrastructure to businesses globally. The Singapore internet giant is also preparing an initial public offering for Monee, its financial services arm, to accelerate its growth and diversify its revenue streams beyond retail and gaming.\n\nThese strategic moves are intended to reverse a decline in the company's stock price. By entering the enterprise cloud market, Sea will compete directly with existing providers such as Amazon and Alibaba Cloud.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112416076562579484",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2112416076562579484",
+      "tweetedAt": "2026-10-20T05:30:14.000Z",
+      "bestBit": "Sea plans IPO for financial services arm Monee, memo says",
+      "text": "Sea plans IPO for financial services arm Monee, memo says https://t.co/zeqiBXlit1 https://t.co/zeqiBXlit1"
+    },
+    {
+      "tweetId": "2112424851231150213",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2112424851231150213",
+      "tweetedAt": "2026-10-20T06:05:06.000Z",
+      "bestBit": "seeking to bolster growth and revive a plunging stock",
+      "text": "Singapore internet giant Sea Ltd. is starting a new cloud business and weighing a public listing of its fintech arm, seeking to bolster growth and revive a plunging stock. https://t.co/tY2TUOGitF"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "nico-caprez-leads-500b-nvidia-financing-drive-for-customers-3dd31bee",
+  "title": "Nico Caprez Leads $500B Nvidia Financing Drive for Customers",
+  "publishedAt": "2026-10-05T19:53:22.740Z",
+  "eventTimeApprox": "2026-10-05T15:06:46.500Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Jensen Huang's son-in-law is coordinating an initiative to ensure the company's clients have sufficient capital to purchase AI hardware. This $500 billion financing push, led by VP Nico Caprez, helps buyers find the funding, sales leads, and power necessary to sustain their chip orders. Caprez also manages multibillion dollar relationships with neocloud providers and is working to convert GPUs into a recognized financial asset.\n\nCaprez joined Nvidia 2.5 years ago and has since rapidly ascended to the role of vice president after marrying Huang's daughter, Madison. He serves as a \"consigliere\" to the chief executive and acts as the primary contact for neocloud accounts, according to reporting from The Information based on interviews with more than 12 employees.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107099521776042428",
+      "role": "source",
+      "authorHandle": "_pheebini",
+      "url": "https://x.com/_pheebini/status/2107099521776042428",
+      "tweetedAt": "2026-10-05T13:24:08.000Z",
+      "bestBit": "I spoke with more than a dozen people who work with Nico Caprez, Jensen's new son-in-law",
+      "text": "New: I spoke with more than a dozen people who work with Nico Caprez, Jensen's new son-in-law (he and Madison married in Hawaii recently). Here's how he is quickly becoming one of Nvidia's most important executives... \n\nRead the full profile in @theinformation: https://t.co/onl1aQ9wAd"
+    },
+    {
+      "tweetId": "2107191610526015733",
+      "role": "support",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2107191610526015733",
+      "tweetedAt": "2026-10-05T19:30:04.000Z",
+      "bestBit": "Behind Nvidia’s $500 billion financing push: Jensen Huang’s son-in-law.",
+      "text": "Exclusive: Behind Nvidia’s $500 billion financing push: Jensen Huang’s son-in-law.\n\nNico Caprez is helping secure the capital customers need to keep buying Nvidia chips.\n\nFull story: https://t.co/lWyCIqZzm9"
+    },
+    {
+      "tweetId": "2107126185788592139",
+      "role": "commentary",
+      "authorHandle": "amir",
+      "url": "https://x.com/amir/status/2107126185788592139",
+      "tweetedAt": "2026-10-05T15:10:05.000Z",
+      "bestBit": "entrusted w/ key initiatives, incl. turning GPUs into a financial asset",
+      "text": "👀 Jensen Huang has a brand-new son-in-law. \n\nNico Caprez &amp; Madison Huang now form a power couple inside Nvidia, are consiglieres to Jensen &amp; entrusted w/ key initiatives, incl. turning GPUs into a financial asset... https://t.co/IrvJr7VX9I"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nico-caprez-rises-to-nvidia-vp-and-jensen-huang-consigliere-dbb69740",
+    "title": "Nico Caprez Rises to Nvidia VP and Jensen Huang Consigliere",
+    "publishedAt": "2026-10-05T14:24:57.018Z",
+    "eventTimeApprox": "2026-10-05T13:56:02.000Z",
+    "routingTopicKeys": [
+      "business",
+      "ai"
+    ],
+    "tweetCount": 9,
+    "authorCount": 6
+  }
+}

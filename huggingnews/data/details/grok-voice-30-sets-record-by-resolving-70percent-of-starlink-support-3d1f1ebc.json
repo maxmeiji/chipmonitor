@@ -1,0 +1,95 @@
+{
+  "slug": "grok-voice-30-sets-record-by-resolving-70percent-of-starlink-support-3d1f1ebc",
+  "title": "Grok Voice 3.0 Sets Record by Resolving 70% of Starlink Support",
+  "publishedAt": "2026-10-14T17:26:33.416Z",
+  "eventTimeApprox": "2026-10-14T17:08:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 53,
+  "authorCount": 22,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110416584183628161/HUm0L8NWAAEG6mo-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110416584183628161/HUm0L8NWAAEG6mo-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "spacexsi",
+      "tweetUrl": "https://x.com/SpaceXSI/status/2110416584183628161"
+    }
+  },
+  "summary": "SpaceX has opened its latest speech-to-speech AI model to developers via API and a dedicated agent builder for $0.08 per minute. The tool responds in under one second with 40% lower latency than other frontier models and currently manages millions of daily conversations in Tesla vehicles, enabling drivers to handle calendar checks or coffee orders hands-free. The model is also integrated into Starlink's call centers to handle 20,000 daily customer interactions.\n\nThe system currently automates roughly 70% of Starlink's support queries without human intervention, and one in four sales calls ends in a purchase. According to benchmarks from Artificial Analysis, Grok Voice 3.0 is more cost-efficient per task than both GPT-Live-1 and GPT-Realtime-2.1. SpaceX claims the model sets a new record for efficiency in resolving customer support calls.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110416580899168305",
+      "role": "source",
+      "authorHandle": "spacexsi",
+      "url": "https://x.com/SpaceXSI/status/2110416580899168305",
+      "tweetedAt": "2026-10-14T17:04:57.000Z",
+      "bestBit": "responds in under a second, and costs less than other frontier models",
+      "text": "Introducing Grok Voice 3.0, the world’s most intelligent speech-to-speech model.\n\nIt excels at resolving customer calls, responds in under a second, and costs less than other frontier models. https://t.co/cfDRrkQPEc"
+    },
+    {
+      "tweetId": "2110416584183628161",
+      "role": "support",
+      "authorHandle": "spacexsi",
+      "url": "https://x.com/SpaceXSI/status/2110416584183628161",
+      "tweetedAt": "2026-10-14T17:04:57.000Z",
+      "bestBit": "at SpaceX, it resolves 70% of Starlink support calls on its own",
+      "text": "Grok Voice 3.0 achieves frontier performance in voice agent tasks at 40% lower latency. At SpaceX, it resolves 70% of Starlink support calls on its own. https://t.co/94UCOQzqtG"
+    },
+    {
+      "tweetId": "2110416586561433913",
+      "role": "support",
+      "authorHandle": "spacexsi",
+      "url": "https://x.com/SpaceXSI/status/2110416586561433913",
+      "tweetedAt": "2026-10-14T17:04:58.000Z",
+      "bestBit": "available today in the API and Voice Agent Builder at $0.08/min",
+      "text": "Grok Voice 3.0 is available today in the API and Voice Agent Builder at $0.08/min. Read our blog to learn more:\nhttps://t.co/LkxbuF7u65"
+    },
+    {
+      "tweetId": "2110418329965854978",
+      "role": "support",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2110418329965854978",
+      "tweetedAt": "2026-10-14T17:11:54.000Z",
+      "bestBit": "Starlink call centers use Grok Voice to answer 20,000 customer calls per day",
+      "text": "SpaceX says @Starlink call centers use Grok Voice to answer 20,000 customer calls per day. ~70% are resolved with no human in the loop, and one in four sales calls ends in a purchase before the caller hangs up. Grok Voice 3.0 also handles millions of convos a day in Tesla vehicles.",
+      "quotedTweetText": "SpaceX has just introduced Grok Voice 3.0\n\n\"It's the world’s most intelligent speech-to-speech model. It sets a new record for resolving customer support calls, has class-leading latency at under one second, and costs less than other frontier models. It's also cheaper to run than comparable models. Artificial Analysis measures what each model costs to complete a task in its Big Bench Audio run, and Grok Voice 3.0 comes in under both GPT-Live-1 (Astra, Medium) and GPT-Realtime-2.1.\n\nGrok Voice 3.0 handles millions of conversations a day in Tesla vehicles. Drivers can use Connectors for simple requests like checking their calendar or answering an email, and Grok Bot for bigger tasks like ordering a coffee or booking dinner—all completely hands-free (see it on X). Grok Voice 3.0 also powers Grok Bot’s voice mode.\"\n\nMore info: https://t.co/tCh9w8XqhZ"
+    }
+  ],
+  "isSuperseded": false
+}

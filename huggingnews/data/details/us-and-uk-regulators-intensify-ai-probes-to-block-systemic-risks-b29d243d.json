@@ -1,0 +1,65 @@
+{
+  "slug": "us-and-uk-regulators-intensify-ai-probes-to-block-systemic-risks-b29d243d",
+  "title": "US and UK Regulators Intensify AI Probes to Block Systemic Risks",
+  "publishedAt": "2026-10-13T17:01:25.993Z",
+  "eventTimeApprox": "2026-10-13T10:07:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "us-markets",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "summary": "The Federal Reserve, the Office of the Comptroller of the Currency (OCC), and the Federal Deposit Insurance Corporation (FDIC) are questioning banks about the deployment of agentic AI and models developed in China. These US watchdogs are focusing on whether autonomous cyberdefense agents can be monitored, audited, and shut down to prevent rogue systems from destabilizing the financial sector.\n\nUK authorities are also requiring large banks to review independent backup systems to ensure continuity if primary infrastructure is compromised. The expanded oversight follows warnings from a senior European bank executive that AI could cause severe damage to banking markets within 6 months, with regulators fearing that automated attacks could undermine global systemic stability.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109886958684000483",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2109886958684000483",
+      "tweetedAt": "2026-10-13T06:00:25.000Z",
+      "bestBit": "Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
+      "text": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say https://t.co/Fwt7AkKPbW https://t.co/Fwt7AkKPbW"
+    },
+    {
+      "tweetId": "2110045397762683173",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2110045397762683173",
+      "tweetedAt": "2026-10-13T16:30:00.000Z",
+      "bestBit": "pointing to potential cyberattacks on banks or rogue agents undermining global financial stability",
+      "text": "Banking regulators are stepping up efforts to contain growing AI risks, with some pointing to potential cyberattacks on banks or rogue agents undermining global financial stability. Tommy Reggiori Wilkes explains https://t.co/fQfmO01HDr https://t.co/FejHmona3K"
+    },
+    {
+      "tweetId": "2109949036124135880",
+      "role": "commentary",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2109949036124135880",
+      "tweetedAt": "2026-10-13T10:07:05.000Z",
+      "bestBit": "A senior executive at a major European bank fears AI could cause major damage to banking and financial markets within six months",
+      "text": "🚨wtf. A senior executive at a major European bank fears AI could cause major damage to banking and financial markets within six months, Reuters reports.\n\nThe Fed, OCC and FDIC are questioning banks about Chinese-developed AI models and whether autonomous cyberdefense agents can be monitored, audited and shut down.\n\nAnd UK regulators are asking major banks to examine fully independent backup systems in case their primary infrastructure is compromised."
+    }
+  ],
+  "isSuperseded": false
+}

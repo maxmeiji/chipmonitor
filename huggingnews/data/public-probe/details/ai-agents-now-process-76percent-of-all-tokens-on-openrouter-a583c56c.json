@@ -1,0 +1,133 @@
+{
+  "slug": "ai-agents-now-process-76percent-of-all-tokens-on-openrouter-a583c56c",
+  "title": "AI Agents Now Process 76% of All Tokens on OpenRouter",
+  "publishedAt": "2026-11-06T21:39:08.803Z",
+  "eventTimeApprox": "2026-11-02T18:23:44.500Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPRT",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenRouter",
+      "hubKey": "openrouter"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118802562820514052/HWd_s_cboAA4mDV-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118802562820514052/HWd_s_cboAA4mDV-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "openrouter",
+      "tweetUrl": "https://x.com/OpenRouter/status/2118802562820514052"
+    }
+  },
+  "summary": "OpenRouter's October data shows that autonomous AI agents drove the majority of platform traffic, using approximately 600 trillion tokens out of a total 790 trillion processed throughout the month. The use of agentic API keys now accounts for 76% of the platform's total token volume, a sharp rise from 8% one year ago.\n\nThe platform has seen its monthly token volumes grow 25 times since January, reaching an annual run rate of 10 quadrillion tokens in early November. According to company data, token volumes have doubled every 10.5 weeks, accelerating as the weekly processing rate grew from 1 trillion to 100 trillion tokens over a 78 week period.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118802545812611471",
+      "role": "source",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2118802545812611471",
+      "tweetedAt": "2026-11-06T20:27:47.000Z",
+      "bestBit": "October in tokens: 790T tokens, up 25x from January.",
+      "text": "Our October data recap covers token growth, agentic usage, token prices, model lab retention, and inference providers. Here's what stood out.\n\n1/ October in tokens: 790T tokens, up 25x from January. https://t.co/z9dmM8wVXt"
+    },
+    {
+      "tweetId": "2118802562820514052",
+      "role": "support",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2118802562820514052",
+      "tweetedAt": "2026-11-06T20:27:51.000Z",
+      "bestBit": "Agents now consume 76% of all tokens on OpenRouter, about 600T in October.",
+      "text": "2/ Agents now consume 76% of all tokens on OpenRouter, about 600T in October. A year ago, agentic API keys took 8%. https://t.co/mysnaRZXrA"
+    },
+    {
+      "tweetId": "2117185584330645931",
+      "role": "analysis",
+      "authorHandle": "deedydas",
+      "url": "https://x.com/deedydas/status/2117185584330645931",
+      "tweetedAt": "2026-11-02T09:22:33.000Z",
+      "bestBit": "Token volumes continue to 2x every 10.5 weeks.",
+      "text": "Congratulations to OpenRouter for crossing 10 QUADRILLION annual token run rate today! \n\nToken volumes continue to 2x every 10.5 weeks.\n\nIn the last 9 weeks, OpenRouter processed more tokens than all of time before that. https://t.co/9re1juJFlv"
+    },
+    {
+      "tweetId": "2117310358100869267",
+      "role": "support",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2117310358100869267",
+      "tweetedAt": "2026-11-02T17:38:21.000Z",
+      "bestBit": "Going from 1 trillion tokens per week to 10 trillion took 50 weeks.",
+      "text": "Going from 1 trillion tokens per week to 10 trillion took 50 weeks.\n\nFrom 10 trillion to 100 trillion, 28 weeks.\n\n1 quadrillion per week coming soon. https://t.co/ovU2tY3cQ8"
+    },
+    {
+      "tweetId": "2117311158936096844",
+      "role": "commentary",
+      "authorHandle": "peterj_walker",
+      "url": "https://x.com/PeterJ_Walker/status/2117311158936096844",
+      "tweetedAt": "2026-11-02T17:41:32.000Z",
+      "bestBit": "100T --> 1Q in...not long now.",
+      "text": "1T --&gt; 10T in 50 weeks\n\n10T --&gt; 100T in 28 weeks\n\n100T --&gt; 1Q in...not long now.",
+      "quotedTweetText": "Going from 1 trillion tokens per week to 10 trillion took 50 weeks.\n\nFrom 10 trillion to 100 trillion, 28 weeks.\n\n1 quadrillion per week coming soon. https://t.co/ovU2tY3cQ8"
+    },
+    {
+      "tweetId": "2117355548719165734",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2117355548719165734",
+      "tweetedAt": "2026-11-02T20:37:56.000Z",
+      "bestBit": "10 quadrillion tokens a year through @OpenRouter , and the curve is still moving vertically up.",
+      "text": "Humanity found the one thing it will never feel full on.\n\n10 quadrillion tokens a year through @OpenRouter , and the curve is still moving vertically up. https://t.co/LvJrwuaUIH",
+      "quotedTweetText": "Congratulations to OpenRouter for crossing 10 QUADRILLION annual token run rate today! \n\nToken volumes continue to 2x every 10.5 weeks.\n\nIn the last 9 weeks, OpenRouter processed more tokens than all of time before that. https://t.co/9re1juJFlv"
+    },
+    {
+      "tweetId": "2117692381529252083",
+      "role": "commentary",
+      "authorHandle": "iancutress",
+      "url": "https://x.com/IanCutress/status/2117692381529252083",
+      "tweetedAt": "2026-11-03T18:56:23.000Z",
+      "bestBit": "A record day, 1.3 billion tokens used.",
+      "text": "A record day, 1.3 billion tokens used.\n🙃"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openrouter-hits-10-quadrillion-annual-token-run-rate-26d3d5a9",
+    "title": "OpenRouter Hits 10 Quadrillion Annual Token Run Rate",
+    "publishedAt": "2026-11-02T17:23:33.660Z",
+    "eventTimeApprox": "2026-11-02T15:03:07.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 11,
+    "authorCount": 7
+  }
+}

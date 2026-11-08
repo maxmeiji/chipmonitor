@@ -1,0 +1,69 @@
+{
+  "slug": "sequoia-openai-and-citadel-securities-launch-100k-poker-bot-tournament-9a87e5cf",
+  "title": "Sequoia, OpenAI and Citadel Securities Launch $100K Poker Bot Tournament",
+  "publishedAt": "2026-10-27T17:09:27.971Z",
+  "eventTimeApprox": "2026-10-27T16:28:35.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Teams of one or two university students and recent graduates will compete to develop poker bots from scratch within 60 minutes as part of a new competition called No Limit. The tournament, hosted by Sequoia, Citadel Securities and OpenAI, will start with regional qualifying events in Boston, Pittsburgh and the Bay Area in early November. The five top-performing teams from each region will advance to the finals to compete for a $100K grand prize.\n\nThe competition's strict time limit is a response to the increased efficiency of modern AI tools. While a similar annual course at MIT previously required a month for students to build poker AIs, participants in the new tournament will utilize coding agents to complete the process in a single hour. The event is open to current students and those who graduated in 2025 or 2026.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115111389501218868",
+      "role": "source",
+      "authorHandle": "sequoia",
+      "url": "https://x.com/sequoia/status/2115111389501218868",
+      "tweetedAt": "2026-10-27T16:00:26.000Z",
+      "bestBit": "Top five teams from each fly to the Finals. $100K grand prize.",
+      "text": "Announcing No Limit: a bot building tournament hosted by @Sequoia, @citsecurities and @OpenAI.\n\nTeams of 1 or 2 get 60 minutes to build a pokerbot from scratch.\n\nAgents play thousands of games across six scored rounds.\n\nOpen to university students and recent grads (‘25 or ‘26).\n\nRegionals in Boston, Pittsburgh and the Bay Area in early November. Top five teams from each fly to the Finals. $100K grand prize."
+    },
+    {
+      "tweetId": "2115123481767809499",
+      "role": "analysis",
+      "authorHandle": "polynoamial",
+      "url": "https://x.com/polynoamial/status/2115123481767809499",
+      "tweetedAt": "2026-10-27T16:48:29.000Z",
+      "bestBit": "Coding agents have accelerated that process so much that it's now possible to build a poker bot in an *hour*.",
+      "text": "Every winter, @MIT has run a 1-month class (6.9630) in which students make poker AIs and compete against each other for cash prizes. Coding agents have accelerated that process so much that it's now possible to build a poker bot in an *hour*.",
+      "quotedTweetText": "Announcing No Limit: a bot building tournament hosted by @Sequoia, @citsecurities and @OpenAI.\n\nTeams of 1 or 2 get 60 minutes to build a pokerbot from scratch.\n\nAgents play thousands of games across six scored rounds.\n\nOpen to university students and recent grads (‘25 or ‘26).\n\nRegionals in Boston, Pittsburgh and the Bay Area in early November. Top five teams from each fly to the Finals. $100K grand prize."
+    },
+    {
+      "tweetId": "2115113467078463783",
+      "role": "commentary",
+      "authorHandle": "sonyatweetybird",
+      "url": "https://x.com/sonyatweetybird/status/2115113467078463783",
+      "tweetedAt": "2026-10-27T16:08:42.000Z",
+      "bestBit": "kudos @abhishekm1636 for the spark of inspiration / stewardship",
+      "text": "casino royale, ai edition 🎰👑\n\ndelighted for sequoia, openai, citsec to host this poker bot tournament together. may the best ideas win.\n\nkudos @abhishekm1636 for the spark of inspiration / stewardship and thanks @polynoamial and other friends for teaming with us!!!",
+      "quotedTweetText": "Announcing No Limit: a bot building tournament hosted by @Sequoia, @citsecurities and @OpenAI.\n\nTeams of 1 or 2 get 60 minutes to build a pokerbot from scratch.\n\nAgents play thousands of games across six scored rounds.\n\nOpen to university students and recent grads (‘25 or ‘26).\n\nRegionals in Boston, Pittsburgh and the Bay Area in early November. Top five teams from each fly to the Finals. $100K grand prize."
+    }
+  ],
+  "isSuperseded": false
+}

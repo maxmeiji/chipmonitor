@@ -1,0 +1,84 @@
+{
+  "slug": "menlo-ventures-backs-factoryai-after-ai-coding-market-hits-30b-8d05c20f",
+  "title": "Menlo Ventures Backs FactoryAI After AI Coding Market Hits $30B",
+  "publishedAt": "2026-10-05T15:54:58.009Z",
+  "eventTimeApprox": "2026-10-05T14:42:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:FCTY",
+      "kind": "private",
+      "role": "subject",
+      "name": "Factory",
+      "hubKey": "factory"
+    }
+  ],
+  "summary": "A new governed platform from FactoryAI handles the full software lifecycle from initial planning and review to security and documentation. Menlo Ventures is investing in the startup to expand the role of artificial intelligence beyond basic code generation into a model-agnostic system that manages the entire development loop.\n\nThe investment comes as the AI coding market grew from $550M to more than $30B in 2 years. Menlo's current AI portfolio includes lead positions in 5 of the top 15 consumer AI applications by monthly revenue and a Series D investment in Anthropic in January 2024 at a valuation of approximately $4B.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107110275736633722",
+      "role": "source",
+      "authorHandle": "menloventures",
+      "url": "https://x.com/MenloVentures/status/2107110275736633722",
+      "tweetedAt": "2026-10-05T14:06:52.000Z",
+      "bestBit": "automates the entire software lifecycle: planning, review, testing, security, documentation, all of it",
+      "text": "Menlo is investing in @FactoryAI  🚀\n\nProud to back Factory as they build the system that automates the entire software lifecycle: planning, review, testing, security, documentation, all of it.\n\nCoding has gone from $550M to $30B+ in two years, but generation was only one piece. Factory closes the rest of the loop with a shared, governed, model-agnostic platform.\n\nExcited to partner with @matanSF and @EnoReyes, and to witness their talent and vision firsthand.\n\nMore from @mmurph:  https://t.co/NunpiZUYvC"
+    },
+    {
+      "tweetId": "2107117248834158928",
+      "role": "support",
+      "authorHandle": "matansf",
+      "url": "https://x.com/matanSF/status/2107117248834158928",
+      "tweetedAt": "2026-10-05T14:34:35.000Z",
+      "bestBit": "I am thrilled to have @mmurph and Menlo Ventures investing in @FactoryAI",
+      "text": "Matt Murphy is a legendary investor with a track record of being very early and being very right. \n\nHe led the Series D of Anthropic in Jan 2024. Their best model was Claude 2.1.\n\nI am thrilled to have @mmurph and Menlo Ventures investing in @FactoryAI.\n\nWe are still so early.",
+      "quotedTweetText": "Menlo is investing in @FactoryAI  🚀\n\nProud to back Factory as they build the system that automates the entire software lifecycle: planning, review, testing, security, documentation, all of it.\n\nCoding has gone from $550M to $30B+ in two years, but generation was only one piece. Factory closes the rest of the loop with a shared, governed, model-agnostic platform.\n\nExcited to partner with @matanSF and @EnoReyes, and to witness their talent and vision firsthand.\n\nMore from @mmurph:  https://t.co/NunpiZUYvC"
+    },
+    {
+      "tweetId": "2107119247256371439",
+      "role": "commentary",
+      "authorHandle": "shaunmmaguire",
+      "url": "https://x.com/shaunmmaguire/status/2107119247256371439",
+      "tweetedAt": "2026-10-05T14:42:31.000Z",
+      "bestBit": "led an investment in Anthropic at an ~$4B valuation",
+      "text": "Menlo Ventures is on a tear\n\nThey led an investment in Anthropic at an ~$4B valuation\n\nAt the time, most thought OpenAI would be the singular AI winner\n\nMaybe we’ll see something similar with @FactoryAI? 👀\n\nWelcome to the Factory team @mmurph!",
+      "quotedTweetText": "Menlo is investing in @FactoryAI  🚀\n\nProud to back Factory as they build the system that automates the entire software lifecycle: planning, review, testing, security, documentation, all of it.\n\nCoding has gone from $550M to $30B+ in two years, but generation was only one piece. Factory closes the rest of the loop with a shared, governed, model-agnostic platform.\n\nExcited to partner with @matanSF and @EnoReyes, and to witness their talent and vision firsthand.\n\nMore from @mmurph:  https://t.co/NunpiZUYvC"
+    },
+    {
+      "tweetId": "2107129870157533529",
+      "role": "commentary",
+      "authorHandle": "deedydas",
+      "url": "https://x.com/deedydas/status/2107129870157533529",
+      "tweetedAt": "2026-10-05T15:24:44.000Z",
+      "bestBit": "we are fortunate to be lead investors in 5 of the top 15 consumer AI apps by monthly revenue",
+      "text": "Menlo has tried to rebuild from the ground up how we think about investing and we are fortunate to be lead investors in 5 of the top 15 consumer AI apps by monthly revenue despite our low volume strategy.\n\nThanks for the shout, Shaun! Have a ton of admiration for what you have done at Sequoia. Too many people know you for your firebrand tweets and too few know your excellent investments and that you have a PhD in physics from Caltech (and it’s fun to have your cofounder be a partner!)",
+      "quotedTweetText": "Menlo Ventures is on a tear\n\nThey led an investment in Anthropic at an ~$4B valuation\n\nAt the time, most thought OpenAI would be the singular AI winner\n\nMaybe we’ll see something similar with @FactoryAI? 👀\n\nWelcome to the Factory team @mmurph!"
+    }
+  ],
+  "isSuperseded": false
+}

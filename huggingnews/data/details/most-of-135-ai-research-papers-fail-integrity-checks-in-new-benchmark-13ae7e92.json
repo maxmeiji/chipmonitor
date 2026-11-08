@@ -1,0 +1,59 @@
+{
+  "slug": "most-of-135-ai-research-papers-fail-integrity-checks-in-new-benchmark-13ae7e92",
+  "title": "Most of 135 AI Research Papers Fail Integrity Checks in New Benchmark",
+  "publishedAt": "2026-10-15T18:38:46.151Z",
+  "eventTimeApprox": "2026-10-15T15:39:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "The 'Into the Unknown' project evaluates nine frontier agents on their ability to conduct end to end science across natural disciplines. These agents produced 135 research papers based on 15 open problems, but most of the work failed integrity checks because claimed results did not match execution evidence. None of the generated papers were hallucination free or met the professional standards of domain experts.\n\nThe 15 problems were developed by scientists from US Department of Energy National Labs, including Los Alamos, Sandia, and Lawrence Livermore. Researchers led by Seungone Kim created the benchmark to determine if large language models can independently perform research and generate artifacts that advance science. The findings indicate that current frontier models cannot yet reliably conduct autonomous end to end research.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110769698463752428",
+      "role": "source",
+      "authorHandle": "seungonekim",
+      "url": "https://x.com/seungonekim/status/2110769698463752428",
+      "tweetedAt": "2026-10-15T16:28:06.000Z",
+      "bestBit": "We introduce Into the Unknown, an AI agent benchmark of 15 open scientific research problems",
+      "text": "🧪Can AI agents take a scientific paper and write a meaningful follow-up to it?\n\nWe introduce Into the Unknown, an AI agent benchmark of 15 open scientific research problems. Each problem comes from a scientist currently or formerly at US DOE National Labs:\n@LosAlamosNatLab @SandiaLabs @BerkeleyLab @AmesNatLab @PPPLab @Livermore_Lab"
+    },
+    {
+      "tweetId": "2110737175285502386",
+      "role": "support",
+      "authorHandle": "arankomatsuzaki",
+      "url": "https://x.com/arankomatsuzaki/status/2110737175285502386",
+      "tweetedAt": "2026-10-15T14:18:52.000Z",
+      "bestBit": "Most of the papers fail integrity checks, including discrepancies between claimed work and supporting execution evidence",
+      "text": "This new benchmark evaluates nine frontier agents on 15 open scientific follow-up problems developed with domain scientists, producing 135 research papers.\n\nMost of the papers fail integrity checks, including discrepancies between claimed work and supporting execution evidence. https://t.co/fdfThc5LLg"
+    },
+    {
+      "tweetId": "2110800239305368000",
+      "role": "commentary",
+      "authorHandle": "gneubig",
+      "url": "https://x.com/gneubig/status/2110800239305368000",
+      "tweetedAt": "2026-10-15T18:29:28.000Z",
+      "bestBit": "find that even with frontier models, none are hallucination-free and meet the bar of the scientists working in each domain",
+      "text": "Very ambitious work by Seungone on trying to figure out if LLMs can actually write strong follow-up papers across the natural sciences.\n\nBased on our previous work on automated paper review, we apply rigorous standards to the generated papers and find that even with frontier models, none are hallucination-free and meet the bar of the scientists working in each domain.\n\nWe believe that this poses a challenge for upcoming LMs, can they actually do an end-to-end research work and generate an artifact that could move science forward?",
+      "quotedTweetText": "🧪Can AI agents take a scientific paper and write a meaningful follow-up to it?\n\nWe introduce Into the Unknown, an AI agent benchmark of 15 open scientific research problems. Each problem comes from a scientist currently or formerly at US DOE National Labs:\n@LosAlamosNatLab @SandiaLabs @BerkeleyLab @AmesNatLab @PPPLab @Livermore_Lab"
+    }
+  ],
+  "isSuperseded": false
+}

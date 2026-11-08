@@ -1,0 +1,69 @@
+{
+  "slug": "metamask-agent-wallet-integrates-aave-mcp-to-enable-ai-finance-02e52b25",
+  "title": "MetaMask Agent Wallet Integrates Aave MCP to Enable AI Finance",
+  "publishedAt": "2026-10-09T15:08:28.797Z",
+  "eventTimeApprox": "2026-10-09T14:16:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "crypto",
+    "ai"
+  ],
+  "primaryRoutingTopic": "crypto",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "defi",
+      "name": "DeFi"
+    }
+  ],
+  "summary": "Developers can now connect the Aave Model Context Protocol to the MetaMask Agent Wallet to enable AI agents to execute decentralized finance credit actions. Under this integration, the Aave MCP creates the specific actions for the protocol, while the Agent Wallet handles the signing and submission of those transactions to the blockchain.\n\nAave founder Stani Kulechov stated the move expands the reach of \"Agentic Aave\" by linking DeFi's credit layer to autonomous AI finance. The partnership allows for the automation of credit-based operations within the Aave ecosystem using agentic frameworks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108559774946398568",
+      "role": "source",
+      "authorHandle": "aave",
+      "url": "https://x.com/aave/status/2108559774946398568",
+      "tweetedAt": "2026-10-09T14:06:40.000Z",
+      "bestBit": "The Aave MCP prepares Aave actions, and the Agent Wallet signs and submits them",
+      "text": "Builders can now connect the Aave MCP to the @MetaMask Agent Wallet, linking DeFi's credit layer to agentic finance.\n\nThe Aave MCP prepares Aave actions, and the Agent Wallet signs and submits them.\n\nGet started below. https://t.co/LBhJquCYdK"
+    },
+    {
+      "tweetId": "2108561038904058319",
+      "role": "support",
+      "authorHandle": "metamask",
+      "url": "https://x.com/MetaMask/status/2108561038904058319",
+      "tweetedAt": "2026-10-09T14:11:41.000Z",
+      "bestBit": "Connect your MetaMask Agent Wallet to the new @aave MCP!",
+      "text": "Agents choose Aave.\n\nConnect your MetaMask Agent Wallet to the new @aave MCP! https://t.co/vXd7lFSSPs",
+      "quotedTweetText": "Builders can now connect the Aave MCP to the @MetaMask Agent Wallet, linking DeFi's credit layer to agentic finance.\n\nThe Aave MCP prepares Aave actions, and the Agent Wallet signs and submits them.\n\nGet started below. https://t.co/LBhJquCYdK"
+    },
+    {
+      "tweetId": "2108571532670754942",
+      "role": "source",
+      "authorHandle": "stanikulechov",
+      "url": "https://x.com/StaniKulechov/status/2108571532670754942",
+      "tweetedAt": "2026-10-09T14:53:23.000Z",
+      "bestBit": "MetaMask Agent Wallet now supports Aave MCP, expanding the reach of Agentic Aave",
+      "text": "MetaMask Agent Wallet now supports Aave MCP, expanding the reach of Agentic Aave.",
+      "quotedTweetText": "Builders can now connect the Aave MCP to the @MetaMask Agent Wallet, linking DeFi's credit layer to agentic finance.\n\nThe Aave MCP prepares Aave actions, and the Agent Wallet signs and submits them.\n\nGet started below. https://t.co/LBhJquCYdK"
+    }
+  ],
+  "isSuperseded": false
+}

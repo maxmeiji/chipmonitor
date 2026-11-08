@@ -1,0 +1,139 @@
+{
+  "slug": "openai-expands-sign-in-with-chatgpt-to-go-plan-and-open-source-apps-4aa3fd08",
+  "title": "OpenAI Expands Sign in with ChatGPT to Go Plan and Open Source Apps",
+  "publishedAt": "2026-10-08T13:25:05.988Z",
+  "eventTimeApprox": "2026-09-29T18:58:21.000Z",
+  "isFreshStory": false,
+  "tweetCount": 46,
+  "authorCount": 29,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2104996184750473275/HTZywt9acAAf_6j-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2104996184750473275/HTZywt9acAAf_6j-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "digg",
+      "tweetUrl": "https://x.com/digg/status/2104996184750473275"
+    }
+  },
+  "summary": "Subscribers to the entry level Go plan can now use their existing OpenAI model limits within partner applications and all open source software. This expansion of the 'Sign in with ChatGPT' feature allows users on Go, Plus, and Pro tiers to bypass separate AI licensing fees when using external tools, drawing directly from their subscription quota to power model usage across various platforms.\n\nIntroduced during OpenAI DevDay, the authentication system has grown from 16 launch partners, such as Vercel and Devin, to over 60 partner products including Notion and AmpCode. Some industry observers described the tool as a sleeper hit that creates an identity layer for AI subscriptions, which lowers customer acquisition costs and token subsidies for third party developers.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108020509753659676",
+      "role": "source",
+      "authorHandle": "vigyso",
+      "url": "https://x.com/vigyso/status/2108020509753659676",
+      "tweetedAt": "2026-10-08T02:23:49.000Z",
+      "bestBit": "Customers on Go, Plus and Pro plans can now login to all commercial launch partner apps + open source applications and take their ChatGPT plan usage with them",
+      "text": "BIG NEWS - Sign in with ChatGPT plan usage is now also available to all customers on the ChatGPT Go plan. That is - Customers on Go, Plus and Pro plans can now login to all commercial launch partner apps + open source applications and take their ChatGPT plan usage with them. So much more goodness is yet to come!"
+    },
+    {
+      "tweetId": "2104991529416999243",
+      "role": "source",
+      "authorHandle": "thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2104991529416999243",
+      "tweetedAt": "2026-09-29T17:47:44.000Z",
+      "bestBit": "You can now use your ChatGPT subscription directly in over 60 partners products",
+      "text": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usage right there. This includes things such as Devin, OpenCode, Lovable, and many more.\n\nSign in with ChatGPT and go."
+    },
+    {
+      "tweetId": "2108181136417390937",
+      "role": "support",
+      "authorHandle": "sqs",
+      "url": "https://x.com/sqs/status/2108181136417390937",
+      "tweetedAt": "2026-10-08T13:02:05.000Z",
+      "bestBit": "Amp's Sign in with ChatGPT support now works for people on their Go plan!",
+      "text": "Amp's Sign in with ChatGPT support now works for people on their Go plan!",
+      "quotedTweetText": "BIG NEWS - Sign in with ChatGPT plan usage is now also available to all customers on the ChatGPT Go plan. That is - Customers on Go, Plus and Pro plans can now login to all commercial launch partner apps + open source applications and take their ChatGPT plan usage with them. So much more goodness is yet to come!"
+    },
+    {
+      "tweetId": "2105670289417970044",
+      "role": "commentary",
+      "authorHandle": "joshelman",
+      "url": "https://x.com/joshelman/status/2105670289417970044",
+      "tweetedAt": "2026-10-01T14:44:53.000Z",
+      "bestBit": "ChatGPT subscribers can bring their subscription into other apps so they don’t have to separately pay for AI in those apps",
+      "text": "Least discussed but potentially biggest feature from OpenAI Dev Day this week is Sign in with ChatGPT\n\nNow ChatGPT subscribers can bring their subscription into other apps so they don’t have to separately pay for AI in those apps. \n\nHuge opportunity for every consumer / work app!"
+    },
+    {
+      "tweetId": "2105673924076020184",
+      "role": "commentary",
+      "authorHandle": "lennysan",
+      "url": "https://x.com/lennysan/status/2105673924076020184",
+      "tweetedAt": "2026-10-01T14:59:19.000Z",
+      "bestBit": "The sleeper hit from DevDay",
+      "text": "The sleeper hit from DevDay",
+      "quotedTweetText": "You can now use your ChatGPT subscription directly in over 16 partners products. No little rules, you can just use all your included usage right there. This includes things such as Devin, OpenCode, Notion, and many more.\n\nSign in with ChatGPT and go."
+    },
+    {
+      "tweetId": "2105000082068181341",
+      "role": "commentary",
+      "authorHandle": "zeddotdev",
+      "url": "https://x.com/zeddotdev/status/2105000082068181341",
+      "tweetedAt": "2026-09-29T18:21:43.000Z",
+      "bestBit": "grateful that @openaidevs continues to support subscription-based access for third-party tools, even as others move toward usage-based billing",
+      "text": "@dirtymycup @thsottiaux https://t.co/b5gohCYXU0",
+      "quotedTweetText": "You can now use your ChatGPT subscription in the Zed agent, with the same usage and rate limits you benefit from in Codex directly. We're grateful that @openaidevs continues to support subscription-based access for third-party tools, even as others move toward usage-based billing."
+    },
+    {
+      "tweetId": "2105739098640298253",
+      "role": "analysis",
+      "authorHandle": "sama",
+      "url": "https://x.com/sama/status/2105739098640298253",
+      "tweetedAt": "2026-10-01T19:18:18.000Z",
+      "bestBit": "You should be able to use your AI subscription wherever you need",
+      "text": "You should be able to use your AI subscription wherever you need:",
+      "quotedTweetText": "I am going to try and answer a bunch of questions that people have raised about Sign in with ChatGPT in the next couple of days. Before that, I want to let you all in to why we shipped Sign in with ChatGPT (SIWC) in the first place. Clarify our intentions here before getting to the specifics."
+    },
+    {
+      "tweetId": "2105741734722543749",
+      "role": "analysis",
+      "authorHandle": "illscience",
+      "url": "https://x.com/illscience/status/2105741734722543749",
+      "tweetedAt": "2026-10-01T19:28:47.000Z",
+      "bestBit": "Sign-in with chatgpt solves for capacity+token cost and plugin extensions theoretically solve for distribution",
+      "text": "Agree with this - consumer AI products are fighting a three front war across customer acquisition, compute capacity + token subsidies.\n\nSign-in with chatgpt solves for capacity+token cost and plugin extensions theoretically solve for distribution.",
+      "quotedTweetText": "Least discussed but potentially biggest feature from OpenAI Dev Day this week is Sign in with ChatGPT\n\nNow ChatGPT subscribers can bring their subscription into other apps so they don’t have to separately pay for AI in those apps. \n\nHuge opportunity for every consumer / work app!"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-launches-subscription-quota-sharing-across-16-partner-apps-76d8b5e9",
+    "title": "OpenAI Launches Subscription Quota Sharing Across 16 Partner Apps",
+    "publishedAt": "2026-09-29T19:08:39.419Z",
+    "eventTimeApprox": "2026-09-29T17:47:44.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 35,
+    "authorCount": 24
+  }
+}

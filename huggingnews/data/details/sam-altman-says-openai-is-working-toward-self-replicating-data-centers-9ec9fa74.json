@@ -1,0 +1,64 @@
+{
+  "slug": "sam-altman-says-openai-is-working-toward-self-replicating-data-centers-9ec9fa74",
+  "title": "Sam Altman Says OpenAI Is Working Toward Self-Replicating Data Centers",
+  "publishedAt": "2026-10-29T17:07:41.911Z",
+  "eventTimeApprox": "2026-10-29T16:24:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The chief executive of OpenAI stated that the company's robotics program is being focused on the construction of autonomous facilities that can multiply their own capacity. This vision includes the use of AI-controlled robots to manage semiconductor fabrication plants, manufacture solar panels and build additional data centers to expand the company's compute infrastructure.\n\nSam Altman said the ability to create these self-replicating systems is now \"within grasp,\" though he did not provide a specific timeline for when the robotics would be deployed to active construction sites.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115842314920702347",
+      "role": "source",
+      "authorHandle": "kalshi",
+      "url": "https://x.com/Kalshi/status/2115842314920702347",
+      "tweetedAt": "2026-10-29T16:24:52.000Z",
+      "bestBit": "Sam Altman says OpenAI is working toward \"self-replicating\" data centers, with AI-powered robots building new facilities and solar panels",
+      "text": "JUST IN: Sam Altman says OpenAI is working toward \"self-replicating\" data centers, with AI-powered robots building new facilities and solar panels"
+    },
+    {
+      "tweetId": "2115848439905046957",
+      "role": "commentary",
+      "authorHandle": "claud_fuen",
+      "url": "https://x.com/claud_fuen/status/2115848439905046957",
+      "tweetedAt": "2026-10-29T16:49:13.000Z",
+      "bestBit": "Paperclip theory",
+      "text": "Paperclip theory",
+      "quotedTweetText": "JUST IN: Sam Altman says OpenAI is working toward \"self-replicating\" data centers, with AI-powered robots building new facilities and solar panels"
+    }
+  ],
+  "isSuperseded": false
+}

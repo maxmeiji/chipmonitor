@@ -1,0 +1,93 @@
+{
+  "slug": "accenture-caps-central-claude-funding-at-29-per-person-monthly-91611aa4",
+  "title": "Accenture Caps Central Claude Funding at $29 per Person Monthly",
+  "publishedAt": "2026-10-15T20:05:14.055Z",
+  "eventTimeApprox": "2026-10-15T18:51:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ACN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Accenture PLC",
+      "hubKey": "acn"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "Employees at Accenture must now secure project-specific budget approval to maintain their access to the Claude AI tool if they exceed a new corporate reimbursement limit. Central funding for Claude Enterprise usage is now capped at $29 per person per month, according to an internal announcement obtained by 404 Media. This change impacts power users who previously spent between $500 and $1,000 monthly, including some using Claude Code to build accelerators for clients. While some premium accounts still receive $250 in weekly token usage, other staff have already had their access revoked.\n\nThe budget restriction comes after Accenture and Anthropic announced a partnership to train 30,000 professionals on the AI platform. That rollout included plans to make Claude Code available to tens of thousands of developers to automate technical workflows. High-usage employees are now required to find funding from specific projects or team budgets to cover costs exceeding the new monthly allowance.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110774735252435435",
+      "role": "source",
+      "authorHandle": "josephfcox",
+      "url": "https://x.com/josephfcox/status/2110774735252435435",
+      "tweetedAt": "2026-10-15T16:48:07.000Z",
+      "bestBit": "employees who often spend as much as $1,000 a month are now scrambling to find ways to keep access to the tool",
+      "text": "New: Accenture has told employees it will only fund $29 per month of Claude use. Meaning that employees who often spend as much as $1,000 a month are now scrambling to find ways to keep access to the tool. A sign of the continuing crack down of AI https://t.co/Z2xswuSW5x"
+    },
+    {
+      "tweetId": "2110820444857155643",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2110820444857155643",
+      "tweetedAt": "2026-10-15T19:49:45.000Z",
+      "bestBit": "Accenture and Anthropic previously announced plans to train 30,000 Accenture professionals on Claude",
+      "text": "🚨BREAKING: Accenture has capped central funding for employees' Claude Enterprise usage at just $29 per person per month, according to an internal announcement obtained by 404 Media.\n\nSome employees spend $500 to $1,000 monthly. One uses Claude Code extensively to build an AI accelerator for multiple Accenture clients.\n\nExcess usage must now be funded by a specific project or team. Premium accounts get $250 in weekly token usage, while another employee says their Claude access has already been revoked.\n\nAccenture and Anthropic previously announced plans to train 30,000 Accenture professionals on Claude and make Claude Code available to tens of thousands of developers."
+    },
+    {
+      "tweetId": "2110813441745395773",
+      "role": "commentary",
+      "authorHandle": "stefanfschubert",
+      "url": "https://x.com/StefanFSchubert/status/2110813441745395773",
+      "tweetedAt": "2026-10-15T19:21:56.000Z",
+      "bestBit": "ridiculous considering the value you get from AI. Compare with their salary costs.",
+      "text": "If true it’s ridiculous considering the value you get from AI. Compare with their salary costs.",
+      "quotedTweetText": "New: Accenture has told employees it will only fund $29 per month of Claude use. Meaning that employees who often spend as much as $1,000 a month are now scrambling to find ways to keep access to the tool. A sign of the continuing crack down of AI https://t.co/Z2xswuSW5x"
+    },
+    {
+      "tweetId": "2110813217329123553",
+      "role": "commentary",
+      "authorHandle": "garymarcus",
+      "url": "https://x.com/GaryMarcus/status/2110813217329123553",
+      "tweetedAt": "2026-10-15T19:21:02.000Z",
+      "bestBit": "tokenmaxxing: dead and buried.",
+      "text": "tokenmaxxing: dead and buried.",
+      "quotedTweetText": "New: Accenture has told employees it will only fund $29 per month of Claude use. Meaning that employees who often spend as much as $1,000 a month are now scrambling to find ways to keep access to the tool. A sign of the continuing crack down of AI https://t.co/Z2xswuSW5x"
+    }
+  ],
+  "isSuperseded": false
+}

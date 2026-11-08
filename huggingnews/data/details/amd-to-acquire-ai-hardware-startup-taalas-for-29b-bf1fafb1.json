@@ -1,0 +1,60 @@
+{
+  "slug": "amd-to-acquire-ai-hardware-startup-taalas-for-29b-bf1fafb1",
+  "title": "AMD to Acquire AI Hardware Startup Taalas for $2.9B",
+  "publishedAt": "2026-11-04T11:22:51.372Z",
+  "eventTimeApprox": "2026-11-04T11:14:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "business",
+    "tech",
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMD",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Advanced Micro Devices",
+      "hubKey": "amd"
+    }
+  ],
+  "summary": "A deal was reached in August for the purchase of Taalas Inc., a developer of hardware designed for artificial intelligence inference. The semiconductor firm will acquire the startup for $2.9 billion, a total that include about $1.4 billion in contingent consideration.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117938590240141406",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2117938590240141406",
+      "tweetedAt": "2026-11-04T11:14:43.000Z",
+      "bestBit": "AMD: IN AUG, CO ENTERED AGREEMENT TO ACQUIRE TAALAS INC. FOR $2.90 BLN INCLUDING ABOUT $1.40BLN CONTINGENT CONSIDERATION",
+      "text": "AMD: IN AUG, CO ENTERED AGREEMENT TO ACQUIRE TAALAS INC. FOR $2.90 BLN INCLUDING ABOUT $1.40BLN CONTINGENT CONSIDERATION"
+    }
+  ],
+  "isSuperseded": false
+}

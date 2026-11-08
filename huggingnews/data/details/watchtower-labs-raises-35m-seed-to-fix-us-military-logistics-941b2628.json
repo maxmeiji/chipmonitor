@@ -1,0 +1,54 @@
+{
+  "slug": "watchtower-labs-raises-35m-seed-to-fix-us-military-logistics-941b2628",
+  "title": "Watchtower Labs Raises $35M Seed to Fix US Military Logistics",
+  "publishedAt": "2026-10-21T16:23:34.390Z",
+  "eventTimeApprox": "2026-10-21T15:58:07.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "A stealth-mode defense firm has emerged to optimize how the Pentagon manages its supply chains using specialized AI models. Watchtower Labs has raised $35 million in seed funding to develop software that assists the U.S. Armed Forces in making complex logistical decisions. The startup is already running pilots with several U.S. military commands and is led by CEO Akhil Iyer, a former U.S. Marines veteran.\n\nThe company's technology combines large language models with in-house simulation software that can run on local, secret data to maintain security. Watchtower was incubated by Shield Capital and is backed by investors including Conviction, In-Q-Tel, and Founders Fund. Inspired by discussions with Admiral Paparo of U.S. Indo-Pacific Command, the firm employs nearly 30 people across the Bay Area, Seattle, Hawaii, and Washington, D.C.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112933808269926582",
+      "role": "source",
+      "authorHandle": "alexrkonrad",
+      "url": "https://x.com/alexrkonrad/status/2112933808269926582",
+      "tweetedAt": "2026-10-21T15:47:30.000Z",
+      "bestBit": "new defense startup Watchtower Labs is launching from stealth with $35M to help solve the U.S. military's logistics mess",
+      "text": "Exclusive:  new defense startup Watchtower Labs is launching from stealth with $35M to help solve the U.S. military's logistics mess.\n\nI spoke with CEO and U.S. Marines veteran Akhil Iyer (@AkhilIyer1) about the company and mission to bring logistics into the AI era. Link below. https://t.co/vi8b5TZ0V3"
+    },
+    {
+      "tweetId": "2112935992759828637",
+      "role": "support",
+      "authorHandle": "alexrkonrad",
+      "url": "https://x.com/alexrkonrad/status/2112935992759828637",
+      "tweetedAt": "2026-10-21T15:56:11.000Z",
+      "bestBit": "Tech mixes LLMs with in-house simulation software, can run on secret, local data",
+      "text": "Fast facts on Watchtower 🏰\n\n▪️Inspired by a chat with Admiral Paparo of @USPACOM \n▪️Named after the WWII operation\n▪️Tech mixes LLMs with in-house simulation software, can run on secret, local data\n▪️Incubated by @ShieldCapVC and led by the firm's Akhil Iyer (@AkhilIyer1), now a venture partner\n▪️Team of nearly 30 across Bay Area, Seattle, Hawaii, DC\n▪️Backed by Shield, @saranormous of @conviction, In-Q-Tel, and @zebulgar and @traestephens of @foundersfund \n▪️Already in pilot with several U.S. commands"
+    }
+  ],
+  "isSuperseded": false
+}

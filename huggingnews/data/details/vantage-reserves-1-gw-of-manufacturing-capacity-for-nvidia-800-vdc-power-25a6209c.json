@@ -1,0 +1,61 @@
+{
+  "slug": "vantage-reserves-1-gw-of-manufacturing-capacity-for-nvidia-800-vdc-power-25a6209c",
+  "title": "Vantage Reserves 1 GW of Manufacturing Capacity for Nvidia 800 VDC Power",
+  "publishedAt": "2026-10-21T22:23:11.265Z",
+  "eventTimeApprox": "2026-10-21T20:16:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Heron Power and Vantage Data Centers have signed an agreement to build specialized electricity hardware for next-generation server facilities. The deal includes reserving more than 1 GW of manufacturing capacity for Heron Link, a system that combines power conversion, protection, and distribution into one cabinet. The equipment converts medium-voltage grid power directly to 800 VDC to meet the power architecture requirements set by Nvidia for AI data centers and hyperscale campuses.\n\nThe move toward native 800 VDC aims to transform AI data centers into more flexible and reliable assets for the power grid. Baglino of Heron Power described the current 1 GW reservation as the first of many gigawatts to come as the industry transitions to this power standard.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112941873509883965",
+      "role": "source",
+      "authorHandle": "heronpower",
+      "url": "https://x.com/heronpower/status/2112941873509883965",
+      "tweetedAt": "2026-10-21T16:19:33.000Z",
+      "bestBit": "reserved over 1 GW of manufacturing capacity for Heron Link, bringing the adoption of 800 VDC power architecture for next-generation AI data centers a step closer",
+      "text": ".@VantageDC just reserved over 1 GW of manufacturing capacity for Heron Link, bringing the adoption of 800 VDC power architecture for next-generation AI data centers a step closer.\n\nThe @nvidia 800 VDC architecture calls for converting medium-voltage grid power directly to 800 VDC. Heron Link does just that, integrating power conversion, protection, and distribution into a single cabinet.\n\nOur agreement with @VantageDC creates a path to bring this architecture to hyperscale data center campuses.\n\nRead more: https://t.co/RLuiXUzV28"
+    },
+    {
+      "tweetId": "2113012209634934807",
+      "role": "support",
+      "authorHandle": "baglino",
+      "url": "https://x.com/baglino/status/2113012209634934807",
+      "tweetedAt": "2026-10-21T20:59:03.000Z",
+      "bestBit": "proud to lean into native 800VDC datacenters with @VantageDC. The first of many GWs to come.",
+      "text": "We are proud to lean into native 800VDC datacenters with @VantageDC. The first of many GWs to come.",
+      "quotedTweetText": ".@VantageDC just reserved over 1 GW of manufacturing capacity for Heron Link, bringing the adoption of 800 VDC power architecture for next-generation AI data centers a step closer.\n\nThe @nvidia 800 VDC architecture calls for converting medium-voltage grid power directly to 800 VDC. Heron Link does just that, integrating power conversion, protection, and distribution into a single cabinet.\n\nOur agreement with @VantageDC creates a path to bring this architecture to hyperscale data center campuses.\n\nRead more: https://t.co/RLuiXUzV28"
+    }
+  ],
+  "isSuperseded": false
+}

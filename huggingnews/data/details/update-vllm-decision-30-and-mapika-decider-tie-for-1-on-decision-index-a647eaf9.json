@@ -1,0 +1,139 @@
+{
+  "slug": "update-vllm-decision-30-and-mapika-decider-tie-for-1-on-decision-index-a647eaf9",
+  "title": "UPDATE: vLLM Decision 3.0 and Mapika Decider Tie for #1 on Decision Index",
+  "publishedAt": "2026-10-12T09:11:03.141Z",
+  "eventTimeApprox": "2026-10-06T17:18:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 53,
+  "authorCount": 19,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:PPLX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Perplexity AI",
+      "hubKey": "perplexity-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109541074549223587/b14RG8cbWkS5RH1m-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109541074549223587/b14RG8cbWkS5RH1m-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2109540874325479424/vid/avc1/1920x1080/ewJYmKtuHoEcrUn4.mp4?tag=29",
+    "credit": {
+      "handle": "multimodalart",
+      "tweetUrl": "https://x.com/multimodalart/status/2109541074549223587"
+    }
+  },
+  "summary": "A new set of performance metrics for multimodal AI has triggered a change in leadership among the world's most accurate discriminator models. The Jev Decision Index 0.3.1 now places vLLM's Decision 3.0 (d3) and Mapika Decider 31B in a tie for the top spot, displacing Perplexity's pplx-decider-v1.1-27b to second place. The vLLM model's architecture was developed by Perplexity, and the update also saw AnyJev Gemma-4-31B become the first untuned model to exceed the performance of Jev, tying for fourth.\n\nDespite the benchmark drop, Perplexity's open weights system continues to lead medical evaluations, scoring 643 of 669 correct responses on the clinical System One board. Eight competitors, including models from Microsoft and Inception, failed to surpass that score as of Oct. 11. The model remains the second most used in its class on OpenRouter, where it is priced at $0.02 per million input tokens with free outputs.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109541074549223587",
+      "role": "source",
+      "authorHandle": "multimodalart",
+      "url": "https://x.com/multimodalart/status/2109541074549223587",
+      "tweetedAt": "2026-10-12T07:06:00.000Z",
+      "bestBit": "vLLM Decision 3.0 (d3) & Mapika Decider 31B tie #1",
+      "text": "New models live on Decision Index 0.3.1 🏆\n\nvLLM Decision 3.0 (d3) &amp; Mapika Decider 31B tie #1 🏅\nd3 uses Perplexity's Decider arch (now tied #2 🥈)\n\nAnyJev Gemma-4-31B (tied #3 🥉) is the first inference technique (untuned model) above Jev, tied #4 🎖️\n\nhttps://t.co/Su4OXqJwz0 https://t.co/7DVGFRH3jU"
+    },
+    {
+      "tweetId": "2107519531711418597",
+      "role": "source",
+      "authorHandle": "perplexitydevs",
+      "url": "https://x.com/perplexitydevs/status/2107519531711418597",
+      "tweetedAt": "2026-10-06T17:13:06.000Z",
+      "bestBit": "pplx-decider-v1.1-27b costs half as much as v1, at $0.02 per million input tokens",
+      "text": "pplx-decider-v1.1-27b, our updated open weights multimodal decision model, is now available.\n\nIt scores the highest on the new @huggingface Decision Index 0.3 benchmark. pplx-decider-v1.1-27b costs half as much as v1, at $0.02 per million input tokens.\n\nhttps://t.co/S6mjFL7Ws8 https://t.co/Sg6FtHW4cb"
+    },
+    {
+      "tweetId": "2107938516080722327",
+      "role": "support",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2107938516080722327",
+      "tweetedAt": "2026-10-07T20:58:00.000Z",
+      "bestBit": "$0.02/M input. Output is free",
+      "text": "Perplexity Decider v1.1 is now on OpenRouter\n\n@perplexity_ai's open-weights multimodal decision model takes text, JSON, or images and returns typed answers with probabilities\n\n$0.02/M input. Output is free\n\nhttps://t.co/PTD9b4aJZv",
+      "quotedTweetText": "pplx-decider-v1.1-27b, our updated open weights multimodal decision model, is now available.\n\nIt scores the highest on the new @huggingface Decision Index 0.3 benchmark. pplx-decider-v1.1-27b costs half as much as v1, at $0.02 per million input tokens.\n\nhttps://t.co/S6mjFL7Ws8 https://t.co/Sg6FtHW4cb"
+    },
+    {
+      "tweetId": "2109070748220576141",
+      "role": "source",
+      "authorHandle": "denisyarats",
+      "url": "https://x.com/denisyarats/status/2109070748220576141",
+      "tweetedAt": "2026-10-10T23:57:05.000Z",
+      "bestBit": "pplx-decider-v1.1-27b is #2 on openrouter",
+      "text": "chipping away, pplx-decider-v1.1-27b is #2 on openrouter. more updates ship next week:\n- sota results on the reranking task\n- faster, more efficient inference\n- a smaller variant for even faster/cheaper inference\n\nalso, a reminder that this is the best model on text and vision tasks across both closed-source and open-source models. give it a shot!\n\nhttps://t.co/PNvMsUyFqb"
+    },
+    {
+      "tweetId": "2109267776041034094",
+      "role": "source",
+      "authorHandle": "maziyarpanahi",
+      "url": "https://x.com/MaziyarPanahi/status/2109267776041034094",
+      "tweetedAt": "2026-10-11T13:00:00.000Z",
+      "bestBit": "none beat its 643 of 669, with 1 severe miss and under 2 cents for all 669",
+      "text": "pplx-decider v1.1 still has the top score on my clinical System One board 🔥\n\n8 new models joined since Thursday, Microsoft's and Inception's among them. none beat its 643 of 669, with 1 severe miss and under 2 cents for all 669\n\nopen weights a hospital can run in-house 🏥 https://t.co/9VfcHllh2F",
+      "quotedTweetText": "chipping away, pplx-decider-v1.1-27b is #2 on openrouter. more updates ship next week:\n- sota results on the reranking task\n- faster, more efficient inference\n- a smaller variant for even faster/cheaper inference\n\nalso, a reminder that this is the best model on text and vision tasks across both closed-source and open-source models. give it a shot!\n\nhttps://t.co/PNvMsUyFqb"
+    },
+    {
+      "tweetId": "2109563826777829657",
+      "role": "commentary",
+      "authorHandle": "xunzhuoliu",
+      "url": "https://x.com/XunzhuoLiu/status/2109563826777829657",
+      "tweetedAt": "2026-10-12T08:36:24.000Z",
+      "bestBit": "Our d3 is officially top #1 at the Jev Decision Index 0.3.1 now",
+      "text": "Our d3 is officially top #1 at the Jev Decision Index 0.3.1 now 🔥 This is the moment for open source and the ecosystem. It’s the reason why I love building in open, since great minds meet together, more advancing things will happen. Let’s go for the new SOTA 🤗\n\n#Jev #Decision https://t.co/YeSoll0PxZ"
+    },
+    {
+      "tweetId": "2108487885879980495",
+      "role": "commentary",
+      "authorHandle": "maziyarpanahi",
+      "url": "https://x.com/MaziyarPanahi/status/2108487885879980495",
+      "tweetedAt": "2026-10-09T09:21:00.000Z",
+      "bestBit": "zero severe misses on 669 clinical decisions, with most of them still answered locally",
+      "text": "@OPuzanov @AravSrinivas a simple rule: if two models disagree, or it's a red-flag call, it goes to a second opinion. i tested exactly that on Wednesday: zero severe misses on 669 clinical decisions, with most of them still answered locally 🏥"
+    },
+    {
+      "tweetId": "2108487609953730934",
+      "role": "commentary",
+      "authorHandle": "maziyarpanahi",
+      "url": "https://x.com/MaziyarPanahi/status/2108487609953730934",
+      "tweetedAt": "2026-10-09T09:19:54.000Z",
+      "bestBit": "training code ships with the model, so a hospital can fine-tune it on its own charts",
+      "text": "@georgeorch @AravSrinivas yes, and that's the best part of open weights: the training code ships with the model, so a hospital can fine-tune it on its own charts without the data ever leaving. huge credit to Perplexity for releasing it all openly 🙌"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-perplexity-open-weights-model-beats-jev-in-clinical-decisions-9b4aca8e",
+    "title": "UPDATE: Perplexity Open Weights Model Beats Jev in Clinical Decisions",
+    "publishedAt": "2026-10-08T15:24:05.559Z",
+    "eventTimeApprox": "2026-10-05T15:55:32.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 47,
+    "authorCount": 18
+  }
+}

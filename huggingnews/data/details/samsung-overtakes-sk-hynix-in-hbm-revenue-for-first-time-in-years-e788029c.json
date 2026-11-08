@@ -1,0 +1,139 @@
+{
+  "slug": "samsung-overtakes-sk-hynix-in-hbm-revenue-for-first-time-in-years-e788029c",
+  "title": "Samsung Overtakes SK Hynix in HBM Revenue for First Time in Years",
+  "publishedAt": "2026-10-23T07:08:20.897Z",
+  "eventTimeApprox": "2026-10-19T05:00:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "subject",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "TSM",
+      "kind": "equity",
+      "role": "related",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "hubKey": "tsm"
+    },
+    {
+      "ticker": "MU",
+      "kind": "equity",
+      "role": "related",
+      "name": "Micron Technology, Inc.",
+      "hubKey": "mu"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112793527717675291/HVImhFDacAAL20k-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112793527717675291/HVImhFDacAAL20k-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "melvininvests",
+      "tweetUrl": "https://x.com/MelvinInvests/status/2112793527717675291"
+    }
+  },
+  "summary": "Samsung's high-bandwidth memory earnings reached approximately $8.7 billion in the third quarter, surpassing rival SK Hynix's $7.6 billion to end its competitor's long dominance in the AI memory market, Bernstein estimates. Samsung’s HBM revenue grew 33% from the previous quarter, while SK Hynix saw a smaller gain of 11%. This reversal follows two consecutive quarters where SK Hynix missed HBM4 shipment targets, a slump driven by tuning issues and delays to Nvidia's Rubin platform.\n\nThe shift comes as Nvidia requires Samsung, SK Hynix, and Micron to use TSMC's 3nm process for the base dies of its custom NVHBM chips to standardize performance. This arrangement marks the first time Samsung has collaborated with TSMC for HBM manufacturing, although it retains in-house production for its standard products. Despite the loss in revenue lead, SK Hynix is still projected to report a record third-quarter operating profit of roughly 77 trillion won with a 78% margin.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113523320356556996",
+      "role": "source",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2113523320356556996",
+      "tweetedAt": "2026-10-23T06:50:01.000Z",
+      "bestBit": "Samsung made about $8.7 billion from HBM in Q3, compared with about $7.6 billion for SK Hynix",
+      "text": "Samsung just passed SK Hynix in HBM revenue for the FIRST time in years.\n\nAccording to Bernstein, Samsung made about $8.7 billion from HBM in Q3, compared with about $7.6 billion for SK Hynix.\n\nSamsung's HBM revenue grew 33% from the prior quarter, while SK Hynix grew 11%.\n\nThat is a huge turnaround for a company that many investors had written off in AI memory.\n\nThe HBM market is no longer a one horse race, and that competition matters for pricing, supply and every AI chip that needs memory.",
+      "quotedTweetText": "Samsung is teaming up with its biggest foundry rival to build Nvidia's next memory chip.\n\nAccording to Korean media, Samsung will use $TSM's 3nm process for the base die in $NVDA's custom NVHBM, at Nvidia's request.\n\nThe base die is the logic layer at the bottom of the HBM stack. Nvidia moved its memory controller into it, which frees up room on the GPU for more compute.\n\nNvidia reportedly wants the same TSMC base die across Samsung, SK Hynix and $MU to standardize performance.\n\nSamsung is also testing its own 2nm process in case demand outgrows TSMC's capacity.\n\nIt is the first time Samsung and TSMC will work together on making HBM itself."
+    },
+    {
+      "tweetId": "2112793527717675291",
+      "role": "support",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2112793527717675291",
+      "tweetedAt": "2026-10-21T06:30:05.000Z",
+      "bestBit": "Samsung's HBM revenue share jumped from 21% to 33% in the second quarter, while SK Hynix fell from 58% to 50%",
+      "text": "SK Hynix is about to post a RECORD quarter, but its grip on HBM is slipping.\n\nAccording to Korean media, SK Hynix's third quarter operating profit consensus is about 77 trillion won, with an operating margin around 78%.\n\nBut HBM4 shipments came in below expectations for the second straight quarter, partly because of delays to $NVDA's Rubin and longer than expected tuning of mass production chips.\n\nSamsung has used that window because Counterpoint says Samsung's HBM revenue share jumped from 21% to 33% in the second quarter, while SK Hynix fell from 58% to 50%.\n\nUBS now expects Samsung to pass SK Hynix in HBM bit shipments next year, and the industry believes Samsung's HBM4 yields have climbed to around 80%.\n\nI don't see this as bad news for memory but rather a fight over who gets the biggest slice of a market that keeps getting BIGGER.",
+      "quotedTweetText": "Samsung is teaming up with its biggest foundry rival to build Nvidia's next memory chip.\n\nAccording to Korean media, Samsung will use $TSM's 3nm process for the base die in $NVDA's custom NVHBM, at Nvidia's request.\n\nThe base die is the logic layer at the bottom of the HBM stack. Nvidia moved its memory controller into it, which frees up room on the GPU for more compute.\n\nNvidia reportedly wants the same TSMC base die across Samsung, SK Hynix and $MU to standardize performance.\n\nSamsung is also testing its own 2nm process in case demand outgrows TSMC's capacity.\n\nIt is the first time Samsung and TSMC will work together on making HBM itself."
+    },
+    {
+      "tweetId": "2112058146151698487",
+      "role": "analysis",
+      "authorHandle": "ftr_investors",
+      "url": "https://x.com/ftr_investors/status/2112058146151698487",
+      "tweetedAt": "2026-10-19T05:47:56.000Z",
+      "bestBit": "Nvidia has asked Samsung, SK Hynix, and Micron to use TSMC’s process for its custom NVHBM base dies",
+      "text": "RT @ftr_investors: $SSNLF $TSM Samsung will use TSMC’s 3nm technology for Nvidia’s next-generation HBM chips 🤖\n\nNvidia has asked Samsung, S…"
+    },
+    {
+      "tweetId": "2111868662982533159",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2111868662982533159",
+      "tweetedAt": "2026-10-18T17:15:00.000Z",
+      "bestBit": "gives Nvidia more flexibility to shift orders between suppliers as HBM prices rise while putting TSMC in a position to benefit",
+      "text": "$NVDA is reportedly requiring Samsung, $MU and $SKHY to build the base die for its next-generation custom HBM on $TSM 3nm process. \n\nThat gives Nvidia more flexibility to shift orders between suppliers as HBM prices rise while putting TSMC in a position to benefit regardless of which memory maker wins the business."
+    },
+    {
+      "tweetId": "2111967064147857458",
+      "role": "analysis",
+      "authorHandle": "dnystedt",
+      "url": "https://x.com/dnystedt/status/2111967064147857458",
+      "tweetedAt": "2026-10-18T23:46:01.000Z",
+      "bestBit": "Samsung has accepted Nvidia’s request to have TSMC manufacture the base die for NVHBM (Nvidia’s custom HBM based on next-gen HBM4E)",
+      "text": "Samsung has accepted Nvidia’s request to have TSMC manufacture the base die for NVHBM (Nvidia’s custom HBM based on next-gen HBM4E), a concession to the world’s biggest HBM buyer, media report. Samsung joins SK Hynix and Micron in using TSMC’s 3nm base die to ensure consistent performance and reduce validation work across suppliers. \n\nAmong the three big memory chip makers, only Samsung has historically supplied its own base die for HBM and will continue to do so for standard products and other clients. It is also validating whether it can supply its own version of the NVHBM base die in case demand exceeds TSMC’s capacity. $NVDA $TSM $SKHY $MU $SSNLF #Samsung #semiconductors  https://t.co/6xP0ZOzcB2"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-samsung-projected-to-pass-sk-hynix-in-hbm-shipments-next-year-15478f12",
+    "title": "UPDATE: Samsung Projected to Pass SK Hynix in HBM Shipments Next Year",
+    "publishedAt": "2026-10-21T06:56:13.415Z",
+    "eventTimeApprox": "2026-10-19T02:23:03.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 12,
+    "authorCount": 10
+  }
+}

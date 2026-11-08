@@ -1,0 +1,116 @@
+{
+  "slug": "jay-clayton-named-trump-ai-czar-to-chair-super-intelligence-force-e1d552e3",
+  "title": "Jay Clayton Named Trump AI Czar to Chair Super Intelligence Force",
+  "publishedAt": "2026-10-18T23:23:35.310Z",
+  "eventTimeApprox": "2026-10-15T21:05:39.500Z",
+  "isFreshStory": false,
+  "tweetCount": 31,
+  "authorCount": 23,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-gov-appointments",
+      "name": "US Gov Appointments"
+    }
+  ],
+  "summary": "The government has designated a lead official to manage the evaluation of advanced computing models through a new interagency body. Director of National Intelligence Jay Clayton will serve as the \"artificial intelligence czar\" and chair of the Super Intelligence Force, according to a released membership list. The group began a 120 day review of technology risks on Oct. 15, establishing a a protocol to implement agreements signed by AI CEOs and maintain direct dialogue with frontier labs.\n\nThe task force includes Vice President JD Vance and various cabinet secretaries, with FTC Chair Andrew Ferguson likely to lead the practical development of the group's oversight strategy. Rather than drafting new agency regulations, the body will use existing liability laws to hold companies accountable for model behavior. The current phase of the review includes a risk assessment report from the President's Council of Advisors on Science and Technology and a breach notification system for laboratories.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110890863815528864",
+      "role": "source",
+      "authorHandle": "ashleyrgold",
+      "url": "https://x.com/ashleyrgold/status/2110890863815528864",
+      "tweetedAt": "2026-10-16T00:29:35.000Z",
+      "bestBit": "commission a report from PCAST to evaluate AI risk for cyber and critical infrastructure protection, biosecurity and model control",
+      "text": "Scoop: What the Super Intelligence task force did at its first meeting\n\nWhat's new:\n\n-It will commission a report from PCAST to evaluate AI risk for cyber and critical infrastructure protection, biosecurity and model control\n-It will make a working group to implement the accord the AI CEOs signed\n-Emil Michael to lead effort developing protocol for labs to tell the gov't about breaches\n-New law enforcement and consumer protection coordination committee w/ DOJ and FTC\n-Scott Kupor to work on critical infra protection & assessing AI impact on jobs/economy\n\nhttps://t.co/g9S3lCVDxo"
+    },
+    {
+      "tweetId": "2110816253787140237",
+      "role": "support",
+      "authorHandle": "sophiacai99",
+      "url": "https://x.com/SophiaCai99/status/2110816253787140237",
+      "tweetedAt": "2026-10-15T19:33:06.000Z",
+      "bestBit": "Rather than write new regulations, the task force will look at using existing liability laws to hold AI companies accountable",
+      "text": "Trump’s SI Force will meet for the first time at 4pm ET today. Rather than write new regulations, the task force will look at using existing liability laws to hold AI companies accountable \n\nList of invitees for today’s meeting:\n\nw/ @cheyennehaslett \n\nhttps://t.co/Bq6ozJKxIZ https://t.co/hheJ9UFk9l"
+    },
+    {
+      "tweetId": "2110839119194755479",
+      "role": "support",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2110839119194755479",
+      "tweetedAt": "2026-10-15T21:03:58.000Z",
+      "bestBit": "Chair: Jay Clayton (Director of National Intelligence)",
+      "text": "SITUATION DETECTED: The list of members of the White House Super Intelligence Force has been released.\n\nChair:\n- Jay Clayton (Director of National Intelligence)\n\nVice Chairs:\n- Emil Michael (CTO, Department of War)\n- Scott Kupor (Director, Office of Personnel Management)\n- Andrew Ferguson (Chairman, Federal Trade Commission)\n\nMembers:\n- JD Vance (Vice President)\n- Scott Bessent (Secretary of the Treasury)\n- Pete Hegseth (Secretary of War)\n- Howard Lutnick (Secretary of Commerce)\n- Susie Wiles (White House Chief of Staff)\n- Richard Walters (White House Deputy Chief of Staff)\n- Mike Needham (Deputy National Security Advisor)\n- Michael Kratsios (Director, Office of Science and Technology Policy)\n- Sean Cairncross (National Cyber Director)\n- General Joshua Rudd (Director, NSA; Commander, U.S. Cyber Command)\n- Frank Bisignano (Commissioner, Social Security Administration)\n- Chris Klomp (Chief Counselor, Department of Health and Human Services)"
+    },
+    {
+      "tweetId": "2111090728994566555",
+      "role": "source",
+      "authorHandle": "rapidresponse47",
+      "url": "https://x.com/RapidResponse47/status/2111090728994566555",
+      "tweetedAt": "2026-10-16T13:43:46.000Z",
+      "bestBit": "set out a protocol and path for making sure those Accords are implemented and that we're in dialogue with those frontier labs",
+      "text": "Super Intelligence Force Chair Jay Clayton on their initial meeting: \"It was a very good meeting... We set out a protocol and path for making sure those Accords are implemented and that we're in dialogue with those frontier labs.\" https://t.co/QLtt0mrYC3"
+    },
+    {
+      "tweetId": "2110982845334253712",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2110982845334253712",
+      "tweetedAt": "2026-10-16T06:35:05.000Z",
+      "bestBit": "agreed on Thursday to address risks related to cybersecurity, biosecurity and “model control and accountability”",
+      "text": "President Donald Trump’s AI task force in its first meeting agreed on Thursday to address risks related to cybersecurity, biosecurity and “model control and accountability” as fears rise over the potential dangers posed by the technology. https://t.co/pBLCl2I7Tm"
+    },
+    {
+      "tweetId": "2110898889658343697",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2110898889658343697",
+      "tweetedAt": "2026-10-16T01:01:28.000Z",
+      "bestBit": "begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more",
+      "text": "The White House's AI task force begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more (@ashleyrgold / Semafor)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2111955488166248467",
+      "role": "support",
+      "authorHandle": "punchbowlnews",
+      "url": "https://x.com/PunchbowlNews/status/2111955488166248467",
+      "tweetedAt": "2026-10-18T23:00:01.000Z",
+      "bestBit": "Director of National Intelligence Jay Clayton is President Donald Trump’s new artificial intelligence czar",
+      "text": "Director of National Intelligence Jay Clayton is President Donald Trump’s new artificial intelligence czar and chair of his “Super Intelligence Force.” But Federal Trade Commission Chair Andrew Ferguson may be the one who will do the work needed to shape the group’s approach to the technology.\n\nMore from @BenBrodyDC: https://t.co/m7Tf8kNyL6"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "trump-ai-task-force-orders-pcast-report-and-new-breach-protocol-6901b9b2",
+    "title": "Trump AI Task Force Orders PCAST Report and New Breach Protocol",
+    "publishedAt": "2026-10-16T01:25:03.735Z",
+    "eventTimeApprox": "2026-10-15T20:05:15.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics",
+      "cybersecurity"
+    ],
+    "tweetCount": 23,
+    "authorCount": 18
+  }
+}

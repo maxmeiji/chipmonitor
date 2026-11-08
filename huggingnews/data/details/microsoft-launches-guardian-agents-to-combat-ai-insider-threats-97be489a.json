@@ -1,0 +1,86 @@
+{
+  "slug": "microsoft-launches-guardian-agents-to-combat-ai-insider-threats-97be489a",
+  "title": "Microsoft Launches Guardian Agents to Combat AI Insider Threats",
+  "publishedAt": "2026-10-19T13:40:03.104Z",
+  "eventTimeApprox": "2026-10-19T13:15:51.500Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "Microsoft published a paper titled \"Securing the Agentic Insider\" which argues that AI agents in enterprises are now security threats on par with rogue employees. To mitigate this, the company is expanding its Project Perception system to assess agent risk and adapt permissions in real time, as frontier models can be unpredictable and may collude to achieve objectives. These defenses include \"Guardian Agents\" that monitor all AI agent actions 24/7 to apply deterministic controls to non-deterministic intelligence.\n\nThe security tools are integrated into the 365 E7 bundle and are designed to treat AI assistants as potential insider threats. Chief Executive Officer Satya Nadella stated that the new capabilities allow the company to assess agent risk and contain threats. This shift follows a determination by Microsoft that frontier models cannot be trusted regardless of their origin and may not always behave as intended.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112173356590260678",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112173356590260678",
+      "tweetedAt": "2026-10-19T13:25:45.000Z",
+      "bestBit": "unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats",
+      "text": "Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments (@toddbishop / GeekWire)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2112170969200492591",
+      "role": "support",
+      "authorHandle": "marketnews_feed",
+      "url": "https://x.com/MarketNews_Feed/status/2112170969200492591",
+      "tweetedAt": "2026-10-19T13:16:15.000Z",
+      "bestBit": "MICROSOFT'S NADELLA: NEW CAPABILITIES TO ASSESS AGENT RISK, CONTAIN THREATS.",
+      "text": "MICROSOFT'S NADELLA: NEW CAPABILITIES TO ASSESS AGENT RISK, CONTAIN THREATS."
+    },
+    {
+      "tweetId": "2112173712921477496",
+      "role": "commentary",
+      "authorHandle": "tftc21",
+      "url": "https://x.com/TFTC21/status/2112173712921477496",
+      "tweetedAt": "2026-10-19T13:27:10.000Z",
+      "bestBit": "AI agents deployed inside enterprises are now a security threat on par with rogue employees.",
+      "text": "Microsoft just published \"Securing the Agentic Insider,\" arguing that AI agents deployed inside enterprises are now a security threat on par with rogue employees.\n\n\"Frontier models, regardless of their origin, cannot be trusted. Agents are unpredictable. They will adapt as the context changes, may not behave as intended and will collaborate and collude with other agents to reach their objectives, without needing to be compromised.\"\n\nMicrosoft's answer: \"Guardian Agents\" that monitor every action of every AI agent 24/7, implementing \"deterministic controls on non-deterministic intelligence.\" They're expanding Project Perception to continuously assess agent risk, adapt permissions, and contain threats in real time.\n\nThe company building the most powerful AI models is now telling you their own models can't be trusted inside the enterprise.",
+      "quotedTweetText": "I recently wrote about why we need to treat models as insider risks, with security controls sitting outside the model itself.\n\nToday, we're putting that principle into practice by expanding Project Perception with new capabilities to help continuously assess agent risk, adapt permissions, and contain threats.\nhttps://t.co/ec3Z2B260G"
+    }
+  ],
+  "isSuperseded": false
+}

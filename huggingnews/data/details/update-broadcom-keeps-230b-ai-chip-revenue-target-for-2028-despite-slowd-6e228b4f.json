@@ -1,0 +1,128 @@
+{
+  "slug": "update-broadcom-keeps-230b-ai-chip-revenue-target-for-2028-despite-slowd-6e228b4f",
+  "title": "UPDATE: Broadcom Keeps $230B AI Chip Revenue Target for 2028 Despite Slowdown Calls",
+  "publishedAt": "2026-09-15T03:11:52.192Z",
+  "eventTimeApprox": "2026-09-14T23:23:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 284,
+  "authorCount": 145,
+  "routingTopicKeys": [
+    "ai",
+    "earnings",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2098794269549137934/HSBqPtMbgAEm-oX-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2098794269549137934/HSBqPtMbgAEm-oX-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "bulltheoryio",
+      "tweetUrl": "https://x.com/BullTheoryio/status/2098794269549137934"
+    }
+  },
+  "summary": "Broadcom CEO Hock Tan reaffirmed AI semiconductor revenue targets of $115 billion in fiscal 2027 and $230 billion in fiscal 2028 after Anthropic CEO Dario Amodei's call for slower AI development rattled chip stocks Monday.\n\nBroadcom still expects Anthropic to become its largest custom chip customer in 2027. Tan expressed particular confidence in inference demand, distinguishing it from training demand amid the debate over how quickly to develop more capable models.\n\nAmodei's proposal calls for more time for safety work, not a halt to model training or technical progress. Asked on CBS whether Anthropic would stop releasing more advanced models, he said: “It doesn't mean that. What it means is that we need to make sure that every generation of models that we release is properly tested.” Anthropic and OpenAI have committed to giving independent evaluators access comparable to that of employees.",
+  "selectedTweets": [
+    {
+      "tweetId": "2099664857037439027",
+      "role": "source",
+      "authorHandle": "tech_echelon",
+      "url": "https://x.com/Tech_Echelon/status/2099664857037439027",
+      "tweetedAt": "2026-09-15T01:01:26.000Z",
+      "bestBit": "Broadcom CEO Hock Tan reaffirmed the company's AI semiconductor revenue forecasts of $115 billion in fiscal 2027 and $230 billion in fiscal 2028",
+      "text": "Broadcom CEO Hock Tan reaffirmed the company's AI semiconductor revenue forecasts of $115 billion in fiscal 2027 and $230 billion in fiscal 2028, even as Anthropic CEO Dario Amodei's call for slower AI development rattled chip stocks Monday.\n\nhttps://t.co/mfOeO9Jze0"
+    },
+    {
+      "tweetId": "2099640176951926846",
+      "role": "analysis",
+      "authorHandle": "photoncap",
+      "url": "https://x.com/PhotonCap/status/2099640176951926846",
+      "tweetedAt": "2026-09-14T23:23:22.000Z",
+      "bestBit": "Anthropic expected to become $AVGO's largest custom chip customer in 2027",
+      "text": "- $AVGO CEO Hock Tan reaffirmed AI semiconductor revenue targets of $115B (FY2027) and $230B (FY2028) despite Anthropic's slowdown proposal.\n- Anthropic expected to become $AVGO's largest custom chip customer in 2027, making the company sensitive to AI development pace concerns.\n- Tan expressed particular confidence in inference demand, distinguishing it from training amid debate over frontier model development speed.\n\n> $AVGO's confidence in doubling AI revenue by FY2028 and Anthropic's trajectory as its largest custom customer suggest persistent confidence in compute infrastructure demand, though the divergence between training and inference demand frameworks may signal nuanced expectations amid ongoing AI scaling debates."
+    },
+    {
+      "tweetId": "2099469156727046551",
+      "role": "source",
+      "authorHandle": "edludlow",
+      "url": "https://x.com/EdLudlow/status/2099469156727046551",
+      "tweetedAt": "2026-09-14T12:03:47.000Z",
+      "bestBit": "Softbank closed down 11% in Japan, ADRs down 12.5% in pre.",
+      "text": "US Pre-Market: post AI weekend\n\nNasdaq futures down 1.6% (off session lows).\nSOXX US (iShares Semiconductor ETF) down 5.3%\nSoftbank closed down 11% in Japan, ADRs down 12.5% in pre.\n\nNvidia -2.5%\nMicron -5.8%\nCoreweave -9%"
+    },
+    {
+      "tweetId": "2099458257882640586",
+      "role": "support",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2099458257882640586",
+      "tweetedAt": "2026-09-14T11:20:29.000Z",
+      "bestBit": "Dario Amodei’s gloomy AI essay is hitting the AI trade across the board pre market: \n\n• $AEHR -9%\n• $NBIS -8%",
+      "text": "Dario Amodei’s gloomy AI essay is hitting the AI trade across the board pre market: \n\n• $AEHR -9%\n• $NBIS -8%\n• $MRVL -7%\n• $SKHY -7%\n• $VRT -7%\n• $ARM -7%\n• $AAOI -7%\n• $LITE -7%\n• $BE -7%\n• $CRWV -7%\n• $MU -7%\n• $SNDK -6%\n• $INTC -6%\n• $AMD -6%"
+    },
+    {
+      "tweetId": "2099512096031641870",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2099512096031641870",
+      "tweetedAt": "2026-09-14T14:54:25.000Z",
+      "bestBit": "Investors are translating that safety discipline into a spending question because slower frontier training can reduce near-term demand for GPUs, memory, networking, and data centers.",
+      "text": "FT: AI stocks slid as frontier labs turned safety concerns into a possible spending slowdown.\n\nOver the weekend, top labs (OpenAI/Anthropic) explicitly argued that labs should slow model capability improvements so risk prevention can catch up.\n\nInvestors are translating that safety discipline into a spending question because slower frontier training can reduce near-term demand for GPUs, memory, networking, and data centers.",
+      "quotedTweetText": "Dario Amodei got personal on CBS about AI’s risks, benefits, and the ridicule he faces on social media over safety.\n\n\"I feel that this is a technology with great benefits and great risks. \n\nMy father died of a disease, hepatitis C, that was something like 40% curable when he died of it. He wasn't one of the ones who was cured. A few years after, a medicine was invented that made it 95% curable.\n\nI myself survived an early-stage cancer that, if I'd been living in 1950, I probably would have died from. So I feel the weight of bringing the benefits of this technology.\n\nI also feel the risks. I wake up every day and, you know, I read one of these threat reports, like someone tried to use our model to build biological weapons. Of course, I don't want to be responsible for that, and that's why we have very strong safeguards.\n\nAlmost every day, I'm made fun of on social media because our model's biology safeguards are too strong. Biology students complain, and they make jokes that they can't use the model. But the reason for that is that we have strong safeguards.\n\nI would rather they make fun of me than wake up one day and discover that someone used our model, Claude, to kill a bunch of people. I don't want that.\n\nSo I feel both sides of it. I feel both sides of the responsibility.\"\n\n----\nFrom \"CBS Sunday Morning\" YouTube channel, (full video link in comment)"
+    },
+    {
+      "tweetId": "2099547611338551460",
+      "role": "analysis",
+      "authorHandle": "ttunguz",
+      "url": "https://x.com/ttunguz/status/2099547611338551460",
+      "tweetedAt": "2026-09-14T17:15:32.000Z",
+      "bestBit": "While mega-cap infrastructure digested capex today (ORCL -4.3%, NVDA -2.8%), software surged :\n\n• Median SaaS stock up +4.5% (avg +5.2%)\n• 12 companies gained &gt;= 10% in a single day\n• 92% of the index closed green (80 of 87)",
+      "text": "Are we seeing an AI pacing rotation? 🧵\n\nWhile mega-cap infrastructure digested capex today (ORCL -4.3%, NVDA -2.8%), software surged :\n\n• Median SaaS stock up +4.5% (avg +5.2%)\n• 12 companies gained &gt;= 10% in a single day\n• 92% of the index closed green (80 of 87) https://t.co/slzbEVwiA3"
+    },
+    {
+      "tweetId": "2099557829220970824",
+      "role": "signal",
+      "authorHandle": "deedydas",
+      "url": "https://x.com/deedydas/status/2099557829220970824",
+      "tweetedAt": "2026-09-14T17:56:09.000Z",
+      "bestBit": "Today, cybersecurity stocks are swinging at +10-15% while Semiconductor stocks are down -5%.",
+      "text": "Today, cybersecurity stocks are swinging at +10-15% while Semiconductor stocks are down -5%.\n\nConversations about \"pacing the frontier\" in private cos have serious ramifications on public markets. Not the first time.\n\nProof of how inextricably tied the economy is to AI. https://t.co/yU4OTl5mIf"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-cybersecurity-stocks-gain-10percent-to-15percent-as-ai-slowdown-c-29d99f56",
+    "title": "UPDATE: Cybersecurity Stocks Gain 10% to 15% as AI Slowdown Calls Hit Chipmakers",
+    "publishedAt": "2026-09-14T19:01:28.905Z",
+    "eventTimeApprox": "2026-09-14T11:20:29.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-markets",
+      "tech",
+      "global-markets"
+    ],
+    "tweetCount": 282,
+    "authorCount": 143
+  }
+}

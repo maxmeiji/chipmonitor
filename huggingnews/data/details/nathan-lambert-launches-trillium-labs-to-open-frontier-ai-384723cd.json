@@ -1,0 +1,49 @@
+{
+  "slug": "nathan-lambert-launches-trillium-labs-to-open-frontier-ai-384723cd",
+  "title": "Nathan Lambert Launches Trillium Labs to Open Frontier AI",
+  "publishedAt": "2026-10-02T16:56:02.026Z",
+  "eventTimeApprox": "2026-10-02T16:34:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 30,
+  "authorCount": 27,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "summary": "A newly established research center will release open-source post-training recipes and shared infrastructure to investigate how the most powerful AI models behave. The organization intends to study reward-hacking and multi-agent systems through a transparent scientific process to ensure that frontier-model research does not become restricted to closed corporate environments.\n\nFounded by Nathan Lambert and Tom Zick, Trillium Labs is based in the Bay Area and Cambridge, Massachusetts. The non-profit is currently recruiting full-time employees and student interns while seeking additional compute resources, having received initial funding from Halcyon Futures and Schmidt Sciences.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106060179985019085",
+      "role": "source",
+      "authorHandle": "natolambert",
+      "url": "https://x.com/natolambert/status/2106060179985019085",
+      "tweetedAt": "2026-10-02T16:34:10.000Z",
+      "bestBit": "We're building open post-training recipes and will expand into open infra to study RSI, reward-hacking, multi-agent systems",
+      "text": "Today we're unveiling Trillium Labs @trillium_labs, a new non-profit to foster the open science of frontier AI. We're building open post-training recipes and will expand into open infra to study RSI, reward-hacking, multi-agent systems, and whatever comes next.\n\nWe're built around the theory of change that you need more eyes to solve hard technical problems. We have faith in the scientific methods and communities that humanity has built, and worry that AI is becoming too closed to utilize them.\n\nTrilliums are wildflowers that bloom briefly in the spring, before the forest canopies fill out. Though they are small, they lay the foundation for the cycles of growth and nourishment through the rest of the year. At Trillium Labs, the recipes will be the slow nutrients for the seasons and the model releases will be the blooms. Building an institution dedicated to this is needed because, much as nature’s trilliums are slow to expand and grow, the open-ecosystem needs time and dedicated resources to catch up.\n\nI co-founded with with a long-time friend and collaborator Tom Zick (@thesezickbeats). We're hiring (full time + student collabs/interns), we're fundraising, and we're looking for compute. Please get in touch if you're interested in helping out. Offices based in the Bay Area and Cambridge MA, remote okay.\n\nI’m in the Bay Area until for The Curve and COLM to connect with people who are interested. We’re thankful to have initial support from Halcyon Futures and Schmidt Sciences with more funding en route to enable our ambitions of scaling. Our advisors @Thom_Wolf, @HannaHajishirzi, @gneubig and @ctnzr have been instrumental to building the ecosystem that exists today, and I’m stoked to get to keep working with them."
+    }
+  ],
+  "isSuperseded": false
+}

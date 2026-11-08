@@ -1,0 +1,64 @@
+{
+  "slug": "nvidia-pledges-2b-in-european-ai-after-8b-annual-spend-906e15a6",
+  "title": "Nvidia Pledges $2B in European AI After $8B Annual Spend",
+  "publishedAt": "2026-10-13T17:01:28.499Z",
+  "eventTimeApprox": "2026-10-13T16:18:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 37,
+  "authorCount": 25,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "europe",
+      "name": "Europe"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Four French startups are receiving new capital from Nvidia as part of a broader push to expand the chipmaker's presence in the European Union. Chief executive Jensen Huang announced that the company plans to invest an additional $2 billion in artificial intelligence projects across the region starting next week, following $8 billion spent over the past year. The funding includes minority stakes in and capital for healthcare platform Doctolib, robotics firm Genesis AI, business software provider Pigment, and materials research company Entalpic.\n\nThe initiative targets European healthcare, software, and robotics firms that require high-performance compute to scale their operations. During the announcement, Huang urged the region to prioritize technological sovereignty and open-source models to avoid falling behind, stating that \"Europe needs to get in the race\" to remain competitive in the global AI landscape.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110042429801840924",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2110042429801840924",
+      "tweetedAt": "2026-10-13T16:18:12.000Z",
+      "bestBit": "plans to announce $2 billion in European AI investments next week, adding to the $8 billion invested over the past year",
+      "text": "$NVDA  - NVIDIA TO ANNOUNCE $2 BILLION IN NEW EUROPEAN AI INVESTMENTS\n\nNvidia CEO Jensen Huang says the company plans to announce $2 billion in European AI investments next week, adding to the $8 billion invested over the past year.\n\nNvidia also announced new funding for four French AI startups:\n\n* Doctolib — Healthcare technology\n*Genesis AI — Robotics\n*Pigment — Business software\n*Entalpic — Chemistry and materials research\n\nHuang urged Europe to accelerate AI development, emphasizing open-source models, technological sovereignty and robotics.\n\n“Europe needs to get in the race.”"
+    },
+    {
+      "tweetId": "2110044177560117703",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2110044177560117703",
+      "tweetedAt": "2026-10-13T16:25:09.000Z",
+      "bestBit": "Nvidia is backing the next generation of European robotics, healthcare and software companies that will need its compute to scale",
+      "text": "$NVDA CEO Jensen Huang says “Europe needs to get in the race” as Nvidia plans another $2B in European AI investments after investing $8B over the past year.\n\nNvidia is backing the next generation of European robotics, healthcare and software companies that will need its compute to scale turning Europe’s push for AI independence into another growth opportunity."
+    }
+  ],
+  "isSuperseded": false
+}

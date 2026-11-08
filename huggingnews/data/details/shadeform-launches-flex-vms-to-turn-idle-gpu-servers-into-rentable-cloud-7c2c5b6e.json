@@ -1,0 +1,55 @@
+{
+  "slug": "shadeform-launches-flex-vms-to-turn-idle-gpu-servers-into-rentable-cloud-7c2c5b6e",
+  "title": "Shadeform Launches Flex VMs to Turn Idle GPU Servers Into Rentable Cloud Capacity",
+  "publishedAt": "2026-10-20T17:55:41.917Z",
+  "eventTimeApprox": "2026-10-20T16:33:23.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "The costs of underutilized hardware are being addressed by Shadeform through the release of two services, Flex VMs and Shadeform Spot, designed to monetize spare GPU power. These tools allow owners of bare-metal GPU servers to list their equipment as cloud capacity available to buyers within hours. To integrate the servers, providers only need to provide an IP address and an SSH key, eliminating the need to build a custom API.\n\nThe platform targets a market where high-demand GPUs often remain idle while their owners continue to absorb the overhead costs. By removing the technical barriers to listing spare capacity, Shadeform intends to provide more accessible compute resources for developers running AI experiments and post-training tasks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112574886598336589",
+      "role": "source",
+      "authorHandle": "shadeformai",
+      "url": "https://x.com/shadeformai/status/2112574886598336589",
+      "tweetedAt": "2026-10-20T16:01:17.000Z",
+      "bestBit": "Some of the most in-demand GPUs on Earth are sitting idle right now, and the teams that paid for them are just eating those costs.",
+      "text": "Some of the most in-demand GPUs on Earth are sitting idle right now, and the teams that paid for them are just eating those costs.\n\nToday, we’re launching Flex VMs + Shadeform Spot to fix that👇 https://t.co/vWRKHMSo9w"
+    },
+    {
+      "tweetId": "2112599557511254233",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112599557511254233",
+      "tweetedAt": "2026-10-20T17:39:19.000Z",
+      "bestBit": "today @shadeformai shipped that: its Flex VMs turns any bare metal GPU server into rentable cloud capacity, listed within hours.",
+      "text": "Monday I said the scarce thing isn’t GPUs, it’s a way for idle ones to find buyers.\n\ntoday @shadeformai shipped that: its Flex VMs turns any bare metal GPU server into rentable cloud capacity, listed within hours.\n\nfor me the big deal is “no API to build”, just an IP and an SSH key. that integration work was always why spare capacity never reached buyers. @edsgoode",
+      "quotedTweetText": "Some of the most in-demand GPUs on Earth are sitting idle right now, and the teams that paid for them are just eating those costs.\n\nToday, we’re launching Flex VMs + Shadeform Spot to fix that👇 https://t.co/vWRKHMSo9w"
+    }
+  ],
+  "isSuperseded": false
+}

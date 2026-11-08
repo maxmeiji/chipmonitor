@@ -1,0 +1,73 @@
+{
+  "slug": "llamacpp-launches-windows-app-for-local-ai-on-nvidia-rtx-spark-3534e23f",
+  "title": "Llama.cpp Launches Windows App for Local AI on Nvidia RTX Spark",
+  "publishedAt": "2026-10-14T20:09:32.875Z",
+  "eventTimeApprox": "2026-10-14T18:12:31.500Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110102076785107155/nKwP2LfC4VSDljed-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110102076785107155/nKwP2LfC4VSDljed-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2110102049144639488/vid/avc1/1078x720/llQtDJKdi1ghDWOx.mp4?tag=16",
+    "credit": {
+      "handle": "nvidiartxspark",
+      "tweetUrl": "https://x.com/NVIDIARTXSpark/status/2110102076785107155"
+    }
+  },
+  "summary": "The developers of a popular open-source model runner have created a new tool for executing artificial intelligence natively on personal computers. Branded as Llama Windows, the software enables users to chat with models via a system tray interface and maintain data privacy by keeping all prompts on the local machine rather than on external servers.\n\nThe application includes specific hardware optimizations for Nvidia RTX Spark and integrates with Hugging Face to allow users to browse and download models. By leveraging the llama.cpp framework, the tool simplifies the installation and operation of local AI weights for Windows users.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110102076785107155",
+      "role": "source",
+      "authorHandle": "nvidiartxspark",
+      "url": "https://x.com/NVIDIARTXSpark/status/2110102076785107155",
+      "tweetedAt": "2026-10-13T20:15:13.000Z",
+      "bestBit": "Llama Windows makes it easy to run models locally, with optimizations for NVIDIA RTX Spark.",
+      "text": "llama.cpp now has a Windows app 🦙\n\nLlama Windows makes it easy to run models locally, with optimizations for NVIDIA RTX Spark.\n\n📥 Browse and download models from Hugging Face\n💬 Chat with local models right from your system tray\n🔒 Keep your prompts on your PC https://t.co/68dPHjTZlP"
+    },
+    {
+      "tweetId": "2110418966183399547",
+      "role": "signal",
+      "authorHandle": "clementdelangue",
+      "url": "https://x.com/ClementDelangue/status/2110418966183399547",
+      "tweetedAt": "2026-10-14T17:14:25.000Z",
+      "bestBit": "llama.cpp now has a Windows app 🦙",
+      "text": "RT @NVIDIARTXSpark: llama.cpp now has a Windows app 🦙\n\nLlama Windows makes it easy to run models locally, with optimizations for NVIDIA RTX…"
+    }
+  ],
+  "isSuperseded": false
+}

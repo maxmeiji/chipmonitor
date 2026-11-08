@@ -1,0 +1,105 @@
+{
+  "slug": "top-commodity-brokers-prepare-for-first-ai-compute-futures-trade-865ee987",
+  "title": "Top Commodity Brokers Prepare for First AI Compute Futures Trade",
+  "publishedAt": "2026-10-20T16:38:28.416Z",
+  "eventTimeApprox": "2026-10-20T12:21:10.500Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "commodity-markets",
+      "name": "Commodity Markets"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ADM",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Archer Daniels Midland Company",
+      "hubKey": "adm"
+    },
+    {
+      "ticker": "BGC",
+      "kind": "equity",
+      "role": "subject",
+      "name": "BGC Group, Inc. Class A Common Stock",
+      "hubKey": "bgc"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112551071289663598/HVFIrppXEAAJ4Bi-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112551071289663598/HVFIrppXEAAJ4Bi-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "crypto_council",
+      "tweetUrl": "https://x.com/crypto_council/status/2112551071289663598"
+    }
+  },
+  "summary": "ADM Investor Services, BGC Group, and Nanhua America are organizing the systems needed to execute derivatives trades for hedge funds, commodity traders, and institutional investors. The brokerage firms are targeting instruments tied to the cost of renting artificial intelligence processing power in anticipation of a ruling from the Commodity Futures Trading Commission on compute futures.\n\nThis shift follows formal petitions to the CFTC by the Crypto Council and HyperliquidPC to authorize perpetual and dated futures in U.S. markets. The proponents argue that because AI compute is a constant economic resource, developers and data center lenders face pricing risks that run around the clock without a fixed expiration date.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112517034399404129",
+      "role": "source",
+      "authorHandle": "hyperliquidpc",
+      "url": "https://x.com/HyperliquidPC/status/2112517034399404129",
+      "tweetedAt": "2026-10-20T12:11:24.000Z",
+      "bestBit": "Data centers, their lenders, and the AI developers that rent compute all carry price risk, and the exposure runs around the clock with no fixed end date",
+      "text": "Today, HPC filed a comment letter asking the @CFTC to bring compute perpetual contracts to U.S. markets.\n\nData centers, their lenders, and the AI developers that rent compute all carry price risk, and the exposure runs around the clock with no fixed end date. Our comment explains why compute meets the test for a successful futures market and why perpetual contracts fit an exposure that never expires.\n\nRead it here:",
+      "quotedTweetText": "https://t.co/yBxSxUnePd"
+    },
+    {
+      "tweetId": "2112551071289663598",
+      "role": "source",
+      "authorHandle": "crypto_council",
+      "url": "https://x.com/crypto_council/status/2112551071289663598",
+      "tweetedAt": "2026-10-20T14:26:39.000Z",
+      "bestBit": "urge the @CFTC to allow both perpetual and dated compute futures, with strong benchmark safeguards",
+      "text": "1/ Compute has emerged as a highly in-demand economic resource and an increasingly important input into the digital economy. In our latest comment letter, CCI and its Digital Energy Council urge the @CFTC to allow both perpetual and dated compute futures, with strong benchmark safeguards. 🧵"
+    },
+    {
+      "tweetId": "2112551084585791828",
+      "role": "analysis",
+      "authorHandle": "crypto_council",
+      "url": "https://x.com/crypto_council/status/2112551084585791828",
+      "tweetedAt": "2026-10-20T14:26:42.000Z",
+      "bestBit": "CCI recommends the CFTC permit exchanges to offer both perpetual and dated compute derivatives where they meet CEA requirements",
+      "text": "7/ CCI recommends the CFTC permit exchanges to offer both perpetual and dated compute derivatives where they meet CEA requirements. Dated contracts fit project-specific exposure, and perpetuals fit ongoing exposure."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "crypto-council-urges-cftc-to-authorize-compute-futures-in-us-ad2bdce8",
+    "title": "Crypto Council Urges CFTC to Authorize Compute Futures in US",
+    "publishedAt": "2026-10-20T14:53:32.837Z",
+    "eventTimeApprox": "2026-10-20T12:19:25.000Z",
+    "routingTopicKeys": [
+      "crypto",
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 4
+  }
+}

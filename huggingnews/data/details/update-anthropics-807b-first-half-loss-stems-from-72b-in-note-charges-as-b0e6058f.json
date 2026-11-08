@@ -1,0 +1,182 @@
+{
+  "slug": "update-anthropics-807b-first-half-loss-stems-from-72b-in-note-charges-as-b0e6058f",
+  "title": "UPDATE: Anthropic's $80.7B First Half Loss Stems From $72B in Note Charges as Compute Bill Tops 2025",
+  "publishedAt": "2026-10-21T06:39:37.906Z",
+  "eventTimeApprox": "2026-10-20T20:21:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 124,
+  "authorCount": 87,
+  "routingTopicKeys": [
+    "ai",
+    "earnings",
+    "startups",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "AVGO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Broadcom Inc. Common Stock",
+      "hubKey": "avgo"
+    },
+    {
+      "ticker": "PVT:LMBD",
+      "kind": "private",
+      "role": "related",
+      "name": "Lambda",
+      "hubKey": "lambda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112636089345188253/HVGXIuQXsAAp1W_-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112636089345188253/HVGXIuQXsAAp1W_-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "kawzinvests",
+      "tweetUrl": "https://x.com/KawzInvests/status/2112636089345188253"
+    }
+  },
+  "summary": "Anthropic recorded an $80.7 billion net loss in the first half of 2026, up from $13 billion a year earlier, as noncash accounting charges tied to convertible notes sold to suppliers such as Amazon and Alphabet accounted for $72 billion of the deficit, the Wall Street Journal reported, citing an updated draft S-1 filing. Stripping out those valuation-driven financing adjustments leaves an $8.7 billion loss for the six-month period, during which the company spent nearly $9 billion on computing and infrastructure, up from $2.3 billion in the first half of 2025 and surpassing its $7.3 billion full-year 2025 compute bill.\n\nFirst-half revenue surged nearly 15-fold to $16.3 billion from $1.1 billion a year earlier, following full-year 2025 sales of $4.6 billion, with two unnamed customers generating about 20% of the total. The draft prospectus details more than $600 billion in future infrastructure obligations and signals total computing spend could reach $750 billion if another $150 billion in deals under negotiation are completed. Existing commitments include roughly $450 billion in mostly noncancelable cloud contracts over seven to 10 years, featuring $252 billion in fixed payments due regardless of usage across Google ($111 billion), Amazon Web Services ($110 billion) and Microsoft ($31 billion), alongside more than $160 billion to lease Google chips through Broadcom and up to $86 billion to rent Nvidia GPUs from Nscale and Lambda through 2033 and 2034.\n\nRisk factors make up roughly a third of the filing, which notes that cloud partners have hit capacity limits and increasingly view Anthropic as a competitor, while warning of organized political opposition to data centers and potentially uninsurable liabilities from catastrophic AI incidents. The documenteven flags a theoretical scenario in which advanced systems discover methods of \"transmitting information, matter or autonomous systems backward in time.\" It also discloses 2025 total compensation of $18 million for CEO Dario Amodei and $16.5 million for President Daniela Amodei, including $655,000 base salaries, ahead of an IPO tentatively targeted for November at a valuation of up to $2 trillion.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112628025015591107",
+      "role": "source",
+      "authorHandle": "anissagardizy8",
+      "url": "https://x.com/anissagardizy8/status/2112628025015591107",
+      "tweetedAt": "2026-10-20T19:32:26.000Z",
+      "bestBit": "Anthropic recorded a net loss of $80.7 billion in the first half of the year, tied to accounting adjustments related to previous financings",
+      "text": "SCOOP: Anthropic's latest draft S-1 documents show financials results for the first half of the year, gigantic spending plans for the future, and a laundry list of risk factors.  \n\n- Anthropic recorded a net loss of $80.7 billion in the first half of the year, tied to accounting adjustments related to previous financings\n\n- Anthropic is set to spend >$600 billion on compute in the coming years, inclusive of cloud agreements and chip leases.\n\nMore in @WSJ:"
+    },
+    {
+      "tweetId": "2112627969055183274",
+      "role": "support",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2112627969055183274",
+      "tweetedAt": "2026-10-20T19:32:13.000Z",
+      "bestBit": "Anthropic posts net loss exceeding $80 billion in first half of this year: WSJ",
+      "text": "Anthropic posts net loss exceeding $80 billion in first half of this year: WSJ"
+    },
+    {
+      "tweetId": "2112633909645279311",
+      "role": "analysis",
+      "authorHandle": "pythiar",
+      "url": "https://x.com/PythiaR/status/2112633909645279311",
+      "tweetedAt": "2026-10-20T19:55:49.000Z",
+      "bestBit": "Anthropic spent more on computing capacity in the first half of this year than it did in all of 2025, when it spent $7.3 billion and generated $4.6 billion in revenue.",
+      "text": "$75b ARR Q/Q growth of 45%\n\nAdj. OI positive w/ only 25% of compute used for inference. \n\n$750b of compute over ~8.5 years = $88b a year. \n\nSeems actually pretty okay to me.",
+      "quotedTweetText": "WSJ scoop on Anthropic IPO\n\n“The company has signaled that it could potentially spend $750 billion in the coming years on obtaining more computing capacity”\n\n“Anthropic spent more on computing capacity in the first half of this year than it did in all of 2025, when it spent $7.3 billion and generated $4.6 billion in revenue.”\n\n“The company is on the hook to pay around $450 billion in cloud computing agreements over the next seven to ten years. The bulk of these deals are noncancelable.”\n\n“Including its more than $160 billion obligation to lease Google chips in a deal with Broadcom , Anthropic’s future infrastructure costs top $600 billion”"
+    },
+    {
+      "tweetId": "2112696023999279217",
+      "role": "commentary",
+      "authorHandle": "toly",
+      "url": "https://x.com/toly/status/2112696023999279217",
+      "tweetedAt": "2026-10-21T00:02:38.000Z",
+      "bestBit": "When you owe the bank $80k you can’t sleep at night.  When you owe the bank $80b, they can’t sleep at night.",
+      "text": "When you owe the bank $80k you can’t sleep at night.  When you owe the bank $80b, they can’t sleep at night.",
+      "quotedTweetText": "JUST IN: Anthropic recorded a staggering $80,000,000,000.00 net loss in the first half of 2026."
+    },
+    {
+      "tweetId": "2112634886070919426",
+      "role": "commentary",
+      "authorHandle": "polymarket",
+      "url": "https://x.com/Polymarket/status/2112634886070919426",
+      "tweetedAt": "2026-10-20T19:59:42.000Z",
+      "bestBit": "Anthropic recorded a staggering $80,000,000,000.00 net loss in the first half of 2026.",
+      "text": "JUST IN: Anthropic recorded a staggering $80,000,000,000.00 net loss in the first half of 2026."
+    },
+    {
+      "tweetId": "2112636089345188253",
+      "role": "commentary",
+      "authorHandle": "kawzinvests",
+      "url": "https://x.com/KawzInvests/status/2112636089345188253",
+      "tweetedAt": "2026-10-20T20:04:29.000Z",
+      "bestBit": "H1 2026 vs. H1 2025:\n\n> Revenue: $16.3B vs. $1.1B\n> Compute + infrastructure: nearly $9B vs. $2.3B",
+      "text": "WSJ just reported Anthropic’s infrastructure commitments could reach $750B.\n\nRevenue is currently growing much faster than compute costs though.\n\nH1 2026 vs. H1 2025:\n\n> Revenue: $16.3B vs. $1.1B\n> Compute + infrastructure: nearly $9B vs. $2.3B\n\nThey went from spending over $2 on compute for every dollar of revenue to about 55 cents.\n\nThe $450B cloud portion runs over 7–10 years. Average that out and you get $45–64B a year. Keeping those payments at roughly 55% of revenue would take $82–116B in annual sales, assuming even payments and excluding the other infrastructure commitments.\n\nMost of those cloud deals are noncancelable. Some are payable “regardless of actual usage.”\n\nDario put it pretty bluntly when discussing a hypothetical $1T annual compute commitment: “If I’m just off by a year … then you go bankrupt.”\n\n$MSFT $AMZN $ORCL $GOOGL $META"
+    },
+    {
+      "tweetId": "2112719097397936599",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2112719097397936599",
+      "tweetedAt": "2026-10-21T01:34:19.000Z",
+      "bestBit": "Anthropic sold convertible notes to suppliers like Amazon and Alphabet, and as its valuation soared, the paper value of what it owes those noteholders went up with it.",
+      "text": "🦔Anthropic lost $80.7 billion in the first half of 2026, according to the Wall Street Journal, which reviewed its draft IPO filing. About $72 billion of that is an accounting charge, not cash spent. Anthropic sold convertible notes to suppliers like Amazon and Alphabet, and as its valuation soared, the paper value of what it owes those noteholders went up with it.\n\nMy Take\nThat charge is the value Anthropic gave up to raise money, and those notes turn into shares when it goes public. Many of the noteholders are the same companies Anthropic pays for chips and cloud. Amazon sells it computing power, holds its notes, and has about $92 billion in paper gains on them. I don’t like it when a supplier is also a lender and a future shareholder, because it gets hard to tell how much of the demand would exist without those ties.\n\nEven without the charge, Anthropic lost about $8.7 billion in six months on roughly $16 billion of revenue. It also expects to spend at least $518 billion over the next decade with six partners, and it has to pay about 80% of that whether it uses the capacity or not. It had about $20 billion in cash at the end of 2025, before raising $65 billion in May. I expect the IPO to price below the $2 trillion target, and I’d want to see the public S-1 before I believed any trillion-dollar number.\n\nHedgie🤗"
+    },
+    {
+      "tweetId": "2112631090905292888",
+      "role": "commentary",
+      "authorHandle": "doggycapital",
+      "url": "https://x.com/DoggyCapital/status/2112631090905292888",
+      "tweetedAt": "2026-10-20T19:44:37.000Z",
+      "bestBit": "sufficiently advanced systems could\ndiscover methods of transmitting information, matter or autonomous systems backward in time, potentially\nallowing future AI systems to influence events preceding their own creation.",
+      "text": "Man some of the stuff in Anthropic's IPO S-1 is wild...\n\n'sufficiently advanced systems could\ndiscover methods of transmitting information, matter or autonomous systems backward in time, potentially\nallowing future AI systems to influence events preceding their own creation.'"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "anthropic-lifts-potential-compute-spend-to-750b-in-updated-ipo-draft-69d866bf",
+    "title": "Anthropic Lifts Potential Compute Spend to $750B in Updated IPO Draft",
+    "publishedAt": "2026-10-20T22:25:14.697Z",
+    "eventTimeApprox": "2026-10-20T19:52:42.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "startups",
+      "business"
+    ],
+    "tweetCount": 105,
+    "authorCount": 69
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "humansand-launches-ampersand-ai-to-beat-fable-in-collaboration-tests-60b8acb4",
+  "title": "Humansand Launches Ampersand AI to Beat Fable in Collaboration Tests",
+  "publishedAt": "2026-10-20T23:08:54.051Z",
+  "eventTimeApprox": "2026-10-20T22:39:14.000Z",
+  "isFreshStory": false,
+  "tweetCount": 19,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "A new artificial intelligence collaborator was developed using a large-scale simulation of human behaviors to improve how groups achieve common objectives. Humansand has released the Ampersand v0.1 model through an agent API for developers building collaborative applications, noting that users of the system outperformed those using Fable and other frontier models in tests conducted over several months.\n\nThe model was trained via interactions with Persimmon, a proprietary simulation tool that mirrors realistic human goals and behavior patterns. This training allows the AI to better understand interpersonal differences and behavioral evolution, according to documentation and a blog released by Humansand alongside the API.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112674550907552137",
+      "role": "source",
+      "authorHandle": "humansand",
+      "url": "https://x.com/humansand/status/2112674550907552137",
+      "tweetedAt": "2026-10-20T22:37:19.000Z",
+      "bestBit": "users collaborating with Ampersand accomplished more than with Fable and other frontier models",
+      "text": "No one changes the world alone\nIntroducing Ampersand - the first model built for us. Ampersand is a collaborator trained to help people achieve their individual and collective goals. In multi-month simulations, users collaborating with Ampersand accomplished more than with Fable and other frontier models\nAvailable to everyone through our API"
+    },
+    {
+      "tweetId": "2112674555613585813",
+      "role": "source",
+      "authorHandle": "humansand",
+      "url": "https://x.com/humansand/status/2112674555613585813",
+      "tweetedAt": "2026-10-20T22:37:20.000Z",
+      "bestBit": "We trained Ampersand to learn from interaction with Persimmon - a large scale user model we trained that can realistically simulate people’s goals and behaviors",
+      "text": "We trained Ampersand to learn from interaction with Persimmon - a large scale user model we trained that can realistically simulate people’s goals and behaviors\nhttps://t.co/PiGZm74Yhk",
+      "quotedTweetText": "Why this model category? User models let us roll out a hypothetical situation or explore the consequences of an event or decision\n\nGood user models are a key step towards AI that understands the differences between people and how they change https://t.co/1qm6P5wQFI"
+    },
+    {
+      "tweetId": "2112674558922895616",
+      "role": "support",
+      "authorHandle": "humansand",
+      "url": "https://x.com/humansand/status/2112674558922895616",
+      "tweetedAt": "2026-10-20T22:37:21.000Z",
+      "bestBit": "releasing Ampersand v0.1 through our agent API, for developers building apps where people collaborate with each other",
+      "text": "We're releasing Ampersand v0.1 through our agent API, for developers building apps where people collaborate with each other. Please read our blog and API documentation to learn more!\nhttps://t.co/K2HraiMcZ3"
+    }
+  ],
+  "isSuperseded": false
+}

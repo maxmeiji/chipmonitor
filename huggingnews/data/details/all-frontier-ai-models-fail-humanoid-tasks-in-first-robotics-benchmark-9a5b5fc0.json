@@ -1,0 +1,119 @@
+{
+  "slug": "all-frontier-ai-models-fail-humanoid-tasks-in-first-robotics-benchmark-9a5b5fc0",
+  "title": "All Frontier AI Models Fail Humanoid Tasks in First Robotics Benchmark",
+  "publishedAt": "2026-10-14T23:44:44.805Z",
+  "eventTimeApprox": "2026-10-14T22:46:34.500Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110504838564114735/HUoEKSQawAACukF-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110504838564114735/HUoEKSQawAACukF-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "valsai",
+      "tweetUrl": "https://x.com/ValsAI/status/2110504838564114735"
+    }
+  },
+  "summary": "Artificial Analysis launched AA-Robotics v0.1, a research preview gauging the ability of language models to plan and act in physical environments using a 6-axis robot arm. GPT-6 Astra placed first on the leaderboard with a score of 69, followed by GPT-6.1 Sol at 65 and Gemini 4 Argon at 55. While the models can now manipulate arms for simple tasks, they remain roughly 100x slower and 10x more expensive than human baselines, averaging 30 minutes to complete one tabletop task.\n\nThe benchmark showed a significant performance drop for mobile robotics, where no model reached a score of 2/100 on 11 humanoid tasks requiring independent balance and walking. GPT-6.1 Sol was the most cost-efficient, averaging $1.93 per task, compared to $16.36 for GPT-6 Astra. Reaction times also varied, with GPT-6 models initiating movement after 75 to 80 seconds, while Grok 4.7 and Gemini 4 Argon failed to move the robot in most episodes.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110491190609297422",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2110491190609297422",
+      "tweetedAt": "2026-10-14T22:01:25.000Z",
+      "bestBit": "GPT-6 Astra scores 69, ahead of GPT-6.1 Sol at 65 and Gemini 4 Argon at 55",
+      "text": "Welcome to the era of embodied AI.\n\nWe are launching AA-Robotics v0.1, our research preview that measures frontier language model performance on understanding, planning, and acting in the physical world. In v0.1, each model is given control of a 6-axis robot arm (5 joints and a gripper) and a simple objective. We’re releasing results for our first eight tasks today.\n\nWe find that frontier language models in coding agent harnesses have recently become capable of directly manipulating robot arms for simple tasks. Today, they are far too slow and expensive for any kind of production usage - nearly two orders of magnitude worse than human baselines. We expect this to change quickly.\n\nGPT-6 Astra places first in AA-Robotics v0.1, followed by GPT-6.1 Sol, Gemini 4 Argon and Claude Opus 5.5.\n\nAA-Robotics v0.1 details:\n\n➤ Our first eight tasks test a range of capabilities: control and dexterity (precise grasping and object handling), spatial reasoning (how objects interact with one another) and adaptability (how models respond to the unexpected)\n\n➤ Models get only brief instructions: how to connect to the robot arm (via a simple HTTP API), the arm's name and how to submit an attempt. They can view the scene through four cameras and write and run code to plan and send movements\n\n➤ Once a model submits an attempt, its end state is graded against the task's pass criteria. A pass scores 100; an incomplete attempt earns partial credit. All attempts are zero-shot\n\nKey findings:\n\n➤ The GPT family tops the leaderboard: GPT-6 Astra scores 69, ahead of GPT-6.1 Sol at 65 and Gemini 4 Argon at 55. Claude Opus 5.5 (49) and Claude Fable 5.1 (46) trail\n\n➤ Today’s models are incredibly slow at our tasks, taking ~30 minutes on average to complete each tabletop task\n\n➤ Cost varies widely: GPT-6.1 Sol is the cheapest at $1.93 per task on average; GPT-6 Astra, the most expensive, costs $16.36, more than eight times as much\n\n➤ Compared with a human, today's best-performing frontier language models are ~100x slower and ~10x more expensive\n\nMore results, clips, and how AA-Robotics v0.1 works follow in the thread below"
+    },
+    {
+      "tweetId": "2110500268089704536",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2110500268089704536",
+      "tweetedAt": "2026-10-14T22:37:29.000Z",
+      "bestBit": "GPT-6 Astra's four extra points cost $14.43 more a task, more than eight times GPT-6.1 Sol's price",
+      "text": "Two models form the AA-Robotics v0.1 score vs. cost frontier\n\nGPT-6.1 Sol: $1.93 a task, scores 65\n\nGPT-6 Astra: $16.36 a task, scores 69\n\nClaude Opus 5.5 (49) and Claude Fable 5.1 (46) cost more than GPT-6.1 Sol and score lower. GPT-6 Astra's four extra points cost $14.43 more a task, more than eight times GPT-6.1 Sol's price"
+    },
+    {
+      "tweetId": "2110504838564114735",
+      "role": "source",
+      "authorHandle": "valsai",
+      "url": "https://x.com/ValsAI/status/2110504838564114735",
+      "tweetedAt": "2026-10-14T22:55:39.000Z",
+      "bestBit": "no model reached 2/100 on the 11 humanoid tasks, where it has to balance and walk on its own",
+      "text": "We’re the first team to test a humanoid, and we found that every model did better on the robot arm: GPT-6.1 Sol averaged 51/100 on the 13 arm tasks, but no model reached 2/100 on the 11 humanoid tasks, where it has to balance and walk on its own. https://t.co/Kimos6tYve"
+    },
+    {
+      "tweetId": "2110504841491718596",
+      "role": "support",
+      "authorHandle": "valsai",
+      "url": "https://x.com/ValsAI/status/2110504841491718596",
+      "tweetedAt": "2026-10-14T22:55:40.000Z",
+      "bestBit": "Grok 4.7 and Gemini 4 Argon never moved it in most episodes",
+      "text": "Since the sims run in real time, how long models take to act matters too.\n\nGPT-6 Astra and GPT-6.1 Sol moved the robot in every episode, after 75-80s  on average. Every other model averaged over two minutes before its first command, while Grok 4.7 and Gemini 4 Argon never moved it in most episodes."
+    },
+    {
+      "tweetId": "2110507975135899955",
+      "role": "commentary",
+      "authorHandle": "spicey_lemonade",
+      "url": "https://x.com/spicey_lemonade/status/2110507975135899955",
+      "tweetedAt": "2026-10-14T23:08:07.000Z",
+      "bestBit": "Models like Gemini 4 Argon may have good spatial reasoning but spend the entire allotted time thinking",
+      "text": "A huge feature in our robotics eval is the   Reaction time constraint. Models like Gemini 4 Argon may have good spatial reasoning but spend the entire allotted time thinking. For robotics to be solved, labs need a way to implement a sort of system-one level thinking.",
+      "quotedTweetText": "Since the sims run in real time, how long models take to act matters too.\n\nGPT-6 Astra and GPT-6.1 Sol moved the robot in every episode, after 75-80s  on average. Every other model averaged over two minutes before its first command, while Grok 4.7 and Gemini 4 Argon never moved it in most episodes."
+    },
+    {
+      "tweetId": "2110506588515774520",
+      "role": "commentary",
+      "authorHandle": "spicey_lemonade",
+      "url": "https://x.com/spicey_lemonade/status/2110506588515774520",
+      "tweetedAt": "2026-10-14T23:02:36.000Z",
+      "bestBit": "Models have a long way to go before robotics is solved, but we are seeing the first signs of life",
+      "text": "A robot should be able to walk, run, climb, play soccer, throw and catch an item, build a house in Legos, dodge a moving object, clean your room, follow instructions to build a toy, and more. We are testing this. Models have a long way to go before robotics is solved, but we are seeing the first signs of life.",
+      "quotedTweetText": "When will robotics be solved?\n\nWe put frontier models in real-time MuJoCo sims of a robot arm and a humanoid, where they only receive camera feeds and sensor readings, and respond with motor commands. We tested them on 24 tasks built around spatial reasoning and reaction time. https://t.co/7xnu6CosQR"
+    }
+  ],
+  "isSuperseded": false
+}

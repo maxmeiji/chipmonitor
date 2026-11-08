@@ -1,0 +1,58 @@
+{
+  "slug": "google-ai-matches-doctor-diagnoses-in-90percent-of-cases-in-first-real-c-fdbf831b",
+  "title": "Google AI Matches Doctor Diagnoses in 90% of Cases in First Real Clinic Study",
+  "publishedAt": "2026-10-08T23:07:36.240Z",
+  "eventTimeApprox": "2026-10-08T22:44:19.500Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "The research medical system AMIE encountered no safety failures while engaging with 100 patients at an urgent care facility. Results published in The Lancet show the Google tool's differential diagnoses matched final physician assessments in 90% of cases in a study conducted with BIDMC Medicine, marking the first prospective evaluation of its kind for patient-facing conversational diagnostics in a real clinic.\n\nPhysicians reported that AI-generated summaries helped them prepare for patient visits in 75% of cases and influenced their approach to care in more than half of the interactions. Patients using the tool before appointments used it to organize their thoughts and increase their confidence. The report is the first time Google has published a paper in the main journal of The Lancet.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108326125676192100",
+      "role": "source",
+      "authorHandle": "googleresearch",
+      "url": "https://x.com/GoogleResearch/status/2108326125676192100",
+      "tweetedAt": "2026-10-08T22:38:13.000Z",
+      "bestBit": "Across 100 patient interactions, AMIE had 0 safety stops & matched doctor diagnoses in 90% of cases",
+      "text": "Today in @TheLancet, we share results with @BIDMC_Medicine from evaluating our research medical system, AMIE, in a real clinic. Across 100 patient interactions, AMIE had 0 safety stops &amp; matched doctor diagnoses in 90% of cases. Read more: https://t.co/HLkXRlpqRT"
+    },
+    {
+      "tweetId": "2108329198955958339",
+      "role": "support",
+      "authorHandle": "sundarpichai",
+      "url": "https://x.com/sundarpichai/status/2108329198955958339",
+      "tweetedAt": "2026-10-08T22:50:26.000Z",
+      "bestBit": "Clinicians reported that the summaries helped them prepare for visits in 75% of cases and influenced their approach to care in more than half",
+      "text": "Today @TheLancet published our AMIE study with @BIDMC_Medicine, the first prospective study of patient-facing conversational diagnostics in a real clinic.\n\nAMIE is a research system people can chat with before doctors appointments. Testing AMIE outside the lab with real urgent care patients showed how technology can help gather medical histories safely. Clinicians reported that the summaries helped them prepare for visits in 75% of cases and influenced their approach to care in more than half. AMIE’s differential diagnoses also matched the doctors’ final diagnoses 90% of the time giving clinicians more time to focus on patient care.\n\nIt’s Google’s first-ever paper in The Lancet’s main journal!"
+    }
+  ],
+  "isSuperseded": false
+}

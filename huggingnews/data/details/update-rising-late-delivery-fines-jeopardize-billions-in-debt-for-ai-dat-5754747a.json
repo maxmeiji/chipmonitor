@@ -1,0 +1,114 @@
+{
+  "slug": "update-rising-late-delivery-fines-jeopardize-billions-in-debt-for-ai-dat-5754747a",
+  "title": "UPDATE: Rising Late-Delivery Fines Jeopardize Billions in Debt for AI Data Center Projects",
+  "publishedAt": "2026-10-27T19:54:46.386Z",
+  "eventTimeApprox": "2026-10-25T19:35:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MRSH",
+      "kind": "equity",
+      "role": "related",
+      "name": "Marsh",
+      "hubKey": "mrsh"
+    }
+  ],
+  "summary": "Financial institutions providing capital for the AI infrastructure boom are warning that a two month construction lag could cost builders $300 million in fines. The escalation of these costs has prompted insurance brokers including Marsh to launch specialized \"delay-in-delivery\" policies to protect developers from defaults as lenders grow increasingly concerned about the risk to projects backed by heavily borrowed money.\n\nThe surge in risk follows a shift in lease terms where tenants now demand daily late fees exceeding $5 million, compared to about $1 million a day this spring. Data center insurance premiums are forecast to reach $24 billion by 2030 as developers navigate these penalties. Waldemar Szlezak of KKR warned that the financial pressure from late fees may result in more developer bankruptcies than rising interest rates.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115111399936446841",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2115111399936446841",
+      "tweetedAt": "2026-10-27T16:00:29.000Z",
+      "bestBit": "A two-month construction delay could trigger $300 million in penalties, threatening projects backed by billions in borrowed money.",
+      "text": "The AI data center boom is creating enormous new risks for developers and their lenders. \n\nA two-month construction delay could trigger $300 million in penalties, threatening projects backed by billions in borrowed money.\n\nFull story: https://t.co/WWQMcFmhaZ"
+    },
+    {
+      "tweetId": "2114450761455202400",
+      "role": "commentary",
+      "authorHandle": "realjimchanos",
+      "url": "https://x.com/RealJimChanos/status/2114450761455202400",
+      "tweetedAt": "2026-10-25T20:15:20.000Z",
+      "bestBit": "This is a another great reminder on why the headline “$ per MW” contracts that promotional neocloud CEO’s like to talk about are very misleading.",
+      "text": "This is a another great reminder on why the headline “$ per MW” contracts that promotional neocloud CEO’s like to talk about are very misleading.",
+      "quotedTweetText": "AI data center tenants are now demanding penalties of more than $5 million per day if developers fail to deliver power and facilities on time, up from around $1 million earlier this year, according to The Information. https://t.co/tz9Twcsx1H"
+    },
+    {
+      "tweetId": "2114429774789841054",
+      "role": "commentary",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2114429774789841054",
+      "tweetedAt": "2026-10-25T18:51:57.000Z",
+      "bestBit": "KKR's Waldemar Szlezak warned: 'My bet is late penalties will bankrupt more developers than interest rates ever will.'",
+      "text": "AI data center tenants are now demanding late-delivery penalties exceeding $5 million a day, up from $1 million this spring, according to The Information. Insurance broker Marsh has developed new coverage to protect developers against these delays.\n\nKKR's Waldemar Szlezak warned: 'My bet is late penalties will bankrupt more developers than interest rates ever will.'"
+    },
+    {
+      "tweetId": "2114389619957469308",
+      "role": "analysis",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2114389619957469308",
+      "tweetedAt": "2026-10-25T16:12:23.000Z",
+      "bestBit": "at $5 million a day, a 7-month delay could leave a data center developer owing its AI or cloud tenant over $1 billion in penalties alone",
+      "text": "So at $5 million a day, a 7-month delay could leave a data center developer owing its AI or cloud tenant over $1 billion in penalties alone, before accounting for lost rental income.",
+      "quotedTweetText": "AI data center tenants are now demanding penalties of more than $5 million per day if developers fail to deliver power and facilities on time, up from around $1 million earlier this year, according to The Information. https://t.co/tz9Twcsx1H"
+    },
+    {
+      "tweetId": "2114421345786401267",
+      "role": "commentary",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2114421345786401267",
+      "tweetedAt": "2026-10-25T18:18:27.000Z",
+      "bestBit": "if this is true, that means some firms will undoubtedly blow up on the inability to execute on the timetables required or running into any externally-driven delays",
+      "text": "if this is true, that means some firms will undoubtedly blow up on the inability to execute on the timetables required or running into any externally-driven delays (e.g. politics, etc.)",
+      "quotedTweetText": "AI data center tenants are now demanding penalties of more than $5 million per day if developers fail to deliver power and facilities on time, up from around $1 million earlier this year, according to The Information. https://t.co/tz9Twcsx1H"
+    },
+    {
+      "tweetId": "2114447224251781295",
+      "role": "commentary",
+      "authorHandle": "martinvars",
+      "url": "https://x.com/martinvars/status/2114447224251781295",
+      "tweetedAt": "2026-10-25T20:01:17.000Z",
+      "bestBit": "brokers like Marsh are selling cover just for delays. Nobody prices a risk that high if they think it's rare.",
+      "text": "@chamath The insurance market already sees what you're seeing. Per The Information, data center tenants now demand more than $5 million a day in late-delivery penalties, up from about $1 million this spring, and brokers like Marsh are selling cover just for delays. Nobody prices a risk that high if they think it's rare."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "ai-data-center-tenants-demand-more-than-5-million-daily-penalties-for-co-3cdeb80e",
+    "title": "AI Data Center Tenants Demand More Than $5 Million Daily Penalties for Construction Delays",
+    "publishedAt": "2026-10-25T18:37:34.436Z",
+    "eventTimeApprox": "2026-10-25T16:19:17.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business"
+    ],
+    "tweetCount": 11,
+    "authorCount": 9
+  }
+}

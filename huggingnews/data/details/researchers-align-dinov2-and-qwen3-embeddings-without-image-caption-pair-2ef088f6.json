@@ -1,0 +1,60 @@
+{
+  "slug": "researchers-align-dinov2-and-qwen3-embeddings-without-image-caption-pair-2ef088f6",
+  "title": "Researchers Align DINOv2 and Qwen3 Embeddings Without Image Caption Pairs",
+  "publishedAt": "2026-10-09T20:53:10.315Z",
+  "eventTimeApprox": "2026-10-09T17:39:11.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "A vision model that never processed captions and a language model that never encountered images have been successfully synchronized in a recent study. Dominik Schnaus and his colleagues aligned the embedding spaces of DINOv2 and Qwen3 without employing any paired image caption data, allowing the models to communicate despite their separate training histories. The method remains effective even when the visual and textual information is drawn from different datasets.\n\nOther researchers have highlighted the work as an example of achieving AI results through the application of novel ideas rather than increasing model scale. The research paper detailing the alignment process is currently available on the Papers with Code platform.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108590974436049150",
+      "role": "source",
+      "authorHandle": "dominik_schnaus",
+      "url": "https://x.com/dominik_schnaus/status/2108590974436049150",
+      "tweetedAt": "2026-10-09T16:10:38.000Z",
+      "bestBit": "aligned their embedding spaces without a single image-caption pair",
+      "text": "DINOv2 has never seen a caption, and Qwen3 has never seen an image. We still aligned their embedding spaces without a single image-caption pair.\n\nIt even works when the images and the captions come from different datasets.\n\nProject page: https://t.co/2YHSkXVz1D\n\n⬇️ https://t.co/UEAQIdcj6y"
+    },
+    {
+      "tweetId": "2108613257149943871",
+      "role": "commentary",
+      "authorHandle": "togelius",
+      "url": "https://x.com/togelius/status/2108613257149943871",
+      "tweetedAt": "2026-10-09T17:39:11.000Z",
+      "bestBit": "AI results that come from skillful application of novel ideas rather than just scaling",
+      "text": "Crazy that this works. But very cool.\n(Also, a bit of a palate cleanser to see people posting AI results that come from skillful application of novel ideas rather than just scaling.)",
+      "quotedTweetText": "DINOv2 has never seen a caption, and Qwen3 has never seen an image. We still aligned their embedding spaces without a single image-caption pair.\n\nIt even works when the images and the captions come from different datasets.\n\nProject page: https://t.co/2YHSkXVz1D\n\n⬇️ https://t.co/UEAQIdcj6y"
+    },
+    {
+      "tweetId": "2108656866259824900",
+      "role": "support",
+      "authorHandle": "nielsrogge",
+      "url": "https://x.com/NielsRogge/status/2108656866259824900",
+      "tweetedAt": "2026-10-09T20:32:28.000Z",
+      "bestBit": "This paper is now available on Papers with Code",
+      "text": "Very cool work!!\n\nThis paper is now available on Papers with Code: https://t.co/9Z2uaZldP1 https://t.co/uDPTLUBuB8",
+      "quotedTweetText": "DINOv2 has never seen a caption, and Qwen3 has never seen an image. We still aligned their embedding spaces without a single image-caption pair.\n\nIt even works when the images and the captions come from different datasets.\n\nProject page: https://t.co/2YHSkXVz1D\n\n⬇️ https://t.co/UEAQIdcj6y"
+    }
+  ],
+  "isSuperseded": false
+}

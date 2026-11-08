@@ -1,0 +1,68 @@
+{
+  "slug": "anthropic-rewrites-messages-api-in-rust-without-human-developers-to-cut-037e201a",
+  "title": "Anthropic Rewrites Messages API in Rust Without Human Developers to Cut CPU Use 40% to 50%",
+  "publishedAt": "2026-10-31T01:53:08.596Z",
+  "eventTimeApprox": "2026-10-30T23:31:47.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "software",
+      "name": "Software"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The Messages API powering the AI startup's services recently underwent a transition to the Rust programming language to improve its computational performance. To execute the migration, Anthropic used its Claude AI model to generate the source code based on architectural plans created by human engineers, as the team had no human Rust specialists on staff.\n\nThe transition reduced the API's CPU usage by 40% to 50% while maintaining performance parity with the previous version through testing against live traffic. The successful overhaul challenges the traditional software engineering caution against conducting large scale rewrites of production systems due to high failure risks.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116050219989373170",
+      "role": "source",
+      "authorHandle": "somi_ai",
+      "url": "https://x.com/somi_ai/status/2116050219989373170",
+      "tweetedAt": "2026-10-30T06:11:01.000Z",
+      "bestBit": "Anthropic rewrote its Messages API in Rust. Zero Rust devs on the team.",
+      "text": "Anthropic rewrote its Messages API in Rust. Zero Rust devs on the team.\n\nClaude wrote the code. Humans wrote the plan and checked old vs new matched on real traffic. CPU dropped 40-50%.\n\nPretty sure \"never do the big rewrite\" is dead advice.\n\n@katelyn_lesse on @latentspacepod https://t.co/gsdmHrgFCE"
+    },
+    {
+      "tweetId": "2116305528330785190",
+      "role": "commentary",
+      "authorHandle": "swyx",
+      "url": "https://x.com/swyx/status/2116305528330785190",
+      "tweetedAt": "2026-10-30T23:05:31.000Z",
+      "bestBit": "its true, Anthropic really vibecoded their entire backend to Rust and none of you noticed",
+      "text": "its true, Anthropic really vibecoded their entire backend to Rust and none of you noticed",
+      "quotedTweetText": "Anthropic rewrote its Messages API in Rust. Zero Rust devs on the team.\n\nClaude wrote the code. Humans wrote the plan and checked old vs new matched on real traffic. CPU dropped 40-50%.\n\nPretty sure \"never do the big rewrite\" is dead advice.\n\n@katelyn_lesse on @latentspacepod https://t.co/gsdmHrgFCE"
+    }
+  ],
+  "isSuperseded": false
+}

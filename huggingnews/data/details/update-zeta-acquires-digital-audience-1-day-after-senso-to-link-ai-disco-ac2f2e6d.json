@@ -1,0 +1,94 @@
+{
+  "slug": "update-zeta-acquires-digital-audience-1-day-after-senso-to-link-ai-disco-ac2f2e6d",
+  "title": "UPDATE: Zeta Acquires Digital Audience 1 Day After Senso to Link AI Discovery",
+  "publishedAt": "2026-10-06T20:39:43.105Z",
+  "eventTimeApprox": "2026-10-05T20:13:19.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "business",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ZETA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Zeta Global Holdings Corp.",
+      "hubKey": "zeta"
+    }
+  ],
+  "summary": "The marketing technology firm is merging identity-based activation services with generative search tools to map the consumer journey from a bot's answer to a conversion. Zeta Global announced the acquisition of Digital Audience on October 6, just one day after it agreed to buy AI engineering firm Senso. By combining these assets, Zeta aims to link the moment a brand is discovered in a large language model to the ability to recognize that customer and measure the resulting business action.\n\nSenso, a Y Combinator-backed firm, connects enterprise data with frontier platforms including Gemini, ChatGPT, Claude and Google AI Overviews. Its technology powers Zeta's Generative Engine Optimization tool, which allows companies to track their visibility in AI-generated answers. Financial terms for the deals were not disclosed, and Zeta is expected to make further announcements at its Zeta Live event on October 8.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107199437995139197",
+      "role": "source",
+      "authorHandle": "zetaglobal",
+      "url": "https://x.com/ZetaGlobal/status/2107199437995139197",
+      "tweetedAt": "2026-10-05T20:01:10.000Z",
+      "bestBit": "agreement to acquire @GoSenso, an AI engineering company that will strengthen Zeta’s connections to the world’s leading frontier models",
+      "text": "We’ve entered into an agreement to acquire @GoSenso, an AI engineering company that will strengthen Zeta’s connections to the world’s leading frontier models.\n\nSenso’s technology already helps power Zeta’s Generative Engine Optimization (GEO) offering, helping brands understand how they appear in AI-generated answers—and who those answers reach.\n\nSenso will bring more AI engineering talent and additional technology to help Zeta improve how brands appear across leading AI platforms and connect those insights to customer intelligence, marketing action, and measurable business results.\n\nWe look forward to welcoming Saroop Bharwani and the @GoSenso team to Zeta when the acquisition closes.\n\nAnd we’re saving our Zeta Live announcements for October 8. Stay tuned for more.\nhttps://t.co/WBVDLidK77\n$ZETA"
+    },
+    {
+      "tweetId": "2107202471588487264",
+      "role": "support",
+      "authorHandle": "iponewsroom_",
+      "url": "https://x.com/IPONewsroom_/status/2107202471588487264",
+      "tweetedAt": "2026-10-05T20:13:13.000Z",
+      "bestBit": "Senso, a Y Combinator-backed AI company, helps power Zeta’s Generative Engine Optimization offering",
+      "text": "$ZETA GLOBAL TO ACQUIRE AI ENGINEERING COMPANY SENSO\n\nSenso, a Y Combinator-backed AI company, helps power Zeta’s Generative Engine Optimization offering and connects enterprise data with frontier AI platforms including ChatGPT, Gemini, Claude and Google AI Overviews.\n\nThe deal brings Senso’s technology and AI engineering team in-house as Zeta expands its AI discoverability and customer intelligence infrastructure.\n\nFinancial terms were not disclosed."
+    },
+    {
+      "tweetId": "2107566645745262844",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107566645745262844",
+      "tweetedAt": "2026-10-06T20:20:19.000Z",
+      "bestBit": "acquiring Digital Audience just a day after buying Senso pairing AI search visibility with identity & activation across channels",
+      "text": "$ZETA is acquiring Digital Audience just a day after buying Senso pairing AI search visibility with identity &amp; activation across channels.\n\nZeta is starting to connect full loop from being discovered inside LLMs to recognizing the customer, reaching them &amp; measuring the result. https://t.co/Lcm0giVfX9"
+    },
+    {
+      "tweetId": "2107200688275198389",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107200688275198389",
+      "tweetedAt": "2026-10-05T20:06:08.000Z",
+      "bestBit": "positioning for a world where discovery moves into AI answers and brands have to optimize for the agents deciding what users see and buy",
+      "text": "$ZETA is acquiring Senso to add AI engineering and frontier model connectivity across $GOOGL Gemini, ChatGPT, Claude &amp; AI Overviews.\n\nZeta is positioning for a world where discovery moves into AI answers and brands have to optimize for the agents deciding what users see and buy. https://t.co/whUyGd37VG"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "zeta-acquires-ai-firm-senso-to-link-frontier-models-86704e4a",
+    "title": "Zeta Acquires AI Firm Senso to Link Frontier Models",
+    "publishedAt": "2026-10-05T20:24:35.175Z",
+    "eventTimeApprox": "2026-10-05T20:13:13.000Z",
+    "routingTopicKeys": [
+      "business",
+      "ai"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

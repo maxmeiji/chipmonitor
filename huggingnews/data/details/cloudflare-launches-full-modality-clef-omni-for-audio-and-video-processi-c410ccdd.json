@@ -1,0 +1,58 @@
+{
+  "slug": "cloudflare-launches-full-modality-clef-omni-for-audio-and-video-processi-c410ccdd",
+  "title": "Cloudflare Launches Full Modality Clef-omni for Audio and Video Processing",
+  "publishedAt": "2026-10-09T20:23:45.024Z",
+  "eventTimeApprox": "2026-10-09T19:53:58.500Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NET",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cloudflare, Inc. Class A common stock, par value $0.001 per share",
+      "hubKey": "net"
+    }
+  ],
+  "summary": "The internet infrastructure firm introduced a multimodal AI tool that interprets sound and moving imagery alongside standard text and images. This new model, known as Clef-omni, is already being used by internal teams to identify PII, detect malicious domains, and manage spam issues in documentation repositories. Simultaneously, the company reduced the cost of its Clef-flash model to $0.038 per million input tokens.\n\nThe release expands the Clef family by introducing full-modality capabilities for the first time. Beyond the launch of the omni model, Cloudflare increased the general processing speed of its existing Clef tools to improve performance for developers and enterprises.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108639662457905284",
+      "role": "source",
+      "authorHandle": "dok2001",
+      "url": "https://x.com/dok2001/status/2108639662457905284",
+      "tweetedAt": "2026-10-09T19:24:06.000Z",
+      "bestBit": "@Cloudflare teams are using it to find PII, detect malicious domains, and the docs repo to close spam issues.",
+      "text": "Clef-omni is out. We add audio and video input, plus text and images. \n\n@Cloudflare teams are using it to find PII, detect malicious domains, and the docs repo to close spam issues.\n\nClef-flash is now cheaper at $0.038 per M input tokens.\n\nhttps://t.co/5SvWaoU8Af"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "palo-alto-networks-in-talks-to-buy-ai-startup-clutch-security-for-500-mi-1a63674b",
+  "title": "Palo Alto Networks in Talks to Buy AI Startup Clutch Security for $500 Million",
+  "publishedAt": "2026-11-05T16:09:37.624Z",
+  "eventTimeApprox": "2026-11-05T13:55:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "business",
+    "tech",
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "rumors",
+      "name": "Rumors"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PANW",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Palo Alto Networks, Inc. Common Stock",
+      "hubKey": "panw"
+    }
+  ],
+  "summary": "The cybersecurity firm is pursuing a new acquisition to expand its security tools for autonomous software identities. Palo Alto Networks is in discussions to buy Clutch Security for $500 million to bolster its ability to control how artificial intelligence agents handle corporate data and passwords.\n\nThe deal would follow the company's previous $25 billion purchase of CyberArk, which primarily addressed the security of logins for human users. The acquisition of the AI security startup would shift focus toward the non-human identities used by automated agents.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118371295385546903",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2118371295385546903",
+      "tweetedAt": "2026-11-05T15:54:08.000Z",
+      "bestBit": "The deal would build on its $25 billion CyberArk acquisition, which historically focused on human users' logins.",
+      "text": "Exclusive: Palo Alto Networks is in talks to pay $500 million for Clutch Security, a startup that controls how AI agents use passwords and data. \n\nThe deal would build on its $25 billion CyberArk acquisition, which historically focused on human users' logins.\n\nRead more: https://t.co/sqk9iFE2Ug"
+    }
+  ],
+  "isSuperseded": false
+}

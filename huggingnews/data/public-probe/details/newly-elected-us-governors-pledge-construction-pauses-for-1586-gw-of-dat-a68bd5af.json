@@ -1,0 +1,97 @@
+{
+  "slug": "newly-elected-us-governors-pledge-construction-pauses-for-1586-gw-of-dat-a68bd5af",
+  "title": "Newly Elected US Governors Pledge Construction Pauses for 158.6 GW of Data Center Pipeline",
+  "publishedAt": "2026-11-06T16:55:34.223Z",
+  "eventTimeApprox": "2026-11-06T11:11:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics",
+    "us-markets"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118660880317751623/HWb-hHfboAAufxw-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118660880317751623/HWb-hHfboAAufxw-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wallstengine",
+      "tweetUrl": "https://x.com/wallstengine/status/2118660880317751623"
+    }
+  },
+  "summary": "Planned digital infrastructure expansion in the US faces a significant regulatory hurdle as newly elected officials in nine states move to restrict the buildout of new AI facilities. These jurisdictions have pledged to halt or pause construction on a pipeline that includes 158.6 GW of capacity, accounting for approximately 41% of all planned data center projects in the country, according to market intelligence firm Cleanview. Texas is the most heavily affected, with 88.4 GW of capacity at risk, followed by Ohio with 21.9 GW and Georgia with 20.2 GW.\n\nThe proposed moratoria occur as spending on software and information-processing equipment has become a primary engine of US growth, with contributions to the economy currently exceeding those seen during the Dot-Com boom. While some regions are tightening restrictions to curb investment, other states such as Tennessee and South Carolina have elected pro-industry leaders, and Florida's Governor-elect Byron Donalds has pledged support for the sector. Analysts warn that while pauses could reduce the risk of an AI spending bubble, a sudden contraction in infrastructure investment could remove a critical source of wealth gains and growth.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118662635151581299",
+      "role": "source",
+      "authorHandle": "annmarie",
+      "url": "https://x.com/annmarie/status/2118662635151581299",
+      "tweetedAt": "2026-11-06T11:11:49.000Z",
+      "bestBit": "Those states hold 158.6 GW of planned capacity, or 41% of the US pipeline.",
+      "text": "Cleanview: Nine states now have a governor or governor-elect who has promised or already imposed a pause on new data centers. Those states hold 158.6 GW of planned capacity, or 41% of the US pipeline. https://t.co/QtlgoQ91zO"
+    },
+    {
+      "tweetId": "2118660880317751623",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118660880317751623",
+      "tweetedAt": "2026-11-06T11:04:51.000Z",
+      "bestBit": "Texas: 88.4 GW  Ohio: 21.9 GW  Georgia: 20.2 GW  New Mexico: 11.0 GW  New York: 9.9 GW",
+      "text": "41% of America's planned data center capacity is in states where the governor backs a pause on development, according to Cleanview.\n\nThat's 158.6 GW across nine states, led by:\n\nTexas: 88.4 GW  \nOhio: 21.9 GW  \nGeorgia: 20.2 GW  \nNew Mexico: 11.0 GW  \nNew York: 9.9 GW https://t.co/frdqS2LNsG"
+    },
+    {
+      "tweetId": "2118723243624616141",
+      "role": "commentary",
+      "authorHandle": "nic_carter",
+      "url": "https://x.com/nic_carter/status/2118723243624616141",
+      "tweetedAt": "2026-11-06T15:12:39.000Z",
+      "bestBit": "there are, it's worth noting, five newly-elected governors who are pro DC (in FL, TN, SC, WY, and OK).",
+      "text": "@ArminRosen lot of green left on this map \n\nhttps://t.co/fzxl8MKz4h",
+      "quotedTweetText": "my very quick post-election data center friendliness review: \n\nmajor lynchpins of the DC buildout – TX, OH, WI, MI, and GA – elected governors who have explicitly pledged moratoria \n\nother less relevant states also slammed the door shut. \n\nthere are, it's worth noting, five newly-elected governors who are pro DC (in FL, TN, SC, WY, and OK). there is exactly one who is explicitly more DC than his predecessor – Byron Donalds in Florida. \n\nTLDR: there are still places to build, but the likely loss of TX, OH, and GA will be felt dearly."
+    },
+    {
+      "tweetId": "2118743476577714206",
+      "role": "analysis",
+      "authorHandle": "globalmktobserv",
+      "url": "https://x.com/GlobalMktObserv/status/2118743476577714206",
+      "tweetedAt": "2026-11-06T16:33:03.000Z",
+      "bestBit": "spending on information-processing equipment and software delivering its largest economic contribution on record, exceeding even the Dot-Com Era boom.",
+      "text": "US data-center expansion faces growing regulatory risks:\n\n~45% of planned US data-center capacity is located in states where newly elected Democratic leaders campaigned on tighter development restrictions.\n\nTexas has the largest pipeline at roughly 47 GW, followed by Virginia at 33 GW and Georgia at 26 GW, while only 10 states account for over 70% of national capacity.\n\nOver the last few years, data-center investment has become a major engine of US growth, with spending on information-processing equipment and software delivering its largest economic contribution on record, exceeding even the Dot-Com Era boom.\n\nHowever, tighter restrictions could delay projects and curb excessive investment, potentially reducing the risk of an AI spending bubble.\n\nAt the same time, a sharp slowdown could remove a key source of economic growth and reverse the wealth gains supporting consumer spending.\n\nA slowdown in the AI investment cycle could push the US economy into a recession."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "1586-gw-of-us-data-center-pipeline-at-risk-from-state-construction-pause-dfcb29db",
+    "title": "158.6 GW of US Data Center Pipeline at Risk From State Construction Pauses",
+    "publishedAt": "2026-11-06T11:23:17.621Z",
+    "eventTimeApprox": "2026-11-06T10:58:13.000Z",
+    "routingTopicKeys": [
+      "us-politics",
+      "tech",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 8,
+    "authorCount": 7
+  }
+}

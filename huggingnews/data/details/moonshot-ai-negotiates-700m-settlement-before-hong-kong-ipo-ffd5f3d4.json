@@ -1,0 +1,68 @@
+{
+  "slug": "moonshot-ai-negotiates-700m-settlement-before-hong-kong-ipo-ffd5f3d4",
+  "title": "Moonshot AI Negotiates $700M Settlement Before Hong Kong IPO",
+  "publishedAt": "2026-10-12T04:08:19.336Z",
+  "eventTimeApprox": "2026-10-12T01:19:09.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "business",
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "law",
+      "name": "Law"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:MNSH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Moonshot AI",
+      "hubKey": "moonshot-ai"
+    }
+  ],
+  "summary": "Top officials at the developer of the Kimi chatbot are seeking to resolve a lawsuit brought by a stakeholder regarding allegations of mismanagement. The settlement talks are designed to eliminate legal liabilities and remove obstacles facing the startup's plans to list its shares on the Hong Kong exchange.\n\nThe dispute involves a claim potentially worth over $700 million, with allegations from the founders' prior company that AI model data was transferred to Moonshot without permission. The claimant also alleges the chief technology officer ordered the deletion of key information, accusations that Moonshot disputes.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109421302096228528",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2109421302096228528",
+      "tweetedAt": "2026-10-11T23:10:04.000Z",
+      "bestBit": "Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO",
+      "text": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say https://t.co/cAofkfmjOZ https://t.co/cAofkfmjOZ"
+    },
+    {
+      "tweetId": "2109452300477517965",
+      "role": "support",
+      "authorHandle": "reutersbiz",
+      "url": "https://x.com/ReutersBiz/status/2109452300477517965",
+      "tweetedAt": "2026-10-12T01:13:14.000Z",
+      "bestBit": "settle a legal dispute with a shareholder demanding compensation for their alleged wrongdoing",
+      "text": "Exclusive: Top executives of Chinese AI startup Moonshot are in talks ahead of its planned Hong Kong listing to settle a legal dispute with a shareholder demanding compensation for their alleged wrongdoing. More here - https://t.co/1p5VkdlnsM"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "anthropic-s-1-shows-founders-can-revoke-pledge-to-donate-80percent-of-eq-0f5f44db",
+  "title": "Anthropic S-1 Shows Founders Can Revoke Pledge to Donate 80% of Equity",
+  "publishedAt": "2026-10-26T16:22:55.313Z",
+  "eventTimeApprox": "2026-10-26T15:13:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114718824352436598/HVj9e7AXwAAqFQz-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114718824352436598/HVj9e7AXwAAqFQz-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "teddyschleifer",
+      "tweetUrl": "https://x.com/teddyschleifer/status/2114718824352436598"
+    }
+  },
+  "summary": "The leadership of AI startup Anthropic may retain their ownership stakes in the company despite a prior commitment to give them away. A disclosure in the company's S-1 filing states that the founders' pledge to donate 80% of their personal equity is non-binding and revocable.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114718824352436598",
+      "role": "source",
+      "authorHandle": "teddyschleifer",
+      "url": "https://x.com/teddyschleifer/status/2114718824352436598",
+      "tweetedAt": "2026-10-26T14:00:31.000Z",
+      "bestBit": "Anthropic's S-1 explicitly makes clear that the founders' commitment to donate 80% of their personal equity is revocable / non-binding.",
+      "text": "Anthropic's S-1 explicitly makes clear that the founders' commitment to donate 80% of their personal equity is revocable / non-binding. https://t.co/wL88gOxjM5"
+    }
+  ],
+  "isSuperseded": false
+}

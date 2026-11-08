@@ -1,0 +1,72 @@
+{
+  "slug": "tesla-registers-43-cybercabs-in-18-hours-to-expand-texas-fleet-a4275595",
+  "title": "Tesla Registers 43 Cybercabs in 18 Hours to Expand Texas Fleet",
+  "publishedAt": "2026-10-02T18:54:58.293Z",
+  "eventTimeApprox": "2026-10-02T15:44:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "automobile",
+      "name": "Automobile"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106090776749101143/HTpWD3MXcAAUhEI-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106090776749101143/HTpWD3MXcAAUhEI-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "sawyermerritt",
+      "tweetUrl": "https://x.com/SawyerMerritt/status/2106090776749101143"
+    }
+  },
+  "summary": "The total count of Tesla's Cybercabs in Texas reached 169 registered vehicles following a spike in new additions on Oct. 2. The automaker added 32 vehicles to the fleet overnight and registered another 11 by the following afternoon, totaling 43 new entries in a 18 hour span.\n\nRegistration data from the Texas DMV indicates an acceleration in the Robotaxi rollout. This expansion follows a first year of the program's launch that was viewed as underperforming by some observers, according to an analysis from the Understanding Robots newsletter.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106090776749101143",
+      "role": "source",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2106090776749101143",
+      "tweetedAt": "2026-10-02T18:35:45.000Z",
+      "bestBit": "Tesla has just registered another 11 Cybercabs for its Robotaxi fleet, bringing the total number of Cybercabs registered to date to 169",
+      "text": "Tesla has just registered another 11 Cybercabs for its Robotaxi fleet, bringing the total number of Cybercabs registered to date to 169, according to the Texas DMV.\n\nIncluding the 32 added last night, Tesla has registered 43 Cybercabs in the last 18 hours. https://t.co/6sEfrwFwsv"
+    },
+    {
+      "tweetId": "2106047779785347569",
+      "role": "commentary",
+      "authorHandle": "binarybits",
+      "url": "https://x.com/binarybits/status/2106047779785347569",
+      "tweetedAt": "2026-10-02T15:44:53.000Z",
+      "bestBit": "I was a bit underwhelmed with the first year of Tesla's Robotaxi rollout, but now it seems like they're really doing it",
+      "text": "I was a bit underwhelmed with the first year of Tesla's Robotaxi rollout, but now it seems like they're really doing it. Tesla added 32 Cybercabs to the fleet in Texas in the last few days. I wrote about this for our new newsletter, Understanding Robots. https://t.co/b6IH6DYuZ9 https://t.co/KMbWiSjhKa"
+    }
+  ],
+  "isSuperseded": false
+}

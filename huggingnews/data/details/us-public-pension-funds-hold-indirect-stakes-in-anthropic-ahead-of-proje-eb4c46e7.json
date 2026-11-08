@@ -1,0 +1,76 @@
+{
+  "slug": "us-public-pension-funds-hold-indirect-stakes-in-anthropic-ahead-of-proje-eb4c46e7",
+  "title": "US Public Pension Funds Hold Indirect Stakes in Anthropic Ahead of Projected $1.5T IPO",
+  "publishedAt": "2026-10-30T17:53:59.985Z",
+  "eventTimeApprox": "2026-10-30T17:06:39.500Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "vc",
+      "name": "VC"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2116209305041154485/HV5I1TAbAAELYYy-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2116209305041154485/HV5I1TAbAAELYYy-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "lauramandaro",
+      "tweetUrl": "https://x.com/lauramandaro/status/2116209305041154485"
+    }
+  },
+  "summary": "Pension plans for public employees in several US states and cities may receive significant payouts from a future offering of shares in AI startup Anthropic. An analysis by The Information found that funds for Orange County, Los Angeles, Massachusetts and South Carolina hold indirect ownership in the company through their investments in venture firm Spark Capital.\n\nThe retirement plans' exposure depends on the performance of Spark Capital, which holds roughly $777M in the AI firm. If Anthropic proceeds with its planned November IPO at a valuation of $1.5T, Spark's stake could increase to $9B or more, creating a capital gain for the pension funds involved.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116209305041154485",
+      "role": "source",
+      "authorHandle": "lauramandaro",
+      "url": "https://x.com/lauramandaro/status/2116209305041154485",
+      "tweetedAt": "2026-10-30T16:43:10.000Z",
+      "bestBit": "Pension plans from Orange County, Los Angeles, Massachusetts and South Carolina are all positioned to get healthy payouts from Anthropic's IPO",
+      "text": "New: Pension plans from Orange County, Los Angeles, Massachusetts and South Carolina are all positioned to get healthy payouts from Anthropic's IPO, thanks to  Spark Capital's early and repeat investments. @julia_hornstein dove deep into filings and fund docs w/ @shqne https://t.co/nzvmoGLvIW"
+    },
+    {
+      "tweetId": "2116221130373546207",
+      "role": "support",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2116221130373546207",
+      "tweetedAt": "2026-10-30T17:30:09.000Z",
+      "bestBit": "Anthropic’s expected $1.5 trillion IPO could deliver a much-needed boost to public pension funds",
+      "text": "Anthropic’s expected $1.5 trillion IPO could deliver a much-needed boost to public pension funds. An analysis by The Information shows how investments in Spark Capital could translate into sizable gains for retirement plans across several states. \n\nFull story: https://t.co/2QrWxUbSkV"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "us-doe-loans-vistra-42b-for-nuclear-uprates-linked-to-meta-power-deal-d05dfc2b",
+  "title": "US DOE Loans Vistra $4.2B for Nuclear Uprates Linked to Meta Power Deal",
+  "publishedAt": "2026-10-06T09:09:42.952Z",
+  "eventTimeApprox": "2026-10-05T20:00:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "business",
+    "ai",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "energy-markets",
+      "name": "Energy Markets"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-domestic-policy",
+      "name": "US Domestic Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "VST",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Vistra Corp.",
+      "hubKey": "vst"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107394474137596049/HT74FmHXgAAVQcp-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107394474137596049/HT74FmHXgAAVQcp-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "shanumathew93",
+      "tweetUrl": "https://x.com/ShanuMathew93/status/2107394474137596049"
+    }
+  },
+  "summary": "Three nuclear facilities in Ohio and Pennsylvania will add 433 MW of capacity and extend the operations of roughly 4 GW of power through new credit facilities. The US Department of Energy is providing up to $4.2B in conditional loans to Vistra for modernization and upgrades at the Perry, Beaver Valley, and Davis-Besse plants. Meta has signed 20 year power purchase agreements for 2,609 MW of electricity, comprising 2,176 MW of existing capacity and all the planned expansion, with the first purchases of existing power starting in late 2026.\n\nThe arrangement follows a DOE model of using big tech demand to secure financing for nuclear assets, similar to a $1B loan for Constellation’s Crane plant backed by Microsoft and up to $1.9B for NextEra’s Duane Arnold site backed by Google. Loan terms for Vistra may include maturities up to 30 years and coverage for 80% of eligible costs, with interest rates tied to the Treasury rate plus 37.5 basis points and a risk-based charge.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107175344704811382",
+      "role": "source",
+      "authorHandle": "rapidresponse47",
+      "url": "https://x.com/RapidResponse47/status/2107175344704811382",
+      "tweetedAt": "2026-10-05T18:25:26.000Z",
+      "bestBit": "Department of @ENERGY announces $4.2 billion to boost three nuclear plants in Ohio and Pennsylvania",
+      "text": "Department of @ENERGY announces $4.2 billion to boost three nuclear plants in Ohio and Pennsylvania\nhttps://t.co/dRRRa6UE96"
+    },
+    {
+      "tweetId": "2107394474137596049",
+      "role": "analysis",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2107394474137596049",
+      "tweetedAt": "2026-10-06T08:56:10.000Z",
+      "bestBit": "Meta already signed 20-year power purchase agreements covering 2,609 MW: 2,176 MW of existing capacity + all 433 MW of uprates",
+      "text": "DOE’s Oct. 5 announcement: up to $4.2bn in conditional loans for Vistra’s nuclear fleet, adding 433 MW and funding modernization supporting another 20 years of operation for ~4 GW.\n\nPlanned uprates: Perry +213 MW in 2031; Beaver Valley +140 MW in 2032–33; Davis-Besse +80 MW in 2034.\n\nMeta already signed 20-year power purchase agreements covering 2,609 MW: 2,176 MW of existing capacity + all 433 MW of uprates. Existing-power purchases begin in late 2026.\n\nLikely financing shape, based on DOE’s standard framework = senior secured Federal Financing Bank debt backed by DOE, alongside Vistra funding. Meta’s contracts provide long-term revenue certainty.\n\nStandard program terms:\n>Treasury rate + 37.5bp + a risk-based charge.\n>Up to 30-year maturity.\n>Up to 80% of eligible project costs.\n\nPrior closed DOE loans:\n>Constellation/Crane: $1bn for an 835 MW restart, supported by a 20-year Microsoft PPA.\n>NextEra/Duane Arnold: up to $1.9bn for a 615 MW restart, with a 25-year Google PPA.\n>Holtec/Palisades: $1.52bn for an 800 MW restart."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "us-energy-dept-invests-42b-in-3-ohio-and-pennsylvania-nuclear-plants-cb571641",
+    "title": "US Energy Dept Invests $4.2B in 3 Ohio and Pennsylvania Nuclear Plants",
+    "publishedAt": "2026-10-05T21:52:34.085Z",
+    "eventTimeApprox": "2026-10-05T18:25:26.000Z",
+    "routingTopicKeys": [
+      "us-politics"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

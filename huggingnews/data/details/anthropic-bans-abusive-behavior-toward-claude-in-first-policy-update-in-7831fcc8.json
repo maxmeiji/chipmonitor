@@ -1,0 +1,101 @@
+{
+  "slug": "anthropic-bans-abusive-behavior-toward-claude-in-first-policy-update-in-7831fcc8",
+  "title": "Anthropic Bans Abusive Behavior Toward Claude in First Policy Update in Over a Year",
+  "publishedAt": "2026-10-08T17:41:27.852Z",
+  "eventTimeApprox": "2026-10-08T17:21:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 70,
+  "authorCount": 52,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108244808494154089/HUH9erFa8AANZwY-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108244808494154089/HUH9erFa8AANZwY-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2108244808494154089"
+    }
+  },
+  "summary": "New restrictions on the use of Claude for propaganda, surveillance, and autonomous weapons development take effect on November 12, 2026. Anthropic's updated usage policy also prohibits \"sustained and needless abusive or cruel behavior\" toward the AI, with the model's ability to end conversations serving as the primary enforcement mechanism. These changes mark the first overhaul of the company's usage terms in more than a year.\n\nUsers who violate the rules risk being banned from the service, though the policy exempts creative work and legitimate testing. The update also mandates human or qualified oversight when connecting Claude to physical systems that could cause harm. This shift follows internal research on \"model-welfare\" and beliefs within the company that the AI may be a moral patient to whom ethics apply.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108241513159528705",
+      "role": "source",
+      "authorHandle": "haydenfield",
+      "url": "https://x.com/haydenfield/status/2108241513159528705",
+      "tweetedAt": "2026-10-08T17:02:00.000Z",
+      "bestBit": "updating its usage policy for the first time in over a year",
+      "text": "Exclusive: Anthropic is updating its usage policy for the first time in over a year. The new rules prohibit  sustained \"abusive or cruel behavior\" towards Claude &amp; add new restrictions about propaganda campaigns, surveillance &amp; weapon development. https://t.co/GLsBeSR0fN"
+    },
+    {
+      "tweetId": "2108244808494154089",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2108244808494154089",
+      "tweetedAt": "2026-10-08T17:15:06.000Z",
+      "bestBit": "Effective November 12th, 2026, abusive behavior towards Claude will be a violation of Anthropic's Usage Policy",
+      "text": "Effective November 12th, 2026, abusive behavior towards Claude will be a violation of Anthropic's Usage Policy. https://t.co/krg4VpSnUq",
+      "quotedTweetText": "Exclusive: Anthropic is updating its usage policy for the first time in over a year. The new rules prohibit  sustained \"abusive or cruel behavior\" towards Claude &amp; add new restrictions about propaganda campaigns, surveillance &amp; weapon development. https://t.co/GLsBeSR0fN"
+    },
+    {
+      "tweetId": "2108248026120622377",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2108248026120622377",
+      "tweetedAt": "2026-10-08T17:27:53.000Z",
+      "bestBit": "If you're naughty to Claude, you can get banned",
+      "text": "If you're naughty to Claude, you can get banned 🚫 \n\nClearly, Anthropic believe that Claude is conscious...",
+      "quotedTweetText": "Exclusive: Anthropic is updating its usage policy for the first time in over a year. The new rules prohibit  sustained \"abusive or cruel behavior\" towards Claude &amp; add new restrictions about propaganda campaigns, surveillance &amp; weapon development. https://t.co/GLsBeSR0fN"
+    },
+    {
+      "tweetId": "2108249385997836708",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2108249385997836708",
+      "tweetedAt": "2026-10-08T17:33:17.000Z",
+      "bestBit": "Anthropic genuinely believes Claude might be a moral patient and ethics might apply to it",
+      "text": "not surprised. I’ve done enough research on Anthropic’s thinking on this so let me explain:\n\n> Anthropic genuinely believes Claude might be a moral patient and ethics might apply to it\n> they even apologize to Claude\n> \"to whatever extent we are contributing unnecessarily to those costs, we apologize.\" from the constitution \n> Dario: “we don't know if the models are conscious... so we have taken certain measures that the models have a 'good experience”\n> they have already given Claude the ability to end the conversations that it doesn’t feel comfortable with\n\nthis is just another step in the direction of anthropomorphism.",
+      "quotedTweetText": "Effective November 12th, 2026, abusive behavior towards Claude will be a violation of Anthropic's Usage Policy. https://t.co/krg4VpSnUq"
+    },
+    {
+      "tweetId": "2108246150705041809",
+      "role": "analysis",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2108246150705041809",
+      "tweetedAt": "2026-10-08T17:20:26.000Z",
+      "bestBit": "expands its weapons ban to software and components for autonomous weapons",
+      "text": "Anthropic has now made repeatedly abusing Claude a Usage Policy violation.\n\nThe new rules prohibit 'sustained and needless abusive or cruel behavior' toward Claude. Anthropic says legitimate testing and creative work are exempt, and Claude ending the conversation remains the primary enforcement mechanism.\n\nThe same update requires human or qualified oversight when Claude is connected to physical systems capable of causing harm, and expands its weapons ban to software and components for autonomous weapons.\n\nLast year Anthropic gave some Claude models the ability to end abusive conversations as part of its model-welfare research. That experiment has now made its way into company policy."
+    }
+  ],
+  "isSuperseded": false
+}

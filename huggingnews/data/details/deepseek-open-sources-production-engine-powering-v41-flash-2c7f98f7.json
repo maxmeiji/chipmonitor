@@ -1,0 +1,104 @@
+{
+  "slug": "deepseek-open-sources-production-engine-powering-v41-flash-2c7f98f7",
+  "title": "DeepSeek Open-Sources Production Engine Powering V4.1 Flash",
+  "publishedAt": "2026-10-20T09:54:19.785Z",
+  "eventTimeApprox": "2026-10-20T09:33:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 89,
+  "authorCount": 65,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112472782630187517/HVECoaDbYAACwY6-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112472782630187517/HVECoaDbYAACwY6-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "zhihufrontier",
+      "tweetUrl": "https://x.com/ZhihuFrontier/status/2112472782630187517"
+    }
+  },
+  "summary": "The company's in-house inference framework, DeepInfer, processes 155 trillion tokens per day from a single cluster while maintaining a 96% input cache hit rate. DeepSeek open-sourced the engine and the accompanying deepseek-recipe library to allow the community to replicate the production stack used for its V4.1 Flash model. The system supports Nvidia and Huawei Ascend hardware, utilizing separate stages for vision encoding, prefill, and decode to independently scale resources based on workload.\n\nThe engine achieves generation speeds of 230 to 300 tokens per second and utilizes a persistent block KV cache with 100 PiB of SSD capacity. It employs \"SWA Bounded Replay\" to reconstruct attention states from the latest 128 tokens, reducing total prefill computation by nearly half. However, DeepSeek has not yet open-sourced the KV-cache management and load-balancing components because they remain tightly coupled with internal infrastructure.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112476496283775135",
+      "role": "source",
+      "authorHandle": "deepseek_ai",
+      "url": "https://x.com/deepseek_ai/status/2112476496283775135",
+      "tweetedAt": "2026-10-20T09:30:19.000Z",
+      "bestBit": "Introducing DeepInfer, our in-house inference framework, now fully open source!",
+      "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗 https://t.co/JGAik1kgk0\n\n1/4"
+    },
+    {
+      "tweetId": "2112476501065286085",
+      "role": "source",
+      "authorHandle": "deepseek_ai",
+      "url": "https://x.com/deepseek_ai/status/2112476501065286085",
+      "tweetedAt": "2026-10-20T09:30:20.000Z",
+      "bestBit": "open-sourcing deepseek-recipe... our production token encoding & decoding component, aligned with the processing logic behind the official DeepSeek API",
+      "text": "🛠️ Also open-sourcing deepseek-recipe\n\nOur production token encoding & decoding component, aligned with the processing logic behind the official DeepSeek API to bring the same API behavior to community deployments.\n\n🔗 https://t.co/PPwwcwaNS9\n\n3/4"
+    },
+    {
+      "tweetId": "2112472782630187517",
+      "role": "analysis",
+      "authorHandle": "zhihufrontier",
+      "url": "https://x.com/ZhihuFrontier/status/2112472782630187517",
+      "tweetedAt": "2026-10-20T09:15:33.000Z",
+      "bestBit": "DeepSeek reports 155 trillion tokens/day in service throughput from a single cluster",
+      "text": "DeepSeek Opens DeepInfer: Inside V4.1 Flash’s Production Inference System\n@deepseek_ai just published an engineering deep dive on Zhihu, announcing DeepInfer, the open-source framework behind its large-scale V4.1 Flash service, with support for NVIDIA and Huawei Ascend hardware.\nDeepSeek reports 155 trillion tokens/day in service throughput from a single cluster. Its production statistics include a 96% input cache hit rate, average time to first token of 400 ms, and generation speeds of 230 tokens/s, reaching 300 tokens/s for coding.\nThe engineering details explain how those numbers fit together.\n\nSeparate the stages, then balance the actual work\nVision encoding, prefill and decode run separately so resources can scale with each stage’s workload. The system targets standard eight-accelerator servers for prefill and 64–128-accelerator supernodes for decode, where wide expert parallelism improves batching efficiency.\nPrefill scheduling uses an estimated attention-compute cost to allocate work and size chunks within a time budget. Decode routing balances both request count and total KV-cache length. Popular MoE experts receive replicas that are periodically redistributed to reduce waiting between devices.\n\nKeep reusable prefixes for days\nPersistent block KV cache lives in a separate 3FS storage cluster with roughly 100 PiB of SSD capacity. Reported retention reaches three days for agent traffic and seven days for chatbot traffic.\nAny prefill worker can retrieve any cached prefix, avoiding a conflict between cache affinity and load balancing. Storage and compute can also scale independently. Cache loading is asynchronous, with host-to-device transfers designed to overlap layer execution.\n\nRebuild short-lived attention state cheaply\nSliding-window attention state has a different lifecycle: it is reused within active sessions, so DeepSeek keeps it in host memory rather than persistent storage.\nWhen that state is missing, SWA Bounded Replay reconstructs an approximation from just the latest 128 tokens, restricting attention to the replay segment while reusing the persistent block cache.\nApplied to the decoder, this avoids expensive state reconstruction across a much longer token span. DeepSeek says it nearly halves total prefill computation.\n\nSpend verification compute where it pays off\nDSpark predicts draft-token acceptance probabilities and varies verification lengths according to expected throughput. DeepSeek reports a 6% production throughput gain over always verifying five draft tokens.\nCPU scheduling also overlaps GPU execution to remove idle gaps between decode steps.\n\nRelease the API layer alongside the engine\nThe accompanying deepseek-recipe library handles Chat Completions, Responses and Messages APIs. It parallelizes tokenization and distinguishes actual control tokens from identical-looking user text, preventing that text from being interpreted as structural instructions.\nOne release boundary matters: the KV-cache management and load-balancing components are not yet fully open-sourced, because they remain closely coupled to DeepSeek’s internal infrastructure."
+    },
+    {
+      "tweetId": "2112478049333633314",
+      "role": "analysis",
+      "authorHandle": "miaai_lab",
+      "url": "https://x.com/MiaAI_lab/status/2112478049333633314",
+      "tweetedAt": "2026-10-20T09:36:29.000Z",
+      "bestBit": "For now, it can only be used on NVIDIA SM100 and Huawei Ascend 950",
+      "text": "Ok this is interesting 😲\n\nDeepSeek open-sourced DeepInfer, the inference engine behind their OWN production servers.\n\n- Faster output with draft tokens\n- Fast custom kernels.\n- Skips repeated work on long prompts.\n- Plans the next batch while the GPU is still busy.\n- Same answer no matter what else is in the batch.\n- Same input gives the same output every time.\n\nFor now, it can only be used on NVIDIA SM100 and Huawei Ascend 950. I'm now learning everything about it.\n\nLink below."
+    },
+    {
+      "tweetId": "2112477399128625576",
+      "role": "commentary",
+      "authorHandle": "victor207755822",
+      "url": "https://x.com/victor207755822/status/2112477399128625576",
+      "tweetedAt": "2026-10-20T09:33:54.000Z",
+      "bestBit": "A decisive battle between two futures, two destinies for humanity",
+      "text": "Open source vs. closed source. Light vs. darkness. A decisive battle between two futures, two destinies for humanity.\nHowever long they want to fight, we’ll fight. Until total victory.",
+      "quotedTweetText": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗 https://t.co/JGAik1kgk0\n\n1/4"
+    }
+  ],
+  "isSuperseded": false
+}

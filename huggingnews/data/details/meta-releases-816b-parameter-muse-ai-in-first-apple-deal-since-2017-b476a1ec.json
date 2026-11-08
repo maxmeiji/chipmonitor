@@ -1,0 +1,132 @@
+{
+  "slug": "meta-releases-816b-parameter-muse-ai-in-first-apple-deal-since-2017-b476a1ec",
+  "title": "Meta Releases 816B Parameter Muse AI in First Apple Deal Since 2017",
+  "publishedAt": "2026-10-15T17:26:17.924Z",
+  "eventTimeApprox": "2026-10-15T17:08:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 259,
+  "authorCount": 155,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110778025629347999/HUr9XldXIAAPeX3-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110778025629347999/HUr9XldXIAAPeX3-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "finkd",
+      "tweetUrl": "https://x.com/finkd/status/2110778025629347999"
+    }
+  },
+  "summary": "The Muse Spark Open system provides a 1M token context window and is designed for complex software engineering and multi-step reasoning tasks. Meta launched the model today as its most capable US open-weight offering, featuring 816B total and 42B active parameters with native multimodality for text, image, video, and audio. The system is available for download on Hugging Face, Google Cloud Model Garden, Amazon SageMaker AI, and Microsoft Foundry, and can be accessed via API platforms like Groq and Together AI under the Muse Model License.\n\nApple and Meta optimized the model to run on Mac hardware in the first public partnership between the two companies since 2017. Muse Spark Open is specifically tuned for two Apple M5 Ultra Mac Studios using the MLX framework, though it also supports deployments across 2 to 4 linked machines. It is compatible with inference engines including vLLM and SGLang, with hardware optimizations for NVIDIA, AMD, and Intel silicon.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110778025629347999",
+      "role": "source",
+      "authorHandle": "finkd",
+      "url": "https://x.com/finkd/status/2110778025629347999",
+      "tweetedAt": "2026-10-15T17:01:12.000Z",
+      "bestBit": "runs great on new Mac Studios thanks to work with @johnternus and Apple",
+      "text": "Muse Spark Open -- weights releasing today -- runs great on new Mac Studios thanks to work with @johnternus and Apple. https://t.co/U2wJNrKBOg"
+    },
+    {
+      "tweetId": "2110778736434184611",
+      "role": "source",
+      "authorHandle": "alexandr_wang",
+      "url": "https://x.com/alexandr_wang/status/2110778736434184611",
+      "tweetedAt": "2026-10-15T17:04:01.000Z",
+      "bestBit": "816B total params, 42B active. 1M-token context. natively multimodal.",
+      "text": "1/ muse spark open is the most capable US open-weight model to date.\n\n816B total params, 42B active. 1M-token context. natively multimodal. built for coding and agentic work like long-horizon tasks, hard software engineering, multi-step reasoning.\n\namerica! 🇺🇲 https://t.co/NjtOB7aY9D"
+    },
+    {
+      "tweetId": "2110779650691723485",
+      "role": "support",
+      "authorHandle": "alexandr_wang",
+      "url": "https://x.com/alexandr_wang/status/2110779650691723485",
+      "tweetedAt": "2026-10-15T17:07:39.000Z",
+      "bestBit": "available today through API platforms at Baseten, Fireworks AI, Groq, Modal, Nebius, OpenRouter and Together AI.",
+      "text": "3/ muse spark open is available today through API platforms at Baseten, Fireworks AI, Groq, Modal, Nebius, OpenRouter and Together AI.\n\nmodel weights are available for download on Amazon SageMaker AI, Google Cloud Model Garden, Hugging Face, and Microsoft Foundry Model Catalog.\n\nit runs on leading inference engines like SGLang, vLLM, TensorRT-LLM, Hugging Face Transformers, Apple MLX, llama.cpp, and Unsloth with optimizations for AMD, Apple, Intel, and NVIDIA silicon.\n\ndevelopers can easily further customize the model using the PyTorch framework."
+    },
+    {
+      "tweetId": "2110779758334386491",
+      "role": "source",
+      "authorHandle": "aiatmeta",
+      "url": "https://x.com/AIatMeta/status/2110779758334386491",
+      "tweetedAt": "2026-10-15T17:08:05.000Z",
+      "bestBit": "Weights are released under the Muse Model License, with limited commercial terms that let many developers use the model for free.",
+      "text": "Muse Spark Open is available today through API platforms at Baseten, Fireworks AI, Groq, Modal, Nebius, OpenRouter and Together AI.\n\nDownload the weights on Amazon SageMaker AI, Google Cloud Model Garden, Hugging Face, and Microsoft Foundry Models.\n\nWeights are released under the Muse Model License, with limited commercial terms that let many developers use the model for free.\n\nLearn more on our research blog: https://t.co/yaLc4g4t4c\n\nDownload the weights: https://t.co/GULPEtWtfc"
+    },
+    {
+      "tweetId": "2110779929780715911",
+      "role": "support",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2110779929780715911",
+      "tweetedAt": "2026-10-15T17:08:46.000Z",
+      "bestBit": "It's the first public partnership between Apple and Meta since 2017.",
+      "text": "APPLE $AAPL AND META $META ARE TEAMING UP TO RUN META'S NEW AI MODEL ON MACS\n\nDevelopers can run Meta's Muse Spark Open model on 2 to 4 linked Mac Studios, per CNBC.\n\nIt's the first public partnership between Apple and Meta since 2017. https://t.co/B8Cipd5Ag7"
+    },
+    {
+      "tweetId": "2110778953640427812",
+      "role": "support",
+      "authorHandle": "unslothai",
+      "url": "https://x.com/UnslothAI/status/2110778953640427812",
+      "tweetedAt": "2026-10-15T17:04:53.000Z",
+      "bestBit": "For those who can run Muse Spark Open locally, we made Dynamic GGUFs",
+      "text": "@finkd @johnternus Congrats Meta and thank you for more open-weight models! 🥰\n\nFor those who can run Muse Spark Open locally, we made Dynamic GGUFs: https://t.co/oUNlmTpNJl"
+    },
+    {
+      "tweetId": "2110781327913914528",
+      "role": "support",
+      "authorHandle": "thezachmueller",
+      "url": "https://x.com/TheZachMueller/status/2110781327913914528",
+      "tweetedAt": "2026-10-15T17:14:19.000Z",
+      "bestBit": "most capable US open-weight model to date",
+      "text": "RT @alexandr_wang: 1/ muse spark open is the most capable US open-weight model to date.\n\n816B total params, 42B active. 1M-token context. n…"
+    }
+  ],
+  "isSuperseded": false
+}

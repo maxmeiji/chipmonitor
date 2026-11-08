@@ -1,0 +1,77 @@
+{
+  "slug": "us-navy-contracts-applied-intuition-to-scale-maritime-autonomy-data-engi-5f4cdd4b",
+  "title": "US Navy Contracts Applied Intuition to Scale Maritime Autonomy Data Engine",
+  "publishedAt": "2026-10-24T18:53:59.006Z",
+  "eventTimeApprox": "2026-10-24T16:26:06.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "maritime",
+      "name": "Maritime"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:APIN",
+      "kind": "private",
+      "role": "subject",
+      "name": "Applied Intuition",
+      "hubKey": "applied-intuition"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114022567182835718/HVaEUSvXAAAA0us-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114022567182835718/HVaEUSvXAAAA0us-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "dowcto",
+      "tweetUrl": "https://x.com/DoWCTO/status/2114022567182835718"
+    }
+  },
+  "summary": "Applied Intuition will integrate its operational data collection and model training system across the naval fleet to improve threat detection for US ships. The US Navy awarded the company a contract to scale the use of its Data Engine, an infrastructure layer that uses passive navigation capabilities to collect data at sea and then deploys trained perception models back to vessels over the air.\n\nThe announcement follows a gathering of Project Meridian participants and Department of War leaders at the Navy's Maritime Big Play event in San Diego this week. These working sessions were held as part of a 120 day sprint mandate from the Secretary of War to enhance the capabilities of the Joint Force for next generation conflicts.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114022567182835718",
+      "role": "source",
+      "authorHandle": "dowcto",
+      "url": "https://x.com/DoWCTO/status/2114022567182835718",
+      "tweetedAt": "2026-10-24T15:53:51.000Z",
+      "bestBit": "@SecWar’s 120-day sprint mandate is driving bold thinking about the future of combat and the capabilities needed to DOMINATE in next generation conflicts",
+      "text": "The fight of 2040 is being shaped TODAY.\n\nThis week, the disruptive minds of Project Meridian gathered at the @USNavy’s Maritime Big Play in San Diego, receiving briefings from @DeptofWar leaders and participating in intensive working sessions.\n\nTogether, they challenged conventional thinking and explored how emerging technologies and evolving warfighting domains will transform the future battlefield.\n\n@SecWar’s 120-day sprint mandate is driving bold thinking about the future of combat and the capabilities needed to DOMINATE in next generation conflicts, ensuring America’s Joint Force maintains its decisive warfighting advantage."
+    },
+    {
+      "tweetId": "2113999460153827452",
+      "role": "support",
+      "authorHandle": "wolfejosh",
+      "url": "https://x.com/wolfejosh/status/2113999460153827452",
+      "tweetedAt": "2026-10-24T14:22:02.000Z",
+      "bestBit": "Our goal is for each military service to run its own Data Engine, tailored to its domain and feeding into a common infrastructure.",
+      "text": "US NAVY 🇺🇸 \nx \nLux family co @AppliedInt 🛳️🔱",
+      "quotedTweetText": "Applied Intuition has been awarded a contract by the @USNavy to scale Data Engine across its fleet.\n\nAs the infrastructure layer for maritime autonomy, Data Engine collects operational data through passive navigation capabilities installed on Navy ships. \n\nHere’s how the loop works:\n\n🔵 Collect data from ships at sea\n🔵 Curate it and train perception models\n🔵 Evaluate the models\n🔵 Deploy them back to vessels over the air\n\nThe result is what one ship learns now reaches the entire fleet – a threat encountered by a single vessel is turned into an improved model and deployed over the air, so every ship can detect it.\n\nOur goal is for each military service to run its own Data Engine, tailored to its domain and feeding into a common infrastructure.\n\nLearn more about our work with the U.S. Navy here: \nhttps://t.co/YievJ6zCuf"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "nyu-professor-accuses-openai-of-strip-mining-user-data-in-math-release-d9baf901",
+  "title": "NYU Professor Accuses OpenAI of Strip Mining User Data in Math Release",
+  "publishedAt": "2026-10-22T13:44:24.356Z",
+  "eventTimeApprox": "2026-10-16T12:26:35.500Z",
+  "isFreshStory": false,
+  "tweetCount": 38,
+  "authorCount": 27,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113257113753444433/HVPLzZAaAAA4NFo-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113257113753444433/HVPLzZAaAAA4NFo-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "choblin29",
+      "tweetUrl": "https://x.com/choblin29/status/2113257113753444433"
+    }
+  },
+  "summary": "Tristan Buckmaster of New York University claims an internal OpenAI model was used to harvest private grant applications and research notes to fuel a public display of technical dominance. In a guest post on Terence Tao's blog, Buckmaster describes the October 6 release of over 700 mathematical papers as a \"PR stunt\" that competed against its own users, some of whom were days away from publishing their own work. He also challenged the AI lab's claim of three hours of computation per result, arguing the figure is meaningless because it ignores failed attempts and prior agent work.\n\nThe 722 preprints released on GitHub have deeply divided the mathematics community, shifting focus from the results to the ethics of AI research. Fields medalist Hugo Duminil-Copin stated the dump \"annihilated\" his specific field of research, while Terence Tao warned that junior research projects were wiped out overnight. Conversely, ex-OpenAI researcher Scott Aaronson argued that published problems belong to the whole world, and other experts view the AI's ability to interpret incomplete research notes as a significant advancement in research tools.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113257113753444433",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2113257113753444433",
+      "tweetedAt": "2026-10-22T13:12:12.000Z",
+      "bestBit": "calling the lab's October 6 dump of 700+ AI-generated math manuscripts a 'PR stunt' dropped without checking if it built on the private work of grad students and postdocs",
+      "text": "WTF. In a guest post on Terence Tao's blog, NYU mathematician Tristan Buckmaster accuses OpenAI of competing against its own users with 'internal models unavailable to the public,' calling the lab's October 6 dump of 700+ AI-generated math manuscripts a 'PR stunt' dropped without checking if it built on the private work of grad students and postdocs who were 'literally days away from releasing their own work.' He also challenges OpenAI's claim of roughly three hours of computation per result, arguing that the figure excluded numerous failed attempts and previous work by other agents, rendering it 'essentially meaningless.'\n\nHe says AI companies 'strip mine our data' - including unpublished work, private notes, and grant applications - while researchers typing half-formed ideas into consumer models hand them a roadmap of their thought process. Warning that AI labs must not become 'the ultimate gatekeepers of knowledge,' he calls for zero data retention, opt-in training, and independently controlled open-weight models, concluding that 'the race to be the first to resolve a famous open problem is over.'"
+    },
+    {
+      "tweetId": "2109464319293264296",
+      "role": "support",
+      "authorHandle": "unusual_whales",
+      "url": "https://x.com/unusual_whales/status/2109464319293264296",
+      "tweetedAt": "2026-10-12T02:01:00.000Z",
+      "bestBit": "OpenAI uploaded 722 preprints to a GitHub repository on October 6, each claiming progress on an open math problem",
+      "text": "OpenAI uploaded 722 preprints to a GitHub repository on October 6, each claiming progress on an open math problem.\n\nRead more: https://t.co/EHejlrQfoD"
+    },
+    {
+      "tweetId": "2110844395969016275",
+      "role": "support",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2110844395969016275",
+      "tweetedAt": "2026-10-15T21:24:56.000Z",
+      "bestBit": "OpenAI’s massive paper dump wiped out junior research projects overnight",
+      "text": "Terence Tao warns that the race to AGI is becoming toxic, and OpenAI’s massive paper dump wiped out junior research projects overnight.\n\nSome parts of his most recent interview:\n\n“They were willing to toss understanding to the side so that they could prove more theorems, get more press releases [...] and test their latest toys.\n\nThese AIs are depleting our pool of questions and not replenishing them with anything new.\n\nonly looked at about 10 of the 300 odd papers. I mean, so this is part of the thing. There's just so many to look at.\n\n[...] There's a whole bunch which are still incomprehensible. And no one's really gone through them, and one or two even have some errors and [were] retracted.\n\nSo we don't have a clear picture of what's going on. And no one from OpenAI is helping us. As far as they're concerned, they're done.\n\n[...] We have this pile of stuff to go through which we didn't ask for, but we have it anyway. And there will be some good stuff in there and some rubbish, but we don't know what the percentages are yet.”"
+    },
+    {
+      "tweetId": "2109237567832949109",
+      "role": "support",
+      "authorHandle": "miniapeur",
+      "url": "https://x.com/miniapeur/status/2109237567832949109",
+      "tweetedAt": "2026-10-11T10:59:58.000Z",
+      "bestBit": "They have annihilated my field of research.",
+      "text": "Fields medallist Hugo Duminil-Copin was deeply shaken by OpenAI’s release of more than 700 AI-generated mathematical manuscripts, including work on 16 questions directly relevant to his research. \n\n“On Tuesday night, I cried, and it woke up my daughter”\n\n“They have annihilated my field of research.”\n\nhttps://t.co/RQliNgxjS8"
+    },
+    {
+      "tweetId": "2109347152095011286",
+      "role": "commentary",
+      "authorHandle": "learnopencv",
+      "url": "https://x.com/LearnOpenCV/status/2109347152095011286",
+      "tweetedAt": "2026-10-11T18:15:25.000Z",
+      "bestBit": "One would think mathematicians would rejoice at the prospect of learning some new insights from the solution. Instead, they cry like infants.",
+      "text": "One would think mathematicians would rejoice at the prospect of learning some new insights from the solution. \n\nInstead, they cry like infants. \n\nThey are clearly not pursuing knowledge. \n\nThey are pursuing a career.",
+      "quotedTweetText": "Fields medallist Hugo Duminil-Copin was deeply shaken by OpenAI’s release of more than 700 AI-generated mathematical manuscripts, including work on 16 questions directly relevant to his research. \n\n“On Tuesday night, I cried, and it woke up my daughter”\n\n“They have annihilated my field of research.”\n\nhttps://t.co/RQliNgxjS8"
+    },
+    {
+      "tweetId": "2111278858620326319",
+      "role": "commentary",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2111278858620326319",
+      "tweetedAt": "2026-10-17T02:11:20.000Z",
+      "bestBit": "A math problem, once it’s posed, belongs to the whole world.",
+      "text": "Ex-OpenAI researcher Scott Aaronson tells mathematicians they can't demand AI companies stop solving their problems:\n\n\"What I don’t think we get to do is declare, well, the AI companies have to stop doing this, and no one’s allowed to do this. You just have to stop ruining our playground by solving all our problems. That is not our decision to make.\"\n\n\"We may have come up with the problems, but once you publish a problem, the whole point is that it is there for anyone in the world to try to solve. Even if they’re a corporation that doesn’t always behave the way you would want them to.\"\n\n\"A math problem, once it’s posed, belongs to the whole world.\"\n@UTAustin",
+      "quotedTweetText": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nWe’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public recommendations to inform how we release these results. \n\nhttps://t.co/7N6TPlft1P"
+    },
+    {
+      "tweetId": "2109637928242602142",
+      "role": "commentary",
+      "authorHandle": "0x4d31",
+      "url": "https://x.com/0x4D31/status/2109637928242602142",
+      "tweetedAt": "2026-10-12T13:30:51.000Z",
+      "bestBit": "being smart should also mean recognising how things are changing and figuring out how to adapt",
+      "text": "isn’t that how progress works!? being smart should also mean recognising how things are changing and figuring out how to adapt.\n\nthis is why i think good judgment and adaptability matter more than raw IQ these days…\n🚶🏻‍♂️",
+      "quotedTweetText": "🇫🇷🤖🧑‍🔬 FLASH | « Ils ont annihilé mon domaine de recherche » : le mathématicien français Hugo Duminil-Copin, médaillé Fields, révèle avoir PLEURÉ après qu’OpenAI a publié des centaines de travaux prétendant résoudre des problèmes mathématiques encore ouverts, dont 16 sur lesquels il travaillait.\n\nIl s’inquiète particulièrement de l’avenir des jeunes chercheurs et évoque un « démantèlement » de sa discipline. (Le Monde)"
+    },
+    {
+      "tweetId": "2112265275399938078",
+      "role": "analysis",
+      "authorHandle": "math_files",
+      "url": "https://x.com/Math_files/status/2112265275399938078",
+      "tweetedAt": "2026-10-19T19:31:00.000Z",
+      "bestBit": "AI can examine highly compressed, incomplete research notes and identify subtle mathematical mistakes",
+      "text": "A Fields Medalist says AI can now understand mathematical proofs even when his notes are almost unreadable to other mathematicians.\n\nJohn Pardon explains that until recently, AI was little more than a spelling checker for his mathematical writing.\n\nNow, he says, it can examine highly compressed, incomplete research notes and identify subtle mathematical mistakes.\n\nFor example, a missing condition such as finite or sifted in a statement about colimits can change its meaning. According to Pardon, AI can recognize such omissions by interpreting the broader mathematical context.\n\nHis assessment is:\n\n“The AI understands. 100%.”\n\nPardon also reports that AI has proved several nontrivial lemmas for him. However, he says it has not yet produced a major breakthrough in his own research.\n\nPardon believes AI is changing mathematical research, but he also emphasizes that students must work through easier problems themselves to develop the understanding needed for harder ones.\n\nHe finds value in deliberately approaching unfamiliar problems, even when AI could immediately explain the answers.\n\nFull Interview: https://t.co/r7nuoM4kN4"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openais-ai-breaks-50-year-integer-multiplication-limit-3fe98005",
+    "title": "OpenAI's AI Breaks 50 Year Integer Multiplication Limit",
+    "publishedAt": "2026-10-17T16:11:27.487Z",
+    "eventTimeApprox": "2026-10-12T03:31:55.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 36,
+    "authorCount": 25
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "scaledown-launches-ai-models-467x-cheaper-than-frontier-llm-apis-6a76ef94",
+  "title": "ScaleDown Launches AI Models 467x Cheaper Than Frontier LLM APIs",
+  "publishedAt": "2026-10-13T17:08:42.570Z",
+  "eventTimeApprox": "2026-10-13T12:56:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPRT",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenRouter",
+      "hubKey": "openrouter"
+    }
+  ],
+  "summary": "A new architecture of task-specific AI models from ScaleDown eliminates the traditional generative loop to handle routine data processing at a fraction of current expenses. The company released a family of Constrained Decoding Models (CDMs) for classification, extraction, and summarization that process up to 1M tokens of multimodal text and image input in a single pass. These specialized tools are 200x faster and 467x cheaper than frontier LLM APIs, priced at $0.05 per million input tokens with no charge for output.\n\nThe models are available via ScaleDown's own API and through partners including OpenRouter, Vercel, LiteLLM, and LangChain. In accuracy tests on the CLINC OOS intent-detection benchmark, the Classify model posted a score of 95%, outperforming an average of 89.6% from three OpenAI models at 1,810x lower cost. For a limited window of 50 hours, new users receive 50M free input tokens, while OpenRouter offers a promotional rate of $0.04 per million input tokens.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109978626124898587",
+      "role": "source",
+      "authorHandle": "neal_k_patel",
+      "url": "https://x.com/neal_k_patel/status/2109978626124898587",
+      "tweetedAt": "2026-10-13T12:04:40.000Z",
+      "bestBit": "200x faster, 467x cheaper than frontier LLM APIs",
+      "text": "You already gave the LLM the answer. So why is it writing it out from scratch?\n\nIntroducing a new AI model architecture: Constrained Decoding Models (CDMs)\n\nLLMs were built to write. Most production workloads just need an answer: fast, consistent, and affordable.\n\nCDMs are purpose-built for 1 task each. They read your input once and skip the token-by-token generative loop that makes LLMs slow and expensive.\n\nNot just a decision model, but a family of 3 CDMs live today:\n\n• Classify: define your labels and get back a calibrated probability + reason for each. Used for routing, tagging, and intent detection.\n • Extract: describe the entities in natural language and get back well-formed JSON with confidence scores + citations. Used for web scraping, document processing, and PII redaction.\n • Summarize: pass in long text, images, or PDFs and get back a consistent summary under 1,000 tokens. Used for context compaction, metadata generation, and transcript digests.\n\nBuilt for production:\n\n• 1M tokens of multimodal (text + image) input, 31x larger than Jev\n • 77.2% on DecisionBench vs Jev's 72%\n • 200x faster, 467x cheaper than frontier LLM APIs\n • $0.05/M input tokens. Output is free (yes, even for summarize)\n\nLive on your favorite platforms today:\n @OpenRouter @vercel_dev @LiteLLM @LangChain  @TrustedRouter @itsArthurAI @useRouterPlus\n\nGet 50M input tokens for free (for the first 50 hours) at link below 👀"
+    },
+    {
+      "tweetId": "2109989782302716140",
+      "role": "support",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2109989782302716140",
+      "tweetedAt": "2026-10-13T12:49:00.000Z",
+      "bestBit": "20% off for launch: $0.04/M input tokens, output free",
+      "text": "A family of constrained-decoding models from @scaledown_team is live on OpenRouter, each one purpose-built for a single task:\n\n• Summarize: turns long text, images, and PDFs into short, consistent summaries for context compaction and transcript digests\n• Extract: describe the fields you want in plain English and get clean JSON back, with confidence scores and source spans\n• Classify-1: set your own labels and get a calibrated probability for each, via our Decisions API\n\n20% off for launch: $0.04/M input tokens, output free.\n\nhttps://t.co/YcCLlt2d2m",
+      "quotedTweetText": "You already gave the LLM the answer. So why is it writing it out from scratch?\n\nIntroducing a new AI model architecture: Constrained Decoding Models (CDMs)\n\nLLMs were built to write. Most production workloads just need an answer: fast, consistent, and affordable.\n\nCDMs are purpose-built for 1 task each. They read your input once and skip the token-by-token generative loop that makes LLMs slow and expensive.\n\nNot just a decision model, but a family of 3 CDMs live today:\n\n• Classify: define your labels and get back a calibrated probability + reason for each. Used for routing, tagging, and intent detection.\n • Extract: describe the entities in natural language and get back well-formed JSON with confidence scores + citations. Used for web scraping, document processing, and PII redaction.\n • Summarize: pass in long text, images, or PDFs and get back a consistent summary under 1,000 tokens. Used for context compaction, metadata generation, and transcript digests.\n\nBuilt for production:\n\n• 1M tokens of multimodal (text + image) input, 31x larger than Jev\n • 77.2% on DecisionBench vs Jev's 72%\n • 200x faster, 467x cheaper than frontier LLM APIs\n • $0.05/M input tokens. Output is free (yes, even for summarize)\n\nLive on your favorite platforms today:\n @OpenRouter @vercel_dev @LiteLLM @LangChain  @TrustedRouter @itsArthurAI @useRouterPlus\n\nGet 50M input tokens for free (for the first 50 hours) at link below 👀"
+    },
+    {
+      "tweetId": "2110029288070074766",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2110029288070074766",
+      "tweetedAt": "2026-10-13T15:25:59.000Z",
+      "bestBit": "ScaleDown scored 95% accuracy for Classify, versus an average of 89.6% for three OpenAI models, at 1,810x lower cost",
+      "text": "Input is currently billed at $0.05 per million tokens, with a promotional $0.04 on OpenRouter at launch, and output tokens are not counted.\n\nOn CLINC OOS, a public intent-detection benchmark, ScaleDown scored 95% accuracy for Classify, versus an average of 89.6% for three OpenAI models, at 1,810x lower cost.\n\nFor the first 50 hours after launch, new accounts also get 50M free input tokens.\n\nTest it out 👀\nhttps://t.co/9wpE5BVvH9"
+    },
+    {
+      "tweetId": "2109988217000976781",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2109988217000976781",
+      "tweetedAt": "2026-10-13T12:42:47.000Z",
+      "bestBit": "The difference with regular LLMs is that these models don’t write their answer token by token",
+      "text": "Pulling a due date out of a 300-page PDF shouldn’t need a model that writes.\n\nDecision models now get a 1M-token window, and they take images too.\n\nScaleDown released 3 small models (Classify, Extract, Summarize) for the simple, repetitive jobs that agents usually hand to an expensive LLM.\n\n200x faster and 467x cheaper than frontier LLM APIs. $0.05 per million input tokens, and output is free.\n\nThe bigger change is that the same design now covers classify, extract and summarize.\n\nThe difference with regular LLMs is that these models don’t write their answer token by token. They read up to 1M tokens of text and images once and pick the answer straight from the input, so output is free, results stay inside your labels or source text\n\nScaleDown’s Constrained Decoding Models make one prefill pass over your input and select the answer from it: a label, a span with its source offset, or the passages that belong in a summary.\n\nhttps://t.co/AHsLsn6GBf",
+      "quotedTweetText": "You already gave the LLM the answer. So why is it writing it out from scratch?\n\nIntroducing a new AI model architecture: Constrained Decoding Models (CDMs)\n\nLLMs were built to write. Most production workloads just need an answer: fast, consistent, and affordable.\n\nCDMs are purpose-built for 1 task each. They read your input once and skip the token-by-token generative loop that makes LLMs slow and expensive.\n\nNot just a decision model, but a family of 3 CDMs live today:\n\n• Classify: define your labels and get back a calibrated probability + reason for each. Used for routing, tagging, and intent detection.\n • Extract: describe the entities in natural language and get back well-formed JSON with confidence scores + citations. Used for web scraping, document processing, and PII redaction.\n • Summarize: pass in long text, images, or PDFs and get back a consistent summary under 1,000 tokens. Used for context compaction, metadata generation, and transcript digests.\n\nBuilt for production:\n\n• 1M tokens of multimodal (text + image) input, 31x larger than Jev\n • 77.2% on DecisionBench vs Jev's 72%\n • 200x faster, 467x cheaper than frontier LLM APIs\n • $0.05/M input tokens. Output is free (yes, even for summarize)\n\nLive on your favorite platforms today:\n @OpenRouter @vercel_dev @LiteLLM @LangChain  @TrustedRouter @itsArthurAI @useRouterPlus\n\nGet 50M input tokens for free (for the first 50 hours) at link below 👀"
+    },
+    {
+      "tweetId": "2109994407651053738",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2109994407651053738",
+      "tweetedAt": "2026-10-13T13:07:23.000Z",
+      "bestBit": "claiming costs ~40x lower than Gemini 4 Argon",
+      "text": "ScaleDown just introduced specialized AI models for routine tasks like extracting data, summarizing and compressing context claiming costs ~40x lower than Gemini 4 Argon.\n\nAnother example how the cost of running AI agents keeps falling while number of tasks worth automating across economy keeps growing.",
+      "quotedTweetText": "You already gave the LLM the answer. So why is it writing it out from scratch?\n\nIntroducing a new AI model architecture: Constrained Decoding Models (CDMs)\n\nLLMs were built to write. Most production workloads just need an answer: fast, consistent, and affordable.\n\nCDMs are purpose-built for 1 task each. They read your input once and skip the token-by-token generative loop that makes LLMs slow and expensive.\n\nNot just a decision model, but a family of 3 CDMs live today:\n\n• Classify: define your labels and get back a calibrated probability + reason for each. Used for routing, tagging, and intent detection.\n • Extract: describe the entities in natural language and get back well-formed JSON with confidence scores + citations. Used for web scraping, document processing, and PII redaction.\n • Summarize: pass in long text, images, or PDFs and get back a consistent summary under 1,000 tokens. Used for context compaction, metadata generation, and transcript digests.\n\nBuilt for production:\n\n• 1M tokens of multimodal (text + image) input, 31x larger than Jev\n • 77.2% on DecisionBench vs Jev's 72%\n • 200x faster, 467x cheaper than frontier LLM APIs\n • $0.05/M input tokens. Output is free (yes, even for summarize)\n\nLive on your favorite platforms today:\n @OpenRouter @vercel_dev @LiteLLM @LangChain  @TrustedRouter @itsArthurAI @useRouterPlus\n\nGet 50M input tokens for free (for the first 50 hours) at link below 👀"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "mojo-and-max-go-fully-open-for-commercial-use-9043b28b",
+  "title": "Mojo and MAX Go Fully Open for Commercial Use",
+  "publishedAt": "2026-10-23T19:09:20.294Z",
+  "eventTimeApprox": "2026-10-23T15:08:13.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "software",
+      "name": "Software"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "summary": "The Mojo programming language and the MAX toolset are now accessible for commercial development and extension. The release covers the full Mojo language, the MAX graph compiler, MLRT runtime internals, and hardware abstraction logic.\n\nChris Lattner shared the update on Oct. 23, stating the opening of the stack is intended to facilitate the creation of AI agents.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113639627445965251",
+      "role": "source",
+      "authorHandle": "clattner_llvm",
+      "url": "https://x.com/clattner_llvm/status/2113639627445965251",
+      "tweetedAt": "2026-10-23T14:32:11.000Z",
+      "bestBit": "Mojo and MAX are now fully open - for development, extension, and commercial use!",
+      "text": "I'm happy to share that Mojo and MAX are now fully open - for development, extension, and commercial use! This includes the full Mojo programming language, but also the MAX graph compiler, MLRT runtime internals, and hardware abstraction logic.\n\nGet your agents going!👇"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "allen-ai-publishes-nature-paper-on-byte-level-llm-adaptation-2c56f69e",
+  "title": "Allen AI Publishes Nature Paper on Byte Level LLM Adaptation",
+  "publishedAt": "2026-10-07T18:38:40.064Z",
+  "eventTimeApprox": "2026-10-07T17:35:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "summary": "A new method from Allen AI allows existing large language models to operate over bytes without needing to be trained from scratch. The research, published in the journal Nature, introduces a process called \"byteification\" that serves as the technical foundation for the Bolmo model. To demonstrate the versatility of the approach, the organization released new checkpoints that apply the method to the Qwen and Llama model families, expanding beyond its initial use in the Olmo model.\n\nThe adaptation requires a short additional training run to modify the model's core. This process adds components that group bytes into variable length patches for processing and then expand outputs back to byte level representations to predict the next byte. Lead author @bminixhofer completed the majority of the development during a 3 month internship.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107862550259884361",
+      "role": "source",
+      "authorHandle": "allen_ai",
+      "url": "https://x.com/allen_ai/status/2107862550259884361",
+      "tweetedAt": "2026-10-07T15:56:08.000Z",
+      "bestBit": "releasing new checkpoints that extend our method from Olmo to Qwen & Llama",
+      "text": "Our paper on retrofitting language models to operate over bytes – the approach behind Bolmo – has been accepted to Nature! 🎉\n\nWe’re also releasing new checkpoints that extend our method from Olmo to Qwen &amp; Llama. 🧵\n\nhttps://t.co/3BEKIKsQIk https://t.co/m6TT2h2B38"
+    },
+    {
+      "tweetId": "2107862554080837961",
+      "role": "support",
+      "authorHandle": "allen_ai",
+      "url": "https://x.com/allen_ai/status/2107862554080837961",
+      "tweetedAt": "2026-10-07T15:56:09.000Z",
+      "bestBit": "adapts existing models to bytes with a short additional training run",
+      "text": "Our recipe adapts existing models to bytes with a short additional training run. \n\nIt keeps the model's core, adding components that group bytes into variable-length patches for it to process, then expand its outputs back to byte-level representations to predict the next byte."
+    },
+    {
+      "tweetId": "2107876667632845018",
+      "role": "support",
+      "authorHandle": "vjhofmann",
+      "url": "https://x.com/vjhofmann/status/2107876667632845018",
+      "tweetedAt": "2026-10-07T16:52:14.000Z",
+      "bestBit": "Byteification lets existing LLMs gain the strengths of byte-level models without training from scratch",
+      "text": "Thrilled to share that our work on LLM byteification is out in @Nature today! 🎉\n\nByteification lets existing LLMs gain the strengths of byte-level models without training from scratch.\n\nHuge kudos to lead author @bminixhofer, who did most of this in a three-month internship! 🤯",
+      "quotedTweetText": "Our paper on retrofitting language models to operate over bytes – the approach behind Bolmo – has been accepted to Nature! 🎉\n\nWe’re also releasing new checkpoints that extend our method from Olmo to Qwen &amp; Llama. 🧵\n\nhttps://t.co/3BEKIKsQIk https://t.co/m6TT2h2B38"
+    },
+    {
+      "tweetId": "2107902074788962350",
+      "role": "engagement",
+      "authorHandle": "tomlimi",
+      "url": "https://x.com/TomLimi/status/2107902074788962350",
+      "tweetedAt": "2026-10-07T18:33:12.000Z",
+      "bestBit": "Kudos to @bminixhofer for making Bolmo happen",
+      "text": "I never expected to publish in Nature, even less so on byte-level language models.\n\nKudos to @bminixhofer  for making Bolmo happen!",
+      "quotedTweetText": "Our paper on retrofitting language models to operate over bytes – the approach behind Bolmo – has been accepted to Nature! 🎉\n\nWe’re also releasing new checkpoints that extend our method from Olmo to Qwen &amp; Llama. 🧵\n\nhttps://t.co/3BEKIKsQIk https://t.co/m6TT2h2B38"
+    }
+  ],
+  "isSuperseded": false
+}

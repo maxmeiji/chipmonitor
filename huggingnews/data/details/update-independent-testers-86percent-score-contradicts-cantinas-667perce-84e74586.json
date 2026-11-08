@@ -1,0 +1,96 @@
+{
+  "slug": "update-independent-testers-86percent-score-contradicts-cantinas-667perce-84e74586",
+  "title": "UPDATE: Independent Tester's 8.6% Score Contradicts Cantina's 66.7% AI Claim",
+  "publishedAt": "2026-10-06T21:54:08.213Z",
+  "eventTimeApprox": "2026-10-04T01:37:50.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "2513",
+      "kind": "equity",
+      "role": "related",
+      "name": "Z.AI",
+      "hubKey": "zhipu-ai"
+    }
+  ],
+  "summary": "An open-weights model developed for vulnerability research failed to generalize its capabilities during recent third-party testing on the CyberGym benchmark. A tester using the vanilla Claude Code CLI recorded an 8.6% pass rate for the apex-flash-1 model, contradicting the 66.7% pass rate asserted by developer Cantina Security. The evaluation identified infinite retry loops, tool-call confusion and context decoherence as primary factors in the model's failure to perform outside of the developer's internal testing harness.\n\nCantina Security released apex-flash-1 as a post-trained version of glm-5.3-flash, describing the release as a small run to refine its training process before a larger deployment. The firm, which ranks first on the 2026 HackerOne US business leaderboard and has earned $1 million in bounties from companies including Apple and Coinbase, has built models ranging from 27B to over 1T parameters. The open weights and an abliterated variant are currently available on HuggingFace.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105803415012205023",
+      "role": "source",
+      "authorHandle": "cantinasecurity",
+      "url": "https://x.com/cantinasecurity/status/2105803415012205023",
+      "tweetedAt": "2026-10-01T23:33:52.000Z",
+      "bestBit": "our first open-weights model for security research post-trained on real vulnerabilities we found and got paid for",
+      "text": "today we're releasing apex-flash-1, our first open-weights model for security research post-trained on real vulnerabilities we found and got paid for.\n\nwe are also releasing the abliterated variant for researchers who want fewer refusals in their own authorized workflows.\n\nhow we built it: https://t.co/sSIV6qKFGt"
+    },
+    {
+      "tweetId": "2106545457027793177",
+      "role": "analysis",
+      "authorHandle": "hrkrshnn",
+      "url": "https://x.com/hrkrshnn/status/2106545457027793177",
+      "tweetedAt": "2026-10-04T00:42:29.000Z",
+      "bestBit": "earned a million dollars in bounties across various programs, and we're currently #1 on the HackerOne US business leaderboard for 2026",
+      "text": "We just released apex-flash-1, an open-weights model we post-trained for cybersecurity. Fire up your GPUs and run it!\n\nWe've post-trained models from 27B parameters all the way to 1T+ parameters. The unique nature of cybersecurity is that if you can build a system that finds zero-days at scale, you've built a machine that can print money.\n\nYou can test it on public bug bounties and profit from doing that. We've earned a million dollars in bounties across various programs, and we're currently #1 on the HackerOne US business leaderboard for 2026! Companies like Apple, Anthropic, Datadog, Ripple, Coinbase have paid us well for our disclosures.\n\nLast year was all about harness engineering and riding the wave of models getting more intelligent over time. We built harnesses for offensive and defensive security work that process trillions of tokens a month. Yes, trillions!\n\nWith all that work, it's clear to us what the future of security looks like.\n\nHacking was once a bespoke skill, similar to hardcore software engineering. Software engineering is currently moving from offices to factories. Security, too, will go through the same transition.\n\nLast month, Anthropic released a report on how they caught different threat actors abusing Claude. One of them stood out to me. A team in China built an automated exploit factory. A factory that autonomously grinds through vulnerabilities in targets and exploits them. Their targets included security products, network appliances, and government organizations.\n\nWe've spent enough time building systems adjacent to that to know what it takes, and the shocking part is the economics. How little it costs to breach companies that you and I rely on.\n\nAll this to say, security is largely becoming an economics problem. Reasonably capable models and harnesses, with enough compute, can find ways to steal your data, damage your reputation, and sometimes even take your money. And the cost to achieve that is dropping every day.\n\nWhen that happens, the right question to ask is: what's the cost, and what's the lowest cost to achieve an outcome reliably? You want to find a stack with the best combination of capability and cost. This is what people call 'Pareto-optimal'.\n\nOnce you know that, it's all about scaling. Scaling to trillions of tokens a month, then a week, then a day. Eventually, trillions of tokens a second.\n\nTo do this, you need to own and control the entire stack: the models, the harnesses, the context, and even the flow of tokens. If you do the math here, the economics start looking insane.\n\nWhat does that look like?\n\n1. Building evaluations on cyber tasks that you and your customers care about.\n2. Building a data pipeline of unique real-world data with signal attached to it.\n3. Building a harness that can self-improve for each specific organization or customer.\n4. Building a post-training loop that can take those learnings and improve the models. Models that are better, faster, and cheaper.\n5. Owning your inference pipelines and controlling the flow of tokens so you're maximizing the value produced in every GPU cycle.\n\nOn evals: if you're a company building AI products for customers, you have to build your own. There's tremendous alpha in having internal evals corresponding to real work. In our case, these are evals for offensive and defensive security work.\n\nA lot of public evals are bad for measuring the work you actually care about. Public evals are typically from academics or data companies.\n\nAcademics have limited budgets and limited access to proprietary data that measures real economic work. Data companies build evals and also sell you corresponding data (RL gyms, traces, pre-training data, etc.) that helps your next model “juice up” its score.\n\nThis is the dirty secret, and also why models can do extremely well on public evals but extremely poorly on things you care about. This is also why there's tremendous alpha in private evals: you know which models are the best for your use cases.\n\nIn cyber, some of the popular public evals are ExploitGym and ExploitBench. We think these evals do not correspond to the real security work our customers need. A typical challenge in ExploitBench is to take Chrome's javascript engine V8 with a known patch and find a way to exploit the vulnerability.\n\nThat is far, far removed from the security issues in everyday applications that you and I use, and applications built by our customers.\n\nWe could've benchmaxxed on these evals, but we didn't. And you should be wary of people using these evals to advertise their models and harnesses. Measure things yourself and see how they apply to your use cases.\n\nThe future: Opus is a model that many people found to be a reliable workhorse. For me, Opus 4.1 was the first model that was functional and could get work done.\n\nThese days, the flash models from Qwen, DeepSeek, MiMo and GLM can be categorized as workhorses too. That, combined with owning the post-training loop means the economics start looking insane. You can get frontier performance in specific domains for a small fraction of the price of Opus.\n\nWith the right data pipelines and post-training loop, you now have a durable strategy to keep improving and stay state-of-the-art in your vertical.\n\nThat's the bet behind apex-flash-1, our post-train of glm-5.3-flash, and we're already preparing for longer training runs.",
+      "quotedTweetText": "today we're releasing apex-flash-1, our first open-weights model for security research post-trained on real vulnerabilities we found and got paid for.\n\nwe are also releasing the abliterated variant for researchers who want fewer refusals in their own authorized workflows.\n\nhow we built it: https://t.co/sSIV6qKFGt"
+    },
+    {
+      "tweetId": "2106547876742791342",
+      "role": "support",
+      "authorHandle": "hrkrshnn",
+      "url": "https://x.com/hrkrshnn/status/2106547876742791342",
+      "tweetedAt": "2026-10-04T00:52:06.000Z",
+      "bestBit": "Consider apex-flash-1 as a small training run to tune the recipe",
+      "text": "@InfectedCrypto @ustas_eth @cantinasecurity We're doing an even longer training run. Consider apex-flash-1 as a small training run to tune the recipe.\n\nOn cost, we don't host this and sell tokens, our cost is the cost of compute, which is vastly lower.\n\nhttps://t.co/L92AThwll5",
+      "quotedTweetText": "We just released apex-flash-1, an open-weights model we post-trained for cybersecurity. Fire up your GPUs and run it!\n\nWe've post-trained models from 27B parameters all the way to 1T+ parameters. The unique nature of cybersecurity is that if you can build a system that finds zero-days at scale, you've built a machine that can print money.\n\nYou can test it on public bug bounties and profit from doing that. We've earned a million dollars in bounties across various programs, and we're currently #1 on the HackerOne US business leaderboard for 2026! Companies like Apple, Anthropic, Datadog, Ripple, Coinbase have paid us well for our disclosures.\n\nLast year was all about harness engineering and riding the wave of models getting more intelligent over time. We built harnesses for offensive and defensive security work that process trillions of tokens a month. Yes, trillions!\n\nWith all that work, it's clear to us what the future of security looks like.\n\nHacking was once a bespoke skill, similar to hardcore software engineering. Software engineering is currently moving from offices to factories. Security, too, will go through the same transition.\n\nLast month, Anthropic released a report on how they caught different threat actors abusing Claude. One of them stood out to me. A team in China built an automated exploit factory. A factory that autonomously grinds through vulnerabilities in targets and exploits them. Their targets included security products, network appliances, and government organizations.\n\nWe've spent enough time building systems adjacent to that to know what it takes, and the shocking part is the economics. How little it costs to breach companies that you and I rely on.\n\nAll this to say, security is largely becoming an economics problem. Reasonably capable models and harnesses, with enough compute, can find ways to steal your data, damage your reputation, and sometimes even take your money. And the cost to achieve that is dropping every day.\n\nWhen that happens, the right question to ask is: what's the cost, and what's the lowest cost to achieve an outcome reliably? You want to find a stack with the best combination of capability and cost. This is what people call 'Pareto-optimal'.\n\nOnce you know that, it's all about scaling. Scaling to trillions of tokens a month, then a week, then a day. Eventually, trillions of tokens a second.\n\nTo do this, you need to own and control the entire stack: the models, the harnesses, the context, and even the flow of tokens. If you do the math here, the economics start looking insane.\n\nWhat does that look like?\n\n1. Building evaluations on cyber tasks that you and your customers care about.\n2. Building a data pipeline of unique real-world data with signal attached to it.\n3. Building a harness that can self-improve for each specific organization or customer.\n4. Building a post-training loop that can take those learnings and improve the models. Models that are better, faster, and cheaper.\n5. Owning your inference pipelines and controlling the flow of tokens so you're maximizing the value produced in every GPU cycle.\n\nOn evals: if you're a company building AI products for customers, you have to build your own. There's tremendous alpha in having internal evals corresponding to real work. In our case, these are evals for offensive and defensive security work.\n\nA lot of public evals are bad for measuring the work you actually care about. Public evals are typically from academics or data companies.\n\nAcademics have limited budgets and limited access to proprietary data that measures real economic work. Data companies build evals and also sell you corresponding data (RL gyms, traces, pre-training data, etc.) that helps your next model “juice up” its score.\n\nThis is the dirty secret, and also why models can do extremely well on public evals but extremely poorly on things you care about. This is also why there's tremendous alpha in private evals: you know which models are the best for your use cases.\n\nIn cyber, some of the popular public evals are ExploitGym and ExploitBench. We think these evals do not correspond to the real security work our customers need. A typical challenge in ExploitBench is to take Chrome's javascript engine V8 with a known patch and find a way to exploit the vulnerability.\n\nThat is far, far removed from the security issues in everyday applications that you and I use, and applications built by our customers.\n\nWe could've benchmaxxed on these evals, but we didn't. And you should be wary of people using these evals to advertise their models and harnesses. Measure things yourself and see how they apply to your use cases.\n\nThe future: Opus is a model that many people found to be a reliable workhorse. For me, Opus 4.1 was the first model that was functional and could get work done.\n\nThese days, the flash models from Qwen, DeepSeek, MiMo and GLM can be categorized as workhorses too. That, combined with owning the post-training loop means the economics start looking insane. You can get frontier performance in specific domains for a small fraction of the price of Opus.\n\nWith the right data pipelines and post-training loop, you now have a durable strategy to keep improving and stay state-of-the-art in your vertical.\n\nThat's the bet behind apex-flash-1, our post-train of glm-5.3-flash, and we're already preparing for longer training runs."
+    },
+    {
+      "tweetId": "2107584975201812755",
+      "role": "commentary",
+      "authorHandle": "npinto",
+      "url": "https://x.com/npinto/status/2107584975201812755",
+      "tweetedAt": "2026-10-06T21:33:09.000Z",
+      "bestBit": "got 8.6% pass vs Cantina's claimed 66.7% (ouch!) using vanilla Claude Code CLI",
+      "text": "Did a quick test and ran it on CyberGym tasks, got 8.6% pass vs Cantina's claimed 66.7% (ouch!) using vanilla Claude Code CLI.\n\nMain issues:\n(1) infinite retry loops (same failing command 15x without adapting)\n(2) tool-call confusion (shell commands to file-read tools)\n(3) text repetition (\"Let me check\" 58x in one session, circular reasoning without progress),\n(4) context decoherence (forgets its own findings mid-session). \n\nThe fine-tune didn't generalize outside their harness.",
+      "quotedTweetText": "today we're releasing apex-flash-1, our first open-weights model for security research post-trained on real vulnerabilities we found and got paid for.\n\nwe are also releasing the abliterated variant for researchers who want fewer refusals in their own authorized workflows.\n\nhow we built it: https://t.co/sSIV6qKFGt"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "cantina-security-launches-first-open-weights-security-model-apex-flash-1-f42ed1fb",
+    "title": "Cantina Security Launches First Open Weights Security Model Apex-Flash-1",
+    "publishedAt": "2026-10-02T00:53:23.525Z",
+    "eventTimeApprox": "2026-10-01T23:33:52.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "cybersecurity"
+    ],
+    "tweetCount": 20,
+    "authorCount": 5
+  }
+}

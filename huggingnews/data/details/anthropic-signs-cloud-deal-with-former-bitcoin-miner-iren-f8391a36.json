@@ -1,0 +1,57 @@
+{
+  "slug": "anthropic-signs-cloud-deal-with-former-bitcoin-miner-iren-f8391a36",
+  "title": "Anthropic Signs Cloud Deal With Former Bitcoin Miner IREN",
+  "publishedAt": "2026-10-11T23:08:01.465Z",
+  "eventTimeApprox": "2026-10-11T18:15:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "IREN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "IREN Limited Ordinary Shares",
+      "hubKey": "iren"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The AI developer has entered into a multiyear contract for cloud services with IREN, a firm that previously disclosed having an unnamed frontier AI client in August. The Information first revealed the partnership, noting the deal was previously unannounced, while highlighting IREN's transition from a Bitcoin mining company to an AI infrastructure provider.\n\nThe Information estimates that Anthropic’s 245 MW data center in Louisiana could generate $1.3B in monthly revenue at full inference utilization. With monthly chip rental costs estimated at $200M, the site would have an 85% inference gross margin before training and other operational expenses.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109336039991222552",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2109336039991222552",
+      "tweetedAt": "2026-10-11T17:31:16.000Z",
+      "bestBit": "Anthropic's 245 MW Louisiana data center could generate $1.3 BILLION in monthly revenue at full inference utilization, against just $200 million in monthly chip rental costs",
+      "text": "🚨BREAKING: The Information reveals that Anthropic has quietly signed a previously UNANNOUNCED multiyear cloud deal with IREN, the former Bitcoin mining company turned AI infrastructure provider.\n\nIREN disclosed an unnamed frontier AI customer in August. The report now identifies Anthropic as a customer.\n\nThe Information also estimates Anthropic's 245 MW Louisiana data center could generate $1.3 BILLION in monthly revenue at full inference utilization, against just $200 million in monthly chip rental costs, implying an 85% inference gross margin before training and other expenses."
+    }
+  ],
+  "isSuperseded": false
+}

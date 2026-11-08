@@ -1,0 +1,54 @@
+{
+  "slug": "alan-zabihi-releases-security-one-27b-open-weight-security-model-bed1f177",
+  "title": "Alan Zabihi Releases Security-One 27B Open Weight Security Model",
+  "publishedAt": "2026-10-05T17:53:05.655Z",
+  "eventTimeApprox": "2026-10-05T14:44:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "summary": "A new artificial intelligence model analyzes infrastructure signals and code changes to help administrators triage security events. Released as an open-weight model with 27B parameters, Security-One returns probabilities for user-defined answers after reading documents, tool calls, or code. This architecture enables security teams to automate decisions on whether to block or allow specific system actions.\n\nThe model is designed to operate 24/7, evaluating data across applications and agents. Its primary function is to serve as a routing layer that identifies suspicious activity and directs those events to human analysts or more powerful AI models for further investigation. The release was announced by developers Alan Zabihi and Pelaseyed on October 5.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107109046528446788",
+      "role": "source",
+      "authorHandle": "alanzabihi",
+      "url": "https://x.com/alanzabihi/status/2107109046528446788",
+      "tweetedAt": "2026-10-05T14:01:59.000Z",
+      "bestBit": "reads a document, tool call, or code change and returns probabilities for the answers you define",
+      "text": "Today we're releasing Security-One, our open-weight 27B model for security decisions.\n\nIt reads a document, tool call, or code change and returns probabilities for the answers you define.\n\nYour code decides what to allow, block, or send for review. https://t.co/fYsN6vn9My"
+    },
+    {
+      "tweetId": "2107109696846889147",
+      "role": "source",
+      "authorHandle": "pelaseyed",
+      "url": "https://x.com/pelaseyed/status/2107109696846889147",
+      "tweetedAt": "2026-10-05T14:04:34.000Z",
+      "bestBit": "Assess signals across apps, agents and infra",
+      "text": "I'm super excited to introduce security-one: our open-weight model for security decisions.\n\nDesigned to:\n\n✅ Run 24/7\n✅ Assess signals across apps, agents and infra\n✅ Return structured probabilities to guide routing\n✅ Route suspicious events to stronger models/humans\n\nhttps://t.co/yVL3fCT3Ck"
+    }
+  ],
+  "isSuperseded": false
+}

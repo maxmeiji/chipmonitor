@@ -1,0 +1,63 @@
+{
+  "slug": "cognition-considers-new-funding-round-at-70b-to-80b-valuation-a9d6d7bc",
+  "title": "Cognition Considers New Funding Round at $70B to $80B Valuation",
+  "publishedAt": "2026-10-28T17:08:13.931Z",
+  "eventTimeApprox": "2026-10-28T16:41:56.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:COGN",
+      "kind": "private",
+      "role": "subject",
+      "name": "Cognition",
+      "hubKey": "cognition"
+    }
+  ],
+  "summary": "The developer of AI coding assistants is in early discussions to secure additional investment before the end of the year. The startup has received inbound investor offers that would place its current worth between $70B and $80B, although Cognition notes that terms could still change as talks progress.\n\nThe potential raise follows a September funding round in which Cognition raised more than $2B at a $48B valuation. A deal at the current proposed range would represent a revenue multiple of 78x to 89x, up from 53x in the previous round, and would exceed the $60B SpaceX paid in stock for the maker of Cursor, Anysphere.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115473295441273125",
+      "role": "source",
+      "authorHandle": "katie_roof",
+      "url": "https://x.com/Katie_Roof/status/2115473295441273125",
+      "tweetedAt": "2026-10-28T15:58:31.000Z",
+      "bestBit": "Cognition is seriously considering a round between $70-$80B valuation",
+      "text": "Scoop: Cognition is seriously considering a round between $70-$80B valuation. They have inbound interest there https://t.co/URU8yvk0Yt"
+    },
+    {
+      "tweetId": "2115487458502881417",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2115487458502881417",
+      "tweetedAt": "2026-10-28T16:54:48.000Z",
+      "bestBit": "those offers came weeks after Cognition raised more than $2B at a $48B valuation in September",
+      "text": "Cognition has received investor offers valuing it at $70B to $80B and is seriously considering a round before year-end, though talks are early and terms could change.\n\nThose offers came weeks after Cognition raised more than $2B at a $48B valuation in September.\n\nAt $70B to $80B, investors would pay about 78x to 89x that revenue figure, up from 53x at $48B.\n\nThe range would also top the $60B SpaceX paid in stock for Cursor maker Anysphere, which passed $2B in annualized revenue by February.\n\nThat deal took Cursor out of reach for venture investors, leaving Cognition among the few large independent coding-agent startups they can still buy into."
+    }
+  ],
+  "isSuperseded": false
+}

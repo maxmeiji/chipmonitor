@@ -1,0 +1,135 @@
+{
+  "slug": "smbc-and-mufg-pull-back-from-dominant-role-in-ai-data-center-loans-ba299e47",
+  "title": "SMBC and MUFG Pull Back From Dominant Role in AI Data Center Loans",
+  "publishedAt": "2026-10-08T11:23:03.546Z",
+  "eventTimeApprox": "2026-10-03T16:45:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai",
+    "us-markets",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MUFG",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "hubKey": "mufg"
+    },
+    {
+      "ticker": "SMFG",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Sumitomo Mitsui Financial Group, Inc American Depositary Shares (each representing 3/5th of a share of common stock)",
+      "hubKey": "smfg"
+    },
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "related",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    }
+  ],
+  "summary": "The primary banks funding the artificial intelligence sector are curbing their credit appetite and demanding stricter covenants as the market for data center debt tightens. Mitsubishi UFJ Financial Group (MUFG) and Sumitomo Mitsui Banking Corp (SMBC) have begun pulling back from the megaprojects they previously anchored, such as those for CoreWeave and the Stargate project. In 2025, MUFG participated in 15 of the 25 largest data center deals and SMBC was in seven, but new developments now face higher borrowing costs and more selective lenders who require greater compensation for construction risks.\n\nBank of America warned that the period of \"easy money\" from betting on AI capital expenditure is ending as investors increasingly avoid speculative projects. This shift follows the issuance of approximately $55 billion in high yield bonds this year, which has spread debt into broad bond funds tied to Google, Meta, and Nvidia. US lawmakers are monitoring the buildout for systemic risks to the financial system, while some observers highlight as much as $180 billion in backed debt for infrastructure linked to Nvidia and Broadcom.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105726974937141507",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2105726974937141507",
+      "tweetedAt": "2026-10-01T18:30:07.000Z",
+      "bestBit": "Financing the AI data center boom is getting more expensive as bond investors demand bigger concessions",
+      "text": "Exclusive: Financing the AI data center boom is getting more expensive as bond investors demand bigger concessions and some major banks become more selective. \n\nThe shift could make it harder for developers to fund planned projects.\n\nFull story: https://t.co/9mhF7mc3MM"
+    },
+    {
+      "tweetId": "2105453118167400583",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2105453118167400583",
+      "tweetedAt": "2026-10-01T00:21:55.000Z",
+      "bestBit": "SMBC and MUFJ, who have been in effectively every large deal - Stargate, CoreWeave, etc - are now \"stepping back.\"",
+      "text": "Per The Information, data center lenders are becoming more selective, but the most significant part of the story is that SMBC and MUFJ, who have been in effectively every large deal - Stargate, CoreWeave, etc -  are now \"stepping back.\" This is huge.\n\nhttps://t.co/reVV5j1oyp https://t.co/2XpUkHcrqq"
+    },
+    {
+      "tweetId": "2105454953888387486",
+      "role": "analysis",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2105454953888387486",
+      "tweetedAt": "2026-10-01T00:29:13.000Z",
+      "bestBit": "Out of 25 big data center deals done in 2025, MUFG/MUFJ was in 15 of them and SMBC was in 7",
+      "text": "Out of 25 big data center deals done in 2025, MUFG/MUFJ was in 15 of them and SMBC was in 7, with both in multiple Stargates, and one or both in multiple CoreWeave deals and Vantage deals, along with both in SoftBank's $15bn bridge loan. Next domino to fall is BNP Paribas"
+    },
+    {
+      "tweetId": "2107516240382026151",
+      "role": "source",
+      "authorHandle": "scottmelker",
+      "url": "https://x.com/scottmelker/status/2107516240382026151",
+      "tweetedAt": "2026-10-06T17:00:02.000Z",
+      "bestBit": "BANK OF AMERICA SAYS THE \"EASY MONEY\" FROM BETTING ON AI CAPEX OVER CONSUMER SPENDING IS GETTING HARDER TO MAKE",
+      "text": "JUST IN: BANK OF AMERICA SAYS THE \"EASY MONEY\" FROM BETTING ON AI CAPEX OVER CONSUMER SPENDING IS GETTING HARDER TO MAKE"
+    },
+    {
+      "tweetId": "2108150423643205994",
+      "role": "support",
+      "authorHandle": "punchbowlnews",
+      "url": "https://x.com/PunchbowlNews/status/2108150423643205994",
+      "tweetedAt": "2026-10-08T11:00:03.000Z",
+      "bestBit": "Lawmakers see risk building up in the financial system tied to the AI buildout",
+      "text": "Lawmakers see risk building up in the financial system tied to the AI buildout. \n\nBut members and senators aren’t about to open up the federal checkbook if things start to go bad.\n\nThe details from @BrendanPedersen and @Dareasmunhoz: https://t.co/nFWvjVitKJ https://t.co/ljKXVOagox"
+    },
+    {
+      "tweetId": "2106896538169708767",
+      "role": "commentary",
+      "authorHandle": "brendanpedersen",
+      "url": "https://x.com/BrendanPedersen/status/2106896538169708767",
+      "tweetedAt": "2026-10-04T23:57:33.000Z",
+      "bestBit": "the potential for AI investment to pose systemic risks to the wider financial system",
+      "text": "The Revolution Will Be Securitized",
+      "quotedTweetText": "The artificial intelligence revolution will require a lot of dollars to pull off. That’s starting to spark worry on Capitol Hill, where members of both parties say they're monitoring the potential for AI investment to pose systemic risks to the wider financial system.\n\nMore from @BrendanPedersen:  https://t.co/lqjxJs5bSW"
+    },
+    {
+      "tweetId": "2106848323214959070",
+      "role": "commentary",
+      "authorHandle": "rdd147",
+      "url": "https://x.com/rdd147/status/2106848323214959070",
+      "tweetedAt": "2026-10-04T20:45:58.000Z",
+      "bestBit": "$NVDA and $AVGO are at $180 billion of backed debt on infrastructure that underwent 1000% inflation in 3 years",
+      "text": "“Cisco faces existential risk of bankruptcy after $2.2 billion of debt it backed in communications buildout defaults”\n\n$NVDA and $AVGO are at $180 billion of backed debt on infrastructure that underwent 1000% inflation in 3 years. The internet bubble lacked that. $NVDA had $4.4 billion in net income 4 years ago.\n\nTrillions in bonds will be wiped out.",
+      "quotedTweetText": "Nvidia has proven the bears wrong over and over and over again. \n\nHow many hit pieces has The Information published in the last three years? \n\nThe stock just hit a new all-time high. https://t.co/dY5QCUxTMY"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-ai-data-center-debt-faces-systemic-risk-scrutiny-from-us-lawmaker-3ab52156",
+    "title": "UPDATE: AI Data Center Debt Faces Systemic Risk Scrutiny From US Lawmakers",
+    "publishedAt": "2026-10-05T00:28:52.063Z",
+    "eventTimeApprox": "2026-10-01T00:21:55.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-markets",
+      "us-politics",
+      "business"
+    ],
+    "tweetCount": 21,
+    "authorCount": 11
+  }
+}

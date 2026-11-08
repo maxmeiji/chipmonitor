@@ -1,0 +1,106 @@
+{
+  "slug": "update-sglang-launches-new-plugin-system-for-nvidia-and-amd-ai-kernels-f9948f1c",
+  "title": "UPDATE: SGLang Launches New Plugin System for NVIDIA and AMD AI Kernels",
+  "publishedAt": "2026-10-20T17:40:15.570Z",
+  "eventTimeApprox": "2026-10-20T03:45:08.500Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "AMD",
+      "kind": "equity",
+      "role": "related",
+      "name": "Advanced Micro Devices",
+      "hubKey": "amd"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112342810376712527/HVCL9CDbwAATqEr-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112342810376712527/HVCL9CDbwAATqEr-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "lmsysorg",
+      "tweetUrl": "https://x.com/lmsysorg/status/2112342810376712527"
+    }
+  },
+  "summary": "Two specialized extensions called sgl-nvidia-mega and sgl-amd-mono now allow hardware vendors to deliver low-latency kernels to SGLang as external libraries. This plugin architecture integrates specialized code from NVIDIA and AMD into the framework, automatically falling back to general processing paths when a specific step is not covered. Currently, the NVIDIA plugin is limited to DeepSeek-V4.1-Flash running on 4x GB300 GPUs, and users must employ a specific flag to prevent the server from starting on unsupported hardware.\n\nThe system is already enabling third-party optimizations, such as a new kernel from Zyphra that splits DeepSeek-V4's selection step across 32 of the GPU's 256 compute units. This modification raised single-user decode speeds at 1M context from 43.5 to 61.1 tok/s. SGLang is developing additional low-latency kernels for GLM-5.3, K3, and MiniMax M3 models for both NVIDIA and AMD hardware to extend the capabilities of the new plugin system.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112342810376712527",
+      "role": "source",
+      "authorHandle": "lmsysorg",
+      "url": "https://x.com/lmsysorg/status/2112342810376712527",
+      "tweetedAt": "2026-10-20T00:39:06.000Z",
+      "bestBit": "delivers up to 1.38× P90 per-user token speed on NVIDIA GB300 (671 to 928 tok/s) and 1.56× on AMD MI355X (332 to 516 tok/s)",
+      "text": "Introducing SGLang Low-Latency Mode, built with @NVIDIAAI and @AMD.\n\nOn DeepSeek-V4.1-Flash with DSpark, it delivers up to 1.38× P90 per-user token speed on NVIDIA GB300 (671 to 928 tok/s) and 1.56× on AMD MI355X (332 to 516 tok/s) in @SemiAnalysis_'s AgentX trace replay.\n\nHighlights:\n- NVIDIA: overlapping kernels cut decoder layer time from 96.8 to 68.4 µs\n- AMD: 2 persistent kernels per layer replace dozens of small ones, with cross-GPU communication overlapped inside them.\n- New plugin system: custom kernels plug in from external libraries, with automatic fallback.\n- Low-latency kernels for GLM-5.3, K3, and MiniMax M3 are in progress and will plug in next."
+    },
+    {
+      "tweetId": "2112421963784507755",
+      "role": "support",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2112421963784507755",
+      "tweetedAt": "2026-10-20T05:53:37.000Z",
+      "bestBit": "The @NVIDIAAI team ships theirs in sgl-nvidia-mega. The @AMD team ships theirs in sgl-amd-mono.",
+      "text": "Specialized low-latency kernels now plug into SGLang. The @NVIDIAAI team ships theirs in sgl-nvidia-mega. The @AMD team ships theirs in sgl-amd-mono. SGLang handles the integration and falls back to its general path for uncovered steps.\n\nLow-latency kernels for GLM-5.3, K3 and MiniMax M3 are in progress on both NVIDIA and AMD, along with stronger CI at the plugin interface. Check out the blog for details 👇",
+      "quotedTweetText": "Introducing SGLang Low-Latency Mode, built with @NVIDIAAI and @AMD.\n\nOn DeepSeek-V4.1-Flash with DSpark, it delivers up to 1.38× P90 per-user token speed on NVIDIA GB300 (671 to 928 tok/s) and 1.56× on AMD MI355X (332 to 516 tok/s) in @SemiAnalysis_'s AgentX trace replay.\n\nHighlights:\n- NVIDIA: overlapping kernels cut decoder layer time from 96.8 to 68.4 µs\n- AMD: 2 persistent kernels per layer replace dozens of small ones, with cross-GPU communication overlapped inside them.\n- New plugin system: custom kernels plug in from external libraries, with automatic fallback.\n- Low-latency kernels for GLM-5.3, K3, and MiniMax M3 are in progress and will plug in next."
+    },
+    {
+      "tweetId": "2112423633985679407",
+      "role": "support",
+      "authorHandle": "lmsysorg",
+      "url": "https://x.com/lmsysorg/status/2112423633985679407",
+      "tweetedAt": "2026-10-20T06:00:15.000Z",
+      "bestBit": "sgl-nvidia-mega covers DeepSeek-V4.1-Flash on 4× GB300 (SM103) only",
+      "text": "@sunsetsyntax @NVIDIAAI @AMD @SemiAnalysis_ Right now sgl-nvidia-mega covers DeepSeek-V4.1-Flash on 4× GB300 (SM103) only. With --enable-nvidia-megakernel, an unsupported setup stops the server at startup before weights load, listing every reason; without the flag SGLang runs untouched. So it won’t quietly take the standard path on H200/B200. Coverage table is in the repo's README."
+    },
+    {
+      "tweetId": "2112596062783631854",
+      "role": "analysis",
+      "authorHandle": "zyphraai",
+      "url": "https://x.com/ZyphraAI/status/2112596062783631854",
+      "tweetedAt": "2026-10-20T17:25:26.000Z",
+      "bestBit": "at 1M context single-user decode rises from 43.5 to 61.1 tokens/s",
+      "text": "DeepSeek-V4 has the same kind of selection step. It picks the top 512 compressed entries for each new token. SGLang runs this on 1 of the GPU's 256 compute units, and our kernel splits it across up to 32.\n\nAt 1M context single-user decode rises from 43.5 to 61.1 tokens/s. https://t.co/i6xChepg6X"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "sglang-hits-928-toks-on-nvidia-gb300-with-low-latency-mode-a591ce78",
+    "title": "SGLang Hits 928 tok/s on NVIDIA GB300 With Low Latency Mode",
+    "publishedAt": "2026-10-20T01:53:11.867Z",
+    "eventTimeApprox": "2026-10-20T00:47:59.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 7,
+    "authorCount": 4
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "openai-plans-to-purchase-ai-chips-from-google-to-cut-reliance-on-nvidia-804ac15e",
+  "title": "OpenAI Plans to Purchase AI Chips From Google to Cut Reliance on Nvidia",
+  "publishedAt": "2026-10-28T00:08:19.387Z",
+  "eventTimeApprox": "2026-10-28T00:01:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 50,
+  "authorCount": 36,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The AI firm is moving to acquire specialized processing hardware from Google to mitigate its current reliance on a single chip vendor for the training and operation of its models. The proposed purchase, first reported by The Information, would mark a strategic shift in how the startup sources the high-end semiconductors necessary for its generative AI tools.\n\nThe company has not yet disclosed the financial terms or the specific volume of the hardware it intends to buy. The move is aimed at diversifying OpenAI's supply chain to reduce its dependency on Nvidia, which has served as the primary supplier of AI chips to the industry.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115232746100638176",
+      "role": "source",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2115232746100638176",
+      "tweetedAt": "2026-10-28T00:02:40.000Z",
+      "bestBit": "OPENAI PLANS TO BUY GOOGLE’S AI CHIPS, THOUGH THE FINANCIAL TERMS AND OTHER DETAILS OF THE PLANNED PURCHASE COULDN’T BE LEARNED - THE INFORMATION",
+      "text": "OPENAI PLANS TO BUY GOOGLE’S AI CHIPS, THOUGH THE FINANCIAL TERMS AND OTHER DETAILS OF THE PLANNED PURCHASE COULDN’T BE LEARNED - THE INFORMATION"
+    }
+  ],
+  "isSuperseded": false
+}

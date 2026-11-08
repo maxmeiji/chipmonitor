@@ -1,0 +1,142 @@
+{
+  "slug": "update-us-expands-deepseek-ai-ban-to-cover-all-third-party-software-buil-b48b02e8",
+  "title": "UPDATE: US Expands DeepSeek AI Ban to Cover All Third-Party Software Built Using Chinese Models",
+  "publishedAt": "2026-10-28T18:23:05.780Z",
+  "eventTimeApprox": "2026-10-20T05:51:06.500Z",
+  "isFreshStory": false,
+  "tweetCount": 76,
+  "authorCount": 49,
+  "routingTopicKeys": [
+    "ai",
+    "geopolitics",
+    "cybersecurity",
+    "us-politics",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112250754358788437/HVA43dvaEAAhlYN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112250754358788437/HVA43dvaEAAhlYN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2112250754358788437"
+    }
+  },
+  "summary": "Federal software vendors must now identify and remove any open-weight models from Hangzhou DeepSeek Artificial Intelligence integrated into their products, as a U.S. government mandate expands to target the entire supply chain of the Chinese AI firm. The Department of Homeland Security order requires civilian agencies to purge not only direct DeepSeek products but also any third-party services developed using its implementations. The ban applies even if the models are hosted on U.S. servers, meaning contractors must audit their current software deliveries to ensure no DeepSeek-derived weights remain in agency information technology.\n\nThe order, issued under the Federal Acquisition Supply Chain Security Act of 2018, cites risks that the tools could transfer sensitive data to China or contain malware. While the directive was signed in June and took effect in July, the specific requirements for third-party contractors only became public last week. Agencies can seek exemptions for mission-critical functions by filing a request 60 days in advance. China's Commerce Ministry has condemned the ban as discriminatory and claimed it violates an agreement between the heads of state of the U.S. and China.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112239605198000220",
+      "role": "commentary",
+      "authorHandle": "zackkorman",
+      "url": "https://x.com/ZackKorman/status/2112239605198000220",
+      "tweetedAt": "2026-10-19T17:49:00.000Z",
+      "bestBit": "The proof? The DeepSeek iOS app has vulnerabilities.",
+      "text": "The order banning DeepSeek in the US government is absurd. Why ban US-hosted DeepSeek? \"The models themselves may contain malware\".\n\nThe proof? The DeepSeek iOS app has vulnerabilities. https://t.co/oKBYAJv1Av"
+    },
+    {
+      "tweetId": "2112544814189216011",
+      "role": "source",
+      "authorHandle": "vector__news",
+      "url": "https://x.com/vector__news/status/2112544814189216011",
+      "tweetedAt": "2026-10-20T14:01:47.000Z",
+      "bestBit": "The order took effect in July; its scope over contractors only became public this week.",
+      "text": "Homeland Security has ordered civilian agencies to purge DeepSeek, including products built on its models by federal contractors.\n\nThe order took effect in July; its scope over contractors only became public this week.\n\nhttps://t.co/i2zxqveTBy"
+    },
+    {
+      "tweetId": "2112538814472204351",
+      "role": "source",
+      "authorHandle": "marketnews_feed",
+      "url": "https://x.com/MarketNews_Feed/status/2112538814472204351",
+      "tweetedAt": "2026-10-20T13:37:57.000Z",
+      "bestBit": "US move is discriminatory; politicises tech and trade issues under guise of national security",
+      "text": "CHINA MOFCOM: FIRMLY OPPOSES US ORDER ON DEEPSEEK\n- US MOVE IS DISCRIMINATORY; POLITICISES TECH AND TRADE ISSUES UNDER GUISE OF NATIONAL SECURITY\n- US ACTION DISREGARDS CONSENSUS REACHED BETWEEN CHINESE AND US HEADS OF STATE\n- URGES US TO IMMEDIATELY CORRECT WRONG PRACTICES, REVOKE DISCRIMINATORY RESTRICTIONS ON CHINESE FIRMS ..."
+    },
+    {
+      "tweetId": "2112258732390261204",
+      "role": "commentary",
+      "authorHandle": "poezhao0605",
+      "url": "https://x.com/poezhao0605/status/2112258732390261204",
+      "tweetedAt": "2026-10-19T19:05:00.000Z",
+      "bestBit": "The order's risk summary says \"DeepSeek servers are located in the PRC\" and that using its applications \"may result in the transfer of sensitive data to the PRC.\"",
+      "text": "A Homeland Security order tells federal civilian agencies to remove DeepSeek products from their IT. It also covers \"third-party products and services developed using DeepSeek implementations.\"\n\nThe order's risk summary says \"DeepSeek servers are located in the PRC\" and that using its applications \"may result in the transfer of sensitive data to the PRC.\" It says the models \"may contain malware or other security vulnerabilities.\" The next sentence cites research on DeepSeek's iOS app.\n\nI read most of that evidence as being about data flow and one app: the removal line reaches further, to products other companies build on DeepSeek.\n\nIf you sell AI tools to a federal civilian agency, do you know whether any DeepSeek model sits inside them?"
+    },
+    {
+      "tweetId": "2112265351492972953",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112265351492972953",
+      "tweetedAt": "2026-10-19T19:31:18.000Z",
+      "bestBit": "Exceptions require a request filed 60 days in advance with a compelling justification, such as an inability to fulfil a mission-critical function",
+      "text": "Homeland Security has ordered US civilian agencies to rip out DeepSeek and every product built on it.\n\nUS hosting doesn’t get you out. The order removes all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations, from civilian agency information technology, under the Federal Acquisition Supply Chain Security Act of 2018. \n\nDHS says DeepSeek’s hosted models store data on servers in China, where national security laws give Beijing wide latitude to obtain data from domestic companies. \n\nBecause every prompt and response passes through that service, DHS warned the transferred data, alone or combined with public information, could produce actionable intelligence on US persons and government programs. \n\nThat logic fits the hosted chatbot, but for weights running on US servers the ban leans on DHS’s warning that the models may contain malware or other vulnerabilities.\n\nThe signed order predates Monday’s public notice by months, and a July memo had already told agencies to monitor traffic in and out of government websites for DeepSeek-related risks. \n\nExceptions require a request filed 60 days in advance with a compelling justification, such as an inability to fulfil a mission-critical function, while national security systems and secure compartmented information systems sit outside the order. \n\nThe heavier work now falls on federal software vendors, who will need to show which open-weight models sit inside the products agencies already run.\n\nDeepSeek is the only Chinese model named, though Moonshot AI’s Kimi and Alibaba’s Qwen face similar distillation accusations, so the next test is whether the same order reaches them."
+    },
+    {
+      "tweetId": "2112378502205055259",
+      "role": "analysis",
+      "authorHandle": "hrkrshnn",
+      "url": "https://x.com/hrkrshnn/status/2112378502205055259",
+      "tweetedAt": "2026-10-20T03:00:55.000Z",
+      "bestBit": "DeepSeek founder Liang Wenfeng is the wealthiest frontier lab founder, if you don’t count @elonmusk.",
+      "text": "DeepSeek is the biggest threat to US frontier labs. The DHS order should come as no surprise.\n\nPeople think DeepSeek just makes cheap models distilled from Claude and GPT. They’re missing the fact that DeepSeek is playing an entirely different game.\n\nDeepSeek founder Liang Wenfeng is the wealthiest frontier lab founder, if you don’t count @elonmusk. He’s wealthier than Dario and Sam, has majority control of the company, and can play a much longer game than the other labs.\n\nLook at the choices DeepSeek keeps making:\n\n1. It releases model weights under the MIT license. Other labs like Kimi and GLM release weights too but with commercial conditions. DeepSeek is willing to let anyone run its models and compete with their own API.\n\n2. It publishes unusually detailed research. Its original DeepSeek-R1 research helped every AI lab, including the western ones.\n\n3. They're ruthlessly focused on low cost inference. They’re clearly compute constrained and their architecture choices optimize for cost.\n\nThink about it: a founder who can afford to wait decades, who already built a true challenger, and who’s willing to put the models and research out in the open. Their biggest constraint has been chips. Huawei’s 950DT is coming. What happens when DeepSeek gets the chips?",
+      "quotedTweetText": "The Department of Homeland Security is requiring all civilian federal agencies to remove DeepSeek products and 'any third-party services developed using DeepSeek implementations,' and to stop buying them. https://t.co/b2J9QeuZ6b"
+    },
+    {
+      "tweetId": "2112266995202757116",
+      "role": "commentary",
+      "authorHandle": "hamandcheese",
+      "url": "https://x.com/hamandcheese/status/2112266995202757116",
+      "tweetedAt": "2026-10-19T19:37:50.000Z",
+      "bestBit": "DHS is requiring all civilian federal agencies to remove DeepSeek products and 'any third-party services developed using DeepSeek implementations,' and to stop buying them.",
+      "text": "Good. Better to do this now before DeepSeek-derived sleeper agents are embedded across critical infrastructure and start running rampant following a pre-programmed date change or something.",
+      "quotedTweetText": "The Department of Homeland Security is requiring all civilian federal agencies to remove DeepSeek products and 'any third-party services developed using DeepSeek implementations,' and to stop buying them. https://t.co/b2J9QeuZ6b"
+    },
+    {
+      "tweetId": "2112415226234642517",
+      "role": "commentary",
+      "authorHandle": "xlr8harder",
+      "url": "https://x.com/xlr8harder/status/2112415226234642517",
+      "tweetedAt": "2026-10-20T05:26:51.000Z",
+      "bestBit": "does that include data synthesis, do you suppose? did they just ban Mistral, too?",
+      "text": "\"remove all .. third-party products and services developed using DeepSeek implementations\"\n\ngood luck\n\ndoes that include data synthesis, do you suppose?\n\ndid they just ban Mistral, too? \n\ncc @sam_paech https://t.co/2ZQzgZBB8P",
+      "quotedTweetText": "The Department of Homeland Security is requiring all civilian federal agencies to remove DeepSeek products and 'any third-party services developed using DeepSeek implementations,' and to stop buying them. https://t.co/b2J9QeuZ6b"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-china-denounces-us-ban-on-deepseek-as-violation-of-state-agreemen-b7673ee9",
+    "title": "UPDATE: China Denounces US Ban on DeepSeek as Violation of State Agreement",
+    "publishedAt": "2026-10-20T22:24:21.830Z",
+    "eventTimeApprox": "2026-10-19T22:26:52.000Z",
+    "routingTopicKeys": [
+      "geopolitics",
+      "ai",
+      "cybersecurity",
+      "us-politics"
+    ],
+    "tweetCount": 75,
+    "authorCount": 48
+  }
+}

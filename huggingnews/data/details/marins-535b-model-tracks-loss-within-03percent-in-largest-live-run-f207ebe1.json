@@ -1,0 +1,49 @@
+{
+  "slug": "marins-535b-model-tracks-loss-within-03percent-in-largest-live-run-f207ebe1",
+  "title": "Marin’s 535B Model Tracks loss within 0.3% in Largest Live Run",
+  "publishedAt": "2026-10-02T04:24:46.667Z",
+  "eventTimeApprox": "2026-10-02T01:55:07.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105794059424215317/HTlEUueaUAAg27V-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105794059424215317/HTlEUueaUAAg27V-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "classiclarryd",
+      "tweetUrl": "https://x.com/classiclarryd/status/2105794059424215317"
+    }
+  },
+  "summary": "A new high-parameter neural network is currently executing a public training trajectory to test the predictability of AI scaling laws. Marin has spent 43 days training the model on 18T tokens, employing a publicly pre-registered scaling ladder to forecast the evaluation loss throughout the process.\n\nThe Mixture of Experts model has 535B parameters and is tracking within 0.3% of its loss forecast despite a 300x extrapolation, with the run now halfway complete. The project's scale increased from an original plan of 360B parameters after developer ravwojdyla used custom kernels to improve hardware efficiency and token throughput.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105794059424215317",
+      "role": "source",
+      "authorHandle": "classiclarryd",
+      "url": "https://x.com/classiclarryd/status/2105794059424215317",
+      "tweetedAt": "2026-10-01T22:56:42.000Z",
+      "bestBit": "Marin kicked off the largest live-streamed pretraining run in history: a 535B MoE trained on 18T tokens",
+      "text": "43 days ago Marin kicked off the largest live-streamed pretraining run in history: a 535B MoE trained on 18T tokens. A scaling ladder was used to forecast eval loss along the entire trajectory, and the forecast was publicly pre-registered. Its halfway along, and despite being a 300x extrapolation, the run is within 0.3% of the forecast.\n\nThe run was originally planned to be 360B parameters. Until @ravwojdyla found a hardware implementation with custom kernels to grow to 535B parameters while also speeding up tokens per second. Learn about how he did it on the Open Athena blog: https://t.co/aOtxDCr1El."
+    }
+  ],
+  "isSuperseded": false
+}

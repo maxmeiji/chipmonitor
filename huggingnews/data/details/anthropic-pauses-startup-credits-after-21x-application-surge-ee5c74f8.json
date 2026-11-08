@@ -1,0 +1,86 @@
+{
+  "slug": "anthropic-pauses-startup-credits-after-21x-application-surge-ee5c74f8",
+  "title": "Anthropic Pauses Startup Credits After 21x Application Surge",
+  "publishedAt": "2026-10-09T03:54:58.620Z",
+  "eventTimeApprox": "2026-10-06T18:54:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 31,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "ai",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "A failure in eligibility screening has forced the developer of the Claude AI to reconsider which entities qualify for its founder assistance program. Anthropic is pausing the issuance of Claude Team plans and API credits after receiving 21 times more applications in the first 48 hours of its expanded program than in the previous five months combined. Sarah Zorah, who leads the initiative, stated the company did not properly tune acceptance criteria, allowing many non-startups to be accepted. The company is now re-verifying applications via email, though those who have already claimed benefits will keep them.\n\nThe Claude Startups program expansion, announced Oct. 6, was designed to attract fast-growing companies with a free year of Claude Team, $1,000 in API credits, and access to the 'Claude Startup Stack.' This stack provides up to $45,000 in discounts and credits from partner tools including Linear, ElevenLabs and ClickHouse, while some users reported the total value of all perks reaching as much as $52,000. While internal AI credits are currently suspended, access to the Startup Stack and Applied AI office hours remains active for members.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108401845563806150",
+      "role": "source",
+      "authorHandle": "sarahzorah",
+      "url": "https://x.com/sarahzorah/status/2108401845563806150",
+      "tweetedAt": "2026-10-09T03:39:06.000Z",
+      "bestBit": "received 21x the number of applications compared to the last 5 months it’s been live",
+      "text": "We didn’t anticipate the demand for the Claude Startups program. In the first 48 hours of the program, we received 21x the number of applications compared to the last 5 months it’s been live.\n\nWe let way too many people in this time, so we’ll need to pause on giving out the Team plan and API credits benefits. The other benefits (Startup Stack, Applied AI office hours/events) will remain. If you’ve already claimed the Claude offers, they’ll still remain in your account.\n\nWe didn’t properly tune the acceptance criteria at the start, and many non-startups were accepted this time around. We’re fixing this now. We’re sending an email now to everybody who hasn’t claimed their benefits yet, and will re-verify those applications so we can keep Claude Startups for startups 🙏"
+    },
+    {
+      "tweetId": "2107513494493179954",
+      "role": "support",
+      "authorHandle": "claudeai",
+      "url": "https://x.com/claudeai/status/2107513494493179954",
+      "tweetedAt": "2026-10-06T16:49:07.000Z",
+      "bestBit": "get a year of Claude Team, API credits, special offers on the tools a startup runs on, and office hours",
+      "text": "The Claude Startups program is expanding to more founders.\n\nMembers can get a year of Claude Team, API credits, special offers on the tools a startup runs on, and office hours with Anthropic’s Applied AI team. https://t.co/3MUg1whIfl"
+    },
+    {
+      "tweetId": "2107525645374787750",
+      "role": "support",
+      "authorHandle": "juampitech",
+      "url": "https://x.com/juampitech/status/2107525645374787750",
+      "tweetedAt": "2026-10-06T17:37:24.000Z",
+      "bestBit": "Up to $52K in perks for founders building on @claudeai",
+      "text": "Claude Startup program is HUGE\n\nUp to $52K in perks for founders building on @claudeai\n\n> A year of Claude Team + $1K in API credits (@AnthropicAI)\n> $5K in Cloud credits (@ClickHouseDB)\n> 3 months of Pro + up to $3K in AI credits (@trymoda)\n> Up to $1.5K for 3 months (@viktor_com)\n> $300 in credits + 50% off the Max plan (@runable_hq)\n> $100 in Cosmos credits (@augmentcode)\n> 2.5x your plan's monthly credits for a year (@firecrawl)\n> 12 months + 33M characters (@elevenlabsio)\n> 6 months on the Enterprise plan (@hex_tech)\n> 6 months of Linear Business (@linear)\n> 4 months off an annual Business plan (@lovable_dev)\n> 3 months of Business, and 10 seats (@meetgranola)\n> 25% off your first year of Gamma Pro (@MeetGamma)\n> 20% off your first year + 7-day free trial (Attention)\n> 20% off your first year (@retool)\n> 20% off your first 6 months (@emergentlabs)\n> 20% off your first 6 months (@retellai)\n\nWho qualifies? startups founded in the last 5 years OR funded in the last 2",
+      "quotedTweetText": "The Claude Startups program is expanding to more founders.\n\nMembers can get a year of Claude Team, API credits, special offers on the tools a startup runs on, and office hours with Anthropic’s Applied AI team. https://t.co/3MUg1whIfl"
+    },
+    {
+      "tweetId": "2107685962868543982",
+      "role": "support",
+      "authorHandle": "sarahzorah",
+      "url": "https://x.com/sarahzorah/status/2107685962868543982",
+      "tweetedAt": "2026-10-07T04:14:27.000Z",
+      "bestBit": "Log in to the Console to redeem your credits and Startup Stack offers",
+      "text": "@YashasGunderia @claudeai Heads up for existing Claude Startups members: some of you couldn't see the new member portal in the Claude Console this morning. That's now fixed. Log in to the Console to redeem your credits and Startup Stack offers. Thanks for your patience!"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropic-caps-startup-ai-credits-at-7000-to-attract-founders-059e6241",
+    "title": "Anthropic Caps Startup AI Credits at $7,000 to Attract Founders",
+    "publishedAt": "2026-10-06T17:39:26.821Z",
+    "eventTimeApprox": "2026-10-06T16:49:08.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "startups"
+    ],
+    "tweetCount": 27,
+    "authorCount": 14
+  }
+}

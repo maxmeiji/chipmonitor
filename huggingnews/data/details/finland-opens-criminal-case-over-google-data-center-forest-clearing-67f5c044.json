@@ -1,0 +1,136 @@
+{
+  "slug": "finland-opens-criminal-case-over-google-data-center-forest-clearing-67f5c044",
+  "title": "Finland Opens Criminal Case Over Google Data Center Forest Clearing",
+  "publishedAt": "2026-10-29T14:07:25.951Z",
+  "eventTimeApprox": "2026-10-24T03:38:38.500Z",
+  "isFreshStory": false,
+  "tweetCount": 28,
+  "authorCount": 21,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "world"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "environment",
+      "name": "Environment"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "law",
+      "name": "Law"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113332810631049578/HVQC7OCXcAAYzOF-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113332810631049578/HVQC7OCXcAAYzOF-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "hedgiemarkets",
+      "tweetUrl": "https://x.com/HedgieMarkets/status/2113332810631049578"
+    }
+  },
+  "summary": "Finnish authorities have opened a criminal investigation into the suspected environmental damage caused by Google at two AI infrastructure sites in the northern part of the country. The probe targets the illegal felling of an estimated 400,000 trees and the alteration of waterways and topsoil without mandatory environmental impact assessments. The Finnish Licensing and Supervision Authority previously ordered a halt to construction at sites near Muhos and Otanmäki after finding the company had started work before receiving required permits.\n\nThe projects are part of a €13 billion AI investment, the largest of its kind in Finland. Google has apologized, stating it believed it was complying with the law, and has pledged to replant 130 hectares of forest. The incident has sparked national outrage, with a petition for stricter land use regulations and community fees attracting more than 93,000 signatures.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115802148436955391",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2115802148436955391",
+      "tweetedAt": "2026-10-29T13:45:16.000Z",
+      "bestBit": "Finland launches criminal probe of suspected environmental damage at Google data centre site",
+      "text": "Finland launches criminal probe of suspected environmental damage at Google data centre site https://t.co/buDHjEJjB0"
+    },
+    {
+      "tweetId": "2113834176491446754",
+      "role": "support",
+      "authorHandle": "trackbigtech",
+      "url": "https://x.com/TrackBigTech/status/2113834176491446754",
+      "tweetedAt": "2026-10-24T03:25:15.000Z",
+      "bestBit": "Google illegally chopped up a quarter-million trees to make way for a data center.",
+      "text": "@Google illegally chopped up a quarter-million trees to make way for a data center. 💢\n\nInstagram: @MorePerfectUS https://t.co/bMTCz1hBOX"
+    },
+    {
+      "tweetId": "2115311849751396832",
+      "role": "support",
+      "authorHandle": "unusual_whales",
+      "url": "https://x.com/unusual_whales/status/2115311849751396832",
+      "tweetedAt": "2026-10-28T05:17:00.000Z",
+      "bestBit": "Finnish regulators ordered Google's local subsidiary to stop work after finding the company had already removed trees, stripped topsoil, built construction roads, and altered ditches and waterways before the required assessment was done.",
+      "text": "Finnish regulators ordered Google's local subsidiary to stop work after finding the company had already removed trees, stripped topsoil, built construction roads, and altered ditches and waterways before the required assessment was done.\n\nRead more: https://t.co/m7JIoo0vhs"
+    },
+    {
+      "tweetId": "2113255620405293144",
+      "role": "support",
+      "authorHandle": "alfonslopeztena",
+      "url": "https://x.com/alfonslopeztena/status/2113255620405293144",
+      "tweetedAt": "2026-10-22T13:06:16.000Z",
+      "bestBit": "an estimated 250,000 trees occupied the 330 hectares (815 acres) of forest near Muhos in rural northern Finland. Now they are all gone",
+      "text": "Before Google’s arrival a few months ago, an estimated 250,000 trees occupied the 330 hectares (815 acres) of forest near Muhos in rural northern Finland. Now they are all gone, the tech company illegally stripped the entire area to build a datacentre\nhttps://t.co/FK2Y9CA7YS"
+    },
+    {
+      "tweetId": "2113307869332525532",
+      "role": "commentary",
+      "authorHandle": "gerritd",
+      "url": "https://x.com/GerritD/status/2113307869332525532",
+      "tweetedAt": "2026-10-22T16:33:54.000Z",
+      "bestBit": "after Google illegally cut down a quarter million trees, it seems they're getting pushed out of Finland too",
+      "text": "Google's decision to build datacenters in Finland was seen as proof the AI datacenters will get built even if Americans push them out. But after Google illegally cut down a quarter million trees, it seems they're getting pushed out of Finland too https://t.co/EH3DXi7dt2"
+    },
+    {
+      "tweetId": "2113395315764330551",
+      "role": "commentary",
+      "authorHandle": "blackhc",
+      "url": "https://x.com/BlackHC/status/2113395315764330551",
+      "tweetedAt": "2026-10-22T22:21:22.000Z",
+      "bestBit": "This is a gift for anyone who doesn't want more compute sovereignty in Europe",
+      "text": "I hope Google will pay up and make good somehow. It sounds like they moved too fast without knowing local laws. Not sure how that can happen. Not great when people are already against datacenters. This is a gift for anyone who doesn't want more compute sovereignty in Europe 🥺",
+      "quotedTweetText": "Before Google’s arrival a few months ago, an estimated 250,000 trees occupied the 330 hectares (815 acres) of forest near Muhos in rural northern Finland. Now they are all gone, the tech company illegally stripped the entire area to build a datacentre\nhttps://t.co/FK2Y9CA7YS"
+    },
+    {
+      "tweetId": "2113332810631049578",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2113332810631049578",
+      "tweetedAt": "2026-10-22T18:13:00.000Z",
+      "bestBit": "The Finnish Society for Nature Conservation puts the count at about 400,000 trees across Muhos and Otanmäki.",
+      "text": "🦔Finnish regulators ordered Google to pause work on two data center sites after it cleared forest without the environmental impact assessments the law requires. The Finnish Society for Nature Conservation puts the count at about 400,000 trees across Muhos and Otanmäki. Google apologized and says it will replant 130 hectares. The two sites are part of a €13 billion AI investment, the largest of its kind in Finland, and more than 93,000 Finns have signed a petition for stricter rules and a fee paid to local communities.\n\nMy Take\nIf a Finnish landowner skipped the environmental review on a job this size, I doubt an apology and some replanting would close the case, and so far that’s about all Google has to deal with. I want foreign money to build in Finland. I also want the permit rules to apply to Google the same way they’d apply to a family that owns forest outside Oulu, and right now I can’t find any fine at all. \n\nPeople in Muhos have reason to feel shortchanged. Construction brings in a lot of workers for a couple of years, then the site runs with a small staff, and Google books most of its profit outside Finland anyway. The town deals with the trucks and the muddy creek now and doesn’t see much money later. I think some version of the community fee passes before the April election because it’s an easy win for politicians, and once Finland charges one, I’d expect Sweden and Norway to face the same pressure, since they sell data centers on the same cheap power and cold air. Google can pay a fee like that easily, but I’m not so sure about the smaller builders that finance their sites with debt.\n\nHedgie🤗"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "google-pledges-130-hectare-replanting-as-backlash-grows-over-finnish-ai-a77c7f3f",
+    "title": "Google Pledges 130 Hectare Replanting as Backlash Grows Over Finnish AI Projects",
+    "publishedAt": "2026-10-23T19:10:37.357Z",
+    "eventTimeApprox": "2026-10-22T16:40:32.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "world",
+      "business"
+    ],
+    "tweetCount": 19,
+    "authorCount": 17
+  }
+}

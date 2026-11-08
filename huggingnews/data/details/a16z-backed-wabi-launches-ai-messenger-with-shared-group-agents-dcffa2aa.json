@@ -1,0 +1,52 @@
+{
+  "slug": "a16z-backed-wabi-launches-ai-messenger-with-shared-group-agents-dcffa2aa",
+  "title": "A16z Backed Wabi Launches AI Messenger With Shared Group Agents",
+  "publishedAt": "2026-10-19T16:39:28.263Z",
+  "eventTimeApprox": "2026-10-19T16:16:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112212804979880239/Wzg-bjHfnRT2-0FG-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112212804979880239/Wzg-bjHfnRT2-0FG-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2112212457234284544/vid/avc1/3840x2160/4gITKDb_F7iviaVH.mp4?tag=29",
+    "credit": {
+      "handle": "ekuyda",
+      "tweetUrl": "https://x.com/ekuyda/status/2112212804979880239"
+    }
+  },
+  "summary": "People can now use a single artificial intelligence to manage group schedules and book travel through a new release from an A16z portfolio company. The updated software, called Wabi 2.0, enables users to form shared threads where friends, partners, or community groups interact with one agent to synchronize family calendars for school pickups and organize trip itineraries.\n\nThe platform introduces the ability for personal agents to communicate with each other and automatically generate interactive apps tailored to a group's specific activity. Wabi aims to become an AI-powered operating system for everyday life by merging agent capabilities with a messaging interface to automate multifaceted tasks that require coordination between multiple people.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112212804979880239",
+      "role": "source",
+      "authorHandle": "ekuyda",
+      "url": "https://x.com/ekuyda/status/2112212804979880239",
+      "tweetedAt": "2026-10-19T16:02:30.000Z",
+      "bestBit": "Wabi is an agent you use together. you talk to it, it does stuff, builds the apps you need, and anyone can join the thread",
+      "text": "Wabi 2.0 is live!\n\npersonal agents are one person, one chat. but the parts of life that matter run on more than one person\n\nWabi is an agent you use together. you talk to it, it does stuff, builds the apps you need, and anyone can join the thread - your partner, your best friend, the preschool moms groupchat\n\nschool changes pickup time → Wabi updates the family calendar, everyone sees it.\na show you’d both love → Wabi finds a night that works, gets the tickets.\nthe trip everyone keeps talking about → Wabi picks the dates, builds the itinerary, books it\n\ngo start a thread with your people 👇"
+    }
+  ],
+  "isSuperseded": false
+}

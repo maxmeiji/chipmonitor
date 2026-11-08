@@ -1,0 +1,92 @@
+{
+  "slug": "prismml-releases-bonsai-2-local-ai-models-starting-at-043-gb-71b9404c",
+  "title": "PrismML Releases Bonsai 2 Local AI Models Starting at 0.43 GB",
+  "publishedAt": "2026-10-15T20:25:23.216Z",
+  "eventTimeApprox": "2026-10-15T20:08:14.500Z",
+  "isFreshStory": false,
+  "tweetCount": 33,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110823968831832189/TsrHJJVX60nrsDsw-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110823968831832189/TsrHJJVX60nrsDsw-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2110789684255408128/vid/avc1/1920x1080/1u6TXTR-ae2aNOFf.mp4?tag=29",
+    "credit": {
+      "handle": "prismml",
+      "tweetUrl": "https://x.com/PrismML/status/2110823968831832189"
+    }
+  },
+  "summary": "These ternary software tools bring advanced reasoning and visual comprehension directly to smartphones and wearables to reduce reliance on external servers. PrismML has released the Bonsai 2 family of AI models based on Qwen3.5 in versions ranging from 2B to 27B parameters under the Apache 2.0 license. The 2B, 4B, and 9B versions feature weight payloads of 0.43GB, 0.95GB, and 2.0GB respectively, with the 9B variant using 40% fewer tokens for math and instruction following than its predecessors.\n\nSuccessors to the first-generation Bonsai 1.7B, 4B, and 8B, these models target on-device agency with focused capabilities in tool calling and vision. In a hybrid workflow demo on Mac, Bonsai 2 processed sensitive data on-device to send only 8.6% of information to the cloud, cutting cloud costs by 86%. User benchmarks show the 9B model decoding at 114 tok/s on an RTX 3060, while the 2B model reaches 500 tok/s on an M4 Max via a browser, and PrismML has launched a competition on Yukon Research to further optimize the 9B version.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110823964650164348",
+      "role": "source",
+      "authorHandle": "prismml",
+      "url": "https://x.com/PrismML/status/2110823964650164348",
+      "tweetedAt": "2026-10-15T20:03:45.000Z",
+      "bestBit": "The 9B model uses roughly 40% fewer tokens on standard instruction-following and everyday math tasks",
+      "text": "Today, we’re releasing Bonsai 2 2B, 4B, and 9B.\n\nBased on Qwen3.5, these new ternary models bring stronger reasoning, visual understanding, and tool calling to compact footprints designed for everyday devices:\n\n• 2B: 0.43GB\n• 4B: 0.95GB\n• 9B: 2.0GB\n\nFor this release, we focused on what makes small models useful as local assistants: following instructions, avoiding repetitive loops, calling tools on mobile devices, and giving useful answers without unnecessary output. The 9B model uses roughly 40% fewer tokens on standard instruction-following and everyday math tasks. Solving the Riemann hypothesis can wait.\n\nThese models are successors to our first-generation Bonsai 1.7B, 4B, and 8B, and provide a foundation for bringing practical agentic functionality to local applications on personal computers, phones, and wearables.\n\nThe Bonsai 2 family now includes four sizes spanning 2B to 27B parameters. Developers can choose the balance of capability, memory use, and responsiveness that fits their application and hardware.\n\nAvailable today under Apache 2.0."
+    },
+    {
+      "tweetId": "2110823972107612202",
+      "role": "support",
+      "authorHandle": "prismml",
+      "url": "https://x.com/PrismML/status/2110823972107612202",
+      "tweetedAt": "2026-10-15T20:03:46.000Z",
+      "bestBit": "we're launching an open challenge on @YukonResearch to make Bonsai 2 9B even faster",
+      "text": "Bonsai 2 9B, 4B, and 2B are available under Apache 2.0. We look forward to seeing what you build.\n\nBlog: https://t.co/euAg1ROqTY\nModels: https://t.co/VvqYTjT1Ak\nDarkbloom API:  https://t.co/XBH0PfA9sL\nDemo: https://t.co/J82pr7qKsl\nTry on iPhone: https://t.co/fRE7DUDd9B\nInstructions and Examples: https://t.co/VmIGshhBvW\nDocs: https://t.co/niShBhwy0p \nWhitepaper: https://t.co/zVCKcNjm22\nDiscord: https://t.co/88MQHGCeFD\nJoin us: https://t.co/IA0Ygvy968\n\nAlongside the release, we're launching an open challenge on @YukonResearch to make Bonsai 2 9B even faster. You can also try it today on @DarkbloomAI."
+    },
+    {
+      "tweetId": "2110823968831832189",
+      "role": "support",
+      "authorHandle": "prismml",
+      "url": "https://x.com/PrismML/status/2110823968831832189",
+      "tweetedAt": "2026-10-15T20:03:46.000Z",
+      "bestBit": "Bonsai 2 processes a confidential data room on-device... and sends just 8.6% of the data to the cloud, reducing cloud costs by 86%",
+      "text": "Here is Bonsai 2 9B as part of a hybrid AI workflow on Mac.\n\nBonsai 2 can serve as the local intelligence layer in systems that combine on-device and cloud inference. This can support privacy-focused applications by giving developers more control over where information is processed and what leaves the device.\n\nIn this demo, Bonsai 2 processes a confidential data room on-device, replacing sensitive details with codes before a cloud model analyzes the material and drafts a due diligence memo. \n\nIt keeps sensitive information on-device and sends just 8.6% of the data to the cloud, reducing cloud costs by 86%."
+    },
+    {
+      "tweetId": "2110824587718017177",
+      "role": "analysis",
+      "authorHandle": "dogukanurker",
+      "url": "https://x.com/DogukanUrker/status/2110824587718017177",
+      "tweetedAt": "2026-10-15T20:06:13.000Z",
+      "bestBit": "9B on my RTX 3060 with PTQ1_0: ~114 tok/s decode, ~1,800 tok/s prefill",
+      "text": "PrismML's Bonsai 2 small models are out -- 2B, 4B and 9B, real ternary, GGUF + MLX. (configs below for all three)\n\na 9B in 2 GB, a 2B in 430 MB. with 32K context the 2B runs in under 1 GB of VRAM. that's on-device territory -- laptops, old cards, macs, fully offline.\n\n9B on my RTX 3060 with PTQ1_0: ~114 tok/s decode, ~1,800 tok/s prefill, full 262K context + vision in ~7.5 GB.\n\nPTQ1_0 is the smallest file and on my 3060 it's also the fastest, ~15-20% faster decode than PQ2_0. needs PrismML's llama.cpp fork, stock llama.cpp won't load it. day one config, expect it to move.\n\nconfig:\nllama-server\n-m Ternary-Bonsai-2-9B-PTQ1_0.gguf\n--mmproj Ternary-Bonsai-2-9B-mmproj-Q8_0.gguf\n-ngl 999 -c 262144 -fa on --jinja\n-np 1\n--cache-type-k q8_0 --cache-type-v q8_0\n--temp 1.0 --top-p 0.95 --top-k 20 --min-p 0.0\n--presence-penalty 1.0 --repeat-penalty 1.0\n--reasoning on",
+      "quotedTweetText": "Today, we’re releasing Bonsai 2 2B, 4B, and 9B.\n\nBased on Qwen3.5, these new ternary models bring stronger reasoning, visual understanding, and tool calling to compact footprints designed for everyday devices:\n\n• 2B: 0.43GB\n• 4B: 0.95GB\n• 9B: 2.0GB\n\nFor this release, we focused on what makes small models useful as local assistants: following instructions, avoiding repetitive loops, calling tools on mobile devices, and giving useful answers without unnecessary output. The 9B model uses roughly 40% fewer tokens on standard instruction-following and everyday math tasks. Solving the Riemann hypothesis can wait.\n\nThese models are successors to our first-generation Bonsai 1.7B, 4B, and 8B, and provide a foundation for bringing practical agentic functionality to local applications on personal computers, phones, and wearables.\n\nThe Bonsai 2 family now includes four sizes spanning 2B to 27B parameters. Developers can choose the balance of capability, memory use, and responsiveness that fits their application and hardware.\n\nAvailable today under Apache 2.0."
+    },
+    {
+      "tweetId": "2110825606254391577",
+      "role": "commentary",
+      "authorHandle": "xenovacom",
+      "url": "https://x.com/xenovacom/status/2110825606254391577",
+      "tweetedAt": "2026-10-15T20:10:16.000Z",
+      "bestBit": "The 2B reaches up to 500 tok/s on my M4 Max ENTIRELY in the browser with custom WebGPU kernels",
+      "text": "Today has been one of the biggest days for open-source AI this year... and it keeps getting better.\n\n@PrismML just released more Ternary Bonsai 2 models on Hugging Face: now in 2B, 4B, 9B, and 27B. The 2B reaches up to 500 tok/s on my M4 Max ENTIRELY in the browser with custom WebGPU kernels... that's insane! 🤯\n\nAt ~1.8 bits per weight, the language-model weights are just 430MB for 2B and 950MB for 4B (plus ~365MB for the 8-bit vision weights). The future of local agentic AI is going to be wild.\n\nTry out the demo yourself 👇"
+    }
+  ],
+  "isSuperseded": false
+}

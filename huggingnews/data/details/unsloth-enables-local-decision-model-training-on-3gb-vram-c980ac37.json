@@ -1,0 +1,67 @@
+{
+  "slug": "unsloth-enables-local-decision-model-training-on-3gb-vram-c980ac37",
+  "title": "Unsloth Enables Local Decision Model Training on 3GB VRAM",
+  "publishedAt": "2026-10-07T17:07:57.040Z",
+  "eventTimeApprox": "2026-10-07T16:33:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107868866361930236/HUCnWt5bMAAmqLB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107868866361930236/HUCnWt5bMAAmqLB-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "unslothai",
+      "tweetUrl": "https://x.com/UnslothAI/status/2107868866361930236"
+    }
+  },
+  "summary": "The open-source project Unsloth has released tools that allow developers to fine-tune models such as Llama, Gemma, and Qwen into specialized decision-making agents on consumer hardware. The system utilizes a Clef head and LoRA for one epoch of training, requiring as little as 3GB to 4GB of VRAM to operate on a local machine via the Unsloth Desktop application.\n\nIn internal tests of the Qwen3.5 0.8B model, the company increased aggregate accuracy from 20.7% to 74.3% across three decision benchmarks. Downstream accuracy also rose from a range of 30% to 37% up to 78% using the available open-source repository on GitHub.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107868866361930236",
+      "role": "source",
+      "authorHandle": "unslothai",
+      "url": "https://x.com/UnslothAI/status/2107868866361930236",
+      "tweetedAt": "2026-10-07T16:21:14.000Z",
+      "bestBit": "increased Qwen3.5 0.8B’s aggregate accuracy from 20.7% to 74.3% across 3 decision benchmarks - on just 4GB VRAM",
+      "text": "You can now train your own Decision model like Jev locally!\n\nWe increased Qwen3.5 0.8B’s aggregate accuracy from 20.7% to 74.3% across 3 decision benchmarks - on just 4GB VRAM.\n\nTurn any LLM like Qwen3.8, Gemma 4 into decision models with our open-source Unsloth repo.\n\nWe fine-tuned with a Clef head using Unsloth and LoRA (r=64) for one epoch, increasing downstream accuracy from 30–37% to 78%.\n\nGitHub: https://t.co/2kXqhhvLsb\nGuide and Notebooks: https://t.co/qACsYehl1n"
+    },
+    {
+      "tweetId": "2107873310327648461",
+      "role": "support",
+      "authorHandle": "danielhanchen",
+      "url": "https://x.com/danielhanchen/status/2107873310327648461",
+      "tweetedAt": "2026-10-07T16:38:54.000Z",
+      "bestBit": "made it possible to train your own Decision model locally on just 3GB VRAM",
+      "text": "We made it possible to train your own Decision model locally on just 3GB VRAM!\n\nWe converted Qwen, Gemma, Llama all into decision models by fine-tuning using a Clef head, boosting accuracy from 30 to up to 78%.\n\nYou can try it yourself via Unsloth Desktop! https://t.co/vnz3S5G2Lu",
+      "quotedTweetText": "You can now train your own Decision model like Jev locally!\n\nWe increased Qwen3.5 0.8B’s aggregate accuracy from 20.7% to 74.3% across 3 decision benchmarks - on just 4GB VRAM.\n\nTurn any LLM like Qwen3.8, Gemma 4 into decision models with our open-source Unsloth repo.\n\nWe fine-tuned with a Clef head using Unsloth and LoRA (r=64) for one epoch, increasing downstream accuracy from 30–37% to 78%.\n\nGitHub: https://t.co/2kXqhhvLsb\nGuide and Notebooks: https://t.co/qACsYehl1n"
+    }
+  ],
+  "isSuperseded": false
+}

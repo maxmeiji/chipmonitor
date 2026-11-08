@@ -1,0 +1,78 @@
+{
+  "slug": "liquid-ai-launches-lfm3-foundation-models-for-specialized-edge-ai-a5e24a7e",
+  "title": "Liquid AI Launches LFM3 Foundation Models for Specialized Edge AI",
+  "publishedAt": "2026-10-27T17:24:06.256Z",
+  "eventTimeApprox": "2026-10-27T17:14:06.500Z",
+  "isFreshStory": false,
+  "tweetCount": 87,
+  "authorCount": 46,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115129961283740092/HVpzO6IbMAAigmy-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115129961283740092/HVpzO6IbMAAigmy-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "maximelabonne",
+      "tweetUrl": "https://x.com/maximelabonne/status/2115129961283740092"
+    }
+  },
+  "summary": "Liquid AI has released its latest generation of small foundation models, known as LFM3, designed to deliver specialized artificial intelligence directly on edge devices. The suite comprises six model instances across text, audio, vision, and decision modalities, featuring a 2B parameter vision-language model and an audio model capable of reasoning in 18 languages. The LFM3-VL-2B is designed to compete with significantly larger models, including the 12B parameter Gemma 4.\n\nThe family utilizes a tri-hybrid architecture optimized for 14 processor classes, including NPUs, CPUs, and GPUs, and is compatible with a 256K context window. The smallest text model, LFM3-1.7B, can fit in roughly 1 GB of memory at 4-bit quantization and uses 35% fewer parameters than the previous LFM2.5-2.6B model while improving performance. The models can be fine-tuned on a single GPU and launched with day-0 support from the SGLang project.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115128329003303107",
+      "role": "source",
+      "authorHandle": "liquidai",
+      "url": "https://x.com/liquidai/status/2115128329003303107",
+      "tweetedAt": "2026-10-27T17:07:45.000Z",
+      "bestBit": "𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱 is a beast. It performs competitively with Gemma 4 12B (6x larger), and Gemini 3.5 Flash Lite, and GPT-5.6 Luna, with 1.9B parameters.",
+      "text": "Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybrid architecture and new multimodal encoders, the LFM3 family is the ideal model suite for specialized intelligence.\n\n> 6 model instances, across text, audio, vision, and omni modalities, generative and decision models.\n> 𝙻𝙵𝙼𝟹-𝟷.𝟽𝙱: text, 256k context window.\n> 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱: vision-language model with video-input support for spatial understanding\n> 𝙻𝙵𝙼𝟹-𝙰𝚞𝚍𝚒𝚘-𝟸𝙱: tool calls, voice chat, reasoning in 18 languages.\n> 𝙻𝙵𝙼𝟹-𝙾𝚖𝚗𝚒-𝟸𝙱: an omni model combines vision, audio, and language.\n> 𝚍𝟷-𝟸𝙱 and 𝚍𝟷-𝙾𝚖𝚗𝚒-𝟸𝙱: decision models with typed outputs and calibrated probabilities in a single pass. Omni adds audio input.\n> fine-tune on 1 GPU.\n> a new tri-hybrid architecture\n> architecture optimized for 14 processor classes across GPUs, CPUs, and NPUs.\n> 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱 is a beast. It performs competitively with Gemma 4 12B (6x larger), and Gemini 3.5 Flash Lite, and GPT-5.6 Luna, with 1.9B parameters.\n> 𝙻𝙵𝙼𝟹-𝟷.𝟽𝙱 is #1 on the Pareto frontier of device intelligence 𝚙𝚒𝚙𝚎𝚝𝚝𝚎.𝚕𝚒𝚚𝚞𝚒𝚍.𝚊𝚒\n\nEvery modality for specialized intelligence. Pick the one that fits your use case, customize it, and run it on-device.\n\n1/ 🧵"
+    },
+    {
+      "tweetId": "2115129701639569612",
+      "role": "support",
+      "authorHandle": "sgl_project",
+      "url": "https://x.com/sgl_project/status/2115129701639569612",
+      "tweetedAt": "2026-10-27T17:13:12.000Z",
+      "bestBit": "Built for the edge: ~1 GB at 4-bit, 256K context for on-device agents",
+      "text": "SGLang has Day-0 support for LFM3 from @liquidai! LFM3 is a family of small models built to be specialized and run anywhere.\n\n· New tri-hybrid architecture: LFM3-1.7B beats LFM2.5-2.6B with 35% fewer parameters\n· One backbone for every modality: text, vision (now with video), audio, omni, and decision\n· Built for the edge: ~1 GB at 4-bit, 256K context for on-device agents\n· Fine-tunes on a single GPU\n\nGet started with SGLang 👇",
+      "quotedTweetText": "Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybrid architecture and new multimodal encoders, the LFM3 family is the ideal model suite for specialized intelligence.\n\n> 6 model instances, across text, audio, vision, and omni modalities, generative and decision models.\n> 𝙻𝙵𝙼𝟹-𝟷.𝟽𝙱: text, 256k context window.\n> 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱: vision-language model with video-input support for spatial understanding\n> 𝙻𝙵𝙼𝟹-𝙰𝚞𝚍𝚒𝚘-𝟸𝙱: tool calls, voice chat, reasoning in 18 languages.\n> 𝙻𝙵𝙼𝟹-𝙾𝚖𝚗𝚒-𝟸𝙱: an omni model combines vision, audio, and language.\n> 𝚍𝟷-𝟸𝙱 and 𝚍𝟷-𝙾𝚖𝚗𝚒-𝟸𝙱: decision models with typed outputs and calibrated probabilities in a single pass. Omni adds audio input.\n> fine-tune on 1 GPU.\n> a new tri-hybrid architecture\n> architecture optimized for 14 processor classes across GPUs, CPUs, and NPUs.\n> 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱 is a beast. It performs competitively with Gemma 4 12B (6x larger), and Gemini 3.5 Flash Lite, and GPT-5.6 Luna, with 1.9B parameters.\n> 𝙻𝙵𝙼𝟹-𝟷.𝟽𝙱 is #1 on the Pareto frontier of device intelligence 𝚙𝚒𝚙𝚎𝚝𝚝𝚎.𝚕𝚒𝚚𝚞𝚒𝚍.𝚊𝚒\n\nEvery modality for specialized intelligence. Pick the one that fits your use case, customize it, and run it on-device.\n\n1/ 🧵"
+    },
+    {
+      "tweetId": "2115129961283740092",
+      "role": "commentary",
+      "authorHandle": "maximelabonne",
+      "url": "https://x.com/maximelabonne/status/2115129961283740092",
+      "tweetedAt": "2026-10-27T17:14:14.000Z",
+      "bestBit": "I'm super happy with LFM3-1.7B, it's an absolute (agentic) monster",
+      "text": "LFM3: new generation with six edge models\n\nI'm super happy with LFM3-1.7B, it's an absolute (agentic) monster https://t.co/cTzPGqvgqO",
+      "quotedTweetText": "Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybrid architecture and new multimodal encoders, the LFM3 family is the ideal model suite for specialized intelligence.\n\n> 6 model instances, across text, audio, vision, and omni modalities, generative and decision models.\n> 𝙻𝙵𝙼𝟹-𝟷.𝟽𝙱: text, 256k context window.\n> 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱: vision-language model with video-input support for spatial understanding\n> 𝙻𝙵𝙼𝟹-𝙰𝚞𝚍𝚒𝚘-𝟸𝙱: tool calls, voice chat, reasoning in 18 languages.\n> 𝙻𝙵𝙼𝟹-𝙾𝚖𝚗𝚒-𝟸𝙱: an omni model combines vision, audio, and language.\n> 𝚍𝟷-𝟸𝙱 and 𝚍𝟷-𝙾𝚖𝚗𝚒-𝟸𝙱: decision models with typed outputs and calibrated probabilities in a single pass. Omni adds audio input.\n> fine-tune on 1 GPU.\n> a new tri-hybrid architecture\n> architecture optimized for 14 processor classes across GPUs, CPUs, and NPUs.\n> 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱 is a beast. It performs competitively with Gemma 4 12B (6x larger), and Gemini 3.5 Flash Lite, and GPT-5.6 Luna, with 1.9B parameters.\n> 𝙻𝙵𝙼𝟹-𝟷.𝟽𝙱 is #1 on the Pareto frontier of device intelligence 𝚙𝚒𝚙𝚎𝚝𝚝𝚎.𝚕𝚒𝚚𝚞𝚒𝚍.𝚊𝚒\n\nEvery modality for specialized intelligence. Pick the one that fits your use case, customize it, and run it on-device.\n\n1/ 🧵"
+    }
+  ],
+  "isSuperseded": false
+}

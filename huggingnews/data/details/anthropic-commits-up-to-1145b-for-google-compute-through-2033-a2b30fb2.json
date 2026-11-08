@@ -1,0 +1,59 @@
+{
+  "slug": "anthropic-commits-up-to-1145b-for-google-compute-through-2033-a2b30fb2",
+  "title": "Anthropic Commits Up to $114.5B for Google Compute Through 2033",
+  "publishedAt": "2026-10-26T13:37:05.424Z",
+  "eventTimeApprox": "2026-10-26T13:18:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "The AI developer entered a long-term computing services contract with Google that would average approximately $16 billion in annual spending. The agreement allows the company to spend a total of up to $114.5 billion on Google's infrastructure through 2033.\n\nThe deal serves as validation for Google's custom Tensor Processing Units (TPUs). The arrangement creates a dynamic where Google receives revenue from the creator of the Claude AI assistant while simultaneously competing against it with its own Gemini models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114710100531417171",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2114710100531417171",
+      "tweetedAt": "2026-10-26T13:25:52.000Z",
+      "bestBit": "Anthropic $ANT agreed to spend ~$115B on $GOOGL compute through 2033 potentially averaging ~$16B annually and providing massive validation for Google's custom TPUs.",
+      "text": "Anthropic $ANT agreed to spend ~$115B on $GOOGL compute through 2033 potentially averaging ~$16B annually and providing massive validation for Google's custom TPUs.\n\nPretty wild when you consider Google could be collecting billions every year from Claude while simultaneously trying to beat it with Gemini.",
+      "quotedTweetText": "Anthropic $ANT IPO filing shows it now generates $2.08 in revenue for every $1 spent on compute which is up from just $0.40 in Q1 2025.\n\nWhats wild is that revenue grew ~29x while compute spending rose only ~6x as products like Claude Code drive adoption and more efficient models make each AI task cheaper to run."
+    }
+  ],
+  "isSuperseded": false
+}

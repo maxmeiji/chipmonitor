@@ -1,0 +1,127 @@
+{
+  "slug": "axiom-releases-open-source-code-for-maths-largest-verified-proof-and-fix-f4b7a249",
+  "title": "Axiom Releases Open-Source Code for Math's Largest Verified Proof and Fixes Historical Errors",
+  "publishedAt": "2026-10-28T11:08:02.297Z",
+  "eventTimeApprox": "2026-10-27T16:00:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 38,
+  "authorCount": 33,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "math",
+      "name": "Math"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115090973189427525/HVpPkxjXoAAoaky-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115090973189427525/HVpPkxjXoAAoaky-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrew_v10209",
+      "tweetUrl": "https://x.com/andrew_v10209/status/2115090973189427525"
+    }
+  },
+  "summary": "The makers of AxiomProver have shared the digital translation of the Classification of Finite Simple Groups on GitHub, enabling researchers to validate every logical step of the proof through code. During the formalization process, the startup's AI agents identified 34 discrepancies in the published work, including errors in a 1986 argument for the Unbalanced Group Theorem. To fix the flaw, the system developed an alternative proof based on research from 1976, which allowed the underlying theorem to remain intact while correcting the historical record.\n\nThe project utilized a swarm of AI agents to convert roughly 15,000 pages of text authored by more than 100 mathematicians into 43 million lines of Lean code. The $1.6B startup completed the translation in 24 days, a task that involved dividing the work into 380 separate segments and checking the results of 715 different papers and books. The result is the largest computer-verified proof in history, eliminating the need for a human to manually read the entire interconnected body of work to verify its accuracy.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115090973189427525",
+      "role": "source",
+      "authorHandle": "andrew_v10209",
+      "url": "https://x.com/andrew_v10209/status/2115090973189427525",
+      "tweetedAt": "2026-10-27T14:39:19.000Z",
+      "bestBit": "Over 43 million lines of Lean, 715 papers and books, and 100 substantive fixes to the literature",
+      "text": "This morning we are releasing the largest proof in the history of mathematics: A formalization of the Classification of Finite Simple Groups (CFSG)! Over 43 million lines of Lean, 715 papers and books, and 100 substantive fixes to the literature, this is truly an enormous theorem. Well done team!",
+      "quotedTweetText": "The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations. https://t.co/Y1P26abyPQ"
+    },
+    {
+      "tweetId": "2115277379144671639",
+      "role": "support",
+      "authorHandle": "wesroth",
+      "url": "https://x.com/WesRoth/status/2115277379144671639",
+      "tweetedAt": "2026-10-28T03:00:01.000Z",
+      "bestBit": "Axiom reports finding counterexamples to an intermediate claim in John Walter’s 1986 argument for the Unbalanced Group Theorem",
+      "text": "While formalizing the Classification of Finite Simple Groups, Axiom reports finding counterexamples to an intermediate claim in John Walter’s 1986 argument for the Unbalanced Group Theorem.\n\nThe theorem itself survived. AxiomProver developed an alternative argument drawing on Ronald Solomon’s 1976 work, including a new result called “preservation of simple tops.”\n\nAxiom’s mathematicians subsequently found a shorter route to the required conclusion. The accompanying paper records both arguments.",
+      "quotedTweetText": "The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations. https://t.co/Y1P26abyPQ"
+    },
+    {
+      "tweetId": "2115112175526445406",
+      "role": "commentary",
+      "authorHandle": "dmitryrybin1",
+      "url": "https://x.com/DmitryRybin1/status/2115112175526445406",
+      "tweetedAt": "2026-10-27T16:03:34.000Z",
+      "bestBit": "lucky that 15000-page human proof is fixable",
+      "text": "It’s the most useful formalization result so far, imo\n\nAnd lucky that 15000-page human proof is fixable https://t.co/ynknDuMatm",
+      "quotedTweetText": "The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations. https://t.co/Y1P26abyPQ"
+    },
+    {
+      "tweetId": "2115113443858538571",
+      "role": "commentary",
+      "authorHandle": "blancheminerva",
+      "url": "https://x.com/BlancheMinerva/status/2115113443858538571",
+      "tweetedAt": "2026-10-27T16:08:36.000Z",
+      "bestBit": "Formal verification of proofs that are too long for one person* to read & understand is a big deal",
+      "text": "Huge congrats! Formal verification of proofs that are too long for one person* to read &amp; understand is a big deal.\n\nNote: Axiom emailed me a few days ago and asked me to promote this. Normally I refuse, but this is something I would have promoted if they didn’t ask me to.",
+      "quotedTweetText": "The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations. https://t.co/Y1P26abyPQ"
+    },
+    {
+      "tweetId": "2115093923081110013",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2115093923081110013",
+      "tweetedAt": "2026-10-27T14:51:02.000Z",
+      "bestBit": "The agents claimed tasks, wrote proofs, reviewed each other, and merged their own work through GitHub",
+      "text": "\"We saw a glimpse of the future of swarm coding.\"\n\nAgent swarms will fundamentally change how we build software.\n\n@axiommathai used a swarm of agents to formally verify the Classification of Finite Simple Groups, the largest proof in math history. That is roughly 15,000 pages by over 100 mathematicians, now about 50 million lines of Lean, verified in 24 days.\n\nThe agents claimed tasks, wrote proofs, reviewed each other, and merged their own work through GitHub. Along the way, they fixed hundreds of major errata in the published proof.",
+      "quotedTweetText": "The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations. https://t.co/Y1P26abyPQ"
+    },
+    {
+      "tweetId": "2115099371608137823",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2115099371608137823",
+      "tweetedAt": "2026-10-27T15:12:41.000Z",
+      "bestBit": "getting AxiomProver to write a correct 10,000-line Lean proof took weeks of coaxing. And now this swarm of agents formalized a problem roughly 4,000 times that size in 24 days",
+      "text": "Big win for verifiable AI.\n\nFormal Math proof is starting to scale like software.\n\n@axiommathai rewrote the longest proof in mathematics, all 15,000 pages, about 40 million lines of Lean. \nSwarms of AI agents wrote it in 24 days while mathematicians steered them.\n\nAxiom says that at the start of this year, getting AxiomProver to write a correct 10,000-line Lean proof took weeks of coaxing. And now this swarm of agents formalized a problem roughly 4,000 times that size in 24 days.\n\nThe target was the Classification of Finite Simple Groups: about 15,000 pages, 500+ papers, around 100 authors, and no single reader who has gone through all of it.\n\nAxiom credits the jump to rebuilding three layers at once: the models, the harness and the infrastructure.",
+      "quotedTweetText": "The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations. https://t.co/Y1P26abyPQ"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "axiom-verifies-15000-page-mathematical-proof-with-new-ai-agents-8bb6d3b9",
+    "title": "Axiom Verifies 15,000 Page Mathematical Proof With New AI Agents",
+    "publishedAt": "2026-10-27T14:54:16.800Z",
+    "eventTimeApprox": "2026-10-27T14:45:14.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 32,
+    "authorCount": 29
+  }
+}

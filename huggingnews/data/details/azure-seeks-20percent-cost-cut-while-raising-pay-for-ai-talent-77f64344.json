@@ -1,0 +1,100 @@
+{
+  "slug": "azure-seeks-20percent-cost-cut-while-raising-pay-for-ai-talent-77f64344",
+  "title": "Azure Seeks 20% Cost Cut While Raising Pay for AI Talent",
+  "publishedAt": "2026-10-14T18:25:55.893Z",
+  "eventTimeApprox": "2026-10-13T23:45:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "The Microsoft cloud business saw its annual revenue grow 40% to $101.9 billion in the year through June, but free cash flow has declined due to the massive expense of AI data centers. President Girish Bablani has since asked leaders in the 11,500 person Azure unit to identify potential savings of at least 20%, The Information reports, as quarterly free cash flow fell 20% year over year. This efficiency drive is happening as executives simultaneously increase salaries and AI budgets to compete with rivals Meta and Anthropic for engineering talent.\n\nA spokesperson for Microsoft denied that Azure leadership has instructed teams to develop cost-reduction strategies. These reports emerge as the company reorganizes the division around Arun Ulag, executive vice president of databases, and as cloud chief Scott Guthrie advocates for expanded budget allocations for personnel to sustain the company's artificial intelligence growth.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110128518965436616",
+      "role": "source",
+      "authorHandle": "kevkubernetes",
+      "url": "https://x.com/KevKubernetes/status/2110128518965436616",
+      "tweetedAt": "2026-10-13T22:00:17.000Z",
+      "bestBit": "reorganizes its Azure unit around Arun Ulag, EVP of databases, its senior leaders are eyeing significant cost reductions",
+      "text": "As Microsoft reorganizes its Azure unit around Arun Ulag, EVP of databases, its senior leaders are eyeing significant cost reductions. More here with @aaronpholmes: https://t.co/0mZrriGxSv"
+    },
+    {
+      "tweetId": "2110430535004590252",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2110430535004590252",
+      "tweetedAt": "2026-10-14T18:00:24.000Z",
+      "bestBit": "discussing increasing employees’ AI budgets and paying more to retain talent amid competition from Anthropic and Meta",
+      "text": "Microsoft’s Azure unit is exploring cost reductions as executives discuss increasing employees’ AI budgets and paying more to retain talent amid competition from Anthropic and Meta. \n\nFull story: https://t.co/9WE5tLNvGz"
+    },
+    {
+      "tweetId": "2110157701950878165",
+      "role": "support",
+      "authorHandle": "financialjuice",
+      "url": "https://x.com/financialjuice/status/2110157701950878165",
+      "tweetedAt": "2026-10-13T23:56:15.000Z",
+      "bestBit": "Azure leadership hasn’t instructed teams to create cost-reduction strategies",
+      "text": "Microsoft spokesperson: Azure leadership hasn’t instructed teams to create cost-reduction strategies"
+    },
+    {
+      "tweetId": "2110149987233583438",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2110149987233583438",
+      "tweetedAt": "2026-10-13T23:25:36.000Z",
+      "bestBit": "lay people off to fund its token spend",
+      "text": "Microsoft is an imbecile empire run by craven and soulless executives grinding down those who actually deliver value. Everyone I talk to there is absolutely miserable, so it doesn’t shock me Remond would lay people off to fund its token spend https://t.co/bQJCsL4XYs",
+      "quotedTweetText": "As Microsoft reorganizes its Azure unit around Arun Ulag, EVP of databases, its senior leaders are eyeing significant cost reductions. More here with @aaronpholmes: https://t.co/0mZrriGxSv"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "microsoft-denies-ordering-20percent-cost-cuts-for-azure-478ef063",
+    "title": "Microsoft Denies Ordering 20% Cost Cuts for Azure",
+    "publishedAt": "2026-10-14T00:08:31.586Z",
+    "eventTimeApprox": "2026-10-13T23:25:36.000Z",
+    "routingTopicKeys": [
+      "business",
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 7
+  }
+}

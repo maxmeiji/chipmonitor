@@ -1,0 +1,97 @@
+{
+  "slug": "amazon-pledges-1b-to-us-data-center-host-communities-cc5f3af1",
+  "title": "Amazon Pledges $1B to US Data Center Host Communities",
+  "publishedAt": "2026-10-02T23:53:57.361Z",
+  "eventTimeApprox": "2026-09-30T09:02:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 20,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "summary": "The cloud computing giant will fund free vocational training and college degrees for citizens of cities that house its server farms. Over the next 5 years, Amazon will spend $1B on community initiatives, including building new roads, affordable housing, and upgrading fire equipment. The company is also providing energy efficiency improvements for schools and homes that could save households roughly $700 annually to address local grievances over the power and water usage of AI infrastructure.\n\nThis spending initiative follows a recent move by Amazon to eliminate the use of non-disclosure agreements in its contracts with local government officials. The policy reversal came after Representative Jamie Raskin of the House Judiciary Committee requested details on secret agreements used to secure project approvals. Public opposition to large data center projects is estimated at over 70% heading into the midterm elections.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105991623398039921",
+      "role": "source",
+      "authorHandle": "mollytaft",
+      "url": "https://x.com/mollytaft/status/2105991623398039921",
+      "tweetedAt": "2026-10-02T12:01:45.000Z",
+      "bestBit": "stopped using NDAs in its data center agreements w local officials",
+      "text": "NEW: amazon announced this morning that it has stopped using NDAs in its data center agreements w local officials\n\nNDAs have been a massive flashpoint in anti-DC backlash\n\nit also rolled out $1 bn in commitments to DC communities: https://t.co/NvkRL6Hvuh"
+    },
+    {
+      "tweetId": "2105227706988200024",
+      "role": "source",
+      "authorHandle": "wsj",
+      "url": "https://x.com/WSJ/status/2105227706988200024",
+      "tweetedAt": "2026-09-30T09:26:13.000Z",
+      "bestBit": "A Democratic lawmaker wants more information on the secret agreements between tech companies building data centers and local officials approving them",
+      "text": "Exclusive: A Democratic lawmaker wants more information on the secret agreements between tech companies building data centers and local officials approving them https://t.co/x6wkbY5A8u"
+    },
+    {
+      "tweetId": "2106032091456553179",
+      "role": "support",
+      "authorHandle": "cremieuxrecueil",
+      "url": "https://x.com/cremieuxrecueil/status/2106032091456553179",
+      "tweetedAt": "2026-10-02T14:42:33.000Z",
+      "bestBit": "offering households energy efficiency upgrades that'll let them save ~$700/yr on average",
+      "text": "Amazon announced a new data center investment initiative.\n\nThey're offering households energy efficiency upgrades that'll let them save ~$700/yr on average.\n\nAnd they're offering schools &amp; community buildings the same thing + building roads, affordable housing, &amp; fire equipment! https://t.co/2pYMoCCVJU"
+    },
+    {
+      "tweetId": "2105313081555611951",
+      "role": "commentary",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2105313081555611951",
+      "tweetedAt": "2026-09-30T15:05:28.000Z",
+      "bestBit": "70%+ of people oppose them",
+      "text": "It's a bad look in general for big tech cos to sign NDAs with local officials for these large data center projects at at time when 70%+ of people oppose them. TRANSPARENCY is the way forward - deals, economics, community investments, economic impact, sound/pollution, etc.\n\n'Secret agreement' when the core issue in general is mistrust that these investments will benefit communities is an own goal.\n\n\"A Democratic lawmaker wants more information on the secret agreements between tech companies building data centers and local officials approving them, their latest attempt to increase oversight of the facilities powering artificial intelligence and tap in to voters’ AI backlash ahead of the midterm elections.\""
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-amazon-ends-ndas-in-local-data-center-deals-after-raskin-probe-8bad80c0",
+    "title": "UPDATE: Amazon Ends NDAs in Local Data Center Deals After Raskin Probe",
+    "publishedAt": "2026-10-02T21:53:29.598Z",
+    "eventTimeApprox": "2026-09-30T09:02:27.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "us-politics",
+      "tech"
+    ],
+    "tweetCount": 6,
+    "authorCount": 5
+  }
+}

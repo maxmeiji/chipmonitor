@@ -1,0 +1,158 @@
+{
+  "slug": "update-china-denounces-us-ban-on-deepseek-as-violation-of-state-agreemen-b7673ee9",
+  "title": "UPDATE: China Denounces US Ban on DeepSeek as Violation of State Agreement",
+  "publishedAt": "2026-10-20T22:24:21.830Z",
+  "eventTimeApprox": "2026-10-19T22:26:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 75,
+  "authorCount": 48,
+  "routingTopicKeys": [
+    "geopolitics",
+    "ai",
+    "cybersecurity",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "geopolitics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-foreign-policy",
+      "name": "US Foreign Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112250754358788437/HVA43dvaEAAhlYN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112250754358788437/HVA43dvaEAAhlYN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2112250754358788437"
+    }
+  },
+  "summary": "Beijing's Ministry of Commerce has demanded the immediate reversal of a US mandate requiring federal agencies to purge the DeepSeek AI model from their IT systems. The ministry denounced the move as discriminatory and argued that Washington is politicizing technology and trade issues under the guise of national security. Chinese officials further claimed the restrictions disregard a consensus previously reached between the heads of state of the US and China, urging the Trump administration to revoke the ban on Chinese firms.\n\nThe order, issued by DHS Secretary Markwayne Mullin, requires all civilian federal agencies to remove DeepSeek products and any third-party services built using its implementations. Signed as early as June 26 and made public on October 19, the directive cites risks of sensitive data transfer to China and potential malware within the models. The ban operates under the Federal Acquisition Supply Chain Security Act of 2018, and the Federal Register publishes the official notice this Tuesday. Agencies may request exceptions by filing a justification 60 days in advance, though national security systems remain outside the order's scope.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112557663032619338",
+      "role": "source",
+      "authorHandle": "cyberscoopnews",
+      "url": "https://x.com/CyberScoopNews/status/2112557663032619338",
+      "tweetedAt": "2026-10-20T14:52:50.000Z",
+      "bestBit": "bar federal agencies from buying all information technology products and services from parent company Hangzhou DeepSeek Artificial Intelligence",
+      "text": "The notice, set to publish Tuesday in the Federal Register, cites the Federal Acquisition Supply Chain Act and a review by the Federal Acquisition Security Council to bar federal agencies from buying all information technology products and services from parent company Hangzhou DeepSeek Artificial Intelligence.\n\nThe notice includes a copy of a letter from Secretary of Homeland Security Markwayne Mullin ordering the exclusion of DeepSeek products on June 26, indicating the ban has been in place for months.\n\nRead more by @DerekDoesTech: https://t.co/EuX2yE3nmU"
+    },
+    {
+      "tweetId": "2112538814472204351",
+      "role": "source",
+      "authorHandle": "marketnews_feed",
+      "url": "https://x.com/MarketNews_Feed/status/2112538814472204351",
+      "tweetedAt": "2026-10-20T13:37:57.000Z",
+      "bestBit": "US MOVE IS DISCRIMINATORY; POLITICISES TECH AND TRADE ISSUES UNDER GUISE OF NATIONAL SECURITY",
+      "text": "CHINA MOFCOM: FIRMLY OPPOSES US ORDER ON DEEPSEEK\n- US MOVE IS DISCRIMINATORY; POLITICISES TECH AND TRADE ISSUES UNDER GUISE OF NATIONAL SECURITY\n- US ACTION DISREGARDS CONSENSUS REACHED BETWEEN CHINESE AND US HEADS OF STATE\n- URGES US TO IMMEDIATELY CORRECT WRONG PRACTICES, REVOKE DISCRIMINATORY RESTRICTIONS ON CHINESE FIRMS ..."
+    },
+    {
+      "tweetId": "2112239605198000220",
+      "role": "commentary",
+      "authorHandle": "zackkorman",
+      "url": "https://x.com/ZackKorman/status/2112239605198000220",
+      "tweetedAt": "2026-10-19T17:49:00.000Z",
+      "bestBit": "Why ban US-hosted DeepSeek? \"The models themselves may contain malware\".",
+      "text": "The order banning DeepSeek in the US government is absurd. Why ban US-hosted DeepSeek? \"The models themselves may contain malware\".\n\nThe proof? The DeepSeek iOS app has vulnerabilities. https://t.co/oKBYAJv1Av"
+    },
+    {
+      "tweetId": "2112665168719352152",
+      "role": "commentary",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2112665168719352152",
+      "tweetedAt": "2026-10-20T22:00:02.000Z",
+      "bestBit": "China is demanding an immediate reversal, accusing Trump of violating understandings reached with Xi Jinping",
+      "text": "🇨🇳🇺🇸 Trump just kicked China's DeepSeek out of U.S. government systems.\n\nBeijing is FURIOUS. And the AI rivalry is getting personal.\n\nWashington has ordered federal civilian agencies to remove DeepSeek, including third-party software built using its models, over fears that sensitive government data could end up in Chinese hands.\n\nChina is demanding an immediate reversal, accusing Trump of violating understandings reached with Xi Jinping.\n\nAnd Beijing is threatening to take measures of its own.\n\nThe two leaders only recently agreed to cooperate through a new AI dialogue. Now Washington is effectively telling Beijing that its AI models aren't trusted anywhere near American government systems.\n\nThe U.S. and China are trying to cooperate on artificial intelligence while simultaneously treating each other's technology as a national security threat.\n\nThat relationship is going to be a hell of a balancing act.\n\nSource: Reuters / Writer: Oliver"
+    },
+    {
+      "tweetId": "2112266995202757116",
+      "role": "commentary",
+      "authorHandle": "hamandcheese",
+      "url": "https://x.com/hamandcheese/status/2112266995202757116",
+      "tweetedAt": "2026-10-19T19:37:50.000Z",
+      "bestBit": "before DeepSeek-derived sleeper agents are embedded across critical infrastructure",
+      "text": "Good. Better to do this now before DeepSeek-derived sleeper agents are embedded across critical infrastructure and start running rampant following a pre-programmed date change or something.",
+      "quotedTweetText": "The Department of Homeland Security is requiring all civilian federal agencies to remove DeepSeek products and 'any third-party services developed using DeepSeek implementations,' and to stop buying them. https://t.co/b2J9QeuZ6b"
+    },
+    {
+      "tweetId": "2112265351492972953",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112265351492972953",
+      "tweetedAt": "2026-10-19T19:31:18.000Z",
+      "bestBit": "The order removes all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations",
+      "text": "Homeland Security has ordered US civilian agencies to rip out DeepSeek and every product built on it.\n\nUS hosting doesn’t get you out. The order removes all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations, from civilian agency information technology, under the Federal Acquisition Supply Chain Security Act of 2018. \n\nDHS says DeepSeek’s hosted models store data on servers in China, where national security laws give Beijing wide latitude to obtain data from domestic companies. \n\nBecause every prompt and response passes through that service, DHS warned the transferred data, alone or combined with public information, could produce actionable intelligence on US persons and government programs. \n\nThat logic fits the hosted chatbot, but for weights running on US servers the ban leans on DHS’s warning that the models may contain malware or other vulnerabilities.\n\nThe signed order predates Monday’s public notice by months, and a July memo had already told agencies to monitor traffic in and out of government websites for DeepSeek-related risks. \n\nExceptions require a request filed 60 days in advance with a compelling justification, such as an inability to fulfil a mission-critical function, while national security systems and secure compartmented information systems sit outside the order. \n\nThe heavier work now falls on federal software vendors, who will need to show which open-weight models sit inside the products agencies already run.\n\nDeepSeek is the only Chinese model named, though Moonshot AI’s Kimi and Alibaba’s Qwen face similar distillation accusations, so the next test is whether the same order reaches them."
+    },
+    {
+      "tweetId": "2112378502205055259",
+      "role": "analysis",
+      "authorHandle": "hrkrshnn",
+      "url": "https://x.com/hrkrshnn/status/2112378502205055259",
+      "tweetedAt": "2026-10-20T03:00:55.000Z",
+      "bestBit": "DeepSeek founder Liang Wenfeng is the wealthiest frontier lab founder, if you don’t count @elonmusk",
+      "text": "DeepSeek is the biggest threat to US frontier labs. The DHS order should come as no surprise.\n\nPeople think DeepSeek just makes cheap models distilled from Claude and GPT. They’re missing the fact that DeepSeek is playing an entirely different game.\n\nDeepSeek founder Liang Wenfeng is the wealthiest frontier lab founder, if you don’t count @elonmusk. He’s wealthier than Dario and Sam, has majority control of the company, and can play a much longer game than the other labs.\n\nLook at the choices DeepSeek keeps making:\n\n1. It releases model weights under the MIT license. Other labs like Kimi and GLM release weights too but with commercial conditions. DeepSeek is willing to let anyone run its models and compete with their own API.\n\n2. It publishes unusually detailed research. Its original DeepSeek-R1 research helped every AI lab, including the western ones.\n\n3. They're ruthlessly focused on low cost inference. They’re clearly compute constrained and their architecture choices optimize for cost.\n\nThink about it: a founder who can afford to wait decades, who already built a true challenger, and who’s willing to put the models and research out in the open. Their biggest constraint has been chips. Huawei’s 950DT is coming. What happens when DeepSeek gets the chips?",
+      "quotedTweetText": "The Department of Homeland Security is requiring all civilian federal agencies to remove DeepSeek products and 'any third-party services developed using DeepSeek implementations,' and to stop buying them. https://t.co/b2J9QeuZ6b"
+    },
+    {
+      "tweetId": "2112280314227864042",
+      "role": "commentary",
+      "authorHandle": "erikvoorhees",
+      "url": "https://x.com/ErikVoorhees/status/2112280314227864042",
+      "tweetedAt": "2026-10-19T20:30:45.000Z",
+      "bestBit": "Access all DeepSeek models at https://t.co/d8KNmBToPv Private (zero data retention) on US servers",
+      "text": "Streisand Effect incoming \n\nAccess all DeepSeek models at https://t.co/d8KNmBToPv\n\nPrivate (zero data retention) on US servers",
+      "quotedTweetText": "The Department of Homeland Security is requiring all civilian federal agencies to remove DeepSeek products and 'any third-party services developed using DeepSeek implementations,' and to stop buying them. https://t.co/b2J9QeuZ6b"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "us-bans-third-party-ai-based-on-deepseek-from-federal-systems-03e32244",
+    "title": "US Bans Third Party AI Based on DeepSeek from Federal Systems",
+    "publishedAt": "2026-10-19T19:24:34.424Z",
+    "eventTimeApprox": "2026-10-19T14:55:41.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "cybersecurity",
+      "us-politics",
+      "geopolitics",
+      "business"
+    ],
+    "tweetCount": 62,
+    "authorCount": 45
+  }
+}

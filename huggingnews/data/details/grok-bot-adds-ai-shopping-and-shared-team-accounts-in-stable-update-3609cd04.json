@@ -1,0 +1,123 @@
+{
+  "slug": "grok-bot-adds-ai-shopping-and-shared-team-accounts-in-stable-update-3609cd04",
+  "title": "Grok Bot Adds AI Shopping and Shared Team Accounts in Stable Update",
+  "publishedAt": "2026-11-02T18:38:16.453Z",
+  "eventTimeApprox": "2026-10-28T09:20:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 30,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "summary": "The latest update to the Grok Bot assistant has moved to a stable release, introducing e-commerce tools that allow the AI to search for products by price and store via a carousel interface and complete checkouts and order tracking within the chat. Version 0.77.0 also adds \"Team Bots,\" which enables users to share account logins and secrets across an entire organization, along with new permissions settings for automated review rules.\n\nThese features expand the bot's existing capacity to handle payments and sign-ins through a secure \"Vault\" and its ability to place outbound phone calls to businesses. The updated terms of service for the assistant now include a dedicated section on phone calls, reflecting the rollout of these capabilities. To date, the platform has seen the creation of more than 8,600 individual bots.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115238537792815303",
+      "role": "source",
+      "authorHandle": "ericzakariasson",
+      "url": "https://x.com/ericzakariasson/status/2115238537792815303",
+      "tweetedAt": "2026-10-28T00:25:41.000Z",
+      "bestBit": "grok @bot 0.77.0 is now stable and rolling out!",
+      "text": "grok @bot 0.77.0 is now stable and rolling out!\n\n- permissions settings for your auto-review rules\n- pick which payment method bots use first in vault\n- bots can ask several questions on one card\n\nfull changelog: https://t.co/dyBGOXTxKP https://t.co/ottBxbgN4u"
+    },
+    {
+      "tweetId": "2117321882122985827",
+      "role": "support",
+      "authorHandle": "brianroemmele",
+      "url": "https://x.com/BrianRoemmele/status/2117321882122985827",
+      "tweetedAt": "2026-11-02T18:24:09.000Z",
+      "bestBit": "8,679 bots and counting at https://t.co/hqfm3LOZsl",
+      "text": "Grok Bot just got a big upgrade. @mattyp walks through it on the beach:\n\n🛒 Shopping cards: ask for \"a gooseneck kettle under $80\" and get a carousel with prices, stores and colors\n📦 Product pages with checkout, then order tracking right in the chat\n💳 Vault payments: cards, Shop Pay and X Money. It never saves your card number or code\n👥 Team Bots: shared logins and secrets, share with a team or a whole org, pin them in the Library\n💬 Bots ask for connector permission right in Slack\n📇 Contacts in the Vault, so it fills in your address and phone for you\n⚡ Faster X setup, multiple Page edits at once, cleaner Vault\n\nThe bot that does the work for you keeps getting better. 8,679 bots and counting at https://t.co/hqfm3LOZsl: https://t.co/0VXMlCYzyQ"
+    },
+    {
+      "tweetId": "2114365361068138990",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2114365361068138990",
+      "tweetedAt": "2026-10-25T14:35:59.000Z",
+      "bestBit": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!",
+      "text": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!",
+      "quotedTweetText": "Grok Bot 0.77 looks INSANE 🔥\n\n> Calls: your Bot can dial someone, sit on hold, press keys and get transferred while you watch a live transcript\n\n> Messages on Mac: a setup screen under Connect Apps, still switched off\n\n> Tailscale: Grok Bot can join your private tailnet once an admin approves it\n\n> Payments: a screen to connect payment accounts and pick a default, on top of yesterday’s Vault\n\n> Sharing: emails when someone shares a Bot with you, and invites need Premium or Ultra"
+    },
+    {
+      "tweetId": "2114414165704270261",
+      "role": "commentary",
+      "authorHandle": "brianroemmele",
+      "url": "https://x.com/BrianRoemmele/status/2114414165704270261",
+      "tweetedAt": "2026-10-25T17:49:55.000Z",
+      "bestBit": "But with version 0.77 we will have this integrated!",
+      "text": "This update to Grok Bot with integrated calling is spectacular!\n\nI have dozens of clients and myself that use this daily with an external MPC. But with version 0.77 we will have this integrated!\n\nGrok Bot get better just about daily!\n\nLook for a whole slew of Grok Bots I will release that will make calls.\n\nSome never seen before.\n\nStuff only Grok Bot can do.",
+      "quotedTweetText": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!"
+    },
+    {
+      "tweetId": "2115337775851418092",
+      "role": "analysis",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2115337775851418092",
+      "tweetedAt": "2026-10-28T07:00:01.000Z",
+      "bestBit": "Save your logins, payment cards, and contact details once. Grok Bot can fill them in whenever it needs to sign in or check out.",
+      "text": "Grok Bot just got its own Vault. Your passwords can stay private while your bot gets things done.\n\nSave your logins, payment cards, and contact details once. Grok Bot can fill them in whenever it needs to sign in or check out.\n\nNo more stopping halfway through a task because Bot needs you to type the same details AGAIN.\n\nGrok Bot doesn't get to read your actual passwords or full card numbers. Those stay hidden.\n\nA bot that can handle the boring forms without knowing your secrets? I like that.\n\n@Grok @Bot @spacexai / Writer: Annette, Designer: Janné",
+      "quotedTweetText": "Grok @Bot saves sensitive info in a vault"
+    },
+    {
+      "tweetId": "2115528972943679825",
+      "role": "commentary",
+      "authorHandle": "vijarkohli",
+      "url": "https://x.com/VijarKohli/status/2115528972943679825",
+      "tweetedAt": "2026-10-28T19:39:46.000Z",
+      "bestBit": "Grok Bot can schedule calls via the X Calendar now.",
+      "text": "@nic_carter I actually click 4 out of 5 those buttons almost daily. Calls is the only feature I don't use but would like to. Grok Bot can schedule calls via the X Calendar now."
+    },
+    {
+      "tweetId": "2116669084716961808",
+      "role": "support",
+      "authorHandle": "techdevnotes",
+      "url": "https://x.com/techdevnotes/status/2116669084716961808",
+      "tweetedAt": "2026-10-31T23:10:10.000Z",
+      "bestBit": "SpaceXSI has added new section Phone Calls to Grok Bot Terms",
+      "text": "SpaceXSI has added new section Phone Calls to Grok Bot Terms https://t.co/bhI0XnhAWP"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "grok-bot-adds-secure-vault-to-automate-payments-and-web-logins-ae006237",
+    "title": "Grok Bot Adds Secure Vault to Automate Payments and Web Logins",
+    "publishedAt": "2026-10-28T10:55:44.178Z",
+    "eventTimeApprox": "2026-10-28T02:32:56.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 19,
+    "authorCount": 12
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "nectar-launches-ai-growth-stack-to-map-95percent-of-untagged-brand-menti-437539d1",
+  "title": "Nectar Launches AI Growth Stack to Map 95% of Untagged Brand Mentions",
+  "publishedAt": "2026-10-22T18:38:25.324Z",
+  "eventTimeApprox": "2026-10-22T15:39:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113286605301756085/HVPm9TXaIAALLXR-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113286605301756085/HVPm9TXaIAALLXR-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "chetaslua",
+      "tweetUrl": "https://x.com/chetaslua/status/2113286605301756085"
+    }
+  },
+  "summary": "Nectar has developed a platform that replaces more than five legacy marketing tools by automating creator outreach and creative research. The system identifies brand mentions across Instagram, TikTok, YouTube, X, and Reddit by analyzing video frames, voiceovers, and on-screen text, converting them into more than 300 attributes. This addresses a visibility gap that Nectar estimates accounts for 95% of all brand conversations that occur in untagged posts, which traditional social tracking tools often miss.\n\nThe company is backed by Anthropic's Anthology Fund and recently integrated its tools into Anthropic's connector directory via a Model Context Protocol (MCP) for the Claude AI assistant. Nectar has attributed $150M from social media activity to date and enables users to perform live data analysis, such as ranking over 1,200 posts by saves to inform social leads on performance.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113284206558421190",
+      "role": "source",
+      "authorHandle": "nectarsocialai",
+      "url": "https://x.com/nectarsocialai/status/2113284206558421190",
+      "tweetedAt": "2026-10-22T14:59:52.000Z",
+      "bestBit": "One platform replacing 5+ legacy tools. Agents that work every message, creator outreach and creative research about your brand, and tie it all back to revenue",
+      "text": "Engineers stopped writing every line of code and started directing agents.\n\nGrowth and marketing teams are in that moment now.\n\nMeet the next chapter of Nectar: the agentic growth stack. One platform replacing 5+ legacy tools. Agents that work every message, creator outreach and creative research about your brand, and tie it all back to revenue 🍊"
+    },
+    {
+      "tweetId": "2113286605301756085",
+      "role": "support",
+      "authorHandle": "chetaslua",
+      "url": "https://x.com/chetaslua/status/2113286605301756085",
+      "tweetedAt": "2026-10-22T15:09:24.000Z",
+      "bestBit": "backed by Anthropic's Anthology Fund, $150M attributed from social so far",
+      "text": "🚨 Nectar just shipped an MCP and it's already in Anthropic's connector directory\n\n> claude reads your IG / TikTok / YouTube / X data live\n> \"top IG posts last month + why\" → used 4 tools, ranked 1,204 posts by saves\n> then hands it to your social lead\n\nbacked by Anthropic's Anthology Fund, $150M attributed from social so far 🧐",
+      "quotedTweetText": "Engineers stopped writing every line of code and started directing agents.\n\nGrowth and marketing teams are in that moment now.\n\nMeet the next chapter of Nectar: the agentic growth stack. One platform replacing 5+ legacy tools. Agents that work every message, creator outreach and creative research about your brand, and tie it all back to revenue 🍊"
+    },
+    {
+      "tweetId": "2113300763225256361",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2113300763225256361",
+      "tweetedAt": "2026-10-22T16:05:39.000Z",
+      "bestBit": "Nectar estimates 95% of brand conversations happen outside tagged posts, the only content most social tools track",
+      "text": "Video models can now read a brand mention that was never typed.\n\n@nectarsocialai runs that across IG, TikTok, YouTube, X and Reddit. It pulls the frames, the voiceover and the words on screen from each post and turns them into 300+ attributes.\n\ni.e. here AI agents watch everything people say about the brand across every platforms.\n\nIts solving for the visibility gap: Nectar estimates 95% of brand conversations happen outside tagged posts, the only content most social tools track.\n\nTo find them, it analyzes video frames, voiceovers and on-screen text across Instagram, TikTok, YouTube, X and Reddit.",
+      "quotedTweetText": "Engineers stopped writing every line of code and started directing agents.\n\nGrowth and marketing teams are in that moment now.\n\nMeet the next chapter of Nectar: the agentic growth stack. One platform replacing 5+ legacy tools. Agents that work every message, creator outreach and creative research about your brand, and tie it all back to revenue 🍊"
+    }
+  ],
+  "isSuperseded": false
+}

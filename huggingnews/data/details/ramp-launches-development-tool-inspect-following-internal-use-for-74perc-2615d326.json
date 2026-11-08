@@ -1,0 +1,78 @@
+{
+  "slug": "ramp-launches-development-tool-inspect-following-internal-use-for-74perc-2615d326",
+  "title": "Ramp Launches Development Tool Inspect Following Internal Use for 74% of Code Merges",
+  "publishedAt": "2026-10-27T15:38:31.107Z",
+  "eventTimeApprox": "2026-10-27T15:12:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "software",
+      "name": "Software"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:RAMP",
+      "kind": "private",
+      "role": "subject",
+      "name": "Ramp",
+      "hubKey": "ramp"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115099332571431305/HVpXoD9WMAAhSOk-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115099332571431305/HVpXoD9WMAAhSOk-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "eglyman",
+      "tweetUrl": "https://x.com/eglyman/status/2115099332571431305"
+    }
+  },
+  "summary": "Ramp has converted its proprietary software building tool into a standalone product available for lauch on Oct. 27. The tool, called Inspect, was developed internally to accelerate the company's own coding workflows and passed through a design partner phase before being opened to other companies for public sign-up.\n\nThe software now serves as a primary engine for Ramp's internal production, with 74% of the code the company currently merges originating from Inspect, compared to nearly zero in November of last year. Every product Ramp shipped throughout the current year was built using the software.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115099155777421763",
+      "role": "source",
+      "authorHandle": "_dylanga",
+      "url": "https://x.com/_dylanga/status/2115099155777421763",
+      "tweetedAt": "2026-10-27T15:11:50.000Z",
+      "bestBit": "day 2,387: Inspect is created inside Ramp",
+      "text": "surprise. we're launching Inspect to the world today.\n\nday 2,387: Inspect is created inside Ramp\nday 2,678: we start building Inspect as its own product\nday 2,710: our first design partner\nday 2,780: Inspect goes public\n\nthis has been an absolute pleasure to work on and hope you enjoy it as much as we do\n\nsign up now: https://t.co/b5la3l96WC",
+      "quotedTweetText": "https://t.co/HxYe8oNoeO"
+    },
+    {
+      "tweetId": "2115099332571431305",
+      "role": "support",
+      "authorHandle": "eglyman",
+      "url": "https://x.com/eglyman/status/2115099332571431305",
+      "tweetedAt": "2026-10-27T15:12:32.000Z",
+      "bestBit": "74% of the code we merge now comes from it. Last November it was close to zero.",
+      "text": "Every product Ramp shipped this year was built with Inspect.\n\n74% of the code we merge now comes from it. Last November it was close to zero.\n\nNow your team can use it, it’s been a joy onboarding new companies to it. https://t.co/WqLDfFbmVZ https://t.co/8Xb5wOUezS",
+      "quotedTweetText": "https://t.co/HxYe8oNoeO"
+    }
+  ],
+  "isSuperseded": false
+}

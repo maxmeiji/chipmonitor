@@ -1,0 +1,459 @@
+{
+  "dayGroups": [
+    {
+      "dayKey": "2026-09-14",
+      "stories": [
+        {
+          "slug": "update-cybersecurity-stocks-gain-10percent-to-15percent-as-ai-slowdown-c-29d99f56",
+          "title": "UPDATE: Cybersecurity Stocks Gain 10% to 15% as AI Slowdown Calls Hit Chipmakers",
+          "publishedAt": "2026-09-14T19:01:28.905Z",
+          "eventTimeApprox": "2026-09-14T11:20:29.000Z",
+          "isFreshStory": false,
+          "tweetCount": 282,
+          "authorCount": 143,
+          "routingTopicKeys": [
+            "ai",
+            "us-markets",
+            "tech",
+            "global-markets"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-sector-impact",
+              "name": "AI Industry"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:ANTH",
+              "kind": "private",
+              "role": "subject",
+              "name": "Anthropic",
+              "hubKey": "anthropic"
+            },
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            },
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2098794269549137934/HSBqPtMbgAEm-oX-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2098794269549137934/HSBqPtMbgAEm-oX-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "bulltheoryio",
+              "tweetUrl": "https://x.com/BullTheoryio/status/2098794269549137934"
+            }
+          }
+        },
+        {
+          "slug": "update-broadcom-keeps-230b-ai-chip-revenue-target-for-2028-despite-slowd-6e228b4f",
+          "title": "UPDATE: Broadcom Keeps $230B AI Chip Revenue Target for 2028 Despite Slowdown Calls",
+          "publishedAt": "2026-09-15T03:11:52.192Z",
+          "eventTimeApprox": "2026-09-14T23:23:22.000Z",
+          "isFreshStory": false,
+          "tweetCount": 284,
+          "authorCount": 145,
+          "routingTopicKeys": [
+            "ai",
+            "earnings",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "stocks",
+              "name": "Stocks"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2098794269549137934/HSBqPtMbgAEm-oX-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2098794269549137934/HSBqPtMbgAEm-oX-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "bulltheoryio",
+              "tweetUrl": "https://x.com/BullTheoryio/status/2098794269549137934"
+            }
+          }
+        },
+        {
+          "slug": "update-microsoft-draft-code-puts-human-control-above-ai-capability-ec0c8d94",
+          "title": "UPDATE: Microsoft Draft Code Puts Human Control Above AI Capability",
+          "publishedAt": "2026-09-14T15:20:35.957Z",
+          "eventTimeApprox": "2026-09-14T13:15:36.000Z",
+          "isFreshStory": false,
+          "tweetCount": 258,
+          "authorCount": 140,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "MSFT",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Microsoft Corp",
+              "hubKey": "msft"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2098794269549137934/HSBqPtMbgAEm-oX-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2098794269549137934/HSBqPtMbgAEm-oX-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "bulltheoryio",
+              "tweetUrl": "https://x.com/BullTheoryio/status/2098794269549137934"
+            }
+          }
+        },
+        {
+          "slug": "elon-musk-plans-2027-launch-of-nvidia-vr-nlv72-ai-computers-in-space-488883df",
+          "title": "Elon Musk Plans 2027 Launch Of Nvidia VR NLV72 AI Computers In Space",
+          "publishedAt": "2026-09-14T05:59:08.404Z",
+          "eventTimeApprox": "2026-09-13T21:53:00.000Z",
+          "isFreshStory": false,
+          "tweetCount": 11,
+          "authorCount": 10,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            },
+            {
+              "slug": "science",
+              "name": "Science"
+            },
+            {
+              "slug": "space",
+              "name": "Space"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "SPCX",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Space Exploration Technologies Corp. Class A Common Stock",
+              "hubKey": "spcx"
+            },
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "related",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayKey": "2026-09-10",
+      "stories": [
+        {
+          "slug": "openai-opens-gpt-live-1-voice-api-at-005-per-minute-to-cut-latency-to-07-d59c97fd",
+          "title": "OpenAI Opens GPT-Live-1 Voice API at $0.05 Per Minute to Cut Latency to 0.798 Seconds",
+          "publishedAt": "2026-09-10T18:55:19.946Z",
+          "eventTimeApprox": "2026-09-10T17:20:21.000Z",
+          "isFreshStory": false,
+          "tweetCount": 15,
+          "authorCount": 7,
+          "routingTopicKeys": [
+            "ai",
+            "tech"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            },
+            {
+              "slug": "ai-products",
+              "name": "AI Products"
+            },
+            {
+              "slug": "ai-generative-media",
+              "name": "AI Media"
+            },
+            {
+              "slug": "ai-agents-coding",
+              "name": "AI Agents"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2098099324509151532/HR3yUB2acAA65LB-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2098099324509151532/HR3yUB2acAA65LB-small.jpg",
+            "mediaType": "video",
+            "videoUrl": "https://video.twimg.com/amplify_video/2098099282788466688/vid/avc1/1662x1080/I6GZkWIpJ5zOH2kb.mp4?tag=16",
+            "credit": {
+              "handle": "openaidevs",
+              "tweetUrl": "https://x.com/OpenAIDevs/status/2098099324509151532"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "dayKey": "2026-09-04",
+      "stories": [
+        {
+          "slug": "nvidia-agrees-to-buy-hugging-face-for-129b-and-keep-ai-platform-open-0775d3f2",
+          "title": "Nvidia Agrees to Buy Hugging Face for $12.9B and Keep AI Platform Open",
+          "publishedAt": "2026-09-05T02:45:04.703Z",
+          "eventTimeApprox": "2026-09-04T23:24:53.000Z",
+          "isFreshStory": false,
+          "tweetCount": 137,
+          "authorCount": 83,
+          "routingTopicKeys": [
+            "ai",
+            "business",
+            "tech",
+            "startups"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "mergers-acquisitions",
+              "name": "Mergers & Acquisitions"
+            },
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-open-models",
+              "name": "AI Open Source"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-inference-platforms",
+              "name": "AI Inference"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "kind": "equity",
+              "role": "subject",
+              "name": "Nvidia Corp",
+              "hubKey": "nvda"
+            },
+            {
+              "ticker": "PVT:HGFC",
+              "kind": "private",
+              "role": "subject",
+              "name": "Hugging Face",
+              "hubKey": "hugging-face"
+            }
+          ],
+          "image": {
+            "url": "https://static.marketbrief.now/story-media/2095482998674112733/HRSmdnWbgAA4q_X-large.jpg",
+            "thumbnailUrl": "https://static.marketbrief.now/story-media/2095482998674112733/HRSmdnWbgAA4q_X-small.jpg",
+            "mediaType": "photo",
+            "credit": {
+              "handle": "clementdelangue",
+              "tweetUrl": "https://x.com/ClementDelangue/status/2095482998674112733"
+            }
+          }
+        },
+        {
+          "slug": "update-openai-says-astra-alignment-gains-predated-hugging-face-incident-d053b5f6",
+          "title": "UPDATE: OpenAI Says Astra Alignment Gains Predated Hugging Face Incident",
+          "publishedAt": "2026-09-04T18:54:36.333Z",
+          "eventTimeApprox": "2026-09-04T16:22:07.000Z",
+          "isFreshStory": false,
+          "tweetCount": 261,
+          "authorCount": 117,
+          "routingTopicKeys": [
+            "ai"
+          ],
+          "primaryRoutingTopic": "ai",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-modeling",
+              "name": "AI Models"
+            },
+            {
+              "slug": "ai-research-evals",
+              "name": "AI Research"
+            },
+            {
+              "slug": "ai-governance",
+              "name": "AI Regulation"
+            },
+            {
+              "slug": "ai-legal-safety",
+              "name": "AI Legal"
+            },
+            {
+              "slug": "ai-model-releases",
+              "name": "AI Releases"
+            }
+          ],
+          "tickers": [
+            {
+              "ticker": "PVT:OPAI",
+              "kind": "private",
+              "role": "subject",
+              "name": "OpenAI",
+              "hubKey": "openai"
+            }
+          ]
+        },
+        {
+          "slug": "coatue-negotiates-first-multibillion-dollar-vc-jv-with-matx-for-chip-cap-100b4d0b",
+          "title": "Coatue Negotiates First Multibillion Dollar VC JV With MatX for Chip Capacity",
+          "publishedAt": "2026-09-04T18:54:36.333Z",
+          "eventTimeApprox": "2026-09-04T17:48:40.000Z",
+          "isFreshStory": false,
+          "tweetCount": 4,
+          "authorCount": 3,
+          "routingTopicKeys": [
+            "startups",
+            "ai",
+            "tech",
+            "business"
+          ],
+          "primaryRoutingTopic": "startups",
+          "topicTags": [
+            {
+              "slug": "ai",
+              "name": "AI"
+            },
+            {
+              "slug": "ai-infrastructure",
+              "name": "AI Infra"
+            },
+            {
+              "slug": "ai-compute-chips",
+              "name": "AI Chips"
+            },
+            {
+              "slug": "ai-fundraising",
+              "name": "AI Funding"
+            },
+            {
+              "slug": "business",
+              "name": "Business"
+            },
+            {
+              "slug": "vc",
+              "name": "VC"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasMore": true,
+  "nextBeforeDayKey": "2026-09-04",
+  "lastUpdatedAt": "2026-11-07T17:08:38.508Z"
+}

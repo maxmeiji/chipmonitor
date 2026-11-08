@@ -1,0 +1,59 @@
+{
+  "slug": "zyphra-debuts-zha-method-to-reach-subquadratic-ai-attention-speeds-eac3006c",
+  "title": "Zyphra Debuts ZHA Method to Reach Subquadratic AI Attention Speeds",
+  "publishedAt": "2026-11-02T22:38:04.519Z",
+  "eventTimeApprox": "2026-11-02T22:23:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117382181827846445/HWJzlezWAAEBXSI-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117382181827846445/HWJzlezWAAEBXSI-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "teortaxestex",
+      "tweetUrl": "https://x.com/teortaxesTex/status/2117382181827846445"
+    }
+  },
+  "summary": "The AI lab Zyphra has released a new computation method for treating long sequences of tokens known as Zyphra Hierarchical Attention (ZHA). The system utilizes a learned tree of compressed summaries to enable subquadratic attention, a technique that reduces the computational overhead required for models to process massive context windows.\n\nZyphra projects that the ZHA method will be 35x faster than dense attention and 5x faster than Multi-head Sparse Attention (MSA) when processing 10M tokens. The company expects the performance gap to widen at 1B tokens, where it projects speedups of roughly 400x over dense attention and 55x over MSA.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117377426242367669",
+      "role": "source",
+      "authorHandle": "zyphraai",
+      "url": "https://x.com/ZyphraAI/status/2117377426242367669",
+      "tweetedAt": "2026-11-02T22:04:52.000Z",
+      "bestBit": "ZHA searches a learned tree of compressed summaries, with projected speedups of 35× over dense attention and 5× over MSA at 10M tokens, increasing to ~400× and ~55× at 1B.",
+      "text": "Today we’re introducing Zyphra Hierarchical Attention (ZHA), a path to true subquadratic attention.\n\nZHA searches a learned tree of compressed summaries, with projected speedups of 35× over dense attention and 5× over MSA at 10M tokens, increasing to ~400× and ~55× at 1B. 🧵 https://t.co/531AyZCwwB"
+    },
+    {
+      "tweetId": "2117382181827846445",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2117382181827846445",
+      "tweetedAt": "2026-11-02T22:23:45.000Z",
+      "bestBit": "True subquadratic attention via hierarchical trees... VAST if true, blows secret \"subquadratic\" labs outta the water.",
+      "text": "Zyphra is an awesome lab.\nTrue subquadratic attention via hierarchical trees. Makes sense, obviously, we've already been going in this direction, but – principled, strong. I hope to see a lot of discourse about this. VAST if true, blows secret \"subquadratic\" labs outta the water. https://t.co/1z4d4KK1Kd",
+      "quotedTweetText": "Today we’re introducing Zyphra Hierarchical Attention (ZHA), a path to true subquadratic attention.\n\nZHA searches a learned tree of compressed summaries, with projected speedups of 35× over dense attention and 5× over MSA at 10M tokens, increasing to ~400× and ~55× at 1B. 🧵 https://t.co/531AyZCwwB"
+    }
+  ],
+  "isSuperseded": false
+}

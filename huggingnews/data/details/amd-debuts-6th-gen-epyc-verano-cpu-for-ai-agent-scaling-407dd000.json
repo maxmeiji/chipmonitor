@@ -1,0 +1,117 @@
+{
+  "slug": "amd-debuts-6th-gen-epyc-verano-cpu-for-ai-agent-scaling-407dd000",
+  "title": "AMD Debuts 6th Gen EPYC Verano CPU for AI Agent Scaling",
+  "publishedAt": "2026-10-13T01:37:41.614Z",
+  "eventTimeApprox": "2026-10-12T15:16:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMD",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Advanced Micro Devices",
+      "hubKey": "amd"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109791023404921186/HUd7vjVacAAgOxX-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109791023404921186/HUd7vjVacAAgOxX-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "firstadopter",
+      "tweetUrl": "https://x.com/firstadopter/status/2109791023404921186"
+    }
+  },
+  "summary": "The new 'Verano' data center processor featuring an LPDDR memory interface will be available in 2027 to support large-scale agentic AI deployments, AMD CEO Lisa Su announced at the OCP 2026 Global Summit. This 6th Gen EPYC chip is designed to address memory bandwidth constraints during AI training and inference. Su stated that the diversification of AI agents requires a variety of compute types, positioning AMD's CPU portfolio as the foundation for these workloads.\n\nThe processor complements the Helion agentic AI rack, an open-specification design arriving in November 2026. The Helion platform allows for configurations without GPUs to handle CPU-heavy agent tasks like code execution and tool calls, supporting up to 32,768 cores per rack via 128 EPYC \"Venice\" chips. Partners including Dell, HPE, Supermicro, and Cisco are supporting the rack, which includes a token router to direct requests to the most cost-effective AI models.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109630750207197550",
+      "role": "source",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2109630750207197550",
+      "tweetedAt": "2026-10-12T13:02:20.000Z",
+      "bestBit": "built-in router sends agents' requests across frontier and open-source models",
+      "text": "AMD $AMD JUST UNVEILED HELION, A SERVER RACK BUILT FOR AI AGENTS\n\nIt's an open design that AMD plans to give to the Open Compute Project,\n\n- CPU-only version with up to 32,768 cores for hyperscalers\n- All-in-one version with EPYC CPUs and Instinct MI350P GPUs for businesses\n- Comes in liquid-cooled and air-cooled versions\n- A built-in router sends agents' requests across frontier and open-source models\n- Available in November 2026"
+    },
+    {
+      "tweetId": "2109815806146281857",
+      "role": "support",
+      "authorHandle": "photoncap",
+      "url": "https://x.com/PhotonCap/status/2109815806146281857",
+      "tweetedAt": "2026-10-13T01:17:41.000Z",
+      "bestBit": "introduced 6th Gen EPYC 'Verano' data center CPU with LPDDR memory interface, available in 2027",
+      "text": "- $AMD CEO Lisa Su presented at OCP 2026 Global Summit on open infrastructure for agentic AI deployment at scale.\n- $AMD announced Helion agentic AI rack based on Open Compute Project spec, powered by $AMD compute.\n- $AMD introduced 6th Gen EPYC 'Verano' data center CPU with LPDDR memory interface, available in 2027.\n\n> $AMD is positioning its data center CPU portfolio and open infrastructure standards as the foundation for enterprise and hyperscale AI workloads, with Verano's LPDDR integration potentially addressing memory bandwidth constraints in AI training and inference.",
+      "quotedTweetText": "- $AMD unveiled Helion, a rack design for agentic AI.\n\n- CPU-only configurations support up to 32,768 cores using 6th Gen EPYC processors.\n\n- Enterprise all-in-one configurations combine EPYC CPUs with MI350P GPUs.\n\n- Air- and liquid-cooled configurations are supported, with partner systems planned for November 2026.\n\n> Agentic AI needs CPU infrastructure for code execution and task completion alongside model inference, potentially expanding demand for $AMD EPYC."
+    },
+    {
+      "tweetId": "2109791023404921186",
+      "role": "signal",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2109791023404921186",
+      "tweetedAt": "2026-10-12T23:39:12.000Z",
+      "bestBit": "AMD CEO Lisa Su says different agents need different types of compute",
+      "text": "AMD CEO Lisa Su says different agents need different types of compute https://t.co/20WE47Iyri"
+    },
+    {
+      "tweetId": "2109703506861117832",
+      "role": "commentary",
+      "authorHandle": "benbajarin",
+      "url": "https://x.com/BenBajarin/status/2109703506861117832",
+      "tweetedAt": "2026-10-12T17:51:27.000Z",
+      "bestBit": "x86 agentic CPU racks enter the equation",
+      "text": "x86 agentic CPU racks enter the equation.  \n\n$AMD Helion. \n\nhttps://t.co/G7eVHw3CMR"
+    },
+    {
+      "tweetId": "2109681539944497365",
+      "role": "commentary",
+      "authorHandle": "singularityres",
+      "url": "https://x.com/SingularityRes/status/2109681539944497365",
+      "tweetedAt": "2026-10-12T16:24:09.000Z",
+      "bestBit": "CPU-only version holds 128 EPYC 'Venice' chips, up to 32,768 cores per rack",
+      "text": "AMD just launched an AI rack that can ship with zero GPUs in it.\n\nThat's the tell. Helion, unveiled at OCP today:\n• CPU-only version holds 128 EPYC \"Venice\" chips, up to 32,768 cores per rack (per Tom's Hardware)\n• AMD says it's built for \"agent execution,\" wired to separate inference hardware\n• Dell, HPE, Supermicro, Hon Hai, Wiwynn, QCT, Lenovo and Cisco all signed on as partners\n• AMD says configs are planned for November\n\nWhy would anyone want that? Because agents eat CPU. Tool calls, running code, spinning up sandboxes. That's mostly CPU work, not GPU work.\n\nYou can already see it in the supply chain. TrendForce has server CPU lead times at 25-30 weeks vs 16-20 in a normal market. Intel's CFO said the CPU-to-GPU ratio already went from 1:8 to 1:4, and could get to 1:1 as inference and agents grow.\n\nQuick math: 1:8 to 1:1 is 8x the CPUs for the same GPU fleet. Most people still model CPUs as a rounding error in AI capex.\n\nLast week I posted that OpenAI's in-house chip nodes run on AMD Turin hosts, not Nvidia's Vera. Now AMD is selling racks with no accelerator at all.\n\nDon't stop at AMD though. More CPU sockets means more server DRAM to fill, and TrendForce says DRAM \"stays very tight.\" And somebody has to build these racks. Wiwynn and Supermicro are on the list.\n\n$AMD $INTC $MU $SMCI https://t.co/ev7zrUlFfO",
+      "quotedTweetText": "OPENAI'S JALAPEÑO ASIC RACKS RUN ON AMD EPYC TURIN, NOT NVIDIA VERA\n\n- OpenAI's in-house Jalapeño chips are paired with AMD EPYC \"Turin\" host CPUs\n- Each node carries 1.5 TB of memory\n- OpenAI hardware head Richard Ho said Vera is \"still a bit behind in maturity\" and the pick was about cutting risk and speeding development\n- He also noted Turin sits in a socket while Vera is board-mounted, so swaps are easier\n\nEveryone frames custom ASICs as an Nvidia vs. Broadcom fight. The quiet part is the host CPU. Every ASIC rack still needs one, and the biggest lab just picked x86 over Nvidia's own CPU.\n\nAlso 1.5 TB per node is a lot of DRAM riding along with every ASIC deployment. Memory wins either way.\n\nHo left the door open to Vera or Arm later, so this isn't forever. But for now AMD gets paid on OpenAI's custom silicon too.\n\n$AMD $NVDA $MU $ARM"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "amd-unveils-helion-ai-agent-rack-with-32768-cores-7d36d876",
+    "title": "AMD Unveils Helion AI Agent Rack With 32,768 Cores",
+    "publishedAt": "2026-10-12T13:27:30.050Z",
+    "eventTimeApprox": "2026-10-12T13:04:36.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 10,
+    "authorCount": 10
+  }
+}

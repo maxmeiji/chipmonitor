@@ -1,0 +1,183 @@
+{
+  "slug": "nasdaq-rebounds-11percent-on-chip-rally-to-end-fourth-straight-losing-we-4d36be8f",
+  "title": "Nasdaq Rebounds 1.1% on Chip Rally to End Fourth Straight Losing Week",
+  "publishedAt": "2026-11-07T05:53:03.014Z",
+  "eventTimeApprox": "2026-11-05T15:30:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 1185,
+  "authorCount": 353,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-elections",
+      "name": "US Elections"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMD",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Advanced Micro Devices",
+      "hubKey": "amd"
+    },
+    {
+      "ticker": "LRCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Lam Research Corp",
+      "hubKey": "lrcx"
+    },
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    },
+    {
+      "ticker": "MU",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Micron Technology, Inc.",
+      "hubKey": "mu"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The Nasdaq Composite rose 1.09% on Friday as dip buyers stepped into semiconductor stocks, though the index still ended with a fourth straight weekly loss and the S&P 500 posted a 2.7% weekly drop, its worst since April 2025. The Philadelphia Semiconductor Index climbed 4.21% on the day, led by AMD jumping 11% to $449.04, Lam Research gaining 8%, Intel rising 7.7%, Micron advancing 5.1% to $690 and Nvidia adding 2.8% to $186.64. For the session, the S&P 500 edged up 0.31%, while the Dow Jones Industrial Average fell 237 points, or 0.46%.\n\nFriday's gains followed a stronger than expected October payrolls report showing the US added 165,000 jobs versus 65,000 expected and unemployment fell to 4.1%, which pushed the 10 year Treasury yield to 4.87% as traders priced a 77% chance of a December Fed rate hike. The bounce came a day after a post-midterm rout sent the Nasdaq Composite into correction territory and drove the Philadelphia Semiconductor Index down 12.25% on fears of tighter AI regulation and data center construction pauses.\n\nVoters approved restrictions or moratoriums in nearly all of the more than 40 local data center ballot measures on Tuesday, while Democrats who campaigned on pausing new projects won governorships in key buildout states including Texas, Georgia and Ohio. Goldman Sachs warned that short-term state and local moratoriums could affect 45% of planned US data center capacity, though Texas Governor-elect Gina Hinojosa said her proposed pause would apply to new permits rather than projects already under construction. By Wednesday morning, senior OpenAI leaders were discussing whether to reset 2027 data center capacity expectations, the Wall Street Journal reported, while Sen. Bernie Sanders reiterated calls for a national AI data center moratorium and a ban on superintelligence.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118811613352337911",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2118811613352337911",
+      "tweetedAt": "2026-11-06T21:03:48.000Z",
+      "bestBit": "The tech-heavy Nasdaq bounced 1.09%. The S&P 500 rose 0.3%, while the Dow Jones Industrial Average lost 237 points, or 0.5%.",
+      "text": "The Nasdaq Composite rebounded on Friday as some investors bought the dip in chip stocks following a punishing sell-off that sent the index into correction territory.\n\nThe tech-heavy Nasdaq bounced 1.09%. The S&P 500 rose 0.3%, while the Dow Jones Industrial Average lost 237 points, or 0.5%.\nhttps://t.co/fV6laXRZUY"
+    },
+    {
+      "tweetId": "2118876771307192410",
+      "role": "support",
+      "authorHandle": "kalshi_finance",
+      "url": "https://x.com/Kalshi_Finance/status/2118876771307192410",
+      "tweetedAt": "2026-11-07T01:22:43.000Z",
+      "bestBit": "The Philly semiconductor index rebounded 4.21%. $AMD surged 11% to $449.04, $INTC rose 7.7%, and $MU gained 5.1% to $690.",
+      "text": "TODAY WAS ABSOLUTELY INSANE IN THE STOCK MARKET.\n\nHere's everything you need to know:\n\n1. AI and tech stocks bounced after Thursday's rout. The Nasdaq jumped 1.09%, but Wall Street still booked a 4th straight weekly loss, with the S&P 500 down about 2.7% for the week.\n\n2. The Philly semiconductor index rebounded 4.21%. $AMD surged 11% to $449.04, $INTC rose 7.7%, and $MU gained 5.1% to $690.\n\n3. $NVDA rose 2.8% to $186.64 after Thursday's slide. Levered chip fund $SOXL jumped about 12.5%.\n\n4. October payrolls crushed estimates with 165,000 jobs added vs about 65,000 expected, and unemployment fell to 4.1%. Traders priced roughly a 77% chance of a December Fed hike.\n\n5. $ABNB jumped about 11% on an earnings beat and buyback news. $FROG soared about 35% after raising guidance, and $LRCX climbed about 8% on a $25B buyback.\n\n6. $NET rose about 10% after strong guidance. $TSLA gained about 4.2% as AI linked names recovered.\n\n7. Oil edged higher as markets weighed Middle East supply risks, with WTI up 0.34% to $90.83 and Brent near $98.32. Both still posted steep weekly drops of about 13% and 16%.\n\n8. The 10-year yield climbed to about 4.87% after the hot jobs data. Gold slipped about 1%, and Bitcoin hovered near $76,000.\n\n9. Markets kept digesting the midterm results and what they could mean for AI regulation and data center buildouts, even as bargain hunters stepped back into chips.\n\n10. The S&P 500 rose 0.31%, the Dow fell 0.46%, and the Nasdaq jumped 1.09%. \n\nAnd that's just ONE trading day.\n\nAre you ready for next week?"
+    },
+    {
+      "tweetId": "2117797692755554686",
+      "role": "commentary",
+      "authorHandle": "ljkawa",
+      "url": "https://x.com/LJKawa/status/2117797692755554686",
+      "tweetedAt": "2026-11-04T01:54:51.000Z",
+      "bestBit": "“Restrict” data centers ahead in 10/10 ballot measures so far",
+      "text": "Markets are the economy and also the electorate:\n\nEveryone's voting against AI capex.",
+      "quotedTweetText": "“Restrict” data centers ahead in 10/10 ballot measures so far\n\nTX governor Abbott could lose as well, which would be another big blow https://t.co/Ay8GW4PHZR"
+    },
+    {
+      "tweetId": "2117945676856205683",
+      "role": "commentary",
+      "authorHandle": "politicalmath",
+      "url": "https://x.com/politicalmath/status/2117945676856205683",
+      "tweetedAt": "2026-11-04T11:42:53.000Z",
+      "bestBit": "this is also the first big election where AI policy went to a vote and AI lost big",
+      "text": "The big headline is the GOP collapse but this is also the first big election where AI policy went to a vote and AI lost big",
+      "quotedTweetText": "So the 41 datacenter moratoria across the country are, I predict, going to go 41-0. In nearly every case it's about 67-80% opposing datacenters. True in California, Ohio, everywhere. Read all the results here:\nhttps://t.co/JujgCAXAoM"
+    },
+    {
+      "tweetId": "2118343340873973833",
+      "role": "commentary",
+      "authorHandle": "katiemiller",
+      "url": "https://x.com/KatieMiller/status/2118343340873973833",
+      "tweetedAt": "2026-11-05T14:03:04.000Z",
+      "bestBit": "By Wednesday morning, senior leaders at OpenAI were discussing whether the results meant the company would have to reset expectations regarding its data center capacity next year, according to a person familiar with the conversation.",
+      "text": "This has less to do with politics and more to do with their cash crunch.",
+      "quotedTweetText": "WSJ: By Wednesday morning, senior leaders at OpenAI were discussing whether the results meant the company would have to reset expectations regarding its data center capacity next year, according to a person familiar with the conversation."
+    },
+    {
+      "tweetId": "2117961972532850901",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2117961972532850901",
+      "tweetedAt": "2026-11-04T12:47:38.000Z",
+      "bestBit": "All she wants is to pause new development until communities have more control and developers cover more of their infrastructure costs which is very different from permanently banning new projects.",
+      "text": "The AI trade is apparently dead again after last night’s blue tsunami but I think this is another example of the narrative following recent weakness in stocks rather than anything actually changing about the demand for compute. \n\nYes a democrat winning Texas governorship given that about a quarter of planned U.S. data center capacity sits there but Hinojosa isn't saying AI infrastructure can no longer be built in Texas.\n\nAll she wants is to pause new development until communities have more control and developers cover more of their infrastructure costs which is very different from permanently banning new projects. \n\nWhat actually changes is how quickly and cheaply new capacity can come online (not demand for compute) which could actually make already-powered sites more valuable while increasing importance of on-site power generation, electrical distribution and efficiency as developers look for ways to keep building."
+    },
+    {
+      "tweetId": "2118111287112507770",
+      "role": "analysis",
+      "authorHandle": "shanumathew93",
+      "url": "https://x.com/ShanuMathew93/status/2118111287112507770",
+      "tweetedAt": "2026-11-04T22:40:58.000Z",
+      "bestBit": "She said the proposed pause on data centers would apply to new permits while lawmakers work on protections, rather than stopping projects already under construction.",
+      "text": "Told you guys. Texas has 20GW+ under construction at least. Plenty to get through as is that likely is far along on permitting, regulatory, etc. Never say never, but have to assume even at a % of that, that's a lot of new supply.\n\nMore broadly, the US has 80GW+ of construction already. That is plenty to get through and digest that will have a hard enough time getting completed and energized on time w/o any moratorium pressure.\n\nThe 2028+ always was a bit speculative until we get through this inventory and we'll test whether the 'limited by compute' hypothesis is real.",
+      "quotedTweetText": "Gina Hinojosa discusses data centers\n\nShe said the proposed pause on data centers would apply to new permits while lawmakers work on protections, rather than stopping projects already under construction.\n\nhttps://t.co/v12Y0i8fw5"
+    },
+    {
+      "tweetId": "2118425239893819403",
+      "role": "analysis",
+      "authorHandle": "polymarket",
+      "url": "https://x.com/Polymarket/status/2118425239893819403",
+      "tweetedAt": "2026-11-05T19:28:30.000Z",
+      "bestBit": "Bernie Sanders reiterates calls for a nationwide ban on new AI data centers, a pause on advanced AI development, & a ban on superintelligence.",
+      "text": "JUST IN: Bernie Sanders reiterates calls for a nationwide ban on new AI data centers, a pause on advanced AI development, &amp; a ban on superintelligence."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "chip-stocks-add-600b-at-open-as-nasdaq-100-climbs-24percent-after-midter-76af893e",
+    "title": "Chip Stocks Add $600B at Open as Nasdaq 100 Climbs 2.4% After Midterm Rout",
+    "publishedAt": "2026-11-06T15:21:57.169Z",
+    "eventTimeApprox": "2026-11-05T15:05:35.500Z",
+    "routingTopicKeys": [
+      "us-markets",
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 1150,
+    "authorCount": 349
+  }
+}

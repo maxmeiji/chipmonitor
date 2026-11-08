@@ -1,0 +1,88 @@
+{
+  "slug": "magnificent-7-lose-4t-in-market-value-as-investors-rotate-out-of-ai-trad-c3701559",
+  "title": "Magnificent 7 Lose $4T in Market Value as Investors Rotate Out of AI Trades",
+  "publishedAt": "2026-11-04T14:07:31.021Z",
+  "eventTimeApprox": "2026-11-03T21:50:56.000Z",
+  "isFreshStory": false,
+  "tweetCount": 25,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "us-markets",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117971256918094147/HWSLoe3XIAA42tx-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117971256918094147/HWSLoe3XIAA42tx-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "globalmktobserv",
+      "tweetUrl": "https://x.com/GlobalMktObserv/status/2117971256918094147"
+    }
+  },
+  "summary": "The seven largest companies in the S&P 500 saw their combined market capitalization drop by $4T since Oct. 15 as investors exited crowded AI trades in favor of defensive sectors. This shift has hit the Semiconductor Index particularly hard, which fell more than 30% since June and dropped below its 200 day moving average for the first time in a year, reflecting growing skepticism over the returns on AI buildouts.\n\nThe volatility is occurring while the broader S&P 500 remains within 3% of its all time high, though Goldman Sachs reports that 60% of the index's constituents are currently in bear market territory. As hyperscalers increasingly rely on financing to cover declining cash flows, corporate debt has climbed; Amazon's long term debt grew to $173B from $66B in a 9 month period, while the spread for B and CCC rated bonds widened to about 8%.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117687028057866442",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2117687028057866442",
+      "tweetedAt": "2026-11-03T18:35:06.000Z",
+      "bestBit": "60% of the benchmark is languishing in bear market territory",
+      "text": "The S&amp;P 500 Index is within about 3% of its latest record high and yet 60% of the benchmark is languishing in bear market territory. https://t.co/rprxtvgiyz"
+    },
+    {
+      "tweetId": "2117971256918094147",
+      "role": "analysis",
+      "authorHandle": "globalmktobserv",
+      "url": "https://x.com/GlobalMktObserv/status/2117971256918094147",
+      "tweetedAt": "2026-11-04T13:24:32.000Z",
+      "bestBit": "the spread between B- and CCC-rated corporate bonds spiked to ~8%, a level seen fewer than 5 times since 1996",
+      "text": "A stealth bear market is spreading beneath the S&P 500:\n\nA MASSIVE 60% of S&P 500's constituents are trading in bear market territory, despite the index being within ~3% of its latest all-time high.\n\nNotably, the Magnificent 7 have lost -$4 trillion in market capitalization since October 15th, while the Semiconductor Index has fallen more than -30% since June and dropped below its 200-day moving average for the first time in a year.\n\nThis comes as investors exit crowded AI trades and rush into defensive and under-owned sectors.\n\nIn other words, investors are increasingly questioning the cost of the AI buildout and how long it will take to generate returns, as hyperscalers' cash flow declines and they increasingly rely on debt and equity financing.\n\nAmazon's long-term debt alone surged to $173 billion from $66 billion in just 9 months.\n\nMeanwhile, the spread between B- and CCC-rated corporate bonds spiked to ~8%, a level seen fewer than 5 times since 1996.\n\nIn every previous instance, the S&P 500 was at least -11.5% below its 52-week high.\n\nWill the stealth bear market spread across the broader market?"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "goldman-says-60percent-of-sandp-500-stocks-now-in-bear-market-3367cfd2",
+    "title": "Goldman Says 60% of S&P 500 Stocks Now in Bear Market",
+    "publishedAt": "2026-11-04T00:40:22.040Z",
+    "eventTimeApprox": "2026-11-03T19:18:00.000Z",
+    "routingTopicKeys": [
+      "us-markets"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

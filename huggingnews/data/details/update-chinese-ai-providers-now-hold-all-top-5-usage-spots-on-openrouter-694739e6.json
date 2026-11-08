@@ -1,0 +1,170 @@
+{
+  "slug": "update-chinese-ai-providers-now-hold-all-top-5-usage-spots-on-openrouter-694739e6",
+  "title": "UPDATE: Chinese AI Providers Now Hold All Top 5 Usage Spots on OpenRouter",
+  "publishedAt": "2026-10-28T11:23:50.188Z",
+  "eventTimeApprox": "2026-10-26T14:08:03.500Z",
+  "isFreshStory": false,
+  "tweetCount": 35,
+  "authorCount": 23,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    },
+    {
+      "ticker": "PVT:OPRT",
+      "kind": "private",
+      "role": "related",
+      "name": "OpenRouter",
+      "hubKey": "openrouter"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "0100",
+      "kind": "equity",
+      "role": "related",
+      "name": "MiniMax Group",
+      "hubKey": "minimax"
+    },
+    {
+      "ticker": "2513",
+      "kind": "equity",
+      "role": "related",
+      "name": "Z.AI",
+      "hubKey": "zhipu-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115398430541635813/HVtnqZCbYAEfT1b-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115398430541635813/HVtnqZCbYAEfT1b-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "melvininvests",
+      "tweetUrl": "https://x.com/MelvinInvests/status/2115398430541635813"
+    }
+  },
+  "summary": "DeepSeek's new V4.1 Flash model processed more than 35 trillion tokens in one week, a fourfold increase over the previous week, to become the most used AI tool on the OpenRouter aggregator. The volume surge helped Chinese AI providers capture all five of the top spots on the platform's usage rankings, including models from Zhipu, MiniMax, and Tencent. The shift highlights a growing trend of developers migrating to cheaper, more efficient models as the market for AI tokens becomes increasingly commoditized.\n\nThe rise of low-cost alternatives comes as growth in actual spending on high-end models remains uneven. While Anthropic's daily token volume on OpenRouter rose to an average of roughly 2.2 trillion by Oct. 24 following the launch of Opus 5.5, data from Ramp indicates that overall spending on the company's models is still 1.6% below its July peak. Despite the spending lag, Opus 5.5 now accounts for 63% of total spend on Anthropic, and some investors predict the company's year-end annualized revenue could surpass $100B as falling prices stimulate higher total compute demand.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115123970160640324",
+      "role": "source",
+      "authorHandle": "arakharazian",
+      "url": "https://x.com/arakharazian/status/2115123970160640324",
+      "tweetedAt": "2026-10-27T16:50:26.000Z",
+      "bestBit": "Spend on Anthropic models remains 1.6% below its July peak, according to Ramp data.",
+      "text": "NEW Ramp data: Opus 5.5 has somewhat reaccelerated demand for Anthropic, but it might not be enough. \n\nSpend on Anthropic models remains 1.6% below its July peak, according to Ramp data.\n\nOpus 5.5 now accounts for 63% of Anthropic spend, so frontier models do matter. The idea that AI is already \"good enough\" is probably overrated as a concern IMO.\n\nBut price cuts / competition at all intelligence levels are still the most significant threats to AI model companies, and continue to form cracks in the AI thesis."
+    },
+    {
+      "tweetId": "2114377706603429899",
+      "role": "support",
+      "authorHandle": "peterj_walker",
+      "url": "https://x.com/PeterJ_Walker/status/2114377706603429899",
+      "tweetedAt": "2026-10-25T15:25:03.000Z",
+      "bestBit": "7-day average token volume for Anthropic models is up 3.6x since the launch of Opus 5.5",
+      "text": "New from OpenRouter: 7-day average token volume for Anthropic models is up 3.6x since the launch of Opus 5.5\n\nSonnet 5.5 and Haiku 5.5 have also been well received. https://t.co/DvDkjFU67x"
+    },
+    {
+      "tweetId": "2115398430541635813",
+      "role": "support",
+      "authorHandle": "melvininvests",
+      "url": "https://x.com/MelvinInvests/status/2115398430541635813",
+      "tweetedAt": "2026-10-28T11:01:02.000Z",
+      "bestBit": "DeepSeek's new V4.1 Flash model processed more than 35 TRILLION tokens this week, up about 4X from the week before.",
+      "text": "The most used AI model in the world on OpenRouter right now is Chinese.\n\nDeepSeek's new V4.1 Flash model processed more than 35 TRILLION tokens this week, up about 4X from the week before.\n\nIts older version sits in second place, and the top five spots are all Chinese models from DeepSeek, Zhipu, MiniMax and Tencent.\n\nDevelopers are choosing these models because they are good enough and extremely cheap.\n\nThis is exactly what happens when AI models become commodities.\n\nPrices fall, usage explodes, and total compute demand goes up, not down.\n\nThat is bullish for the companies selling the chips, memory and power underneath all of it.",
+      "quotedTweetText": "Anthropic token usage just went VERTICAL.\n\nAccording to OpenRouter data, daily tokens for Anthropic models sat around 0.6 trillion a day on a 7 day average from June through mid September. Then Anthropic shipped Opus 5.5 on September 22, Sonnet 5.5 on September 28 and Haiku 5.5 on October 7. By October 24, the 7 day average had climbed above 2.2 trillion tokens a day, with single days peaking near 3 trillion. That is roughly 3.5x the summer baseline in about a month.\n\nToken usage is the cleanest demand signal in AI. Every one of those tokens has to run on real chips in real data centers, and demand for compute keeps EXPLODING. That demand flows straight to Anthropic's compute partners like $AMZN, $GOOGL and $NVDA, and it is another reason the AI infrastructure buildout is nowhere near done."
+    },
+    {
+      "tweetId": "2114744804147912852",
+      "role": "commentary",
+      "authorHandle": "gavinsbaker",
+      "url": "https://x.com/GavinSBaker/status/2114744804147912852",
+      "tweetedAt": "2026-10-26T15:43:46.000Z",
+      "bestBit": "$100b plus in year-end ARR looks possible again.",
+      "text": "I am shocked, absolutely shocked, that Anthropic ARR has likely gone vertical in October after they cut token prices.\n\nExcept the exact same thing happened for the entire AI market, which is why GPU rental prices have surged while token prices declined.\n\n$100b plus in year-end ARR looks possible again."
+    },
+    {
+      "tweetId": "2114414399670907091",
+      "role": "commentary",
+      "authorHandle": "jasonlk",
+      "url": "https://x.com/jasonlk/status/2114414399670907091",
+      "tweetedAt": "2026-10-25T17:50:51.000Z",
+      "bestBit": "But 5.5 is pretty darn close to Sonnet for 10%-15% of the price",
+      "text": "We used to make fun of Haiku\n\nBut 5.5 is pretty darn close to Sonnet for 10%-15% of the price\n\nThat + Jev first truly deflationary impacts on net AI costs for us at least",
+      "quotedTweetText": "New from OpenRouter: 7-day average token volume for Anthropic models is up 3.6x since the launch of Opus 5.5\n\nSonnet 5.5 and Haiku 5.5 have also been well received. https://t.co/DvDkjFU67x"
+    },
+    {
+      "tweetId": "2114463992399745239",
+      "role": "analysis",
+      "authorHandle": "kawzinvests",
+      "url": "https://x.com/KawzInvests/status/2114463992399745239",
+      "tweetedAt": "2026-10-25T21:07:55.000Z",
+      "bestBit": "Opus 5.5 accounts for 197B of the 361B tokens recorded so far.",
+      "text": "Wouldn't be surprised if Anthropic revenue is reaccelerating in October.\n\nOpenRouter usage has recovered sharply from August, with several recent days around 450–600B tokens.\n\nIn the most recent breakdown, Opus 5.5 accounts for 197B of the 361B tokens recorded so far. Fable 5.1 adds another 32B.\n\nTogether, almost 64% of usage.\n\nAt standard uncached pricing, Opus 5.5 costs twice as much as Sonnet 5.5, while Fable 5.1 costs five times as much.\n\nAssuming the same input/output mix, Fable’s 32B tokens would therefore generate the same bill as approximately 160B Sonnet tokens.\n\nThere’s been a lot of concern recently about slowing growth at the frontier labs and whether revenues can keep up with spending on compute.\n\nIf Anthropic’s growth is picking up again, that would challenge an important part of the bearish case.",
+      "quotedTweetText": "&gt;\"yeah I'm sure we have reached the top of the AI bubble\"\n &gt; Anthropic: Introducing Opus 5.5\n &gt; oh https://t.co/X8otJYhZE5"
+    },
+    {
+      "tweetId": "2114398711229116536",
+      "role": "commentary",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2114398711229116536",
+      "tweetedAt": "2026-10-25T16:48:31.000Z",
+      "bestBit": "the number of people on my feed over the last two weeks saying they are switching over to Anth because of Opus 5.5 is like nothing I've seen before.",
+      "text": "I don't take money from any lab. I'm saying this impartially; the number of people on my feed over the last two weeks saying they are switching over to Anth because of Opus 5.5 is like nothing I've seen before. And even if someone does beat Opus, they have Fable 5.5 ready to go. https://t.co/8q0nPdYTWq",
+      "quotedTweetText": "New from OpenRouter: 7-day average token volume for Anthropic models is up 3.6x since the launch of Opus 5.5\n\nSonnet 5.5 and Haiku 5.5 have also been well received. https://t.co/DvDkjFU67x"
+    },
+    {
+      "tweetId": "2114749429559525692",
+      "role": "analysis",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2114749429559525692",
+      "tweetedAt": "2026-10-26T16:02:08.000Z",
+      "bestBit": "On Sept. 22, Anthropic released a much better model Opus 5.5, which I expect is sparking a rebound in Anthropic's business.",
+      "text": "\"On Sept. 22, Anthropic released a much better model Opus 5.5, which I expect is sparking a rebound in Anthropic's business. And when Anthropic releases Fable 5.5 soon, ARR should re-accelerate into IPO\"",
+      "quotedTweetText": "Here is what is going on with OpenAI/Anthropic:\n\n-OpenAI quickly saw Anthropic’s success at the end of 2025 and pivoted resources to agentic coding\n\n-By April, OpenAI’s products had largely caught up, with positive developer reception of its GPT-5.5 coding agent (the online vibes from top developers were clear then)\n\n-By the July 9 release of GPT-5.6, you could argue OpenAI had surpassed Anthropic in capability. That led to several months in which OpenAI took material share from Anthropic, leading to a growth rate slowdown at Anthropic\n\n-On Sept. 22, Anthropic released a much better model Opus 5.5, which I expect is sparking a rebound in Anthropic's business. And when Anthropic releases Fable 5.5 soon, ARR should re-accelerate into IPO\n\n-OpenAI CFO on Bloomberg TV today said business momentum is continuing in Q4. The confusion surrounding FT’s OpenAI reporting (net effective impression on readers) last week has poisoned the sentiment well where market is largely ignoring every positive OpenAI business data point (which has been EXTREMELY STRONG since July 9)\n\n-Over the next six to twelve months, I anticipate a close back-and-forth for model leadership between OpenAI and Anthropic. \n\n-The business revenue in aggregate for these two frontier AI model companies should continue to be incredible."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "anthropics-daily-token-usage-hits-22-trillion-on-openrouter-following-ne-00d4bc84",
+    "title": "Anthropic's Daily Token Usage Hits 2.2 Trillion on OpenRouter Following New Model Launches",
+    "publishedAt": "2026-10-27T17:11:05.415Z",
+    "eventTimeApprox": "2026-10-26T12:32:21.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "startups"
+    ],
+    "tweetCount": 17,
+    "authorCount": 14
+  }
+}

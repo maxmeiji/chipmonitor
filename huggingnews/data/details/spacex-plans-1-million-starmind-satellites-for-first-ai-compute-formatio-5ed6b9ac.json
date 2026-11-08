@@ -1,0 +1,77 @@
+{
+  "slug": "spacex-plans-1-million-starmind-satellites-for-first-ai-compute-formatio-5ed6b9ac",
+  "title": "SpaceX Plans 1 Million Starmind Satellites for First AI Compute Formations",
+  "publishedAt": "2026-10-06T16:37:33.036Z",
+  "eventTimeApprox": "2026-10-06T16:04:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "space",
+      "name": "Space"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "summary": "SpaceX VP Michael Nicolls revealed that the company is developing a method to group satellites into tight clusters to enable the coherent compute required for efficient AI processing. This approach involves grouping approximately 10 satellites with 10 terabits of bandwidth between them, all integrated into a larger planned constellation of 1 million Starmind satellites. The goal is to ensure sufficient interconnected bandwidth and low latency to run large AI models in orbit.\n\nThe architecture marks the first time SpaceX has discussed formation flying and involves a hybrid model of larger 250kW satellites and these tight clusters. To maintain coherence, these clusters must operate in sub 750m proximity, a shift from the kilometer-scale spacing historically used for Starlink. Analysis of the setup suggests it could support coherence for up to 720 GPUs, more than double the approximately 300 GPUs in previously tested DeepSeek clusters.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107494345251107175",
+      "role": "source",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2107494345251107175",
+      "tweetedAt": "2026-10-06T15:33:01.000Z",
+      "bestBit": "A cluster will be 10-ish satellites connected with 10 terabits or so of bandwidth between them",
+      "text": "SpaceX has just released a new look at what their 1 million Starmind satellites constellation might look like (dots do not represent true size of sats).\n\nSpaceX VP @michaelnicollsx said today: \"We need to operate clusters of satellites in tight formation to get enough coherent compute to run AI models efficiently. A cluster will be 10-ish satellites connected with 10 terabits or so of bandwidth between them, and interconnected to the broader constellation.\""
+    },
+    {
+      "tweetId": "2107502291309727954",
+      "role": "analysis",
+      "authorHandle": "aaronburnett",
+      "url": "https://x.com/aaronburnett/status/2107502291309727954",
+      "tweetedAt": "2026-10-06T16:04:36.000Z",
+      "bestBit": "pursuing a hybrid model of both larger sats (250kw) and 10 sats flying in close formation",
+      "text": "this is very big Starmind news! This is the first we've seen SpaceX discuss formation flying and have confirmed they are pursuing a hybrid model of both larger sats (250kw) and 10 sats flying in close formation.  Our original math suggested this needed to be in sub 750m proximity. historically starlink proximity has been measured in kms. \n\nFormation flying of 10 sats suggests coherence up to 720 GPUs (which is massive, i think the largest tested deepseek cluster was ~300). if architected to maximize token density it could handle very large models with maximum intelligence density."
+    },
+    {
+      "tweetId": "2107508311423950981",
+      "role": "commentary",
+      "authorHandle": "guimarin",
+      "url": "https://x.com/Guimarin/status/2107508311423950981",
+      "tweetedAt": "2026-10-06T16:28:31.000Z",
+      "bestBit": "Formation flying of 10 sats suggests coherence up to 720 GPUs",
+      "text": "Ok. Why not. Let’s see how they react to a formation.",
+      "quotedTweetText": "this is very big Starmind news! This is the first we've seen SpaceX discuss formation flying and have confirmed they are pursuing a hybrid model of both larger sats (250kw) and 10 sats flying in close formation.  Our original math suggested this needed to be in sub 750m proximity. historically starlink proximity has been measured in kms. \n\nFormation flying of 10 sats suggests coherence up to 720 GPUs (which is massive, i think the largest tested deepseek cluster was ~300). if architected to maximize token density it could handle very large models with maximum intelligence density."
+    }
+  ],
+  "isSuperseded": false
+}

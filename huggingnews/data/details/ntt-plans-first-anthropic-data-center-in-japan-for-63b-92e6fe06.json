@@ -1,0 +1,58 @@
+{
+  "slug": "ntt-plans-first-anthropic-data-center-in-japan-for-63b-92e6fe06",
+  "title": "NTT Plans First Anthropic Data Center in Japan for $6.3B",
+  "publishedAt": "2026-10-13T03:23:30.547Z",
+  "eventTimeApprox": "2026-10-13T02:23:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "japan",
+      "name": "Japan"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "A new processing facility in the Osaka prefecture would offer up to 500 MW of power, making it one of the largest AI hubs in the region. NTT Data is in advanced talks to lead the construction for the AI developer Anthropic at a cost of approximately 1 trillion yen, or $6.3 billion, as reported by Nikkei Asia.\n\nThe project would establish the first dedicated data center for Anthropic within the country. If finalized, the Osaka site will expand the regional infrastructure available for high-performance artificial intelligence models, representing a major investment in Japanese computing capacity.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109845606546211148",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2109845606546211148",
+      "tweetedAt": "2026-10-13T03:16:06.000Z",
+      "bestBit": "NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B",
+      "text": "Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B (Nikkei Asia)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

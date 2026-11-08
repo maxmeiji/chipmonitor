@@ -1,0 +1,84 @@
+{
+  "slug": "senate-democrat-opposes-opening-millions-of-acres-of-public-land-for-ai-a139c865",
+  "title": "Senate Democrat Opposes Opening Millions of Acres of Public Land for AI Data Centers",
+  "publishedAt": "2026-11-07T01:07:58.218Z",
+  "eventTimeApprox": "2026-11-06T20:35:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-domestic-policy",
+      "name": "US Domestic Policy"
+    },
+    {
+      "slug": "us-legislation",
+      "name": "US Legislation"
+    }
+  ],
+  "summary": "A leading member of the U.S. Senate is signaling a legislative confrontation over the government's effort to grant technology firms access to protected federal acreage for infrastructure development. The move to challenge the plan comes as the Democratic party prepares to take control of Congress next year, transforming the proposal into a focal point for political friction between the legislature and the White House.\n\nThe Trump administration, led by Interior Secretary Doug Burgum, is considering a plan to open tens of millions of acres of public lands to permit the buildout of artificial intelligence data centers. The initiative has drawn scrutiny from ProPublica, which reported that Burgum and other officials overseeing these lands hold investments in the AI sector that could profit if the land is commercialized.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118661585363169435",
+      "role": "source",
+      "authorHandle": "propublica",
+      "url": "https://x.com/propublica/status/2118661585363169435",
+      "tweetedAt": "2026-11-06T11:07:39.000Z",
+      "bestBit": "The Interior Department may open tens of millions of acres of public lands for AI data centers.",
+      "text": "New: The Interior Department may open tens of millions of acres of public lands for AI data centers. ProPublica found Trump officials who oversee these lands stand to profit from the growth of the industry. https://t.co/IFyaU5SSZE"
+    },
+    {
+      "tweetId": "2118868554460037226",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2118868554460037226",
+      "tweetedAt": "2026-11-07T00:50:04.000Z",
+      "bestBit": "A top Senate Democrat is putting the Trump administration’s moves to build data centers on public land in the crosshairs",
+      "text": "A top Senate Democrat is putting the Trump administration’s moves to build data centers on public land in the crosshairs, foreshadowing a brewing fight when his party takes control of Congress next year https://t.co/UPcyq8Gcbt"
+    },
+    {
+      "tweetId": "2118840783545463204",
+      "role": "commentary",
+      "authorHandle": "christinapushaw",
+      "url": "https://x.com/ChristinaPushaw/status/2118840783545463204",
+      "tweetedAt": "2026-11-06T22:59:43.000Z",
+      "bestBit": "America’s natural beauty is a gift from God and politicians should be ashamed to even consider selling it to Big Tech.",
+      "text": "One thing that unites Americans of all political views: We do not want AI DATA CENTERS on our PUBLIC LANDS. America’s natural beauty is a gift from God and politicians should be ashamed to even consider selling it to Big Tech.",
+      "quotedTweetText": "New: The Interior Department may open tens of millions of acres of public lands for AI data centers. ProPublica found Trump officials who oversee these lands stand to profit from the growth of the industry. https://t.co/IFyaU5SSZE"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "interior-secretary-doug-burgum-leads-push-to-open-public-lands-for-ai-da-f702ae03",
+    "title": "Interior Secretary Doug Burgum Leads Push to Open Public Lands for AI Data Centers",
+    "publishedAt": "2026-11-06T23:07:43.653Z",
+    "eventTimeApprox": "2026-11-06T18:12:13.000Z",
+    "routingTopicKeys": [
+      "us-politics",
+      "ai"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

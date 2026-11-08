@@ -1,0 +1,60 @@
+{
+  "slug": "humansand-open-sources-tool-to-speed-up-large-scale-rl-weight-updates-455d26fb",
+  "title": "Humansand Open-Sources Tool to Speed Up Large-Scale RL Weight Updates",
+  "publishedAt": "2026-11-02T21:08:22.762Z",
+  "eventTimeApprox": "2026-11-02T18:33:36.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "A new method developed by Humansand reduces the sampler pause time for reinforcement learning (RL) to less than 0.23 seconds. The software, known as \"weight teleportation,\" uses GPUs to perform parallel compression of model weight updates and integrates with Nvidia's Blackwell chip architecture to allow these updates to be transmitted between clusters at internet speeds.\n\nThe system handles non-blocking compression and preparation in approximately 3 seconds, addressing a technical bottleneck that previously required training and sampling components to be located within the same data center to manage high data volumes. Humansand has released the technology as open-source to facilitate the deployment of decentralized RL across distributed hardware.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117319944958603695",
+      "role": "source",
+      "authorHandle": "humansand",
+      "url": "https://x.com/humansand/status/2117319944958603695",
+      "tweetedAt": "2026-11-02T18:16:27.000Z",
+      "bestBit": "Weight teleportation is so efficient (<0.23s sampler pause time, ~3s non-blocking compression + prepare), the bottleneck ends up being the GPU hardware’s decompression ASIC",
+      "text": "Large-scale RL has a problem: weight updates from trainers to samplers are slow and expensive\n\nWe’re sharing weight teleportation: faster weight updates than existing intra-cluster techniques with internet speeds, enabling samplers anywhere (maybe even space!)\n\nWeight teleportation is so efficient (<0.23s sampler pause time, ~3s non-blocking compression + prepare), the bottleneck ends up being the GPU hardware’s decompression ASIC\n\nWe unlock these gains by using GPUs for massively parallel compression of model weight changes, engineering a heterogeneous decompression and patching pipeline, along with other optimizations and overlaps. These techniques are co-designed with hardware-native features in NVIDIA’s Blackwell generation of chips\n\nWe’ve open-sourced weight teleportation, so everyone can use it today"
+    },
+    {
+      "tweetId": "2117324263044882639",
+      "role": "analysis",
+      "authorHandle": "ericzelikman",
+      "url": "https://x.com/ericzelikman/status/2117324263044882639",
+      "tweetedAt": "2026-11-02T18:33:36.000Z",
+      "bestBit": "Weight teleportation lets us rethink this, making crosscluster updates often faster than intracluster, removing decentralized RL's core drawback",
+      "text": "Datacenters and RL algos are usually built assuming trainers and samplers must be in one place as weight updates send tons of data\n\nWeight teleportation lets us rethink this, making crosscluster updates often faster than intracluster, removing decentralized RL's core drawback 🛰️",
+      "quotedTweetText": "Large-scale RL has a problem: weight updates from trainers to samplers are slow and expensive\n\nWe’re sharing weight teleportation: faster weight updates than existing intra-cluster techniques with internet speeds, enabling samplers anywhere (maybe even space!)\n\nWeight teleportation is so efficient (<0.23s sampler pause time, ~3s non-blocking compression + prepare), the bottleneck ends up being the GPU hardware’s decompression ASIC\n\nWe unlock these gains by using GPUs for massively parallel compression of model weight changes, engineering a heterogeneous decompression and patching pipeline, along with other optimizations and overlaps. These techniques are co-designed with hardware-native features in NVIDIA’s Blackwell generation of chips\n\nWe’ve open-sourced weight teleportation, so everyone can use it today"
+    }
+  ],
+  "isSuperseded": false
+}

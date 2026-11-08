@@ -1,0 +1,115 @@
+{
+  "slug": "update-databricks-integrates-jev-114-to-speed-up-ai-decisions-by-200x-d7bf43ae",
+  "title": "UPDATE: Databricks Integrates Jev 1.14 to Speed Up AI Decisions by 200x",
+  "publishedAt": "2026-10-16T21:09:10.560Z",
+  "eventTimeApprox": "2026-10-15T01:43:02.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DBRX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Databricks",
+      "hubKey": "databricks"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110546960767992105/HUomLUcbkAAk3OA-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110546960767992105/HUomLUcbkAAk3OA-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "exrhizo",
+      "tweetUrl": "https://x.com/exrhizo/status/2110546960767992105"
+    }
+  },
+  "summary": "Real-time record classification and scoring now take between 70 and 500 milliseconds for users of the Lakehouse data platform. This latency reduction follows the deployment of TypeSafe's Jev 1.14, a structured decision model that Databricks says is 20 to 200 times faster and up to 400 times cheaper than standard large language models. The model is integrated via ai_classify and ai_decide functions, with security and monitoring handled by Unity Gateway.\n\nUnlike traditional LLMs, Jev focuses on returning calibrated probabilities for classification rather than generating text. Version 1.14 also launched on OpenRouter, where pricing is held at $0.042 per million input tokens with no cost for output. This update introduces experimental multimodal capabilities, including image inputs, a new box API, and expanded context windows.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111174709253439695",
+      "role": "source",
+      "authorHandle": "databricks",
+      "url": "https://x.com/databricks/status/2111174709253439695",
+      "tweetedAt": "2026-10-16T19:17:29.000Z",
+      "bestBit": "resolving each decision in roughly 70 to 500 milliseconds, 20 to 200 times faster and up to 400 times lower cost than standard LLMs",
+      "text": "Decide faster. TypeSafe's Jev-1.14 is now available on Databricks.\n\nJev isn't a text generator. It's a structured decision model. It classifies, scores, and returns calibrated probabilities, resolving each decision in roughly 70 to 500 milliseconds, 20 to 200 times faster and up to 400 times lower cost than standard LLMs. For Databricks customers, that means real-time decisioning across millions of records at a fraction of the cost.\n\nWith our frictionless access, you can get started testing Jev right away. Put Jev to work directly on the data in your Lakehouse through ai_classify and ai_decide. Tag documents, route records, and score decisions across millions of rows, with every call governed, monitored, and secured by Unity Gateway.\n\nTry Jev  → https://t.co/VRTleKZ2KE"
+    },
+    {
+      "tweetId": "2110536685805355064",
+      "role": "source",
+      "authorHandle": "typesafeai",
+      "url": "https://x.com/typesafeai/status/2110536685805355064",
+      "tweetedAt": "2026-10-15T01:02:12.000Z",
+      "bestBit": "a new and improved model, along with experimental features for our dreamers: • images • a new box type • longer context",
+      "text": "we announced Jev 1.14 on 10.14 at 1:14pm PT 🔥\n\na new and improved model, along with experimental features for our dreamers:\n\n• images\n• a new box type\n• longer context\n\nsurprise, Jev was already able to see you! 👁️  \n\nBUT our bar for production-grade intelligence is quite high, so builders beware, these are preview features.\n\nenter the ~*~ danger zone ~*~ at your own risk. 🚨"
+    },
+    {
+      "tweetId": "2110490516433605087",
+      "role": "source",
+      "authorHandle": "yuchenj_uw",
+      "url": "https://x.com/Yuchenj_UW/status/2110490516433605087",
+      "tweetedAt": "2026-10-14T21:58:44.000Z",
+      "bestBit": "We @databricks are excited to partner with TypeSafe to bring the new Jev to our customers!",
+      "text": "Jev 1.14 is out!\n\nimage inputs, box API, better quality, longer context. Congrats to the TypeSafe team for keeping the Jevolution going!\n\nWe @databricks are excited to partner with TypeSafe to bring the new Jev to our customers!",
+      "quotedTweetText": "Happy JevDay!\n\nBut before announcements we have to talk philosophy…\n\nThe needs of early adopters / tinkerers / dreamers are quite different from what is needed for extremely stable infrastructure.\n\nFor the Jev release, we erred on the latter, but this release is for the former - with a gate so people can opt-in to the danger zone!"
+    },
+    {
+      "tweetId": "2110525059093987468",
+      "role": "support",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2110525059093987468",
+      "tweetedAt": "2026-10-15T00:16:00.000Z",
+      "bestBit": "Price: unchanged ($0.042/M input, output free)",
+      "text": "Jev 1.14 is now on OpenRouter.\n\nPer @typesafeai this release is \"beautifully boring\":\n• Everything: a tiny bit better\n• Multilingual: the biggest upgrade\n• Multimodal: it can see now (experimental)\n• Price: unchanged ($0.042/M input, output free)\n• Drama: none\n\nhttps://t.co/P1U51tXxmo"
+    },
+    {
+      "tweetId": "2110546960767992105",
+      "role": "analysis",
+      "authorHandle": "exrhizo",
+      "url": "https://x.com/exrhizo/status/2110546960767992105",
+      "tweetedAt": "2026-10-15T01:43:02.000Z",
+      "bestBit": "Some decision models can ask questions about images but can they ask questions with images?",
+      "text": "New @typesafeai Jev capabilities!\n \nSome decision models can ask questions about images but can they ask questions with images?\n\n🧵 How to get the most out of the new Jev launch https://t.co/kXIg0M9jqo"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "typesafe-launches-jev-114-with-multimodal-and-multilingual-upgrades-62bb02bc",
+    "title": "TypeSafe Launches Jev 1.14 With Multimodal and Multilingual Upgrades",
+    "publishedAt": "2026-10-15T01:22:49.520Z",
+    "eventTimeApprox": "2026-10-15T00:16:01.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 9,
+    "authorCount": 8
+  }
+}

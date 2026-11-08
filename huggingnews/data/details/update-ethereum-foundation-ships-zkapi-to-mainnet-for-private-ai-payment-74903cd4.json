@@ -1,0 +1,99 @@
+{
+  "slug": "update-ethereum-foundation-ships-zkapi-to-mainnet-for-private-ai-payment-74903cd4",
+  "title": "UPDATE: Ethereum Foundation Ships zkAPI to Mainnet for Private AI Payments in ETH or USDC",
+  "publishedAt": "2026-10-02T10:54:12.380Z",
+  "eventTimeApprox": "2026-10-01T19:16:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 15,
+  "routingTopicKeys": [
+    "crypto",
+    "ai"
+  ],
+  "primaryRoutingTopic": "crypto",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "blockchains",
+      "name": "Blockchains"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105738723748966685/HTkWNe5XsAAoEZK-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105738723748966685/HTkWNe5XsAAoEZK-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "aggrnews",
+      "tweetUrl": "https://x.com/AggrNews/status/2105738723748966685"
+    }
+  },
+  "summary": "Artificial intelligence and metered API providers can no longer link service requests to specific payment identities following the deployment of a new zero-knowledge protocol. The tool, known as zkAPI, allows users to pay for la lll access using prepaid ETH or USDC on the Ethereum blockchain. By utilizing zero-knowledge proofs, the system separates the financial identity of the payer from the actual usage of the API, ensuring the service provider cannot track the individual user.\n\nThe Ethereum Foundation and the Open Anonymity project developed the protocol from a design co-authored by Vitalik Buterin to eliminate the need for middlemen to link personal data with identities. The tool is currently integrated into the OA-chat platform, which has opened sign-ups for new users. The collaboration aims to establish a foundational infrastructure for privacy and sovereignty in AI inference payments.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105753290977980682",
+      "role": "source",
+      "authorHandle": "ethereumfndn",
+      "url": "https://x.com/ethereumfndn/status/2105753290977980682",
+      "tweetedAt": "2026-10-01T20:14:42.000Z",
+      "bestBit": "deposit ether into a vault, sign a zk proof, get a fixed amount of private inference",
+      "text": "Today the EF and OA announce zkAPI—a new means for private AI\n\nPicture this: deposit ether into a vault, sign a zk proof, get a fixed amount of private inference. Advances like these help us move past middlemen's requirements that we link our data and identities.\n\nRead more below https://t.co/7tOHRmXM4r",
+      "quotedTweetText": "Quick updates on the Open Anonymity project (@OpenAnonProject)!\n\n1. OA-chat is live! You can now signup: https://t.co/rsMjL3wzKQ\n\n2. We collaborated with @ethereumfndn (@VitalikButerin, @DavideCrapis, @VittoStack, @curryrasul) to develop zkAPI, a new zero-knowledge protocol for accessing gated / paid APIs with unlinkability. It’s like a generalization of OA unlinkable inference that also abstracts payments away. Now also available on OA-chat!\n\nI'm excited because more infrastructure should exist where privacy and sovereignty is foundational and people are in control."
+    },
+    {
+      "tweetId": "2105750396719493447",
+      "role": "source",
+      "authorHandle": "kenziyuliu",
+      "url": "https://x.com/kenziyuliu/status/2105750396719493447",
+      "tweetedAt": "2026-10-01T20:03:12.000Z",
+      "bestBit": "collaborated with @ethereumfndn (@VitalikButerin, @DavideCrapis, @VittoStack, @curryrasul) to develop zkAPI",
+      "text": "Quick updates on the Open Anonymity project (@OpenAnonProject)!\n\n1. OA-chat is live! You can now signup: https://t.co/rsMjL3wzKQ\n\n2. We collaborated with @ethereumfndn (@VitalikButerin, @DavideCrapis, @VittoStack, @curryrasul) to develop zkAPI, a new zero-knowledge protocol for accessing gated / paid APIs with unlinkability. It’s like a generalization of OA unlinkable inference that also abstracts payments away. Now also available on OA-chat!\n\nI'm excited because more infrastructure should exist where privacy and sovereignty is foundational and people are in control."
+    },
+    {
+      "tweetId": "2105762170135007440",
+      "role": "support",
+      "authorHandle": "theblockco",
+      "url": "https://x.com/TheBlockCo/status/2105762170135007440",
+      "tweetedAt": "2026-10-01T20:49:59.000Z",
+      "bestBit": "The Ethereum Foundation launched zkAPI on mainnet, based on a design co-authored by Vitalik Buterin",
+      "text": "THE BLOCK: The Ethereum Foundation launched zkAPI on mainnet, based on a design co-authored by Vitalik Buterin.\n\nIt lets users pay for AI and other APIs from prepaid $ETH or $USDC using zero-knowledge proofs, so providers can't link requests to who paid. https://t.co/rugWtnIJdy"
+    },
+    {
+      "tweetId": "2105770113228247222",
+      "role": "commentary",
+      "authorHandle": "lex_node",
+      "url": "https://x.com/lex_node/status/2105770113228247222",
+      "tweetedAt": "2026-10-01T21:21:32.000Z",
+      "bestBit": "perhaps ETH is the only AI coin you need",
+      "text": "@CryptoHayes perhaps ETH is the only AI coin you need",
+      "quotedTweetText": "Today the EF and OA announce zkAPI—a new means for private AI\n\nPicture this: deposit ether into a vault, sign a zk proof, get a fixed amount of private inference. Advances like these help us move past middlemen's requirements that we link our data and identities.\n\nRead more below https://t.co/7tOHRmXM4r"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "ethereum-foundation-and-open-anonymity-launch-zkapi-for-private-ai-payme-c43577a3",
+    "title": "Ethereum Foundation and Open Anonymity Launch zkAPI for Private AI Payments",
+    "publishedAt": "2026-10-01T20:54:03.936Z",
+    "eventTimeApprox": "2026-10-01T19:16:49.000Z",
+    "routingTopicKeys": [
+      "crypto",
+      "ai"
+    ],
+    "tweetCount": 13,
+    "authorCount": 11
+  }
+}

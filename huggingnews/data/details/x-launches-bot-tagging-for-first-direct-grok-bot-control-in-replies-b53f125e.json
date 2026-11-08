@@ -1,0 +1,50 @@
+{
+  "slug": "x-launches-bot-tagging-for-first-direct-grok-bot-control-in-replies-b53f125e",
+  "title": "X Launches @bot Tagging for First Direct Grok Bot Control in Replies",
+  "publishedAt": "2026-10-07T01:38:10.988Z",
+  "eventTimeApprox": "2026-10-07T01:24:22.500Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "summary": "A new integration on X allows people to command an AI agent to manage their reading lists or summarize threads by replying to any post. This system utilizes a specialized handle to send instructions to the Grok Bot, which executes the task and delivers the result directly to the person's AI interface.\n\nThe feature supports functions such as drafting replies, setting reminders to read content later, and exporting information to Notion reading lists. The tagging capability is active across all replies, posts, and quote posts, transforming the public feed into a command line for the platform's AI assistant.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107616555685360072",
+      "role": "source",
+      "authorHandle": "larsencc",
+      "url": "https://x.com/larsencc/status/2107616555685360072",
+      "tweetedAt": "2026-10-06T23:38:39.000Z",
+      "bestBit": "@bot add this to my Notion reading list\n> > @bot remind me to read this tomorrow\n> > @bot summarize this thread\n> > @bot draft a reply to this",
+      "text": "NEW: @bot tagging just went live.\n\nReply to any post:\n> @bot add this to my Notion reading list\n> @bot remind me to read this tomorrow\n> @bot summarize this thread\n> @bot draft a reply to this\n\nWorks in replies, posts, quote and lands right in your Grok Bot.\n\nWhat’s the first thing you’re handing it?"
+    }
+  ],
+  "isSuperseded": false
+}

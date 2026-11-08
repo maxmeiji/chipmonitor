@@ -1,0 +1,76 @@
+{
+  "slug": "meta-scales-prometheus-cluster-to-1-million-nvidia-gpus-007630e4",
+  "title": "Meta Scales Prometheus Cluster to 1 Million Nvidia GPUs",
+  "publishedAt": "2026-10-19T18:39:00.556Z",
+  "eventTimeApprox": "2026-10-19T18:14:17.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112245968750145561/Ql2HvTqHqzURK5DP-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112245968750145561/Ql2HvTqHqzURK5DP-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2112245058472906752/vid/avc1/1920x1080/A15F6uYoUrUyPB9v.mp4?tag=29",
+    "credit": {
+      "handle": "aiatmeta",
+      "tweetUrl": "https://x.com/AIatMeta/status/2112245968750145561"
+    }
+  },
+  "summary": "Muse foundational AI models including Muse Wonder were developed at a massive computing center in New Albany, Ohio, that currently operates hundreds of thousands of Nvidia accelerators. This facility, called the Prometheus supercluster, is scaling toward roughly 1 million GPUs and will integrate GB200, GB300 and Vera Rubin systems to expand its capacity for the company's next generation of AI tools.\n\nMeta engineered the gigawatt-scale site for resilience, reporting over 85% goodput on pretraining and over 90% on reinforcement learning, with about 47,000 GPU hours between interruptions during Muse Wonder training. The infrastructure uses millions of optics to connect facilities more than 100 km apart and requires roughly 4,900 spare GPUs to maintain a 32,768-GPU training run during hardware failures.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112245968750145561",
+      "role": "source",
+      "authorHandle": "aiatmeta",
+      "url": "https://x.com/AIatMeta/status/2112245968750145561",
+      "tweetedAt": "2026-10-19T18:14:17.000Z",
+      "bestBit": "achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training",
+      "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus for resilience at scale, achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training.\n\nTake a look at the tech powering Prometheus: https://t.co/WSFODnGRST"
+    },
+    {
+      "tweetId": "2112242352538697881",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2112242352538697881",
+      "tweetedAt": "2026-10-19T17:59:55.000Z",
+      "bestBit": "Meta needs ~4,900 additional GPUs to support a 32,768-GPU training run through hardware failures",
+      "text": "$META just revealed that its Prometheus supercluster (which trained its new Muse AI models) already runs hundreds of thousands of $NVDA GPUs and is scaling toward roughly 1 million using GB200, GB300 and eventually Vera Rubin systems.\n\nAnd the scale of this infrastructure is pretty insane because Meta needs ~4,900 additional GPUs to support a 32,768-GPU training run through hardware failures. \n\nThat's on top of millions of optics connecting facilities more than 100 km apart and power swings of ~40% during training showing how Meta's AI expansion is driving demand well beyond GPUs into networking, energy storage and liquid cooling."
+    }
+  ],
+  "isSuperseded": false
+}

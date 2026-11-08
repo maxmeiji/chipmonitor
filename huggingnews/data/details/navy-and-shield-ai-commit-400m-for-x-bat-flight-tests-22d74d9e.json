@@ -1,0 +1,66 @@
+{
+  "slug": "navy-and-shield-ai-commit-400m-for-x-bat-flight-tests-22d74d9e",
+  "title": "Navy and Shield AI Commit $400M for X-BAT Flight Tests",
+  "publishedAt": "2026-10-08T17:39:47.257Z",
+  "eventTimeApprox": "2026-10-08T14:39:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "startups",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:SHAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "Shield AI",
+      "hubKey": "shield-ai"
+    }
+  ],
+  "summary": "Five hundred engineers are collaborating to finalize a specialized autonomous aircraft for its first flights. The US Navy and Shield AI have split a $400 million investment to bring the X-BAT system to the flight-testing stage by the end of 2026, with the US government and the company each contributing $200 million. This funding includes a $150 million modification by the Navy for Defense Exportability Features, which the company matched with its own capital.\n\nThe investment follows a separate $50 million action by the Navy and the Defense Innovation Unit announced in August. The laest funding aims to incorporate technology protection and export capabilities directly into the architecture of the X-BAT from the start of its lifecycle. Flight testing for the prototypes is scheduled to begin this year.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108198646277615624",
+      "role": "source",
+      "authorHandle": "shieldaitech",
+      "url": "https://x.com/shieldaitech/status/2108198646277615624",
+      "tweetedAt": "2026-10-08T14:11:40.000Z",
+      "bestBit": "The Navy’s latest $150 million modification supports Defense Exportability Features, building exportability and technology protection into X-BAT early in its development",
+      "text": "The @USNavy and Shield AI have committed $400 million to advance X-BAT toward flight testing.\n \nThe Navy’s latest $150 million modification supports Defense Exportability Features, building exportability and technology protection into X-BAT early in its development. Shield AI is matching that amount.\n \nAlong with a separate $50 million Navy and @DIU_x action announced in August, the two funding actions total $200 million in government support and $200 million in Shield AI investment.\n \nShield AI and key suppliers now have 500 engineers building the flight-test aircraft. Flight testing begins this year.\n \nAutonomy for the world. The greatest victory requires no war."
+    },
+    {
+      "tweetId": "2108205716859388286",
+      "role": "commentary",
+      "authorHandle": "brettkrieger12",
+      "url": "https://x.com/BrettKrieger12/status/2108205716859388286",
+      "tweetedAt": "2026-10-08T14:39:46.000Z",
+      "bestBit": "$200M from the @USNavy \n\n They REALLY want some XBATs",
+      "text": "@shieldaitech @USNavy $200M from the @USNavy \n\nThey REALLY want some XBATs"
+    },
+    {
+      "tweetId": "2108215846678007960",
+      "role": "commentary",
+      "authorHandle": "brettkrieger12",
+      "url": "https://x.com/BrettKrieger12/status/2108215846678007960",
+      "tweetedAt": "2026-10-08T15:20:01.000Z",
+      "bestBit": "$200M from the Navy is a strong vote of confidence in the product and team",
+      "text": "@brandontseng2 $200M from the Navy is a strong vote of confidence in the product and team.\n\nCongrats! Looking forward to seeing XBAT fly soon"
+    }
+  ],
+  "isSuperseded": false
+}

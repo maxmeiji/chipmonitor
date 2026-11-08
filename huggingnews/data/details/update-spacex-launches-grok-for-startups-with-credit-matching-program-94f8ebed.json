@@ -1,0 +1,94 @@
+{
+  "slug": "update-spacex-launches-grok-for-startups-with-credit-matching-program-94f8ebed",
+  "title": "UPDATE: SpaceX Launches Grok for Startups with Credit Matching Program",
+  "publishedAt": "2026-10-22T18:53:58.308Z",
+  "eventTimeApprox": "2026-10-22T16:35:03.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "summary": "India's Tech Mahindra has partnered with SpaceXSI to develop AI powered software, while a new incentive program for startups now offers 6 to 12 months of credits across Grok, Grok Build, Grok Bot and the API. The offer matches every dollar spent by these new developers 1:1 in free credits for the following six months to encourage technical builds on the platform.\n\nThese initiatives are part of the SpaceX Super Intelligence Partner Network, which currently includes over 130 companies such as Nvidia and Apollo Global Management. The network's goal is to bolster business adoption by allowing firms to deploy and refine Grok AI systems through corporate workflows and real world applications.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113319825632010642",
+      "role": "source",
+      "authorHandle": "techdevnotes",
+      "url": "https://x.com/techdevnotes/status/2113319825632010642",
+      "tweetedAt": "2026-10-22T17:21:24.000Z",
+      "bestBit": "SpaceXSI has launched Grok for Startups",
+      "text": "SpaceXSI has launched Grok for Startups https://t.co/CGOLj3OCcc"
+    },
+    {
+      "tweetId": "2113337172031943128",
+      "role": "source",
+      "authorHandle": "ns123abc",
+      "url": "https://x.com/ns123abc/status/2113337172031943128",
+      "tweetedAt": "2026-10-22T18:30:20.000Z",
+      "bestBit": "every single dollar you spend gets matched 1:1 in free credits next month, for six months straight",
+      "text": "JUST IN: SpaceXSI has launched Grok for Startups\n\nYou get 6–12 months of credits across Grok, Grok Build, Grok Bot and the API, and every single dollar you spend gets matched 1:1 in free credits next month, for six months straight.\n\nIt's time to build. https://t.co/x8cpOjKC63 https://t.co/5pzrzp1ebj"
+    },
+    {
+      "tweetId": "2113302367881789742",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2113302367881789742",
+      "tweetedAt": "2026-10-22T16:12:02.000Z",
+      "bestBit": "SpaceX is working with Apollo Global Management, Nvidia and dozens of other firms on a new partnership program to deploy and improve its Grok AI systems",
+      "text": "SpaceX is working with Apollo Global Management, Nvidia and dozens of other firms on a new partnership program to deploy and improve its Grok AI systems, part of a bid to bolster business adoption of its artificial intelligence offerings https://t.co/P4W3xvBEFR"
+    },
+    {
+      "tweetId": "2113308159615869097",
+      "role": "support",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2113308159615869097",
+      "tweetedAt": "2026-10-22T16:35:03.000Z",
+      "bestBit": "India's Tech Mahindra partners with SpaceXSI for AI-powered software development",
+      "text": "India's Tech Mahindra partners with SpaceXSI for AI-powered software development https://t.co/TFqoPRNHJu https://t.co/TFqoPRNHJu"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "spacex-signs-130-firms-to-new-grok-ai-partner-network-d3abcca7",
+    "title": "SpaceX Signs 130 Firms to New Grok AI Partner Network",
+    "publishedAt": "2026-10-22T16:24:00.058Z",
+    "eventTimeApprox": "2026-10-22T14:58:38.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business"
+    ],
+    "tweetCount": 6,
+    "authorCount": 5
+  }
+}

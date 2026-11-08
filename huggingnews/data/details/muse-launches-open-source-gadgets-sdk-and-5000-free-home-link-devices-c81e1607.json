@@ -1,0 +1,63 @@
+{
+  "slug": "muse-launches-open-source-gadgets-sdk-and-5000-free-home-link-devices-c81e1607",
+  "title": "Muse Launches Open Source Gadgets SDK and 5000 Free Home Link Devices",
+  "publishedAt": "2026-10-02T19:42:39.260Z",
+  "eventTimeApprox": "2026-10-02T19:09:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 34,
+  "authorCount": 25,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "iot",
+      "name": "IoT"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106099384891158562/HTpdWwAb0AA9ack-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106099384891158562/HTpdWwAb0AA9ack-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "natfriedman",
+      "tweetUrl": "https://x.com/natfriedman/status/2106099384891158562"
+    }
+  },
+  "summary": "The Muse Home Link device allows the Muse AI to interact with a user's television or speakers by connecting to a home network via USB-C and using HTTPS. Alongside this hardware, Nat Friedman released Muse Gadgets, which consists of open source ESP32 firmware and a Linux SDK designed to enable developers to build their own compatible peripherals.\n\nMuse produced a limited batch of 5,000 Home Link units that will ship in a few weeks and are available for free to current subscribers while supplies last. To facilitate third-party hardware development, the company has open sourced the Home Link code and provided API tokens and a GitHub repository.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106099383037309211",
+      "role": "source",
+      "authorHandle": "natfriedman",
+      "url": "https://x.com/natfriedman/status/2106099383037309211",
+      "tweetedAt": "2026-10-02T19:09:57.000Z",
+      "bestBit": "Announcing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can make hardware devices that work with Muse",
+      "text": "🚨 side project alert 🚨\n\nAnnouncing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can make hardware devices that work with Muse.\n\nGrab an API token from https://t.co/Q0dE0cYnCs and point your favorite coding agent at the github repo to build your own peripherals for Muse."
+    },
+    {
+      "tweetId": "2106099384891158562",
+      "role": "source",
+      "authorHandle": "natfriedman",
+      "url": "https://x.com/natfriedman/status/2106099384891158562",
+      "tweetedAt": "2026-10-02T19:09:57.000Z",
+      "bestBit": "manufactured a batch of 5000 Home Links which should be ready to ship in a few weeks, and they are free for Muse subscribers while supplies last",
+      "text": "We built a gadget of our own, too: Muse Home Link is a little usb-c powered device that allows Muse to connect to your home network to talk to smart home devices like TVs and speakers and anything else that exposes https.\n\nWe manufactured a batch of 5000 Home Links which should be ready to ship in a few weeks, and they are free for Muse subscribers while supplies last. Claim yours at https://t.co/Q0dE0cYnCs\n\nAll the code for Muse Home Link is open source too!"
+    }
+  ],
+  "isSuperseded": false
+}

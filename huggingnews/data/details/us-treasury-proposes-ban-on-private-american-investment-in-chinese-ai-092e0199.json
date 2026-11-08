@@ -1,0 +1,112 @@
+{
+  "slug": "us-treasury-proposes-ban-on-private-american-investment-in-chinese-ai-092e0199",
+  "title": "US Treasury Proposes Ban on Private American Investment in Chinese AI",
+  "publishedAt": "2026-10-23T10:09:58.079Z",
+  "eventTimeApprox": "2026-10-23T00:14:07.000Z",
+  "isFreshStory": false,
+  "tweetCount": 34,
+  "authorCount": 27,
+  "routingTopicKeys": [
+    "geopolitics",
+    "ai",
+    "startups",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "geopolitics",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-foreign-policy",
+      "name": "US Foreign Policy"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113567271893577992/HVTloqDagAAQ78N-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113567271893577992/HVTloqDagAAQ78N-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "rohanpaul_ai",
+      "tweetUrl": "https://x.com/rohanpaul_ai/status/2113567271893577992"
+    }
+  },
+  "summary": "Americans would be prohibited from funding any firm developing artificial intelligence systems in a group of targeted nations, including China and Russia, under a new rule proposed by the US Treasury. The measure would broaden existing restrictions to include a total ban on all private AI investments, closing a loophole that previously allowed the funding of smaller projects if the deals were reported to the government. The new curbs would also extend to the hypersonic weapons and biotechnology sectors, specifically targeting automated laboratory software and brain-computer interfaces.\n\nThe proposal targets investments in China, Russia, Iran, North Korea, and Cuba, though Venezuela has been removed from the list of concerned nations. The US Treasury said the ban is necessary as rapid technological gains have made it difficult to differentiate between the most advanced models and less capable systems. The rules would exempt the purchase of publicly traded securities and individual transactions under $50,000. Public comments on the draft are open until December 7.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113413928630059361",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2113413928630059361",
+      "tweetedAt": "2026-10-22T23:35:20.000Z",
+      "bestBit": "Publicly traded securities and transactions under $50,000 are exempt.",
+      "text": "BREAKING: The US Treasury has proposed banning covered American investments in AI technologies in China, Russia, Iran, North Korea and Cuba.\n\nTreasury says it chose a ban because AI has advanced so rapidly over the past two years that it now raises questions about the efficacy of 'regulating or even distinguishing the most advanced models.'\n\nPublicly traded securities and transactions under $50,000 are exempt. Venezuela has been removed from the list. Comments close December 7."
+    },
+    {
+      "tweetId": "2113417246890680469",
+      "role": "commentary",
+      "authorHandle": "chrisrmcguire",
+      "url": "https://x.com/ChrisRMcGuire/status/2113417246890680469",
+      "tweetedAt": "2026-10-22T23:48:31.000Z",
+      "bestBit": "the proposed rule likely would prohibit most private investment in Chinese software firms, as well as Chinese firms that build products that incorporate AI (i.e., the entire Chinese robotics and drone industry",
+      "text": "Treasury just published new proposed Outbound Investment regulations, which would represent a significant expansion of the existing program. This is just a proposed rule, and it deserves a thorough review, but some initial reactions:\n\n1.  The rule would prohibit most private investment in any Chinese firm that develops an “SI system,” including any product that operates using an SI system. It defines “SI system” extremely broadly, such that it likely captures the vast majority of Chinese software products. As a result, the proposed rule likely would prohibit most private investment in Chinese software firms, as well as Chinese firms that build products that incorporate AI (i.e., the entire Chinese robotics and drone industry, and undoubtedly many others).\n\n2.  The rule adds biotech as a covered sector and would prohibit most private investment in the vast majority of the sector. It would ban private investment in Chinese companies that use biological systems to modify, enhance, produce, or control any pharmaceutical compound, to include both small and large molecules. This likely captures most Chinese firms engaged in biologic drug manufacturing or drug discovery. Biotech and biomanufacturing are areas where U.S. investment has massively fueled China’s capabilities, which are rapidly approaching--and in some cases surpassing--those of the United States. The scope of this rule signals that the administration sees this as a massive national security concern.\n\n3.  The rule does not make major changes to the types of transactions covered. Crucially, this means it does NOT prohibit investment in publicly traded securities of these companies, the purchase of goods or licensing of products from these companies, or the export of goods to these companies. But it does ban most types of private investment (i.e., VC, PE, joint ventures, greenfield investments, etc) in companies engaging in these activities.\n\n4.  This rule will no doubt change before it is finalized, and I expect the definitions of prohibited activity related to SI and biological systems will be narrowed in the final rule. But it is also a strong signal that the administration does not want U.S. investment or know-how supporting China’s development of advanced technologies, and as a result may be willing to significantly expand outbound investment restrictions.\n\n5.  Finally, this highlights a major schism inside the administration on how to prevent China from catching up to the United States in the most advanced technologies. The Treasury Department is signaling that it is willing to significantly tighten restrictions on Americans’ ability to invest in critical technology sectors in China that would help develop these technologies, given their importance to national security. And meanwhile, the Department of Commerce is taking the exact opposite approach, loosening restrictions on American companies that seek to export goods to these companies. It doesn’t make sense for the administration to be tightening restrictions on investments, while loosening restrictions on exports. Something has to give."
+    },
+    {
+      "tweetId": "2113396391728878056",
+      "role": "commentary",
+      "authorHandle": "niubi",
+      "url": "https://x.com/niubi/status/2113396391728878056",
+      "tweetedAt": "2026-10-22T22:25:39.000Z",
+      "bestBit": "Likely lots of heartburn for some VCs and Pharma firms tonight.",
+      "text": "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act https://t.co/mLqBU5e2X2 seem surprisingly tough on China-related investments. comments open until 12.7 so oculd be watered down. Fable's take https://t.co/tUAwr9ZSZz Sol's take a bit more comprehensive https://t.co/xh5GaU7Aju    Likely lots of heartburn for some VCs and Pharma firms tonight. Surprised the lobbyists were not more successful, but still time between now and 12.7"
+    },
+    {
+      "tweetId": "2113567271893577992",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2113567271893577992",
+      "tweetedAt": "2026-10-23T09:44:40.000Z",
+      "bestBit": "The proposal would also ban investments in two new areas: hypersonic weapons and biotech, including brain-computer interfaces and automated lab software.",
+      "text": "The U.S. Treasury proposed barring Americans from investing in Chinese companies that develop any AI system.\n\nUnder the current rule, Americans can’t invest in the most powerful Chinese AI models, but they can still fund smaller AI projects if they report the deal to Treasury.\n\nThe new proposal would ban all of those AI investments, and it would also add high-bandwidth memory, photonic chips and radiation-hardened chips to the chip types Americans can’t invest in.\n\nThe proposal would also ban investments in two new areas: hypersonic weapons and biotech, including brain-computer interfaces and automated lab software.\n\nToday the rule covers only China, but the proposal adds Russia, Iran, North Korea and Cuba.\n\nBuying public stocks, index funds or small fund stakes up to $2M would stay allowed, so the rule mainly hits venture and private equity deals.\n\nTreasury won’t publish a list of banned companies, so investors must check each deal themselves or risk fines and being forced to sell."
+    },
+    {
+      "tweetId": "2113394664871235595",
+      "role": "analysis",
+      "authorHandle": "joedoc2112",
+      "url": "https://x.com/joedoc2112/status/2113394664871235595",
+      "tweetedAt": "2026-10-22T22:18:47.000Z",
+      "bestBit": "The proposed rule “sends an important signal to markets that Washington is tracking where U.S. capital is flowing and what capabilities it is helping build,” said Craig Singleton, a senior fellow at the think tank Foundation for Defense of Democracies.",
+      "text": "The proposed rule “sends an important signal to markets that Washington is tracking where U.S. capital is flowing and what capabilities it is helping build,” said Craig Singleton, a senior fellow at the think tank Foundation for Defense of Democracies. https://t.co/VPNgvpqKMG"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "us-treasury-proposes-rule-blocking-us-ai-and-chip-investment-in-china-c56464e5",
+    "title": "US Treasury Proposes Rule Blocking US AI and Chip Investment in China",
+    "publishedAt": "2026-10-22T22:39:53.565Z",
+    "eventTimeApprox": "2026-10-22T22:22:13.000Z",
+    "routingTopicKeys": [
+      "geopolitics",
+      "tech",
+      "startups",
+      "us-politics",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 19,
+    "authorCount": 16
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "nvidia-lead-over-huawei-in-china-ai-chip-market-shrinks-to-6-points-a1653fc2",
+  "title": "Nvidia Lead over Huawei in China AI Chip Market Shrinks to 6 Points",
+  "publishedAt": "2026-10-13T08:38:37.355Z",
+  "eventTimeApprox": "2026-10-13T04:45:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "geopolitics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "china",
+      "name": "China"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "A 44% year over year decline in AI accelerator shipments to 678,000 units hit Nvidia's China operations during the first half of 2026. This drop reduced the company's share of the data center AI chip market to 34%, while Huawei grew its presence to 28% by shipping 572,000 units in the same period, according to IDC data cited by Reuters.\n\nUS export restrictions on high end semiconductors and pressure from Beijing for domestic buyers to adopt local hardware drove the shift in market share. Nvidia CEO Jensen Huang has warned that Washington's policies are handing business to Huawei, which is now gaining the scale and customer base needed to challenge US competitors more effectively.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109868158366699731",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2109868158366699731",
+      "tweetedAt": "2026-10-13T04:45:43.000Z",
+      "bestBit": "Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026",
+      "text": "IDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2109921211689939314",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2109921211689939314",
+      "tweetedAt": "2026-10-13T08:16:31.000Z",
+      "bestBit": "Huawei shipped 572,000 and reached 28%",
+      "text": "Huawei is now just six percentage points behind Nvidia in China's data-center AI-chip market.\n\nReuters reports @Nvidia shipped 678,000 accelerators in the first half of 2026, down 44% year over year, taking 34% of the market. Huawei shipped 572,000 and reached 28%.\n\nUS export restrictions limit what Nvidia can sell, while Beijing pushes buyers toward domestic alternatives. Jensen Huang has warned that Washington is handing business to Huawei. These numbers strengthen his case: Huawei is gaining the customers and scale needed to become a much stronger competitor."
+    }
+  ],
+  "isSuperseded": false
+}

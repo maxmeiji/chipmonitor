@@ -1,0 +1,65 @@
+{
+  "slug": "trymelius-raises-25m-for-generative-ai-creative-lab-94d3ff15",
+  "title": "Trymelius Raises $25M for Generative AI Creative Lab",
+  "publishedAt": "2026-10-06T17:08:15.482Z",
+  "eventTimeApprox": "2026-10-06T15:34:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "General Catalyst and CRV led the latest funding round for Trymelius, a startup developing an agents lab to automate creative workflows. The company raised $25M to integrate generative models into AI agents, aiming to remove traditional resource constraints for creators. This capital will support the development of a toolset that allows users to bring ideas to life regardless of the technical resources available to them.\n\nOther investors in the round included Genius Ventures, Vine Ventures, Antifund, and several individual backers. Founders Joowon, Arnav, and Young are building the platform to shift creative capacity away from those with the most expensive resources and toward any individual with a concept.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107480018473357779",
+      "role": "source",
+      "authorHandle": "n0w00j",
+      "url": "https://x.com/n0w00j/status/2107480018473357779",
+      "tweetedAt": "2026-10-06T14:36:06.000Z",
+      "bestBit": "announce our $25M fundraise to build the future of creative work",
+      "text": "Today, we announce our $25M fundraise to build the future of creative work.\n\nFor all of history, what you could create was dictated by the resources accessible to you.\n\nThat's why we built @trymelius, the agents lab for creatives, to tear down that constraint and let agents leverage generative models to bring all your ideas to life.\n\nSo that anyone can make anything.\n\nHuge thanks to @yuris at @generalcatalyst and @verorellana02 + @reidRMC at @CRV for leading the round, and to @gefkovicz + @benmtaft at @geniusventures, @amosk1120 + @adamvalkin at @VineVenturesLP, @jakepaul + @geoffwoo at @antifund, @rauchg, @bykahlil and many more amazing investors for taking a bet on us."
+    },
+    {
+      "tweetId": "2107516401410027773",
+      "role": "support",
+      "authorHandle": "geoffwoo",
+      "url": "https://x.com/geoffwoo/status/2107516401410027773",
+      "tweetedAt": "2026-10-06T17:00:40.000Z",
+      "bestBit": "joowon arnav and young are beasts, excited to help these guys change the world",
+      "text": "joowon arnav and young are beasts, excited to help these guys change the world 🌎",
+      "quotedTweetText": "Today, we announce our $25M fundraise to build the future of creative work.\n\nFor all of history, what you could create was dictated by the resources accessible to you.\n\nThat's why we built @trymelius, the agents lab for creatives, to tear down that constraint and let agents leverage generative models to bring all your ideas to life.\n\nSo that anyone can make anything.\n\nHuge thanks to @yuris at @generalcatalyst and @verorellana02 + @reidRMC at @CRV for leading the round, and to @gefkovicz + @benmtaft at @geniusventures, @amosk1120 + @adamvalkin at @VineVenturesLP, @jakepaul + @geoffwoo at @antifund, @rauchg, @bykahlil and many more amazing investors for taking a bet on us."
+    },
+    {
+      "tweetId": "2107494732800708997",
+      "role": "engagement",
+      "authorHandle": "imjaredz",
+      "url": "https://x.com/imjaredz/status/2107494732800708997",
+      "tweetedAt": "2026-10-06T15:34:34.000Z",
+      "bestBit": "Watch this team closely.",
+      "text": "Watch this team closely.",
+      "quotedTweetText": "Today, we announce our $25M fundraise to build the future of creative work.\n\nFor all of history, what you could create was dictated by the resources accessible to you.\n\nThat's why we built @trymelius, the agents lab for creatives, to tear down that constraint and let agents leverage generative models to bring all your ideas to life.\n\nSo that anyone can make anything.\n\nHuge thanks to @yuris at @generalcatalyst and @verorellana02 + @reidRMC at @CRV for leading the round, and to @gefkovicz + @benmtaft at @geniusventures, @amosk1120 + @adamvalkin at @VineVenturesLP, @jakepaul + @geoffwoo at @antifund, @rauchg, @bykahlil and many more amazing investors for taking a bet on us."
+    }
+  ],
+  "isSuperseded": false
+}

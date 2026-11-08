@@ -1,0 +1,86 @@
+{
+  "slug": "ai2-finds-minor-prompt-changes-shift-ai-novelty-rating-accuracy-by-more-6f98a105",
+  "title": "Ai2 Finds Minor Prompt Changes Shift AI Novelty Rating Accuracy by More Than 50 Points",
+  "publishedAt": "2026-10-27T20:40:25.812Z",
+  "eventTimeApprox": "2026-10-27T17:19:12.500Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115120554571178055/HVpq7ltWYAAQLZt-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115120554571178055/HVpq7ltWYAAQLZt-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "allen_ai",
+      "tweetUrl": "https://x.com/allen_ai/status/2115120554571178055"
+    }
+  },
+  "summary": "Frontier large language models often struggle to provide consistent ratings when evaluating the originality of scientific research. A study by the Allen Institute for AI found that modifying the phrasing of a prompt can lead to wildly different outcomes; in one test, GPT-5.4 identified a human-generated research idea as novel 93.5% of the time when asked which idea reviewers had judged as such, but the rate fell to 40.9% when asked simply which idea was novel. Across various tests, these prompt adjustments shifted accuracy by more than 50 points in some cases.\n\nThe researchers used a benchmark based on reviewer comments from ICLR 2026 and found that higher intelligence and more complex toolsets did not necessarily lead to better judgments. A simple prompted Claude Opus 4.6 achieved a 0.89 macro-F1 score, outperforming a GPT-5.6 Sol agent with iterative literature search that scored 0.78 despite being roughly 10 times more expensive per judgment. Ai2 has open-sourced the benchmark data and code to allow other models to be tested as judges.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115120554571178055",
+      "role": "source",
+      "authorHandle": "allen_ai",
+      "url": "https://x.com/allen_ai/status/2115120554571178055",
+      "tweetedAt": "2026-10-27T16:36:51.000Z",
+      "bestBit": "GPT-5.4 chose the human idea 93.5% of the time when asked which idea reviewers had judged novel. Asked simply which idea was novel, that share fell to 40.9%.",
+      "text": "On human–AI pairs, GPT-5.4 chose the human idea 93.5% of the time when asked which idea reviewers had judged novel. Asked simply which idea was novel, that share fell to 40.9%.\n\nPrompt wording had a smaller effect on which idea models chose in human-only pairs. https://t.co/JqK1sB9vbj"
+    },
+    {
+      "tweetId": "2115120552125800667",
+      "role": "source",
+      "authorHandle": "allen_ai",
+      "url": "https://x.com/allen_ai/status/2115120552125800667",
+      "tweetedAt": "2026-10-27T16:36:51.000Z",
+      "bestBit": "we mined ICLR 2026 reviews for explicit comments on originality",
+      "text": "To build our benchmark, we mined ICLR 2026 reviews for explicit comments on originality.\n\nWe kept papers that reviewers agreed were (or were not) original &amp; whose scores were unusually high or low within their research area, giving us examples of more and less novel work. https://t.co/rJ8CA9vlTN"
+    },
+    {
+      "tweetId": "2115120556374736936",
+      "role": "source",
+      "authorHandle": "allen_ai",
+      "url": "https://x.com/allen_ai/status/2115120556374736936",
+      "tweetedAt": "2026-10-27T16:36:52.000Z",
+      "bestBit": "2 purpose-built novelty judges performed worse than a simple prompted Claude Opus 4.6 baseline",
+      "text": "Prompt changes that helped one judge could hurt another, &amp; more reasoning or access to related papers didn't consistently improve results.\n\nAnd 2 purpose-built novelty judges performed worse than a simple prompted Claude Opus 4.6 baseline. https://t.co/FRvERDZS1A"
+    },
+    {
+      "tweetId": "2115141868405027143",
+      "role": "source",
+      "authorHandle": "noysternlicht",
+      "url": "https://x.com/NoySternlicht/status/2115141868405027143",
+      "tweetedAt": "2026-10-27T18:01:33.000Z",
+      "bestBit": "Code and data are now released through Ai2",
+      "text": "Our paper got an Ai2 writeup! Code and data are now released through Ai2, links in the post 👇\n\nWith @its_sshahid , @peterjansen_ai , @dsweld , @Siangliulue , @Hoper_Tom",
+      "quotedTweetText": "LLMs are increasingly used to judge whether AI-generated research ideas are novel. But are they any good at it?\n\nOur new eval reveals even frontier LLMs can reach different conclusions about similar ideas depending on how they're asked to evaluate them. 🧵\n\nhttps://t.co/AWokjcVVnf"
+    },
+    {
+      "tweetId": "2115179227687666154",
+      "role": "commentary",
+      "authorHandle": "teksedge",
+      "url": "https://x.com/TeksEdge/status/2115179227687666154",
+      "tweetedAt": "2026-10-27T20:30:00.000Z",
+      "bestBit": "Two purpose-built novelty-evaluation systems lost to the researchers' cheapest simple prompted judge by → 8–29 macro-F1 points while costing up to → 32× MORE",
+      "text": "Uh oh. If your AI benchmark uses an LLM-as-judge, you might want to read this.\n\nAllenAI tested six frontier models to see whether research ideas were actually novel.\n\nAnd tiny changes to the judge prompt caused crazy swings.\n\nGPT-5.4, same basic idea pairs\n“Which was judged novel?” → 93.5%\n“Which is novel?” → 40.9%\n“Which was judged more novel?” → 59.7%\n\nAcross the study, changing the prompt moved accuracy by 👉50+ points 👈 in some cases and occasionally pushed judges below chance.\n\nSo naturally they tried giving the judge more intelligence and tools.\n\nDidn't fix it.\n\nA GPT-5.6 Sol agent running xhigh reasoning with iterative literature search and no search cap scored\n→ 0.78 macro-F1\n\nClaude Opus 4.6 with only 5 pre-retrieved abstracts did about \n→ 0.89\n\nAnd the big agentic setup cost ~10× more per judgment.\n\nTwo purpose-built novelty-evaluation systems lost to the researchers' cheapest simple prompted judge by\n→ 8–29 macro-F1 points\n\nwhile costing up to\n→ 32× MORE\n\n🎯 Lesson Learned 👉 More model, more reasoning more RAG, and more money, doesn't automatically mean a better judge.\n\nAllenAI open-sourced the benchmark + code too, so now I want to see Qwen, DeepSeek and other local models run as the judges.\n\nThe safer benchmark recipe is\n👨‍🔬 build a human-rated calibration set\n🤖 test the LLM judge against it\n🔄 test multiple prompt/order variations\n🗳️ aggregate multiple judgments\n👀 send close calls back to humans\n\nLink in ALT"
+    }
+  ],
+  "isSuperseded": false
+}

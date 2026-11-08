@@ -1,0 +1,45 @@
+{
+  "slug": "voyager-launches-open-ai-harness-for-100-creative-tools-cbfba603",
+  "title": "Voyager Launches Open AI Harness for 100+ Creative Tools",
+  "publishedAt": "2026-10-08T18:08:08.833Z",
+  "eventTimeApprox": "2026-10-08T17:57:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "Professional software like Blender and After Effects can now be controlled by generative AI models via a new platform called Voyager. The system operates as an open harness that connects models including Opus, Astra and DeepSeek to over 100 creative tools, which the developers describe as the equivalent of Codex for creative work. It includes its own set of free graphics, music and video editing utilities alongside the ability to automate workflows across external applications.\n\nThe tool targets the production of high-end video, graphics and games, moving away from the coding-centric focus of most AI utilities. It reflects a broader shift in the AI economy toward software that acts as an orchestration layer, selecting the most effective model and tool to complete a specific creative task.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108252061209088159",
+      "role": "source",
+      "authorHandle": "anvisha",
+      "url": "https://x.com/anvisha/status/2108252061209088159",
+      "tweetedAt": "2026-10-08T17:43:55.000Z",
+      "bestBit": "can drive Blender, Resolve, After Effects, Ableton and 100+ others",
+      "text": "Introducing Voyager: the open harness for S-tier video, graphics and games.\n\nThe Codex for creative work.\n\nMost AI tools are built for coding. Voyager is designed to get the best creative results from models like Opus, Astra and DeepSeek.\n\nIt comes with free graphics, music and video editing tools - or, it can drive Blender, Resolve, After Effects, Ableton and 100+ others.\n\nEverything in this thread was made with Voyager. A few of our favorites:"
+    }
+  ],
+  "isSuperseded": false
+}

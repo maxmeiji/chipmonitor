@@ -1,0 +1,136 @@
+{
+  "slug": "gmo-internet-ceo-blames-autonomous-ai-tool-for-brokerage-cyberattack-54af5a83",
+  "title": "GMO Internet CEO Blames Autonomous AI Tool for Brokerage Cyberattack",
+  "publishedAt": "2026-10-25T16:24:19.712Z",
+  "eventTimeApprox": "2026-10-25T15:22:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 25,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "japan",
+      "name": "Japan"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2114242724971020787/HVdMjdDagAAMpty-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2114242724971020787/HVdMjdDagAAMpty-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2114242724971020787"
+    }
+  },
+  "summary": "Masatoshi Kumagai, CEO of GMO Internet Group, said an autonomous AI penetration-testing tool called ARTEX was abused to facilitate a cyberattack that targeted roughly 20 Japanese companies and breached the group's cloud VPS service. The intrusion allowed hackers to execute unauthorized trades across more than 70 securities and FX brokerages and exposed up to 26,739 servers to unauthorized access.\n\nKumagai admitted that the company's internal security team had flagged vulnerabilities in the breached service before the attack, but the fix was not implemented quickly enough. He characterized the incident as a national crisis and warned that the internet is on the verge of being destroyed by the misuse of AI. GMO has requested that the Japanese government use its active cyber defense powers, which went into effect Oct. 1, to trace and neutralize the attackers' infrastructure.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114242724971020787",
+      "role": "source",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2114242724971020787",
+      "tweetedAt": "2026-10-25T06:28:41.000Z",
+      "bestBit": "Attackers breached the servers, stole customer credentials, and executed balance-destroying trades across over 70 brokerages.",
+      "text": "A cloud VPS service from Japan's massive GMO Internet Group used by foreign-exchange traders has been hacked. Attackers breached the servers, stole customer credentials, and executed balance-destroying trades across over 70 brokerages. GMO has asked government agencies for help. https://t.co/AgL1S0QfJF"
+    },
+    {
+      "tweetId": "2114247009612050491",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2114247009612050491",
+      "tweetedAt": "2026-10-25T06:45:42.000Z",
+      "bestBit": "GMO also recieved a ransom demand, presumably to not release customer information. They have refused to pay.",
+      "text": "GMO also recieved a ransom demand, presumably to not release customer information. They have refused to pay. Over 26,000 servers may have been accessed. Timeline by Argon.\n\nQuoting from GMO:\n\n'Regarding this extortion, we have submitted all evidence, including communication records, to the police authorities (cybercrime countermeasures department).\n\nWe are requesting a thorough investigation as a criminal case.\n\nPlease note that attackers may in the future publish information they claim to be about our company or our customers.\n\n [Our response policy]\n\nWe will not comply with requests from attackers.\n\nEven if we comply with your request, we cannot guarantee that the acquired information will be deleted or that it will not be misused.\n\nWe have consulted with the police and other relevant organizations regarding this matter, and we are working together to address it."
+    },
+    {
+      "tweetId": "2114257893352780068",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2114257893352780068",
+      "tweetedAt": "2026-10-25T07:28:57.000Z",
+      "bestBit": "GMO has asked Japan to make the attack the first case for its new active cyber defense powers",
+      "text": "🚨Hackers have breached GMO Internet's cloud service used to run automated FX trading, planted malware on customer servers and stole customer information. Up to 26,739 servers may be affected, and users have reported trades they never made.\n\nNow the attackers are demanding money and threatening to keep placing unauthorized orders to wipe balances across accounts at more than 70 securities and FX firms, leak customer data and launch ransomware attacks.\n\nGMO says it will not pay. It is compensating verified trading losses and has asked Japan to make the attack the first case for its new active cyber defense powers, with the government tracing, blocking and neutralizing the attackers' infrastructure."
+    },
+    {
+      "tweetId": "2114386740354183573",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2114386740354183573",
+      "tweetedAt": "2026-10-25T16:00:56.000Z",
+      "bestBit": "'ARTEX,' an autonomous AI penetration-testing tool originally meant for defense, was being abused.",
+      "text": "HOLY. GMO Internet Group CEO Masatoshi Kumagai says: 'Right now, the internet itself is starting to break.'\n\n'In fact, an investigation by our group's GMO Cybersecurity by Ierae has confirmed that at the source of unauthorized access targeting roughly 20 Japanese companies, 'ARTEX,' an autonomous AI penetration-testing tool originally meant for defense, was being abused.'\n\nThe breach exposed up to 26,739 servers and trading accounts across 70+ brokerages and FX firms. GMO has asked Japan to apply its new Active Cyber Defense law, in force since October 1.\n\n'We have already entered an era where, with just simple instructions, AI searches for weaknesses and runs all the way to intrusion on its own.'",
+      "quotedTweetText": "GMO Internet Group CEO Masatoshi Kumagai says that the internet itself is on the verge of collapse due to missuse of AI, and frames this event as a national crisis. https://t.co/INkqLzvqaC"
+    },
+    {
+      "tweetId": "2114389428038951128",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2114389428038951128",
+      "tweetedAt": "2026-10-25T16:11:37.000Z",
+      "bestBit": "Kumagai admits GMO's own white-hat hackers had flagged security issues on the breached service BEFORE the attack.",
+      "text": "And Kumagai admits GMO's own white-hat hackers had flagged security issues on the breached service BEFORE the attack.\n\nThe team was working on fixes, but he says the response was not fast or deep enough, and attackers exploited the gap."
+    },
+    {
+      "tweetId": "2114379215084667206",
+      "role": "source",
+      "authorHandle": "_nathancalvin",
+      "url": "https://x.com/_NathanCalvin/status/2114379215084667206",
+      "tweetedAt": "2026-10-25T15:31:02.000Z",
+      "bestBit": "The underlying issue is the explosive evolution and misuse of AI technology.",
+      "text": "Masatoshi Kumagai (Japanese billionaire, CEO of GMO internet group which just suffered a massive cyberattack): \n \n“The cyberspace that I built with my colleagues, believing it would bring smiles to people’s faces, is now on the verge of being completely destroyed by malicious actors. The underlying issue is the explosive evolution and misuse of AI technology.”",
+      "quotedTweetText": "GMO Internet Group CEO Masatoshi Kumagai says that the internet itself is on the verge of collapse due to missuse of AI, and frames this event as a national crisis. https://t.co/INkqLzvqaC"
+    },
+    {
+      "tweetId": "2114262212470886810",
+      "role": "commentary",
+      "authorHandle": "8teapi",
+      "url": "https://x.com/8teAPi/status/2114262212470886810",
+      "tweetedAt": "2026-10-25T07:46:07.000Z",
+      "bestBit": "They fried a Japanese online brokerage.",
+      "text": "They fried a Japanese online brokerage. \n\nThere was a good Tom Clancy novel where they rewound the stock market by 3 days. Govts are powerful and real money lives in a database where you can reverse what happened.",
+      "quotedTweetText": "A cloud VPS service from Japan's massive GMO Internet Group used by foreign-exchange traders has been hacked. Attackers breached the servers, stole customer credentials, and executed balance-destroying trades across over 70 brokerages. GMO has asked government agencies for help. https://t.co/AgL1S0QfJF"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "hackers-use-gmo-internet-cloud-breach-to-execute-unauthorized-trades-at-98bb5e69",
+    "title": "Hackers Use GMO Internet Cloud Breach to Execute Unauthorized Trades at 70+ Brokerages",
+    "publishedAt": "2026-10-25T07:38:13.750Z",
+    "eventTimeApprox": "2026-10-25T06:37:11.500Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "tech"
+    ],
+    "tweetCount": 9,
+    "authorCount": 7
+  }
+}

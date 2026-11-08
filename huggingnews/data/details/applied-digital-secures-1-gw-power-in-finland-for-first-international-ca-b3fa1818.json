@@ -1,0 +1,60 @@
+{
+  "slug": "applied-digital-secures-1-gw-power-in-finland-for-first-international-ca-b3fa1818",
+  "title": "Applied Digital Secures 1 GW Power in Finland for First International Campus",
+  "publishedAt": "2026-10-06T12:39:16.674Z",
+  "eventTimeApprox": "2026-10-06T11:46:24.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "APLD",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Applied Digital Corporation Common Stock",
+      "hubKey": "apld"
+    }
+  ],
+  "summary": "The demand for AI infrastructure is driving a new expansion into Northern Europe to support hyperscale data needs. Applied Digital has secured access to up to 1 GW of potential power capacity in Finland for its first AI data center campus outside the United States. The facility is targeted to receive its first power in 2028, and the company is already in talks with large hyperscale customers to occupy the site.\n\nThis international move follows a period of rapid growth in the U.S., where Applied Digital leased 1.2 GW of capacity in only 11 months. The company has reached $31B in contracted revenue as it now adapts its domestic scaling playbook for the European market.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107413053985960042",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2107413053985960042",
+      "tweetedAt": "2026-10-06T10:10:00.000Z",
+      "bestBit": "securing access to up to 1 GW of potential power capacity in Finland for a planned AI data center campus",
+      "text": "$APLD is expanding internationally, securing access to up to 1 GW of potential power capacity in Finland for a planned AI data center campus.\n\nInitial power is expected in 2028, with the company already in talks with major hyperscale customers. https://t.co/BwwlQxLGFG"
+    },
+    {
+      "tweetId": "2107437312942718992",
+      "role": "support",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107437312942718992",
+      "tweetedAt": "2026-10-06T11:46:24.000Z",
+      "bestBit": "APLD is now taking same playbook to Europe after leasing 1.2 GW in 11 months and reaching $31B in contracted revenue",
+      "text": "$APLD just secured access to up to 1 GW of potential power in Finland for its first campus outside the U.S. with first power targeted for 2028.\n\nAPLD is now taking same playbook to Europe after leasing 1.2 GW in 11 months and reaching $31B in contracted revenue. https://t.co/qXfaR2uRqY"
+    }
+  ],
+  "isSuperseded": false
+}

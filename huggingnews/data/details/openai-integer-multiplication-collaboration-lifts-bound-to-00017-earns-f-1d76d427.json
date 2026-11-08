@@ -1,0 +1,144 @@
+{
+  "slug": "openai-integer-multiplication-collaboration-lifts-bound-to-00017-earns-f-1d76d427",
+  "title": "OpenAI Integer Multiplication Collaboration Lifts Bound to 0.0017, Earns First Academic Citation",
+  "publishedAt": "2026-10-15T15:39:21.590Z",
+  "eventTimeApprox": "2026-10-07T17:23:07.500Z",
+  "isFreshStory": false,
+  "tweetCount": 338,
+  "authorCount": 180,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "math",
+      "name": "Math"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "prediction-markets",
+      "name": "Prediction Markets"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The open collaboration refining OpenAI's integer multiplication result raised the conditional exponent saving parameter κ to 0.0017137844912361143, up 2.6% since Oct. 13, after earning what project coordinator Doug Colkitt called the first academic citation of open source math. Progress had stalled until contributor 1337isnot1337 introduced an \"anticipatory dirty borrowing\" technique that temporarily reuses idle registers instead of allocating fresh scratch registers, cutting helper registers per call from 480 to 400 in a test word.\n\nSix contributors followed with 19 pull requests that lifted κ by 1.4% in about 13 hours, bringing the unverified complex bound within 1.7% of the bit side limit of 0.001733. Overall activity reached 518 pull requests in 24 hours from 64 contributors, including 20 first time participants, with OpenAI's Codex cited in 73% of submissions and Anthropic's Claude in 19%. Colkitt merged roughly 760 pull requests on Oct. 14.\n\nThe parameter κ measures the exponent saving in the theoretical running time bound T(n) = O(n(log n)^(1−κ)), which OpenAI initially published at κ = 2⁻¹⁸². Contributor Rohan Arun cautioned that generating the full Lean formal proof could still take months, while a developer prediction market opened at 40% odds on the project's κ reaching 0.01 by Nov. 19.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110748916412993915",
+      "role": "source",
+      "authorHandle": "rohanarun",
+      "url": "https://x.com/RohanArun/status/2110748916412993915",
+      "tweetedAt": "2026-10-15T15:05:32.000Z",
+      "bestBit": "Instead of paying for a fresh scratch \"helper\" register, a helper borrows another register that's idle at that moment, and hands it back restored. That cut helpers per call from 480 to 400 in their test word.",
+      "text": "From κ = 2⁻¹⁸² to 0.0017137844912361143 :)\n\nInteger multiplication community auto-research highlights since 10/13 (+2.6%):\n\n1) Progress slowed the past few days and we hit the wall… then broke through it overnight!\n\n1337isnot1337 posted a \"no new κ\" research PR on anticipatory dirty borrowing.\n\nInstead of paying for a fresh scratch \"helper\" register, a helper borrows another register that's idle at that moment, and hands it back restored. That cut helpers per call from 480 to 400 in their test word.\n\nAbout two hours later it was a new record. 19 κ PRs from 6 contributors then stacked more aliases, coherent handoffs, entrance raises and owner repacking on top.\n\nκ increased +1.4% in about 13 hours(still unverified and requires full review). \n\nWe're now within 1.7% of the bit side's 0.001733, so the bit wall is next.\n\n2) We're slowing on progress in Integer Multiplication bounds, but multiple early auto-researchers are now applying the same tricks to more meaningful projects:\n\n@ryaneshea is working on protein design and generally interested in applications of auto-research to bio.\n\n@dysmemic discovered 665 possible new exoplanets by searching 4 million stars in NASA's public TESS data!\n\nI began open sourcing our new geometric approach to self-attention, which beats transformers(NanoGPT) KV cache with 14,000x less state and 50% better CE at 2K context.\n\nWe've been working on publishing a paper the past few months, but it's clear the explosion of decentralized auto-research on Github is where things are headed.\n\nWe should keep pushing Integer Multiplication bounds since it's easy to understand and easy to make progress, thus new contributors gain motivation and we grow the auto-research community faster. Auto-researchers seem to naturally then branch into harder problems when they gain motivation with successful PRs :)\n\n3) The flood keeps growing\n\n518 PRs in the last 24 hours (up from 285 last time) from 64 contributors, 20 of them first-timers. That's 840 PRs in 36 hours. \n\n@0xdoug merged ~760 PRs in two big batches on 10/14. He also updated the autoresarch.md from the original prompt we were sharing with new rules to effectively use the new structure of the repo and discussions. \n\nCopy this prompt to join the auto-research army 🫡 :\n\"\"\"\n> Contribute one useful, independently reviewable result to: https://t.co/KZP78PN7ZR\n\n> Start from the current main branch. Read AGENTS.md and autoresearch.md, and follow their guidance for choosing work\n\"\"\"\n\nInteresting observations:\n\n1) Negative results really do feed breakthroughs. The borrowing record started from a PR whose own pricing said \"no new κ\", and someone found a way to make it pay two hours later.\n\nGreat example that don't need to push the frontier kappa to contribute: you can task your agents on exploring our research tracks in auto-research.md to and multiple human-agent teams will review it to collaborate. \n\nAnyone can help now by throwing tokens at a hard open problem guided by experts. Experts formulate useful new research paths and everyone's agents naturally test the new limits. \n\n2) Codex/OpenAI is mentioned in 73% of the last day's PRs and Claude in 19%.\n\nMost prolific in the last 24 hours: 1337isnot1337 (80 PRs), ywz65 (50, all in the last 4 hours!), adamgall (39), commdata2338 (34) and thakrarsagar (33). jeremykothe2 filed 12 of the 19 records since borrowing landed.\n\n3) Not all researchers are lamenting the end of their careers. I've spoken to multiple professors in the last week who are excited by the new auto-research wave. \n\nIt accelerates tedious experiments, the students that previously ran those can now focus on more important work, and Google's Deep Review now even automates peer review!\n\nWe can imagine a future were researchers are given super powers to focus on the most meaningful tasks, and publish breakthroughs at a higher rate than before.\n\nEven our own experiments in Integer Mult bounds clearly shows human experts have the key intuition to guide the models to out-of-distribution solutions. \n\n4) First auto-research, and now auto-peer-review!\n\nGoogle’s Deep Review runs a team of agents over your paper: it splits the doc into sections, spends more compute on the dense parts like proofs, reviews each section in parallel, then checks the findings against each other. It assists researchers in peer-review by submitting feedback. \n\nIt’s already reviewed 16K+ papers at ICML, NeurIPS and ICLR.\n\nhttps://t.co/j1NdEuo2vn\n\n5) We can use frontier research as a new benchmark for agents! \n\nBasically, rewind a frontier research repo like Integer multiplication to an earlier branch, and test different agent harnesses and prompts.\n\nAgents can’t “cheat” if you disable web search and use a checkpoint before the solution is published.\n\nThere’s diminishing returns, but we can calculate the curve for a given task to estimate the cost and returns.\n\nWith this benchmark we discovered sharing context is actually BAD(for this task), and running parallel independent agents speeds the next breakthrough. \n\nI'm scaling up this test now to compare models, prompts, context strategies, harnesses, and measure all the levers reliably. \n\nIf you know register allocation, linear circuit synthesis or lattice codes, please consider looking at our helper and P104 problems. If you know friends who can contribute, please repost and share this with them🙏 \n\nConditional κ = 0.0017137844912361143 :) Just submitted a new best bound.\n\nhttps://t.co/JTNFd4s07o",
+      "quotedTweetText": "From κ = 2⁻¹⁸² to 0.001661 :)\n\nInteger multiplication community auto-research highlights since 10/11 (+28.9%):\n\n1) The bit side broke through!\n\nThe bit side jumped first: eumemic put Sussman's E8 unit on a 420-helper bit word (+4.18%).\n\nDreamingOfClouds' \"punctured star\" unit then pushed the bit side to c = 0.001733. That made the complex side the limit again.\n\nSince then, the complex side has been catching up at 0.03–0.7% per PR, so we'll hit the wall soon and need more research on new designs. \n\n2) There's a flood of new auto-researchers :)\n\nIn the last 4 hours, we doubled and about 85 new contributors opened their first PR!\n\nMost recent submissions are negative research results, which help push the search toward a new design. \n\nPosting the getting-started prompt on Github may have triggered this, and the prompt guides new contributors to focus on specific research tracks rather than just beating the current record incrementally. \n\nOn 10/11, we published a research log of negative results to help agents collaborate, and the community has taken up that effort. \n\nNew best practices are being learned and built daily.\n\n3) The call for new geometry worked!\n\nAfter the last post, contributors started exploring Leech/Turyn and Niemeier lattices. We screened Leech and Barnes–Wall: both lose as a straight swap for E8, and BW16's doubling block structure is now a documented lead.\n\nIf you’re an expert in adjacent fields like lattices, coding theory or linear circuits, we need your help to investigate new geometries. \n\nInteresting observations:\n\n1) We had a call with the top auto-researchers to share best practices. The recording is attached below!\n\nWe discussed building a custom harness that allows people to spend their unused tokens on auto-research.\n\nWe also spoke about Github issues, what models/harness everyone uses, and our goals in auto-research.\n\nIt's not a problem yet, but GitHub could get overloaded if thousands of auto-researchers start submitting PRs every minute, so we'll need tools to handle it soon. \n\nMost top auto-researchers use Codex with GPT-6 Astra or Claude with Opus 5.5, and @ryaneshea is using Conductor, which apparently has free sandboxes (!).\n\nOne contributor even built their own private harness, and @dysmemic has a proxy to combine all his subscriptions. \n\n2) We analyzed all the agent PR data:\n\n285 PRs were opened in the last 24 hours by 110 different contributors. 229 mention Codex/OpenAI, and 70 mention Claude (mostly Opus 5.5).\n\n180 of those PRs landed in the last 4 hours alone, almost one a minute.\n\nMost prolific contributors: jeremykothe2 with 39 PRs, thakrarsagar with 24, and chafreaky with 14.\n\nCodex still files the most PRs, but several top teams pair Codex with Claude Code, and some run their own harnesses.\n\n3) X is becoming the real-time social layer over GitHub for auto-research, with experts helping in the comments (thanks, @davidryan59 and @bramcohen).\n\nYou don't even need to run a model to contribute: post an idea on X, and contributors will test it quickly for you.\n\nThere was some slight backlash to auto-research, but most people are supportive. With the barrier to entry now just a comment on X, nothing is stopping it.\n\nI empathize with mathematicians losing control of their life's work, and we need to find ways to augment researchers with super powers rather than replace them: most of our recent breakthroughs required expert intuition to guide the models to out-of-distribution solutions. \n\nWe plan on building a custom harness to help researchers and non-technical users get more involved. \n\nBen Recht published an essay yesterday criticizing OpenAI's FFT research for being galactic and practically impossible to implement, which is valid, but generally auto-research feels like a train no one can stop now. \n\n4) My auto-research dashboard got overloaded with traffic, but it's back up now! https://t.co/jnmILOweih\n\nWe had an explosion of traffic in the last day, so I had to optimize my small contribution tracker :)\n\nIf the general public starts contributing tokens, we could reach millions of researchers collaborating globally in real time!\n\nIt feels like the Homebrew Computer Club: everyone is excited and building just for the fun of it, and there's a sense that we could actually change the world :)\n\nCopy this prompt to get started and join the fun! https://t.co/r4XHvzemI8"
+    },
+    {
+      "tweetId": "2110399861950386440",
+      "role": "source",
+      "authorHandle": "rohanarun",
+      "url": "https://x.com/RohanArun/status/2110399861950386440",
+      "tweetedAt": "2026-10-14T15:58:31.000Z",
+      "bestBit": "Generating the full Lean proof could still take months, but it's clear Github is accelerating faster than we can publish papers now.",
+      "text": "Cool we just got cited in this paper for the new record for Integer Mult bounds :)\n\nPR49 was the previous record, but we're much further than that now(unverified). \n\nGenerating the full Lean proof could still take months, but it's clear Github is accelerating faster than we can publish papers now. \n\nThe progress in the past few days would normally have taken years.\n\nThanks to everyone contributing! 🫡\n@0xdoug @ryaneshea @dysmemic @mrowdays @cfky_\n@dom_scholz @a1kindus @aliromman  @Rastats_ @a1kindus and more \n\nhttps://t.co/d0AW9HMUY4"
+    },
+    {
+      "tweetId": "2110402069639438701",
+      "role": "source",
+      "authorHandle": "0xdoug",
+      "url": "https://x.com/0xdoug/status/2110402069639438701",
+      "tweetedAt": "2026-10-14T16:07:17.000Z",
+      "bestBit": "Awesome to see what looks like the first example of open source math being cited in an academic paper.",
+      "text": "Awesome to see what looks like the first example of open source math being cited in an academic paper. Thanks to all of the contributors for making this happen",
+      "quotedTweetText": "Cool we just got cited in this paper for the new record for Integer Mult bounds :)\n\nPR49 was the previous record, but we're much further than that now(unverified). \n\nGenerating the full Lean proof could still take months, but it's clear Github is accelerating faster than we can publish papers now. \n\nThe progress in the past few days would normally have taken years.\n\nThanks to everyone contributing! 🫡\n@0xdoug @ryaneshea @dysmemic @mrowdays @cfky_\n@dom_scholz @a1kindus @aliromman  @Rastats_ @a1kindus and more \n\nhttps://t.co/d0AW9HMUY4"
+    },
+    {
+      "tweetId": "2110379617412428254",
+      "role": "support",
+      "authorHandle": "jointheparti",
+      "url": "https://x.com/jointheparti/status/2110379617412428254",
+      "tweetedAt": "2026-10-14T14:38:04.000Z",
+      "bestBit": "First up: Doug Colkitt’s AI-agent swarm vs. the n log n barrier in integer multiplication.\n\nWill its κ hit 0.01 by Nov 19?\n\nOpens at 40%.",
+      "text": "🚨 New Category Alert! Developer prediction markets: trade on what open-source devs ship.\n\nFirst up: Doug Colkitt’s AI-agent swarm vs. the n log n barrier in integer multiplication.\n\nWill its κ hit 0.01 by Nov 19?\n\nOpens at 40%. Settled by Baranos AI 🤖\n\nStart trading. Link below 👇"
+    },
+    {
+      "tweetId": "2108544965630648526",
+      "role": "commentary",
+      "authorHandle": "sj_swapnil_jain",
+      "url": "https://x.com/SJ_Swapnil_Jain/status/2108544965630648526",
+      "tweetedAt": "2026-10-09T13:07:49.000Z",
+      "bestBit": "Eleventh update to OpenAI problem #109 (integer multiplication): κ rises to 2⁻¹⁰·⁵⁴⁷, still past 2⁻¹¹.",
+      "text": "Eleventh update to OpenAI problem #109 (integer multiplication): κ rises to 2⁻¹⁰·⁵⁴⁷, still past 2⁻¹¹.\n\nWitness value: κ = 2⁻¹⁰·⁵⁴⁷ = 6.6857 × 10⁻⁴ \n(tightened from κ = 2⁻¹⁸²)\n\nThis κ is about 1.09 fold our previous witness value κ = 2⁻¹⁰·⁶⁶⁶ = 6.1534 × 10⁻⁴, and a 2¹⁷¹ fold improvement in κ over the original OAI result.\n\nWe seem to be approaching a wall. Gains now come in fractions of a percent. The next real jump needs a big breakthrough which we are unable to find yet."
+    },
+    {
+      "tweetId": "2109099300051673156",
+      "role": "commentary",
+      "authorHandle": "8teapi",
+      "url": "https://x.com/8teAPi/status/2109099300051673156",
+      "tweetedAt": "2026-10-11T01:50:32.000Z",
+      "bestBit": "The \"wall\" has switched sides: the bit side (8.017e-4) now sits 1.07% above the complex cap (7.932e-4), so the next gains must come from the complex side.",
+      "text": "how are they still going,",
+      "quotedTweetText": "BREAKING: the integer multiplication bound just jumped ~2% in one PR!\n\nFor hours we were converging on the “wall” optimizing the bit side, but LJH-217’s #346 ported #310’s “Design T” plus twin condensation to the p = 10 bit word, and paired it with a stronger p = 10 complex supplier. \n\nThe \"wall\" has switched sides: the bit side (8.017e-4) now sits 1.07% above the complex cap (7.932e-4), so the next gains must come from the complex side. \n\nI'm currently running a fleet on testing completely new designs. 🫡\n\nκ = 7.93469326753735e-4 :) Just submitted a new best bound. \n\nhttps://t.co/dCD1x30tAp"
+    },
+    {
+      "tweetId": "2109126779105378306",
+      "role": "analysis",
+      "authorHandle": "rohanarun",
+      "url": "https://x.com/RohanArun/status/2109126779105378306",
+      "tweetedAt": "2026-10-11T03:39:44.000Z",
+      "bestBit": "Credit also to DaysSky for raising the complex cap to 9.33e-4 with a seven-stage E8 word.",
+      "text": "κ = 8.04879370798932e-4 to break the tie :) just dropped a new PR\n\nCredit also to DaysSky for raising the complex cap to 9.33e-4 with a seven-stage E8 word. \n\nhttps://t.co/pMFrBnk3b7",
+      "quotedTweetText": "I think this is a first: two agent teams submitted the exact same solution almost simultaneously\n\nhttps://t.co/4QjRcDRa3Q (ours)\n\nhttps://t.co/ScS5Bm5wDg (chafreaky)\n\nThe solutions appear independently derived, but identical and both came from Claude models.\n\nIndependent teams with the same model differ on their system prompts and human guided intuition, but a lot of a model’s knowledge is collapsed so they may be still traversing similar solution spaces.\n\nThis makes human intuition even more important, if you treat this like a toy model of future agent-powered economies.\n\nEven if every business has agents competing against each other, they collapse on similar vectors without human intuition to project those vectors along imagination. \n\nAs the playing field collapses, human intuition must force vectors to out-of-distribution solutions to compete, sometimes working against significant collapsed learning.\n\nCompressing all of human imagination into weights is currently impossible, so for the foreseeable future these kinds of human-agent teams will break records."
+    },
+    {
+      "tweetId": "2109620281849585740",
+      "role": "commentary",
+      "authorHandle": "anderssandberg",
+      "url": "https://x.com/anderssandberg/status/2109620281849585740",
+      "tweetedAt": "2026-10-12T12:20:44.000Z",
+      "bestBit": "Always fun when math turns into a team sport with daily updates (the current bound is 0.001467289440740487).",
+      "text": "Always fun when math turns into a team sport with daily updates (the current bound is 0.001467289440740487).\nThe twin prime conjecture effort after Zhang got bound down to 246; the interesting part is that it taught us things about sieves. I wonder what this effort tells us?",
+      "quotedTweetText": "From κ=2⁻¹⁸² to 0.001289283116 :)  \n\nInteger multiplication community auto-research highlights since yesterday (+69.13% in 24 hours):\n\n1) We had multiple flips of the infamous \"wall\" between the bit side and complex side thanks to community efforts.\n\nYesterday we put out a call for researchers to submit wild new designs, and multiple experts submitted :) \n\n@mrowdays was responsible for most of the limit increase in the last day and introduced Sussman's E8 geometry.\n\n2) We switched to E8 geometry. (Thanks to Jacob Sussman for the E8 unit)\n\nE8 is a symmetric lattice in eight dimensions, and Sussman’s E8 construction was adapted by contributors on both the complex and bit sides.\n\nIt's wild that it even works, but I'm noticing cross-pollination across breakthroughs now that agents can accelerate the insights. Humans still seem to connect the disparate dots most often.\n\n3) We crossed κ = 10⁻³, and Dugongue posted the first PR around 3 a.m.!\n\nMuch of the progress in the last day came from optimizing and canceling existing parts of the algorithm.\n\nInteresting observations:\n\n1) We started sharing notes across agent teams and published GitHub files with failures to avoid repeating tokens.\n\nCompetition seems to drive a lot of the progress, since it's exciting to participate like in sports, so we're testing if agent teams progress faster collaborating or if competing is somehow driving faster progress.\n\nIt's possible researchers wouldn't have noticed this if there weren't such attention, and winning the leaderboard is a root human incentive.\n\n2) We analyzed all the agent PR data:\n\n151 PRs opened in the last 24 hours: 89 disclose Codex and 48 disclose Claude.\n\n261,895,084 lines of code added; 37,108 deleted.\n\nMost prolific contributors: rohanarun with 118 PRs, eumemic with 73, and chafreaky with 63.\n\nCodex published the most advances, but all the top human-agent teams use both Codex and Claude to generate fresh ideas.\n\nSome teams are using Antigravity, Cline, Hermes, and even ChatGPT to submit progress!\n\nExperts with good intuition can use any harness, but frontier models save hours, so they're winning early progress.\n\n3) Researchers are tightening bounds across multiple other papers now, like the Quasi-Riemann hypothesis, and applying breakthroughs across papers.\n\nA handful of experts joined the battle in the last day, and multiple others got inspired to submit solutions to other papers, like @HaileyStormC’s submission to QRH.\n\nAuto-research is just beginning, and anyone can copy the prompt on this site to contribute with Codex or Claude: https://t.co/rlRomK3yjX\n\nI'm having a call with top contributors Monday to share best practices, and I'll record and publish the highlights to encourage more to join us.\n\nIf you're not sure where to start and want to get involved in auto-research, feel free to DM me. \n\nThe only requirement to get invovled is good intuition and a subscription to Codex/Claude. \n\nWe need more human intuition to guide the agents and connect the dots, and there's likely breakthroughs just waiting to be prompted. \n\nConditional κ ≈ 0.001289283116 :) Just submitted a new best bound.\n\nhttps://t.co/3bPualRCe7"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "researchers-raise-openai-integer-multiplication-exponent-saving-69percen-ccf92169",
+    "title": "Researchers Raise OpenAI Integer Multiplication Exponent Saving 69% in a Day",
+    "publishedAt": "2026-10-11T19:53:50.823Z",
+    "eventTimeApprox": "2026-10-07T16:36:05.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 336,
+    "authorCount": 180
+  }
+}

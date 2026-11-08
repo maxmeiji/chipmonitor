@@ -1,0 +1,74 @@
+{
+  "slug": "google-and-xreal-launch-aura-wired-xr-glasses-starting-at-1099-0f62d6f0",
+  "title": "Google and Xreal Launch Aura Wired XR Glasses Starting at $1,099",
+  "publishedAt": "2026-10-28T19:36:30.199Z",
+  "eventTimeApprox": "2026-10-28T18:30:23.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "ar-vr",
+      "name": "AR-VR"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "wearables",
+      "name": "Wearables"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "QCOM",
+      "kind": "equity",
+      "role": "related",
+      "name": "Qualcomm Inc",
+      "hubKey": "qcom"
+    }
+  ],
+  "summary": "Google and Xreal have introduced the Aura, a pair of wired extended-reality glasses that run on the Android XR operating system. The device includes a processing puck equipped with a Snapdragon Reality Elite chip and will be sold for $1,099 through December, after which the price increases to $1,279.\n\nThe hardware enables users to create a private, multi-monitor digital workspace or view content on a large cinematic screen. Google's Gemini AI is integrated into the system to provide intelligent assistance directly within the glasses.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115511513037353323",
+      "role": "source",
+      "authorHandle": "android",
+      "url": "https://x.com/Android/status/2115511513037353323",
+      "tweetedAt": "2026-10-28T18:30:23.000Z",
+      "bestBit": "Build a multi-monitor, private workspace on the go",
+      "text": "It’s officially launch day! 🕶️✨Step into a new reality with @XREAL_Global AURA, seamlessly powered by Android XR.\n✨ Build a multi-monitor, private workspace on the go\n ✨Kick back with a massive cinematic screen\n ✨Gemini is built-in, giving you instant, intelligent help. \nLearn more: https://t.co/CKeSomKui5"
+    },
+    {
+      "tweetId": "2115504443705962964",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2115504443705962964",
+      "tweetedAt": "2026-10-28T18:02:18.000Z",
+      "bestBit": "Xreal Aura wired XR glasses, with Android XR and a puck with Snapdragon Reality Elite, for $1,099+ through December, then $1,279+",
+      "text": "Google and Xreal launch the Xreal Aura wired XR glasses, with Android XR and a puck with Snapdragon Reality Elite, for $1,099+ through December, then $1,279+ (@indianidle / TechCrunch)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "update-dell-warns-4-year-memory-gap-will-worsen-in-2027-778cc2c8",
+  "title": "UPDATE: Dell Warns 4 Year Memory Gap will Worsen in 2027",
+  "publishedAt": "2026-10-20T04:59:25.316Z",
+  "eventTimeApprox": "2026-10-16T18:36:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 21,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "us-markets",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "DELL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Dell Technologies Inc.",
+      "hubKey": "dell"
+    },
+    {
+      "ticker": "MU",
+      "kind": "equity",
+      "role": "related",
+      "name": "Micron Technology, Inc.",
+      "hubKey": "mu"
+    },
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "related",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Production of AI servers is being limited by a scarcity of DRAM and HBM components that may take years to resolve, CEO Michael Dell told the Wall Street Journal. The global memory shortage is a structural problem and is unlikely to see meaningful relief until 2029 or 2030 because new fabrication plants typically take four years to build. Dell Technologies currently faces a $95 billion backlog of AI servers and expects the supply crunch to intensify throughout 2027.\n\nThis projected deficit contradicts market fears of a memory oversupply by 2027, which have recently weighed on shares of Micron and SK Hynix. In response to the tight market, Google is discussing long term agreements to secure memory capacity through 2035, while Samsung has already allocated 70% of its capacity through 2031.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111493169070170548",
+      "role": "source",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2111493169070170548",
+      "tweetedAt": "2026-10-17T16:22:55.000Z",
+      "bestBit": "The real bottleneck remains getting enough memory chips to deliver all those servers, says Dell",
+      "text": "WSJ: \"The real bottleneck remains getting enough memory chips to deliver all those servers, says Dell. Next year, based on what Dell currently sees, “It’s gonna get worse.\" https://t.co/0SAkxBO9Tk"
+    },
+    {
+      "tweetId": "2111305953697993183",
+      "role": "commentary",
+      "authorHandle": "kalshi",
+      "url": "https://x.com/Kalshi/status/2111305953697993183",
+      "tweetedAt": "2026-10-17T03:59:00.000Z",
+      "bestBit": "Michael Dell expects memory crunch to get worse, per WSJ",
+      "text": "JUST IN: Michael Dell expects memory crunch to get worse, per WSJ"
+    },
+    {
+      "tweetId": "2111131954787889205",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2111131954787889205",
+      "tweetedAt": "2026-10-16T16:27:35.000Z",
+      "bestBit": "memory shortage is going to “get worse” next year with ~$95B in AI server backlog and DRAM supply still limiting deliveries",
+      "text": "$DELL CEO Michael Dell says memory shortage is going to “get worse” next year with ~$95B in AI server backlog and DRAM supply still limiting deliveries.\n\nWith new memory fabs unlikely to provide meaningful relief until 2029 or 2030, the 2027 oversupply fears weighing on $MU and $SKHY look really disconnected from what customers are actually seeing."
+    },
+    {
+      "tweetId": "2111206827790885288",
+      "role": "commentary",
+      "authorHandle": "aleabitoreddit",
+      "url": "https://x.com/aleabitoreddit/status/2111206827790885288",
+      "tweetedAt": "2026-10-16T21:25:06.000Z",
+      "bestBit": "It's a 4 year problem because there's just not enough supply",
+      "text": "Just some words of emotional support for your SK Hynix, $SNDK, $MU fanclub. \n\n$DELL CEO on memory, suggested: \"It's a 4 year problem because there's just not enough supply\"\n\nFactories take about 4 years to build, meaning new production would emerge 2029 or 2030.\n\nand that semiconductor shortages could worsen in 2027 stating:\n\n\"I do think it gets worse next year in terms of demand and supply\". \n\nI think it's strange we're getting unprecedented forward visibility with memory... as $GOOGL and richest hyperscalers seek LTAs into 2035. \n\nAnd a major sector crash as well over durability/financing concerns.",
+      "quotedTweetText": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. \n\nThey also expect HBM prices up 80% to 100% in the Q1 2027. \n\nHaving all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "dell-shields-business-from-ai-bust-with-just-in-time-model-73c3c008",
+    "title": "Dell Shields Business from AI Bust With Just in Time Model",
+    "publishedAt": "2026-10-16T16:40:51.516Z",
+    "eventTimeApprox": "2026-10-16T16:14:36.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 12,
+    "authorCount": 8
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "genreasoning-debuts-rlcr-framework-to-build-collaborative-ai-agent-organ-e460e177",
+  "title": "GenReasoning Debuts RLCR Framework to Build Collaborative AI Agent Organizations",
+  "publishedAt": "2026-10-23T12:38:28.782Z",
+  "eventTimeApprox": "2026-10-23T11:57:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "summary": "Reinforcement Learning from Collective Rewards (RLCR) is a new training framework that develops language models into collaborative agent organizations that share a workspace and message board. GenReasoning used the method to train the 120B parameter Avalon-M1-Mini to study how models interact within this collective structure.\n\nThe company reported that the training led to the emergence of organizational hierarchies, divisions of labor, and increased verification through the recruitment of specialized testers and verifiers. GenReasoning stated the RLCR framework is intended to act as a laboratory for studying collective intelligence and the safety of multi-agent systems.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113590771722952908",
+      "role": "source",
+      "authorHandle": "genreasoning",
+      "url": "https://x.com/GenReasoning/status/2113590771722952908",
+      "tweetedAt": "2026-10-23T11:18:03.000Z",
+      "bestBit": "RLCR is a recipe that trains language models as agent organisations, which share a message board and workspace.",
+      "text": "Introducing Reinforcement Learning from Collective Rewards (RLCR).\n\nRLCR is a recipe that trains language models as agent organisations, which share a message board and workspace. We use it to train Avalon-M1-Mini (120B) and study its behaviour.\n\nWe find a number of interesting results, including:\n\n🛠️ Learnt organisational hierarchies and divisions of labour\n🕵️ Increased collective verification, through hires of verifiers and testers\n👥 The rise of collective thinking, where agents think more about other agents and how to help them\n\nWe believe RLCR can provide a laboratory for studying collective intelligence and multi-agent safety.\n\nBlog post and technical report 👇"
+    },
+    {
+      "tweetId": "2113600816540192951",
+      "role": "commentary",
+      "authorHandle": "_lewtun",
+      "url": "https://x.com/_lewtun/status/2113600816540192951",
+      "tweetedAt": "2026-10-23T11:57:58.000Z",
+      "bestBit": "The RLCR paper is about to get 1000x more citations ;)",
+      "text": "The RLCR paper is about to get 1000x more citations ;) https://t.co/P4zzTQ3VaP",
+      "quotedTweetText": "Introducing Reinforcement Learning from Collective Rewards (RLCR).\n\nRLCR is a recipe that trains language models as agent organisations, which share a message board and workspace. We use it to train Avalon-M1-Mini (120B) and study its behaviour.\n\nWe find a number of interesting results, including:\n\n🛠️ Learnt organisational hierarchies and divisions of labour\n🕵️ Increased collective verification, through hires of verifiers and testers\n👥 The rise of collective thinking, where agents think more about other agents and how to help them\n\nWe believe RLCR can provide a laboratory for studying collective intelligence and multi-agent safety.\n\nBlog post and technical report 👇"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "azure-models-still-vulnerable-to-hidden-reasoning-extraction-e3dac726",
+  "title": "Azure Models Still Vulnerable to Hidden Reasoning Extraction",
+  "publishedAt": "2026-10-02T07:26:43.112Z",
+  "eventTimeApprox": "2026-09-30T17:03:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 35,
+  "authorCount": 30,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "PVT:MNSH",
+      "kind": "private",
+      "role": "related",
+      "name": "Moonshot AI",
+      "hubKey": "moonshot-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105357204836471248/HTe7N3VXcAAAbFj-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105357204836471248/HTe7N3VXcAAAbFj-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "jschaeff3r",
+      "tweetUrl": "https://x.com/JSchaeff3r/status/2105357204836471248"
+    }
+  },
+  "summary": "A September 13 audit by security researchers revealed that 'replay extraction' for AI reasoning remains functional on the Azure platform for tested OpenAI models and Anthropic's Opus 4.8. The findings show that while replay extraction is now blocked on direct APIs from OpenAI and Anthropic, the vulnerability persists in the cloud-hosting ecosystem. This discrepancy indicates that patching a primary API does not automatically secure AI models hosted on third-party infrastructure.\n\nThe discovery follows OpenAI's disruption of a coordinated campaign that began July 1 to distill its models by extracting hidden reasoning. OpenAI attributed a core cluster of the activity to individuals linked to Moonshot AI, the developer of the Kimi chatbot. The campaign peaked on July 24 and 25 with 16,000 attempted extractions from over 4,000 users, and researchers identified related activity across more than 15,000 users. Operators copied encrypted reasoning from one conversation to another, prompting the model to decrypt the content. OpenAI banned the associated accounts and closed the replay pathway on its own services, noting that recorded figures represent attempts rather than confirmed successful extractions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105344923235160433",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2105344923235160433",
+      "tweetedAt": "2026-09-30T17:11:59.000Z",
+      "bestBit": "The activity began July 1 and spiked to around 16,000 extraction attempts across 4,000+ users on July 24-25",
+      "text": "OPENAI SAYS KIMI-LINKED USERS TRIED TO DISTILL ITS MODELS\n\nOpenAI says it disrupted a coordinated campaign aimed at extracting protected reasoning from its models, with a core cluster linked to individuals associated with Moonshot AI, the developer of Kimi.\n\nThe activity began July 1 and spiked to around 16,000 extraction attempts across 4,000+ users on July 24-25.\n\nOpenAI later identified related activity across a broader cluster of more than 15,000 users.\n\nOne method involved taking encrypted reasoning from one conversation and asking another model to decrypt and reproduce it.\n\nOpenAI says there was no breach of its databases, encryption or stored user conversations.\n\nThe company banned or restricted accounts, closed the extraction pathway and shared its findings with industry and government partners.\n\nOpenAI says the figures represent attempted extractions, not necessarily successful ones."
+    },
+    {
+      "tweetId": "2105347815539085452",
+      "role": "source",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2105347815539085452",
+      "tweetedAt": "2026-09-30T17:23:29.000Z",
+      "bestBit": "attribute a core cluster of the activity to individuals associated with Moonshot AI, the developer of Kimi",
+      "text": "Quoting from the post:\n\n'It is unclear whether all operators we observed during the relevant time period originated from a single actor. However, we attribute a core cluster of the activity to individuals associated with Moonshot AI, the developer of Kimi.' https://t.co/vHZ0IB1xUE"
+    },
+    {
+      "tweetId": "2105356987630543057",
+      "role": "source",
+      "authorHandle": "jschaeff3r",
+      "url": "https://x.com/JSchaeff3r/status/2105356987630543057",
+      "tweetedAt": "2026-09-30T17:59:56.000Z",
+      "bestBit": "Patching your own API doesn’t secure your cloud-hosting ecosystem",
+      "text": "We stole reasoning. Again. \n\nAn update to our paper on reasoning extraction: Patching your own API doesn’t secure your cloud-hosting ecosystem.\n\nStory in the 🧵 https://t.co/7mwWQiSaEw"
+    },
+    {
+      "tweetId": "2105357204836471248",
+      "role": "support",
+      "authorHandle": "jschaeff3r",
+      "url": "https://x.com/JSchaeff3r/status/2105357204836471248",
+      "tweetedAt": "2026-09-30T18:00:47.000Z",
+      "bestBit": "September 13 audit found replay extraction blocked on direct OpenAI/Anthropic APIs but still working on Azure",
+      "text": "This is the timeline of disclosures and patches. We’ve been working with the involved parties to accelerate defenses. Our September 13 audit found replay extraction blocked on direct OpenAI/Anthropic APIs but still working on Azure for tested OpenAI models and Opus 4.8. Same models but different defenses, depending on which platform serves them."
+    },
+    {
+      "tweetId": "2105917350042354061",
+      "role": "commentary",
+      "authorHandle": "npinto",
+      "url": "https://x.com/npinto/status/2105917350042354061",
+      "tweetedAt": "2026-10-02T07:06:36.000Z",
+      "bestBit": "Load-bearing vs. defense-in-depth ;-)",
+      "text": "Load-bearing vs. defense-in-depth ;-)",
+      "quotedTweetText": "This is the timeline of disclosures and patches. We’ve been working with the involved parties to accelerate defenses. Our September 13 audit found replay extraction blocked on direct OpenAI/Anthropic APIs but still working on Azure for tested OpenAI models and Opus 4.8. Same models but different defenses, depending on which platform serves them."
+    },
+    {
+      "tweetId": "2105351603444420995",
+      "role": "commentary",
+      "authorHandle": "natolambert",
+      "url": "https://x.com/natolambert/status/2105351603444420995",
+      "tweetedAt": "2026-09-30T17:38:32.000Z",
+      "bestBit": "manipulated model interactions so that protected reasoning could be reproduced in forms visible to the requester",
+      "text": "“Instead, they manipulated model interactions so that protected reasoning could be reproduced in forms visible to the requester in a coordinated, scaled manner that violated our terms of service”\n\nIt’s the API company’s problem if their model can be manipulated like this. Add KYC",
+      "quotedTweetText": "Quoting from the post:\n\n'It is unclear whether all operators we observed during the relevant time period originated from a single actor. However, we attribute a core cluster of the activity to individuals associated with Moonshot AI, the developer of Kimi.' https://t.co/vHZ0IB1xUE"
+    },
+    {
+      "tweetId": "2105678615970988339",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2105678615970988339",
+      "tweetedAt": "2026-10-01T15:17:58.000Z",
+      "bestBit": "copied encrypted reasoning from one conversation into another, then asked the model to decrypt and transcribe it",
+      "text": "A coordinated campaign tried to extract hidden reasoning from @OpenAI's models, according to a new report. The company attributes a core cluster to individuals associated with Moonshot AI, the company behind Kimi.\n\nThe technique is pretty wild: operators copied encrypted reasoning from one conversation into another, then asked the model to decrypt and transcribe it. The goal was to collect internal reasoning that could help train competing models. OpenAI recorded 16,000 extraction attempts during a two-day spike in July and identified related activity across more than 15,000 users.\n\nOpenAI says it closed the extraction pathway and banned or restricted accounts involved. Those numbers represent attempts, not confirmed successful extractions, and it hasn't attributed the entire campaign to Moonshot. Still, that's a very direct accusation against the people behind one of China's leading AI models."
+    },
+    {
+      "tweetId": "2105525388239884670",
+      "role": "commentary",
+      "authorHandle": "pashmerepat",
+      "url": "https://x.com/pashmerepat/status/2105525388239884670",
+      "tweetedAt": "2026-10-01T05:09:05.000Z",
+      "bestBit": "pewdiepie used an exploit to decrypt reasoning tokens and was banned",
+      "text": "pewdiepie used an exploit to decrypt reasoning tokens and was banned\n\ni'm very conflicted here"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-disrupts-moonshot-ai-campaign-to-extract-model-reasoning-69cd8eaa",
+    "title": "OpenAI Disrupts Moonshot AI Campaign to Extract Model Reasoning",
+    "publishedAt": "2026-09-30T17:23:14.795Z",
+    "eventTimeApprox": "2026-09-30T17:03:16.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "cybersecurity"
+    ],
+    "tweetCount": 31,
+    "authorCount": 27
+  }
+}

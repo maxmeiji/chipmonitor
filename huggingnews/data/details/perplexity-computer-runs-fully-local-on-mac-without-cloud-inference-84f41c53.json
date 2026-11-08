@@ -1,0 +1,68 @@
+{
+  "slug": "perplexity-computer-runs-fully-local-on-mac-without-cloud-inference-84f41c53",
+  "title": "Perplexity Computer Runs Fully Local on Mac Without Cloud Inference",
+  "publishedAt": "2026-10-20T16:53:21.224Z",
+  "eventTimeApprox": "2026-10-20T15:53:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:PPLX",
+      "kind": "private",
+      "role": "subject",
+      "name": "Perplexity AI",
+      "hubKey": "perplexity-ai"
+    }
+  ],
+  "summary": "The AI's model and agent now execute entirely on a user's device in the latest update of the company's macOS application. This shift allows Perplexity Computer to interact with native apps and local files without transmitting sensitive user data to external servers for processing.\n\nThe system no longer requires cloud-based inference and can operate without a WiFi connection. The local functionality is available now for users through the Perplexity Mac app.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112571597798461920",
+      "role": "source",
+      "authorHandle": "perplexity_ai",
+      "url": "https://x.com/perplexity_ai/status/2112571597798461920",
+      "tweetedAt": "2026-10-20T15:48:13.000Z",
+      "bestBit": "Work with your native Mac apps and local files, and run tasks without sending sensitive data to the cloud",
+      "text": "Perplexity Computer can now run fully local on your Mac.\n\nWork with your native Mac apps and local files, and run tasks without sending sensitive data to the cloud. The model and the agent both run on your Mac.\n\nAvailable now in the Perplexity Mac app. https://t.co/tnvCgCXD7v"
+    },
+    {
+      "tweetId": "2112583333825950207",
+      "role": "support",
+      "authorHandle": "aravsrinivas",
+      "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+      "tweetedAt": "2026-10-20T16:34:51.000Z",
+      "bestBit": "run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too",
+      "text": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+      "quotedTweetText": "Perplexity Computer can now run fully local on your Mac.\n\nWork with your native Mac apps and local files, and run tasks without sending sensitive data to the cloud. The model and the agent both run on your Mac.\n\nAvailable now in the Perplexity Mac app. https://t.co/tnvCgCXD7v"
+    }
+  ],
+  "isSuperseded": false
+}

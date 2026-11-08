@@ -1,0 +1,58 @@
+{
+  "slug": "googles-gemini-4-carbon-matches-opus-55-in-coding-577c596a",
+  "title": "Google’s Gemini 4 Carbon Matches Opus 5.5 in Coding",
+  "publishedAt": "2026-10-09T20:23:12.647Z",
+  "eventTimeApprox": "2026-10-09T19:47:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 15,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Internal researchers at Google are currently validating the benchmarks of an unreleased artificial intelligence model. The system, a Gemini 4 checkpoint codenamed Carbon, matches the coding capabilities of Opus 5.5 and behaves similarly in general use, according to internal documents and screenshots seen by Business Insider.\n\nThe trials occur as Google preps for the public release of a different model known as Argon. Carbon serves as the next iteration in the company's AI development sequence and follows the planned deployment of the Argon model.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108651657915732034",
+      "role": "source",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2108651657915732034",
+      "tweetedAt": "2026-10-09T20:11:46.000Z",
+      "bestBit": "Google is internally testing a new Gemini 4 checkpoint named Carbon that matches Opus 5.5 in coding",
+      "text": "Business Insider is reporting that Google is internally testing a new Gemini 4 checkpoint named Carbon that matches Opus 5.5 in coding. https://t.co/uRwpqm5k0Y"
+    },
+    {
+      "tweetId": "2108645605702582727",
+      "role": "commentary",
+      "authorHandle": "negligible_cap",
+      "url": "https://x.com/negligible_cap/status/2108645605702582727",
+      "tweetedAt": "2026-10-09T19:47:43.000Z",
+      "bestBit": "employees say Carbon feels exactly like Opus 5.5",
+      "text": "As Google is prepping to Argon rollout to the public, employees are testing the next model internally known as Carbon\n\nPer documents and screenshots seen by Business Insider, employees say Carbon feels exactly like Opus 5.5\n\nIt’s wild to me that people still genuinely believe that Google will never be able to catch the frontier"
+    }
+  ],
+  "isSuperseded": false
+}

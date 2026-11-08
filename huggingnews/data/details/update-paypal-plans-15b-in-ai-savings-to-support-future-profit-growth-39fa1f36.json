@@ -1,0 +1,96 @@
+{
+  "slug": "update-paypal-plans-15b-in-ai-savings-to-support-future-profit-growth-39fa1f36",
+  "title": "UPDATE: PayPal Plans $1.5B in AI Savings to Support Future Profit Growth",
+  "publishedAt": "2026-10-27T16:23:30.995Z",
+  "eventTimeApprox": "2026-10-27T11:42:45.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "earnings",
+    "us-markets",
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PYPL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "PayPal Holdings, Inc. Common Stock",
+      "hubKey": "pypl"
+    }
+  ],
+  "summary": "PayPal aims to cut costs by $1.5B over the next few years by deploying AI agents in customer service as part of a plan to drive long-term profitability. CEO Enrique Lores forecast that the company can achieve \"sustainable double-digit\" non-GAAP earnings growth in the medium term, citing a strategy that combines share buybacks and transaction margin expansion with ongoing operational efficiency.\n\nThe outlook follows a third-quarter report in which PayPal raised its full-year adjusted earnings per share guide to approximately $5.60, up from $5.38. While the company posted an adjusted EPS of $1.45, beating the $1.31 analyst estimate, its quarterly revenue of $8.58B missed the $8.71B forecast. The profit targets are underpinned by a reduction of more than 2,000 jobs this year, including over 25% of management layers, while its Venmo unit reported that quarterly payment volume grew 12% to $97.4B.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115036744802296160",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115036744802296160",
+      "tweetedAt": "2026-10-27T11:03:50.000Z",
+      "bestBit": "FY26 Guide: 🔹 Adj. EPS: ~$5.60 (Est. $5.38) 🟢; from ~$5.38",
+      "text": "PAYPAL $PYPL Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $8.6B (Est. $8.71B) 🔴; +2% YoY\n🔹 Adj. EPS: $1.45 (Est. $1.31) 🟢; +8% YoY\n🔹 TM$: $4.0B; +2% YoY\n\nFY26 Guide:\n🔹 Adj. EPS: ~$5.60 (Est. $5.38) 🟢; from ~$5.38\n🔹 GAAP EPS: ~$5.07\n\nQ4 Guide:\n🔹 Adj. EPS: ~$1.43 (Est. $1.35) 🟢\n🔹 GAAP EPS: ~$1.37\n\nOther Q3 Metrics:\n🔹 TPV: $487.1B (Est. $489.44B) 🔴; +6% YoY\n🔹 FCF: $1.4B; -17% YoY\n🔹 Non-GAAP Operating Margin: 18.8%; +16 bps YoY\n\nCapital Return:\n🔹 Buybacks: $1.5B\n🔹 Dividend: $0.14/share\n\nComments:\n🔸 “we are raising our full-year non-GAAP guidance for transaction margin dollars and EPS”\n\n🔸 “strong contributions from our key growth areas and increasing diversification”"
+    },
+    {
+      "tweetId": "2115060506503647487",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115060506503647487",
+      "tweetedAt": "2026-10-27T12:38:15.000Z",
+      "bestBit": "CEO Enrique Lores sees “sustainable double-digit EPS growth” in the medium term.",
+      "text": "PayPal $PYPL expects 2027 non-GAAP EPS growth similar to 2026, despite plans to increase investment.\n\nCEO Enrique Lores sees “sustainable double-digit EPS growth” in the medium term.\n\nHe cites mid-single-digit transaction margin growth, cost savings and buybacks. https://t.co/6pIvfDjNjW"
+    },
+    {
+      "tweetId": "2115081362155921699",
+      "role": "support",
+      "authorHandle": "fiscal_ai",
+      "url": "https://x.com/Fiscal_ai/status/2115081362155921699",
+      "tweetedAt": "2026-10-27T14:01:07.000Z",
+      "bestBit": "Q3 Venmo TPV: $97.4B (+12% YoY)",
+      "text": "Venmo now processes almost $100 billion in quarterly payment volume.\n\nQ3 Venmo TPV: $97.4B (+12% YoY)\n\n$PYPL https://t.co/at2fVQ8hvw"
+    },
+    {
+      "tweetId": "2115112033352056871",
+      "role": "commentary",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2115112033352056871",
+      "tweetedAt": "2026-10-27T16:03:00.000Z",
+      "bestBit": "Next they expect $1.5B more in savings with AI agents in customer service the next few years.",
+      "text": "$PYPL: 2,000+ jobs cut this year, 25%+ of managers gone, and their profit outlook was raised anyway. \n\nNext they expect $1.5B more in savings with AI agents in customer service the next few years.\n\nFintech copycats will follow this success. \n\nMiddle management watch out!",
+      "quotedTweetText": "I heard PayPal's CEO say AI lets them do in 18 months what used to take three or four years. His plan: \"reduce manager layers.\" In San Jose, 251 people, nearly 50 of them directors, leave Oct 30. Here's what he said on stage and what he left out. https://t.co/aovcRLM4uC"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "paypal-lifts-full-year-profit-guide-as-q3-adjusted-earnings-beat-expecta-0e1e9760",
+    "title": "PayPal Lifts Full Year Profit Guide as Q3 Adjusted Earnings Beat Expectations",
+    "publishedAt": "2026-10-27T11:24:16.390Z",
+    "eventTimeApprox": "2026-10-27T11:03:50.500Z",
+    "routingTopicKeys": [
+      "earnings",
+      "us-markets"
+    ],
+    "tweetCount": 13,
+    "authorCount": 12
+  }
+}

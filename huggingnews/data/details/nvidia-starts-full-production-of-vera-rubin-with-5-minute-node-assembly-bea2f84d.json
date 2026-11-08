@@ -1,0 +1,70 @@
+{
+  "slug": "nvidia-starts-full-production-of-vera-rubin-with-5-minute-node-assembly-bea2f84d",
+  "title": "Nvidia Starts Full Production of Vera Rubin with 5 Minute Node Assembly",
+  "publishedAt": "2026-10-21T22:09:31.496Z",
+  "eventTimeApprox": "2026-10-21T17:23:18.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112839735148458137/aVhxtF5rm-UaSVHa-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112839735148458137/aVhxtF5rm-UaSVHa-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2112839398916304896/vid/avc1/1920x1080/JtTbznuxg9Sxrozl.mp4?tag=29",
+    "credit": {
+      "handle": "firesidealpha",
+      "tweetUrl": "https://x.com/firesidealpha/status/2112839735148458137"
+    }
+  },
+  "summary": "Cables and wires have been completely eliminated from Nvidia's newest AI computing hardware in favor of total liquid cooling. Jensen Huang revealed a Vera Rubin node on stage, announcing that the system has entered full production and takes less than 5 minutes to assemble, compared to the 2 hours required for Grace Blackwell. Each node incorporates 2 GPUs and employs 100% liquid cooling.\n\nThe new architecture replaces the 80% liquid cooling used in the Grace Blackwell design. Huang stated that the simplified construction translates to higher manufacturing cycle times, as well as increased reliability and better performance compared to previous iterations.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112839735148458137",
+      "role": "source",
+      "authorHandle": "firesidealpha",
+      "url": "https://x.com/firesidealpha/status/2112839735148458137",
+      "tweetedAt": "2026-10-21T09:33:42.000Z",
+      "bestBit": "what took two hours to assemble on Grace Blackwell now takes under five minutes, with no cables and 100% liquid cooling",
+      "text": "Jensen Huang holds up a Vera Rubin node on stage: what took two hours to assemble on Grace Blackwell now takes under five minutes, with no cables and 100% liquid cooling\n\n“So Vera Rubin is in full production. It’s nice to kind of see it. This is the first computer in the world that we’ve created. No cables, no wires, completely 100% liquid cooled. And it’s just really delightful...Really delightful to be able to pull it out. And this is one Vera Rubin computer. Okay, so this has two GPUs.\"\n\n\"What used to take, in the case of Grace Blackwell, two hours to assemble one node, and when you see it, you’ll know what I mean. Cables and wires everywhere, 80% liquid cooled.\"\n\n\"Now Vera Rubin is 100% liquid cooled, and it takes less than five minutes to assemble it. And so, incredible, incredible achievement.\"\n\n\"Of course, this translates to higher cycle times in manufacturing, much, much better reliability, and of course, a lot better performance.”"
+    },
+    {
+      "tweetId": "2113026121235402799",
+      "role": "commentary",
+      "authorHandle": "mattparlmer",
+      "url": "https://x.com/mattparlmer/status/2113026121235402799",
+      "tweetedAt": "2026-10-21T21:54:20.000Z",
+      "bestBit": "Every computer should have this level of functional design",
+      "text": "Every computer should have this level of functional design",
+      "quotedTweetText": "Jensen Huang holds up a Vera Rubin node on stage: what took two hours to assemble on Grace Blackwell now takes under five minutes, with no cables and 100% liquid cooling\n\n“So Vera Rubin is in full production. It’s nice to kind of see it. This is the first computer in the world that we’ve created. No cables, no wires, completely 100% liquid cooled. And it’s just really delightful...Really delightful to be able to pull it out. And this is one Vera Rubin computer. Okay, so this has two GPUs.\"\n\n\"What used to take, in the case of Grace Blackwell, two hours to assemble one node, and when you see it, you’ll know what I mean. Cables and wires everywhere, 80% liquid cooled.\"\n\n\"Now Vera Rubin is 100% liquid cooled, and it takes less than five minutes to assemble it. And so, incredible, incredible achievement.\"\n\n\"Of course, this translates to higher cycle times in manufacturing, much, much better reliability, and of course, a lot better performance.”"
+    }
+  ],
+  "isSuperseded": false
+}

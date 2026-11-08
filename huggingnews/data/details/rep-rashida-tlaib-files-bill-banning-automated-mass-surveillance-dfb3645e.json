@@ -1,0 +1,68 @@
+{
+  "slug": "rep-rashida-tlaib-files-bill-banning-automated-mass-surveillance-dfb3645e",
+  "title": "Rep. Rashida Tlaib Files Bill Banning Automated Mass Surveillance",
+  "publishedAt": "2026-10-15T00:38:14.937Z",
+  "eventTimeApprox": "2026-10-15T00:21:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-legislation",
+      "name": "US Legislation"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110463346881474670/HUnfOguWIAAIuhN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110463346881474670/HUnfOguWIAAIuhN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "reprashida",
+      "tweetUrl": "https://x.com/RepRashida/status/2110463346881474670"
+    }
+  },
+  "summary": "The Get the Flock Out of Our Communities Act seeks to outlaw automated mass surveillance across the United States, specifically targeting facial recognition and biometric systems. Rep. Rashida Tlaib introduced the legislation and described it as the only bill currently in Congress designed to completely prohibit the use of these surveillance technologies.\n\nTlaib announced the proposal at a press conference in Inkster, Michigan, on the same day that two children from that city were rescued using Flock surveillance technology. The coincidence of the rescue and the announcement of a ban on the same system drew criticism from observers in Inkster.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110463346881474670",
+      "role": "source",
+      "authorHandle": "reprashida",
+      "url": "https://x.com/RepRashida/status/2110463346881474670",
+      "tweetedAt": "2026-10-14T20:10:47.000Z",
+      "bestBit": "completely prohibit the use of automated mass surveillance technology, including biometric surveillance systems and facial recognition technology",
+      "text": "I’m telling mass surveillance technology to get the flock out of here.\n\nMy new bill, the Get the Flock Out of Our Communities Act, is the only bill in Congress designed to completely prohibit the use of automated mass surveillance technology, including biometric surveillance systems and facial recognition technology."
+    },
+    {
+      "tweetId": "2110526408443232764",
+      "role": "commentary",
+      "authorHandle": "peterjhasson",
+      "url": "https://x.com/peterjhasson/status/2110526408443232764",
+      "tweetedAt": "2026-10-15T00:21:22.000Z",
+      "bestBit": "2 children FROM THAT EXACT TOWN were rescued thanks to Flock",
+      "text": "This is absolutely incredible. Rashida Tlaib held a press conference today in Inkster, Michigan, demanding a ban on Flock... \n\n...on the EXACT SAME DAY that 2 children FROM THAT EXACT TOWN were rescued thanks to Flock https://t.co/Nf0zdG4G6K",
+      "quotedTweetText": "I’m telling mass surveillance technology to get the flock out of here.\n\nMy new bill, the Get the Flock Out of Our Communities Act, is the only bill in Congress designed to completely prohibit the use of automated mass surveillance technology, including biometric surveillance systems and facial recognition technology."
+    }
+  ],
+  "isSuperseded": false
+}

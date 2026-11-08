@@ -1,0 +1,155 @@
+{
+  "slug": "update-openai-math-results-threaten-encryption-for-online-payments-and-c-5d369370",
+  "title": "UPDATE: OpenAI Math Results Threaten Encryption for Online Payments and Crypto",
+  "publishedAt": "2026-10-16T17:55:23.046Z",
+  "eventTimeApprox": "2026-10-08T14:42:08.500Z",
+  "isFreshStory": false,
+  "tweetCount": 57,
+  "authorCount": 28,
+  "routingTopicKeys": [
+    "crypto",
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "crypto",
+  "topicTags": [
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "blockchains",
+      "name": "Blockchains"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "BTGO",
+      "kind": "equity",
+      "role": "related",
+      "name": "BitGo Holdings, Inc.",
+      "hubKey": "btgo"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107987784707514462/HUETtj7bEAAyuFt-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107987784707514462/HUETtj7bEAAyuFt-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "wublockchain",
+      "tweetUrl": "https://x.com/WuBlockchain/status/2107987784707514462"
+    }
+  },
+  "summary": "Leading computer scientists and cryptographers are warning that OpenAI's release of over 300 solved mathematical problems puts public-key encryption at risk. These algorithms secure most internet connections, including messaging services like WhatsApp and online payment systems, and rely on the computational difficulty of deriving a private key from a public one. Matthew Green, a professor at Johns Hopkins University, estimates a 15% probability that AI will erode confidence in these encryption standards, potentially compromising secure communications and financial transactions.\n\nThe alarm follows concerns from Ethereum co-founder Vitalik Buterin that AI could weaken lattice-based cryptography within two years, potentially endangering the industry before quantum computing becomes a reality. Ethereum researcher Justin Drake previously urged holders to move assets to 'fresh addresses' to mitigate risks to the ECDSA signature scheme, while BitGo deployed tools to score wallet vulnerability. Conversely, Galaxy Research noted that none of the 722 results published by OpenAI were directly related to cryptography and none have been externally verified by mathematicians.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107837081313505768",
+      "role": "source",
+      "authorHandle": "drakefjustin",
+      "url": "https://x.com/drakefjustin/status/2107837081313505768",
+      "tweetedAt": "2026-10-07T14:14:56.000Z",
+      "bestBit": "call upon the blockchain industry to calmly begin planning for \"bunker mode\"",
+      "text": "Today I call upon the blockchain industry to calmly begin planning for \"bunker mode\". My personal recommendation is to set in motion a controlled mass migration of assets to fresh addresses, i.e. addresses whose pubkeys remain hidden behind a hash.\n\nHolders, starting with large and sophisticated ones, should consider moving the bulk of their funds to addresses that have never signed a transaction. And when they do sign one, they should also move remaining funds to a new address (possibly generated from the same seed phrase).\n\nDon't rush. While I believe there is cause for action a rushed migration would do more harm than good. Don't panic either. Moving assets to protected addresses is a simple, preventative step which does not require new cryptography or new wallets.\n\nIMO it is now reasonable to brace for the possibility that ECDSA breaks before qday, in the worst case in months not years. By \"break\" I mean fast private key recovery (e.g. in one week) on available hardware (e.g. a large GPU cluster).\n\nRecent days have been humbling for human mathematical intuition. Long-held, unquestioned hypotheses have fallen. This includes the n log(n) bound for integer multiplication and the 3SUM conjecture. In hindsight, May's unexpected disproof of the Erdős unit distance conjecture was our warning shot.\n\nYesterday's OpenAI drop made it clear that mathematical superintelligence is upon us. They say there are weeks where decades happen. We are about to live through weeks where centuries of mathematical progress happen. Could our magic 64-byte ECDSA signatures be too good to be true? Was it just security through obscurity all this time?\n\nElliptic curves feel especially vulnerable to superintelligence. Curves carry rich structure, with room for fancy tricks like Schoof, Frobenius, pairings. (By contrast, hashes are designed to minimise algebraic structure.)\n\nSeparately, as Ewin Tang can attest, an efficient quantum algorithm sometimes foreshadows an efficient classical one. We should be open to the possibility of a classical counterpart to Shor that breaks elliptic curves and RSA at once.\n\nAlso noteworthy is the striking under-representation of cryptographic breakthroughs among the 722 mathematical results OpenAI published. I've witnessed first-hand the US government censoring academic quantum cryptanalysis results. Backroom interventionism is my base case.\n\nI urge large, sophisticated actors to lead by example. Project11's \"risq list\" (bitcoin-risq-list.projecteleven[.]com) is a great tracker of exposed BTC pubkeys. Binance, Bitbank, Robinhood, Bitfinex, and Tether have an opportunity to harden their cold storage. Next month I'll address institutions in London in a live Q&A (forum.ethereuminstitutional[.]org/london-2026).\n\nAgain, please do not rush. Wallets holding under 50 BTC enjoy partial cover from \"Satoshi's shield\", i.e. his 20K exposed addresses that hold 50 BTC each. Load-bearing signers like oracles and L2 security councils should consider rotating ECDSA pubkeys with every signed message and/or multi-signing with a hash-based schemes like SPHINCS.\n\nExiting bunker mode safely will require post-AI cryptography. My inclination is to go all-in on hash-based cryptography and avoid structured mathematical assumptions entirely, whether from curves, lattices, or isogenies. A single battle-tested hash (e.g. from the SHA or BLAKE families) yields plausible post-AI security.\n\nThe Ethereum roadmap on strawmap[.]org fully embraces hash-based cryptography with end-to-end formal verification as a response to the quantum threat. Those timelines must now be revisited and accelerated in light of mathematical superintelligence. I'll be pushing for maximum defensive acceleration."
+    },
+    {
+      "tweetId": "2110426687615766942",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2110426687615766942",
+      "tweetedAt": "2026-10-14T17:45:06.000Z",
+      "bestBit": "further breakthroughs could threaten the encryption protecting online payments, messaging apps and cryptocurrencies",
+      "text": "OpenAI’s release of more than 300 AI-solved math results has alarmed leading cryptographers. \n\nSome warn that further breakthroughs could threaten the encryption protecting online payments, messaging apps and cryptocurrencies. \n\nRead more: https://t.co/2vzX2sEOuj"
+    },
+    {
+      "tweetId": "2108096513402663249",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2108096513402663249",
+      "tweetedAt": "2026-10-08T07:25:49.000Z",
+      "bestBit": "if AI will bring us 50 years of math in 2 years, then that 50 years of math may very plausibly include a \"naive factoring -> GNFS\" level of improvement",
+      "text": "Vitalik is very soberly explaining just how close to the cliff's edge we are\n(quite) https://t.co/x7pm4Ms8xl",
+      "quotedTweetText": "I don't recommend anyone scramble to move their funds to new wallets today. But we should take the risks to cryptography from AI-accelerated math seriously, and minimize our exposure to not just quantum-vulnerable cryptography, but also potentially AI-vulnerable cryptography.\n\nThe core new area of risk from this viewpoint is, unfortunately, ML-DSA / FHE / lattices.\n\n(and it's also another reason, along with quantum, why ECDSA might fall even faster than expected, hence the \"fresh address\" recommendation)\n\nSo far most people have been in the mode of thinking \"elliptic curves broken, hashes safe, lattices safe\". But there is a good chance that the concrete security of lattices will take serious hits from the next two years of AI math.\n\nThe basic threat model is: factoring is something that naively takes 2^(n/2) time, but over decades smart people have found and optimized number field sieves, and degraded that to 2^O(n^(1/3)), which is why RSA keys and signatures need to be ~400 bytes (and not 64 bytes). What if there are skeletons in the closet like that, both for elliptic curves and lattices, that we are simply not smart enough to discover - but bots soon will be?\n\nThis is a major part of the reason why for the past year ethereum's lean roadmap has been going in the \"hash-only\" direction: no lattices, no ML-DSA, no Falcon, no lattice-based commitments inside ZK proofs, etc. Signatures in lean ethereum are all hash-based, either WOTS or SPHINCS-.\n\nFor signatures and proofs, we already know how to go hash-only. The bigger challenge is for *public-key encryption* - and this goes far beyond blockchains. Secure communication, anonymizing protocols, lots of things need public-key encryption.\n\nAnd unfortunately there are long-standing mathematical theorems showing why public-key encryption cannot be done with hashes alone. You have to have some kind of trapdoor object that has at least one form of usable \"structure\" - either group theory (incl. isogenies) or lattices or code-based or potentially in the future even more newfangled and spooky things (local mixing?). But for anything that has structure, you should assume that AI will make at least some progress in breaking that structure. Here, one reasonable inference is that if you want to make something plausibly long-term secure, multiply the key sizes by 10.\n\nTo me that's a very plausible world and something not at all extreme to predict. If AI will bring us 50 years of math in 2 years, then that 50 years of math may very plausibly include a \"naive factoring -> GNFS\" level of improvement to our ability to break lattices. In that world, lattices will still exist, but they will have to be significantly bigger to guarantee the same level of safety.\n\nAnd at those new larger sizes, hash-based constructions will beat lattice-based constructions on concrete efficiency in every use case where hash-based constructions are possible at all.\n\nTheoretically, of course it's possible that hashes are broken too (eg. P = NP would imply that). But I think P = NP is very unlikely. And intuitively, it's much more likely that a mathematical object has exactly no exploitable structure (like hashes are intended to), than that a mathematical object has exactly ~3 forms of exploitable structure (for elliptic curves: associativity, Schoof, pairings) and not some secret fourth form of structure we have not yet discovered that greatly degrades its security (for elliptic curves, ECDLP and pairing security). Similar for LWE, SVP, RLWE and the zoo of lattice problems.\n\nFor this reason, we do not yet see any reason to worry and start padding the byte size of hashes (if we start to worry more, we would pad the round count first before doing anything to the byte size).\n\nConcrete TLDR, my own personal views:\n\n* Hash-based > lattice-based, in those situations where hash-based is possible at all\n* For anything lattice-based, be much more paranoid on param sizes. Remember that blockchains are only a small portion of the cryptography story; this point goes far beyond blockchains and applies to eg. access to websites, secure messaging, Tor / VPNs ...\n* For privacy protocols, strongly favor NOT putting encrypted notes onchain. Instead, send them offchain through some third-party mechanism.\n* If it's not difficult for you, keeping your funds in addresses which have not yet been used to make a transaction is a good idea. If it's easy for you, do it. **But be careful about migrations; I personally have lost more money in botched migrations than I have lost in all hacks combined**.\n* For multisig wallets, doing confirmations offchain is better than onchain, because this way the signatures of signer wallets do not get exposed to the public, so if ECDSA falls to AI much faster than expected, at least the multisig \"gracefully degrades\" to a 1-of-1 where the 1 is whoever was gathering the signatures - a much better place to be than \"anyone can take the money\"\n https://t.co/oVjwZog2lL"
+    },
+    {
+      "tweetId": "2107987784707514462",
+      "role": "commentary",
+      "authorHandle": "wublockchain",
+      "url": "https://x.com/WuBlockchain/status/2107987784707514462",
+      "tweetedAt": "2026-10-08T00:13:47.000Z",
+      "bestBit": "AI could accelerate mathematical advances enough to weaken lattice-based cryptography, including ML-DSA and FHE, within two years",
+      "text": "Vitalik Buterin Warns AI Could Undermine Cryptography Within Two Years\n\nEthereum co-founder Vitalik Buterin warned that AI could accelerate mathematical advances enough to weaken lattice-based cryptography, including ML-DSA and FHE, within two years, potentially putting ECDSA at risk sooner than expected. \n\nHe said Ethereum’s Lean roadmap is shifting toward hash-based signatures to reduce these risks. Buterin advised users to favor addresses that have never sent transactions and use off-chain multisig signing where practical, while cautioning against rushed asset migrations."
+    },
+    {
+      "tweetId": "2107910930256547983",
+      "role": "commentary",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2107910930256547983",
+      "tweetedAt": "2026-10-07T19:08:23.000Z",
+      "bestBit": "The utility of domains will be sharply negatively correlated with their representation in lab releases",
+      "text": "OpenAI is using research math as an *eval*\nThe utility of domains will be sharply negatively correlated with their representation in lab releases. Cryptography, anything ML-related – forget about it.",
+      "quotedTweetText": "He also adds this, to which I agree:\n\n'Also noteworthy is the striking under-representation of cryptographic breakthroughs among the 722 mathematical results OpenAI published. I've witnessed first-hand the US government censoring academic quantum cryptanalysis results. Backroom interventionism is my base case.'\n\nThings are probably further along than it seems. This is true in many areas right now. There are also persistent rumors that the OpenAI math release yesterday was only the first batch of three."
+    },
+    {
+      "tweetId": "2108122772547449208",
+      "role": "commentary",
+      "authorHandle": "mikebelshe",
+      "url": "https://x.com/mikebelshe/status/2108122772547449208",
+      "tweetedAt": "2026-10-08T09:10:10.000Z",
+      "bestBit": "implemented it @BitGo with: a \"quantum resistance score\", which shows the % of your wallet with exposed public keys",
+      "text": "I agree with the conclusion (protect your wallets now), but disagree with the thesis (that AI will crack Bitcoin).\n\nSo we implemented it @BitGo with:\n   a) a \"quantum resistance score\", which shows the % of your wallet with exposed public keys\n   b) a one-click fix it button\n   c) an updated UTXO selection algorithm optimized for quantum resistance\n\nThis is what it looks like:",
+      "quotedTweetText": "Today I call upon the blockchain industry to calmly begin planning for \"bunker mode\". My personal recommendation is to set in motion a controlled mass migration of assets to fresh addresses, i.e. addresses whose pubkeys remain hidden behind a hash.\n\nHolders, starting with large and sophisticated ones, should consider moving the bulk of their funds to addresses that have never signed a transaction. And when they do sign one, they should also move remaining funds to a new address (possibly generated from the same seed phrase).\n\nDon't rush. While I believe there is cause for action a rushed migration would do more harm than good. Don't panic either. Moving assets to protected addresses is a simple, preventative step which does not require new cryptography or new wallets.\n\nIMO it is now reasonable to brace for the possibility that ECDSA breaks before qday, in the worst case in months not years. By \"break\" I mean fast private key recovery (e.g. in one week) on available hardware (e.g. a large GPU cluster).\n\nRecent days have been humbling for human mathematical intuition. Long-held, unquestioned hypotheses have fallen. This includes the n log(n) bound for integer multiplication and the 3SUM conjecture. In hindsight, May's unexpected disproof of the Erdős unit distance conjecture was our warning shot.\n\nYesterday's OpenAI drop made it clear that mathematical superintelligence is upon us. They say there are weeks where decades happen. We are about to live through weeks where centuries of mathematical progress happen. Could our magic 64-byte ECDSA signatures be too good to be true? Was it just security through obscurity all this time?\n\nElliptic curves feel especially vulnerable to superintelligence. Curves carry rich structure, with room for fancy tricks like Schoof, Frobenius, pairings. (By contrast, hashes are designed to minimise algebraic structure.)\n\nSeparately, as Ewin Tang can attest, an efficient quantum algorithm sometimes foreshadows an efficient classical one. We should be open to the possibility of a classical counterpart to Shor that breaks elliptic curves and RSA at once.\n\nAlso noteworthy is the striking under-representation of cryptographic breakthroughs among the 722 mathematical results OpenAI published. I've witnessed first-hand the US government censoring academic quantum cryptanalysis results. Backroom interventionism is my base case.\n\nI urge large, sophisticated actors to lead by example. Project11's \"risq list\" (bitcoin-risq-list.projecteleven[.]com) is a great tracker of exposed BTC pubkeys. Binance, Bitbank, Robinhood, Bitfinex, and Tether have an opportunity to harden their cold storage. Next month I'll address institutions in London in a live Q&A (forum.ethereuminstitutional[.]org/london-2026).\n\nAgain, please do not rush. Wallets holding under 50 BTC enjoy partial cover from \"Satoshi's shield\", i.e. his 20K exposed addresses that hold 50 BTC each. Load-bearing signers like oracles and L2 security councils should consider rotating ECDSA pubkeys with every signed message and/or multi-signing with a hash-based schemes like SPHINCS.\n\nExiting bunker mode safely will require post-AI cryptography. My inclination is to go all-in on hash-based cryptography and avoid structured mathematical assumptions entirely, whether from curves, lattices, or isogenies. A single battle-tested hash (e.g. from the SHA or BLAKE families) yields plausible post-AI security.\n\nThe Ethereum roadmap on strawmap[.]org fully embraces hash-based cryptography with end-to-end formal verification as a response to the quantum threat. Those timelines must now be revisited and accelerated in light of mathematical superintelligence. I'll be pushing for maximum defensive acceleration."
+    },
+    {
+      "tweetId": "2107966266325729292",
+      "role": "commentary",
+      "authorHandle": "laurashin",
+      "url": "https://x.com/laurashin/status/2107966266325729292",
+      "tweetedAt": "2026-10-07T22:48:16.000Z",
+      "bestBit": "They dropped 722 papers, a bunch of them formalized in Lean, a bunch of them with implications for things",
+      "text": "Kain on why large $BTC holders should consider hashed addresses after Justin Drake's warning on OpenAI's math breakthrough\n\n\"So Justin Drake tweeted yesterday: 'don't panic.' That's what you wanna hear. You may want to move all of your crypto out of the cryptography zone that it's in. Which, like, not amazing. So don't rush, guys. Just slowly panic exit, right?\"\n\n\"This is all on the back of OpenAI being like, hey, you know how we take out startups all the time? Well, we're taking out mathematicians this week.\"\n\n\"They dropped 722 papers, a bunch of them formalized in Lean, a bunch of them with implications for things. And one of the implications is maybe there are faster methods to break it. He's not saying elliptic curves are solved. It's just saying there might be faster ways to brute force keys.\"\n\n\"There's a bunch of Satoshi wallets that have 50 BTC, because that was the original block reward. But if you happen to have accumulated more than 50 BTC and it's sitting in a wallet, maybe move it behind a hashed wallet that uses a different hashing function to protect it.\"",
+      "quotedTweetText": "Hacks, Wind Downs and the Safe Governance Debate https://t.co/yXK40pyqQO"
+    },
+    {
+      "tweetId": "2108619768064606603",
+      "role": "support",
+      "authorHandle": "tftc21",
+      "url": "https://x.com/TFTC21/status/2108619768064606603",
+      "tweetedAt": "2026-10-09T18:05:03.000Z",
+      "bestBit": "the fear of AI posing a near-term threat to cryptography is more of an extrapolation than reality",
+      "text": "New research from Galaxy: OpenAI released 719 math results this week. None directly related to cryptography.\n\nBut Ethereum Foundation researcher Justin Drake urged the industry to \"begin planning for bunker mode\" over concerns AI could find a way to break ECDSA, the signature scheme behind Bitcoin.\n\n\"The fear of AI posing a near-term threat to cryptography is more of an extrapolation than reality.\" Galaxy notes that \"some marketing incentives likely sit behind the scary headlines\" and that none of the 719 results have been externally verified by mathematicians.\n\n\"The only things to fear are fear itself and its opposite, complacency. But fear, rightly channeled, is also what turns a warning into preparation before the warning proves true.\"",
+      "quotedTweetText": "https://t.co/WC3G6OCcEl"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-bitgo-deploys-wallet-protection-tools-after-ai-math-warning-eb89bb96",
+    "title": "UPDATE: BitGo Deploys Wallet Protection Tools After AI Math Warning",
+    "publishedAt": "2026-10-08T09:23:18.430Z",
+    "eventTimeApprox": "2026-10-08T02:29:22.000Z",
+    "routingTopicKeys": [
+      "crypto",
+      "cybersecurity"
+    ],
+    "tweetCount": 53,
+    "authorCount": 27
+  }
+}

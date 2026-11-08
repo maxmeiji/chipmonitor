@@ -1,0 +1,41 @@
+{
+  "slug": "european-central-bank-discusses-review-of-banks-exposure-to-data-center-0a0c15b0",
+  "title": "European Central Bank Discusses Review of Banks' Exposure to Data Center Loans",
+  "publishedAt": "2026-11-06T14:23:21.232Z",
+  "eventTimeApprox": "2026-11-06T14:13:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "global-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "global-markets",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "summary": "The European Central Bank is evaluating a plan to examine how much supervised lenders have committed to financing data center projects. The proposed measure would identify vulnerabilities within the banking system that could be triggered by fluctuations in investor confidence and the volatility of artificial intelligence valuations.\n\nSenior ECB officials have already held talks about the proposal internally and with the banks they supervise. If implemented, the review would allow the regulator to gauge the stability of bank balance sheets in relation to the rapid expansion of AI infrastructure.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118709078222389523",
+      "role": "source",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2118709078222389523",
+      "tweetedAt": "2026-11-06T14:16:22.000Z",
+      "bestBit": "The review would assess potential risks from volatility in AI valuations and investor sentiment.",
+      "text": "ECB CONSIDERS REVIEW OF BANKS' AI DATA-CENTER LENDING\n\nThe European Central Bank is considering a review of banks' exposure to data-center financing, Bloomberg reports.\n\nSenior ECB officials have discussed the proposal internally and with supervised lenders.\n\nThe review would assess potential risks from volatility in AI valuations and investor sentiment."
+    }
+  ],
+  "isSuperseded": false
+}

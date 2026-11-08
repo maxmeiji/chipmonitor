@@ -1,0 +1,169 @@
+{
+  "slug": "wall-street-to-issue-21b-in-bonds-for-record-63b-anthropic-ai-chip-facil-fa428308",
+  "title": "Wall Street to Issue $21B in Bonds for Record $63B Anthropic AI Chip Facility",
+  "publishedAt": "2026-10-29T14:53:14.575Z",
+  "eventTimeApprox": "2026-10-26T23:20:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 86,
+  "authorCount": 46,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "business",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "AVGO",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Broadcom Inc. Common Stock",
+      "hubKey": "avgo"
+    },
+    {
+      "ticker": "BAC",
+      "kind": "equity",
+      "role": "related",
+      "name": "Bank of America Corporation",
+      "hubKey": "bac"
+    },
+    {
+      "ticker": "C",
+      "kind": "equity",
+      "role": "related",
+      "name": "Citigroup Inc.",
+      "hubKey": "c"
+    },
+    {
+      "ticker": "MS",
+      "kind": "equity",
+      "role": "related",
+      "name": "Morgan Stanley",
+      "hubKey": "ms"
+    },
+    {
+      "ticker": "BX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Blackstone Inc.",
+      "hubKey": "bx"
+    }
+  ],
+  "summary": "Bank of America, Citigroup and Morgan Stanley are preparing a high-grade bond offering of as much as $21B to fund the senior portion of a $63B debt facility for Anthropic. The funding, which the lenders plan to issue as early as next year, supports a separate financing vehicle that will purchase AI accelerators and networking gear from Broadcom and lease them to the AI developer starting in 2027. The arrangement is the largest ever for AI infrastructure, bringing Anthropic's total debt-backed compute financing to $138B.\n\nTo secure the deal, Broadcom provided residual value support for the senior lien of the loan, covering approximately $43.5B if Anthropic defaults. Blackstone provides $9B of the $18B junior tier, which carries a yield exceeding 10%. This rate is significantly higher than the roughly 7% typically paid by other borrowers with similar BB+ credit ratings. While the banks provide the primary capital, the deal is structured so Broadcom assumes the bulk of the hardware risk to facilitate the startup's access to TPUs and other XPUs.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114832095222587830",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2114832095222587830",
+      "tweetedAt": "2026-10-26T21:30:37.000Z",
+      "bestBit": "Wall St banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+      "text": "Wall St banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic https://t.co/zEuEaIgNXr"
+    },
+    {
+      "tweetId": "2114898224532406692",
+      "role": "source",
+      "authorHandle": "photoncap",
+      "url": "https://x.com/PhotonCap/status/2114898224532406692",
+      "tweetedAt": "2026-10-27T01:53:24.000Z",
+      "bestBit": "A new special purpose vehicle will buy XPU AI accelerators and networking equipment and lease them to Anthropic.",
+      "text": "- On October 26, four financial firms announced a $63B financing transaction supporting Anthropic compute deployments using Broadcom ($AVGO) technology.\n\n- A new special purpose vehicle will buy XPU AI accelerators and networking equipment and lease them to Anthropic. https://t.co/AjNLkBMFtC"
+    },
+    {
+      "tweetId": "2115225816262951030",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2115225816262951030",
+      "tweetedAt": "2026-10-27T23:35:08.000Z",
+      "bestBit": "Banks are planning to sell as much as about $21 billion of high-grade bonds as soon as early next year as part of a $63 billion funding package",
+      "text": "Banks are planning to sell as much as about $21 billion of high-grade bonds as soon as early next year as part of a $63 billion funding package that Broadcom has pulled together to help finance chips for AI developer Anthropic https://t.co/e2ppRo0icy"
+    },
+    {
+      "tweetId": "2111262199872389375",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2111262199872389375",
+      "tweetedAt": "2026-10-17T01:05:08.000Z",
+      "bestBit": "Blackstone losing every dollar on this deal - a negative EBITDA company... taking on - on top of $4.4bn of debt at 8.5% - billions in debt at *10%*",
+      "text": "Blackstone losing every dollar on this deal - a negative EBITDA company with $413bn in non-cancellable contracts that has yet to go public taking on - on top of $4.4bn of debt at 8.5% - billions in debt at *10%* - what an insane deal! \nhttps://t.co/oG6vJUn8da https://t.co/cCogZe4XWA",
+      "quotedTweetText": "Why Anthropic claims to be worth 2 trillion $ and then behave like a company that is on its way to be worth close to zero? 🤔 https://t.co/Vywo5DvzT0"
+    },
+    {
+      "tweetId": "2113146475249369212",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2113146475249369212",
+      "tweetedAt": "2026-10-22T05:52:34.000Z",
+      "bestBit": "Private credit is getting more expensive, with Anthropic now offering Blackstone more than 10% on chip debt",
+      "text": "RT @rohanpaul_ai: axios: Private credit is getting more expensive, with Anthropic now offering Blackstone more than 10% on chip debt versus…"
+    },
+    {
+      "tweetId": "2115142587048968416",
+      "role": "analysis",
+      "authorHandle": "kakashiii111",
+      "url": "https://x.com/kakashiii111/status/2115142587048968416",
+      "tweetedAt": "2026-10-27T18:04:24.000Z",
+      "bestBit": "Wondering what Jensen is cooking up for the neoclouds' first aid package.",
+      "text": "Wondering what Jensen is cooking up for the neoclouds' first aid package.",
+      "quotedTweetText": "SCOOP: Broadcom CEO Hock Tan was getting impatient.\n\nHe needed lenders to commit $40 billon in the largest AI debt deal ever—so Anthropic could afford TPUs—but some were getting cold feet.\n\nIn the end, Broadcom’s CEO held 11th-hour talks with bank executives over the weekend to get them to finalize their commitments. Broadcom also agreed to higher interest rates on the loans, sweetening the deal. \n\nWith @ajsaeedy @ mattwirz for @WSJ"
+    },
+    {
+      "tweetId": "2111437603954200892",
+      "role": "analysis",
+      "authorHandle": "exec_sum",
+      "url": "https://x.com/exec_sum/status/2111437603954200892",
+      "tweetedAt": "2026-10-17T12:42:08.000Z",
+      "bestBit": "The AI startup was assigned BB+, the highest junk credit rating, by KBRA in June",
+      "text": "BREAKING: Anthropic is offering Blackstone a more than 10% yield to finance its latest chip deal\n\nThe AI startup was assigned BB+, the highest junk credit rating, by KBRA in June"
+    },
+    {
+      "tweetId": "2111635776719262092",
+      "role": "analysis",
+      "authorHandle": "tengyanai",
+      "url": "https://x.com/tengyanAI/status/2111635776719262092",
+      "tweetedAt": "2026-10-18T01:49:36.000Z",
+      "bestBit": "blackstone takes $9B of the $18B junior tier, with fees pushing its yield above 10%.",
+      "text": "anthropic offered blackstone a 10% coupon to finance its google chips. for reference - borrowers with similar ratings pay about 7% in public bonds.\n\nbroadcom, which helps google build those chips, backs the $42B senior tier. \n\nblackstone takes $9B of the $18B junior tier, with fees pushing its yield above 10%.\n\nIt's the same pattern I wrote about earlier this month: in AI chips, the people who make the chips help pay for the customer to buy them.\n\nmeanwhile our gpu rental index across 6 providers is +11% in a month. the chips are getting more expensive to rent too.\n\ni'm watching the other $9B of the junior tier. if it places below 10% by year end, probably the financing scare is easing"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "broadcoms-hock-tan-clinches-63b-anthropic-loan-after-banks-balk-at-risk-603389eb",
+    "title": "Broadcom's Hock Tan Clinches $63B Anthropic Loan After Banks Balk at Risk",
+    "publishedAt": "2026-10-27T10:39:17.203Z",
+    "eventTimeApprox": "2026-10-22T05:52:34.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "tech"
+    ],
+    "tweetCount": 85,
+    "authorCount": 46
+  }
+}

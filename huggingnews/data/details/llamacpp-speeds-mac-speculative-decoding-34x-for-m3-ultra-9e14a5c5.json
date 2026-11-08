@@ -1,0 +1,68 @@
+{
+  "slug": "llamacpp-speeds-mac-speculative-decoding-34x-for-m3-ultra-9e14a5c5",
+  "title": "llama.cpp Speeds Mac Speculative Decoding 3.4x for M3 Ultra",
+  "publishedAt": "2026-10-10T17:08:31.629Z",
+  "eventTimeApprox": "2026-10-07T20:00:20.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107043339799593421/HT24wE2boAAOjuH-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107043339799593421/HT24wE2boAAOjuH-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "qvac",
+      "tweetUrl": "https://x.com/qvac/status/2107043339799593421"
+    }
+  },
+  "summary": "New GPU optimizations merged into the llama.cpp library significantly increase the efficiency of token generation on Apple hardware. These updates allow speculative decoding to run at 110 tok/s on an M3 Ultra compared to 32.1 tok/s for plain decoding, a 3.4x increase in speed that reverses a previous performance lag where the speculative method was slower than standard execution.\n\nA subsequent update extended these Metal kernels to cover all 26 weight formats supported by the Mac GPU, including BF16 and MXFP4. This expansion allows matrix multiplies to run up to 4.4x faster on M3 Ultra hardware when a model verifies multiple tokens simultaneously. The changes were contributed by developer qvac and merged by project maintainer ggerganov.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107043339799593421",
+      "role": "source",
+      "authorHandle": "qvac",
+      "url": "https://x.com/qvac/status/2107043339799593421",
+      "tweetedAt": "2026-10-05T09:40:53.000Z",
+      "bestBit": "On an M3 Ultra it now runs up to 3.4x faster than plain decoding, 110 tok/s against 32.1",
+      "text": "One of our PR just got merged into llama.cpp: new Metal kernels for speculative decoding on Apple Silicon.\n\nBefore this PR, speculative decoding on a Mac was slower than plain decoding. On an M3 Ultra it now runs up to 3.4x faster than plain decoding, 110 tok/s against 32.1.\n\nThanks to @ggerganov for reviewing and refining it.\n\nhttps://t.co/Q0Zlcf9K0G"
+    },
+    {
+      "tweetId": "2107924001939235207",
+      "role": "source",
+      "authorHandle": "qvac",
+      "url": "https://x.com/qvac/status/2107924001939235207",
+      "tweetedAt": "2026-10-07T20:00:20.000Z",
+      "bestBit": "the fast Metal kernels from Monday now cover all 26 weight formats the Mac GPU runs",
+      "text": "Another PR of ours just merged into llama.cpp: the fast Metal kernels from Monday now cover all 26 weight formats the Mac GPU runs.\n\nThey made speculative decoding faster on Mac for 10 formats, and this PR adds the other 16, including BF16, MXFP4, Q2_K, Q3_K and the IQ quants.\n\nOn an M3 Ultra, matrix multiplies run up to 4.4x faster when a model checks several tokens at once.\n\nThanks @ggerganov for asking for it and merging it within a day.\n\nhttps://t.co/3bqaffRCcG"
+    },
+    {
+      "tweetId": "2108963506682810506",
+      "role": "support",
+      "authorHandle": "seraandroid",
+      "url": "https://x.com/SeraAndroid/status/2108963506682810506",
+      "tweetedAt": "2026-10-10T16:50:57.000Z",
+      "bestBit": "Merged to main in a few minutes!",
+      "text": "@grau_marc https://t.co/sghb2lygoK\n\nMerged to main in a few minutes!"
+    }
+  ],
+  "isSuperseded": false
+}

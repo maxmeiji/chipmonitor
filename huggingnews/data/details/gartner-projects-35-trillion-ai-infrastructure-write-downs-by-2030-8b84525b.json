@@ -1,0 +1,77 @@
+{
+  "slug": "gartner-projects-35-trillion-ai-infrastructure-write-downs-by-2030-8b84525b",
+  "title": "Gartner Projects $3.5 Trillion AI Infrastructure Write-Downs by 2030",
+  "publishedAt": "2026-10-19T19:25:25.589Z",
+  "eventTimeApprox": "2026-10-19T18:26:49.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "us-markets"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CRWV",
+      "kind": "equity",
+      "role": "related",
+      "name": "CoreWeave, Inc. Class A Common Stock",
+      "hubKey": "crwv"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112260791189606469/HVBB1zwXEAApdn5-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112260791189606469/HVBB1zwXEAApdn5-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "hedgiemarkets",
+      "tweetUrl": "https://x.com/HedgieMarkets/status/2112260791189606469"
+    }
+  },
+  "summary": "More than $3.5 trillion of spending on artificial intelligence infrastructure could require write-downs by 2030 because revenue is not expected to cover investment costs, Gartner forecasts. The research firm's analysis suggests that owners of data centers will need approximately $8.5 trillion in revenue by 2030 to earn a 12% return, but it projects actual revenue will only reach $3.6 trillion. This capital gap, which has fueled a recent rout in technology stocks, is likely to result in over 80% of \"neocloud\" GPU rental providers losing their independence.\n\nProviders are projected to spend $1 trillion on infrastructure in 2026 and another $6 trillion between 2027 and 2030, yet less than half of resulting revenue will reach hardware owners due to the asset-light models of AI app developers. Neoclouds are the most exposed as they lack the diversified revenue streams that allow hyperscalers to absorb such losses. This risk is highlighted by CoreWeave bonds, which yield around 16%, and an AI-optimized infrastructure-as-a-service market that grows from $66 billion in 2027 to $174 billion in 2030, a pace Gartner says is too slow for most providers to recoup investments.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112228387330699397",
+      "role": "source",
+      "authorHandle": "cnbc",
+      "url": "https://x.com/CNBC/status/2112228387330699397",
+      "tweetedAt": "2026-10-19T17:04:25.000Z",
+      "bestBit": "AI returns are not yet large enough to justify neocloud build-out",
+      "text": "Gartner analyst behind tech rout: AI returns are not yet large enough to justify neocloud build-out https://t.co/0S3ah3q13Z"
+    },
+    {
+      "tweetId": "2112249125127557235",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2112249125127557235",
+      "tweetedAt": "2026-10-19T18:26:49.000Z",
+      "bestBit": "Gartner forecasts that AI providers will spend nearly $1T on infrastructure in 2026 and another $6T from 2027 to 2030",
+      "text": "Gartner forecasts that AI providers will spend nearly $1T on infrastructure in 2026 and another $6T from 2027 to 2030, and says more than $3.5T of that spending could need write-downs by the end of 2030 because revenue won’t cover its cost\n\nMuch of that revenue also flows elsewhere, because most AI-native providers run asset-light models, so less than half of AI revenue will reach companies that own significant infrastructure.\n\nNeoclouds, the GPU rental specialists below the hyperscalers, sit most exposed because they lack the diversified revenue that could let hyperscalers fund AI investment for years.\n\nTheir market grows too slowly to help, since AI-optimized IaaS spending rises from $66 billion in 2027 to $174 billion in 2030, which Gartner says won’t let most providers recoup investments before current AI chips are replaced."
+    },
+    {
+      "tweetId": "2112260791189606469",
+      "role": "commentary",
+      "authorHandle": "hedgiemarkets",
+      "url": "https://x.com/HedgieMarkets/status/2112260791189606469",
+      "tweetedAt": "2026-10-19T19:13:11.000Z",
+      "bestBit": "expects over 80% of neoclouds, the companies that rent out AI computing power, to lose their independence by 2030",
+      "text": "🦔Gartner figures the owners of AI data centers need about $8.5 trillion in revenue through 2030 to cover their spending and earn a 12% return. Its forecast for the AI revenue tied to those data centers tops out at $3.6 trillion. The research firm puts more than $3.5 trillion of that spending at risk of write-downs and expects over 80% of neoclouds, the companies that rent out AI computing power, to lose their independence by 2030.\n\nMy Take\nI think we should focus on Gartner’s point that less than half of AI revenue reaches the companies that own the hardware. Customers mostly pay the AI apps, which rent computing power as cheaply as they can. The chip owners end up with the debt and a thin slice of the money, and CoreWeave’s bonds yielding around 16% show us how lenders already see that setup.\n\nHyperscalers can take a write-down because their other businesses keep paying the bills. Neoclouds have nothing like that to fall back on. In a slow unwind, a hyperscaler or chip supplier probably buys the bigger ones cheaply and their shareholders eat most of the loss. A sudden stop in funding would be uglier, because some would go bankrupt and the losses would spread to bondholders and the private credit funds that paid for their data centers.\n\nHedgie🤗"
+    }
+  ],
+  "isSuperseded": false
+}

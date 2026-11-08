@@ -1,0 +1,125 @@
+{
+  "slug": "qualcomm-shares-sink-more-than-10percent-after-fourth-quarter-smartphone-c3ced73f",
+  "title": "Qualcomm Shares Sink More Than 10% After Fourth-Quarter Smartphone Revenue Slump",
+  "publishedAt": "2026-11-05T13:38:43.076Z",
+  "eventTimeApprox": "2026-11-04T21:17:22.000Z",
+  "isFreshStory": false,
+  "tweetCount": 50,
+  "authorCount": 25,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "QCOM",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Qualcomm Inc",
+      "hubKey": "qcom"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118087507699241322/HWT1XT5akAAsokO-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118087507699241322/HWT1XT5akAAsokO-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "stocksavvyshay",
+      "tweetUrl": "https://x.com/StockSavvyShay/status/2118087507699241322"
+    }
+  },
+  "summary": "The chipmaker's stock plummeted to a loss of over 10% on Thursday, as investors weighed the company's shrinking phone business against its expansion into AI. The selloff followed a fourth-quarter report showing that handset chip revenue fell 26% to $5.14B, despite the company posting an overall revenue beat with $10.44B in adjusted sales and adjusted earnings of $2.17 per share.\n\nTo reduce reliance on smartphones, Qualcomm highlighted an 89% surge in automotive revenue to $1.99B and projected data center sales of more than $650M for the first quarter. On an earnings call, the company stated that its data center growth is currently limited by supply rather than demand, and that baseline gross margins should return to the 48% to 50% range once pending price increases are implemented. Total capital expenditures for the fiscal year reached $2.49B, exceeding the $1.86B forecast.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118087081473839269",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2118087081473839269",
+      "tweetedAt": "2026-11-04T21:04:47.000Z",
+      "bestBit": "Handsets: $5.14B (Est. $5.22B) 🔴; -26% YoY",
+      "text": "QUALCOMM $QCOM Q4’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $10.44B (Est. $10.11B) 🟢; -7% YoY\n🔹 Adj. EPS: $2.17 (Est. $2.16) 🟢; -28% YoY\n🔹 GAAP EPS: $1.17\n\nQ1 Guide:\n🔹 Revenue: $10.4B-$11.2B (Est. $10.48B) 🟡\n🔹 Non-GAAP EPS: $2.15-$2.35 (Est. $2.27) 🟡\n🔹 GAAP EPS: $1.03-$1.23\n\nSegment Revenue:\n🔹 QCT Revenue: $9.02B (Est. $8.74B) 🟢; -8% YoY\n🔹 Handsets: $5.14B (Est. $5.22B) 🔴; -26% YoY\n🔹 Automotive: $1.99B (Est. $1.71B) 🟢; +89% YoY\n🔹 IoT: $1.89B (Est. $1.82B) 🟢; +4% YoY\n🔹 QTL Revenue: $1.30B (Est. $1.30B) 🟡; -7% YoY\n\nAnnouncements:\n🔹 Amazon Collaboration: Multi-generational product collaboration for AI data centers\n\nOther Q4 Metrics:\n🔹 QCT EBT Margin: 24%\n\nCapital Return:\n🔹 Buybacks: $1.01B\n🔹 Dividend: $0.92/share\n\nComments:\n🔸 “Fiscal 2027 marks the start of our non-handset revenue inflection, including the ramp of our Data Center business. Non-handset revenues are projected to grow by more than 60% year-over-year, and we are reiterating our fiscal 2027 Data Center revenue target of $5B.”"
+    },
+    {
+      "tweetId": "2118090897577619840",
+      "role": "commentary",
+      "authorHandle": "thetranscript_",
+      "url": "https://x.com/TheTranscript_/status/2118090897577619840",
+      "tweetedAt": "2026-11-04T21:19:56.000Z",
+      "bestBit": "Qualcomm CEO: \"We are pleased to deliver fourth quarter non-GAAP revenues at the high end of our guidance, along with 36% year-over-year growth in combined QCT Automotive and IoT revenues\"",
+      "text": "Qualcomm CEO: \"We are pleased to deliver fourth quarter non-GAAP revenues at the high end of our guidance, along with 36% year-over-year growth in combined QCT Automotive and IoT revenues\"\n\n$QCOM: -6% AH https://t.co/jK1wRuvlIW"
+    },
+    {
+      "tweetId": "2118086511023292516",
+      "role": "commentary",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2118086511023292516",
+      "tweetedAt": "2026-11-04T21:02:31.000Z",
+      "bestBit": "FY capex: $2.49bn vs $1.86bn est",
+      "text": "$QCOM earnings:\n- Revenue: $10.44bn vs $10.12bn est 🟢\n- EPS: $2.17 vs $2.16 est 🟢\n- FY capex: $2.49bn vs $1.86bn est\n\nEveryone expected a weak quarter with Apple modems rolling off and memory costs hitting phones. \n\nQualcomm beat anyway. \n\nThe number I'd watch is capex which came in a third above the Street. Imo that's Qualcomm spending to get its data center chips out the door and two hyperscaler custom programs start shipping next quarter. Overweight, $215 PT",
+      "quotedTweetText": "$QCOM earnings preview:\n- Revenue est: ~$10.12bn (vs $11.27bn y/y)\n- EPS est: ~$2.16 (vs $3.00 y/y)\n\nEPS is expected to fall 28% tonight as $AAPL modems roll off and memory costs hit phones. Everyone knows that already. What they're ignoring is two hyperscaler custom data center chips start shipping next quarter. Overweight, $215 PT."
+    },
+    {
+      "tweetId": "2118088841806377411",
+      "role": "commentary",
+      "authorHandle": "patrickmoorhead",
+      "url": "https://x.com/PatrickMoorhead/status/2118088841806377411",
+      "tweetedAt": "2026-11-04T21:11:46.000Z",
+      "bestBit": "Data center is real: $650M+ guided for December, up every quarter to a $7B+ exit, $5B FY27 reaffirmed.",
+      "text": "$QCOM FQ4: BEAT. Down after hours off a 5.3% SpaceX-day gain. A good quarter for anyone reading past the spreadsheet.\n\nThe numbers:\n-Revenue $10.44B vs $10.15B consensus: BEAT\n-Non-GAAP EPS $2.17 vs $2.16 consensus: MEET. Vs $2.19 whisper: MISS\n-December revenue guide ~$10.8B vs $10.5B consensus: BEAT. \n-Non-GAAP EPS ~$2.25 vs $2.27 consensus: MISS\n\nTakeaways:\n1. Data center is real: $650M+ guided for December, up every quarter to a $7B+ exit, $5B FY27 reaffirmed. In July I said it would hit soon.\n2. Automotive's first $2B quarter, +89%, beat its ~60% guide by ~$300M: an ~$8B run rate, by my math.\n3. Data center covers the Apple decline. Without it, the December QCT guide is down ~4%, by my math.\n4. SpaceX breaks the \"arms dealer for all but Apple and Elon\" label, mine included. Even Elon can't build all his chips.\n5. Margin is a timing story: price increases fully land in 2H FY27, and the 30% long-term QCT margin target stands.\n\nThe diversification story continues. \n@Qualcomm"
+    },
+    {
+      "tweetId": "2118118288408600775",
+      "role": "analysis",
+      "authorHandle": "patrickmoorhead",
+      "url": "https://x.com/PatrickMoorhead/status/2118118288408600775",
+      "tweetedAt": "2026-11-04T23:08:47.000Z",
+      "bestBit": "data center is now a supply question, not a demand question",
+      "text": "$QCOM off the call and not in the release: data center is now a supply question, not a demand question. Upside beyond the $5B FY27 target is constrained by supply, and two hyperscalers at scale make up most of the $5B, both running into FY28 and FY29.\n\nTop 5 things the call added:\n1. High-bandwidth compute is beating its design target in the lab: ~0.3 picojoules per bit vs 0.5, yields above plan, strongest on decode.\n2. Gross margin has a number now: once price increases land, the baseline returns to the low end of 48% to 50%, before custom silicon dilution.\n3. As I said in July, China troughed. June was the bottom for China Android, with growth in September and December. Samsung share baseline: 70%+, up from 50%.\n4. Earlier today I wanted SpaceX deal size and revenue timing. We got timing: revenue starts exiting FY27, mostly FY28. No size yet which is understandable.\n5. Auto's 5th-gen platform carries 8x the silicon content of 3rd-gen cars on the road. The growth is share, not pre-buys.\n\n@Qualcomm",
+      "quotedTweetText": "$QCOM FQ4: BEAT. Down after hours off a 5.3% SpaceX-day gain. A good quarter for anyone reading past the spreadsheet.\n\nThe numbers:\n-Revenue $10.44B vs $10.15B consensus: BEAT\n-Non-GAAP EPS $2.17 vs $2.16 consensus: MEET. Vs $2.19 whisper: MISS\n-December revenue guide ~$10.8B vs $10.5B consensus: BEAT. \n-Non-GAAP EPS ~$2.25 vs $2.27 consensus: MISS\n\nTakeaways:\n1. Data center is real: $650M+ guided for December, up every quarter to a $7B+ exit, $5B FY27 reaffirmed. In July I said it would hit soon.\n2. Automotive's first $2B quarter, +89%, beat its ~60% guide by ~$300M: an ~$8B run rate, by my math.\n3. Data center covers the Apple decline. Without it, the December QCT guide is down ~4%, by my math.\n4. SpaceX breaks the \"arms dealer for all but Apple and Elon\" label, mine included. Even Elon can't build all his chips.\n5. Margin is a timing story: price increases fully land in 2H FY27, and the 30% long-term QCT margin target stands.\n\nThe diversification story continues. \n@Qualcomm"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "qualcomm-sets-7b-annualized-revenue-goal-for-data-center-segment-by-2027-876c83ee",
+    "title": "Qualcomm Sets $7B Annualized Revenue Goal for Data Center Segment by 2027",
+    "publishedAt": "2026-11-04T21:38:58.596Z",
+    "eventTimeApprox": "2026-11-04T21:06:34.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "tech",
+      "us-markets",
+      "ai"
+    ],
+    "tweetCount": 36,
+    "authorCount": 20
+  }
+}

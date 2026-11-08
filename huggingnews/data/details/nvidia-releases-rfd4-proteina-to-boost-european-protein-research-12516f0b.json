@@ -1,0 +1,54 @@
+{
+  "slug": "nvidia-releases-rfd4-proteina-to-boost-european-protein-research-12516f0b",
+  "title": "Nvidia Releases RFD4-Proteina to Boost European Protein Research",
+  "publishedAt": "2026-10-21T10:39:42.190Z",
+  "eventTimeApprox": "2026-10-21T10:15:16.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "summary": "Researchers and enterprises can now train robots and develop quantum computers on their own hardware following a series of software launches at GTC Berlin. The chipmaker is providing open models to allow teams in Europe to build specialized AI agents using their own local data and infrastructure to maintain control over their processing.\n\nAs part of this expansion, Nvidia and the University of Washington's protein design group introduced RFD4-Proteina. This open model helps design proteins and refine lab candidates for testing, which is intended to accelerate the development of new medicines and diagnostics.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112851150361842058",
+      "role": "source",
+      "authorHandle": "nvidianewsroom",
+      "url": "https://x.com/nvidianewsroom/status/2112851150361842058",
+      "tweetedAt": "2026-10-21T10:19:03.000Z",
+      "bestBit": "introduce RFD4-Proteina, an open model to design proteins and refine candidates for lab testing, paving the way for new medicines and diagnostics",
+      "text": "NVIDIA and @UWproteindesign introduce RFD4-Proteina, an open model to design proteins and refine candidates for lab testing, paving the way for new medicines and diagnostics.\n\nAnnounced at GTC Berlin: https://t.co/Jgt5gYqRNX https://t.co/mj3pn98NJo"
+    },
+    {
+      "tweetId": "2112847569827348804",
+      "role": "source",
+      "authorHandle": "nvidiaai",
+      "url": "https://x.com/NVIDIAAI/status/2112847569827348804",
+      "tweetedAt": "2026-10-21T10:04:50.000Z",
+      "bestBit": "releasing more open models to help teams across Europe build AI with their own data, on infrastructure they control",
+      "text": "We’re releasing more open models to help teams across Europe build AI with their own data, on infrastructure they control.\n\nAnnounced at GTC Berlin, the models help developers, researchers and enterprises build specialized AI agents, train robots, design proteins and develop quantum computers.\n\nSee what’s new: https://t.co/gXbVJfRn1b"
+    }
+  ],
+  "isSuperseded": false
+}

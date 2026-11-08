@@ -1,0 +1,80 @@
+{
+  "slug": "radical-numerics-halcyon-models-cut-pretraining-compute-275x-821c8f32",
+  "title": "Radical Numerics' Halcyon Models Cut Pretraining Compute 275x",
+  "publishedAt": "2026-10-15T20:04:40.752Z",
+  "eventTimeApprox": "2026-10-15T16:27:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110766846391800215/HUrzOTXa0AQ6_BZ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110766846391800215/HUrzOTXa0AQ6_BZ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "radicalnumerics",
+      "tweetUrl": "https://x.com/RadicalNumerics/status/2110766846391800215"
+    }
+  },
+  "summary": "A family of early-fusion base models ranging from 0.1B to 4B parameters can outperform late-fusion text-to-image baselines without using frozen language models or text-only pretraining. Developed by Radical Numerics as Halcyon, these models were trained from scratch on 100M image-test pairs from GPIC. The 1.6B Halcyon model beats the JiT-T2I-XXL/8++ baseline while using 275x less pretraining compute, and the 0.52B version outperforms LlamaGen-XL/8 with 18.2x less compute, including the cost of the language models used by the baselines. Radical Numerics has made the models and their training recipes open.\n\nThe release is part of a research program at Radical Numerics focused on the science of multimodal pretraining and scaling. The study specifically tests whether text-to-image generation requires language pretraining to achieve competitive performance.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110766682977521742",
+      "role": "source",
+      "authorHandle": "radicalnumerics",
+      "url": "https://x.com/RadicalNumerics/status/2110766682977521742",
+      "tweetedAt": "2026-10-15T16:16:08.000Z",
+      "bestBit": "outperforms strong late-fusion baselines with up to 275× less pretraining compute",
+      "text": "1/8 Does text-to-image generation need language pretraining?\n\nToday, we share Halcyon, a family of early-fusion, base models trained from scratch. Halcyon outperforms strong late-fusion baselines with up to 275× less pretraining compute. Models and recipes are open.\n\nHalcyon is part of a research program at Radical Numerics on the science of multimodal pretraining and scaling."
+    },
+    {
+      "tweetId": "2110766846391800215",
+      "role": "source",
+      "authorHandle": "radicalnumerics",
+      "url": "https://x.com/RadicalNumerics/status/2110766846391800215",
+      "tweetedAt": "2026-10-15T16:16:46.000Z",
+      "bestBit": "The 0.52B model outperforms LlamaGen-XL/8 with 18.2× less pretraining compute, and the 1.6B model outperforms JiT-T2I-XXL/8++ with 275× less",
+      "text": "2/8 Halcyon includes no text-only pretraining and no frozen language models. \n\nAt 0.1-4B parameters, trained on 100M image-test pairs from GPIC, it outperforms strong late-fusion baselines. The 0.52B model outperforms LlamaGen-XL/8 with 18.2× less pretraining compute, and the 1.6B model outperforms JiT-T2I-XXL/8++ with 275× less. Compute totals include the pretraining of the language models used by the baselines."
+    },
+    {
+      "tweetId": "2110772304095707352",
+      "role": "engagement",
+      "authorHandle": "josephjacks_",
+      "url": "https://x.com/JosephJacks_/status/2110772304095707352",
+      "tweetedAt": "2026-10-15T16:38:28.000Z",
+      "bestBit": "no text-only pretraining and no frozen language models",
+      "text": "🫨😳🤯",
+      "quotedTweetText": "2/8 Halcyon includes no text-only pretraining and no frozen language models. \n\nAt 0.1-4B parameters, trained on 100M image-test pairs from GPIC, it outperforms strong late-fusion baselines. The 0.52B model outperforms LlamaGen-XL/8 with 18.2× less pretraining compute, and the 1.6B model outperforms JiT-T2I-XXL/8++ with 275× less. Compute totals include the pretraining of the language models used by the baselines."
+    }
+  ],
+  "isSuperseded": false
+}

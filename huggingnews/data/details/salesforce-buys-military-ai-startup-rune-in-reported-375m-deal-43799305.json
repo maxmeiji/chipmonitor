@@ -1,0 +1,83 @@
+{
+  "slug": "salesforce-buys-military-ai-startup-rune-in-reported-375m-deal-43799305",
+  "title": "Salesforce Buys Military AI Startup Rune in Reported $375M Deal",
+  "publishedAt": "2026-10-30T18:38:44.608Z",
+  "eventTimeApprox": "2026-10-29T21:16:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "business",
+    "startups",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CRM",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Salesforce, Inc.",
+      "hubKey": "crm"
+    }
+  ],
+  "summary": "The cloud software provider is growing its presence in the defense sector with the purchase of a company that develops specialized artificial intelligence for logistics in remote environments. The agreement to acquire Rune Technologies will link frontline field operations with corporate enterprise workflows to improve mission readiness for users with limited connectivity.\n\nThe deal is valued at $375M in cash and stock, according to people familiar with the matter, and expands the year-old Missionforce defense business. Before the sale, Rune had raised approximately $30M in funding from venture capital firms including Andreessen Horowitz.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115896862762754458",
+      "role": "source",
+      "authorHandle": "salesforce",
+      "url": "https://x.com/salesforce/status/2115896862762754458",
+      "tweetedAt": "2026-10-29T20:01:38.000Z",
+      "bestBit": "bringing purpose-built super intelligence to logistics at the tactical edge",
+      "text": "We have signed an agreement to acquire Rune Technologies, bringing purpose-built super intelligence to logistics at the tactical edge\n\nTogether, we'll connect frontline operations with enterprise workflows to strengthen mission readiness, even with limited connectivity\n\nMore: https://t.co/iBWRgEM2ul"
+    },
+    {
+      "tweetId": "2115902502377795806",
+      "role": "source",
+      "authorHandle": "danprimack",
+      "url": "https://x.com/danprimack/status/2115902502377795806",
+      "tweetedAt": "2026-10-29T20:24:02.000Z",
+      "bestBit": "Salesforce buys Rune Technologies for new defense portfolio",
+      "text": "Salesforce buys Rune Technologies for new defense portfolio https://t.co/Lx1wtEp27h"
+    },
+    {
+      "tweetId": "2116233921642045902",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2116233921642045902",
+      "tweetedAt": "2026-10-30T18:20:59.000Z",
+      "bestBit": "sources say for $375M in cash and stock; Rune raised $30m from a16z and others",
+      "text": "Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others (Margaux MacColl / Resilience Media)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "salesforce-to-acquire-rune-technologies-to-build-new-defense-ai-portfoli-a661b21e",
+    "title": "Salesforce to Acquire Rune Technologies to Build New Defense AI Portfolio",
+    "publishedAt": "2026-10-29T21:23:32.933Z",
+    "eventTimeApprox": "2026-10-29T20:38:02.500Z",
+    "routingTopicKeys": [
+      "business",
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 6,
+    "authorCount": 6
+  }
+}

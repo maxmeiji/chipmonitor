@@ -1,0 +1,54 @@
+{
+  "slug": "sriram-krishnan-raises-500m-fund-for-later-stage-ai-e1c2911c",
+  "title": "Sriram Krishnan Raises $500M Fund for Later Stage AI",
+  "publishedAt": "2026-10-07T19:24:06.447Z",
+  "eventTimeApprox": "2026-10-07T19:17:30.500Z",
+  "isFreshStory": false,
+  "tweetCount": 19,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "vc",
+      "name": "VC"
+    }
+  ],
+  "summary": "The top artificial intelligence adviser to the Trump administration has returned to the private sector to launch a new venture capital firm. Sriram Krishnan is raising approximately $500 million for a fund targeting later stage AI companies after leaving his government role in June.\n\nKrishnan, a former general partner at a16z, is the latest of several former Trump officials to rejoin the venture world or join firms such as OpenAI and Anthropic. He enters a crowded field of investors currently seeking mature artificial intelligence startups to add to their portfolios.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107913160917180432",
+      "role": "source",
+      "authorHandle": "leomschwartz",
+      "url": "https://x.com/leomschwartz/status/2107913160917180432",
+      "tweetedAt": "2026-10-07T19:17:15.000Z",
+      "bestBit": "Sriram Krishnan, former top AI adviser in the Trump administration, is raising an AI-focused venture fund targeting around $500 million",
+      "text": "Scoop: Sriram Krishnan, former top AI adviser in the Trump administration, is raising an AI-focused venture fund targeting around $500 million. \n\nKrishnan left the admin in June and is the latest in a string of Trump tech officials to (re)join the venture world or top tech companies like OpenAI and Anthropic. \n\nKrishnan, a former a16z general partner, will be joining a crowded field of late-stage AI investors, though his background in tech and D.C. is already drawing significant interest. \n\nYou can read my full piece here: https://t.co/6LPCkxgzYz"
+    },
+    {
+      "tweetId": "2107913290961793420",
+      "role": "support",
+      "authorHandle": "danprimack",
+      "url": "https://x.com/danprimack/status/2107913290961793420",
+      "tweetedAt": "2026-10-07T19:17:46.000Z",
+      "bestBit": "Sriram Krishnan is raising $500m for a new VC fund",
+      "text": "Scoop: @sriramk is raising $500m for a new VC fund\n\nhttps://t.co/8vGBykfc94"
+    }
+  ],
+  "isSuperseded": false
+}

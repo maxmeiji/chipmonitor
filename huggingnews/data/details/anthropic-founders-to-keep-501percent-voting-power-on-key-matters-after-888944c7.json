@@ -1,0 +1,151 @@
+{
+  "slug": "anthropic-founders-to-keep-501percent-voting-power-on-key-matters-after-888944c7",
+  "title": "Anthropic Founders to Keep 50.1% Voting Power on Key Matters After IPO",
+  "publishedAt": "2026-10-06T06:10:52.005Z",
+  "eventTimeApprox": "2026-09-29T04:42:46.000Z",
+  "isFreshStory": false,
+  "tweetCount": 226,
+  "authorCount": 103,
+  "routingTopicKeys": [
+    "business",
+    "ai",
+    "startups",
+    "us-markets"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "AVGO",
+      "kind": "equity",
+      "role": "related",
+      "name": "Broadcom Inc. Common Stock",
+      "hubKey": "avgo"
+    }
+  ],
+  "summary": "Anthropic's seven co-founders would retain majority voting control after its IPO through a new Founder LLC directing a single Class F share with 50.1% of voting power over key corporate matters. The prospectus warns that the structure could produce decisions that conflict with shareholders' financial interests.\n\nA founder would leave the LLC upon quitting, dying, selling too many shares or being fired. Anthropic's Long-Term Benefit Trust would choose four other board seats; its trustees include former Fed Chair Ben Bernanke and national security expert Richard Fontaine.\n\nThe governance provisions accompany at least $518 billion in planned cloud, compute and infrastructure spending over a decade. About $413.7 billion, or 80%, is owed regardless of usage, averaging roughly $41 billion a year. Broadcom chip leases, mainly for TPUs, account for the largest single block at $161.2 billion, payable even if the capacity sits idle.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107204762097647726",
+      "role": "source",
+      "authorHandle": "tradretfs",
+      "url": "https://x.com/TradrETFs/status/2107204762097647726",
+      "tweetedAt": "2026-10-05T20:22:19.000Z",
+      "bestBit": "After the Anthropic IPO @TradrETFs expects to launch leveraged long and short ETFs, $ANTT and $ANTZ.",
+      "text": "Anthropic plans to spend $518B on cloud and compute in coming years, about 25 times the $20.3B in cash and short-term investments it held at the end of 2025. \n\nIts draft filing notes that several suppliers are also AI rivals, which could \"adversely affect\" their access to compute.\n\nAfter the Anthropic IPO @TradrETFs expects to launch leveraged long and short ETFs, $ANTT and $ANTZ.\n\nA registration statement relating to these securities has been filed with the Securities and Exchange Commission but has not yet become effective. See the pre-effective prospectus. https://t.co/5J2TYQmwuh"
+    },
+    {
+      "tweetId": "2107346890648076595",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "tweetedAt": "2026-10-06T05:47:05.000Z",
+      "bestBit": "A new Founder LLC would direct a single Class F share carrying 50.1% of the vote on key matters, and the filing concedes the structure could produce decisions that conflict with shareholders' financial interests.",
+      "text": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle. \nAbout $413.7 billion of its commitments is owed whether the chips run or not, roughly $41 billion a year on average.\n\n- according to official SEC prospectus filed by 2 funds who are investors to Anthropic (link in comment)\n\n> Broadcom has become the supplier Anthropic would find hardest to replace. Its $161.2 billion of chip leases, mainly for TPUs, is the largest single block, all of it owed regardless of use.\n\n> Anthropic's locked-in cloud payments likely make Google's and Amazon's own AI chips cheaper per unit. Google and Amazon are owed $221 billion regardless of use, much of it for capacity on their TPU and Trainium chips.\n\n> As per the prospectus of the funds, the 7 co-founders keep majority voting control after the IPO. A new Founder LLC would direct a single Class F share carrying 50.1% of the vote on key matters, and the filing concedes the structure could produce decisions that conflict with shareholders' financial interests. A founder who quits, dies, sells too many shares or is fired drops out of the Founder LLC.",
+      "quotedTweetText": "Anthropic plans to spend $518B on cloud and compute in coming years, about 25 times the $20.3B in cash and short-term investments it held at the end of 2025. \n\nIts draft filing notes that several suppliers are also AI rivals, which could \"adversely affect\" their access to compute.\n\nAfter the Anthropic IPO @TradrETFs expects to launch leveraged long and short ETFs, $ANTT and $ANTZ.\n\nA registration statement relating to these securities has been filed with the Securities and Exchange Commission but has not yet become effective. See the pre-effective prospectus. https://t.co/5J2TYQmwuh"
+    },
+    {
+      "tweetId": "2104715531336978815",
+      "role": "commentary",
+      "authorHandle": "rhouseresearch",
+      "url": "https://x.com/RHouseResearch/status/2104715531336978815",
+      "tweetedAt": "2026-09-28T23:31:01.000Z",
+      "bestBit": "The near-$42 billion net loss included a roughly $34 billion accounting charge that reflected an increase in the ‌estimated value ⁠of financing that could eventually turn into Anthropic shares, rather than money the company spent running its business.",
+      "text": "I know it's way easier to farm doomer-bear-porn-style engagement by tweeting \"Anthropic lost $42B\" without any context.. but:\n\n\"The near-$42 billion net loss included a roughly $34 billion accounting charge that reflected an increase in the ‌estimated value ⁠of financing that could eventually turn into Anthropic shares, rather than money the company spent running its business.\"",
+      "quotedTweetText": "ANTHROPIC LAYS OUT PLANS FOR TRANSFORMATIVE AI TECHNOLOGY IN MARKETING PITCH TO IPO INVESTORS - PROSPECTUS SEEN BY REUTERS\n\nReuters also says Anthropic lost $42B in 2025. Anthropic also expects to spend $518B on cloud/infrastructure in the coming year"
+    },
+    {
+      "tweetId": "2104735601782391128",
+      "role": "commentary",
+      "authorHandle": "charliermarsh",
+      "url": "https://x.com/charliermarsh/status/2104735601782391128",
+      "tweetedAt": "2026-09-29T00:50:46.000Z",
+      "bestBit": "Oh no, Reuters' Anthropic IPO write-up said that they \"[plan] to spend $518 billion on cloud, computing and infrastructure obligations in coming year\", and it's all over X, but it turns out that was a typo? They just updated it to \"in coming years\"",
+      "text": "Oh no, Reuters' Anthropic IPO write-up said that they \"[plan] to spend $518 billion on cloud, computing and infrastructure obligations in coming year\", and it's all over X, but it turns out that was a typo? They just updated it to \"in coming years\"\n\nhttps://t.co/hY8qzAcX0k"
+    },
+    {
+      "tweetId": "2104754320423993675",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2104754320423993675",
+      "tweetedAt": "2026-09-29T02:05:09.000Z",
+      "bestBit": "Anthropic’s IPO filing is 261 pages, with 80 PAGES warning investors about how dangerous their models can be, including “existential risks to humanity”:",
+      "text": "Anthropic’s IPO filing is 261 pages, with 80 PAGES warning investors about how dangerous their models can be, including “existential risks to humanity”:\n\n> be Anthropic\n> warn models may resist shutdown\n> or manipulate information\n> or exhibit behaviors like blackmail\n> admit models know when being evaluated\n> which is a “significant limitation” to safety testing\n> admit dangerous behaviors can emerge during training but only be discovered after deployment\n> admit that continuously releasing new models is basically necessary to stay at the frontier\n> disclose only ~6% of AI R&D compute went to safety in a sampled week\n> launch Opus 5.5 just 10 days after CEO publishes an essay about pacing the frontier\n\n> but anyway guys here’s the IPO, we’ll make so much money\n\ndisclosing risks to investments is totally normal for an IPO filing. what’s not normal in Anthropic’s case is the sheer volume of that part.\n\nit seems like Anthropic is trying to make sure no investor can ever come back and say “you knew this could happen and didn’t tell us.”\n\nhttps://t.co/sl5LbNlYXo",
+      "quotedTweetText": "ANTHROPIC’s IPO FILING HAS SOME WILD NUMBERS:\n\n&gt; $4.6B revenue in 2025\n&gt; $42B net loss in 2025\n&gt; $518B future infrastructure commitments  \n&gt; $965B valuation in May 2026\n\n&gt; $2T TARGET IPO VALUATION \n\nwe’re living in crazy times. https://t.co/d1OlaIyCjW"
+    },
+    {
+      "tweetId": "2104723741850898575",
+      "role": "commentary",
+      "authorHandle": "edzitron",
+      "url": "https://x.com/edzitron/status/2104723741850898575",
+      "tweetedAt": "2026-09-29T00:03:38.000Z",
+      "bestBit": "Bahahahaha Anthropic is a total dog of a company. Spent $12.6bn to make $4.6bn in revenue in 2025, $7.33bn of which was compute costs.",
+      "text": "Bahahahaha Anthropic is a total dog of a company. Spent $12.6bn to make $4.6bn in revenue in 2025, $7.33bn of which was compute costs.  Operating loss of $8bn. Losses getting worse. Weird that Reuters doesn’t have the 2026 numbers from the prospectus\n\nhttps://t.co/eWnHlfpCgF https://t.co/kyLTeYf3uS",
+      "quotedTweetText": "Reuters just released a sneak peak of Anthropic financials, showing the company reported a net loss of $42 billion in 2025 - and this is before it started losing market share to dirt cheap open source models\n\nAnyone still wondering why the company is threatening to end humanity unless the government shuts down their competition?"
+    },
+    {
+      "tweetId": "2104826070163935389",
+      "role": "commentary",
+      "authorHandle": "philippilk",
+      "url": "https://x.com/philippilk/status/2104826070163935389",
+      "tweetedAt": "2026-09-29T06:50:15.000Z",
+      "bestBit": "A lot of the “robots will kill us all” hype is to distract from the fact that the revenue bases of these companies is a giant, interconnected Jenga tower.",
+      "text": "A lot of the “robots will kill us all” hype is to distract from the fact that the revenue bases of these companies is a giant, interconnected Jenga tower. 🫧 https://t.co/Aq3BminA8X",
+      "quotedTweetText": "Reuters just released a sneak peak of Anthropic financials, showing the company reported a net loss of $42 billion in 2025 - and this is before it started losing market share to dirt cheap open source models\n\nAnyone still wondering why the company is threatening to end humanity unless the government shuts down their competition?"
+    },
+    {
+      "tweetId": "2104772741568307669",
+      "role": "commentary",
+      "authorHandle": "jlippincott",
+      "url": "https://x.com/jlippincott/status/2104772741568307669",
+      "tweetedAt": "2026-09-29T03:18:21.000Z",
+      "bestBit": "pause for thee but not for me",
+      "text": "pause for thee but not for me",
+      "quotedTweetText": "Reuters has seen Anthropic's prospectus, and it shows they plan to spend more than half a trillion dollars on cloud, compute, and infrastructure in the coming year. https://t.co/wuS7qmj113"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-anthropic-routed-47percent-of-its-2025-sales-through-amazon-and-g-ac5b6aee",
+    "title": "UPDATE: Anthropic Routed 47% of Its 2025 Sales Through Amazon and Google, Up From 11% in 2023",
+    "publishedAt": "2026-09-29T22:08:04.208Z",
+    "eventTimeApprox": "2026-09-28T23:16:42.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "earnings",
+      "startups",
+      "business",
+      "tech"
+    ],
+    "tweetCount": 221,
+    "authorCount": 100
+  }
+}

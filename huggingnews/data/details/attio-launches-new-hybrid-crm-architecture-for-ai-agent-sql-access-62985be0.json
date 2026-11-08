@@ -1,0 +1,55 @@
+{
+  "slug": "attio-launches-new-hybrid-crm-architecture-for-ai-agent-sql-access-62985be0",
+  "title": "Attio Launches New Hybrid CRM Architecture for AI Agent SQL Access",
+  "publishedAt": "2026-10-14T17:08:40.899Z",
+  "eventTimeApprox": "2026-10-14T15:55:23.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "The software company has released a system that enables AI agents to treat customer records as a queryable database using SQL while upholding internal policies and permissions. This hybrid architecture allows agents to access data in a flexible syntax without bypassing the business logic, compliance rules, and security controls of the application. Attio developed the system to help go-to-market teams leverage autonomous agents across the entire customer lifecycle.\n\nThe update includes new data connectors and infrastructure capable of handling hundreds of millions of records. It also introduces a beta for \"Activities,\" which incorporates product events and support tickets into the customer record to provide agents with additional operational context.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110387701987889561",
+      "role": "source",
+      "authorHandle": "nicolasosharp",
+      "url": "https://x.com/nicolasosharp/status/2110387701987889561",
+      "tweetedAt": "2026-10-14T15:10:11.000Z",
+      "bestBit": "To agents, Attio looks like a database, queryable in SQL - a language they're RL’d on",
+      "text": "In the age of agents, systems of record have never mattered more. They’ve also never been less prepared for what’s coming.\n\nToday, we’re announcing @attio's hybrid architecture, with the controls of application software at the scale of infrastructure.\n\nTo agents, Attio looks like a database, queryable in SQL - a language they're RL’d on. Unlike a database, the business logic, policies, and compliance sit behind the query.\n\nThis makes all of Attio’s data accessible by agents in the most powerful and flexible syntax. It gives GTM teams an order of magnitude more value from their time, with the full power of agents working across the entire customer lifecycle.\n\nA new shape of software is here.\n\nhttps://t.co/iF5HBuUBhw"
+    },
+    {
+      "tweetId": "2110399073794584839",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2110399073794584839",
+      "tweetedAt": "2026-10-14T15:55:23.000Z",
+      "bestBit": "The release also adds data connectors, support for hundreds of millions of records, and Activities in beta.",
+      "text": "Agents will do more and more of their work inside systems of record, so those systems need to be built for them.\n\nAttio's new hybrid architecture is one of the cleaner approaches I've seen.\n\nAgents can query all of Attio's data in SQL, and the business logic, policies, and compliance rules still apply behind every query.\n\nThe release also adds data connectors, support for hundreds of millions of records, and Activities in beta.",
+      "quotedTweetText": "In the age of agents, systems of record have never mattered more. They’ve also never been less prepared for what’s coming.\n\nToday, we’re announcing @attio's hybrid architecture, with the controls of application software at the scale of infrastructure.\n\nTo agents, Attio looks like a database, queryable in SQL - a language they're RL’d on. Unlike a database, the business logic, policies, and compliance sit behind the query.\n\nThis makes all of Attio’s data accessible by agents in the most powerful and flexible syntax. It gives GTM teams an order of magnitude more value from their time, with the full power of agents working across the entire customer lifecycle.\n\nA new shape of software is here.\n\nhttps://t.co/iF5HBuUBhw"
+    }
+  ],
+  "isSuperseded": false
+}

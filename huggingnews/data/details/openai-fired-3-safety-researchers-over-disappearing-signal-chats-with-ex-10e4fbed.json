@@ -1,0 +1,132 @@
+{
+  "slug": "openai-fired-3-safety-researchers-over-disappearing-signal-chats-with-ex-10e4fbed",
+  "title": "OpenAI Fired 3 Safety Researchers Over Disappearing Signal Chats With External Researcher",
+  "publishedAt": "2026-10-23T15:39:44.909Z",
+  "eventTimeApprox": "2026-10-23T04:10:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 46,
+  "authorCount": 33,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Tomek Korbak, Mikita Balesni and Jasmine Wang were dismissed from OpenAI last month after security staff discovered disappearing messages on their personal Signal accounts. The firings followed a leak investigation into a story published by The Information about the proprietary designs of OpenAI's Astra model and its use of opaque architectures.\n\nOpenAI suspected the researchers of sharing secret model designs with outside expert Ryan Greenblatt, who denied facilitating any leaks. While an OpenAI spokeswoman said the use of the Signal app was not approved, the company stated that such usage was not the only reason for the dismissals. The three researchers had spent the preceding months pushing the company to keep AI chain-of-thought processes visible to humans.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113438537798525372",
+      "role": "source",
+      "authorHandle": "zeffmax",
+      "url": "https://x.com/ZeffMax/status/2113438537798525372",
+      "tweetedAt": "2026-10-23T01:13:07.000Z",
+      "bestBit": "The three researchers OpenAI fired last month spent the summer fighting to keep AI's chain-of-thought process visible.",
+      "text": "New: The three researchers OpenAI fired last month spent the summer fighting to keep AI's chain-of-thought process visible.\n\nThen, OpenAI asked to see their Signal chats. A week later, they were let go.\n\nMore below from @keachhagey, @berber_jin1, and me.\n\nhttps://t.co/7klEDa8R0M https://t.co/l01Q668KT1"
+    },
+    {
+      "tweetId": "2113441462163546585",
+      "role": "source",
+      "authorHandle": "keachhagey",
+      "url": "https://x.com/keachhagey/status/2113441462163546585",
+      "tweetedAt": "2026-10-23T01:24:45.000Z",
+      "bestBit": "asked them to unlock their personal phones... A week later, at 2 p.m., they were all fired.",
+      "text": "Last month, OpenAI called in the three outspoken safety researchers and asked them to unlock their personal phones. It was conducting a leak investigation into a story in The Information about Astra’s use of opaque architectures, and the company’s plans to continue down that path. A week later, at 2 p.m., they were all fired.\n\nOur story, w/ @ZeffMax and @berber_jin1 , looks at the battle over how much AI companies should share with third-party monitors like METR and Redwood to ensure AI safety https://t.co/6KJwKH6S6n via @WSJ"
+    },
+    {
+      "tweetId": "2113652103302570052",
+      "role": "source",
+      "authorHandle": "thezvi",
+      "url": "https://x.com/TheZvi/status/2113652103302570052",
+      "tweetedAt": "2026-10-23T15:21:45.000Z",
+      "bestBit": "The three researchers fired from OpenAI were told I facilitated architecture leaks to The Information. This is false.",
+      "text": "RT @RyanGreenblatt: Based on this article, OpenAI has made false accusations about me. The three researchers fired from OpenAI were told I…"
+    },
+    {
+      "tweetId": "2113458596277264557",
+      "role": "commentary",
+      "authorHandle": "balesni",
+      "url": "https://x.com/balesni/status/2113458596277264557",
+      "tweetedAt": "2026-10-23T02:32:50.000Z",
+      "bestBit": "OpenAI continues to not be able to say anything that makes sense to me about our firings and keeps acting adversarially",
+      "text": "Part of me refuses to believe OpenAI fired three safety researchers for political reasons, and wishes instead that it was just a badly executed investigation mixed with paranoia and lack of sleep after a rollercoaster summer. \n\nBut given that OpenAI continues to not be able to say anything that makes sense to me about our firings and keeps acting adversarially (e.g. claiming to journalists I wasn't on the Hugging Face investigation, while there're a number of people who could confirm otherwise), it's hard to not become cynical.",
+      "quotedTweetText": "The firings of three OpenAI safety researchers came in the throes of a battle over how to keep AI systems under human control—and who gets to see the secret designs that could determine the winners of the biggest commercial race in history. https://t.co/P4xr979Quz"
+    },
+    {
+      "tweetId": "2113497452842295587",
+      "role": "commentary",
+      "authorHandle": "garrisonlovely",
+      "url": "https://x.com/GarrisonLovely/status/2113497452842295587",
+      "tweetedAt": "2026-10-23T05:07:14.000Z",
+      "bestBit": "OpenAI then fired three safety researchers for having disappearing messages on Signal chats on their personal phone with Greenblatt.",
+      "text": "Wow. Per this reporting:\n\n- OpenAI investigators decided that Ryan Greenblatt had been the source for The Information story on a new technique improving capabilities at the expense of monitorability (recurrent depth i.e. quasi-neuralese)\n- OpenAI then fired three safety researchers for having disappearing messages on Signal chats on their personal phone with Greenblatt.\n\nGreenblatt denies that he was the source for the story, telling the Journal “I take confidentiality very seriously and never share such information with reporters.\" FWIW, I think there are number of reasons to believe him:\n\n- Safety researchers are often the most skittish about leaking to journos fearing that getting caught would blow back on safety writ large. This dynamic is even more pronounced for safety researchers at third parties, whose access is wholly determined by the company.\n- If he wanted to sound the alarm about this technique, he wouldn't have leaked to a publication with a famously expensive and insurmountable paywall (which, btw, has probably the best sourcing at AI cos).\n- I've interviewed him and separately chatted with him a few times over the years, and IMO he's too rationalist to lie directly.\n- OpenAI provided no evidence to the WSJ that Greenblatt was involved.\n\nOpenAI tells the Journal that the firings were for more than just the Signal chats, but doesn't substantiate. Disappearing messages on Signal, as the piece mentions, are indeed a common practice in Silicon Valley.\n\nRegardless of the underlying facts of the case, it's clear that the way OpenAI has handled this has had a chilling effect on employee conduct. Each of the three fired researchers publicly criticized the company in the weeks leading up to the firings. I haven't seen that kind of public criticism from employees since (though I'm told there's pushback happening internally in Slack). People have understandably gotten more skittish about talking to me as well. If OpenAI were actually trying to avoid chilling employee speech, the company would share a lot more information than they have.\n\nGift link:\nhttps://t.co/mVyUmdYhw6",
+      "quotedTweetText": "New: The three researchers OpenAI fired last month spent the summer fighting to keep AI's chain-of-thought process visible.\n\nThen, OpenAI asked to see their Signal chats. A week later, they were let go.\n\nMore below from @keachhagey, @berber_jin1, and me.\n\nhttps://t.co/7klEDa8R0M https://t.co/l01Q668KT1"
+    },
+    {
+      "tweetId": "2113634226490757551",
+      "role": "commentary",
+      "authorHandle": "_nathancalvin",
+      "url": "https://x.com/_NathanCalvin/status/2113634226490757551",
+      "tweetedAt": "2026-10-23T14:10:43.000Z",
+      "bestBit": "I still don't really know what evidence OpenAI has that merited these firings.",
+      "text": "It is striking the extent to which after reading this WSJ article - an article that OpenAI commented on repeatedly and from three reporters who are deeply sourced within OpenAI - I still don't really know what evidence OpenAI has that merited these firings.\n\nPut yourself in the shoes of an employee working on AI safety at OpenAI. \n\nAfter reading this article would you have a clear sense of what lines these employees crossed that merited their firing? \n\nOr not knowing the exact lines, would you generally pull back from interactions with third parties that could later be cited as evidence of disloyalty?",
+      "quotedTweetText": "Grateful to @ZeffMax, @keachhagey and @berber_jin1 for this careful reporting.\n\n@tomekkorbak, @balesni and @j_asminewang pushed OpenAI to keep AI’s reasoning visible. OpenAI’s reasons for firing them are no clearer after this article than they were at 2pm on the day it fired them. But the issues they were raising are more important than ever. Proud @psst_org has been able to support them."
+    },
+    {
+      "tweetId": "2113491436230656332",
+      "role": "commentary",
+      "authorHandle": "apples_jimmy",
+      "url": "https://x.com/apples_jimmy/status/2113491436230656332",
+      "tweetedAt": "2026-10-23T04:43:19.000Z",
+      "bestBit": "The OpenAI spokeswoman said using signal wasn’t approved, but its use wasn’t the sole reason for the firings",
+      "text": "I think it’s important to have this in your post for context:\n\n“ The OpenAI spokeswoman said using signal wasn’t approved, but its use wasn’t the sole reason for the firings “",
+      "quotedTweetText": "New: The three researchers OpenAI fired last month spent the summer fighting to keep AI's chain-of-thought process visible.\n\nThen, OpenAI asked to see their Signal chats. A week later, they were let go.\n\nMore below from @keachhagey, @berber_jin1, and me.\n\nhttps://t.co/7klEDa8R0M https://t.co/l01Q668KT1"
+    },
+    {
+      "tweetId": "2113454795935625404",
+      "role": "commentary",
+      "authorHandle": "so8res",
+      "url": "https://x.com/So8res/status/2113454795935625404",
+      "tweetedAt": "2026-10-23T02:17:44.000Z",
+      "bestBit": "they were just fired without warning after the fact.",
+      "text": "It sounds like OpenAI fired the three safety researchers because they used disappearing messages. It sounds like they weren't told not to; they were just fired without warning after the fact. Seems bad."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-fires-3-safety-researchers-after-astra-leak-investigation-f1fdc240",
+    "title": "OpenAI Fires 3 Safety Researchers After Astra Leak Investigation",
+    "publishedAt": "2026-10-23T01:38:59.974Z",
+    "eventTimeApprox": "2026-10-23T01:26:53.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business"
+    ],
+    "tweetCount": 27,
+    "authorCount": 24
+  }
+}

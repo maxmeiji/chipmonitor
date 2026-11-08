@@ -1,0 +1,67 @@
+{
+  "slug": "openai-launches-decisions-api-at-010-per-million-input-tokens-67f909f0",
+  "title": "OpenAI Launches Decisions API at $0.10 Per Million Input Tokens",
+  "publishedAt": "2026-10-22T19:53:47.009Z",
+  "eventTimeApprox": "2026-10-22T19:38:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Developers can now implement near real-time classification and input evaluation for their AI agents without the computational overhead of generating a complete model response. OpenAI has moved its Decisions API from public beta to general availability to enable the construction of more cost-efficient application workflows.\n\nThe API is priced at $0.10 per million input tokens and $0.01 per million cached tokens. The tool is designed to let applications autonomously select the most appropriate model or action in near real-time and is up to 10x faster than using GPT-6 Luna via the Responses API.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113346642787086538",
+      "role": "source",
+      "authorHandle": "openaidevs",
+      "url": "https://x.com/OpenAIDevs/status/2113346642787086538",
+      "tweetedAt": "2026-10-22T19:07:58.000Z",
+      "bestBit": "The Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API",
+      "text": "Add near real-time decisions to your workflow with the Decisions API, now generally available.\n\nBuild faster, more cost-efficient apps and agents that can classify text and images, evaluate inputs, and determine what happens next without generating a full model response.",
+      "quotedTweetText": "Let your app choose the right model, tool, or action in near real-time with Decisions API, now available to all developers in public beta.\n\nThe Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API. https://t.co/zhgRVzJ3aP"
+    },
+    {
+      "tweetId": "2113355788282687877",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2113355788282687877",
+      "tweetedAt": "2026-10-22T19:44:18.000Z",
+      "bestBit": "OPENAI SAYS IT IS MAKING ITS DECISIONS API GENERALLY AVAILABLE, PRICED AT $0.10 PER MLN INPUT TOKENS",
+      "text": "OPENAI SAYS IT IS MAKING ITS DECISIONS API GENERALLY AVAILABLE, PRICED AT $0.10 PER MLN INPUT TOKENS, WITH CACHED INPUT COSTING $0.01 PER MLN TOKENS"
+    }
+  ],
+  "isSuperseded": false
+}

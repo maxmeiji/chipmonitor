@@ -1,0 +1,60 @@
+{
+  "slug": "apple-opens-siri-ai-preview-to-all-software-developers-for-expanded-app-1e11999c",
+  "title": "Apple Opens Siri AI Preview to All Software Developers for Expanded App Integration",
+  "publishedAt": "2026-11-03T19:38:53.253Z",
+  "eventTimeApprox": "2026-11-03T19:20:18.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Apple Inc.",
+      "hubKey": "aapl"
+    }
+  ],
+  "summary": "Third party software creators can now integrate their application's features and data directly into Apple's AI-driven voice assistant. The latest update allows the system to pull content and trigger actions from any app using a mechanism called App Intents, replacing the previous model that limited Siri to interactions within specific domains.\n\nThe expanded capabilities are provided through a new developer preview. In version 27.3 of the software, the assistant is able to utilize any implemented app intent to perform tasks across various compatible third party applications.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117698403282854199",
+      "role": "source",
+      "authorHandle": "viticci",
+      "url": "https://x.com/viticci/status/2117698403282854199",
+      "tweetedAt": "2026-11-03T19:20:18.000Z",
+      "bestBit": "Today’s preview allows any app to bring its content and actions directly into Siri AI by using App Intents",
+      "text": "The expanded Siri AI is actually a bigger deal – from Apple:\n\n\"Today’s preview allows any app to bring its content and actions directly into Siri AI by using App Intents\"\n\nSo Apple is moving away from specific domains. This is great.\n\nhttps://t.co/FQkzgKVnCc"
+    },
+    {
+      "tweetId": "2117698780740952341",
+      "role": "commentary",
+      "authorHandle": "mweinbach",
+      "url": "https://x.com/mweinbach/status/2117698780740952341",
+      "tweetedAt": "2026-11-03T19:21:48.000Z",
+      "bestBit": "with Siri AI in 27.3 it can use any app intent in any app",
+      "text": "Oh shit, with Siri AI in 27.3 it can use any app intent in any app\n\nBig update to Siri being able to do things with your apps",
+      "quotedTweetText": "The expanded Siri AI is actually a bigger deal – from Apple:\n\n\"Today’s preview allows any app to bring its content and actions directly into Siri AI by using App Intents\"\n\nSo Apple is moving away from specific domains. This is great.\n\nhttps://t.co/FQkzgKVnCc"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "combined-free-cash-flow-of-top-tech-firms-falls-to-record-264by-adcad80a",
+  "title": "Combined Free Cash Flow of Top Tech Firms Falls to Record -$26.4By",
+  "publishedAt": "2026-11-01T14:53:12.834Z",
+  "eventTimeApprox": "2026-10-30T01:55:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "earnings",
+    "ai",
+    "tech",
+    "us-markets"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2116900354717589597/HWC9fxUXYAAqt90-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2116900354717589597/HWC9fxUXYAAqt90-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "kobeissiletter",
+      "tweetUrl": "https://x.com/KobeissiLetter/status/2116900354717589597"
+    }
+  },
+  "summary": "The cost of upgrading data centers and hardware for Amazon, Google, Meta and Microsoft climbed by $36.9B last quarter, reaching a total of $201.9B. This surge in spending on artificial intelligence infrastructure drove the 4 companies' collective free cash flow to a record low of -$26.4B in the third quarter of 2026, with Microsoft reporting the only positive free cash flow among the group.\n\nThe group has now spent $1.6T on capital expenditures over the last 3 years, with combined quarterly spending increasing 356% since the first quarter of 2024. These companies plan to spend another $232B in the fourth quarter, which would potentially lift their combined total CapEx for 2026 to $740B.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115911407141257383",
+      "role": "source",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2115911407141257383",
+      "tweetedAt": "2026-10-29T20:59:25.000Z",
+      "bestBit": "$AMZN ~$77B, $GOOGL ~$51B, $MSFT ~$39B, $META ~$34B",
+      "text": "The Big 4 have now revealed their quarterly CapEx spending with a combined total surpassing $200B: \n\n• $AMZN ~$77B\n• $GOOGL ~$51B\n• $MSFT ~$39B\n• $META ~$34B https://t.co/BiYaTQMUmI"
+    },
+    {
+      "tweetId": "2116900354717589597",
+      "role": "support",
+      "authorHandle": "kobeissiletter",
+      "url": "https://x.com/KobeissiLetter/status/2116900354717589597",
+      "tweetedAt": "2026-11-01T14:29:09.000Z",
+      "bestBit": "Combined CapEx of Amazon, $AMZN, Alphabet, $GOOGL, Meta, $META, and Microsoft, $MSFT, rose +$36.9 billion in Q3 2026, to a record $201.9 billion.",
+      "text": "AI is burning Big Tech's free cash flow:\n\nThe combined CapEx of Amazon, $AMZN, Alphabet, $GOOGL, Meta, $META, and Microsoft, $MSFT, rose +$36.9 billion in Q3 2026, to a record $201.9 billion.\n\nThis figure has more than doubled over the last 12 months and is up +356% since Q1 2024.\n\nBig Tech has now spent $1.6 trillion on CapEx over the last 3 years.\n\nMeanwhile, the combined free cash flow of these companies fell -$33.1 billion last quarter, to -$26.4 billion, its lowest on record.\n\nFree cash flow among these firms has dropped -$88.2 billion over the last year.\n\nOnly Microsoft reported positive free cash flow in Q3.\n\nLooking ahead, these 4 companies plan to spend another $232 billion on CapEx in Q4, potentially lifting their combined CapEx to a record $740 billion in 2026.\n\nBig Tech is undertaking one of the largest infrastructure buildouts in history."
+    },
+    {
+      "tweetId": "2115913250172998012",
+      "role": "commentary",
+      "authorHandle": "realnickmugalli",
+      "url": "https://x.com/RealNickMugalli/status/2115913250172998012",
+      "tweetedAt": "2026-10-29T21:06:45.000Z",
+      "bestBit": "AWS is projected to grow over 40% in both 2027 and 2028.",
+      "text": "*CAPEX SPENDING:\n\n- $AMZN ~$77B\n- $GOOGL ~$51B\n- $MSFT ~$39B\n- $META ~$34B",
+      "quotedTweetText": "Wow $AMZN down 10%. AWS grew 39% to $46bn, ahead of expectations, and is now running at $184bn a year. Then Andy Jassy said the line that matters imo…AWS is projected to grow over 40% in both 2027 and 2028. That's a two year forecast of 40%+ growth on a business nearly the size of Microsoft's entire cloud.\n\nTo get there, Amazon is spending like never before. Capex was $77.3bn in a single quarter, almost $20bn more than anyone expected. That's why the Q4 profit guide came in light, and that's why the stock is down. Retail softened too, with ads at $19.6bn against $20.9bn expected.\n\nBut this is the third time this week the same story has played out. Google, Microsoft and now Amazon are all spending more than expected, because demand is bigger than supply. Amazon wouldn't drop $77bn in a quarter unless it saw the customers to fill it.\n\nThe market sees a cost problem. We see AWS accelerating with two more years of 40% growth already on the table. We'd buy the drop. PT $370. Overweight."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "amazon-google-microsoft-and-meta-combined-quarterly-capex-tops-200b-40c80cd2",
+    "title": "Amazon, Google, Microsoft and Meta Combined Quarterly CapEx Tops $200B",
+    "publishedAt": "2026-10-30T00:52:40.271Z",
+    "eventTimeApprox": "2026-10-29T21:06:45.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "us-markets"
+    ],
+    "tweetCount": 5,
+    "authorCount": 4
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "update-reuters-projects-30-trillion-ai-spend-by-2050-on-risky-productivi-5cd20843",
+  "title": "UPDATE: Reuters Projects $30 Trillion AI Spend by 2050 on Risky Productivity Assumptions",
+  "publishedAt": "2026-10-03T15:40:43.507Z",
+  "eventTimeApprox": "2026-09-29T02:05:08.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai",
+    "us-markets"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "related",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105314881205411865/HTeUJpCXIAAWAYO-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105314881205411865/HTeUJpCXIAAWAYO-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "steverattner",
+      "tweetUrl": "https://x.com/SteveRattner/status/2105314881205411865"
+    }
+  },
+  "summary": "Profits for the next generation of computing depend on whether the industry can translate massive capital outlays into actual productivity. Total spending on artificial intelligence and data centers may reach $30 trillion by 2050, based on reports from Reuters, though economists warn that returns rely on volatile assumptions. JPMorgan estimates that maintaining Nvidia's current valuation requires U.S. productivity to grow by 3% to 5% annually over a decade, far above the Congressional Budget Office baseline of 1.75%. Individual firms face similar strain, as Anthropic has $518 billion in future infrastructure obligations, more than 100 times its 2025 revenue of $4.6 billion.\n\nThese liabilities underscore a broader industry revenue gap identified by Bain & Co., which finds that AI must generate $6 trillion in annual revenue by 2031 to justify its data center expansion. Current enterprise and consumer services are projected to provide only $1.2 trillion to $1.8 trillion, leaving a shortfall of roughly $4.2 trillion that must be bridged by new markets in robotics, energy generation, and drug discovery. Bain estimates that funding the sector sustainably would require adding approximately 1% to the annual global GDP growth rate.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106402644650754203",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2106402644650754203",
+      "tweetedAt": "2026-10-03T15:15:00.000Z",
+      "bestBit": "Global spending on AI and data centers could reach $30 trillion by 2050",
+      "text": "Global spending on AI and data centers could reach $30 trillion by 2050, but economists warn returns depend on risky assumptions about productivity gains and profits https://t.co/31GPVuc5yH https://t.co/YKzetu04KS"
+    },
+    {
+      "tweetId": "2104854908906381355",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2104854908906381355",
+      "tweetedAt": "2026-09-29T08:44:51.000Z",
+      "bestBit": "funding the buildout sustainably would require 'adding approximately 1% to the annual global GDP growth rate.'",
+      "text": "Bain & Co published a solid research, and it now puts AI's required annual revenue at $6T by 2031, triple last year's bar.\n\nIt gets there by projecting $1.5T in yearly AI infrastructure spending by 2031, then assuming capex equals about 25% of industry revenue.\n\n\"Together, the consumer and enterprise AI market could total between $1.2 trillion and $1.8 trillion, leaving about $4.2 trillion of new revenue to reach the $6 trillion market that we estimate will be necessary to fund the buildout. \n\nThat revenue must come from new sources of economic value.\"\n\nThe report also says funding the buildout sustainably would require \"adding approximately 1% to the annual global GDP growth rate.\""
+    },
+    {
+      "tweetId": "2104963447264092242",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2104963447264092242",
+      "tweetedAt": "2026-09-29T15:56:08.000Z",
+      "bestBit": "Bain & Co. says AI needs $6T in annual revenue by 2031 to justify today's data-center spending",
+      "text": "RT @rohanpaul_ai: Bloomberg: Bain &amp; Co. says AI needs $6T in annual revenue by 2031 to justify today's data-center spending. \n\nExisting con…"
+    },
+    {
+      "tweetId": "2104951260298563631",
+      "role": "commentary",
+      "authorHandle": "bulltheoryio",
+      "url": "https://x.com/BullTheoryio/status/2104951260298563631",
+      "tweetedAt": "2026-09-29T15:07:43.000Z",
+      "bestBit": "Anthropic has $518 billion in future cloud, computing and infrastructure obligations",
+      "text": "AI needs $6 TRILLION in annual revenue by 2031 to justify the data centers being built, per Bain &amp; Company.\n\nAnthropic made just $4.6B in 2025. \n\nThe entire AI industry needs to generate roughly 1,300x that every single year just to justify the infrastructure being built.",
+      "quotedTweetText": "🚨 THE $2 TRILLION ANTHROPIC IPO MIGHT EXPOSE THE BIGGEST PROBLEM WITH THE ENTIRE AI BOOM.\n\nThe same money keeps moving between the same companies.\n\nAnthropic could soon ask public investors to value it at more than $2 trillion.\n\nBut behind that valuation is a financial loop that almost nobody is talking about.\n\nIt looks something like this:\n\nAmazon/Google → invest billions into Anthropic → Anthropic spends billions on Amazon/Google cloud infrastructure → Amazon/Google earn cloud revenue → Anthropic raises more money at a higher valuation → Amazon/Google's investments become more valuable\n\nThis is basically how the loop works:\n\nAmazon and Google invest billions into Anthropic. Anthropic needs massive amounts of computing power to build and run Claude, so it signs huge cloud contracts with Amazon and Google.\n\nMoney goes into Anthropic as investment capital, then billions flow back toward the infrastructure businesses of the companies funding it.\n\nLook at Amazon.\n\nIt has invested $33 billion into Anthropic, while Anthropic has committed to spend more than $100 billion on AWS over the next decade.\n\nAmazon isn't just betting on Anthropic becoming valuable. It is also positioning itself to collect enormous cloud revenue as Anthropic grows.\n\nGoogle has an even bigger relationship.\n\nIt has committed up to $40 billion to Anthropic in a deal involving both cash and compute, on top of an earlier $3 billion, for $43 billion total. Anthropic has committed to spend $200 billion on Google Cloud over the next 5 years.\n\nGoogle can participate in Anthropic's rising valuation while also supplying the expensive infrastructure Anthropic needs to operate.\n\nThat becomes much more important when you look at Anthropic's actual financials.\n\nAccording to details from Anthropic's IPO prospectus reviewed by Reuters, the company generated only $4.6 billion of revenue in 2025, but spent $7.33 billion on compute and infrastructure alone.\n\nTotal operating expenses reached $12.65 billion, and its operating loss widened to $8.06 billion.\n\nAnd now comes the number that makes everything else look small.\n\nAnthropic has $518 billion in future cloud, computing and infrastructure obligations, while it ended 2025 with only $20.28 billion in cash, cash equivalents and short-term investments.\n\nIts future infrastructure commitments are more than 100 times its 2025 revenue and roughly 25 times its year-end liquidity.\n\nYet the company could IPO at more than $2 trillion.\n\nAt that valuation, Anthropic would be worth roughly 435 times its 2025 revenue.\n\nEven crazier, the company was valued at around $965 billion only four months ago, meaning its proposed valuation has increased by more than $1 trillion in that time.\n\nAnthropic is growing insanely fast, and that's the argument investors will use to justify it. Revenue grew roughly 12x in 2025.\n\nBut that's exactly where the bet becomes enormous.\n\nAnthropic doesn't just need revenue to keep growing. It needs revenue to grow fast enough to eventually support hundreds of billions in infrastructure commitments, while turning a business that currently spends far more than it earns into an extremely profitable one.\n\nAnd even its current revenue isn't as secure as a $2 trillion valuation might suggest.\n\nNearly one-quarter of Anthropic's 2025 revenue came from just two customers, and many of its largest customers aren't locked into long-term contracts. They can reduce spending whenever they choose.\n\nThere's another layer to this loop.\n\nWhen private AI companies raise funding at dramatically higher valuations, the Big Tech companies that already hold stakes in them get to record paper gains on those stakes.\n\nSo the same companies can earn cloud revenue from AI spending while also benefiting financially when the AI companies doing that spending get revalued higher.\n\nThis doesn't mean the cloud revenue is fake, or that anything illegal is happening. The compute is real and it's actually being used.\n\nBut it raises an uncomfortable question: how much of this demand is independent, and how much of it is the same capital moving in a circle?\n\nBig Tech funds AI labs. Those labs spend enormous amounts back with Big Tech. That spending drives data-center expansion and cloud growth. Higher AI valuations increase the value of Big Tech's original investments, freeing up even more capital to expand the system further.\n\nEventually, someone outside that loop has to generate enough real cash flow to justify everything being built.\n\nThat's why this IPO matters beyond Anthropic itself.\n\nPublic investors may soon be asked to put a $2 trillion price tag on a company sitting in the middle of this exact system, one carrying hundreds of billions in future obligations, billions in operating losses, and an enormous amount of future growth already priced in.\n\nIf end-user demand grows large enough, this could be one of the greatest infrastructure bets ever made.\n\nIf it doesn't, the AI boom may discover that investing billions into your own customers so they can spend billions back with you created a lot more reported growth than actual profit."
+    },
+    {
+      "tweetId": "2106300759822536853",
+      "role": "commentary",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2106300759822536853",
+      "tweetedAt": "2026-10-03T08:30:08.000Z",
+      "bestBit": "JPMorgan estimates Nvidia’s valuation would require U.S. productivity growth of 3% to 5% annually",
+      "text": "🚨BREAKING: AI’s infrastructure boom now needs more than $4.2 TRILLION in new revenue within five years just to fund the buildout, according to Bain.\n\nGlobal data-center spending could top $30 TRILLION by 2050, almost matching all outstanding U.S. Treasuries. Anthropic alone plans to spend $518B, more than 100x its 2025 revenue.\n\nAnd JPMorgan estimates Nvidia’s valuation would require U.S. productivity growth of 3% to 5% annually for the next decade. The CBO baseline is just 1.75%."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "bain-triples-ai-revenue-target-to-6t-by-2031-for-data-centers-9d2deb05",
+    "title": "Bain Triples AI Revenue Target to $6T by 2031 for Data Centers",
+    "publishedAt": "2026-09-29T07:19:40.505Z",
+    "eventTimeApprox": "2026-09-29T02:05:08.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 12,
+    "authorCount": 9
+  }
+}

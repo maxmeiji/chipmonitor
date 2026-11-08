@@ -1,0 +1,64 @@
+{
+  "slug": "softbank-seeks-100b-from-gulf-investors-to-scale-ai-b7dbfc5d",
+  "title": "SoftBank Seeks $100B From Gulf Investors to Scale AI Bets",
+  "publishedAt": "2026-10-09T05:26:22.828Z",
+  "eventTimeApprox": "2026-10-09T05:06:04.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 18,
+  "routingTopicKeys": [
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    }
+  ],
+  "summary": "The Japanese conglomerate is pursuing a large-scale capital injection from Middle Eastern sources to launch a series of strategic acquisitions. SoftBank is targeting up to $100 billion from investors in the Gulf region for a fund that will integrate artificial intelligence and other advanced technologies into the operations of the acquired companies, reports the Financial Times.\n\nThe funding effort is designed to intensify the firm's position in the AI sector by leveraging sovereign wealth and regional capital. By identifying and purchasing businesses that can be overhauled with automation and machine learning, the company aims to drive higher operational efficiency and asset value.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108420419027972576",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2108420419027972576",
+      "tweetedAt": "2026-10-09T04:52:55.000Z",
+      "bestBit": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+      "text": "SoftBank seeks $100bn from Gulf investors to expand AI bet https://t.co/45CJ1EtyWu"
+    },
+    {
+      "tweetId": "2108423728891912323",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2108423728891912323",
+      "tweetedAt": "2026-10-09T05:06:04.000Z",
+      "bestBit": "raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech",
+      "text": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2108428998862876686",
+      "role": "commentary",
+      "authorHandle": "zephyr_z9",
+      "url": "https://x.com/zephyr_z9/status/2108428998862876686",
+      "tweetedAt": "2026-10-09T05:27:00.000Z",
+      "bestBit": "Masa will finesse MBS again lol",
+      "text": "Masa will finesse MBS again lol",
+      "quotedTweetText": "SoftBank seeks $100bn from Gulf investors to expand AI bet https://t.co/45CJ1EtyWu"
+    }
+  ],
+  "isSuperseded": false
+}

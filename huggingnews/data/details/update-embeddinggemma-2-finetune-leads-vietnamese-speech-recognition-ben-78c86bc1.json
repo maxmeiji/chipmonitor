@@ -1,0 +1,120 @@
+{
+  "slug": "update-embeddinggemma-2-finetune-leads-vietnamese-speech-recognition-ben-78c86bc1",
+  "title": "UPDATE: EmbeddingGemma 2 Finetune Leads Vietnamese Speech Recognition Benchmarks",
+  "publishedAt": "2026-10-14T08:08:19.632Z",
+  "eventTimeApprox": "2026-10-06T18:03:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 92,
+  "authorCount": 59,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110209860511932554/HUj4NlfW4AADOkB-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110209860511932554/HUj4NlfW4AADOkB-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "stablequan",
+      "tweetUrl": "https://x.com/stablequan/status/2110209860511932554"
+    }
+  },
+  "summary": "The use of eight H100 GPUs for two hours transformed Google's EmbeddingGemma 2 into a state-of-the-art tool for Vietnamese speech recognition after training on 3,000 hours of audio. This development expands the utility of the embedding model into speech-to-text tasks, following another community project that repurposed the model to transcribe one hour of audio in about 13 seconds on a base M3 MacBook Air.\n\nEmbeddingGemma 2 is an open model with 740M parameters that maps text, code, images, video, and audio into a unified 768-dimensional vector space. It features a modular design allowing on-device applications to load only necessary components, such as the 270M parameter text core or 300M parameter audio encoder. Released under an Apache 2.0 license, the model powers local AI tools including the DigUp search app and Google's AI Edge Foresight for macOS.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109660368381395414",
+      "role": "source",
+      "authorHandle": "tslshahir",
+      "url": "https://x.com/TslShahir/status/2109660368381395414",
+      "tweetedAt": "2026-10-12T15:00:02.000Z",
+      "bestBit": "transcribes an hour of audio in about 13 seconds: 288× real time",
+      "text": "I turned @googlegemma  EmbeddingGemma 2, an embedding model, into a speech-to-text model, and it turned out to be one of the fastest STT models you can run on device. \n\nOn a base M3 MacBook Air it transcribes an hour of audio in about 13 seconds: 288× real time.\n\nThe idea came in March with Gemini Embedding 2. It puts text, images, audio and video into one shared space, so a spoken word lands right next to the written word. If that's true, you should be able to read a transcript straight out of the embedding model. I couldnt tried it then, but last week EmbeddingGemma 2 came out as an open model, so I tried it."
+    },
+    {
+      "tweetId": "2110278060717089203",
+      "role": "source",
+      "authorHandle": "tomaarsen",
+      "url": "https://x.com/tomaarsen/status/2110278060717089203",
+      "tweetedAt": "2026-10-14T07:54:31.000Z",
+      "bestBit": "train it on 3,000hrs of Vietnamese audio. IT REACHED SOTA",
+      "text": "A finetune of EmbeddingGemma2 on Vietnamese audio is now a leading model on Vietnamese ASR, impressive. \n\nCheck it out: https://t.co/IExHly3Q7M",
+      "quotedTweetText": "Ummm guys, I took @googlegemma Embedding 2 model and train it on 3,000hrs of Vietnamese audio. IT REACHED SOTA. All it took is 2 hours on 8xH100"
+    },
+    {
+      "tweetId": "2107501975671890211",
+      "role": "source",
+      "authorHandle": "sundarpichai",
+      "url": "https://x.com/sundarpichai/status/2107501975671890211",
+      "tweetedAt": "2026-10-06T16:03:21.000Z",
+      "bestBit": "outperforms some specialist models more than twice its size",
+      "text": "Introducing EmbeddingGemma 2, a new open multimodal model that sets the standard for on-device efficiency.\n\n- our first open, natively multimodal embedding model\n- handles text, code, image, video, and audio tasks within a lightweight, modular 740M parameter form factor\n- ideal for offline, privacy-first RAG when paired with Gemma 4\n- outperforms some specialist models more than twice its size\n\nWeights available now on Hugging Face."
+    },
+    {
+      "tweetId": "2107507664456708325",
+      "role": "analysis",
+      "authorHandle": "tomaarsen",
+      "url": "https://x.com/tomaarsen/status/2107507664456708325",
+      "tweetedAt": "2026-10-06T16:25:57.000Z",
+      "bestBit": "The 740M footprint is modular: text: 270M vision: 170M audio: 300M",
+      "text": "The 740M footprint is modular:\n- text: 270M\n- vision: 170M\n- audio: 300M\n\nDisable unused encoders through config_kwargs. Text-only loads 270M, text + images 440M, text + audio 570M.\n\nDesigned to also work on phones &amp; laptops by loading only the encoders that you need. https://t.co/gPtFxiuxc2"
+    },
+    {
+      "tweetId": "2109277085068148746",
+      "role": "commentary",
+      "authorHandle": "ivanfioravanti",
+      "url": "https://x.com/ivanfioravanti/status/2109277085068148746",
+      "tweetedAt": "2026-10-11T13:37:00.000Z",
+      "bestBit": "Google Embedding Gemma 2 is the DeepSeek moment of embedding models",
+      "text": "Google Embedding Gemma 2 is the DeepSeek moment of embedding models."
+    },
+    {
+      "tweetId": "2109305611674333207",
+      "role": "commentary",
+      "authorHandle": "fdaudens",
+      "url": "https://x.com/fdaudens/status/2109305611674333207",
+      "tweetedAt": "2026-10-11T15:30:21.000Z",
+      "bestBit": "A dev built DigUp, which is basically what search on your Mac should be",
+      "text": "Your regular reminder that small, specialized open models can do so much. Google dropped EmbeddingGemma 2. Then:\n\n- A dev built DigUp, which is basically what search on your Mac should be.\n\n- Google shipped Foresight, a local Granola-like https://t.co/ov8REAoqIP"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "update-devs-google-ai-hack-transcribes-1-hour-of-audio-in-13-seconds-7e92e69f",
+    "title": "UPDATE: Dev's Google AI Hack Transcribes 1 Hour of Audio in 13 Seconds",
+    "publishedAt": "2026-10-12T18:38:24.259Z",
+    "eventTimeApprox": "2026-10-06T18:01:37.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 90,
+    "authorCount": 58
+  }
+}

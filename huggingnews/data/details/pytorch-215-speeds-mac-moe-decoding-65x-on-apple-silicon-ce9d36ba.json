@@ -1,0 +1,59 @@
+{
+  "slug": "pytorch-215-speeds-mac-moe-decoding-65x-on-apple-silicon-ce9d36ba",
+  "title": "PyTorch 2.15 Speeds Mac MoE Decoding 6.5x on Apple Silicon",
+  "publishedAt": "2026-10-20T14:53:36.003Z",
+  "eventTimeApprox": "2026-10-20T13:42:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "subject",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "summary": "LFM2.5-8B-A1B inference speeds increased from 23.6 to 123.6 tokens per second on Mac hardware after the release of PyTorch 2.15. The update boosts Mixture of Experts (MoE) decoding by 5 to 6.5 times compared to version 2.14 and accelerates softmax over a 128k vocabulary by approximately 8 times. Peak driver memory for Wan2.2 VAE decoding also fell from 270 GiB to 8 GiB in the latest version.\n\nThe performance gains result from the PyTorch team at Hugging Face replacing MPSGraph paths with Metal kernels to better optimize Apple silicon. Along with these speedups, the update introduces FP8 dtype support for Metal Performance Shaders (MPS) and improves linear algebra support. The team is currently developing version 2.16 to further increase execution speeds.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112501374747398149",
+      "role": "source",
+      "authorHandle": "is36e",
+      "url": "https://x.com/Is36E/status/2112501374747398149",
+      "tweetedAt": "2026-10-20T11:09:10.000Z",
+      "bestBit": "FP8 dtype on MPS",
+      "text": "Lots of exciting changes coming to MPS in @PyTorch 2.15 release:\n- Faster LLM decode\n- FP8 dtype on MPS\n- Better Linear Algebra support\n- Less memory usage\n- And plans for 2.16!\n\nTake a look at the blog post for more details!\n\nhttps://t.co/ksjJ99Gfnp https://t.co/jdr9xTDVIb"
+    },
+    {
+      "tweetId": "2112540052316131508",
+      "role": "commentary",
+      "authorHandle": "lysandrejik",
+      "url": "https://x.com/LysandreJik/status/2112540052316131508",
+      "tweetedAt": "2026-10-20T13:42:52.000Z",
+      "bestBit": "Qwen3.6-35B-A3B: 9.4 → 61.3 tok/s on an M3 Ultra",
+      "text": "PyTorch 2.15 is a pretty big release if you run models on a Mac.\n\nOver the past months, the @PyTorch team at @huggingface has been working upstream on MPS, replacing MPSGraph paths with Metal kernels.\n\nSome of the results are kind of wild:\n\n- MoE decoding is now 5-6.5x faster than in PyTorch 2.14\n- Qwen3.6-35B-A3B: 9.4 → 61.3 tok/s on an M3 Ultra\n- LFM2.5-8B-A1B: 23.6 → 123.6 tok/s\n- softmax over a 128k vocab is ~8x faster\n- FP8 is now supported on MPS\n- Wan2.2 VAE decoding goes from ~270 GiB peak driver memory to ~8 GiB\n\nThis isn’t a specific runtime, or a separate inference engine, it’s just PyTorch getting faster on Apple silicon!\n\nImpressive work by @Is36E! 2.16 is already looking even faster 👀\n\nhttps://t.co/hzHrQbLuIK"
+    }
+  ],
+  "isSuperseded": false
+}

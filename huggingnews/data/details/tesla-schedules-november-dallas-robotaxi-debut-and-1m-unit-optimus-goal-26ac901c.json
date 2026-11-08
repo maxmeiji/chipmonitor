@@ -1,0 +1,148 @@
+{
+  "slug": "tesla-schedules-november-dallas-robotaxi-debut-and-1m-unit-optimus-goal-26ac901c",
+  "title": "Tesla Schedules November Dallas Robotaxi Debut and 1M Unit Optimus Goal",
+  "publishedAt": "2026-10-22T02:11:37.257Z",
+  "eventTimeApprox": "2026-10-21T20:41:17.500Z",
+  "isFreshStory": false,
+  "tweetCount": 41,
+  "authorCount": 22,
+  "routingTopicKeys": [
+    "tech",
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "automobile",
+      "name": "Automobile"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113000907235344624/HVLjFk6WoAE3Icj-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113000907235344624/HVLjFk6WoAE3Icj-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "sawyermerritt",
+      "tweetUrl": "https://x.com/SawyerMerritt/status/2113000907235344624"
+    }
+  },
+  "summary": "The electric-car manufacturer will introduce an autonomous ride-hailing service in Texas to test scaling before a wider rollout, with expectations that the fleet will impact profits by early 2027. Tesla plans to launch Cybercab rides in Dallas in November 2026 and is targeting 24 hour operations by the end of that year. In Fremont, the company has installed production lines designed to build 1 million Optimus humanoid robots annually, while simultaneously expanding its Full Self-Driving software into nine European countries. Additionally, Tesla expects to produce its first test chips from the Austin Terafab in mid-2027.\n\nThese expansion goals follow Q3 results where free cash flow of $1.53 billion beat the projected $4.99 billion loss, and adjusted earnings per share hit $0.48 against a $0.44 estimate. Annual recurring revenue from autonomous subscriptions crossed $1 billion for the first time on 1.74 million users. CEO Elon Musk stated that vehicle demand currently exceeds production, leading to the largest passenger backlog in four years, and set a long-term target of 5 million vehicles per year by 2030. The company has also entered volume production of the Tesla Semi and nearly sold out its 2027 Megapack capacity.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113021137252687886",
+      "role": "source",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2113021137252687886",
+      "tweetedAt": "2026-10-21T21:34:31.000Z",
+      "bestBit": "aiming for 5 million vehicles a year by 2030",
+      "text": "Elon Musk on Tesla's Q3 earnings call:\n\n\"We've been laying the groundwork for a lot more manufacturing capacity. We're aiming for 5 million vehicles a year by 2030.\" https://t.co/gB35WMkzlx"
+    },
+    {
+      "tweetId": "2113013461005500517",
+      "role": "source",
+      "authorHandle": "fiscal_ai",
+      "url": "https://x.com/Fiscal_ai/status/2113013461005500517",
+      "tweetedAt": "2026-10-21T21:04:01.000Z",
+      "bestBit": "largest backlog for our passenger vehicles in four years",
+      "text": "\"We ended the quarter with the largest backlog for our passenger vehicles in four years.\"\n\n$TSLA https://t.co/bG2Ybktfdm"
+    },
+    {
+      "tweetId": "2113011056847278486",
+      "role": "source",
+      "authorHandle": "elonmusk",
+      "url": "https://x.com/elonmusk/status/2113011056847278486",
+      "tweetedAt": "2026-10-21T20:54:28.000Z",
+      "bestBit": "People are buying FSD with a car attached, not the other way around",
+      "text": "People are buying FSD with a car attached, not the other way around",
+      "quotedTweetText": "Tesla has just released its Q3 earnings results.\n\nHighlights:\n• EPS (non-GAAP): $0.48 (vs. $0.45 est)\n• Revenue: $28.05B (vs. $28.3B est)\n• Adjusted EBITDA: $3.90B\n• Active FSD Subscriptions: 1.74M, up 67% YoY from 1.04M\n• Net income (GAAP): $787M\n• Free cash flow: $1.53B\n• Capex: $4.73B\n• Cash & marketable securities: $45.45B, up 9% YoY"
+    },
+    {
+      "tweetId": "2113066206349660373",
+      "role": "support",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2113066206349660373",
+      "tweetedAt": "2026-10-22T00:33:37.000Z",
+      "bestBit": "Tesla Semi truck is now in volume production",
+      "text": "Tesla $TSLA said its Tesla Semi truck is now in volume production",
+      "quotedTweetText": "THE TESLA $TSLA SEMI IS NOW IN VOLUME PRODUCTION\n\nThe top version can go 500 miles fully loaded at 82,000 lbs, at an efficiency of 1.7 kWh per mile.\n\nThat means it uses about a third of the energy of a comparable diesel truck to haul the same load. In trucking, energy is one of the biggest costs per mile, so Tesla says that gives Semi operators a real advantage.\n\nThe Nevada factory is built for 25,000 Semis a year, and Tesla deployed its first pre-assembled Megacharger to support the ramp."
+    },
+    {
+      "tweetId": "2113005575910940765",
+      "role": "support",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2113005575910940765",
+      "tweetedAt": "2026-10-21T20:32:41.000Z",
+      "bestBit": "Free cash flow: +$1.53B vs. -$4.99B expected",
+      "text": "$TSLA - TESLA BEATS EARNINGS AS CASH FLOW SMASHES EXPECTATIONS\n\nTesla delivered a mixed Q3, but profitability and cash flow surprised sharply to the upside.\n\nAdjusted EPS: $0.48 vs. $0.44 expected\nRevenue: $28.05B vs. $28.13B expected\nGross margin: 19.6% vs. 17.8% expected\nFree cash flow: +$1.53B vs. -$4.99B expected\n\nFSD subscriptions surged to 1.74 million, while Optimus production began in Fremont.\n\nThe key takeaway: Strong margins, positive cash flow and accelerating FSD adoption offset a 56% decline in operating income.\n\nSource: Tesla Q3 2026 Earnings"
+    },
+    {
+      "tweetId": "2113025617231036756",
+      "role": "signal",
+      "authorHandle": "kalshi",
+      "url": "https://x.com/Kalshi/status/2113025617231036756",
+      "tweetedAt": "2026-10-21T21:52:19.000Z",
+      "bestBit": "crosses $1 billion in annual recurring revenue from self-driving subscriptions for the first time",
+      "text": "JUST IN: Tesla crosses $1 billion in annual recurring revenue from self-driving subscriptions for the first time"
+    },
+    {
+      "tweetId": "2113023966659117514",
+      "role": "analysis",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2113023966659117514",
+      "tweetedAt": "2026-10-21T21:45:46.000Z",
+      "bestBit": "aiming to produce 5 million vehicles annually by around 2030, compared with roughly 2M expected in 2026",
+      "text": "Elon Musk says Tesla is aiming to produce 5 million vehicles annually by around 2030, compared with roughly 2M expected in 2026.\n\n“Demand is growing rapidly for our vehicles. It's exceeding our production by a significant margin.”\n\nThat implies roughly 26% annual growth. https://t.co/fWeMnzf9MQ"
+    },
+    {
+      "tweetId": "2113034725833179632",
+      "role": "commentary",
+      "authorHandle": "politicalmath",
+      "url": "https://x.com/politicalmath/status/2113034725833179632",
+      "tweetedAt": "2026-10-21T22:28:31.000Z",
+      "bestBit": "added a record 260,000 FSD subscribers in Q3, bringing its total to 1.74 million",
+      "text": "Tesla is both a hardware and a software company and people love their core software",
+      "quotedTweetText": "JUST IN: Tesla added a record 260,000 FSD subscribers in Q3, bringing its total to 1.74 million — up 67% from a year ago"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "tesla-hits-1b-annual-fsd-revenue-on-q3-profit-beat-fbfd5b6f",
+    "title": "Tesla Hits $1B Annual FSD Revenue on Q3 Profit Beat",
+    "publishedAt": "2026-10-21T22:24:51.598Z",
+    "eventTimeApprox": "2026-10-21T20:30:04.000Z",
+    "routingTopicKeys": [
+      "earnings",
+      "tech",
+      "us-markets",
+      "ai"
+    ],
+    "tweetCount": 25,
+    "authorCount": 15
+  }
+}

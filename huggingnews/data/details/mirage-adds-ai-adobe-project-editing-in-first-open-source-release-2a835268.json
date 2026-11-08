@@ -1,0 +1,84 @@
+{
+  "slug": "mirage-adds-ai-adobe-project-editing-in-first-open-source-release-2a835268",
+  "title": "Mirage Adds AI Adobe Project Editing in First Open Source Release",
+  "publishedAt": "2026-10-06T19:54:54.883Z",
+  "eventTimeApprox": "2026-10-06T17:50:19.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ADBE",
+      "kind": "equity",
+      "role": "related",
+      "name": "Adobe Inc.",
+      "hubKey": "adbe"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107504042205139269/kHLIrGlTzqj-Zab1-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107504042205139269/kHLIrGlTzqj-Zab1-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2107503746913652736/vid/avc1/1920x1080/3Fcope25rYEdm7mT.mp4?tag=29",
+    "credit": {
+      "handle": "trymirage",
+      "tweetUrl": "https://x.com/trymirage/status/2107504042205139269"
+    }
+  },
+  "summary": "Tesseract now enables AI agents to generate and refine .PRPROJ and .AEP files for professional video software via a series of new converters. These tools allow Claude and ChatGPT to build project files natively and support two-way movement, meaning users can import existing Adobe projects into Tesseract or export AI-generated drafts for final polishing in Adobe. Mirage, the creator of the agent suite, noted that the converters do not require \"computer use\" to function and that compatibility is not yet perfect.\n\nThe release marks the first time Mirage has open-sourced any of its components. Some creators are currently pairing the suite with the Claude Opus 5.5 model to automate animations, b-roll placement, and pacing for talking-head videos. This workflow allows editors to experiment with multiple visual styles and complex scene versions before finalizing the cut, or to render files without maintaining a professional software subscription.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107504042205139269",
+      "role": "source",
+      "authorHandle": "trymirage",
+      "url": "https://x.com/trymirage/status/2107504042205139269",
+      "tweetedAt": "2026-10-06T16:11:33.000Z",
+      "bestBit": "Claude and ChatGPT can natively create Premiere (.PRPROJ) and After Effects (.AEP) files",
+      "text": "Now Claude and ChatGPT can natively create Premiere (.PRPROJ) and After Effects (.AEP) files.\n\nWe've added open-source converters to Tesseract, our creative suite for agents, to make it possible. \n\nIt works both ways. Bring your existing Adobe projects into Tesseract and let your agent pick up where you left off, or vice versa.\n\nThis is our first open-source release, and compatibility isn’t perfect yet. Create projects, tell us what breaks, or contribute a fix. Help us make Tesseract better for everyone.\n\nTry now for free."
+    },
+    {
+      "tweetId": "2107528896271028718",
+      "role": "commentary",
+      "authorHandle": "chetaslua",
+      "url": "https://x.com/chetaslua/status/2107528896271028718",
+      "tweetedAt": "2026-10-06T17:50:19.000Z",
+      "bestBit": "your agent now makes and edits real .prproj and .aep files and you finish them in adobe",
+      "text": "every claude motion video i posted was a dead end , just a render you cant open in premiere\n\ntesseract fixes that , your agent now makes and edits real .prproj and .aep files and you finish them in adobe &lt; or render without a sub &gt;\n\nno computer use , converters are open source",
+      "quotedTweetText": "Now Claude and ChatGPT can natively create Premiere (.PRPROJ) and After Effects (.AEP) files.\n\nWe've added open-source converters to Tesseract, our creative suite for agents, to make it possible. \n\nIt works both ways. Bring your existing Adobe projects into Tesseract and let your agent pick up where you left off, or vice versa.\n\nThis is our first open-source release, and compatibility isn’t perfect yet. Create projects, tell us what breaks, or contribute a fix. Help us make Tesseract better for everyone.\n\nTry now for free."
+    },
+    {
+      "tweetId": "2107557002176266748",
+      "role": "commentary",
+      "authorHandle": "itsolelehmann",
+      "url": "https://x.com/itsolelehmann/status/2107557002176266748",
+      "tweetedAt": "2026-10-06T19:42:00.000Z",
+      "bestBit": "opus 5.5 is already getting seriously good at creating animations and visual explainers",
+      "text": "tesseract + claude are making me rethink what's possible with a good video editor.\n\nopus 5.5 is already getting seriously good at creating animations and visual explainers.\n\nfor my talking-head videos, my editor can combine that with tesseract, give it the script, recorded footage and reference videos, then direct it to:\n\n1. edit the footage to match the references’ pacing, transitions and animated text\n\n2. create little animated explainers that show what i'm talking about\n\n3. time those animations to the exact moments i explain each idea\n\n4. bring in relevant b-roll\n\n5. cut between me, the animations and b-roll, with music and sound effects timed around it\n\nand tesseract's new converters let it work on supported premiere and after effects projects, then export them back to adobe so my editor can keep shaping the final cut.\n\nthe exciting part is being able to try visual ideas we'd otherwise struggle to justify spending hours on.\n\ncustom explainers, different animation styles, multiple versions of a scene.\n\nreally feeling jevons paradox here.\n\nthe easier these things get to produce, the more possibilities i see. it makes me want to spend more tokens exploring those ideas and get way more ambitious with our videos.",
+      "quotedTweetText": "Now Claude and ChatGPT can natively create Premiere (.PRPROJ) and After Effects (.AEP) files.\n\nWe've added open-source converters to Tesseract, our creative suite for agents, to make it possible. \n\nIt works both ways. Bring your existing Adobe projects into Tesseract and let your agent pick up where you left off, or vice versa.\n\nThis is our first open-source release, and compatibility isn’t perfect yet. Create projects, tell us what breaks, or contribute a fix. Help us make Tesseract better for everyone.\n\nTry now for free."
+    }
+  ],
+  "isSuperseded": false
+}

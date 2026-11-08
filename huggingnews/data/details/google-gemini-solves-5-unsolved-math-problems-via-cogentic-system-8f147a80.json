@@ -1,0 +1,75 @@
+{
+  "slug": "google-gemini-solves-5-unsolved-math-problems-via-cogentic-system-8f147a80",
+  "title": "Google Gemini Solves 5 Unsolved Math Problems via Cogentic System",
+  "publishedAt": "2026-10-02T16:39:04.004Z",
+  "eventTimeApprox": "2026-10-02T10:32:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2105969038018892134/HTneBtMbMAAZ0AC-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2105969038018892134/HTneBtMbMAAZ0AC-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "rohanpaul_ai",
+      "tweetUrl": "https://x.com/rohanpaul_ai/status/2105969038018892134"
+    }
+  },
+  "summary": "A specialized network of AI agents now coordinates task-sharing and verification to handle long-form research problems that typically defeat single prompts. Google Research recently published a paper describing Cogentic, a system running on Gemini that discovered new proofs for five unsolved problems in theoretical computer science. The discoveries, which spanned online learning, auction theory, and mechanism design, were confirmed by domain experts and required between 100 and 1,000 Gemini model calls per problem.\n\nCogentic organizes AI as a virtual research team, utilizing an orchestrator to manage provers and a pair of adversarial verifiers to scrutinize every draft. The agents track progress through a shared ledger of verified lemmas and a record of failed attempts to avoid repetition. A process advisor updates instructions based on these logs without providing mathematical opinions, allowing the system to tackle complex academic tasks without human hints.",
+  "selectedTweets": [
+    {
+      "tweetId": "2105969038018892134",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2105969038018892134",
+      "tweetedAt": "2026-10-02T10:32:00.000Z",
+      "bestBit": "Most problems took only about 100 model calls, and human experts confirmed every proof.",
+      "text": "New Google paper reveals how Gemini found new proofs for 5 unsolved math problems.\n\nOrganize AI like a research team with strict checkers and shared notes:\n\nA single prompt often isn't enough for hard research problems. They need many attempts, tough review, and a memory of what already worked.\n\nGoogle's system, Cogentic, gives Gemini that structure. Several agents try different ideas at once, checkers assume every step is wrong until proven, and proven pieces are saved for the next round.\n\nMost problems took only about 100 model calls, and human experts confirmed every proof.\n\nIf your agents tackle long, hard tasks, give them a strict checker and a running record of proven work, not just a better prompt.\n\n– arxiv. org/abs/2609.40324\n\nTitle: \"Cogentic: Multi-Agent Orchestration for Automated Proof Discovery\""
+    },
+    {
+      "tweetId": "2106056369816420624",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2106056369816420624",
+      "tweetedAt": "2026-10-02T16:19:01.000Z",
+      "bestBit": "It produced new results on five open problems in online learning, auction theory, and mechanism design, each checked by domain experts.",
+      "text": "Banger paper from Google Research on multi-agent proof discovery.\n\n(bookmark it)\n\nIt's really interesting to see this emerging multi-agent pattern: not enforcing too much execution structure and pairing it with dedicated agents for advising and verification.\n\nI think it is generally applicable as well. Great read.\n\nHere is how it works:\n\nCogentic runs on Gemini and works on open problems in theoretical computer science, starting from the problem statement with no expert hints.\n\nThe system works in rounds, and the orchestrator decides how many provers to run in each round. Every prover gets one direction to work on, such as a specific bound or a counterexample search, plus a short briefing that a summarizer agent writes from earlier attempts and verifier feedback. Each summarizer writes its briefing independently, so provers in the same round read different summaries of the same history.\n\nEach draft goes through two adversarial verifiers. One checks the draft on its own, and the other reads all of the round's drafts side by side to catch shared mistakes. A draft is accepted only if both pass it.\n\nThe agents share state through two disk documents. A record logs every attempt with the objection it failed on, and a ledger stores verified lemmas and ruled-out directions. An auditor extracts correct lemmas from rejected proofs, verifies them again independently, and adds them to the ledger.\n\nA separate process advisor reads the verification logs across rounds and updates the instructions given to provers and verifiers. The orchestrator and the advisor can't give mathematical opinions, so the provers provide all the math.\n\nIt produced new results on five open problems in online learning, auction theory, and mechanism design, each checked by domain experts. Most problems took around 100 Gemini calls, and the hardest took around 1,000.\n\nPaper: https://t.co/QdCVWgn54S\n\nChat with Paper: https://t.co/vJsdwneoQe"
+    }
+  ],
+  "isSuperseded": false
+}

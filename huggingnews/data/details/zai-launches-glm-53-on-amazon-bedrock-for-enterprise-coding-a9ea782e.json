@@ -1,0 +1,79 @@
+{
+  "slug": "zai-launches-glm-53-on-amazon-bedrock-for-enterprise-coding-a9ea782e",
+  "title": "Z.ai Launches GLM-5.3 on Amazon Bedrock for Enterprise Coding",
+  "publishedAt": "2026-10-06T04:38:37.073Z",
+  "eventTimeApprox": "2026-10-06T00:51:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "2513",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Z.AI",
+      "hubKey": "zhipu-ai"
+    },
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    }
+  ],
+  "summary": "Business users can now deploy powerful coding and agentic tools by utilizing the most recent model from Z.ai hosted on the AWS cloud platform. The integration allows corporate clients to implement AI assistants designed for software development and autonomous tasks via the Bedrock service.\n\nZixuan Li described the release of GLM-5.3 as having been 'worth the wait' for those anticipating the update. The model is now live and available for enterprise adoption as of October 6.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107272032073437185",
+      "role": "source",
+      "authorHandle": "zai_org",
+      "url": "https://x.com/Zai_org/status/2107272032073437185",
+      "tweetedAt": "2026-10-06T00:49:38.000Z",
+      "bestBit": "Bring powerful coding and agentic capabilities to your enterprise.",
+      "text": "GLM-5.3 is now available on Amazon Bedrock.\n\nBring powerful coding and agentic capabilities to your enterprise.\n\nGet started: https://t.co/daStGOYqsA https://t.co/BB1qLRbvhS"
+    },
+    {
+      "tweetId": "2107272607221358969",
+      "role": "signal",
+      "authorHandle": "zixuanli_",
+      "url": "https://x.com/ZixuanLi_/status/2107272607221358969",
+      "tweetedAt": "2026-10-06T00:51:55.000Z",
+      "bestBit": "Good things are worth the wait.",
+      "text": "Good things are worth the wait.",
+      "quotedTweetText": "GLM-5.3 is now available on Amazon Bedrock.\n\nBring powerful coding and agentic capabilities to your enterprise.\n\nGet started: https://t.co/daStGOYqsA https://t.co/BB1qLRbvhS"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "odessia-launches-ai-travel-agent-with-exclusive-agency-rates-43587118",
+  "title": "Odessia Launches AI Travel Agent with Exclusive Agency Rates",
+  "publishedAt": "2026-10-14T19:10:09.503Z",
+  "eventTimeApprox": "2026-10-14T17:58:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110444021260878124/U0lTY7MBhxKepFv5-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110444021260878124/U0lTY7MBhxKepFv5-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2110417734622425088/vid/avc1/1920x1080/StICbgHtXhJiWFa_.mp4?tag=16",
+    "credit": {
+      "handle": "rohanpaul_ai",
+      "tweetUrl": "https://x.com/rohanpaul_ai/status/2110444021260878124"
+    }
+  },
+  "summary": "Travelers can now use a text-based AI assistant to secure hotel upgrades, breakfast perks and loyalty discounts typically reserved for professional agents. Odessia, a Sequoia-backed startup, has launched an accredited AI travel agent that books flights and accommodation using its official agency status to bypass public pricing. The tool ranks hundreds of thousands of hotels across 12 specific dimensions, such as gym equipment and street noise, and allows users to execute entire trip bookings through a single text message.\n\nThe service utilizes persistent memory and scheduled tasks to monitor for price drops or cancellations after a user's initial request. Founder F. Davidson describes the free tool as a \"cheat code\" for a crowded leisure economy and predicts that the arrival of artificial general intelligence within months will further disrupt the industry. The agent currently provides live monitoring for restaurant tables and show tickets in addition to traditional travel arrangements.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110417685486141697",
+      "role": "source",
+      "authorHandle": "fdavidsont",
+      "url": "https://x.com/FDavidsonT/status/2110417685486141697",
+      "tweetedAt": "2026-10-14T17:09:20.000Z",
+      "bestBit": "Odessia, an always-on concierge for travel and experiences",
+      "text": "We’re months away from AGI and the leisure economy’s about to explode\n\nToday, we’re launching Odessia, an always-on concierge for travel and experiences\n\nPrices are spiking, places are getting crowded. Odessia is your cheat code to going places\n\nText to get started for free https://t.co/Tj6s9vvF0z"
+    },
+    {
+      "tweetId": "2110430042971132293",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2110430042971132293",
+      "tweetedAt": "2026-10-14T17:58:26.000Z",
+      "bestBit": "searches hundreds of travel options daily to book tickets, restaurants and hotels months in advance",
+      "text": "Odessia just launched an AI concierge that searches hundreds of travel options daily to book tickets, restaurants and hotels months in advance.\n\nCompanies controlling inventory are going to gain so much pricing power in new economy.  https://t.co/jjeKiaR1jS",
+      "quotedTweetText": "We’re months away from AGI and the leisure economy’s about to explode\n\nToday, we’re launching Odessia, an always-on concierge for travel and experiences\n\nPrices are spiking, places are getting crowded. Odessia is your cheat code to going places\n\nText to get started for free https://t.co/Tj6s9vvF0z"
+    },
+    {
+      "tweetId": "2110438307591004310",
+      "role": "analysis",
+      "authorHandle": "exec_sum",
+      "url": "https://x.com/exec_sum/status/2110438307591004310",
+      "tweetedAt": "2026-10-14T18:31:17.000Z",
+      "bestBit": "We’re months away from AGI and the leisure economy’s about to explode",
+      "text": "RT @FDavidsonT: We’re months away from AGI and the leisure economy’s about to explode\n\nToday, we’re launching Odessia, an always-on concier…"
+    },
+    {
+      "tweetId": "2110433331288363351",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2110433331288363351",
+      "tweetedAt": "2026-10-14T18:11:30.000Z",
+      "bestBit": "set daily watches on tables, shows, and fares, and it pings you when something opens up",
+      "text": "There is a huge opportunity for specialized personal agents.\n\nHere is a great example:\n\n@OdessiaTravel just launched one for travel and experiences. You text it what you want, and it plans and books the trip, the table, or the tickets.\n\nIt also keeps watching after you ask. You can set daily watches on tables, shows, and fares, and it pings you when something opens up.\n\nThe thing is, like specialized and general models, I think we will see the same for personal agents. \n\nLove seeing more of these pop up recently. \nhttps://t.co/t6D2R81J5W",
+      "quotedTweetText": "We’re months away from AGI and the leisure economy’s about to explode\n\nToday, we’re launching Odessia, an always-on concierge for travel and experiences\n\nPrices are spiking, places are getting crowded. Odessia is your cheat code to going places\n\nText to get started for free https://t.co/Tj6s9vvF0z"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "odessia-launches-free-ai-concierge-to-book-travel-by-text-fdba7808",
+    "title": "Odessia Launches Free AI Concierge to Book Travel by Text",
+    "publishedAt": "2026-10-14T17:53:50.513Z",
+    "eventTimeApprox": "2026-10-14T17:27:20.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 8,
+    "authorCount": 8
+  }
+}

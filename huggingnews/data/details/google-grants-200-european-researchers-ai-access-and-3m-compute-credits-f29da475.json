@@ -1,0 +1,57 @@
+{
+  "slug": "google-grants-200-european-researchers-ai-access-and-3m-compute-credits-f29da475",
+  "title": "Google Grants 200 European Researchers AI Access and $3M Compute Credits",
+  "publishedAt": "2026-10-14T08:38:12.874Z",
+  "eventTimeApprox": "2026-10-14T08:15:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "europe",
+      "name": "Europe"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "A partnership between Google DeepMind and Google Cloud will equip scientific laboratories across Europe with advanced machine learning capabilities. The program grants up to 200 researchers access to the companies' frontier AI models and $3M in compute credits to support high-performance data analysis and AI research.\n\nThe initiative aims to lower the financial and technical barriers that often prevent academic scientists from utilizing state-of-the-art computing resources. This effort to scale AI adoption within the European scientific community was reported by Reuters.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110283439857684488",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2110283439857684488",
+      "tweetedAt": "2026-10-14T08:15:53.000Z",
+      "bestBit": "Google DeepMind and Google Cloud plan to provide up to 200 European scientific researchers with access to their frontier AI models and $3M in compute credits",
+      "text": "Google DeepMind and Google Cloud plan to provide up to 200 European scientific researchers with access to their frontier AI models and $3M in compute credits (@fooyunchee / Reuters)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

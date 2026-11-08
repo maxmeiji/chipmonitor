@@ -1,0 +1,59 @@
+{
+  "slug": "carbon-a-dna-model-proposes-500m-gene-candidates-across-22k-species-4b44b920",
+  "title": "Carbon-A DNA Model Proposes 500M Gene Candidates Across 22k Species",
+  "publishedAt": "2026-10-12T14:23:27.701Z",
+  "eventTimeApprox": "2026-10-12T13:56:34.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "bio",
+      "name": "Bio"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2109643972255658063/VOxl85PJUWfUSpjW-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2109643972255658063/VOxl85PJUWfUSpjW-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video-s.twimg.com/amplify_video/2109642685652795392/vid/avc1/3024x1758/IKye9lmiZy9I6tU6.mp4?tag=29",
+    "credit": {
+      "handle": "lvwerra",
+      "tweetUrl": "https://x.com/lvwerra/status/2109643972255658063"
+    }
+  },
+  "summary": "A new tool for genomic mapping has arrived to help scientists uncover previously unknown gene sequences in a wide variety of organisms. The DNA model, named Carbon-A, proposed more than 500 million gene candidates across 22,000 species upon its release to expand the reach of current genetic research.\n\nThe model distinguishes these new candidate genes from existing annotations already present in genomic databases to help researchers identify knowledge gaps. By mapping sequences across thousands of distinct species, the project provides a more comprehensive view of biological gene distribution.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109643972255658063",
+      "role": "source",
+      "authorHandle": "lvwerra",
+      "url": "https://x.com/lvwerra/status/2109643972255658063",
+      "tweetedAt": "2026-10-12T13:54:52.000Z",
+      "bestBit": "a DNA model that proposed over 500M gene candidates across 22k species",
+      "text": "We released Carbon-A: a DNA model that proposed over 500M gene candidates across 22k species!!\n\nhttps://t.co/1WEiTzxR5i\n\nblue: existing annotations in database \ngreen: new annotations by Carbon-A https://t.co/vbL87be5t3"
+    }
+  ],
+  "isSuperseded": false
+}

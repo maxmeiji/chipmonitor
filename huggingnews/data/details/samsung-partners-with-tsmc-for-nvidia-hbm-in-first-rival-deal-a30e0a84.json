@@ -1,0 +1,66 @@
+{
+  "slug": "samsung-partners-with-tsmc-for-nvidia-hbm-in-first-rival-deal-a30e0a84",
+  "title": "Samsung Partners With TSMC for Nvidia HBM in First Rival Deal",
+  "publishedAt": "2026-10-18T17:23:05.236Z",
+  "eventTimeApprox": "2026-10-18T16:12:16.500Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "tech",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "SKHY",
+      "kind": "equity",
+      "role": "related",
+      "name": "SK hynix Inc. American Depositary Shares",
+      "hubKey": "skhy"
+    },
+    {
+      "ticker": "MU",
+      "kind": "equity",
+      "role": "related",
+      "name": "Micron Technology, Inc.",
+      "hubKey": "mu"
+    }
+  ],
+  "summary": "Nvidia has mandated that its memory suppliers use a 3nm manufacturing process from TSMC for the base dies of its next-generation custom NVHBM chips. This requirement affects Samsung, SK Hynix, and Micron, and marks the first time Samsung and TSMC have collaborated on the manufacturing of high-bandwidth memory. By standardizing the logic layer at the bottom of the memory stack, Nvidia gains the flexibility to shift orders between vendors and can move its memory controller into the base die to increase compute space on the GPU.\n\nSamsung is currently testing its own 2nm process as a fallback should TSMC capacity fail to meet demand. In a broader push to redesign the AI memory stack, Samsung and SK Hynix are developing HBM4E with target speeds of 16 Gbps, a 20% increase over HBM4. Samsung's 12 high stack version offers 48 GB of capacity and bandwidth of approximately 3.6 TB per second, with initial samples shipped in May.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111838471195361497",
+      "role": "source",
+      "authorHandle": "milkroadai",
+      "url": "https://x.com/MilkRoadAI/status/2111838471195361497",
+      "tweetedAt": "2026-10-18T15:15:02.000Z",
+      "bestBit": "Nvidia reportedly wants the same TSMC base die across Samsung, SK Hynix and $MU to standardize performance",
+      "text": "Samsung is teaming up with its biggest foundry rival to build Nvidia's next memory chip.\n\nAccording to Korean media, Samsung will use $TSM's 3nm process for the base die in $NVDA's custom NVHBM, at Nvidia's request.\n\nThe base die is the logic layer at the bottom of the HBM stack. Nvidia moved its memory controller into it, which frees up room on the GPU for more compute.\n\nNvidia reportedly wants the same TSMC base die across Samsung, SK Hynix and $MU to standardize performance.\n\nSamsung is also testing its own 2nm process in case demand outgrows TSMC's capacity.\n\nIt is the first time Samsung and TSMC will work together on making HBM itself.",
+      "quotedTweetText": "According to Korean media, Samsung and SK Hynix just put HBM4E on the SAME stage at SEDEX 2026 in Seoul.\n\nBoth are targeting speeds of up to 16 Gbps, which is more than 20% faster than HBM4.\n\nSamsung's 12 high stack hits 48 GB and about 3.6 TB per second of bandwidth, and samples went out back in May.\n\nSK Hynix says its energy efficiency is more than 20% better than HBM4, and it sent 12 high samples to major customers in June.\n\nSamsung also showed zHBM, which stacks memory directly on the compute die. SK Hynix showed HBF, a high bandwidth flash layer that sits between HBM and SSDs.\n\nThe race is no longer just about who ships HBM first but rather about who REDESIGNS the entire memory stack for AI.\n\n$NVDA $MU"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "dream-secures-17m-to-launch-ai-models-for-the-13t-construction-sector-7af81879",
+  "title": "Dream Secures $17M to Launch AI Models for the $13T Construction Sector",
+  "publishedAt": "2026-10-29T19:23:29.809Z",
+  "eventTimeApprox": "2026-10-29T17:21:25.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    }
+  ],
+  "summary": "A new venture started by Andy Elder and Arjun Mathur is building a class of artificial intelligence models designed to analyze how objects relate to their surrounding environments. These tools focus on physical geometry and constraints to automate reasoning tasks for the architecture, engineering, and construction industry.\n\nDream raised $17M in seed funding from investors including a16z, SV Angel, XYZ, and Zigg Capital. The company's founders estimate the total addressable market for its spatial reasoning technology at $13T.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115854345044406401",
+      "role": "source",
+      "authorHandle": "andyelder11",
+      "url": "https://x.com/AndyElder11/status/2115854345044406401",
+      "tweetedAt": "2026-10-29T17:12:41.000Z",
+      "bestBit": "@dreamhq is developing a new class of models trained to reason about physical space: its geometry, its constraints, and the relationships between objects and the spaces that contain them.",
+      "text": "Today @arjunmathur_ and I are introducing Dream.\n\nWe’re announcing $17M in seed funding from @a16z , @svangel , @xyz_vc , and @ziggcap.\n\n@dreamhq is developing a new class of models trained to reason about physical space: its geometry, its constraints, and the relationships between objects and the spaces that contain them. With these models, AI can make a real impact in the $13 trillion architecture, engineering, and construction (AEC) industry for the first time.",
+      "quotedTweetText": "https://t.co/mxLdwwZty4"
+    }
+  ],
+  "isSuperseded": false
+}

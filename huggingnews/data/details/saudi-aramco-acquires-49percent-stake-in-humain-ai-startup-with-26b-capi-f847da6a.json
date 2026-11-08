@@ -1,0 +1,51 @@
+{
+  "slug": "saudi-aramco-acquires-49percent-stake-in-humain-ai-startup-with-26b-capi-f847da6a",
+  "title": "Saudi Aramco Acquires 49% Stake in Humain AI Startup With $2.6B Capital Boost",
+  "publishedAt": "2026-11-02T00:22:14.754Z",
+  "eventTimeApprox": "2026-11-01T22:44:09.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "business"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "summary": "The Public Investment Fund and Saudi Aramco have restructured their ownership of the artificial intelligence company Humain, with the oil giant acquiring a 49% stake while the sovereign wealth fund retains 51%. To support the startup's growth, Aramco will provide $2.6 billion in cash to Humain in 2026, as well as contributions of digital assets and computing power.\n\nThe partnership aims to scale Humain's footprint in the global AI market by combining the capabilities of the kingdom's two largest financial entities. As part of its expansion, the company is targeting the development of 3 GW of data center capacity by 2030.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116974052363604076",
+      "role": "commentary",
+      "authorHandle": "amanda_goodall",
+      "url": "https://x.com/Amanda_Goodall/status/2116974052363604076",
+      "tweetedAt": "2026-11-01T19:22:00.000Z",
+      "bestBit": "The kingdom's two biggest balance sheets are now behind one AI company, targeting 3 GW of data centres by 2030.",
+      "text": "The kingdom's two biggest balance sheets are now behind one AI company, targeting 3 GW of data centres by 2030. \n\nNow let's see who they hire to build it.",
+      "quotedTweetText": "The Public Investment Fund (PIF) and Saudi Aramco have completed a deal under which Aramco, through a wholly owned subsidiary, acquired a 49% stake in HUMAIN, while PIF retains its 51% ownership in the company.\n\nAramco will inject approximately SAR 9.9 billion ($2.6 billion) in cash into HUMAIN in 2026, in addition to contributing AI, computing and digital assets.\n\nThe deal will accelerate HUMAIN’s growth and help unlock its full potential in the global AI market, with both PIF and Aramco contributing AI assets, capabilities and talent.\n\nShow more: https://t.co/vOEgNF5dtJ"
+    }
+  ],
+  "isSuperseded": false
+}

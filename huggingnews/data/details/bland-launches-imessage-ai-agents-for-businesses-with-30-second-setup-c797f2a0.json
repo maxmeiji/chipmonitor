@@ -1,0 +1,55 @@
+{
+  "slug": "bland-launches-imessage-ai-agents-for-businesses-with-30-second-setup-c797f2a0",
+  "title": "Bland Launches iMessage AI Agents for Businesses with 30 Second Setup",
+  "publishedAt": "2026-10-15T17:53:08.554Z",
+  "eventTimeApprox": "2026-10-15T17:29:11.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "summary": "A tool for automating customer interactions now allows companies to handle sales and bookings within Apple's messaging app. The service from Bland creates branded assistants in 30 seconds by analyzing a company's website link and connecting to its internal APIs. These bots can process payments within a conversation and use native iMessage features such as Tapbacks and embedded components.\n\nApple manages the verification of these agents through its Business Register. This allows the technology company to facilitate agent commerce and ensure brand legitimacy without needing to build the agents itself.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110777729159406076",
+      "role": "source",
+      "authorHandle": "usebland",
+      "url": "https://x.com/usebland/status/2110777729159406076",
+      "tweetedAt": "2026-10-15T17:00:01.000Z",
+      "bestBit": "The agent can do things like Tapbacks (❤️,👍,❗), send embedded components, and even accept payments within a chat.",
+      "text": "iMessage agents for your business in 30s. \n\nSend a link and Bland learns your business, plugs into your APIs, and creates a branded agent for you automatically. \n\nThe agent can do things like Tapbacks (❤️,👍,❗), send embedded components, and even accept payments within a chat. \n\nIt's live now. Text +1 (415) 481-7537."
+    },
+    {
+      "tweetId": "2110788516988989588",
+      "role": "analysis",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2110788516988989588",
+      "tweetedAt": "2026-10-15T17:42:53.000Z",
+      "bestBit": "Apple controls that verification through Business Register giving it a valuable position in agent commerce",
+      "text": "Bland says businesses can launch verified AI agents inside $AAPL iMessage in just 30 seconds bringing customer service and shopping directly into text conversations.\n\nApple controls that verification through Business Register giving it a valuable position in agent commerce as more businesses use AI to interact with customers without Apple needing to build the agents itself. https://t.co/G7gBhmmX9R",
+      "quotedTweetText": "iMessage agents for your business in 30s. \n\nSend a link and Bland learns your business, plugs into your APIs, and creates a branded agent for you automatically. \n\nThe agent can do things like Tapbacks (❤️,👍,❗), send embedded components, and even accept payments within a chat. \n\nIt's live now. Text +1 (415) 481-7537."
+    }
+  ],
+  "isSuperseded": false
+}

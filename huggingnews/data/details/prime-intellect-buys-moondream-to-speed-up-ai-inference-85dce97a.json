@@ -1,0 +1,77 @@
+{
+  "slug": "prime-intellect-buys-moondream-to-speed-up-ai-inference-85dce97a",
+  "title": "Prime Intellect Buys Moondream to Speed Up AI Inference",
+  "publishedAt": "2026-10-13T19:10:51.297Z",
+  "eventTimeApprox": "2026-10-13T18:55:04.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 14,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "A startup with fewer than 10 employees is being integrated into Prime Intellect's computing stack to support the development of robotics and AI agents. The acquisition of Moondream enables Prime Intellect to train and deploy multimodal models across vision, video, voice, and decision models, as well as tools for computer use.\n\nThe purchase leverages Moondream's expertise in speeding up AI inference to lower overall computing costs for the company. These optimizations are intended to attract a customer base building autonomous applications that require highly efficient, open vision models for real-time deployment.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110081907358904392",
+      "role": "source",
+      "authorHandle": "primeintellect",
+      "url": "https://x.com/PrimeIntellect/status/2110081907358904392",
+      "tweetedAt": "2026-10-13T18:55:04.000Z",
+      "bestBit": "bringing Moondream’s open vision models and inference optimizations into our stack",
+      "text": "Prime Intellect has acquired Moondream\n\nWe’re bringing Moondream’s open vision models and inference optimizations into our stack\n\nTrain and deploy multimodal models across vision, video, voice, decision models and computer use https://t.co/jrp824ZqGt"
+    },
+    {
+      "tweetId": "2110060524830380032",
+      "role": "support",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2110060524830380032",
+      "tweetedAt": "2026-10-13T17:30:06.000Z",
+      "bestBit": "a startup with fewer than 10 employees, for its expertise in speeding up AI inference",
+      "text": "Prime Intellect is buying Moondream, a startup with fewer than 10 employees, for its expertise in speeding up AI inference. \n\nThe acquisition could help Prime Intellect lower computing costs and attract customers building robotics and AI agent applications. \n\nFull story: https://t.co/TFwRHVhpyU"
+    },
+    {
+      "tweetId": "2110083282776056090",
+      "role": "engagement",
+      "authorHandle": "xeophon",
+      "url": "https://x.com/xeophon/status/2110083282776056090",
+      "tweetedAt": "2026-10-13T19:00:32.000Z",
+      "bestBit": "so happy that we are now able to work with them together",
+      "text": "I was fangirling to hard when it was announced internally\n\nMoondream is amazing, so happy that we are now able to work with them together 🦋",
+      "quotedTweetText": "Prime Intellect has acquired Moondream\n\nWe’re bringing Moondream’s open vision models and inference optimizations into our stack\n\nTrain and deploy multimodal models across vision, video, voice, decision models and computer use https://t.co/jrp824ZqGt"
+    }
+  ],
+  "isSuperseded": false
+}

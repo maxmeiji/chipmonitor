@@ -1,0 +1,108 @@
+{
+  "slug": "nvidia-agrees-to-buy-hugging-face-for-129b-and-keep-ai-platform-open-0775d3f2",
+  "title": "Nvidia Agrees to Buy Hugging Face for $12.9B and Keep AI Platform Open",
+  "publishedAt": "2026-09-05T02:45:04.703Z",
+  "eventTimeApprox": "2026-09-04T23:24:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 137,
+  "authorCount": 83,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "subject",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2095482998674112733/HRSmdnWbgAA4q_X-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2095482998674112733/HRSmdnWbgAA4q_X-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "clementdelangue",
+      "tweetUrl": "https://x.com/ClementDelangue/status/2095482998674112733"
+    }
+  },
+  "summary": "Hugging Face Chief Executive Officer Clément Delangue said the founders and team are staying after the company entered into a definitive agreement with Nvidia, and the platform will continue supporting models and infrastructure from across the AI ecosystem. The transaction is valued at about $12.93B, and Nvidia said developers will not be required to use its compute to build on or deploy through the platform.\n\nHugging Face says more than 18 million developers, researchers and creators use the platform to share more than 3 million models, 500,000 datasets and 1 million applications, and more than 200,000 companies use it to discover, evaluate, customize and deploy AI. The deal is expected to close in the first half of 2027, subject to regulatory approval.",
+  "selectedTweets": [
+    {
+      "tweetId": "2096023385163940346",
+      "role": "source",
+      "authorHandle": "iscienceluvr",
+      "url": "https://x.com/iScienceLuvr/status/2096023385163940346",
+      "tweetedAt": "2026-09-04T23:51:31.000Z",
+      "bestBit": "The founders and the team are all staying to keep pushing this mission forward.",
+      "text": "Huge congrats to everyone at @huggingface on the NVIDIA acquisition!! 🔥\n\nSince the \"pytorch-pretrained-bert\" days back in 2018, Hugging Face has been such a crucial part of open-source AI.\n\nHugging Face has also been such a big part of my AI journey as well. I remember using pytorch-pretrained-bert, which became the transformers library, in different Kaggle competitions. Similarly often used timm, accelerate, Gradio, diffusers, and many other libraries throughout my open-source AI journey. I have also had the opportunity to contribute back to many HF projects and libraries as well.\n\nI fondly remember participating in a JAX hackathon that Hugging Face hosted in 2021 and joined a team working on replicating DALL-E. This was the DALL-E mini project which became a viral sensation that first brought AI art in the public view. This project specifically also helped me get started in my generative AI journey (which led me to eventually joining Stability AI).\n\nAt @MedARC_AI and @SophontAI, we're focused on making medical AI open and accessible and of course Hugging Face is one of the major platforms we use for this. We've shared various models and datasets on the platform over the past 4 years now.\n\nOver the years I have gotten to know tons of folks working at Hugging Face, many of whom have become great friends of mine too. Everyone I know who's worked at Hugging Face are among the kindest, smartest, hard-working people who are all extremely passionate about open-source AI.\n\nIt's been great seeing how much NVIDIA is investing into open-source AI and I am glad they are partnering with Hugging Face to grow this further.\n\nI am very happy to see this positive outcome for everyone involved!",
+      "quotedTweetText": "Super happy to share our intention to join forces with NVIDIA in a $12,930,300,000 acquisition  💛💚\n\n10 years after starting Hugging Face, open-source AI is at an inflection point. Thanks to the community, we’ve shown that it can be a complement, and even an alternative, to closed-source APIs. But for it to happen at larger scale, it needs more compute, more support, more collaboration and more visibility. That’s why we went to talk to Jensen, who offered to do exactly that with us.\n\nIn addition to doubling down on NVIDIA’s massive contributions to open-source AI (I called them the “King of American open-source AI” earlier this year), they’ve committed to strongly supporting Hugging Face and our mission while keeping the platform open, independent and compute agnostic. The founders and the team are all staying to keep pushing this mission forward.\n\nTogether, we think we can make open source the default way to build AI, with the goal of empowering 100 million AI builders to own their intelligence rather than rent it.\n\nExcited about the next 10 years! 🤗🤗🤗"
+    },
+    {
+      "tweetId": "2095872760929292346",
+      "role": "analysis",
+      "authorHandle": "web4newsletter",
+      "url": "https://x.com/Web4Newsletter/status/2095872760929292346",
+      "tweetedAt": "2026-09-04T13:53:00.000Z",
+      "bestBit": "Hugging Face has 18 million developers, 200,000 enterprise customers, and 3 million AI models across everything from robotics to biology.",
+      "text": "Nvidia CEO Jensen Huang says the company’s $12.9 billion acquisition of Hugging Face was “worth every single penny.”\n\nHugging Face has 18 million developers, 200,000 enterprise customers, and 3 million AI models across everything from robotics to biology.\n\nBut the bigger bet is on open AI.\n\nAs open models accelerate, Nvidia wants to make sure it is positioned at the center of the ecosystem powering the next generation of AI.\n\nThis wasn’t just an acquisition.\n\nIt was a bet on where AI is going next."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "update-nvidia-buys-hugging-face-for-1293b-in-biggest-push-beyond-ai-chip-085caa93",
+    "title": "UPDATE: Nvidia Buys Hugging Face for $12.93B in Biggest Push Beyond AI Chips",
+    "publishedAt": "2026-09-03T14:55:52.420Z",
+    "eventTimeApprox": "2026-09-03T12:02:49.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "tech",
+      "startups"
+    ],
+    "tweetCount": 138,
+    "authorCount": 81
+  }
+}

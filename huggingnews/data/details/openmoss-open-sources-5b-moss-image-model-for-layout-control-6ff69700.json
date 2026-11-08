@@ -1,0 +1,67 @@
+{
+  "slug": "openmoss-open-sources-5b-moss-image-model-for-layout-control-6ff69700",
+  "title": "Open_MOSS Open Sources 5B MOSS Image Model for Layout Control",
+  "publishedAt": "2026-10-16T17:37:31.506Z",
+  "eventTimeApprox": "2026-10-16T17:09:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2111094509845332037/HUwboXhbYAAtZ7Z-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2111094509845332037/HUwboXhbYAAtZ7Z-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "mosiai_official",
+      "tweetUrl": "https://x.com/MosiAI_Official/status/2111094509845332037"
+    }
+  },
+  "summary": "A new generation tool for infographics and posters can process prompts of up to 4K tokens to render multi-line text in English and Chinese. The MOSS-Image model, developed by Open_MOSS, uses a 5B Diffusion Transformer architecture to provide precise placement of objects and text through experimental JSON layout controls. Both model weights and inference code are available under an Apache 2.0 license on Hugging Face.\n\nThe project launched with day-zero support from vLLM, SGL, and ModelScope to facilitate easier deployment for developers. Base and SFT checkpoints are available for use with Python Diffusers, Gradio, and ComfyUI, allowing for customizable resolutions and multiple aspect ratios.",
+  "selectedTweets": [
+    {
+      "tweetId": "2111094509845332037",
+      "role": "source",
+      "authorHandle": "mosiai_official",
+      "url": "https://x.com/MosiAI_Official/status/2111094509845332037",
+      "tweetedAt": "2026-10-16T13:58:48.000Z",
+      "bestBit": "Built on a 5B Diffusion Transformer (DiT), MOSS-Image brings Chinese & English text rendering and controllable layouts to image generation",
+      "text": "🤗 MOSS-Image is now open source on @huggingface .\nBuilt on a 5B Diffusion Transformer (DiT), MOSS-Image brings Chinese & English text rendering and controllable layouts to image generation — from posters and infographics to creative visuals.@Open_MOSS \n\nWhat it offers:\n📝 Long prompts & text rendering — up to 4K-token prompts, including multi-line text\n📐 Experimental JSON layout control — specify text, objects, and their positions using bounding boxes\n🖼️ Flexible generation — multiple aspect ratios, resolutions, and customizable inference settings 🛠️ Developer workflows — Python (Diffusers), Gradio, ComfyUI, and a Prompt Enhancer Skill\n📦 Base & SFT checkpoints are both available, with open model weights and Apache-2.0 licensed inference code.\n\n🙌 Huge thanks to @sgl_project @vllm_project   @ModelScope2022 for the Day-0 support!"
+    },
+    {
+      "tweetId": "2111142381064204632",
+      "role": "support",
+      "authorHandle": "xianbao_qian",
+      "url": "https://x.com/Xianbao_QIAN/status/2111142381064204632",
+      "tweetedAt": "2026-10-16T17:09:01.000Z",
+      "bestBit": "use the model with vLLM",
+      "text": "Check out this link on how to use the model with vLLM: https://t.co/thpHbAboYF",
+      "quotedTweetText": "🤗 MOSS-Image is now open source on @huggingface .\nBuilt on a 5B Diffusion Transformer (DiT), MOSS-Image brings Chinese & English text rendering and controllable layouts to image generation — from posters and infographics to creative visuals.@Open_MOSS \n\nWhat it offers:\n📝 Long prompts & text rendering — up to 4K-token prompts, including multi-line text\n📐 Experimental JSON layout control — specify text, objects, and their positions using bounding boxes\n🖼️ Flexible generation — multiple aspect ratios, resolutions, and customizable inference settings 🛠️ Developer workflows — Python (Diffusers), Gradio, ComfyUI, and a Prompt Enhancer Skill\n📦 Base & SFT checkpoints are both available, with open model weights and Apache-2.0 licensed inference code.\n\n🙌 Huge thanks to @sgl_project @vllm_project   @ModelScope2022 for the Day-0 support!"
+    }
+  ],
+  "isSuperseded": false
+}

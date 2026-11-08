@@ -1,0 +1,76 @@
+{
+  "slug": "openai-staff-warned-management-of-security-flaws-before-chatgpt-release-588fae21",
+  "title": "OpenAI Staff Warned Management of Security Flaws Before ChatGPT Release",
+  "publishedAt": "2026-11-04T01:08:07.746Z",
+  "eventTimeApprox": "2026-11-03T21:34:50.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Employees at the AI startup flagged vulnerabilities in internal security measures to executives and the board years before the late 2022 release of its hallmark chatbot, five people familiar with the matter told Reuters. Staff warned that the company's use of a single 'monorepo' for most of its code allowed anyone with access to view sensitive details of projects outside their scope of work. Some employees concluded that the pressure to keep pace with competitors like Google and Anthropic took priority over addressing these gaps.\n\nOpenAI stated that its most sensitive work and model weights are stored outside the monorepo. To address existing vulnerabilities, the company says it recently assigned 25% of its product engineers to identify and fix security flaws.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117700363411161298",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2117700363411161298",
+      "tweetedAt": "2026-11-03T19:28:06.000Z",
+      "bestBit": "Even before OpenAI launched ChatGPT in late 2022, some company staffers raised concerns internally about its security practices",
+      "text": "Even before OpenAI launched ChatGPT in late 2022, some company staffers raised concerns internally about its security practices, five people familiar with the matter told Reuters https://t.co/rIcif2rh09 https://t.co/3z3sWnX1Gy"
+    },
+    {
+      "tweetId": "2117725253728338101",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2117725253728338101",
+      "tweetedAt": "2026-11-03T21:07:00.000Z",
+      "bestBit": "OpenAI stored most of its code in one monorepo, so anyone with code access could read details of many projects, including sensitive ones unrelated to their own work.",
+      "text": "According to Reuters, OpenAI stored most of its code in one monorepo, so anyone with code access could read details of many projects, including sensitive ones unrelated to their own work.\n\nOpenAI staff warned leaders for years that anyone with code access could see details of many projects.\n\nThose complaints reached executives and the board, yet some staff concluded that keeping up with Google and Anthropic came first.\n\nAlthough, OpenAI says model weights and much of its most sensitive work sit outside the monorepo."
+    },
+    {
+      "tweetId": "2117783898440515658",
+      "role": "commentary",
+      "authorHandle": "wesroth",
+      "url": "https://x.com/WesRoth/status/2117783898440515658",
+      "tweetedAt": "2026-11-04T01:00:02.000Z",
+      "bestBit": "OpenAI says it recently devoted 25% of its product engineers to finding and fixing vulnerabilities.",
+      "text": "The timeline here is troubling.\n\nReuters reports that employees took security concerns to OpenAI’s leadership and board before ChatGPT launched. Some left those discussions believing competition was taking priority.\n\nOpenAI says it recently devoted 25% of its product engineers to finding and fixing vulnerabilities.\n\nThat’s a serious commitment. I’d want to see it survive the next release deadline. Security only works if it remains a priority when the pressure to move faster returns."
+    }
+  ],
+  "isSuperseded": false
+}

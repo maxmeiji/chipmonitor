@@ -1,0 +1,134 @@
+{
+  "slug": "openai-confirms-acquisition-of-pierre-computer-to-expand-codex-into-soft-d6768bee",
+  "title": "OpenAI Confirms Acquisition of Pierre Computer to Expand Codex Into Software Infrastructure",
+  "publishedAt": "2026-11-04T22:53:51.216Z",
+  "eventTimeApprox": "2026-11-04T14:53:33.000Z",
+  "isFreshStory": false,
+  "tweetCount": 34,
+  "authorCount": 27,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The AI research firm confirmed on Tuesday it has entered a definitive agreement to buy Pierre Computer, a developer tools startup that specializes in Git-based code storage. The purchase aims to transition OpenAI's Codex programming tool from a coding assistant into a platform where software teams can collaborate from initial conceptualization to final deployment, specifically tailoring the infrastructure for use by AI agents. The deal remains subject to standard closing conditions, including regulatory approvals.\n\nThe acquisition allows OpenAI to incorporate Pierre’s storage and review tools into Codex, building on the \"Trees and Diffs\" libraries already used by the app for file browsing. While financial terms for the 10 person startup were not disclosed, Pierre's open-source projects will remain public. The move follows the launch of Pando, a Git backend that reduced median code-push latency by about 80%, as OpenAI builds a more comprehensive alternative to Microsoft's GitHub.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117945455027851450",
+      "role": "source",
+      "authorHandle": "axios",
+      "url": "https://x.com/axios/status/2117945455027851450",
+      "tweetedAt": "2026-11-04T11:42:00.000Z",
+      "bestBit": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup",
+      "text": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup https://t.co/coubnOqKPW"
+    },
+    {
+      "tweetId": "2117999237745049883",
+      "role": "source",
+      "authorHandle": "openainewsroom",
+      "url": "https://x.com/OpenAINewsroom/status/2117999237745049883",
+      "tweetedAt": "2026-11-04T15:15:43.000Z",
+      "bestBit": "making Codex a place where teams can build software together with AI, from first idea to the version they ship",
+      "text": "Today we’re announcing that OpenAI will acquire @pierrecomputer to accelerate our vision for making Codex a place where teams can build software together with AI, from first idea to the version they ship.\n\nPierre’s open-source developer tools already power parts of Codex today. Together, we’ll build on that foundation for the agentic era.\n\nhttps://t.co/ZeJ4BOj7T7"
+    },
+    {
+      "tweetId": "2117999036175188183",
+      "role": "source",
+      "authorHandle": "pierrecomputer",
+      "url": "https://x.com/pierrecomputer/status/2117999036175188183",
+      "tweetedAt": "2026-11-04T15:14:55.000Z",
+      "bestBit": "an announcement from the pierre computer company",
+      "text": "an announcement from the pierre computer company https://t.co/vhkBu3eZJ0"
+    },
+    {
+      "tweetId": "2118075557263077590",
+      "role": "analysis",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2118075557263077590",
+      "tweetedAt": "2026-11-04T20:18:59.000Z",
+      "bestBit": "Pierre had about 10 employees, and OpenAI didn't disclose the price",
+      "text": "SITUATION EXPLAINED: OpenAI is buying Pierre, a startup that set out to build a better GitHub, to power Codex.\n\n• Pierre makes Code Storage, Git hosting built for software that writes code, plus the open-source libraries Trees and Diffs\n• Trees and Diffs already run file browsing and code review inside the Codex app\n• Code Storage's features will move into Codex, and Pierre's open-source projects will stay open\n• OpenAI has also built Pando, an internal source control system for agents working in parallel, which reportedly cut deployment latency by about 80%\n• Pierre had about 10 employees, and OpenAI didn't disclose the price\n• Jacob Thornton co-created Bootstrap at Twitter in 2011\n\n@sophiadew: \"The original pitch that Pierre had for what it was supposed to be was building a better GitHub.\"",
+      "quotedTweetText": "an announcement from the pierre computer company https://t.co/vhkBu3eZJ0"
+    },
+    {
+      "tweetId": "2118003164863754707",
+      "role": "analysis",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2118003164863754707",
+      "tweetedAt": "2026-11-04T15:31:19.000Z",
+      "bestBit": "OpenAI is buying Pierre Computer Company to fold its Git-based Code Storage service and code review tools into Codex",
+      "text": "It's official now: OpenAI is buying Pierre Computer Company to fold its Git-based Code Storage service and code review tools into Codex. OpenAI was already using Pierre's open-source Trees and Diffs libraries to run file browsing and change reviews inside the Codex app. https://t.co/ivDjaYzC0P",
+      "quotedTweetText": "Today we’re announcing that OpenAI will acquire @pierrecomputer to accelerate our vision for making Codex a place where teams can build software together with AI, from first idea to the version they ship.\n\nPierre’s open-source developer tools already power parts of Codex today. Together, we’ll build on that foundation for the agentic era.\n\nhttps://t.co/ZeJ4BOj7T7"
+    },
+    {
+      "tweetId": "2118012667101122833",
+      "role": "analysis",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2118012667101122833",
+      "tweetedAt": "2026-11-04T16:09:05.000Z",
+      "bestBit": "OpenAI is expanding Codex beyond AI-powered coding into the infrastructure needed to store and manage code produced by AI agents at scale",
+      "text": "OpenAI is coming for GitHub! 🚀\n\n@OpenAI is acquiring @pierrecomputer, a developer tools startup specializing in Git-based code storage infrastructure. Its technology is already being used in Codex, and OpenAI plans to integrate Pierre's Code Storage directly into the platform.\n\nThis is a significant move. OpenAI is expanding Codex beyond AI-powered coding into the infrastructure needed to store and manage code produced by AI agents at scale.\n\nWith Codex, the recently unveiled Pando Git backend, and now Pierre Computer, the pieces of a serious GitHub competitor are coming together. Exciting times for software development!"
+    },
+    {
+      "tweetId": "2118012675582280038",
+      "role": "commentary",
+      "authorHandle": "mitchellh",
+      "url": "https://x.com/mitchellh/status/2118012675582280038",
+      "tweetedAt": "2026-11-04T16:09:07.000Z",
+      "bestBit": "I’m also a minor investor so I’m happy for myself. LOL.",
+      "text": "Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m also a minor investor so I’m happy for myself. LOL.",
+      "quotedTweetText": "Today we’re announcing that OpenAI will acquire @pierrecomputer to accelerate our vision for making Codex a place where teams can build software together with AI, from first idea to the version they ship.\n\nPierre’s open-source developer tools already power parts of Codex today. Together, we’ll build on that foundation for the agentic era.\n\nhttps://t.co/ZeJ4BOj7T7"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openai-acquires-pierre-computer-to-challenge-microsofts-github-bb639ea0",
+    "title": "OpenAI Acquires Pierre Computer to Challenge Microsoft's GitHub",
+    "publishedAt": "2026-11-04T11:51:59.205Z",
+    "eventTimeApprox": "2026-11-04T11:35:57.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business",
+      "tech"
+    ],
+    "tweetCount": 28,
+    "authorCount": 21
+  }
+}

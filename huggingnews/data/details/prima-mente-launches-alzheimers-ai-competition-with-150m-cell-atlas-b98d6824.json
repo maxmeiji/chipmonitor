@@ -1,0 +1,81 @@
+{
+  "slug": "prima-mente-launches-alzheimers-ai-competition-with-150m-cell-atlas-b98d6824",
+  "title": "Prima Mente Launches Alzheimer's AI Competition With 150M Cell Atlas",
+  "publishedAt": "2026-10-08T22:08:10.888Z",
+  "eventTimeApprox": "2026-10-08T19:12:30.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "science",
+      "name": "Science"
+    },
+    {
+      "slug": "bio",
+      "name": "Bio"
+    },
+    {
+      "slug": "pharma",
+      "name": "Pharma"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108310245697270211/-cQrGz3lnC0Lmptp-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108310245697270211/-cQrGz3lnC0Lmptp-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2108310131318632448/vid/avc1/1280x720/x0Lt6uj7bqs5vm09.mp4?tag=29",
+    "credit": {
+      "handle": "primeintellect",
+      "tweetUrl": "https://x.com/PrimeIntellect/status/2108310245697270211"
+    }
+  },
+  "summary": "An international team of biotech and technology firms are offering AI researchers access to specialized brain cell data to find new drug targets. The Alzheimer's Translation Challenge, led by Prima Mente and AlzData, uses a 150M cell atlas of neurons, astrocytes, and microglia to identify new therapeutic hypotheses for the disease. Winning participants will have their AI models validated in Prima Mente's wet lab to confirm predicted molecular and functional effects.\n\nThe competition begins in spring 2027, with registration currently open via the AD workbench and Hugging Face. Partners providing data and computational infrastructure include Nvidia, Nebius AI, Talisman Therapeutics, Ultima Genomics, Cellanome, Prime Intellect, and Boltz Bio. The effort follows a recent discovery of a new class of Alzheimer's biomarkers by Goodfire AI and Prima Mente.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108261662335947232",
+      "role": "source",
+      "authorHandle": "primamente",
+      "url": "https://x.com/PrimaMente/status/2108261662335947232",
+      "tweetedAt": "2026-10-08T18:22:04.000Z",
+      "bestBit": "150M cell atlas of neurons, astrocytes, and microglia across different genetic backgrounds under combinatorial perturbations",
+      "text": "Today we're launching the Alzheimer's Translation Challenge, a global AI competition to discover new therapeutic hypotheses for Alzheimer's disease.\n\nAt its core is a new 150M cell atlas of neurons, astrocytes, and microglia across different genetic backgrounds under combinatorial perturbations, with multi-modal readouts. \n\nThe data will be made available through the AD workbench, Hugging Face and Prima Mente's modeling platform.\n\nThe challenge is led by @PrimaMente and @AlzData in collaboration with @nvidia, @huggingface, @nebiusai, Talisman Therapeutics, @UltimaGenomics, @cellanome, @PrimeIntellect, @GoodfireAI, and @boltz_bio.\n\nIn 1906, Alois Alzheimer described a new disease of the brain. After 120 years of progress, we still don't fully understand what drives this disease. We want to change that.\n\nParticipants will use the dataset to build AI models, assessed through a series of evals from general benchmarks to more complex tasks. \n\nTop teams will be shortlisted, and their experimental hypotheses tested in Prima Mente's wet lab. Teams win when their hypotheses demonstrate the predicted molecular and functional effect."
+    },
+    {
+      "tweetId": "2108274342950002977",
+      "role": "support",
+      "authorHandle": "goodfireai",
+      "url": "https://x.com/GoodfireAI/status/2108274342950002977",
+      "tweetedAt": "2026-10-08T19:12:27.000Z",
+      "bestBit": "discovered a new class of Alzheimer’s biomarkers with @PrimaMente",
+      "text": "We discovered a new class of Alzheimer’s biomarkers with @PrimaMente. Today we're taking the next step by opening a global AI competition to discover new treatments.\n\nIntroducing the Alzheimer’s Translation Challenge, led by @PrimaMente and @AlzData. 🧵 https://t.co/yVtJPQPRbr"
+    },
+    {
+      "tweetId": "2108274378484093412",
+      "role": "support",
+      "authorHandle": "goodfireai",
+      "url": "https://x.com/GoodfireAI/status/2108274378484093412",
+      "tweetedAt": "2026-10-08T19:12:36.000Z",
+      "bestBit": "Registration is open now. Competition starts spring 2027",
+      "text": "The Alzheimer’s Translation Challenge is led by @primamente and @AlzData, with @nvidia, @huggingface, @nebiusai, Talisman Therapeutics, @ultimagenomics, @Cellanome, @PrimeIntellect, and @boltz_bio.\n\nRegistration is open now. Competition starts spring 2027: https://t.co/geQbcIsRjd"
+    }
+  ],
+  "isSuperseded": false
+}

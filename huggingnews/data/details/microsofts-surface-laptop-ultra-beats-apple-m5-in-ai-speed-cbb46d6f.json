@@ -1,0 +1,160 @@
+{
+  "slug": "microsofts-surface-laptop-ultra-beats-apple-m5-in-ai-speed-cbb46d6f",
+  "title": "Microsoft's Surface Laptop Ultra Beats Apple M5 in AI Speed",
+  "publishedAt": "2026-10-07T20:11:34.838Z",
+  "eventTimeApprox": "2026-10-07T18:25:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 76,
+  "authorCount": 48,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107903919363895503/HUC6weKXgAAJV9M-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107903919363895503/HUC6weKXgAAJV9M-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "raywongy",
+      "tweetUrl": "https://x.com/raywongy/status/2107903919363895503"
+    }
+  },
+  "summary": "The newest Surface Laptop Ultra produces AI images up to 4.3x faster than the laest MacBook Pro and cuts initial token response time by 2.1x, according to performance benchmarks revealed at a Microsoft event in San Francisco. The device acts as the hardware anchor for \"Hybrid Intelligence,\" a new architectural approach that uses a model router to delegate AI agent tasks between on-device hardware and the cloud based on privacy needs and compute costs.\n\nAvailable for pre-order and shipping Oct. 16, the laptop starts at $2,599 and is powered by Nvidia RTX Spark, which includes a Blackwell GPU and up to 128GB of unified memory. This hardware allows the 137B-parameter MAI-Code-1.1 Flash model to run locally, eliminating inference charges for routine coding in GitHub Copilot. Microsoft also introduced a $5,999 RTX Spark Dev Box shipping in November and made Microsoft Execution Containers generally available on Windows 11 to sandbox local AI agents.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107898018112647313",
+      "role": "source",
+      "authorHandle": "satyanadella",
+      "url": "https://x.com/satyanadella/status/2107898018112647313",
+      "tweetedAt": "2026-10-07T18:17:05.000Z",
+      "bestBit": "MAI-Code-1.1 Flash: 137B parameter coding model w/ 256K context window, which is now optimized to run on your PC!",
+      "text": "Today marks a new chapter for Windows, as we bring unmetered intelligence to every desk and every home, and make every PC a place where agents can work securely on your behalf.\n\nSome highlights of what we announced:\n\n• MAI-Code-1.1 Flash: 137B parameter coding model w/ 256K context window, which is now optimized to run on your PC!\n\n• GitHub Copilot now hands off work to local models like MAI-Code-1.1 Flash, helping projects cost a lot less without sacrificing quality.\n\n• With Hybrid Intelligence, Copilot can now take action directly on the PC and keep sensitive work on your device.\n\n• And with Code in Copilot, you can essentially build any software you need on your desktop, without any cloud token spend, and it’s just super at it. You’re no longer limited to what’s in an app store! Your PC becomes an infinite software factory.\n\n• Security is foundational to all this, which is why we are also bringing together Windows and Agent 365 so agents can work within secure boundaries on-device, including MXC a local sandbox for agent execution. Windows becomes your secure agent box!\n\n• All this comes to life on a new generation of devices, like Surface Laptop Ultra, powered by NVIDIA RTX Spark.\n\nCan’t wait to see what you build with all this."
+    },
+    {
+      "tweetId": "2107890239360676148",
+      "role": "support",
+      "authorHandle": "mweinbach",
+      "url": "https://x.com/mweinbach/status/2107890239360676148",
+      "tweetedAt": "2026-10-07T17:46:10.000Z",
+      "bestBit": "$2599 for surface laptop ultra, Spark dev box $5999",
+      "text": "RTX Spark dev box and surface laptop pricing! \n\n$2599 for surface laptop ultra, Spark dev box $5999 https://t.co/lRpNvDrD67"
+    },
+    {
+      "tweetId": "2107896901970665488",
+      "role": "source",
+      "authorHandle": "msdev",
+      "url": "https://x.com/msdev/status/2107896901970665488",
+      "tweetedAt": "2026-10-07T18:12:38.000Z",
+      "bestBit": "GitHub Copilot will determine when a task is best handled by on-device intelligence and when it should leverage cloud-scale models",
+      "text": "We're bringing local models and sandboxed tools to Windows and GitHub Copilot\n\nComing soon, GitHub Copilot will determine when a task is best handled by on-device intelligence and when it should leverage cloud-scale models.\n\nhttps://t.co/vDoVk4ucMr"
+    },
+    {
+      "tweetId": "2107903919363895503",
+      "role": "support",
+      "authorHandle": "raywongy",
+      "url": "https://x.com/raywongy/status/2107903919363895503",
+      "tweetedAt": "2026-10-07T18:40:31.000Z",
+      "bestBit": "Surface Laptop Ultra offers: \"up to 2.1x faster time to first token\" \"up to 4.3x faster image generation\" \"upto 6.2x faster video generation\"",
+      "text": "Oh, Microsoft is calling out the M5 MacBook Pro with some numbers, saying Surface Laptop Ultra offers:\n\n\"up to 2.1x faster time to first token\"\n\n\"up to 4.3x faster image generation\"\n\n\"up to 6.2x faster video generation\" https://t.co/s1ohwJkT4i"
+    },
+    {
+      "tweetId": "2107915489670508830",
+      "role": "commentary",
+      "authorHandle": "abidlabs",
+      "url": "https://x.com/abidlabs/status/2107915489670508830",
+      "tweetedAt": "2026-10-07T19:26:30.000Z",
+      "bestBit": "The Windows launch event today has mentioned \"local AI\" 41 times",
+      "text": "The Windows launch event today has mentioned \"local AI\" 41 times (so far) 🤯 https://t.co/6eGy8kL1C9",
+      "quotedTweetText": "It is very cool to see llama.cpp on the big stage in todays Windows event!\n\nThe software and hardware stacks are finally coming together. Our community has put a lot of hard work in the past years and it shows.\n\nLooking forward to more users embracing local AI. https://t.co/vmn8fy9TQ9"
+    },
+    {
+      "tweetId": "2107914219408736463",
+      "role": "analysis",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2107914219408736463",
+      "tweetedAt": "2026-10-07T19:21:27.000Z",
+      "bestBit": "Nvidia's RTX Spark, an Arm-based chip with a Blackwell GPU and up to 128GB of memory shared by processor and graphics",
+      "text": "Microsoft just announced that Copilot will hand routine coding from Anthropic's Claude Haiku 4.5 to Microsoft's MAI-Code-1.1-Flash (a 137B total and 6.8B active param model) running on Nvidia-powered PCs\n\nA model router will keep th routine work on the machine and this local model calls carry no inference charge. \n\nThe on-device MAI-Code-1.1-Flash uses 3-bit quantization yet keeps its 256K-token context window, and Microsoft says it scores the same as full precision on SWE-Bench Verified and Terminal-Bench 2.1.\n\nMicrosoft's hardware for the shift is the Surface Laptop Ultra from $2,599 and the Surface RTX Spark Dev Box from $5,999\n\nBoth run on Nvidia's RTX Spark, an Arm-based chip with a Blackwell GPU and up to 128GB of memory shared by processor and graphics. \n\nAlso, Microsoft made its agent sandbox, Microsoft Execution Containers (MXC), generally available on Windows 11. Companies can now set which files and network locations an agent may use, and Windows blocks everything else while the agent runs, with isolation levels ranging from separate processes and sessions up to virtual machines and cloud PCs.",
+      "quotedTweetText": "Today marks a new chapter for Windows, as we bring unmetered intelligence to every desk and every home, and make every PC a place where agents can work securely on your behalf.\n\nSome highlights of what we announced:\n\n• MAI-Code-1.1 Flash: 137B parameter coding model w/ 256K context window, which is now optimized to run on your PC!\n\n• GitHub Copilot now hands off work to local models like MAI-Code-1.1 Flash, helping projects cost a lot less without sacrificing quality.\n\n• With Hybrid Intelligence, Copilot can now take action directly on the PC and keep sensitive work on your device.\n\n• And with Code in Copilot, you can essentially build any software you need on your desktop, without any cloud token spend, and it’s just super at it. You’re no longer limited to what’s in an app store! Your PC becomes an infinite software factory.\n\n• Security is foundational to all this, which is why we are also bringing together Windows and Agent 365 so agents can work within secure boundaries on-device, including MXC a local sandbox for agent execution. Windows becomes your secure agent box!\n\n• All this comes to life on a new generation of devices, like Surface Laptop Ultra, powered by NVIDIA RTX Spark.\n\nCan’t wait to see what you build with all this."
+    },
+    {
+      "tweetId": "2107910664576811048",
+      "role": "commentary",
+      "authorHandle": "sriramk",
+      "url": "https://x.com/sriramk/status/2107910664576811048",
+      "tweetedAt": "2026-10-07T19:07:20.000Z",
+      "bestBit": "MXC containers - a local sandbox for agentic execution",
+      "text": "We are in a very unique moment with agents.  It was a delight to be invited by @Microsoft to their reveal today of several new agentic capabilities for Windows and to talk to @satyanadella and @JensenHuang .\n\n- MXC containers - a local sandbox for agentic execution.\n- Hybrid intelligence of actions that can take effect using local models or be routed to models in the cloud.\n- Brand new Copilot experiences around agentic usage (@jacobandreou had a very fun demo doing his taxes without any remote models being involved)\n- Powered on a new gen of local hardware starting with the Surface Laptop Ultra/ Nvidia RTX Spark.\n\nStepping back, we are obviously at the beginning of a new era of agents and we are figuring out new primitives and standards as we go along. I for one am looking forward to not having to give my agents full access to everything  for menial tasks.\n\nSome photos from today."
+    },
+    {
+      "tweetId": "2107911754973839738",
+      "role": "commentary",
+      "authorHandle": "kdaigle",
+      "url": "https://x.com/kdaigle/status/2107911754973839738",
+      "tweetedAt": "2026-10-07T19:11:40.000Z",
+      "bestBit": "intelligent model routing coordinates local and cloud for you, starting with our first local model MAI Code 1.1 Flash",
+      "text": "@github Copilot’s new intelligent model routing coordinates local and cloud for you, starting with our first local model MAI Code 1.1 Flash running right on the new Surface Laptop Ultra I’ve used over the last few months (more on that soon 😉). \n\nThe power to just experiment right on your own device is about to unlock something far greater for devs. Can’t wait for you to try.",
+      "quotedTweetText": "Today, we announced new @Windows platform capabilities and @surface devices built to empower people and organizations for the era of hybrid intelligence. Here are some of the highlights:\n\n- It all starts with trust. Microsoft Execution Containers (MXC) is now generally available on Windows 11, keeping agents contained within boundaries the operating system enforces.\n\n- HydraFusion brings hybrid intelligence to life, allowing models to run locally while seamlessly accessing the cloud when more scale or capability is needed. We're working with @github to extend HydraFusion to Windows.\n\n- This fall, Search on the taskbar adds thousands of quick actions, making it easier to adjust settings and get things done as fast as you can type.\n\n- @MSFTCopilot is getting more powerful on Windows. With hybrid intelligence, it can tap into your PC's local capabilities and turn your requests into action, while keeping you in control.\n\n- Local agents are coming to Windows too. Muse is on its way as a native Windows app with MXC integration, and Hermes, OpenClaw, and Perplexity are already building local experiences on Windows.\n\n- Surface Laptop Ultra, built with NVIDIA RTX Spark, is the most powerful Surface we've ever built. It's available for pre-order today, along with the Surface RTX Spark Dev Box and new RTX Spark PCs from our partners. Call of Duty is coming to RTX Spark in 2027.\n\nRead more on the Windows Blog: https://t.co/DRx3HgDqsS"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "microsoft-routes-copilot-tasks-locally-to-end-inference-charges-e2ef6704",
+    "title": "Microsoft Routes Copilot Tasks Locally to End Inference Charges",
+    "publishedAt": "2026-10-07T19:39:09.670Z",
+    "eventTimeApprox": "2026-10-07T18:14:34.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 37,
+    "authorCount": 23
+  }
+}

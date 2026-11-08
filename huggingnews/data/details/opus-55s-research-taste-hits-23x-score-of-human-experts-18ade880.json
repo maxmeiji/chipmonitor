@@ -1,0 +1,68 @@
+{
+  "slug": "opus-55s-research-taste-hits-23x-score-of-human-experts-18ade880",
+  "title": "Opus 5.5's Research Taste Hits 2.3x Score of Human Experts",
+  "publishedAt": "2026-10-06T16:56:38.687Z",
+  "eventTimeApprox": "2026-10-06T15:48:10.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107511371424526524/HT9ibDQawAAimrb-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107511371424526524/HT9ibDQawAAimrb-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2107511371424526524"
+    }
+  },
+  "summary": "pzero research found that the capacity for experimental taste in frontier AI models has doubled every three months since December 2025. The leading model, Opus 5.5, currently possesses 2.3 times the research taste of experienced human specialists, matching the scores of the best human experts on typical tasks using about 17 GPU hours of experiments instead of 40.\n\nMeasuring this metric is critical for the AI Futures Model, as research taste largely determines the speed of reaching artificial superintelligence once coding is fully automated. The human baseline used in the study consisted of experienced researchers, though most of those individuals had not worked at a frontier lab.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107453876739674149",
+      "role": "source",
+      "authorHandle": "pzeroresearch",
+      "url": "https://x.com/pzeroresearch/status/2107453876739674149",
+      "tweetedAt": "2026-10-06T12:52:13.000Z",
+      "bestBit": "experimental research taste of frontier models has doubled every ~3 months since December 2025",
+      "text": "How fast is AI's research taste improving?\n\nWe find that the experimental research taste of frontier models has doubled every ~3 months since December 2025. The best model, Opus 5.5, now exceeds our expert human baseline. Our human experts are experienced researchers, but most haven’t worked at a frontier lab.\n\nWhy measure research taste? In the AI Futures Model, it largely determines how quickly artificial superintelligence is reached once coding is fully automated."
+    },
+    {
+      "tweetId": "2107511371424526524",
+      "role": "support",
+      "authorHandle": "andrewcurran_",
+      "url": "https://x.com/AndrewCurran_/status/2107511371424526524",
+      "tweetedAt": "2026-10-06T16:40:41.000Z",
+      "bestBit": "Opus 5.5 has 2.3x the experimental research taste of our best human experts",
+      "text": "'Opus 5.5 has 2.3x the experimental research taste of our best human experts. In other words, on a typical task, Opus 5.5 matches the best expert's score with about 17 GPU hours of experiments instead of 40.' https://t.co/zysyncZ3uT",
+      "quotedTweetText": "How fast is AI's research taste improving?\n\nWe find that the experimental research taste of frontier models has doubled every ~3 months since December 2025. The best model, Opus 5.5, now exceeds our expert human baseline. Our human experts are experienced researchers, but most haven’t worked at a frontier lab.\n\nWhy measure research taste? In the AI Futures Model, it largely determines how quickly artificial superintelligence is reached once coding is fully automated."
+    }
+  ],
+  "isSuperseded": false
+}

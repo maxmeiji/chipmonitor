@@ -1,0 +1,63 @@
+{
+  "slug": "ripple-enables-247-yield-on-rlusd-for-corporate-cash-management-c5a966d9",
+  "title": "Ripple Enables 24/7 Yield on RLUSD for Corporate Cash Management",
+  "publishedAt": "2026-10-26T16:08:13.290Z",
+  "eventTimeApprox": "2026-10-26T13:51:27.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "crypto",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "crypto",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "crypto",
+      "name": "Crypto"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "fintech",
+      "name": "Fintech"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:RPPL",
+      "kind": "private",
+      "role": "subject",
+      "name": "Ripple",
+      "hubKey": "ripple"
+    }
+  ],
+  "summary": "Ripple expanded its Treasury platform by integrating artificial intelligence to automate cash reconciliation, forecasting, liquidity management and payments for its business clients. The updates include the launch of a feature called 24/7 Returns, which allows eligible corporate customers to earn yield on qualifying digital assets held in Ripple wallets.\n\nThe returns program supports RLUSD, a stablecoin backed by the U.S. dollar, and is designed to let companies earn on idle operating cash overnight and during weekends. Access to these new treasury tools and yield capabilities is subject to program requirements.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114716542390947947",
+      "role": "source",
+      "authorHandle": "theblockco",
+      "url": "https://x.com/TheBlockCo/status/2114716542390947947",
+      "tweetedAt": "2026-10-26T13:51:27.000Z",
+      "bestBit": "Ripple has introduced new capabilities for Ripple Treasury, its corporate cash management platform, including AI-powered tools to automate cash positioning, forecasting, reconciliation, liquidity management and payments.",
+      "text": "THE BLOCK: Ripple has introduced new capabilities for Ripple Treasury, its corporate cash management platform, including AI-powered tools to automate cash positioning, forecasting, reconciliation, liquidity management and payments.\n\nThe platform also adds 24/7 Returns, which allows eligible corporate customers to earn returns on qualifying digital assets held in Ripple wallets, including its U.S. dollar-backed stablecoin RLUSD, subject to program requirements."
+    }
+  ],
+  "isSuperseded": false
+}

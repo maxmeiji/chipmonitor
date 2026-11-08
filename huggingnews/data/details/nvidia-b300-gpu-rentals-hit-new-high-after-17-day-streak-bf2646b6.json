@@ -1,0 +1,68 @@
+{
+  "slug": "nvidia-b300-gpu-rentals-hit-new-high-after-17-day-streak-bf2646b6",
+  "title": "Nvidia B300 GPU Rentals Hit New High After 17 Day Streak",
+  "publishedAt": "2026-10-15T20:09:26.500Z",
+  "eventTimeApprox": "2026-10-15T18:42:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2110782355984019736/HUsBUvZXUAAvXBp-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2110782355984019736/HUsBUvZXUAAvXBp-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "matthew_sigel",
+      "tweetUrl": "https://x.com/matthew_sigel/status/2110782355984019736"
+    }
+  },
+  "summary": "Computing firms in the U.S. have shifted their pricing for top-tier hardware to a level not seen previously. Rental prices for Nvidia’s Blackwell Ultra (B300) GPUs rose for 17 consecutive days to reach a new all-time high on a Compute Desk index of verified transactions from U.S. neoclouds.\n\nThese specialized providers offer scalable compute capacity for artificial intelligence workloads. The sustained price increase for the B300 chips—the latest generation of Nvidia's hardware—indicates strong demand for high-performance computing resources among American cloud vendors.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110782355984019736",
+      "role": "source",
+      "authorHandle": "matthew_sigel",
+      "url": "https://x.com/matthew_sigel/status/2110782355984019736",
+      "tweetedAt": "2026-10-15T17:18:24.000Z",
+      "bestBit": "Blackwell Ultra (B300) GPU rental prices up 17 consecutive days to a new all-time high, according to Compute Desk's index of verified transactions from U.S. neoclouds",
+      "text": "Blackwell Ultra (B300) GPU rental prices up 17 consecutive days to a new all-time high, according to Compute Desk's index of verified transactions from U.S. neoclouds. https://t.co/3EHmMvnABC"
+    },
+    {
+      "tweetId": "2110803418549793198",
+      "role": "support",
+      "authorHandle": "rjccapital",
+      "url": "https://x.com/RJCcapital/status/2110803418549793198",
+      "tweetedAt": "2026-10-15T18:42:06.000Z",
+      "bestBit": "$NVDA gpu rental prices are up 17 days in a row",
+      "text": "$NVDA gpu rental prices are up 17 days in a row https://t.co/bGPiGfB8mN"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "update-ai-agents-now-drive-half-of-st-louis-fed-fred-visits-09216c96",
+  "title": "UPDATE: AI Agents Now Drive Half of St. Louis Fed FRED Visits",
+  "publishedAt": "2026-10-08T00:24:15.836Z",
+  "eventTimeApprox": "2026-10-05T21:07:19.000Z",
+  "isFreshStory": false,
+  "tweetCount": 8,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:RAMP",
+      "kind": "private",
+      "role": "related",
+      "name": "Ramp",
+      "hubKey": "ramp"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107192565678129339/HT4_6aLXkAA-EnV-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107192565678129339/HT4_6aLXkAA-EnV-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "arakharazian",
+      "tweetUrl": "https://x.com/arakharazian/status/2107192565678129339"
+    }
+  },
+  "summary": "The Federal Reserve Bank of St. Louis is experiencing a shift in how users interact with its public economic archives. Artificial intelligence agents now account for about half of all visits to the Federal Reserve Economic Data (FRED) platform, according to a report from Bloomberg. This trend marks a transition in the consumption of the curated data service, which has provided free public access to American economic infrastructure records since 1991.\n\nThe change in traffic coincides with the platform's publication of 16 data sets from fintech company Ramp regarding corporate AI adoption. These metrics track the relationship between AI spending, productivity, and effects on job creation and economic growth. Ramp employee Ara Kharazian, a lifelong user of the service, noted that contributing the firm's proprietary spending insights was a personal goal.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107192565678129339",
+      "role": "source",
+      "authorHandle": "arakharazian",
+      "url": "https://x.com/arakharazian/status/2107192565678129339",
+      "tweetedAt": "2026-10-05T19:33:52.000Z",
+      "bestBit": "Ramp data is now available in FRED!",
+      "text": "I've wanted this since I was 17.\n\nSince 1991, FRED has made trustworthy and curated economic data free and accessible to the general public. I've been an avid user since my first economics class in high school. A project of @stlouisfed, it's a gem of American public data and infrastructure.\n\nRamp data is now available in FRED!"
+    },
+    {
+      "tweetId": "2107223110734807513",
+      "role": "source",
+      "authorHandle": "iandmacomber",
+      "url": "https://x.com/iandmacomber/status/2107223110734807513",
+      "tweetedAt": "2026-10-05T21:35:14.000Z",
+      "bestBit": "The Federal Reserve @stlouisfed now publishes 16 data sets from @tryramp about how businesses are adopting AI.",
+      "text": "The Federal Reserve @stlouisfed now publishes 16 data sets from @tryramp about how businesses are adopting AI.\n\nAs the entire world tries to understand the relationships between AI spend, productivity, job creation/loss, economic growth -- we are committed to being that source of data."
+    },
+    {
+      "tweetId": "2107199411734634584",
+      "role": "commentary",
+      "authorHandle": "rexsalisbury",
+      "url": "https://x.com/rexsalisbury/status/2107199411734634584",
+      "tweetedAt": "2026-10-05T20:01:04.000Z",
+      "bestBit": "Ramp is submitting their \"AI Business Spend\" data to FRED.",
+      "text": "Ramp is submitting their \"AI Business Spend\" data to FRED.  \n\na life goal only a nerd like Ara would have :)",
+      "quotedTweetText": "I've wanted this since I was 17.\n\nSince 1991, FRED has made trustworthy and curated economic data free and accessible to the general public. I've been an avid user since my first economics class in high school. A project of @stlouisfed, it's a gem of American public data and infrastructure.\n\nRamp data is now available in FRED!"
+    },
+    {
+      "tweetId": "2107209060823044590",
+      "role": "commentary",
+      "authorHandle": "sarthakgh",
+      "url": "https://x.com/sarthakgh/status/2107209060823044590",
+      "tweetedAt": "2026-10-05T20:39:24.000Z",
+      "bestBit": "Most teenagers put posters on their wall. Ara put up FRED charts.",
+      "text": "Most teenagers put posters on their wall. Ara put up FRED charts. Now Ramp data is one of them",
+      "quotedTweetText": "I've wanted this since I was 17.\n\nSince 1991, FRED has made trustworthy and curated economic data free and accessible to the general public. I've been an avid user since my first economics class in high school. A project of @stlouisfed, it's a gem of American public data and infrastructure.\n\nRamp data is now available in FRED!"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "ramp-adds-ai-business-spend-data-to-st-louis-fed-fred-c1c5b2a5",
+    "title": "Ramp Adds AI Business Spend Data to St Louis Fed FRED",
+    "publishedAt": "2026-10-05T20:53:51.023Z",
+    "eventTimeApprox": "2026-10-05T20:18:58.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 5
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "anthropic-uses-claude-to-accelerate-development-of-custom-ai-chips-2b139e6a",
+  "title": "Anthropic Uses Claude to Accelerate Development of Custom AI Chips",
+  "publishedAt": "2026-11-03T14:23:00.404Z",
+  "eventTimeApprox": "2026-11-03T14:05:20.500Z",
+  "isFreshStory": false,
+  "tweetCount": 34,
+  "authorCount": 21,
+  "routingTopicKeys": [
+    "ai",
+    "tech",
+    "startups"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The company's hardware division, comprising about 15 engineers, is using its Claude AI models to develop custom Application-Specific Integrated Circuits (ASICs) designed to train and run the company's software. Anthropic told potential investors that the use of its own models speeds up the engineering and design process relative to the typical workflows used at semiconductor firms like Nvidia and AMD.\n\nTo support the development of the new hardware, the AI startup has approached electronic design automation firms to negotiate the purchase or use of chip design data. The disclosure regarding the lausing of Claude for hardware creation comes as the company prepares for a potential initial public offering.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117618172551421957",
+      "role": "source",
+      "authorHandle": "validapau",
+      "url": "https://x.com/validapau/status/2117618172551421957",
+      "tweetedAt": "2026-11-03T14:01:30.000Z",
+      "bestBit": "Claude cuts down the time it takes to design chips compared to Nvidia/AMD, per their engineers’ estimates",
+      "text": "🍪NEW: Anthropic told investors it is already using Claude to design its custom chips\n \n- Claude cuts down the time it takes to design chips compared to Nvidia/AMD, per their engineers’ estimates\n\n- It approached some EDA companies asking to buy or use some of their chip design data. \n\n- OpenAI saw selling tools for chip designs as a future revenue driver\n\nw/ @QianerLiu @_pheebini"
+    },
+    {
+      "tweetId": "2117619438510096617",
+      "role": "support",
+      "authorHandle": "_pheebini",
+      "url": "https://x.com/_pheebini/status/2117619438510096617",
+      "tweetedAt": "2026-11-03T14:06:32.000Z",
+      "bestBit": "Anthropic's ~15-person ASIC team uses Claude models for chip design.",
+      "text": "— Anthropic's ~15-person ASIC team uses Claude models for chip design.\n— It's asked some EDA firms to buy or use some of their chip design data.\n— Claude cuts down the time to design chips vs to Nvidia/AMD, per engineers' est\n\nWith @QianerLiu @validapau:\n\nhttps://t.co/6yhYycB4SK"
+    }
+  ],
+  "isSuperseded": false
+}

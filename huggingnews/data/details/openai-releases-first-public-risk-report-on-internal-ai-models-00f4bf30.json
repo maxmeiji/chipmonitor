@@ -1,0 +1,64 @@
+{
+  "slug": "openai-releases-first-public-risk-report-on-internal-ai-models-00f4bf30",
+  "title": "OpenAI Releases First Public Risk Report on Internal AI Models",
+  "publishedAt": "2026-10-09T23:52:48.738Z",
+  "eventTimeApprox": "2026-10-09T22:45:46.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "The company's latest disclosure to the California Office of Emergency Services identifies mitigation strategies for frontier models that are not available to the general population. This quarterly report assesses the hazards of internal deployment, a vector Boaz Barak described as less visible than public releases, to satisfy requirements of Senate Bill 53. The law mandates that large AI developers share assessments of major risks arising from in-house model usage with the government.\n\nOpenAI is the first AI developer known to share this mandated government report with the public, according to analyst Thomas Woodside. While other labs are required to provide similar risk data to California authorities, they have generally kept those specific filings confidential.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108679728177557914",
+      "role": "source",
+      "authorHandle": "boazbaraktcs",
+      "url": "https://x.com/boazbaraktcs/status/2108679728177557914",
+      "tweetedAt": "2026-10-09T22:03:19.000Z",
+      "bestBit": "published our quarterly report to California OES on risks from internal deployment of frontier models",
+      "text": "We have published our quarterly report to California OES on risks from internal deployment of frontier models. Internal deployment is an important risk vector, which by its nature is less visible. Hence transparency on risks and mitigations is particularly important.\n\nhttps://t.co/k1PcenE1SZ"
+    },
+    {
+      "tweetId": "2108694117324890204",
+      "role": "commentary",
+      "authorHandle": "thomas_woodside",
+      "url": "https://x.com/Thomas_Woodside/status/2108694117324890204",
+      "tweetedAt": "2026-10-09T23:00:29.000Z",
+      "bestBit": "As far as I know, no other company has published their quarterly reports",
+      "text": "Happy that OpenAI chose to publish this!\n\nAs far as I know, no other company has published their quarterly reports; it would be great if they did so.",
+      "quotedTweetText": "One of the things Scott Wiener and the other drafters of SB 53 deserve credit for is the bill’s focus on deployments of frontier models within AI labs rather than just those released to the public. It requires large AI developers to periodically share information with the government about how it assesses the major risks arising from internal deployments. In addition to the California government, we are choosing to share our report with the public as well. You can read it at the link below. I hope you enjoy!"
+    }
+  ],
+  "isSuperseded": false
+}

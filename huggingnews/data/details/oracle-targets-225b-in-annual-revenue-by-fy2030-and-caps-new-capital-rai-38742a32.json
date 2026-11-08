@@ -1,0 +1,79 @@
+{
+  "slug": "oracle-targets-225b-in-annual-revenue-by-fy2030-and-caps-new-capital-rai-38742a32",
+  "title": "Oracle Targets $225B in Annual Revenue by FY2030 and Caps New Capital Raises at $20B",
+  "publishedAt": "2026-10-28T18:37:22.542Z",
+  "eventTimeApprox": "2026-10-28T18:28:19.000Z",
+  "isFreshStory": false,
+  "tweetCount": 53,
+  "authorCount": 32,
+  "routingTopicKeys": [
+    "earnings",
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "ORCL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Oracle Corp",
+      "hubKey": "orcl"
+    }
+  ],
+  "summary": "The enterprise software firm projects that its non-GAAP earnings per share will reach at least $21 by fiscal 2030 as part of a strategy to scale its cloud infrastructure. Oracle is targeting annual revenue of more than $225 billion by that period, which would require a compound annual growth rate of over 35% and non-GAAP operating margins above 40%. To finance this expansion, the company will restrict new capital raises to $20 billion through FY30, split evenly between debt and equity, separate from a $20 billion equity raise completed in the first quarter of FY2027.\n\nOracle reaffirmed its FY2027 outlook, forecasting revenue of at least $90 billion and non-GAAP EPS of $8.10. The company anticipates that spending on AI data centers will peak in fiscal 2027 and 2028 before its growth becomes self-funded in FY2029. This projection includes a target to return to positive free cash flow in the second half of FY2028 and generate more than $30 billion by FY2029. Shares of Oracle rose more than 9% following the announcements.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115510176241606953",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115510176241606953",
+      "tweetedAt": "2026-10-28T18:25:04.000Z",
+      "bestBit": "Oracle also plans to limit additional capital raises through FY30 to $20B: \n\n• $10B in equity\n• $10B in debt",
+      "text": "Oracle $ORCL targets $225B+ in annual revenue by FY2030.\n\nKey financial targets:\n• FY27 revenue: $90B+\n• FY30 revenue: $225B+\n• Revenue growth: 35%+ CAGR through FY30\n\n• FY30 non-GAAP operating margin: 40%+\n• FY30 non-GAAP EPS: $21+\n• Positive free cash flow: 2H FY28\n\n• FY29 free cash flow: $30B+\n• CapEx to peak in FY27-FY28\n• Growth to become self-funded in FY29\n• FY29 net debt/EBITDA: Below 3.5x\n\nOracle also plans to limit additional capital raises through FY30 to $20B:\n\n• $10B in equity\n• $10B in debt\n\nThis excludes debt refinancing and is separate from the $20B equity raise already completed in Q1 FY27."
+    },
+    {
+      "tweetId": "2115511126327017512",
+      "role": "analysis",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2115511126327017512",
+      "tweetedAt": "2026-10-28T18:28:51.000Z",
+      "bestBit": "Now expects to turn FCF positive in the H2 of FY28 & generate at least $30B in FY29",
+      "text": "Oracle $ORCL is projecting a nearly $54B turnaround in annual free cash flow over 3 years\n\nNow expects to turn FCF positive in the H2 of FY28 & generate at least $30B in FY29\n\nExpects its massive AI data center spending to peak in FY27-FY28 before declining in FY29\n\nBy FY29, Oracle says its growth will be self-funded.",
+      "quotedTweetText": "Oracle $ORCL targets $225B+ in annual revenue by FY2030.\n\nKey financial targets:\n• FY27 revenue: $90B+\n• FY30 revenue: $225B+\n• Revenue growth: 35%+ CAGR through FY30\n\n• FY30 non-GAAP operating margin: 40%+\n• FY30 non-GAAP EPS: $21+\n• Positive free cash flow: 2H FY28\n\n• FY29 free cash flow: $30B+\n• CapEx to peak in FY27-FY28\n• Growth to become self-funded in FY29\n• FY29 net debt/EBITDA: Below 3.5x\n\nOracle also plans to limit additional capital raises through FY30 to $20B:\n\n• $10B in equity\n• $10B in debt\n\nThis excludes debt refinancing and is separate from the $20B equity raise already completed in Q1 FY27."
+    },
+    {
+      "tweetId": "2115511853639991356",
+      "role": "commentary",
+      "authorHandle": "thestalwart",
+      "url": "https://x.com/TheStalwart/status/2115511853639991356",
+      "tweetedAt": "2026-10-28T18:31:44.000Z",
+      "bestBit": "$ORCL now up over 9%",
+      "text": "$ORCL now up over 9%"
+    }
+  ],
+  "isSuperseded": false
+}

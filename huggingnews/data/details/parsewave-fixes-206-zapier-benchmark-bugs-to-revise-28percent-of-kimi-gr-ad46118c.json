@@ -1,0 +1,78 @@
+{
+  "slug": "parsewave-fixes-206-zapier-benchmark-bugs-to-revise-28percent-of-kimi-gr-ad46118c",
+  "title": "Parsewave Fixes 206 Zapier Benchmark Bugs to Revise 28% of Kimi Grades",
+  "publishedAt": "2026-10-06T22:24:38.445Z",
+  "eventTimeApprox": "2026-10-06T18:02:33.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:MNSH",
+      "kind": "private",
+      "role": "related",
+      "name": "Moonshot AI",
+      "hubKey": "moonshot-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107590562505457986/HT-qMEKaAAAfezC-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107590562505457986/HT-qMEKaAAAfezC-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "rohanpaul_ai",
+      "tweetUrl": "https://x.com/rohanpaul_ai/status/2107590562505457986"
+    }
+  },
+  "summary": "Parsewave reviewed all 600 public tasks in Zapier's AutomationBench to test whether the verifiers could be fooled by incorrect answers. The auditor used agents to generate plausible but wrong responses, resulting in the discovery of 206 bugs that the firm subsequently fixed in a release called AutomationBench Verified. When Parsewave replayed 1,235 runs of the Kimi K3 model using the updated graders, 344 of those entries, or 27.9%, received a different score.\n\nThe audit revealed significant disparities in grader accuracy, with pass rates for some tasks rising from 18.8% to 43.8% when overly strict verifiers were corrected. Conversely, pass rates fell from 60.2% to 49.7% where verifiers were too lenient. In one case, a submission failed to use required GDPR and HIPAA templates but still received a perfect score of 1.0 until the update reduced the score to 0.09. These findings affect the credibility of frontier labs that cite AutomationBench on their model cards.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107516109280903350",
+      "role": "source",
+      "authorHandle": "shaped",
+      "url": "https://x.com/shaped/status/2107516109280903350",
+      "tweetedAt": "2026-10-06T16:59:30.000Z",
+      "bestBit": "Agents flagged 323 verifiers as suspicious, human review confirmed 206 real bugs, all 206 are fixed.",
+      "text": "AutomationBench Verified is out. \n\nWe went through all 600 public tasks in @Zapier's AutomationBench and checked every verifier.\n\n• Agents flagged 323 verifiers as suspicious, human review confirmed 206 real bugs, all 206 are fixed.\n• We replayed 1,235 Kimi K3 runs on the old and fixed verifiers and 344 of them (27.9%) got a different grade\n• Where verifiers were too strict, pass rate went from 18.8% to 43.8%\n• Where they were too lenient, it dropped from 60.2% to 49.7%\n\nAudit and dataset links below."
+    },
+    {
+      "tweetId": "2107534535604711492",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2107534535604711492",
+      "tweetedAt": "2026-10-06T18:12:44.000Z",
+      "bestBit": "Agents wrote realistic wrong answers to try to fool each verifier, and human review confirmed 206 real bugs.",
+      "text": "We need more efforts like this. \n\nEvery agent benchmark should audit its verifiers.\n\nParsewave went through all 600 public tasks in Zapier's AutomationBench.\n\nAgents wrote realistic wrong answers to try to fool each verifier, and human review confirmed 206 real bugs. AutomationBench Verified fixed all 206.\n\nRegarding 1,235 Kimi K3 runs, the fixed verifiers changed 27.9% of the grades.\n\nI just started looking into this benchmark for some independent eval work I am doing, so this is good timing to see this audit.",
+      "quotedTweetText": "AutomationBench Verified is out. \n\nWe went through all 600 public tasks in @Zapier's AutomationBench and checked every verifier.\n\n• Agents flagged 323 verifiers as suspicious, human review confirmed 206 real bugs, all 206 are fixed.\n• We replayed 1,235 Kimi K3 runs on the old and fixed verifiers and 344 of them (27.9%) got a different grade\n• Where verifiers were too strict, pass rate went from 18.8% to 43.8%\n• Where they were too lenient, it dropped from 60.2% to 49.7%\n\nAudit and dataset links below."
+    },
+    {
+      "tweetId": "2107590562505457986",
+      "role": "commentary",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2107590562505457986",
+      "tweetedAt": "2026-10-06T21:55:21.000Z",
+      "bestBit": "A submission that sent four contracts on the Standard template, instead of the required GDPR, HIPAA, SOC2 and Enterprise ones, passed 13 of 13 checks and scored 1.0. After the fix it scores 0.09.",
+      "text": "Agent benchmarks need audits of the graders, not only the tasks.\n\nParsewave reviewed all 600 public tasks in Zapier's AutomationBench, which frontier labs cite on their model cards.\n\nIt used agents to write convincing wrong answers, then had humans confirm which graders actually failed: 206 did.\n\nAutomationBench Verified fixes every one.\n\nOn 1,235 Kimi K3 runs, the fixed graders gave a different verdict 27.9% of the time.\n\nThe clearest case is task 813. The grader checked the Salesforce notes but never looked at the DocuSign template. A submission that sent four contracts on the Standard template, instead of the required GDPR, HIPAA, SOC2 and Enterprise ones, passed 13 of 13 checks and scored 1.0. After the fix it scores 0.09.",
+      "quotedTweetText": "AutomationBench Verified is out. \n\nWe went through all 600 public tasks in @Zapier's AutomationBench and checked every verifier.\n\n• Agents flagged 323 verifiers as suspicious, human review confirmed 206 real bugs, all 206 are fixed.\n• We replayed 1,235 Kimi K3 runs on the old and fixed verifiers and 344 of them (27.9%) got a different grade\n• Where verifiers were too strict, pass rate went from 18.8% to 43.8%\n• Where they were too lenient, it dropped from 60.2% to 49.7%\n\nAudit and dataset links below."
+    }
+  ],
+  "isSuperseded": false
+}

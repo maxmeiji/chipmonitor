@@ -1,0 +1,90 @@
+{
+  "slug": "scale-ai-and-hugging-face-launch-fineart-vla-model-for-robot-reasoning-fe19ff05",
+  "title": "Scale AI and Hugging Face Launch FineART-VLA Model for Robot Reasoning",
+  "publishedAt": "2026-10-29T17:24:03.568Z",
+  "eventTimeApprox": "2026-10-29T16:12:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:SCAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "Scale AI",
+      "hubKey": "scale-ai"
+    },
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "related",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "summary": "Scale AI and Hugging Face have introduced a new vision-language-action framework called FineART-VLA, designed to help robots execute long, multi-step tasks by reasoning over actions sequentially. The release represents the first time Scale AI has open-sourced its robotics technology, aiming to provide developers with a 'System 1-System 2' model that can better manage robotic maneuvers.\n\nThe model is paired with the FineART dataset, which contains more than 40,000 demonstrations and 500,000 subtask labels across 151 distinct tasks. Both the reasoning model and the data library have been made available on the LeRobot platform to support the development of open-source robotics.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115837725719048535",
+      "role": "source",
+      "authorHandle": "scaleailabs",
+      "url": "https://x.com/ScaleAILabs/status/2115837725719048535",
+      "tweetedAt": "2026-10-29T16:06:38.000Z",
+      "bestBit": "FineART is built with 40K+ demonstrations across 151 tasks and 500K subtask labels.",
+      "text": "In collaboration with @HuggingFace, we’ve released the largest open robot dataset, alongside their first open System 1-System 2 model that can reason over step-by-step actions.\n\nFineART is built with 40K+ demonstrations across 151 tasks and 500K subtask labels.\n\nTogether, the dataset and model were designed for each other, and both are available on @LeRobotHF where robotics developers work today."
+    },
+    {
+      "tweetId": "2115842021768466870",
+      "role": "support",
+      "authorHandle": "fdesouza",
+      "url": "https://x.com/fdesouza/status/2115842021768466870",
+      "tweetedAt": "2026-10-29T16:23:43.000Z",
+      "bestBit": "this is Scale’s first open-source robotics release.",
+      "text": "@scale_ai is teaming with @huggingface to make robots better at long, multi-step tasks, and we’re open-sourcing all of it!\n\nToday @scale_AI is launching FineART-VLA, a model that helps robots complete longer tasks, building on our first open-source robotics dataset.\n\nBuilt with @huggingface 's LeRobot team, this is Scale’s first open-source robotics release.\n\nThanks to @Thom_Wolf + team for the partnership.\n\nThe momentum on open-source robotics is picking up steam, and high-quality data will determine how far it goes. Go build!\n\nhttps://t.co/Y8OLuNSnnP"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "scale-ai-and-hugging-face-release-fineart-dataset-and-robot-reasoning-mo-2a4938ed",
+    "title": "Scale AI and Hugging Face Release FineART Dataset and Robot Reasoning Model",
+    "publishedAt": "2026-10-29T16:23:29.686Z",
+    "eventTimeApprox": "2026-10-29T16:12:36.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

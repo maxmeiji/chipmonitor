@@ -1,0 +1,64 @@
+{
+  "slug": "epoch-ai-projects-2027-chip-supply-can-run-19-billion-agents-4e47f68d",
+  "title": "Epoch AI Projects 2027 Chip Supply Can Run 1.9 Billion Agents",
+  "publishedAt": "2026-10-02T20:53:42.841Z",
+  "eventTimeApprox": "2026-10-02T18:50:26.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106090365627555931/HTpWBsGbgAA7OGD-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106090365627555931/HTpWBsGbgAA7OGD-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "epochairesearch",
+      "tweetUrl": "https://x.com/EpochAIResearch/status/2106090365627555931"
+    }
+  },
+  "summary": "The total computing power from upcoming hardware shipments could soon equal the weekly working hours of the global human workforce. Epoch AI estimates that AI chips shipped through 2027 may provide enough capacity to support 1.9 billion DeepSeek V4 Pro agents running concurrently, which would match the work of 8 billion people working 40 hour weeks. For higher-end frontier models, the infrastructure could support 30 million to 170 million concurrent agents, equivalent to the hours of 140 million to 720 million full time employees.\n\nA gap exists between this theoretical capacity and current market demand. Utilizing only 20% of the estimated capacity would require between $2.6 trillion and $5.3 trillion in annual API spending, yet total developer revenue is projected to reach only $1 trillion by the end of 2027, even with 5x annual growth. The final number of deployed agents will depend on whether demand remains high and how model efficiency evolves.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106090365627555931",
+      "role": "source",
+      "authorHandle": "epochairesearch",
+      "url": "https://x.com/EpochAIResearch/status/2106090365627555931",
+      "tweetedAt": "2026-10-02T18:34:07.000Z",
+      "bestBit": "estimate AI infrastructure could soon support hundreds of millions or even billions of AI agents",
+      "text": "We estimate AI infrastructure could soon support hundreds of millions or even billions of AI agents. At the high end, that’s enough to rival the working hours of the global human workforce.\n\nThe exact number of agents depends on the efficiency of the models they run on and whether soaring demand for AI continues. We analyzed different scenarios 🧵"
+    },
+    {
+      "tweetId": "2106094472035696752",
+      "role": "analysis",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2106094472035696752",
+      "tweetedAt": "2026-10-02T18:50:26.000Z",
+      "bestBit": "AI chips shipped through 2027 could support roughly 1.9 BILLION DeepSeek V4 Pro agents running concurrently",
+      "text": "This is wild: Epoch AI estimates the AI chips shipped through 2027 could support roughly 1.9 BILLION DeepSeek V4 Pro agents running concurrently.\n\nThat is enough agent-hours to equal 8 billion people working 40-hour weeks.\n\nEven for frontier models, it estimates 30–170 million concurrent agents, equivalent to the weekly working hours of 140–720 million full-time employees.\n\nThe stranger part is demand: using just 20% of Epoch’s central capacity estimate would imply $2.6–5.3 TRILLION a year in API-equivalent spending. Yet even if aggregate model-developer revenue keeps growing 5x annually, Epoch estimates it would reach only around $1 trillion by the end of 2027.",
+      "quotedTweetText": "We estimate AI infrastructure could soon support hundreds of millions or even billions of AI agents. At the high end, that’s enough to rival the working hours of the global human workforce.\n\nThe exact number of agents depends on the efficiency of the models they run on and whether soaring demand for AI continues. We analyzed different scenarios 🧵"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "atomic-machines-opens-ai-hardware-foundry-to-build-micro-devices-from-co-cbf77249",
+  "title": "Atomic Machines Opens AI Hardware Foundry to Build Micro Devices from Code",
+  "publishedAt": "2026-10-09T23:54:00.879Z",
+  "eventTimeApprox": "2026-10-09T01:51:52.000Z",
+  "isFreshStory": false,
+  "tweetCount": 20,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "tech",
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "startups",
+      "name": "Startups"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2108283819560472987/ozGg5Uf89Gg_AL-U-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2108283819560472987/ozGg5Uf89Gg_AL-U-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2108281412260683776/vid/avc1/1920x1080/x5yIoSh0GmGnmBRp.mp4?tag=29",
+    "credit": {
+      "handle": "jeffholden",
+      "tweetUrl": "https://x.com/jeffholden/status/2108283819560472987"
+    }
+  },
+  "summary": "Customers will soon be able to design and manufacture physical parts via a new software-like interface for hardware, announced by CEO Jeff Holden. Atomic Machines is turning its \"Matter Compiler\" into a foundry where users describe a device to an AI to have it produced and scaled in real time. The system builds working micro-machines with moving parts directly from code, eliminating the need for the custom fixtures and months of process development typically required in traditional factories.\n\nThe company recently emerged from six years in stealth with $250 million in funding and its first product, the PrimeSwitch PS-150. This fingernail-sized power relay for 800 V DC rails in AI data centers provides 1,500 V isolation in 50 microseconds, making it roughly 1,000 times faster than conventional mechanical contactors. Holden compared the user experience to using tools like Claude Code or OpenAI's Codex, where the final output is a physical object delivered by courier.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108283819560472987",
+      "role": "source",
+      "authorHandle": "jeffholden",
+      "url": "https://x.com/jeffholden/status/2108283819560472987",
+      "tweetedAt": "2026-10-08T19:50:07.000Z",
+      "bestBit": "AI-native manufacturing system that builds working micro-machines from code alone",
+      "text": "After six years in stealth, Atomic Machines is out. Our mission: on-demand, universal command of matter. First beachhead: the Matter Compiler, an AI-native manufacturing system that builds working micro-machines from code alone. No per-product tooling. No process development. Different code, different machine."
+    },
+    {
+      "tweetId": "2108704140675461146",
+      "role": "source",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2108704140675461146",
+      "tweetedAt": "2026-10-09T23:40:19.000Z",
+      "bestBit": "We're gonna open this up as a foundry, and our customers will decide for themselves what is the next thing",
+      "text": "Atomic Machines CEO @jeffholden reveals how they're building a version of Claude Code for manufacturing, where you describe a device to AI and it gets physically produced:\n\n\"We're gonna open this up as a foundry, and our customers will decide for themselves what is the next thing. Prototype in real time, manufacture at scale in real time.\"\n\n\"If you've ever used Claude Code, or OpenAI's Codex, imagine having an interaction like that, but some of the output tokens are physical. They're actually the devices. You're annoyed that FedEx is so slow at getting it to you.\"\n\n\"As soon as the AI's like, 'Do you like it? Do you wanna make it?' You can say yes, and it'll make it immediately. There's no going off and building a new manufacturing line.\"\n\n\"I think of it as the four-minute mile of manufacturing. This is the way all manufacturing will evolve going forward.\"",
+      "quotedTweetText": "After six years in stealth, Atomic Machines is out. Our mission: on-demand, universal command of matter. First beachhead: the Matter Compiler, an AI-native manufacturing system that builds working micro-machines from code alone. No per-product tooling. No process development. Different code, different machine."
+    },
+    {
+      "tweetId": "2108375618987671945",
+      "role": "analysis",
+      "authorHandle": "bscholl",
+      "url": "https://x.com/bscholl/status/2108375618987671945",
+      "tweetedAt": "2026-10-09T01:54:53.000Z",
+      "bestBit": "The first product is a breakthrough power relay that will be important to data center scaling",
+      "text": "Atomic Machines has invented the first deeply new manufacturing technology since… 3D printing?!? They can make important micro-scale electro/mechanical devices that are otherwise impossible. The first product is a breakthrough power relay that will be important to data center scaling and electrification generally. (You might think switches are a solved problem—but they very much are not… until now.)\n\nProud to be an investor and board member, and proud to have known @jeffholden for more than a quarter century. Jeff and team Atomic Machines are wicked smart and grind as hard as anyone I’ve ever met. \n\nWe will almost certainly use PrimeSwitch on Overture, where it will enable digital power control with significant weight savings.",
+      "quotedTweetText": "After six years in stealth, Atomic Machines is out. Our mission: on-demand, universal command of matter. First beachhead: the Matter Compiler, an AI-native manufacturing system that builds working micro-machines from code alone. No per-product tooling. No process development. Different code, different machine."
+    },
+    {
+      "tweetId": "2108496367890919751",
+      "role": "analysis",
+      "authorHandle": "iliraliu_",
+      "url": "https://x.com/IlirAliu_/status/2108496367890919751",
+      "tweetedAt": "2026-10-09T09:54:42.000Z",
+      "bestBit": "PrimeSwitch PS-150, a hermetic relay about the size of a fingernail that carries 150 A continuous",
+      "text": "Wait. Am I getting this right? \nThese guys just came out of SIX YEARS in stealth with a machine that takes code and spits out actual working micro-machines???\n\nTiny devices with moving parts, without the usual per-product tooling or months of process development. \n\nA different code… BAM: different machine!\n\nA regular factory locks in custom fixtures and process recipes for each thing it builds. \n\n3D printer…? Just changes the shape. \n\nWhat Atomic Machines describes is closer to a compiler for physical devices: \n\nThe system measures the result after every step, feeds that back, and only lets the part move forward if it is in spec. \n\nTheir first output is the PrimeSwitch PS-150, a hermetic relay about the size of a fingernail that carries 150 A continuous, opens to 1,500 V isolation in 50 microseconds, and draws no power while holding the state. \n\nAimed at the 800 V DC rails showing up in AI data centers, where mechanical contactors are too slow and solid-state switches bleed heat and cannot fully isolate.\n\nIf you are even remotely interested in manufacturing, you know this a different c a t e g o r y of manufacturing. \n\nCongrats to @jeffholden and Klaus Zietlow and the rest of the team! https://t.co/Ottky8WRHA"
+    },
+    {
+      "tweetId": "2108305684643344824",
+      "role": "commentary",
+      "authorHandle": "jon_stokes",
+      "url": "https://x.com/jon_stokes/status/2108305684643344824",
+      "tweetedAt": "2026-10-08T21:17:00.000Z",
+      "bestBit": "demo this thing making piles of paper clips",
+      "text": "Pro move would've been to demo this thing making piles of paper clips, but we can't have everything I guess.",
+      "quotedTweetText": "After six years in stealth, Atomic Machines is out. Our mission: on-demand, universal command of matter. First beachhead: the Matter Compiler, an AI-native manufacturing system that builds working micro-machines from code alone. No per-product tooling. No process development. Different code, different machine."
+    },
+    {
+      "tweetId": "2108363428381553044",
+      "role": "commentary",
+      "authorHandle": "toly",
+      "url": "https://x.com/toly/status/2108363428381553044",
+      "tweetedAt": "2026-10-09T01:06:27.000Z",
+      "bestBit": "1) what?",
+      "text": "1) what?",
+      "quotedTweetText": "After six years in stealth, Atomic Machines is out. Our mission: on-demand, universal command of matter. First beachhead: the Matter Compiler, an AI-native manufacturing system that builds working micro-machines from code alone. No per-product tooling. No process development. Different code, different machine."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "atomic-machines-launches-primeswitch-power-relay-for-data-center-scaling-d87f0c3e",
+    "title": "Atomic Machines Launches PrimeSwitch Power Relay for Data Center Scaling",
+    "publishedAt": "2026-10-09T02:25:22.345Z",
+    "eventTimeApprox": "2026-10-08T23:35:26.000Z",
+    "routingTopicKeys": [
+      "tech"
+    ],
+    "tweetCount": 14,
+    "authorCount": 11
+  }
+}

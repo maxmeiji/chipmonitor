@@ -1,0 +1,75 @@
+{
+  "slug": "gamma-launches-gamma-5-in-largest-overhaul-of-ai-presentation-tool-44179396",
+  "title": "Gamma Launches Gamma 5 in Largest Overhaul of AI Presentation Tool",
+  "publishedAt": "2026-10-06T14:09:42.031Z",
+  "eventTimeApprox": "2026-10-06T13:46:43.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107468760386847180/HT87qBSXAAAd5ZC-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107468760386847180/HT87qBSXAAAd5ZC-small.jpg",
+    "mediaType": "animated_gif",
+    "videoUrl": "https://video-s.twimg.com/tweet_video/HT87qBSXAAAd5ZC.mp4",
+    "credit": {
+      "handle": "omarsar0",
+      "tweetUrl": "https://x.com/omarsar0/status/2107468760386847180"
+    }
+  },
+  "summary": "A new AI agent now queries users on goals and target audiences to plan a presentation's layout before generating any content. This functionality is part of Gamma 5, a comprehensive update that integrates a central agent to manage how users plan, design, and edit decks, documents, and social assets. The update utilizes various frontier and image models to create brand-specific aesthetics and eliminates the generic look common in AI-generated slides.\n\nGamma, the first AI presentation platform to reach scale, built the update after concluding that most automated tools produced visually similar results. Gamma 5 introduces connectors for Notion, Slack, and HubSpot to pull context into decks, and allows users to import PowerPoint files for AI-led reworking and restyling. The company's biggest product overhaul to date still allows users to access Gamma Classic for older projects.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107455834699555185",
+      "role": "source",
+      "authorHandle": "thisisgrantlee",
+      "url": "https://x.com/thisisgrantlee/status/2107455834699555185",
+      "tweetedAt": "2026-10-06T13:00:00.000Z",
+      "bestBit": "the biggest product overhaul in our company's history",
+      "text": "Everyone is sick of generic AI, including us.\n\nGamma was the first AI presentation platform to reach real scale. But now that AI tools are everywhere, everything looks the same.\n\nEarlier this summer, we came to an uncomfortable conclusion: without a step change in visual variety, Gamma’s output would look and feel too similar to all the other AI tools. The entire point of a presentation is to help someone \"get\" your idea, to see it as unique and do something with it.\n\nWe started over. Today we're shipping Gamma 5, the biggest product overhaul in our company's history.\n\nWe rebuilt Gamma to create presentations that actually look like you and your brand. Your teams can design anything they dream up, following your brand's aesthetic or something entirely new, with every frontier and image model under the hood. And the same goes for your docs, social assets, and graphics.\n\nWe revamped our agent, design tools, editing, import, export, connectors, and more.\n\nGet your ideas out there."
+    },
+    {
+      "tweetId": "2107467592118022448",
+      "role": "support",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2107467592118022448",
+      "tweetedAt": "2026-10-06T13:46:43.000Z",
+      "bestBit": "puts an agent at the center of how the platform plans, designs, and edits presentations",
+      "text": "Gamma has launched Gamma 5, a major update that puts an agent at the center of how the platform plans, designs, and edits presentations.\n\n> The agent can ask about the goal and audience, then show its plan before it builds.\n\n> Users can import PowerPoint files and export with formatting intact.\n\n> Notion, Slack, and HubSpot connectors can gather context into each deck.\n\nPowerPoint files can now be imported into Gamma 5, reworked by the agent, and restyled in place with design styles applied to finished decks while keeping the original content.\n\nOlder decks remain saved, and you can access Gamma Classic anytime. @GammaApp",
+      "quotedTweetText": "Everyone is sick of generic AI, including us.\n\nGamma was the first AI presentation platform to reach real scale. But now that AI tools are everywhere, everything looks the same.\n\nEarlier this summer, we came to an uncomfortable conclusion: without a step change in visual variety, Gamma’s output would look and feel too similar to all the other AI tools. The entire point of a presentation is to help someone \"get\" your idea, to see it as unique and do something with it.\n\nWe started over. Today we're shipping Gamma 5, the biggest product overhaul in our company's history.\n\nWe rebuilt Gamma to create presentations that actually look like you and your brand. Your teams can design anything they dream up, following your brand's aesthetic or something entirely new, with every frontier and image model under the hood. And the same goes for your docs, social assets, and graphics.\n\nWe revamped our agent, design tools, editing, import, export, connectors, and more.\n\nGet your ideas out there."
+    },
+    {
+      "tweetId": "2107468760386847180",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2107468760386847180",
+      "tweetedAt": "2026-10-06T13:51:22.000Z",
+      "bestBit": "slide decks now feel like my own, with my vision, and closely follow my brand style",
+      "text": "I can usually tell when a deck was made with AI.\n\nGenerating slides with AI is easy now. They are just missing that personal touch.\n\nGamma 5 from @GammaApp was rebuilt to address this.\n\nIt's really good; the slide decks now feel like my own, with my vision, and closely follow my brand style.",
+      "quotedTweetText": "Everyone is sick of generic AI, including us.\n\nGamma was the first AI presentation platform to reach real scale. But now that AI tools are everywhere, everything looks the same.\n\nEarlier this summer, we came to an uncomfortable conclusion: without a step change in visual variety, Gamma’s output would look and feel too similar to all the other AI tools. The entire point of a presentation is to help someone \"get\" your idea, to see it as unique and do something with it.\n\nWe started over. Today we're shipping Gamma 5, the biggest product overhaul in our company's history.\n\nWe rebuilt Gamma to create presentations that actually look like you and your brand. Your teams can design anything they dream up, following your brand's aesthetic or something entirely new, with every frontier and image model under the hood. And the same goes for your docs, social assets, and graphics.\n\nWe revamped our agent, design tools, editing, import, export, connectors, and more.\n\nGet your ideas out there."
+    }
+  ],
+  "isSuperseded": false
+}

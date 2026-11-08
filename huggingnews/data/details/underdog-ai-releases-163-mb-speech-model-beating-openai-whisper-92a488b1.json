@@ -1,0 +1,71 @@
+{
+  "slug": "underdog-ai-releases-163-mb-speech-model-beating-openai-whisper-92a488b1",
+  "title": "Underdog AI Releases 163 MB Speech Model Beating OpenAI Whisper",
+  "publishedAt": "2026-10-21T17:38:55.290Z",
+  "eventTimeApprox": "2026-10-21T17:07:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112733007484518470/HVHunLfa4AAeL2Y-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112733007484518470/HVHunLfa4AAeL2Y-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "underdogai",
+      "tweetUrl": "https://x.com/UnderdogAI/status/2112733007484518470"
+    }
+  },
+  "summary": "On-device transcription now requires less than 0.25 seconds to process one minute of audio on a MacBook. The tool, Bark 3.0, is a 163 MB frontier speech model that is 15x smaller than Nvidia's Parakeet and 57x smaller than OpenAI's Whisper large-v3. On a benchmark of recorded meetings (AMI), Bark 3.0 recorded a 7.82% word error rate, outperforming Parakeet at 9.42% and Whisper large-v3 at 13.63%.\n\nUnderdog AI released the model under a CC-BY 4.0 open source license for use on laptops and phones. The developers incorporated research from moondreamai into the project, which is now available for private meeting notes and dictation within the Underdog app.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112733007484518470",
+      "role": "source",
+      "authorHandle": "underdogai",
+      "url": "https://x.com/UnderdogAI/status/2112733007484518470",
+      "tweetedAt": "2026-10-21T02:29:36.000Z",
+      "bestBit": "Bark 3.0 gets 7.82% of words wrong. Parakeet gets 9.42%. OpenAI's Whisper large-v3 gets 13.63% error rate",
+      "text": "Today we’re releasing Underdog Bark 3.0, the #1 frontier speech model\n\nIt's a tiny 163 MB download as accurate as NVIDIA’s Parakeet (15x bigger). It beats OpenAI's Whisper large-v3 (57x bigger)\n\nIt's fast- transcribes 1 min of audio in <0.25s on a Macbook. On recorded meetings (AMI), Bark 3.0 gets 7.82% of words wrong. Parakeet gets 9.42%. OpenAI's Whisper large-v3 gets 13.63% error rate\n\nBark runs on both your Laptop & Phone. It’s free and open source under CC-BY 4.0\n\nTry private on-device meeting notes & dictation, powered by Bark, in Underdog today: https://t.co/aLJERPwzS8"
+    },
+    {
+      "tweetId": "2112956694401876208",
+      "role": "commentary",
+      "authorHandle": "onusoz",
+      "url": "https://x.com/onusoz/status/2112956694401876208",
+      "tweetedAt": "2026-10-21T17:18:27.000Z",
+      "bestBit": "this also builds on the work by @moondreamai",
+      "text": "It is not in the tweet but this also builds on the work by @moondreamai https://t.co/eqa3FbkkIm https://t.co/03A5wc9MWy",
+      "quotedTweetText": "Today we’re releasing Underdog Bark 3.0, the #1 frontier speech model\n\nIt's a tiny 163 MB download as accurate as NVIDIA’s Parakeet (15x bigger). It beats OpenAI's Whisper large-v3 (57x bigger)\n\nIt's fast- transcribes 1 min of audio in <0.25s on a Macbook. On recorded meetings (AMI), Bark 3.0 gets 7.82% of words wrong. Parakeet gets 9.42%. OpenAI's Whisper large-v3 gets 13.63% error rate\n\nBark runs on both your Laptop & Phone. It’s free and open source under CC-BY 4.0\n\nTry private on-device meeting notes & dictation, powered by Bark, in Underdog today: https://t.co/aLJERPwzS8"
+    }
+  ],
+  "isSuperseded": false
+}

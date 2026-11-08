@@ -1,0 +1,78 @@
+{
+  "slug": "cadence-lifts-full-year-2026-guidance-after-beating-q3-estimates-fce192f5",
+  "title": "Cadence Lifts Full-Year 2026 Guidance After Beating Q3 Estimates",
+  "publishedAt": "2026-10-26T20:24:21.793Z",
+  "eventTimeApprox": "2026-10-26T20:07:53.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "earnings",
+    "tech",
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "earnings",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CDNS",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Cadence Design Systems",
+      "hubKey": "cdns"
+    }
+  ],
+  "summary": "Cadence reported third-quarter revenue of $1.63B, surpassing analyst estimates of $1.61B, and adjusted earnings per share of $2.11, which topped the predicted $2.05. The company increased its full-year 2026 revenue outlook to a range of $6.39B to $6.42B, compared with the $6.32B estimated by analysts, and raised its adjusted EPS guidance to between $8.37 and $8.43 from $8.16.\n\nThe chip design software provider authorized an additional $2.5B for share repurchases and reported a record backlog of $8.2B. Cadence also launched Maestro, a portfolio of domain-specialized AI models for chip and system design, though it noted a non-GAAP operating margin of 44.1%, a decrease of 350 basis points from a year earlier.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114809939432505787",
+      "role": "source",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2114809939432505787",
+      "tweetedAt": "2026-10-26T20:02:35.000Z",
+      "bestBit": "Launched a portfolio of domain-specialized AI models purpose-built for chip and system design",
+      "text": "CADENCE $CDNS Q3’26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $1.63B (Est. $1.61B) 🟢; +22% YoY\n🔹 Adj. EPS: $2.11 (Est. $2.05) 🟢; +9% YoY\n🔹 Non-GAAP Oper Margin: 44.1%; -350 bps YoY\n🔹 Backlog: $8.2B\n\nFY26 Guide:\n🔹 Revenue: $6.39B-$6.42B (Est. $6.32B) 🟢\n🔹 Adj. EPS: $8.37-$8.43 (Est. $8.16) 🟢\n🔹 Non-GAAP Oper Margin: 44.2%-45.2%\n\nQ4 Guide:\n🔹 Adj. EPS: $2.19-$2.25 (Est. $2.03) 🟢\n🔹 Non-GAAP Oper Margin: 44%-45%\n\nProduct Revenue Growth:\n🔹 Core EDA: +20% YoY\n🔹 IP: +24% YoY\n🔹 System Design & Analysis: +30% YoY\n\nAnnouncements:\n🔹 Maestro: Launched a portfolio of domain-specialized AI models purpose-built for chip and system design\n🔹 Hardware: another record quarter\n\nOther Q3 Metrics:\n🔹 Next-12-Month RPO: $4.2B\n🔹 Non-GAAP Net Income: $582.2M (Est. $566M) 🟢\n🔹 GAAP EPS: $1.05; flat YoY\n🔹 GAAP Operating Margin: 26.2%; -560 bps YoY\n\nCapital Return:\n🔹 Share Repurchases: $400M\n🔹 Additional Authorization: $2.5B\n\nKey Updates:\n🔹 Stock-based compensation: $0.53/share\n🔹 Amortization of intangibles: $0.29/share\n🔹 Acquisition & integration costs: $0.09/share\n🔹 Restructuring: $0.15/share\n🔹 Income related to investments: $0.01 per-share benefit\n🔹 Income tax effect: $0.01/share\n\nComments:\n🔸 “With broad-based business momentum, expanding technology leadership and a record backlog, we are raising our 2026 revenue outlook to 21% year-over-year growth.”\n\n🔸 “With record backlog of $8.2 billion and continued strength in recurring revenue, we are poised to deliver a strong 2026.”"
+    },
+    {
+      "tweetId": "2114813729024200842",
+      "role": "support",
+      "authorHandle": "firstsquawk",
+      "url": "https://x.com/FirstSquawk/status/2114813729024200842",
+      "tweetedAt": "2026-10-26T20:17:38.000Z",
+      "bestBit": "RAISES FY GUIDANCE, NOW SEEING FY ADJUSTED EPS $8.37 TO $8.43 FROM $8.05 TO $8.15 AND FY REVENUE $6.39 BLN TO $6.42 BLN",
+      "text": "CADENCE SEES Q4 ADJUSTED EPS $2.19 TO $2.25, ABOVE ESTIMATE OF $2.02, AND RAISES FY GUIDANCE, NOW SEEING FY ADJUSTED EPS $8.37 TO $8.43 FROM $8.05 TO $8.15 AND FY REVENUE $6.39 BLN TO $6.42 BLN FROM $6.2 BLN TO $6.34 BLN"
+    },
+    {
+      "tweetId": "2114812080423342084",
+      "role": "source",
+      "authorHandle": "trendspider",
+      "url": "https://x.com/TrendSpider/status/2114812080423342084",
+      "tweetedAt": "2026-10-26T20:11:05.000Z",
+      "bestBit": "$CDNS Announces additional $2.5B share buyback plan",
+      "text": "$CDNS Announces additional $2.5B share buyback plan"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "openai-forms-youth-council-to-address-ai-safety-failures-ceb97f26",
+  "title": "OpenAI Forms Youth Council to Address AI Safety Failures",
+  "publishedAt": "2026-10-07T18:09:38.077Z",
+  "eventTimeApprox": "2026-10-07T14:43:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 20,
+  "authorCount": 18,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107893107861889069/HUC8WWVboAEXTsr-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107893107861889069/HUC8WWVboAEXTsr-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "choblin29",
+      "tweetUrl": "https://x.com/choblin29/status/2107893107861889069"
+    }
+  },
+  "summary": "Nearly 1.2 million adolescents used ChatGPT's Learning Visualizations tool in one week, while over 180,000 used a new Study Mode, according to recent adoption data. To support the youth market, OpenAI is launching a College Planner for US students in grades 10 to 12 to track application deadlines and financial aid, with plans to expand into trade schools and other countries. The company is also establishing a council of approximately 22 students at Boston Children's Hospital to test safety defaults, parental controls, and notification systems to improve future model decisions.\n\nThe expansion follows a report from Common Sense Media and the Youth AI Safety Institute that labeled the teen bot an \"unacceptable risk.\" An audit of 4,000 prompts found that conversations regarding self-harm or eating disorders lasted up to one hour without triggering parental alerts, and hotline referrals dropped from 33% to 23%. OpenAI, which provided $10 million in funding to the researchers, disputes the findings and says some testing may have occurred before parental controls had fully activated during the 3 hour setup window.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107893107861889069",
+      "role": "source",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2107893107861889069",
+      "tweetedAt": "2026-10-07T17:57:34.000Z",
+      "bestBit": "nearly 1.2M teens used Learning Visualizations in one week, 180,000+ used Study Mode",
+      "text": "🚨BREAKING: OpenAI is making a much bigger push into teens.\n\nIt is launching College Planner inside ChatGPT, starting with US students in grades 10–12 applying to four-year colleges. It will track application requirements, deadlines, financial-aid steps, scholarships and fee waivers, with plans to expand to more countries, two-year colleges, technical colleges and trade schools.\n\nOpenAI is also backing a ~22-student council at Boston Children’s Hospital. Teens will test AI tools and give feedback on safety defaults, parental controls, notifications and AI literacy, with OpenAI aiming to bring those recommendations into product and model decisions.\n\nOpenAI says nearly 1.2M teens used Learning Visualizations in one week, 180,000+ used Study Mode, and nearly half shown a break reminder then stopped or took a break.\n\nThe same day, Common Sense rated ChatGPT for Teens an 'Unacceptable Risk' after 4,000+ test prompts."
+    },
+    {
+      "tweetId": "2107798753960763672",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2107798753960763672",
+      "tweetedAt": "2026-10-07T11:42:38.000Z",
+      "bestBit": "conversations about suic#de, self-harm or eating disorders lasted up to an HOUR without a single parental alert",
+      "text": "This is disturbing: Common Sense says some crisis-safety metrics actually got WORSE after ChatGPT for Teens launched.\n\nResearchers tested 4,000+ prompts. On more than a dozen newly created, parent-linked teen accounts, conversations about suic#de, self-harm or eating disorders lasted up to an HOUR without a single parental alert.\n\nAnd on matched crisis-level prompts:\n\n>hotline referrals: 33% → 23%\n>professional referrals: 68% → 58%\n>urgent-action language: 88% → 78%\n\nAcross the full crisis test, Common Sense received just four alerts.\n\nThe strangest part: the two post-launch alerts came from accounts with weeks of accumulated sensitive-topic history, not the newly created accounts used for acute crisis testing.\n\nOpenAI disputes the methodology, saying some testing may have happened before parental controls fully activated.\n\nCommon Sense says some accounts remained linked beyond OpenAI’s roughly 3-hour activation window and still produced no alerts."
+    },
+    {
+      "tweetId": "2107836110218858849",
+      "role": "support",
+      "authorHandle": "sfmcguire79",
+      "url": "https://x.com/sfmcguire79/status/2107836110218858849",
+      "tweetedAt": "2026-10-07T14:11:05.000Z",
+      "bestBit": "OpenAI should restrict ChatGPT to users 18 and older until it fixes those gaps",
+      "text": "“A teen can spend an hour talking about self-harm without their parent getting a single alert.”\n\nA new report says, “OpenAI's new teen protections fall short of what the company promised…. OpenAI should restrict ChatGPT to users 18 and older until it fixes those gaps.”\n\nSummary of the report’s findings:\n\n“ChatGPT doesn't send parent alerts when it should.”\n\n“ChatGPT for Teens doesn't offer the right help in crisis situations.”\n\n“It still does kids' homework.”\n\n“ChatGPT talks like it's a friend.”\n\n“Age estimation doesn't work.”"
+    },
+    {
+      "tweetId": "2107863712849694947",
+      "role": "support",
+      "authorHandle": "deitaone",
+      "url": "https://x.com/DeItaone/status/2107863712849694947",
+      "tweetedAt": "2026-10-07T16:00:46.000Z",
+      "bestBit": "teens spend under 15 minutes per day on ChatGPT on average",
+      "text": "OPENAI: TEENS AVERAGE UNDER 15 MINUTES A DAY ON CHATGPT\n\nOpenAI says teens spend under 15 minutes per day on ChatGPT on average, while fewer than 2% use it for more than three consecutive hours.\n\nOpenAI also says ChatGPT for Teens users sent 2.7 million more learning-related messages on average than non-users.\n\nA new College Planner is also coming as students begin the college application process."
+    },
+    {
+      "tweetId": "2107852502175539227",
+      "role": "commentary",
+      "authorHandle": "katiemiller",
+      "url": "https://x.com/KatieMiller/status/2107852502175539227",
+      "tweetedAt": "2026-10-07T15:16:13.000Z",
+      "bestBit": "OpenAI paid the group $10 million to write a report saying its new product was dangerous",
+      "text": "In August, after multiple minors committed suicide following interactions with ChatGPT, OpenAI launched ChatGPT for teens.\n\nA new report from the OpenAI-funded Youth AI Safety Institute found that, in the group’s tests, ChatGPT for Teens often either delayed alerts or failed to alert parents when teen accounts showed concerning behaviors, such as lengthy conversations about suicide, self-harm, or eating disorders.\n\nOpenAI paid the group $10 million to write a report saying its new product was dangerous."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "openais-first-teen-report-says-users-average-under-15-minutes-a-day-719ea3b8",
+    "title": "OpenAI's First Teen Report Says Users Average Under 15 Minutes a Day",
+    "publishedAt": "2026-10-07T16:53:23.792Z",
+    "eventTimeApprox": "2026-10-07T13:15:19.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 13,
+    "authorCount": 12
+  }
+}

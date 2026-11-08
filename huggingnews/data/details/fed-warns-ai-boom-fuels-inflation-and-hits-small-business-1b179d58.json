@@ -1,0 +1,45 @@
+{
+  "slug": "fed-warns-ai-boom-fuels-inflation-and-hits-small-business-1b179d58",
+  "title": "Fed Warns AI Boom Fuels Inflation and Hits Small Business",
+  "publishedAt": "2026-10-20T05:24:34.517Z",
+  "eventTimeApprox": "2026-10-20T00:51:12.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "us-markets",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "macroeconomics",
+      "name": "Macroeconomics"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "summary": "Deep-pocketed technology giants are largely insulated from the monetary tightening needed to offset the price increases their own growth is creating. The Federal Reserve warns that the surge in artificial intelligence is fueling inflation, forcing policy responses that may not impact the companies driving the trend.\n\nInterest rate hikes used to contain this inflation will hit small businesses and consumers more severely than the AI firms. Consequently, the Fed believes the burden of stabilizing the economy will fall on parties that do not profit from the technology investment boom.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112345583167975671",
+      "role": "source",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2112345583167975671",
+      "tweetedAt": "2026-10-20T00:50:07.000Z",
+      "bestBit": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+      "text": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine https://t.co/1jANqB7XDo https://t.co/1jANqB7XDo"
+    }
+  ],
+  "isSuperseded": false
+}

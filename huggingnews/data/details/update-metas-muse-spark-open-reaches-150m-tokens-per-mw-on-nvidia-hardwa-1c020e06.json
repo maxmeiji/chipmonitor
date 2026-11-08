@@ -1,0 +1,123 @@
+{
+  "slug": "update-metas-muse-spark-open-reaches-150m-tokens-per-mw-on-nvidia-hardwa-1c020e06",
+  "title": "UPDATE: Meta's Muse Spark Open Reaches 150M Tokens per MW on Nvidia Hardware",
+  "publishedAt": "2026-10-23T23:40:32.916Z",
+  "eventTimeApprox": "2026-10-21T09:52:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:TGAI",
+      "kind": "private",
+      "role": "related",
+      "name": "Together AI",
+      "hubKey": "together-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2113772381504438420/HVWgpI3bIAAv0W4-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2113772381504438420/HVWgpI3bIAAv0W4-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2113772381504438420"
+    }
+  },
+  "summary": "The open weights model from Meta is now appearing on the AA-AgentPerf leaderboard with results detailing its serving performance. In initial tests by Artificial Analysis, Muse Spark Open reached throughput of ~150M tokens/s per megawatt of power when run on four Nvidia GB300 or B300 GPUs. The 816B parameter mixture of experts model utilizes 42B active parameters across 62 layers, 46 of which employ sliding window attention to reduce KV cache requirements by ~75% at 1M context.\n\nThe model is available on Together AI and scored 39 on the Artificial Analysis Intelligence Index. In comparative hardware tests, the Nvidia GB300 showed a lead over the B300 at higher output speeds, while the AMD MI355X reached 70M tokens/s per MW. Meta and Together AI will host a technical deep dive on the model's production serving on Oct 26.",
+  "selectedTweets": [
+    {
+      "tweetId": "2113772381504438420",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2113772381504438420",
+      "tweetedAt": "2026-10-23T23:19:42.000Z",
+      "bestBit": "the model reaches up to ~150M tokens/s throughput per MW of power used on 4x NVIDIA GB300 or B300 GPUs",
+      "text": "Results from Muse Spark Open, Meta’s newly released 816B (42B active) open-weights model, are now live on AA-AgentPerf. In our initial testing, the model reaches up to ~150M tokens/s throughput per MW of power used on 4x NVIDIA GB300 or B300 GPUs\n\nMuse Spark Open scores 39 on the Artificial Analysis Intelligence Index. It is an MoE with 62 layers, of which 46 use 2,048-token sliding-window attention, cutting the KV cache requirement at 1M context by ~75% vs. full attention. Meta published an NVFP4 checkpoint and AMD published an MXFP4 checkpoint, which we use for the NVIDIA and AMD hardware respectively\n\nInitial results:\n\n➤ NVIDIA B300 and GB300 lead, each reaching ~150M tokens/s per MW in throughput-oriented (lower per-user speed) configs. GB300 pulls ahead at higher output speeds (~108M vs ~92M at 100 tok/s), but both have only been tested in aggregated serving configs so far, and we expect GB300's lead over B300 to grow with multi-node disaggregated configs\n\n➤ Serving configs are improving quickly. On the same B300 node, NVIDIA's tuned SGLang configs deliver ~1.6-1.8x the throughput per MW of the launch-week cookbook configs at 50-100 tok/s. The gains come from TP4 deployments and a prefill-decode interval tuned per concurrency, at the cost of longer time to first token\n\n➤ AMD MI355X reaches 70M tokens/s per MW at 65 tok/s, ~0.9x B200 between 65 and 100 tok/s. AMD's Oct 22 recipe update (prefill-decode and scheduler intervals, more tokenizer workers, more KV cache for full-attention layers) lifted its line ~1.7x per MW over the earlier recipe\n\nWe are continuing to test Muse Spark Open serving configurations, including multi-node disaggregation, and will be updating the leaderboard each week with the best results and configs found so far. We will also be publishing deeper reviews of the progress made in optimizing kernels, inference engines and configs for Muse Spark Open"
+    },
+    {
+      "tweetId": "2112564497361568153",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2112564497361568153",
+      "tweetedAt": "2026-10-20T15:20:00.000Z",
+      "bestBit": "Meta's Muse Spark Open scored 38.9, more than 12 points ahead of Super VL and the highest intelligence yet for a US open weights model",
+      "text": "US open-weights models made gains in both intelligence and parameter efficiency last week:\n\n➤ Thursday morning: NVIDIA released Nemotron 3.5 Bolt and Nemotron 3.5 Super VL. Super VL scored 26.5 on the Intelligence Index with 120B parameters, pushing Inkling Small off the Pareto frontier\n\n➤ Thursday midday: Meta's Muse Spark Open scored 38.9, more than 12 points ahead of Super VL and the highest intelligence yet for a US open weights model\n\n➤ Friday morning: Beam 1.0, Reflection's first model, scored 30.3 with 501B parameters, joining the frontier between Super VL and Muse Spark Open\n\nSee our full comparison of open weight models on Artificial Analysis https://t.co/Xbo3xVvEod"
+    },
+    {
+      "tweetId": "2113033965028131095",
+      "role": "source",
+      "authorHandle": "togethercompute",
+      "url": "https://x.com/togethercompute/status/2113033965028131095",
+      "tweetedAt": "2026-10-21T22:25:30.000Z",
+      "bestBit": "Join @AIatMeta and Together for a live technical deep dive: what Meta built, and how we serve it in production. \n\n ‽ Mon, Oct 26",
+      "text": "Muse Spark Open is the most capable US open-weight model to date, and it’s live on Together AI.\n\nJoin @AIatMeta and Together for a live technical deep dive: what Meta built, and how we serve it in production.\n\n🗓 Mon, Oct 26 · 12 PM PT / 3 PM ET\n\nRegister → https://t.co/WobgHAqK3p"
+    },
+    {
+      "tweetId": "2112655204646883388",
+      "role": "commentary",
+      "authorHandle": "valsai",
+      "url": "https://x.com/ValsAI/status/2112655204646883388",
+      "tweetedAt": "2026-10-20T21:20:26.000Z",
+      "bestBit": "Beam ranks #14 among all open-weight models and #1 among US open-weight models, just ahead of Muse Spark Open",
+      "text": "Beam 1.0 did especially well on EMB, which tests agents on building Excel financial models. Beam ranks #14 among all open-weight models and #1 among US open-weight models, just ahead of Muse Spark Open."
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "meta-muse-spark-open-hits-389-to-top-us-open-weights-intelligence-8a1d67f8",
+    "title": "Meta Muse Spark Open Hits 38.9 to Top US Open Weights Intelligence",
+    "publishedAt": "2026-10-20T21:39:09.260Z",
+    "eventTimeApprox": "2026-10-20T21:14:36.000Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 5,
+    "authorCount": 5
+  }
+}

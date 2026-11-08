@@ -1,0 +1,139 @@
+{
+  "slug": "mistral-le-chonk-tops-intelligence-index-for-non-us-and-china-ai-a7d06fde",
+  "title": "Mistral Le Chonk Tops Intelligence Index for Non-US and China AI",
+  "publishedAt": "2026-10-06T14:12:15.174Z",
+  "eventTimeApprox": "2026-10-06T13:24:07.000Z",
+  "isFreshStory": false,
+  "tweetCount": 176,
+  "authorCount": 107,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:MIST",
+      "kind": "private",
+      "role": "subject",
+      "name": "Mistral AI",
+      "hubKey": "mistral-ai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107467221421420919/HT84TlbbYAAUVmJ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107467221421420919/HT84TlbbYAAUVmJ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2107467221421420919"
+    }
+  },
+  "summary": "Mistral Large 4 scored 38 on the Artificial Analysis Intelligence Index, the highest mark of any AI system produced outside the U.S. and China. The model, also known as \"Le Chonk,\" is comparable to GPT-6 Luna and DeepSeek V4.1 Flash and ranks among the top three open-weight models on the Cyber Index with a 50% score. It led rivals MiMo-V2.6-Pro and GPT-6 Luna on the CyberGym-E2E-AA benchmark with an 82% result, though it is over 4x more costly per task than rivals such as GLM-5.3-Flash, costing $1.13 against $0.25.\n\nThe system features 1T total and 49B active parameters and was trained on 3,800 Nvidia Grace Blackwell GPUs in European datacenters. Now in public preview on Mistral's API and OpenRouter, the model includes a 512k token context window and can process 100 images per request. Mistral is continuing reinforcement learning on the preview version to improve performance before the full open-weight release at the end of October.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107456586813730854",
+      "role": "source",
+      "authorHandle": "mistralai",
+      "url": "https://x.com/MistralAI/status/2107456586813730854",
+      "tweetedAt": "2026-10-06T13:02:59.000Z",
+      "bestBit": "1T parameters, natively multimodal. 49B active.",
+      "text": "Meet Mistral Large 4, aka Le Chonk. \n\n• 1T parameters, natively multimodal. 49B active.\nIt is the best open weights model from US or Europe on aggregated benchmarks.\n\n• State-of-the-art on critical workloads, including cyber defense, manufacturing and finance and it surpasses closed frontier models on visual grounding.\n\n• Forged in Europe end-to-end and is deployable from Europe via our own Mistral Cloud infrastructure.\n\n• Available to all via API today. Working with cybersecurity partners privately.\n\nOpen weights release end of October."
+    },
+    {
+      "tweetId": "2107461902909558833",
+      "role": "analysis",
+      "authorHandle": "guillaumelample",
+      "url": "https://x.com/GuillaumeLample/status/2107461902909558833",
+      "tweetedAt": "2026-10-06T13:24:07.000Z",
+      "bestBit": "trained on 3,800 NVIDIA Grace Blackwell GPUs in our European datacenters",
+      "text": "ML4 was trained on 3,800 NVIDIA Grace Blackwell GPUs in our European datacenters -- our cluster in Bruyères-le-Châtel built using our Series B fundraise.\nWe are investing heavily in infrastructure, with our Series C and D clusters coming online soon. This additional compute will let us train longer, pursue more ambitious post-training, and iterate faster.\nWe expect large and rapid improvements in the weeks and months ahead.\n2/n"
+    },
+    {
+      "tweetId": "2107467221421420919",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2107467221421420919",
+      "tweetedAt": "2026-10-06T13:45:15.000Z",
+      "bestBit": "most intelligent model from outside the US and China, ahead of countries such as South Korea and the United Arab Emirates",
+      "text": "Mistral has released Mistral Large 4, scoring 38 on the Artificial Analysis Intelligence Index; France is back to having the most intelligent model from outside the US and China\n\n@MistralAI has released Mistral Large 4 in Research Public Preview, with plans to release the weights of the 1T parameter (49B active) model at the end of October. It achieves 38 on the Artificial Analysis Intelligence Index, comparable to GPT-6 Luna (max, 38) and DeepSeek V4.1 Flash (max, 39). It also achieves 50% on the Artificial Analysis Cyber Index, level with GLM-5.3-Flash and ahead of models such as Kimi K3 and DeepSeek V4.1 Flash (max).\n\nKey benchmarking results for Mistral Large 4 Preview:\n\n➤ Most intelligent model from outside the US and China: Mistral Large 4 Preview scores 38 on the Intelligence Index, comparable to DeepSeek V4.1 Flash (max, 39) and GPT-6 Luna (max, 38). This makes it the most intelligent model from outside the US and China, ahead of countries such as South Korea and the United Arab Emirates\n\n➤ Level with GLM-5.3-Flash on cyber defense capability: Mistral Large 4 Preview scores 50 on the Artificial Analysis Cyber Index, level with GLM-5.3-Flash (50) and behind MiMo-V2.6-Pro (56). Once its weights are released, it will rank among the top three open weights models on the Cyber Index. Its strongest result is on CyberGym-E2E-AA, where it scores 82%, ahead of MiMo-V2.6-Pro (79%) and GPT-6 Luna (max, 78%)\n\n➤ Over 4x the Cost per Task of similar-intelligence open weights models: Mistral Large 4 Preview costs $1.13 per Intelligence Index task with standard pricing of $1.36/$4.18 per 1M input/output tokens, with $0.14 per 1M cached input tokens. For the first two weeks, Mistral Large 4 Preview will be served at a 50% launch discount, bringing its Cost per Task down to $0.57. This is still more costly than GLM-5.3-Flash ($0.25) and DeepSeek V4.1 Flash (max, $0.27)\n\n➤ Strong document and image reasoning: Mistral Large 4 Preview scores 19% on GDP.pdf, on par with MiMo-V2.6-Pro (19%) and behind Kimi K3 (22%). This is an 18-point improvement from Mistral Large 3, partly driven by improvements in their API, which now accepts 100 images per request, up from 8 for previous Mistral models\n\nKey model details:\n\n➤ Context Window: 512k tokens\n\n➤ Multimodality: Text and image input, with text output\n\n➤ Pricing: $1.36/$4.18 per 1M input/output tokens ($0.14 per 1M cached input tokens), with 50% off for the first two weeks ($0.68/$2.09)\n\n➤ Availability: Research Public Preview on Mistral's API, with open weights planned for the end of October"
+    },
+    {
+      "tweetId": "2107471559040635360",
+      "role": "source",
+      "authorHandle": "openrouter",
+      "url": "https://x.com/OpenRouter/status/2107471559040635360",
+      "tweetedAt": "2026-10-06T14:02:29.000Z",
+      "bestBit": "1T params (49B active), natively multimodal, 512K context, up to 256K output",
+      "text": "Le Chonk has arrived 🐈\n\nMistral Large 4 is now on OpenRouter in public preview: 1T params (49B active), natively multimodal, 512K context, up to 256K output.\n\n50% off for the first two weeks: $0.68 in / $2.09 out per 1M tokens ($0.07 cached). https://t.co/bFqiePg7Mh"
+    },
+    {
+      "tweetId": "2107470641674801299",
+      "role": "commentary",
+      "authorHandle": "petergostev",
+      "url": "https://x.com/petergostev/status/2107470641674801299",
+      "tweetedAt": "2026-10-06T13:58:50.000Z",
+      "bestBit": "Mistral Large 4 was trained on 4,000 GPUs and Astra was trained on 100,000 of them",
+      "text": "Mistral Large 4 was trained on 4,000 GPUs and Astra was trained on 100,000 of them. \n\nWe'll see what the kitten can pull off, but the disparity is pretty stark",
+      "quotedTweetText": "Frontier scale, built in Europe.\n\nNearly 4,000 NVIDIA Grace Blackwell Superchips powered the training of Mistral Large 4, now in public preview.\n\nCongrats to the @MistralAI team 🙌"
+    },
+    {
+      "tweetId": "2107470704216048073",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2107470704216048073",
+      "tweetedAt": "2026-10-06T13:59:05.000Z",
+      "bestBit": "trained on 3,800 NVIDIA Grace Blackwell GPUs in European data centers",
+      "text": "Mistral Large 4 Preview (Le Chonk) scores 38 on AA intelligence score. a bit underwhelming, but I’d welcome anything coming out of EU at this point:\n\n> 1T, multimodal, with 49B active\n> open weights released by the end of October\n> it’s still being RL-trained\n> the final version is expected to be much better\n> trained on 3,800 NVIDIA Grace Blackwell GPUs in European data centers",
+      "quotedTweetText": "Meet Mistral Large 4, aka Le Chonk. \n\n• 1T parameters, natively multimodal. 49B active.\nIt is the best open weights model from US or Europe on aggregated benchmarks.\n• State-of-the-art on critical workloads, including cyber defense, manufacturing and finance and it surpasses closed frontier models on visual grounding.\n• Forged in Europe end-to-end and is deployable from Europe via our own Mistral Cloud infrastructure.\n• Available to all via API today. Working with cybersecurity partners privately.\n\nOpen weights release end of October."
+    },
+    {
+      "tweetId": "2107463303991902635",
+      "role": "commentary",
+      "authorHandle": "nielsrogge",
+      "url": "https://x.com/NielsRogge/status/2107463303991902635",
+      "tweetedAt": "2026-10-06T13:29:41.000Z",
+      "bestBit": "no blog post, no benchmarks",
+      "text": "&gt; new Mistral model\n&gt; no blog post, no benchmarks\n&gt; classic European release",
+      "quotedTweetText": "Meet Mistral Large 4, aka Le Chonk. \n\n• 1T parameters, natively multimodal. 49B active.\nIt is the best open weights model from US or Europe on aggregated benchmarks.\n• State-of-the-art on critical workloads, including cyber defense, manufacturing and finance and it surpasses closed frontier models on visual grounding.\n• Forged in Europe end-to-end and is deployable from Europe via our own Mistral Cloud infrastructure.\n• Available to all via API today. Working with cybersecurity partners privately.\n\nOpen weights release end of October."
+    },
+    {
+      "tweetId": "2107463147724702185",
+      "role": "support",
+      "authorHandle": "qtnx_",
+      "url": "https://x.com/qtnx_/status/2107463147724702185",
+      "tweetedAt": "2026-10-06T13:29:03.000Z",
+      "bestBit": "the RL run is still continuing and we keep seeing improvements",
+      "text": "we are still previewing Mistral Large 4 (le chonk), the RL run is still continuing and we keep seeing improvements, we can’t wait to get your hands on it later this month! in the meantime here are some results from the preview\nmore in the blog below https://t.co/UXXTCGVSel"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "mistral-ships-1t-parameter-model-to-outperform-chinese-rivals-96655dda",
+    "title": "Mistral Ships 1T Parameter Model to Outperform Chinese Rivals",
+    "publishedAt": "2026-10-06T13:39:12.375Z",
+    "eventTimeApprox": "2026-10-06T13:14:23.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 47,
+    "authorCount": 31
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "claude-now-builds-formulas-and-charts-in-google-workspace-aa9521d5",
+  "title": "Claude Now Builds Formulas and Charts in Google Workspace",
+  "publishedAt": "2026-10-07T02:24:54.676Z",
+  "eventTimeApprox": "2026-10-06T18:14:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "Users of Anthropic's AI can now produce data visualizations and spreadsheet functions through a deeper integration with Google's productivity suite. The updated assistant can generate formulas and build charts in Google Sheets, as well as create new slides that mirror the design of an existing presentation by using selected cells or text as context. a new setting also allows the tool to apply these edits automatically rather than requiring the user to approve changes one by one.\n\nThese capabilities extend a previous release that placed Claude in a sidebar within Google Docs, Sheets, and Slides, a feature currently in public beta for all paid plans. While the integration places the AI in direct competition with Google's own Gemini assistant, the partnership continues to benefit Google financially as Anthropic remains a major customer of Google Cloud infrastructure.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107522596845822135",
+      "role": "source",
+      "authorHandle": "claudeai",
+      "url": "https://x.com/claudeai/status/2107522596845822135",
+      "tweetedAt": "2026-10-06T17:25:17.000Z",
+      "bestBit": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude",
+      "text": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.\n\nIn Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands. https://t.co/se9wIS7vK1"
+    },
+    {
+      "tweetId": "2107522599530139767",
+      "role": "source",
+      "authorHandle": "claudeai",
+      "url": "https://x.com/claudeai/status/2107522599530139767",
+      "tweetedAt": "2026-10-06T17:25:18.000Z",
+      "bestBit": "In Claude, paste a Google file link or ask for a new doc, sheet, or deck, and it opens beside the chat for you and Claude to edit together",
+      "text": "In Claude, paste a Google file link or ask for a new doc, sheet, or deck, and it opens beside the chat for you and Claude to edit together. Access follows your Google sharing permissions.\n\nIn beta on all paid plans. Give it a try: https://t.co/2PehYZKjTm"
+    },
+    {
+      "tweetId": "2107652132677579160",
+      "role": "support",
+      "authorHandle": "wesroth",
+      "url": "https://x.com/WesRoth/status/2107652132677579160",
+      "tweetedAt": "2026-10-07T02:00:01.000Z",
+      "bestBit": "build spreadsheet formulas and charts, and even create new slides that match an existing presentation’s design",
+      "text": "Claude can now do a lot more than read your Google Workspace files.\n\nInside Docs, Sheets, and Slides, it can make edits directly in the open file, use your selected text or cells as context, build spreadsheet formulas and charts, and even create new slides that match an existing presentation’s design. \n\nUsers can approve edits one by one or let Claude apply them automatically, while separate connectors make it possible to start the same workflows from Claude itself.",
+      "quotedTweetText": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.\n\nIn Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands. https://t.co/se9wIS7vK1"
+    },
+    {
+      "tweetId": "2107532143245308227",
+      "role": "commentary",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2107532143245308227",
+      "tweetedAt": "2026-10-06T18:03:13.000Z",
+      "bestBit": "Google watching Anthropic do Gemini’s job better than them",
+      "text": "Google watching Anthropic do Gemini’s job better than them https://t.co/QZfGfiz1YZ",
+      "quotedTweetText": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.\n\nIn Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands. https://t.co/se9wIS7vK1"
+    },
+    {
+      "tweetId": "2107535483836432467",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2107535483836432467",
+      "tweetedAt": "2026-10-06T18:16:30.000Z",
+      "bestBit": "Google gets paid either way as Claude expands distribution while Anthropic remains a major Google Cloud customer",
+      "text": "Anthropic is bringing Claude directly into $GOOGL Docs, Sheets and Slides even as Gemini already lives inside same apps.\n\nGoogle gets paid either way as Claude expands distribution while Anthropic remains a major Google Cloud customer.\n\nhttps://t.co/JXowL2GYY7"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "anthropic-integrates-claude-into-google-workspace-for-first-time-c6333f0e",
+    "title": "Anthropic Integrates Claude into Google Workspace for First Time",
+    "publishedAt": "2026-10-06T18:24:18.772Z",
+    "eventTimeApprox": "2026-10-06T18:03:12.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 11,
+    "authorCount": 10
+  }
+}

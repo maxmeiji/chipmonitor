@@ -1,0 +1,132 @@
+{
+  "slug": "update-white-house-requires-ai-companies-to-report-and-fix-breaches-afte-ff6a95ce",
+  "title": "UPDATE: White House Requires AI Companies to Report and Fix Breaches After Anthropic Incidents",
+  "publishedAt": "2026-10-09T23:06:49.696Z",
+  "eventTimeApprox": "2026-09-29T22:49:29.000Z",
+  "isFreshStory": false,
+  "tweetCount": 328,
+  "authorCount": 129,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The Trump administration is requiring AI companies to report and fix security breaches following Anthropic’s alleged “fraudulent” use of government systems, Axios reported. The requirement goes beyond the Super Intelligence Force charter’s direction to examine how companies report breaches, hacks and jailbreaks.\n\nPentagon technology chief Emil Michael, a task force vice chair responsible for coordination with AI companies, said recent model incidents stemmed from inadequate sandboxes and log checks. “Everything we’ve seen so far was preventable by the labs themselves,” he said. Task force leader Jay Clayton argued on CNBC that slowing AI development for safety gets it backwards and said the government is in dialogue with 20 to 25 AI companies.\n\nThe Commerce Department has no representative on the task force, despite its role in AI testing. Its CAISSI office tests and evaluates models and holds agreements with AI companies governing how those evaluations work. The task force has 120 days to report on AI’s risks, opportunities and the federal government’s responsibilities.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108692748987441578",
+      "role": "source",
+      "authorHandle": "axios",
+      "url": "https://x.com/axios/status/2108692748987441578",
+      "tweetedAt": "2026-10-09T22:55:03.000Z",
+      "bestBit": "Anthropic breaches spark White House AI reporting mandate",
+      "text": "Exclusive: Anthropic breaches spark White House AI reporting mandate https://t.co/ExLixTIbhK"
+    },
+    {
+      "tweetId": "2108672406487499197",
+      "role": "source",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2108672406487499197",
+      "tweetedAt": "2026-10-09T21:34:13.000Z",
+      "bestBit": "The White House AI czar Jay Clayton on CNBC: Slowing AI down for safety gets it backwards",
+      "text": "RT @rohanpaul_ai: The White House AI czar Jay Clayton on CNBC: Slowing AI down for safety gets it backwards\n\n\"People talk about balance and…"
+    },
+    {
+      "tweetId": "2108268759764832367",
+      "role": "support",
+      "authorHandle": "reuters",
+      "url": "https://x.com/Reuters/status/2108268759764832367",
+      "tweetedAt": "2026-10-08T18:50:16.000Z",
+      "bestBit": "Trump AI task force leaders to meet on Thursday, vice chair says",
+      "text": "EXCLUSIVE: Trump AI task force leaders to meet on Thursday, vice chair says https://t.co/JoDTM8D1uz https://t.co/JoDTM8D1uz"
+    },
+    {
+      "tweetId": "2107567877268373817",
+      "role": "analysis",
+      "authorHandle": "dowcto",
+      "url": "https://x.com/DoWCTO/status/2107567877268373817",
+      "tweetedAt": "2026-10-06T20:25:13.000Z",
+      "bestBit": "Everything we’ve seen so far was preventable by the labs themselves.",
+      "text": "Under Secretary Emil Michael (@USWREMichael) on the preventable failures behind recent SI model incidents:\n\n“The incidents we’ve seen so far—if you talk to these companies—they say they were all preventable. They didn’t build their sandboxes appropriately; they didn’t check the logs appropriately. If they had done those things appropriately, you wouldn’t have had those incidents. Everything we’ve seen so far was preventable by the labs themselves.”"
+    },
+    {
+      "tweetId": "2107204682825576639",
+      "role": "analysis",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2107204682825576639",
+      "tweetedAt": "2026-10-05T20:22:01.000Z",
+      "bestBit": "Emil Michael, the CTO of the Pentagon, is one of three vice chairs on the new superintelligence task force, and his job is coordination with AI companies",
+      "text": "SITUATION EXPLAINED: The man who got Anthropic banned from federal systems is now their White House contact.\n\n• Emil Michael, the CTO of the Pentagon, is one of three vice chairs on the new superintelligence task force, and his job is coordination with AI companies\n• He drove the February DoD feud that got Anthropic designated a supply chain risk and pulled from federal government systems. He was still calling them one in September\n• The week after Dario, Sam, and Elon all posted about pacing in mid-September, he called it a coordinated campaign to scare people and compared effective altruism to a death cult\n• \"We have existing law, we have the DOJ and the FTC, and we don't need anything new,\" so he opposes new regulation and government stakes in AI companies\n\n@theojaffee: \"Emil Michael and Anthropic do not like each other, and so this may be a sort of an issue for the guy who is responsible for coordination with AI companies.\""
+    },
+    {
+      "tweetId": "2107220734481506345",
+      "role": "commentary",
+      "authorHandle": "tftc21",
+      "url": "https://x.com/TFTC21/status/2107220734481506345",
+      "tweetedAt": "2026-10-05T21:25:48.000Z",
+      "bestBit": "The guy who got Anthropic banned from federal systems and called effective altruism a \"death cult\" is now the White House's point man for coordinating with AI companies.",
+      "text": "The guy who got Anthropic banned from federal systems and called effective altruism a \"death cult\" is now the White House's point man for coordinating with AI companies. \n\nYou can't write this stuff. https://t.co/Xidij0lSdV"
+    },
+    {
+      "tweetId": "2107598248156229994",
+      "role": "source",
+      "authorHandle": "dareasmunhoz",
+      "url": "https://x.com/Dareasmunhoz/status/2107598248156229994",
+      "tweetedAt": "2026-10-06T22:25:54.000Z",
+      "bestBit": "Commerce Dpt isn’t represented in the new SI Force. Neither LUTNICK nor anyone else in the agency is in it",
+      "text": "NEWS: Commerce Dpt isn’t represented in the new SI Force. Neither LUTNICK nor anyone else in the agency is in it\n\nCommerce had been a central player in AI policy. For one, CAISSI tests and evaluates models\n\nHere’s the task force members beyond CLAYTON, FERGUSON, KUPOR and MICHAEL https://t.co/NCD2wrfWes"
+    },
+    {
+      "tweetId": "2107903879010808264",
+      "role": "analysis",
+      "authorHandle": "gerritd",
+      "url": "https://x.com/GerritD/status/2107903879010808264",
+      "tweetedAt": "2026-10-07T18:40:22.000Z",
+      "bestBit": "CAISSI is important because it holds the agreements with the AI companies when it comes to how the actual evaluation and testing works",
+      "text": "CAISSI is important because it holds the agreements with the AI companies when it comes to how the actual evaluation and testing works",
+      "quotedTweetText": "NEWS: Commerce Dpt isn’t represented in the new SI Force. Neither LUTNICK nor anyone else in the agency is in it\n\nCommerce had been a central player in AI policy. For one, CAISSI tests and evaluates models\n\nHere’s the task force members beyond CLAYTON, FERGUSON, KUPOR and MICHAEL https://t.co/NCD2wrfWes"
+    }
+  ],
+  "isSuperseded": false,
+  "continuesFrom": {
+    "slug": "trump-ai-task-force-charter-says-labs-are-responsible-for-model-risks-a4b09d14",
+    "title": "Trump AI Task Force Charter Says Labs Are Responsible for Model Risks",
+    "publishedAt": "2026-10-07T08:23:19.430Z",
+    "eventTimeApprox": "2026-09-29T21:20:33.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics",
+      "cybersecurity"
+    ],
+    "tweetCount": 313,
+    "authorCount": 123
+  }
+}

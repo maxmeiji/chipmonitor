@@ -1,0 +1,79 @@
+{
+  "slug": "chevron-confirms-west-texas-power-project-for-microsoft-is-on-schedule-b6acc28a",
+  "title": "Chevron Confirms West Texas Power Project for Microsoft Is on Schedule",
+  "publishedAt": "2026-10-30T13:38:39.833Z",
+  "eventTimeApprox": "2026-10-30T12:36:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "business",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "company-earnings",
+      "name": "Company Earnings"
+    },
+    {
+      "slug": "energy-markets",
+      "name": "Energy Markets"
+    },
+    {
+      "slug": "natural-gas",
+      "name": "Natural Gas"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "CVX",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Chevron Corporation",
+      "hubKey": "cvx"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    }
+  ],
+  "summary": "The energy company expects to deliver its first electricity to a new West Texas facility by 2028, following an update from its chief financial officer. Chevron stated that the natural gas power project intended for a Microsoft data center is proceeding as planned and should be fully operational by 2031.\n\nThe timeline remains firm despite a decision by Texas Governor Greg Abbott to pause permits for new digital infrastructure in the state. The update came during a review of the oil major's third-quarter results, which showed revenue of $67.80B, exceeding the $61.62B expected by analysts.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116147259310043360",
+      "role": "source",
+      "authorHandle": "stockmktnewz",
+      "url": "https://x.com/StockMKTNewz/status/2116147259310043360",
+      "tweetedAt": "2026-10-30T12:36:37.000Z",
+      "bestBit": "Its CFO says Chevron still expects first power in 2028 and a full ramp-up by 2031.",
+      "text": "CHEVRON $CVX SAYS ITS MICROSOFT $MSFT DATA CENTER POWER PROJECT IN WEST TEXAS IS STILL ON SCHEDULE\n\nThat's despite Texas Governor Greg Abbott pausing permits for new data centers, per Bloomberg.\n\nChevron will supply natural gas to power the project. Its CFO says Chevron still expects first power in 2028 and a full ramp-up by 2031.",
+      "quotedTweetText": "CHEVRON $CVX JUST REPORTED Q3 EARNINGS\n\n- Revenue: $67.80B, beating expectations of $61.62B 🟢\n- Adj EPS: $5.28, beating expectations of $4.89 🟢\n- Adj Earnings: $10.4B\n- Production: 3,980 MBOED\n- Upstream: $5.7B\n\nKey Updates:\n- Record U.S. refinery throughput: 1.09M barrels/day (nearly 98% utilization)\n- Venezuela: $7B planned investment over the next five years"
+    },
+    {
+      "tweetId": "2116158227016458251",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2116158227016458251",
+      "tweetedAt": "2026-10-30T13:20:12.000Z",
+      "bestBit": "Governor Greg Abbott’s suspension of digital infrastructure permits",
+      "text": "Chevron expects to power up a Microsoft data center project in West Texas on schedule despite Governor Greg Abbott’s suspension of digital infrastructure permits https://t.co/dELLjp4FgV"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "dream-labs-dream-1-becomes-first-robot-model-to-top-50percent-on-robodoj-4e630778",
+  "title": "Dream Labs Dream-1 Becomes First Robot Model to Top 50% on RoboDojo",
+  "publishedAt": "2026-10-20T04:41:19.511Z",
+  "eventTimeApprox": "2026-10-19T19:04:37.000Z",
+  "isFreshStory": false,
+  "tweetCount": 25,
+  "authorCount": 17,
+  "routingTopicKeys": [
+    "ai",
+    "startups",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:HGFC",
+      "kind": "private",
+      "role": "related",
+      "name": "Hugging Face",
+      "hubKey": "hugging-face"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112232409089650992/HVAkRrxa8AEYpOZ-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112232409089650992/HVAkRrxa8AEYpOZ-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "robocurve",
+      "tweetUrl": "https://x.com/robocurve/status/2112232409089650992"
+    }
+  },
+  "summary": "A new fundraise of $90M will support a foundation system that can manage two armed machines in entirely new environments. The software, called Dream-1, has reached a record 59% on the RoboDojo-RC Tier 1 benchmark, surpassing the previous 48% held by Google's Gemini 4 Argon. CEO Yoel Jang reported that 70,000 inference calls came from users in 22 countries within five hours of the API launch. The model is 1.7x faster and scores 1.3x higher than GPT-6 Astra Ultrafast, while operating 16 to 40 times cheaper than LLMs from the largest AI laboratories.\n\nDream Labs is targeting a broader user base by supporting affordable hardware, such as the $400 Microduck robot from Hugging Face, to move past the industry's current limit of 30,000 existing users. The API is currently available for $3 per hour and enables the control of bimanual robots on tasks for which they had no prior training. Jang, who previously led world models at Nvidia, stated that the company plans to add capabilities for mobile manipulation and dexterous hands as hardware costs decline.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112230668805828801",
+      "role": "source",
+      "authorHandle": "dreamlabs_ai",
+      "url": "https://x.com/dreamlabs_ai/status/2112230668805828801",
+      "tweetedAt": "2026-10-19T17:13:29.000Z",
+      "bestBit": "controls bimanual robots it has never seen, on tasks it was never shown, in places it has never been, from $3/hour",
+      "text": "Today, Dream Labs is coming out of stealth with Dream-1, a robot foundation model that controls bimanual robots it has never seen, on tasks it was never shown, in places it has never been, from $3/hour.\n\nDream API is live for everyone, today. 🧵 https://t.co/MB1snhUOAJ"
+    },
+    {
+      "tweetId": "2112232409089650992",
+      "role": "support",
+      "authorHandle": "robocurve",
+      "url": "https://x.com/robocurve/status/2112232409089650992",
+      "tweetedAt": "2026-10-19T17:20:24.000Z",
+      "bestBit": "the first to score above 50% on RoboDojo-RC Tier 1",
+      "text": "Dream-1 by Dream Labs (@dreamlabs_ai) achieves SOTA in robotics, the first to score above 50% on RoboDojo-RC Tier 1. It beats all frontier LLMs. https://t.co/eroblo2u4D"
+    },
+    {
+      "tweetId": "2112232456963444775",
+      "role": "support",
+      "authorHandle": "robocurve",
+      "url": "https://x.com/robocurve/status/2112232456963444775",
+      "tweetedAt": "2026-10-19T17:20:35.000Z",
+      "bestBit": "Dream-1 scores 1.3x higher than GPT-6 Astra Ultrafast while being 1.7x faster",
+      "text": "Dream-1 by @dreamlabs_ai beats every LLM in robotics while being faster than all of them. Dream-1 scores 1.3x higher than GPT-6 Astra Ultrafast while being 1.7x faster. https://t.co/bHrM3TVCJb"
+    },
+    {
+      "tweetId": "2112236910706090037",
+      "role": "analysis",
+      "authorHandle": "chooi_jeq",
+      "url": "https://x.com/chooi_jeq/status/2112236910706090037",
+      "tweetedAt": "2026-10-19T17:38:17.000Z",
+      "bestBit": "robotics SOTA jumped 11 points from Gemini 4 Argon (48%) to Dream-1 (59%)",
+      "text": "In six days, the robotics SOTA jumped 11 points from Gemini 4 Argon (48%) to Dream-1 (59%). Dream-1 is the first model to score above 50%.",
+      "quotedTweetText": "Dream-1 by Dream Labs (@dreamlabs_ai) achieves SOTA in robotics, the first to score above 50% on RoboDojo-RC Tier 1. It beats all frontier LLMs. https://t.co/eroblo2u4D"
+    },
+    {
+      "tweetId": "2112352717658370158",
+      "role": "source",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2112352717658370158",
+      "tweetedAt": "2026-10-20T01:18:28.000Z",
+      "bestBit": "Users from 22 different countries already signed up. They already made 70,000 inference calls",
+      "text": "Dream Labs CEO @jang_yoel reveals how Dream-1 can control robots 16-40x cheaper than LLMs from the biggest AI labs:\n\n\"It’s been five hours. Users from 22 different countries already signed up. They already made 70,000 inference calls to our model.\"\n\n\"Dream-1 controls robots that are unseen for unseen tasks, and it’s very cheap. We did a comparison, and there’s other models that can control robots, including LLMs from the big labs, but we’re 16 to 40 times cheaper. We need a robot native robot foundation model.\"\n\n\"We’ll go to mobile manipulation. Right now the robots can’t move around, but they’ll soon move around. Then dexterous hands once the hardware gets cheaper.\"\n@dreamlabs_ai",
+      "quotedTweetText": "Today, Dream Labs is coming out of stealth with Dream-1, a robot foundation model that controls bimanual robots it has never seen, on tasks it was never shown, in places it has never been, from $3/hour.\n\nDream API is live for everyone, today. 🧵 https://t.co/MB1snhUOAJ"
+    },
+    {
+      "tweetId": "2112355150224605594",
+      "role": "analysis",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2112355150224605594",
+      "tweetedAt": "2026-10-20T01:28:08.000Z",
+      "bestBit": "Hugging Face released a robot called Microduck. In four days they sold 10,000. That’s $400.",
+      "text": "Dream Labs CEO @jang_yoel explains why robotics has a 30,000-user problem, and how a $400 robot duck could change that:\n\n\"We're bounded by the number of users that have robots. The previous industry leads, AgiBot, Unitree, they sold 10,000 robots each last year. Cumulatively, there’s 30,000 robots. That means there’s only 30,000 users, and no business succeeds with 30,000 users.\"\n\n\"Hugging Face released a robot called Microduck. In four days they sold 10,000. That’s $400. It’s very cute, but it can pick up stuff and do useful stuff. We got Dream-1 to control Microducks.\"\n\n\"Previously, hardware was very expensive because the models were weak. Now they’re very capable, and they can make use of a lot of affordable hardware.\"\n@dreamlabs_ai",
+      "quotedTweetText": "when OpenAI shuts down the message boards (sound on) https://t.co/osC5QeRIsJ"
+    },
+    {
+      "tweetId": "2112396495207149603",
+      "role": "support",
+      "authorHandle": "liangsays",
+      "url": "https://x.com/liangsays/status/2112396495207149603",
+      "tweetedAt": "2026-10-20T04:12:25.000Z",
+      "bestBit": "cover @dreamlabs_ai de-stealthing with a $90m raise. @jang_yoel led world models @nvidia",
+      "text": "glad to cover @dreamlabs_ai de-stealthing with a $90m raise. @jang_yoel led world models @nvidia\n\nexciting to see a robot foundation model that controls robots it has never seen on tasks it was never shown, at $3/hour (16x cheaper - from @robocurve)\n\nthank you for coming on mts! https://t.co/henPLWXHQL",
+      "quotedTweetText": "Dream Labs CEO @jang_yoel reveals how Dream-1 can control robots 16-40x cheaper than LLMs from the biggest AI labs:\n\n\"It’s been five hours. Users from 22 different countries already signed up. They already made 70,000 inference calls to our model.\"\n\n\"Dream-1 controls robots that are unseen for unseen tasks, and it’s very cheap. We did a comparison, and there’s other models that can control robots, including LLMs from the big labs, but we’re 16 to 40 times cheaper. We need a robot native robot foundation model.\"\n\n\"We’ll go to mobile manipulation. Right now the robots can’t move around, but they’ll soon move around. Then dexterous hands once the hardware gets cheaper.\"\n@dreamlabs_ai"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "dream-labs-launches-dream-1-robot-model-at-3-per-hour-dc95120c",
+    "title": "Dream Labs Launches Dream-1 Robot Model at $3 per Hour",
+    "publishedAt": "2026-10-19T18:53:33.559Z",
+    "eventTimeApprox": "2026-10-19T17:34:06.500Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech",
+      "startups"
+    ],
+    "tweetCount": 16,
+    "authorCount": 12
+  }
+}

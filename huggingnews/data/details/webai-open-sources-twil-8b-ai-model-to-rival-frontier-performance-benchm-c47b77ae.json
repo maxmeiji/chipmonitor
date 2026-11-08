@@ -1,0 +1,64 @@
+{
+  "slug": "webai-open-sources-twil-8b-ai-model-to-rival-frontier-performance-benchm-c47b77ae",
+  "title": "webAI Open-Sources TwIL-8B AI Model to Rival Frontier Performance Benchmarks",
+  "publishedAt": "2026-11-04T19:39:00.492Z",
+  "eventTimeApprox": "2026-11-04T18:42:54.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 6,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-open-models",
+      "name": "AI Open Source"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118035011236397350/-NUI-Lc2yf8EOpA6-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118035011236397350/-NUI-Lc2yf8EOpA6-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2118033549718659072/vid/avc1/3024x2024/4LRQBx4NW5XVacSV.mp4?tag=29",
+    "credit": {
+      "handle": "davidstout",
+      "tweetUrl": "https://x.com/Davidstout/status/2118035011236397350"
+    }
+  },
+  "summary": "The new open-weight AI model from webAI scored 93% of frontier performance on coding, 92% on instruction following, and 90% on contest mathematics. Designed to run on personal hardware, the compact size of the model is intended to provide an alternative to the expensive API calls required by larger, proprietary language models.\n\nThe company's release of TwIL-8B, which utilizes 8.8B parameters, is part of a broader strategy to prioritize the efficiency and cost of completing tasks over the absolute size of the model. David Stout, who announced the launch via Hugging Face, said the goal is to create a future where intelligence can be specialized and distributed across existing user hardware.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118035011236397350",
+      "role": "source",
+      "authorHandle": "davidstout",
+      "url": "https://x.com/Davidstout/status/2118035011236397350",
+      "tweetedAt": "2026-11-04T17:37:52.000Z",
+      "bestBit": "Just 8.8 billion parameters, yet approaching frontier-model scores on several difficult benchmarks:\n\n• 93% of frontier performance on coding\n\n• 92% on instruction following\n\n• 90% on contest mathematics",
+      "text": "Modest intelligence is arriving faster than most people realize.\n\nToday, we're open-sourcing TwIL-8B.\n\nJust 8.8 billion parameters, yet approaching frontier-model scores on several difficult benchmarks:\n\n• 93% of frontier performance on coding\n\n• 92% on instruction following\n\n• 90% on contest mathematics\n\nAll from a model small enough to run on your own hardware.\n\nBut the benchmarks aren't the most important part of this announcement.\n\nFor years, the AI industry has focused on building the most capable model, regardless of the cost required to run it.\n\nI believe that equation is changing.\n\nThe next era of AI will be defined by the cost of completing work. Not simply the intelligence of the model, but how efficiently that intelligence can accomplish the task.\n\nIf a model with 8 billion parameters can reliably complete the same work as one with hundreds of billions, why pay for the larger model?\n\nAs smaller models become more capable, intelligence becomes something we can distribute, specialize, and run across the hardware we already own.\n\nThat's the future we're building at @thewebAI \n\nTwIL-8B is available today. Open weights.\n\nAnd this is just the first of several announcements we're making today.\n\nHF Link: https://t.co/3lrTfeLaeI"
+    },
+    {
+      "tweetId": "2118051377704296536",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2118051377704296536",
+      "tweetedAt": "2026-11-04T18:42:54.000Z",
+      "bestBit": "smaller models will play a significant role in more complex agentic workflows like scientific discovery and software factories",
+      "text": "Another great open-source model release. \n\nTwIL-8B shows strong results on coding, instruction-following, and math benchmarks.\n\nI'm bullish on small models we can run locally and on our own hardware.\n\nAs we unlock efficient intelligence and capabilities, smaller models will play a significant role in more complex agentic workflows like scientific discovery and software factories.",
+      "quotedTweetText": "Modest intelligence is arriving faster than most people realize.\n\nToday, we're open-sourcing TwIL-8B.\n\nJust 8.8 billion parameters, yet approaching frontier-model scores on several difficult benchmarks:\n\n• 93% of frontier performance on coding\n\n• 92% on instruction following\n\n• 90% on contest mathematics\n\nAll from a model small enough to run on your own hardware.\n\nBut the benchmarks aren't the most important part of this announcement.\n\nFor years, the AI industry has focused on building the most capable model, regardless of the cost required to run it.\n\nI believe that equation is changing.\n\nThe next era of AI will be defined by the cost of completing work. Not simply the intelligence of the model, but how efficiently that intelligence can accomplish the task.\n\nIf a model with 8 billion parameters can reliably complete the same work as one with hundreds of billions, why pay for the larger model?\n\nAs smaller models become more capable, intelligence becomes something we can distribute, specialize, and run across the hardware we already own.\n\nThat's the future we're building at @thewebAI \n\nTwIL-8B is available today. Open weights.\n\nAnd this is just the first of several announcements we're making today.\n\nHF Link: https://t.co/3lrTfeLaeI"
+    }
+  ],
+  "isSuperseded": false
+}

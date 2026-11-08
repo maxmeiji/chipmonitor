@@ -1,0 +1,129 @@
+{
+  "slug": "north-koreas-ai-missile-hits-1000-km-target-f2b1dc8c",
+  "title": "North Korea's AI Missile Hits 1,000 km Target",
+  "publishedAt": "2026-10-04T07:25:39.487Z",
+  "eventTimeApprox": "2026-10-02T21:41:28.000Z",
+  "isFreshStory": false,
+  "tweetCount": 95,
+  "authorCount": 37,
+  "routingTopicKeys": [
+    "war",
+    "geopolitics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "war",
+  "topicTags": [
+    {
+      "slug": "world",
+      "name": "World"
+    },
+    {
+      "slug": "north-korea",
+      "name": "North Korea"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2106510210873569585/HTvT3ojWsAAPgAE-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2106510210873569585/HTvT3ojWsAAPgAE-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "inbarspace",
+      "tweetUrl": "https://x.com/inbarspace/status/2106510210873569585"
+    }
+  },
+  "summary": "State media reported that an intermediate-range strategic projectile successfully completed a test flight into the Sea of Japan on Oct 3 under the supervision of Kim Jong Un and his family. The weapon struck a designated target 1,000 km away using artificial intelligence in its mid-course and terminal phases to correct its flight. Kim Yo Jong stated that the missile employs a maneuvering reentry vehicle capable of changing trajectory at low altitude to evade defensive systems, claiming such capabilities make the attacks unavoidable.\n\nThe 1,000 km range claimed by the Korean Central News Agency exceeds previous estimates from South Korean and Japanese officials, who reported a flight distance of 680 to 700 km. Some arms control analysts suggest the discrepancy may stem from radar blind spots during the missile's glide phase. The test occurred amid high tensions following a Sept 21 mine blast in the demilitarized zone that injured three South Korean soldiers, though U.S. Pacific Command noted the launch posed no immediate threat to U.S. territory or personnel.",
+  "selectedTweets": [
+    {
+      "tweetId": "2106141541085462718",
+      "role": "source",
+      "authorHandle": "sentdefender",
+      "url": "https://x.com/sentdefender/status/2106141541085462718",
+      "tweetedAt": "2026-10-02T21:57:28.000Z",
+      "bestBit": "the Japanese MOD assesses that the object has already fallen, likely in open waters.",
+      "text": "According to a release from Japan’s Ministry of Defense (MOD), “an object” that is likely a ballistic missile was launched from North Korea, in yet another test in recent weeks. Per a subsequent release, the Japanese MOD assesses that the object has already fallen, likely in open waters."
+    },
+    {
+      "tweetId": "2106175757437620629",
+      "role": "support",
+      "authorHandle": "uspacom",
+      "url": "https://x.com/USPACOM/status/2106175757437620629",
+      "tweetedAt": "2026-10-03T00:13:26.000Z",
+      "bestBit": "this event does not pose an immediate threat to U.S. personnel or territory, or to our allies.",
+      "text": "U.S. Pacific Command Statement on DPRK Missile Launch\n\nThe Democratic People’s Republic of Korea launched one ballistic missile on October 03, 2026 (KST). We are aware of the missile launch and are consulting closely with our allies and partners. Based on current assessments, this event does not pose an immediate threat to U.S. personnel or territory, or to our allies. The United States remains committed to the defense of the U.S. homeland and our allies in the region."
+    },
+    {
+      "tweetId": "2106383670353223903",
+      "role": "source",
+      "authorHandle": "clashreport",
+      "url": "https://x.com/clashreport/status/2106383670353223903",
+      "tweetedAt": "2026-10-03T13:59:36.000Z",
+      "bestBit": "capable of changing its flight path at low altitude and flying in several trajectory modes.",
+      "text": "North Korea says it test-fired an intermediate-range strategic missile using AI technology, capable of changing its flight path at low altitude and flying in several trajectory modes.\n\nKim Jong Un personally oversaw the drill. Kim Yo Jong claimed South Korea and Japan were unable to fully track the missile, saying “there is no way to avoid this attack.”"
+    },
+    {
+      "tweetId": "2106404728774984106",
+      "role": "analysis",
+      "authorHandle": "josephhdempsey",
+      "url": "https://x.com/JosephHDempsey/status/2106404728774984106",
+      "tweetedAt": "2026-10-03T15:23:17.000Z",
+      "bestBit": "The KCNA statement from Kim Yo Jong that has stirred some further ambiguity about this launch",
+      "text": "https://t.co/Gft8XFwDy1\nThe KCNA statement from Kim Yo Jong that has stirred some further ambiguity about this launch... https://t.co/HNu3lCvtv5"
+    },
+    {
+      "tweetId": "2106417261657682401",
+      "role": "commentary",
+      "authorHandle": "armscontrolwonk",
+      "url": "https://x.com/ArmsControlWonk/status/2106417261657682401",
+      "tweetedAt": "2026-10-03T16:13:05.000Z",
+      "bestBit": "ranges reported by the ROK/Japan were the booster dipping below ground radars, missing the pull-up and glide.",
+      "text": "Kim Yo Jong's comments match both the diagram the DPRK released and my own rough modeling.  I have previously worried the ranges reported by the ROK/Japan were the booster dipping below ground radars, missing the pull-up and glide.",
+      "quotedTweetText": "https://t.co/Gft8XFwDy1\nThe KCNA statement from Kim Yo Jong that has stirred some further ambiguity about this launch... https://t.co/HNu3lCvtv5"
+    },
+    {
+      "tweetId": "2106425991736529395",
+      "role": "analysis",
+      "authorHandle": "armscontrolwonk",
+      "url": "https://x.com/ArmsControlWonk/status/2106425991736529395",
+      "tweetedAt": "2026-10-03T16:47:46.000Z",
+      "bestBit": "Modeled assuming a modified Hwasong-11 booster.",
+      "text": "DPRK Missile Administration (left) v. Thrusty (right).  Modeled assuming a modified Hwasong-11 booster. https://t.co/2IJjfvYdgI",
+      "quotedTweetText": "Kim Yo Jong's comments match both the diagram the DPRK released and my own rough modeling.  I have previously worried the ranges reported by the ROK/Japan were the booster dipping below ground radars, missing the pull-up and glide."
+    },
+    {
+      "tweetId": "2106340660789846382",
+      "role": "commentary",
+      "authorHandle": "sentdefender",
+      "url": "https://x.com/sentdefender/status/2106340660789846382",
+      "tweetedAt": "2026-10-03T11:08:42.000Z",
+      "bestBit": "used AI in it mid-course and/or terminal phase for correction and a maneuvering reentry vehicle (MaRV)",
+      "text": "According to the North Korean state-run news agency KCNA, the missile tested last night was an intermediate-range ballistic missile (IRBM) that reportedly used AI in it mid-course and/or terminal phase for correction and a maneuvering reentry vehicle (MaRV), if the report is understood correctly by us. North Korean claims of AI an MaRVs during such tests is not abnormal, as such claims have been made in the past. \n\nPhoto is of a North Korean IRBM test but not the most recent one."
+    },
+    {
+      "tweetId": "2106572734771663221",
+      "role": "commentary",
+      "authorHandle": "mskristentalman",
+      "url": "https://x.com/MsKristenTalman/status/2106572734771663221",
+      "tweetedAt": "2026-10-04T02:30:52.000Z",
+      "bestBit": "Kim Jong Un is flanked by his daughter and wife for Pyongyang's hypersonic missile test",
+      "text": "With what looks like a cigarette in hand, Kim Jong Un is flanked by his daughter and wife for Pyongyang's hypersonic missile test off the eastern coast on Saturday. Family affair.... https://t.co/bNSVx1Sh0d"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "north-korea-claims-ai-use-in-intermediate-range-strategic-missile-test-ce47765a",
+    "title": "North Korea Claims AI Use in Intermediate Range Strategic Missile Test",
+    "publishedAt": "2026-10-03T10:55:24.754Z",
+    "eventTimeApprox": "2026-10-02T21:41:28.000Z",
+    "routingTopicKeys": [
+      "war",
+      "geopolitics",
+      "ai"
+    ],
+    "tweetCount": 85,
+    "authorCount": 35
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "modal-adopts-nvidia-vera-cpus-for-2x-ai-agent-throughput-910a6ecd",
+  "title": "Modal Adopts Nvidia Vera CPUs for 2x AI Agent Throughput",
+  "publishedAt": "2026-10-19T17:53:21.169Z",
+  "eventTimeApprox": "2026-10-19T15:40:55.000Z",
+  "isFreshStory": false,
+  "tweetCount": 6,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "PVT:MODL",
+      "kind": "private",
+      "role": "subject",
+      "name": "Modal Labs",
+      "hubKey": "modal-labs"
+    },
+    {
+      "ticker": "AMD",
+      "kind": "equity",
+      "role": "related",
+      "name": "Advanced Micro Devices",
+      "hubKey": "amd"
+    },
+    {
+      "ticker": "INTC",
+      "kind": "equity",
+      "role": "related",
+      "name": "Intel Corp",
+      "hubKey": "intc"
+    }
+  ],
+  "summary": "The hosting platform Modal will add Nvidia hardware to its server fleets to accelerate the execution of autonomous AI agents. The startup is deploying Vera processors alongside existing Intel and AMD chips after internal tests showed a 2x increase in throughput for agent hosting compared to those incumbent CPUs.\n\nNvidia's Vera engineering team stated that agent workloads are shifting CPU demand toward single-thread speed rather than high core counts. To support this, the chip utilizes a single compute die and custom LPDDR5X memory to reduce latency when transferring work back to GPUs.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112207373188342270",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112207373188342270",
+      "tweetedAt": "2026-10-19T15:40:55.000Z",
+      "bestBit": "plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside existing Intel and AMD chips",
+      "text": "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside existing Intel and AMD chips (@stephennellis / Reuters)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2112236085719826614",
+      "role": "support",
+      "authorHandle": "digg",
+      "url": "https://x.com/digg/status/2112236085719826614",
+      "tweetedAt": "2026-10-19T17:35:00.000Z",
+      "bestBit": "AI agents are pushing CPUs back toward single-thread speed over core counts",
+      "text": "Nvidia’s Vera team says AI agents are pushing CPUs back toward single-thread speed over core counts. The chip uses one compute die and custom LPDDR5X memory so cores can hand work back to GPUs faster.\n\nhttps://t.co/rk8mtZKcYu"
+    }
+  ],
+  "isSuperseded": false
+}

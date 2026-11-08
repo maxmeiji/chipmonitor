@@ -1,0 +1,103 @@
+{
+  "slug": "duke-energy-shifts-grid-connection-costs-to-50mw-plus-power-users-75fc40bc",
+  "title": "Duke Energy Shifts Grid Connection Costs to 50MW Plus Power Users",
+  "publishedAt": "2026-10-08T01:08:06.369Z",
+  "eventTimeApprox": "2026-10-07T21:50:39.000Z",
+  "isFreshStory": false,
+  "tweetCount": 4,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "business",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "business",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "energy-markets",
+      "name": "Energy Markets"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "DUK",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Duke Energy Corporation",
+      "hubKey": "duk"
+    },
+    {
+      "ticker": "WYFI",
+      "kind": "equity",
+      "role": "related",
+      "name": "WhiteFiber, Inc. Ordinary Shares",
+      "hubKey": "wyfi"
+    },
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "related",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "related",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "related",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "related",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "North Carolina's largest electric utility reached a deal with customer advocates and technology giants to shift the financial burden of grid expansions for data centers away from residents. Under the proposed settlement, power users consuming more than 50MW who sign electric service agreements after June 1, 2026, must pay for dedicated infrastructure upfront and provide collateral for shared transmission upgrades. The agreement is backed by Amazon, Microsoft, Google and Meta.\n\nThe proposal requires regulatory approval, with a decision expected by mid-November. While the rules will increase costs for future large-scale projects, such as a potential 200MW addition to WYFI's NC1 facility, existing developments like the current expansion of NC1 from 54MW to 99MW are unlikely to be affected.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107998194940436817",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2107998194940436817",
+      "tweetedAt": "2026-10-08T00:55:09.000Z",
+      "bestBit": "protect customers in North Carolina from some data center costs",
+      "text": "Duke Energy reached a deal with several of the world’s largest tech companies that it said would protect customers in North Carolina from some data center costs https://t.co/FrJ7vAoAlB"
+    },
+    {
+      "tweetId": "2107936270814990812",
+      "role": "commentary",
+      "authorHandle": "matthew_sigel",
+      "url": "https://x.com/matthew_sigel/status/2107936270814990812",
+      "tweetedAt": "2026-10-07T20:49:05.000Z",
+      "bestBit": "50MW customers signing ESAs after 6/1/26 would face upfront payments for dedicated infrastructure plus deposits/collateral for shared transmission upgrades",
+      "text": "$WYFI $DUK\nDUKE reached a proposed settlement with NC utility consumer advocates and other stakeholders on new large-load rules, though still subject to regulator approval.\n\n>50MW customers signing ESAs after 6/1/26 would face upfront payments for dedicated infrastructure plus deposits/collateral for shared transmission upgrades.\n>WYFI going from ~54MW to 99MW at NC1 likely unaffected.\n>WYFI NC1’s potential additional 200MW could be more expensive, with upfront infrastructure payments plus collateral for transmission upgrades.\n>NC2/3 likely fall under the new rules as well, depending on how they’re structured. Each expansion is initially expected to be ~30MW, so could potentially fall below the 50MW threshold.\n\nAdded clarity could ultimately be positive for $WYFI. Regulator decision expected by mid-November, just after the election; supports hypothesis that election will unclog some stalled projects."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "michael-burry-warns-573b-ai-finance-loop-mirrors-2000-bust-25a70719",
+  "title": "Michael Burry Warns $573B AI Finance Loop Mirrors 2000 Bust",
+  "publishedAt": "2026-10-07T04:22:36.794Z",
+  "eventTimeApprox": "2026-10-06T17:18:29.500Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "us-markets",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    },
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    },
+    {
+      "ticker": "MSFT",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Microsoft Corp",
+      "hubKey": "msft"
+    },
+    {
+      "ticker": "AMZN",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Amazon.Com Inc",
+      "hubKey": "amzn"
+    },
+    {
+      "ticker": "ORCL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Oracle Corp",
+      "hubKey": "orcl"
+    },
+    {
+      "ticker": "AVGO",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Broadcom Inc. Common Stock",
+      "hubKey": "avgo"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2107591553917079759/HT-rNc0XUAAGZ2i-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2107591553917079759/HT-rNc0XUAAGZ2i-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "burrytracker",
+      "tweetUrl": "https://x.com/burrytracker/status/2107591553917079759"
+    }
+  },
+  "summary": "A network of eight technology firms is using cross company loans and debt guarantees to sustain the current AI expansion, according to Michael Burry. Citing a report from lender Ares, Burry stated that $573B in financing over the last 12 months flows between Meta, Nvidia, Oracle, Microsoft, Amazon, OpenAI, Anthropic, and Broadcom. He warns that these firms buy from and back one another in a circular financing cycle that depends entirely on AI spending remaining constant.\n\nBurry compared this structure to the financing that led to the 2000 telecom bubble and believes the current stock market is in a stage of 'denial.' He noted that this phase historically lasts 6 to 9 months, as observed during the 2000 and 2008 crises, and argues the 'mother of all crashes' is imminent despite the S&P 500 reaching new all time highs.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107591553917079759",
+      "role": "source",
+      "authorHandle": "burrytracker",
+      "url": "https://x.com/burrytracker/status/2107591553917079759",
+      "tweetedAt": "2026-10-06T21:59:18.000Z",
+      "bestBit": "Burry shared a report from Wall Street lender Ares tracking $573B of AI financing from the last 12 months",
+      "text": "Breaking: Michael Burry says the AI boom is running on one giant loop and time is running out\n\nHere's his breakdown:\n\n1. Burry shared a report from Wall Street lender Ares tracking $573B of AI financing from the last 12 months\n\n2. All of it runs through just 8 companies: Meta, Oracle, Microsoft, Amazon, OpenAI, Anthropic, Broadcom and Nvidia\n\n3. They lend to each other, guarantee each other's debt and buy from each other, so one company's loan is backed by another company's promise to keep spending\n\n4. Every deal depends on one thing: AI spending never slowing down\n\n5. If AI revenue disappoints for even one season, the guarantees could all get called at once, right when the companies backing them are at their weakest\n\n6. Burry says it's the same circular financing that turned the 2000 telecom fiber boom into a bust\n\nBurry claims the stock market in the first stage of grief and the crash is soon"
+    },
+    {
+      "tweetId": "2107525796315218139",
+      "role": "support",
+      "authorHandle": "unusual_whales",
+      "url": "https://x.com/unusual_whales/status/2107525796315218139",
+      "tweetedAt": "2026-10-06T17:38:00.000Z",
+      "bestBit": "The stock market is quite obviously in its first stage of grief, denial. Per 2000 and 2008, this stage lasts 6-9 months.",
+      "text": "BREAKING: Michael Burry has said: The stock market is quite obviously in its first stage of grief, denial. Per 2000 and 2008, this stage lasts 6-9 months."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "michael-burry-predicts-mother-of-all-crashes-at-record-market-highs-ef2ac85a",
+    "title": "Michael Burry Predicts Mother of All Crashes at Record Market Highs",
+    "publishedAt": "2026-10-06T17:24:10.144Z",
+    "eventTimeApprox": "2026-10-06T15:35:05.000Z",
+    "routingTopicKeys": [
+      "us-markets"
+    ],
+    "tweetCount": 7,
+    "authorCount": 6
+  }
+}

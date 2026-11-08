@@ -1,0 +1,59 @@
+{
+  "slug": "aleksander-madry-rejoins-openai-to-tackle-ai-safety-and-security-f4b79bd4",
+  "title": "Aleksander Madry Rejoins OpenAI to Tackle AI Safety and Security",
+  "publishedAt": "2026-10-19T17:39:16.301Z",
+  "eventTimeApprox": "2026-10-19T17:17:40.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "summary": "Making artificial intelligence more useful for the general public was the primary focus for Aleksander Madry when he departed OpenAI a few months ago. He is now returning to the company because recent advances in model capability have made safety and security the most critical priorities for AI development.\n\nThe move follows a request from Meret, who wants Madry to help chart a path through the implications of faster AI progress. Madry will work with Meret on how these security challenges should shape the strategy of OpenAI and the rest of the AI field.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112231448103239998",
+      "role": "source",
+      "authorHandle": "aleks_madry",
+      "url": "https://x.com/aleks_madry/status/2112231448103239998",
+      "tweetedAt": "2026-10-19T17:16:35.000Z",
+      "bestBit": "getting the safety and security challenges of increasingly capable AI right has to become a central priority",
+      "text": "Personal update: Turns out that what I thought was leaving OpenAI became more of a sabbatical.\n\nWhen I left a few months ago, I felt that the most important thing to focus on was making AI more useful to people. But we’ve since entered a different regime of AI progress. One in which getting the safety and security challenges of increasingly capable AI right has to become a central priority.\n\nSo I’ll be returning to OpenAI, joining @merettm to help chart a path through these challenges.\n\nThere’s much work to do, so let’s get going."
+    },
+    {
+      "tweetId": "2112231743734579542",
+      "role": "support",
+      "authorHandle": "merettm",
+      "url": "https://x.com/merettm/status/2112231743734579542",
+      "tweetedAt": "2026-10-19T17:17:45.000Z",
+      "bestBit": "I asked Aleksander to come back to OpenAI to work with me on these topics",
+      "text": "As AI becomes more capable, I'm focused on questions around the pace and implications of progress, and how they should inform the strategy of OpenAI and across the field. I asked Aleksander to come back to OpenAI to work with me on these topics. I value his judgment and am glad to have him on the team again.",
+      "quotedTweetText": "Personal update: Turns out that what I thought was leaving OpenAI became more of a sabbatical.\n\nWhen I left a few months ago, I felt that the most important thing to focus on was making AI more useful to people. But we’ve since entered a different regime of AI progress. One in which getting the safety and security challenges of increasingly capable AI right has to become a central priority.\n\nSo I’ll be returning to OpenAI, joining @merettm to help chart a path through these challenges.\n\nThere’s much work to do, so let’s get going."
+    }
+  ],
+  "isSuperseded": false
+}

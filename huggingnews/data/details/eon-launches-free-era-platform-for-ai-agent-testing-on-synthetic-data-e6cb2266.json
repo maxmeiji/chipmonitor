@@ -1,0 +1,51 @@
+{
+  "slug": "eon-launches-free-era-platform-for-ai-agent-testing-on-synthetic-data-e6cb2266",
+  "title": "Eon Launches Free Era Platform for AI Agent Testing on Synthetic Data",
+  "publishedAt": "2026-10-05T15:54:10.209Z",
+  "eventTimeApprox": "2026-10-05T15:20:09.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "Corporate software benchmarks can now be conducted using imitation environments to prevent the exposure of sensitive proprietary records. Eon's newly released Era platform is free to use and generates simulated enterprises that mimic real organizations across systems including Salesforce, Slack, Jira, Zendesk, Gong, and Deel. Agents interface with these environments via Model Context Protocol (MCP) and API connections, where they must manage realistic data anomalies such as duplicate records and varying user permissions.\n\nThe tool allows developers to customize industry, company size, and tech stacks, with support for local deployment through Docker for continuous integration testing. Eon built the system with research partners including Nvidia, Deel, Decart, Composio, Openlayer, Eragon, and Plurai. Users can measure accuracy, latency, and cost, with the ability to reset the simulated company to test the impact of modifications to the model or agent framework.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107124107464905058",
+      "role": "source",
+      "authorHandle": "ofirehrlich",
+      "url": "https://x.com/OfirEhrlich/status/2107124107464905058",
+      "tweetedAt": "2026-10-05T15:01:50.000Z",
+      "bestBit": "generates a complete simulated enterprise that behaves like a real one across Salesforce, Slack, Jira, Zendesk, Gong, Deel and more",
+      "text": "You can’t safely test an enterprise agent on a real company’s data.\n\nSo we built a company for it to work in.\n\nEra is live today, and it’s free.\n\nIt generates a complete simulated enterprise that behaves like a real one across Salesforce, Slack, Jira, Zendesk, Gong, Deel and more, along with cloud databases and storage. Agents interact with it through live MCP and API interfaces.\n\nPeople leave. Deals change. Records get duplicated. Permissions differ across systems. And because Era generated the company, it knows the exact ground truth.\nTest, benchmark and improve agents against realistic enterprise workloads, use the failures for targeted post-training, then rerun the same environment to measure the impact.\n\nHuge thanks to our research partners @NVIDIA, @Decart, @Composio, @openlayerco, @Deel, @Eragon and @Plurai, with more coming soon."
+    },
+    {
+      "tweetId": "2107128716455510192",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2107128716455510192",
+      "tweetedAt": "2026-10-05T15:20:09.000Z",
+      "bestBit": "Reset the same company and rerun identical tasks after changing the model, prompt or agent framework",
+      "text": "Era by Eon just launched a free platform that generates complete simulated companies for testing, benchmarking and improving AI agents.\n\nResearch partners include $NVDA, Deel, Decart, Composio, Openlayer, Eragon and Plurai. \n\nDevelopers can:\n\n› Choose the industry, company size, business model, tech stack and data scale\n\n› Generate connected data across Salesforce, Slack, Jira, Zendesk, Gong, shared drives and more\n\n› Connect agents through vendor-compatible MCP and REST APIs with realistic rate limits, pagination and error codes\n\n› Reset the same company and rerun identical tasks after changing the model, prompt or agent framework\n\n› Compare agents on correctness, latency, cost, tool use and reliability\n\n› Run environments locally with Docker and integrate testing into CI \n\nEra models the structure and behavior of real enterprise data, including duplicate and stale records, without using customer content.\n\nhttps://t.co/bz5PFY47O5",
+      "quotedTweetText": "You can’t safely test an enterprise agent on a real company’s data.\n\nSo we built a company for it to work in.\n\nEra is live today, and it’s free.\n\nIt generates a complete simulated enterprise that behaves like a real one across Salesforce, Slack, Jira, Zendesk, Gong, Deel and more, along with cloud databases and storage. Agents interact with it through live MCP and API interfaces.\n\nPeople leave. Deals change. Records get duplicated. Permissions differ across systems. And because Era generated the company, it knows the exact ground truth.\nTest, benchmark and improve agents against realistic enterprise workloads, use the failures for targeted post-training, then rerun the same environment to measure the impact.\n\nHuge thanks to our research partners @NVIDIA, @Decart, @Composio, @openlayerco, @Deel, @Eragon and @Plurai, with more coming soon."
+    }
+  ],
+  "isSuperseded": false
+}

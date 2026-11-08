@@ -1,0 +1,84 @@
+{
+  "slug": "it-ai-startup-serval-hits-3b-valuation-following-150m-series-c-60575daf",
+  "title": "IT AI Startup Serval Hits $3B Valuation Following $150M Series C",
+  "publishedAt": "2026-10-29T16:23:09.975Z",
+  "eventTimeApprox": "2026-10-29T16:03:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "LCID",
+      "kind": "equity",
+      "role": "related",
+      "name": "Lucid Group, Inc. Common Stock",
+      "hubKey": "lcid"
+    },
+    {
+      "ticker": "WPP",
+      "kind": "equity",
+      "role": "related",
+      "name": "WPP PLC",
+      "hubKey": "wpp"
+    }
+  ],
+  "summary": "The latest funding event brings the total capital raised by the enterprise IT automation startup to $277M, marking its third round of investment in one year. Serval, which provides AI agents to manage IT operations such as access management, saw its valuation climb to $3B from $1B in December 2025 during the Series C round led by Sequoia.\n\nThe company will hire more than 500 employees over the next 12 months and expand its operations into London, San Francisco, New York, and Austin. Serval's clients include Lucid Motors, Fox and WPP, some of whom are using the agent platform to replace legacy IT service management software.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115804807948882039",
+      "role": "source",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2115804807948882039",
+      "tweetedAt": "2026-10-29T13:55:50.000Z",
+      "bestBit": "raised $150M led by Sequoia at a $3B valuation, up from $1B in December 2025",
+      "text": "Serval, which offers AI agents for enterprise IT operations like access management, raised $150M led by Sequoia at a $3B valuation, up from $1B in December 2025 (Harshita Mary Varghese / Reuters)\n\n(Visit Techmeme dot com for the link and full context!)"
+    },
+    {
+      "tweetId": "2115835611252666404",
+      "role": "source",
+      "authorHandle": "jakeserval",
+      "url": "https://x.com/jakeserval/status/2115835611252666404",
+      "tweetedAt": "2026-10-29T15:58:14.000Z",
+      "bestBit": "Our team has grown 10x in the last 12 months. We now serve Fox Corporation, WPP, Live Nation, Lucid Motors, and Ramp",
+      "text": "We raised a $150M Series C at a $3B valuation, led by @sequoia. Our third round in 12 months, bringing our total funding to $277M.\n\nOur team has grown 10x in the last 12 months. We now serve Fox Corporation, WPP, Live Nation, Lucid Motors, and Ramp, and many of them are fully replacing legacy platforms with @getserval.\n\nAI coding tools have transformed how engineers work. Serval brings that same power to every team, so anyone can build governed automations across the systems they already use.\n\nWe’re hiring 500+ people over the next year and expanding in San Francisco, NYC, London, Austin, and beyond.\n\nIf you’re down to take on legacy enterprise systems and transform how teams work, my cofounder @AlexAtServal and I would love to meet you.\n\nIt’s Serval now."
+    },
+    {
+      "tweetId": "2115838010759795028",
+      "role": "commentary",
+      "authorHandle": "saranormous",
+      "url": "https://x.com/saranormous/status/2115838010759795028",
+      "tweetedAt": "2026-10-29T16:07:46.000Z",
+      "bestBit": "Super impressive to see full rip and replaces for ITSM, a key “system of record” in F500 companies",
+      "text": "Super impressive to see full rip and replaces for ITSM, a key “system of record” in F500 companies\n\nServal is &lt;3 years old!\n\nIn doing diligence, I called an old friend who leads technology at a finserv firm. He was all-in\n\nIT wants codegen! And the agility that comes with it",
+      "quotedTweetText": "We raised a $150M Series C at a $3B valuation, led by @sequoia. Our third round in 12 months, bringing our total funding to $277M.\n\nOur team has grown 10x in the last 12 months. We now serve Fox Corporation, WPP, Live Nation, Lucid Motors, and Ramp, and many of them are fully replacing legacy platforms with @getserval.\n\nAI coding tools have transformed how engineers work. Serval brings that same power to every team, so anyone can build governed automations across the systems they already use.\n\nWe’re hiring 500+ people over the next year and expanding in San Francisco, NYC, London, Austin, and beyond.\n\nIf you’re down to take on legacy enterprise systems and transform how teams work, my cofounder @AlexAtServal and I would love to meet you.\n\nIt’s Serval now."
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "deepseek-to-build-8t-parameter-ai-model-using-huawei-hardware-2e5f4b85",
+  "title": "DeepSeek to Build 8T-Parameter AI Model Using Huawei Hardware",
+  "publishedAt": "2026-11-03T09:08:21.069Z",
+  "eventTimeApprox": "2026-11-03T08:39:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The developer of the V5 artificial intelligence model will leverage Huawei Ascend chips for the project's pretraining phase. DeepSeek intends to build a model with 8T parameters, a scale that has reportedly outgrown the capacity of the Nvidia clusters the firm can currently construct for its hardware roadmap.\n\nThe shift to domestic Chinese hardware involves the use of Huawei's neural processing units, including the Ascend 960DT chip which is projected for availability in the first quarter of 2027. The move marks a significant change in infrastructure for the company as it scales its next-generation large language model.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117535645153562958",
+      "role": "source",
+      "authorHandle": "zekunnnnn",
+      "url": "https://x.com/Zekunnnnn/status/2117535645153562958",
+      "tweetedAt": "2026-11-03T08:33:34.000Z",
+      "bestBit": "Ascend 960DT is expected to be ready in Q1 2027",
+      "text": "DeepSeek plans to pretrain V5 on Huawei Ascend chips. If you’ve been following DeepSeek, this isn’t much of a surprise.\n\nAnd Ascend 960DT is expected to be ready in Q1 2027. https://t.co/EGMHq9OvDG"
+    },
+    {
+      "tweetId": "2117537012303757633",
+      "role": "analysis",
+      "authorHandle": "teortaxestex",
+      "url": "https://x.com/teortaxesTex/status/2117537012303757633",
+      "tweetedAt": "2026-11-03T08:39:00.000Z",
+      "bestBit": "the 8T model will come from Huawei NPUs",
+      "text": "Obvious enough\nthey can no longer build an Nvidia cluster large enough for what they have planned. the 8T model will come from Huawei NPUs. https://t.co/vnzp4RwrYu",
+      "quotedTweetText": "DeepSeek plans to pretrain V5 on Huawei Ascend chips. If you’ve been following DeepSeek, this isn’t much of a surprise.\n\nAnd Ascend 960DT is expected to be ready in Q1 2027. https://t.co/EGMHq9OvDG"
+    }
+  ],
+  "isSuperseded": false
+}

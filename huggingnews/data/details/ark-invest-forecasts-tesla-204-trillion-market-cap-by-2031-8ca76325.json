@@ -1,0 +1,80 @@
+{
+  "slug": "ark-invest-forecasts-tesla-204-trillion-market-cap-by-2031-8ca76325",
+  "title": "ARK Invest Forecasts Tesla $20.4 Trillion Market Cap by 2031",
+  "publishedAt": "2026-10-19T23:11:23.905Z",
+  "eventTimeApprox": "2026-10-19T22:03:37.500Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 10,
+  "routingTopicKeys": [
+    "us-markets",
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-markets",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "automobile",
+      "name": "Automobile"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "TSLA",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Tesla, Inc. Common Stock",
+      "hubKey": "tsla"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112302499696636149/HVBlLFjXsAAGb3H-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112302499696636149/HVBlLFjXsAAGb3H-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "sawyermerritt",
+      "tweetUrl": "https://x.com/SawyerMerritt/status/2112302499696636149"
+    }
+  },
+  "summary": "A baseline target of $4,400 per share would give the electric car maker a total worth of $17.5T, based on a new analysis. The updated model from ARK Invest projects a bull case of $5,000 per share, which would bring Tesla's market capitalization to $20.4T by 2031. This growth is predicated on robotaxis comprising roughly 80% of the company's enterprise value, with a base case of 8.1M vehicles generating $753B in ride-hailing revenue and 1M Optimus robots bringing in $212B.\n\nTesla has completed over 1M unsupervised driverless miles across seven cities in three states in about seven months, a pace four times faster than Waymo's initial million miles, according to the model. ARK also estimates that Tesla's operational costs per mile will be about 40% lower than Waymo's next-generation fleet. Scaling the service depends on the release of FSD V15 late this year, with cumulative spending on AI infrastructure projected to rise from $7B to $225B.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112302499696636149",
+      "role": "source",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2112302499696636149",
+      "tweetedAt": "2026-10-19T21:58:55.000Z",
+      "bestBit": "projecting @Tesla could reach a $17.5 trillion valuation by 2031, and upwards of $20.4 trillion in a bull case",
+      "text": "ARK Invest has just released their new Tesla valuation model, projecting @Tesla could reach a $17.5 trillion valuation by 2031, and upwards of $20.4 trillion in a bull case.\n\nARK's 2031 Tesla base case: $4,400/share\n• ~1M Optimus robots sold externally, generating ~$212B in revenue\n• Robotaxi is ~80% of Tesla's enterprise value (down from ~90% in ARK's 2029 model)\n• ~8.1M robotaxis deployed, with ~$753B in ride-hail revenue\n• Total revenue of ~$1.45T and EBITDA of ~$902B\n• Market cap of ~$17.5T\n• Tesla's AI infrastructure spend grows from ~$7B to $225B cumulatively\n\nARK's 2031 Tesla bull case: $5,000/share\n• EV revenue (excluding credits): $355B\n• Robotaxis: 10M vehicles and $899B in ride-hail revenue\n• Energy storage: 2,693 GWh deployed and $193B in revenue\n• Optimus: 1.2M robots sold externally and $254B in revenue\n• Total revenue: $1.62T\n• EBITDA: $1.045T, a 65% margin, with a 72% gross margin\n• Market cap: $20.4T\n\nARK's model does not assume SpaceX and Tesla merge, but they estimate combined SpaceX and Tesla could generate $3.8T in revenue by 2031, with SpaceX contributing ~62%."
+    },
+    {
+      "tweetId": "2112303385081004060",
+      "role": "support",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2112303385081004060",
+      "tweetedAt": "2026-10-19T22:02:26.000Z",
+      "bestBit": "completed more than 1 million unsupervised driverless miles in ~7 months, ~4x faster than Waymo’s first million",
+      "text": "Ark Invest: \"Tesla has scaled to seven cities across three states, and has completed more than 1 million unsupervised driverless miles in ~7 months, ~4x faster than Waymo’s first million. Tesla expects the ramp to accelerate with FSD V15 late this year. Tesla has framed FSD V15 as the gating factor for scaling its robotaxi service.\"",
+      "quotedTweetText": "ARK Invest has just released their new Tesla valuation model, projecting @Tesla could reach a $17.5 trillion valuation by 2031, and upwards of $20.4 trillion in a bull case.\n\nARK's 2031 Tesla base case: $4,400/share\n• ~1M Optimus robots sold externally, generating ~$212B in revenue\n• Robotaxi is ~80% of Tesla's enterprise value (down from ~90% in ARK's 2029 model)\n• ~8.1M robotaxis deployed, with ~$753B in ride-hail revenue\n• Total revenue of ~$1.45T and EBITDA of ~$902B\n• Market cap of ~$17.5T\n• Tesla's AI infrastructure spend grows from ~$7B to $225B cumulatively\n\nARK's 2031 Tesla bull case: $5,000/share\n• EV revenue (excluding credits): $355B\n• Robotaxis: 10M vehicles and $899B in ride-hail revenue\n• Energy storage: 2,693 GWh deployed and $193B in revenue\n• Optimus: 1.2M robots sold externally and $254B in revenue\n• Total revenue: $1.62T\n• EBITDA: $1.045T, a 65% margin, with a 72% gross margin\n• Market cap: $20.4T\n\nARK's model does not assume SpaceX and Tesla merge, but they estimate combined SpaceX and Tesla could generate $3.8T in revenue by 2031, with SpaceX contributing ~62%."
+    },
+    {
+      "tweetId": "2112303933989208564",
+      "role": "support",
+      "authorHandle": "sawyermerritt",
+      "url": "https://x.com/SawyerMerritt/status/2112303933989208564",
+      "tweetedAt": "2026-10-19T22:04:37.000Z",
+      "bestBit": "Tesla’s operational costs per mile will be ~40% lower than those for Waymo’s next-gen robotaxi",
+      "text": "Ark Invest: \"Tesla added the Cybercab to its robotaxi fleet. Our research suggests that, at equal utilization rates, Tesla’s operational costs per mile will be ~40% lower than those for Waymo’s next-gen robotaxi.\" https://t.co/r5wT3muohK",
+      "quotedTweetText": "ARK Invest has just released their new Tesla valuation model, projecting @Tesla could reach a $17.5 trillion valuation by 2031, and upwards of $20.4 trillion in a bull case.\n\nARK's 2031 Tesla base case: $4,400/share\n• ~1M Optimus robots sold externally, generating ~$212B in revenue\n• Robotaxi is ~80% of Tesla's enterprise value (down from ~90% in ARK's 2029 model)\n• ~8.1M robotaxis deployed, with ~$753B in ride-hail revenue\n• Total revenue of ~$1.45T and EBITDA of ~$902B\n• Market cap of ~$17.5T\n• Tesla's AI infrastructure spend grows from ~$7B to $225B cumulatively\n\nARK's 2031 Tesla bull case: $5,000/share\n• EV revenue (excluding credits): $355B\n• Robotaxis: 10M vehicles and $899B in ride-hail revenue\n• Energy storage: 2,693 GWh deployed and $193B in revenue\n• Optimus: 1.2M robots sold externally and $254B in revenue\n• Total revenue: $1.62T\n• EBITDA: $1.045T, a 65% margin, with a 72% gross margin\n• Market cap: $20.4T\n\nARK's model does not assume SpaceX and Tesla merge, but they estimate combined SpaceX and Tesla could generate $3.8T in revenue by 2031, with SpaceX contributing ~62%."
+    }
+  ],
+  "isSuperseded": false
+}

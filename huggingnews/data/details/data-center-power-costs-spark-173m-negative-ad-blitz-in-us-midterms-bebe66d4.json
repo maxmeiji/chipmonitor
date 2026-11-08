@@ -1,0 +1,76 @@
+{
+  "slug": "data-center-power-costs-spark-173m-negative-ad-blitz-in-us-midterms-bebe66d4",
+  "title": "Data Center Power Costs Spark $173M Negative Ad Blitz in US Midterms",
+  "publishedAt": "2026-10-31T19:23:00.906Z",
+  "eventTimeApprox": "2026-10-31T15:46:00.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "us-politics",
+    "ai"
+  ],
+  "primaryRoutingTopic": "us-politics",
+  "topicTags": [
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-elections",
+      "name": "US Elections"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    }
+  ],
+  "summary": "Household energy costs are at the center of a new political conflict as candidates in four key states spent $95 million on critical advertisements targeting the energy requirements of the artificial intelligence boom. According to data from AdImpact, the total spend on negative ads regarding data centers during this year's general election reached $173 million, with the bulk of that spending concentrated in Ohio, Pennsylvania, Michigan and Wisconsin.\n\nThe campaign surge follows a nationwide rise in residential electricity prices of more than 10% since 2024, with some areas like Ohio seeing bills jump more than 20% over two years. While candidates have proposed rate freezes and new construction moratoriums to protect voters, utility companies are seeking $31 billion in rate increases this year to help fund approximately $1.3 trillion in infrastructure spending planned through 2031.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116597257214857313",
+      "role": "source",
+      "authorHandle": "alexthomp",
+      "url": "https://x.com/AlexThomp/status/2116597257214857313",
+      "tweetedAt": "2026-10-31T18:24:45.000Z",
+      "bestBit": "The top 4 states w/ $95 million in ads: all in the Rust Belt. Ohio, PA, Michigan, and Wisconsin.",
+      "text": "New w/ @hollyotterbein \n$173 million in ads—almost entirely negative—has been spent on data centers in this year's general election, per AdImpact.\nThe top 4 states w/ $95 million in ads: all in the Rust Belt.\nOhio, PA, Michigan, and Wisconsin.\n\nhttps://t.co/WG1Euq1jaF"
+    },
+    {
+      "tweetId": "2116528114302136795",
+      "role": "support",
+      "authorHandle": "marionawfal",
+      "url": "https://x.com/MarioNawfal/status/2116528114302136795",
+      "tweetedAt": "2026-10-31T13:50:00.000Z",
+      "bestBit": "In Ohio, residential electricity bills have jumped more than 20% in just two years.",
+      "text": "🇺🇸 America's AI data center boom is putting utility companies under unprecedented political pressure ahead of the midterms, with candidates from both parties promising to stop households from footing the bill for soaring electricity demand.\n\nNationwide, residential electricity prices have risen more than 10% since 2024, outpacing inflation, with particularly sharp increases in battleground states such as Ohio, Michigan and Pennsylvania.\n\nIn Ohio, residential electricity bills have jumped more than 20% in just two years.\n\nThe pressure is forcing candidates from both parties to promise action against utility companies, including freezing electricity rates, limiting profits and making data center operators cover more of their power costs.\n\nDemocratic gubernatorial candidate Amy Acton has backed a moratorium on new data centers, while Vivek has promised that Ohioans living near them would pay no electricity bills.\n\nMeanwhile, utilities are on track to request another $31 billion in rate increases this year, matching last year's record, while planning nearly $1.3 trillion in infrastructure spending over the next five years.\n\nThe industry argues that restricting rate increases could undermine investment in the power grid, but households are already struggling with bills that continue to climb.\n\nWith the midterms approaching, the cost of powering America's AI expansion is becoming an increasingly prominent political issue, particularly over who ultimately pays for it.\n\nSource: Reuters / Writer: Mhedi"
+    },
+    {
+      "tweetId": "2116580734643155324",
+      "role": "support",
+      "authorHandle": "axios",
+      "url": "https://x.com/axios/status/2116580734643155324",
+      "tweetedAt": "2026-10-31T17:19:05.000Z",
+      "bestBit": "Data centers fuel $173 million midterm ad war",
+      "text": "Data centers fuel $173 million midterm ad war https://t.co/or3AMf6r45"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "midterm-candidates-target-utility-costs-following-10percent-rise-in-us-r-d534bb7a",
+    "title": "Midterm Candidates Target Utility Costs Following 10% Rise in US Residential Power Bills",
+    "publishedAt": "2026-10-31T15:53:45.789Z",
+    "eventTimeApprox": "2026-10-31T14:03:13.000Z",
+    "routingTopicKeys": [
+      "us-politics",
+      "ai",
+      "business"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

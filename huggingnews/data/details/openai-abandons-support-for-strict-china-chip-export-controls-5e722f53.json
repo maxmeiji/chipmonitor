@@ -1,0 +1,89 @@
+{
+  "slug": "openai-abandons-support-for-strict-china-chip-export-controls-5e722f53",
+  "title": "OpenAI Abandons Support for Strict China Chip Export Controls",
+  "publishedAt": "2026-10-20T14:38:23.160Z",
+  "eventTimeApprox": "2026-10-20T14:15:01.000Z",
+  "isFreshStory": false,
+  "tweetCount": 14,
+  "authorCount": 13,
+  "routingTopicKeys": [
+    "tech",
+    "geopolitics",
+    "ai",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "politics",
+      "name": "Politics"
+    },
+    {
+      "slug": "us-foreign-policy",
+      "name": "US Foreign Policy"
+    },
+    {
+      "slug": "us-legislation",
+      "name": "US Legislation"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    },
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "The company is adjusting its political alignment to match the views of President Trump as the US government enters a lame duck congressional session. OpenAI has retreated from advocating for strict US chip export controls to China, according to sources, shifting its stance on semiconductor trade restrictions to better coordinate with the administration and potentially appease Nvidia.\n\nA congressional aide noted that the company's current silence on the issue is \"doing Nvidia’s work for it.\" Critics of the move argue that abandoning the push for rigorous controls could undermine both national security and the long-term dominance of the US in the artificial intelligence sector.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112519437983084712",
+      "role": "source",
+      "authorHandle": "politico",
+      "url": "https://x.com/politico/status/2112519437983084712",
+      "tweetedAt": "2026-10-20T12:20:57.000Z",
+      "bestBit": "As lame duck battle over chips heats up, OpenAI pulls back",
+      "text": "As lame duck battle over chips heats up, OpenAI pulls back https://t.co/qbj1CyWwx2"
+    },
+    {
+      "tweetId": "2112548144932143566",
+      "role": "commentary",
+      "authorHandle": "zachary",
+      "url": "https://x.com/Zachary/status/2112548144932143566",
+      "tweetedAt": "2026-10-20T14:15:01.000Z",
+      "bestBit": "“Silence is doing Nvidia’s work for it,\" one congressional aide says",
+      "text": "OpenAI has quietly changed its tune on restricting chip exports to China. \n\n“Silence is doing Nvidia’s work for it,\" one congressional aide says.\n\n@_arihawkins @__gabbymiller\n\nhttps://t.co/b1QFH2HVls https://t.co/jkJEQU5OxC"
+    },
+    {
+      "tweetId": "2112550446619357668",
+      "role": "commentary",
+      "authorHandle": "hamandcheese",
+      "url": "https://x.com/hamandcheese/status/2112550446619357668",
+      "tweetedAt": "2026-10-20T14:24:10.000Z",
+      "bestBit": "OpenAI has pulled back from supporting AI chip controls, seemingly to appease Nvidia",
+      "text": "OpenAI has pulled back from supporting AI chip controls, seemingly to appease Nvidia. \n\nBad for US AI dominance and national security simultaneously. \n\nGrow a spine!\n\nhttps://t.co/IGiLIwBPvA https://t.co/LuSprOIAVJ"
+    }
+  ],
+  "isSuperseded": false
+}

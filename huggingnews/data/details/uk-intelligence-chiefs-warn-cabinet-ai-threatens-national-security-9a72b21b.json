@@ -1,0 +1,56 @@
+{
+  "slug": "uk-intelligence-chiefs-warn-cabinet-ai-threatens-national-security-9a72b21b",
+  "title": "UK Intelligence Chiefs Warn Cabinet AI Threatens National Security",
+  "publishedAt": "2026-10-11T17:54:56.922Z",
+  "eventTimeApprox": "2026-10-11T11:52:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "geopolitics"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "summary": "Ken McCallum, the head of MI5, identified artificial intelligence as the most critical issue facing British ministers during a security briefing on September 8. Together with the directors of MI6 and GCHQ, McCallum warned the UK Cabinet that hostile nations, specifically Russia and Iran, and various terrorist groups are likely to weaponize the technology to destabilize the country. The briefing emphasized that AI could represent one of the most significant dangers to national security in the coming years.\n\nA government testing session this summer using high-end AI models uncovered 407 vulnerabilities across nine government bodies, including one critical flaw, for a cost of only £13,000. This warning comes as one cabinet minister compared the current state of government inaction to the onset of the 2008 financial crash. The alarms are being raised as Prime Minister Andy Burnham's AI adviser, Jade Leung, recently stepped down amid criticism that senior officials remain too analogue in their approach.",
+  "selectedTweets": [
+    {
+      "tweetId": "2109026407451959518",
+      "role": "source",
+      "authorHandle": "benrileysmith",
+      "url": "https://x.com/benrileysmith/status/2109026407451959518",
+      "tweetedAt": "2026-10-10T21:00:54.000Z",
+      "bestBit": "An 'hackathon' session using the strongest AI models held in the summer revealed 407 vulnerabilities in nine government bodies, one 'critical'",
+      "text": "EXCLUSIVE\n\nBritain's spy chiefs have warned Artificial Intelligence could represent one of the biggest threats to UK national security in the years ahead\n\nThe heads of MI5 (Ken McCallum), MI6 (Blaise Metreweli) and GCHQ (Anne Keast-Butler) gave a briefing to the Cabinet on September 8\n\nA lengthy discussion was had about how AI could be exploited by those eager to damage Britain\n\nThere are concerns about hostile states such as Russia and Iran weaponising the emerging technology, as well as terrorist groups and lone wolves\n\nMcCallum is understood to told minsters AI is \"the biggest thing you should be thinking about\"\n\nThe warning comes in Sunday Times reporting about nervousness about AI at the top of government and whether Andy Burnham is gripping it enough\n\nWe can also report:\n\n:: One cabinet minister likened the current AI moment to early stages of the Covid pandemic and 2008 crash, when warning lights were flashing but not enough action was being taken\n\n:: The Prime Minister’s AI adviser Jade Leung quietly stepped down earlier this month. There was discussion in No10 about whether to scrap the role (though it will now be kept)\n\n:: The King held an AI summit around the same time as the intel chief briefing. Senior Whitehall source on Burnham and AI: \"The spies are telling him to care. The King is telling him to care.\"\n\n:: An 'hackathon' session using the strongest AI models held in the summer revealed 407 vulnerabilities in nine government bodies, one 'critical'. The hack was done spending just £13,000.\n\n:: One Tory shadow cabinet minister believes Burnham and Healey (both last ministers in the Noughties before the 2024 victory) are too \"analogue\". \n\nOur full reporting over here 👇\nhttps://t.co/zB0C7CyLBZ"
+    },
+    {
+      "tweetId": "2109339476845592868",
+      "role": "commentary",
+      "authorHandle": "shaneharris",
+      "url": "https://x.com/shaneharris/status/2109339476845592868",
+      "tweetedAt": "2026-10-11T17:44:55.000Z",
+      "bestBit": "One cabinet minister likened the moment to the early stages of the Covid pandemic and the 2008 financial crisis, when warning lights were flashing but minimal action was taken",
+      "text": "\"One cabinet minister likened the moment to the early stages of the Covid pandemic and the 2008 financial crisis, when warning lights were flashing but minimal action was taken.\"",
+      "quotedTweetText": "EXCLUSIVE\n\nBritain's spy chiefs have warned Artificial Intelligence could represent one of the biggest threats to UK national security in the years ahead\n\nThe heads of MI5 (Ken McCallum), MI6 (Blaise Metreweli) and GCHQ (Anne Keast-Butler) gave a briefing to the Cabinet on September 8\n\nA lengthy discussion was had about how AI could be exploited by those eager to damage Britain\n\nThere are concerns about hostile states such as Russia and Iran weaponising the emerging technology, as well as terrorist groups and lone wolves\n\nMcCallum is understood to told minsters AI is \"the biggest thing you should be thinking about\"\n\nThe warning comes in Sunday Times reporting about nervousness about AI at the top of government and whether Andy Burnham is gripping it enough\n\nWe can also report:\n\n:: One cabinet minister likened the current AI moment to early stages of the Covid pandemic and 2008 crash, when warning lights were flashing but not enough action was being taken\n\n:: The Prime Minister’s AI adviser Jade Leung quietly stepped down earlier this month. There was discussion in No10 about whether to scrap the role (though it will now be kept)\n\n:: The King held an AI summit around the same time as the intel chief briefing. Senior Whitehall source on Burnham and AI: \"The spies are telling him to care. The King is telling him to care.\"\n\n:: An 'hackathon' session using the strongest AI models held in the summer revealed 407 vulnerabilities in nine government bodies, one 'critical'. The hack was done spending just £13,000.\n\n:: One Tory shadow cabinet minister believes Burnham and Healey (both last ministers in the Noughties before the 2024 victory) are too \"analogue\". \n\nOur full reporting over here 👇\nhttps://t.co/zB0C7CyLBZ"
+    }
+  ],
+  "isSuperseded": false
+}

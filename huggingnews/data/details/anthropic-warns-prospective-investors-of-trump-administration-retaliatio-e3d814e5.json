@@ -1,0 +1,64 @@
+{
+  "slug": "anthropic-warns-prospective-investors-of-trump-administration-retaliatio-e3d814e5",
+  "title": "Anthropic Warns Prospective Investors of Trump Administration Retaliation Risk",
+  "publishedAt": "2026-10-26T14:52:14.380Z",
+  "eventTimeApprox": "2026-10-26T14:37:51.000Z",
+  "isFreshStory": false,
+  "tweetCount": 13,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "ai",
+    "business",
+    "us-politics"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "stocks",
+      "name": "Stocks"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "summary": "The AI firm warned potential shareholders in its S-1 registration statement that its advocacy for AI safety could result in \"disproportionate and selective targeting\" from the Trump administration. Anthropic disclosed that while it faces risks of government retaliation over these positions, it does not plan to change its stances.\n\nThe warning was included in the company's regulatory filings as it prepares to go public.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114724840368148612",
+      "role": "source",
+      "authorHandle": "m_ccuri",
+      "url": "https://x.com/m_ccuri/status/2114724840368148612",
+      "tweetedAt": "2026-10-26T14:24:26.000Z",
+      "bestBit": "Anthropic is telling investors it could be singled out for government retaliation over its AI safety positions -- and it has no plans to back down.",
+      "text": "NEW: Anthropic is telling investors it could be singled out for government retaliation over its AI safety positions -- and it has no plans to back down.\n\nhttps://t.co/YvmCk4Tnnc"
+    },
+    {
+      "tweetId": "2114730228220412063",
+      "role": "support",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2114730228220412063",
+      "tweetedAt": "2026-10-26T14:45:50.000Z",
+      "bestBit": "Anthropic warns prospective investors that its AI safety and advocacy stances risk disproportionate and selective targeting from the Trump administration",
+      "text": "S-1: Anthropic warns prospective investors that its AI safety and advocacy stances risk disproportionate and selective targeting from the Trump administration (@m_ccuri / Axios)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false
+}

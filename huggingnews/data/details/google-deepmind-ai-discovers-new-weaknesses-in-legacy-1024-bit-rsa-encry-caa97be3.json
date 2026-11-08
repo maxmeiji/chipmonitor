@@ -1,0 +1,78 @@
+{
+  "slug": "google-deepmind-ai-discovers-new-weaknesses-in-legacy-1024-bit-rsa-encry-caa97be3",
+  "title": "Google DeepMind AI Discovers New Weaknesses in Legacy 1024-bit RSA Encryption",
+  "publishedAt": "2026-11-06T17:37:27.928Z",
+  "eventTimeApprox": "2026-11-06T17:20:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 11,
+  "authorCount": 9,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "ai",
+    "tech",
+    "crypto"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "The Google DeepMind Science team used AI agents to uncover flaws in the mathematical foundations of older digital signature protections, reducing the resources required to compromise legacy encryption. Working with cryptanalysis experts, the team identified two weaknesses in 1024-bit RSA schemes: one that makes signature forgery approximately 1,600 times more efficient and another that cuts the average cost of factoring keys in large batches by about 30 times.\n\nThe findings, which were reached in a matter of weeks, are intended to help security defenders improve encryption standards before future threats emerge. DeepMind stated that the discovery illustrates the risk of relying on the assumed hardness of older cryptographic schemes, though the results do not affect the security of modern systems such as RSA 2048.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118753824194408683",
+      "role": "source",
+      "authorHandle": "pushmeet",
+      "url": "https://x.com/pushmeet/status/2118753824194408683",
+      "tweetedAt": "2026-11-06T17:14:10.000Z",
+      "bestBit": "Working with leading cryptanalysis experts, our team showed how AI agents could make two significant cryptographic advances in just weeks, uncovering results which can bypass older digital signature protections and factor legacy 1024-bit RSA keys in bulk.",
+      "text": "The @GoogleDeepMind Science team is sharing two key cryptographic advances today uncovering weaknesses in legacy 1024-bit RSA schemes.\n\nWorking with leading cryptanalysis experts, our team  showed how AI agents could make two significant cryptographic advances in just weeks, uncovering results which can bypass older digital signature protections and factor legacy 1024-bit RSA keys in bulk.\n\nWhile these results do not affect the security of modern encryption schemes  such as RSA 2048, these results show why we must not assume the mathematical \"hardness\" of cryptographic schemes which we have relied upon in the past. It also shows how AI can help defenders improve security standards well ahead of future threats.\n\nI have written in more detail about our results, and why they are important for the future of security, in a longer essay which you can read here:\n\nhttps://t.co/K1TxNdqfQv"
+    },
+    {
+      "tweetId": "2118758337982386353",
+      "role": "support",
+      "authorHandle": "choblin29",
+      "url": "https://x.com/choblin29/status/2118758337982386353",
+      "tweetedAt": "2026-11-06T17:32:07.000Z",
+      "bestBit": "One algorithm could make signature forgery ~1,600× more efficient, while another cuts the average cost of factoring additional keys in large batches by ~30×.",
+      "text": "Holy. Google DeepMind's AI agents have discovered two new weaknesses in legacy 1024-bit RSA.\n\nOne algorithm could make signature forgery ~1,600× more efficient, while another cuts the average cost of factoring additional keys in large batches by ~30×.\n\nModern 2048-bit RSA remains secure.",
+      "quotedTweetText": "The @GoogleDeepMind Science team is sharing two key cryptographic advances today uncovering weaknesses in legacy 1024-bit RSA schemes.\n\nWorking with leading cryptanalysis experts, our team  showed how AI agents could make two significant cryptographic advances in just weeks, uncovering results which can bypass older digital signature protections and factor legacy 1024-bit RSA keys in bulk.\n\nWhile these results do not affect the security of modern encryption schemes  such as RSA 2048, these results show why we must not assume the mathematical \"hardness\" of cryptographic schemes which we have relied upon in the past. It also shows how AI can help defenders improve security standards well ahead of future threats.\n\nI have written in more detail about our results, and why they are important for the future of security, in a longer essay which you can read here:\n\nhttps://t.co/K1TxNdqfQv"
+    }
+  ],
+  "isSuperseded": false
+}

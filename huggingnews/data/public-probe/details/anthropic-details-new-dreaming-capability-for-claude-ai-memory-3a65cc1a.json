@@ -1,0 +1,82 @@
+{
+  "slug": "anthropic-details-new-dreaming-capability-for-claude-ai-memory-3a65cc1a",
+  "title": "Anthropic Details New \"Dreaming\" Capability for Claude AI Memory",
+  "publishedAt": "2026-11-06T21:59:05.266Z",
+  "eventTimeApprox": "2026-11-06T21:21:05.000Z",
+  "isFreshStory": false,
+  "tweetCount": 10,
+  "authorCount": 8,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2118815962573291545/HWeJQgWaoAEjVAu-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2118815962573291545/HWeJQgWaoAEjVAu-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "rlancemartin",
+      "tweetUrl": "https://x.com/RLanceMartin/status/2118815962573291545"
+    }
+  },
+  "summary": "The AI developer is utilizing offline compute to allow its agents to reorganize learned data and fix errors in their recall after a conversation has ended. This process, which Anthropic calls \"dreaming,\" enables the Claude AI to revisit previous transcripts to build new memory representations and correct mistakes without interacting with a user.\n\nThe memory system is modeled after how human brains process information during sleep and functions similarly to a wiki. According to the company's engineering blog, this allows the model to learn from experience and retrieve specific information more efficiently. Similar \"dreaming\" processes are also used by OpenAI for ChatGPT memories.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118814753154064501",
+      "role": "source",
+      "authorHandle": "anthropicai",
+      "url": "https://x.com/AnthropicAI/status/2118814753154064501",
+      "tweetedAt": "2026-11-06T21:16:17.000Z",
+      "bestBit": "how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time",
+      "text": "Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time. https://t.co/uUEN4bNkr9"
+    },
+    {
+      "tweetId": "2118815962573291545",
+      "role": "source",
+      "authorHandle": "rlancemartin",
+      "url": "https://x.com/RLanceMartin/status/2118815962573291545",
+      "tweetedAt": "2026-11-06T21:21:05.000Z",
+      "bestBit": "i talk about \"dreaming\" (offline compute) as a way to organize Claude's memory. it can correct mistakes, create memories, or build new representations.",
+      "text": "check out my new article in the Anthropic eng blog. \n\ni talk about \"dreaming\" (offline compute) as a way to organize Claude's memory. it can correct mistakes, create memories, or build new representations.\n\nhttps://t.co/FeMk4PqyDX https://t.co/sXvilJqHRd",
+      "quotedTweetText": "Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time. https://t.co/uUEN4bNkr9"
+    },
+    {
+      "tweetId": "2118819903943623078",
+      "role": "analysis",
+      "authorHandle": "hesamation",
+      "url": "https://x.com/Hesamation/status/2118819903943623078",
+      "tweetedAt": "2026-11-06T21:36:45.000Z",
+      "bestBit": "Anthropic inspired from how our brains organize memories during sleep to build a memory system (similar to wikis) for Claude.",
+      "text": "Anthropic inspired from how our brains organize memories during sleep to build a memory system (similar to wikis) for Claude.\n\nagents can now “dream” about past experiences: revisit its transcripts, correct mistakes, and evolve its memory wiki when not in a conversation.\n\nOpenAI also uses this process called “dreaming” for ChatGPTs memories.",
+      "quotedTweetText": "Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time. https://t.co/uUEN4bNkr9"
+    }
+  ],
+  "isSuperseded": false
+}

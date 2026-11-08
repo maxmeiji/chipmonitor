@@ -1,0 +1,72 @@
+{
+  "slug": "viggle-launches-first-physics-native-world-foundation-model-jst-2-de6f6c4c",
+  "title": "Viggle Launches First Physics Native World Foundation Model JST-2",
+  "publishedAt": "2026-10-19T18:53:07.438Z",
+  "eventTimeApprox": "2026-10-19T16:36:54.500Z",
+  "isFreshStory": false,
+  "tweetCount": 7,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112213994228297994/S6zfssphbWjDPA92-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112213994228297994/S6zfssphbWjDPA92-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2112213908387778560/vid/avc1/1280x800/-VSz0onPCMxZlYp1.mp4?tag=29",
+    "credit": {
+      "handle": "omarsar0",
+      "tweetUrl": "https://x.com/omarsar0/status/2112213994228297994"
+    }
+  },
+  "summary": "The new tool enables the creation of 3D scenes and characters with built-in motion through a single general architecture. Unlike most world models that learn in pixel or video space, this system is built entirely in 3D, which allows users to generate and expand environments in real time in a matter of seconds.\n\nViggle's JST-2 includes a PINOC MCP server that integrates with Claude Code to automate character creation and animation from text prompts. The model uses a shared skeleton for both characters and motion to eliminate the need for a separate retargeting step when assembling a scene.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112202242048528540",
+      "role": "source",
+      "authorHandle": "viggleai",
+      "url": "https://x.com/ViggleAI/status/2112202242048528540",
+      "tweetedAt": "2026-10-19T15:20:31.000Z",
+      "bestBit": "Generate a 3D scene in seconds and expand it in real time",
+      "text": "Today we are releasing JST-2, the world's first full-stack physics-native world foundation model.  \n\nMany world models learn in pixel/video space. We went back to first principles and built the entire model stack in 3D.  \n\nGenerate a 3D scene in seconds and expand it in real time. Create characters with motion built in, all through one general architecture."
+    },
+    {
+      "tweetId": "2112213994228297994",
+      "role": "analysis",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2112213994228297994",
+      "tweetedAt": "2026-10-19T16:07:13.000Z",
+      "bestBit": "Viggle's JST-2 comes with a PINOC MCP server, so one prompt to Claude Code can make the characters, animate them from text, and put the scene together",
+      "text": "Viggle's JST-2 comes with a PINOC MCP server, so one prompt to Claude Code can make the characters, animate them from text, and put the scene together. Characters and motion share one skeleton, so there's no retargeting step for the agent to choke on halfway through. Would love to see someone build a small game start to finish this way.",
+      "quotedTweetText": "Today we are releasing JST-2, the world's first full-stack physics-native world foundation model.  \n\nMany world models learn in pixel/video space. We went back to first principles and built the entire model stack in 3D.  \n\nGenerate a 3D scene in seconds and expand it in real time. Create characters with motion built in, all through one general architecture."
+    }
+  ],
+  "isSuperseded": false
+}

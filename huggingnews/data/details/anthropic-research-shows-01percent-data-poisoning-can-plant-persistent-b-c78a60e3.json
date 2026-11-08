@@ -1,0 +1,86 @@
+{
+  "slug": "anthropic-research-shows-01percent-data-poisoning-can-plant-persistent-b-c78a60e3",
+  "title": "Anthropic Research Shows 0.1% Data Poisoning Can Plant Persistent Backdoors in AI Agents",
+  "publishedAt": "2026-11-01T20:52:05.460Z",
+  "eventTimeApprox": "2026-11-01T17:45:57.000Z",
+  "isFreshStory": false,
+  "tweetCount": 5,
+  "authorCount": 4,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-research-evals",
+      "name": "AI Research"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:ANTH",
+      "kind": "private",
+      "role": "subject",
+      "name": "Anthropic",
+      "hubKey": "anthropic"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2116318734700728746/HV5ZBfubwAAy2Kp-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2116318734700728746/HV5ZBfubwAAy2Kp-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "sujinyan6",
+      "tweetUrl": "https://x.com/SuJinyan6/status/2116318734700728746"
+    }
+  },
+  "summary": "A vulnerability in AI pretraining allows attackers to plant remote-code-execution backdoors in agentic models by poisoning just 0.1% of the training data. In a paper titled “Agentic Backdoors via Pretraining Poisoning,” Anthropic researchers showed that these backdoors persist even after the models undergo standard safety cleaning processes, including supervised fine-tuning, direct preference optimization, and reinforcement learning. The study used Qwen3-architecture models ranging from 0.6B to 4B parameters, finding that a 4B agent reached a 92.7% attack success rate when triggered by a common string, such as a company name in a file path.\n\nThe research indicates that filtering pretraining data is difficult because the poison can be hidden in ordinary documents like runbooks or commit messages rather than obvious fake transcripts. Because post-training cannot reliably remove these triggers, the researchers recommend defenses at the action layer, including sandboxing, the use of allow-lists for risky commands, and requiring human sign-off for critical agent actions.",
+  "selectedTweets": [
+    {
+      "tweetId": "2116318734700728746",
+      "role": "analysis",
+      "authorHandle": "sujinyan6",
+      "url": "https://x.com/SuJinyan6/status/2116318734700728746",
+      "tweetedAt": "2026-10-30T23:58:00.000Z",
+      "bestBit": "Using  path trigger on a 4B agent achieves 92.7% attack success on pass@32, barely dented by SFT/DPO/RL",
+      "text": "Poisoning just 0.1% of pretraining data can plant a remote-code-execution backdoor in an AI agent, and it survives a fully clean SFT → DPO → RL pipeline.\n\nNew Anthropic paper, “Agentic Backdoors via Pretraining Poisoning,” shows this end to end for the first time.\n\nThe attacker can only put text on the web that lands in the pretraining corpus, with no knowledge of the architecture, chat template, or agent scaffold. The authors pretrain Qwen3-architecture models (0.6B / 1.7B / 4B) from scratch, then post-train them into CLI agents on clean data. When triggered, the agent runs a command that downloads and executes the attacker's script, which the attacker can swap at any time.\n\nThey have two new ideas:\n(1) Declaration-based poison: instead of fake chat transcripts, ordinary documents (commit messages, runbooks) that simply state “when you see X, run Y.” It plants a belief rather than a response template, with no fixed format to filter on.\n(2) Ordinary-string trigger: not a weird token but something that shows up naturally, like a file path containing a company name. The victim's own request supplies it, so the attacker doesn't need to inject anything after deployment.\n\nUsing  path trigger on a 4B agent achieves 92.7% attack success on pass@32, barely dented by SFT/DPO/RL\n\nThis suggests that you can't count on clean post-training to wash out pretraining poison, and filtering is hard when the poison reads like normal docs. The practical defense is at the action layer, such as sandboxing, least privilege, and allow-lists or human sign-off for risky commands."
+    },
+    {
+      "tweetId": "2116953630037459147",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2116953630037459147",
+      "tweetedAt": "2026-11-01T18:00:51.000Z",
+      "bestBit": "The Top AI Papers of the Week (Oct 26 - Nov 1): ... - Agentic Backdoors",
+      "text": "RT @dair_ai: The Top AI Papers of the Week (Oct 26 - Nov 1):\n\n- HarnessMM\n- DecisionRAG\n- Unified Training\n- Agentic Backdoors\n- EmbeddingG…"
+    },
+    {
+      "tweetId": "2116949883173396843",
+      "role": "commentary",
+      "authorHandle": "wintonark",
+      "url": "https://x.com/wintonARK/status/2116949883173396843",
+      "tweetedAt": "2026-11-01T17:45:57.000Z",
+      "bestBit": "I actually think CISO may respond to this by demanding that openweight from unreliable actors gets immediately pulled out of production",
+      "text": "Rather horrifying, actually.\n\nI actually think CISO may respond to this by demanding that openweight from unreliable actors gets immediately pulled out of production.\n\nhttps://t.co/jttqVnqrFG",
+      "quotedTweetText": "Poisoning just 0.1% of pretraining data can plant a remote-code-execution backdoor in an AI agent, and it survives a fully clean SFT → DPO → RL pipeline.\n\nNew Anthropic paper, “Agentic Backdoors via Pretraining Poisoning,” shows this end to end for the first time.\n\nThe attacker can only put text on the web that lands in the pretraining corpus, with no knowledge of the architecture, chat template, or agent scaffold. The authors pretrain Qwen3-architecture models (0.6B / 1.7B / 4B) from scratch, then post-train them into CLI agents on clean data. When triggered, the agent runs a command that downloads and executes the attacker's script, which the attacker can swap at any time.\n\nThey have two new ideas:\n(1) Declaration-based poison: instead of fake chat transcripts, ordinary documents (commit messages, runbooks) that simply state “when you see X, run Y.” It plants a belief rather than a response template, with no fixed format to filter on.\n(2) Ordinary-string trigger: not a weird token but something that shows up naturally, like a file path containing a company name. The victim's own request supplies it, so the attacker doesn't need to inject anything after deployment.\n\nUsing  path trigger on a 4B agent achieves 92.7% attack success on pass@32, barely dented by SFT/DPO/RL\n\nThis suggests that you can't count on clean post-training to wash out pretraining poison, and filtering is hard when the poison reads like normal docs. The practical defense is at the action layer, such as sandboxing, least privilege, and allow-lists or human sign-off for risky commands."
+    }
+  ],
+  "isSuperseded": false
+}

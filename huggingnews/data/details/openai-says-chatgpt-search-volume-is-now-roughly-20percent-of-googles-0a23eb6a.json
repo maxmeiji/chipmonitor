@@ -1,0 +1,68 @@
+{
+  "slug": "openai-says-chatgpt-search-volume-is-now-roughly-20percent-of-googles-0a23eb6a",
+  "title": "OpenAI Says ChatGPT Search Volume Is Now Roughly 20% of Google's",
+  "publishedAt": "2026-11-03T12:07:34.573Z",
+  "eventTimeApprox": "2026-11-03T11:41:48.000Z",
+  "isFreshStory": false,
+  "tweetCount": 18,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-sector-impact",
+      "name": "AI Industry"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:OPAI",
+      "kind": "private",
+      "role": "subject",
+      "name": "OpenAI",
+      "hubKey": "openai"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117587596662710535/HWLdJYqWoAA6G_n-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117587596662710535/HWLdJYqWoAA6G_n-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "tickerplus",
+      "tweetUrl": "https://x.com/tickerplus/status/2117587596662710535"
+    }
+  },
+  "summary": "The search crawler used by OpenAI processed a volume of requests equal to 18% of Googlebot's activity in October, according to web traffic monitoring. This increase in indexing is part of a broader rise in the AI company's search capabilities; OpenAI believes its internal data now shows that search-like queries on ChatGPT have reached about 20% of the volume managed by Google.\n\nThe growth in web crawling activity began accelerating in August, with weekly tracking figures rising from a range of 5.3% to 7.5% in July to a peak of 21.2% in October. In a statement to a reporter, OpenAI noted that it believes its share of search traffic is expanding quickly.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117405142873936193",
+      "role": "source",
+      "authorHandle": "kantrowitz",
+      "url": "https://x.com/Kantrowitz/status/2117405142873936193",
+      "tweetedAt": "2026-11-02T23:55:00.000Z",
+      "bestBit": "OpenAI says it has internal data that shows ChatGPT search volume is already about a fifth of Google’s",
+      "text": "New: OpenAI says it has internal data that shows ChatGPT search volume is already about a fifth of Google’s. \n\nThe company tells me it believes its share is growing quickly. More to come on Big Technology."
+    },
+    {
+      "tweetId": "2117587596662710535",
+      "role": "support",
+      "authorHandle": "tickerplus",
+      "url": "https://x.com/tickerplus/status/2117587596662710535",
+      "tweetedAt": "2026-11-03T12:00:00.000Z",
+      "bestBit": "OpenAI’s search crawler reached 18% of Googlebot’s request volume in October",
+      "text": "$GOOG OpenAI’s search crawler reached 18% of Googlebot’s request volume in October\n\nActivity accelerated in August, with weekly tracking rising from 5.3–7.5% in July to 17.5–21.2% in October https://t.co/bK2OR7emfW",
+      "quotedTweetText": "New: OpenAI says it has internal data that shows ChatGPT search volume is already about a fifth of Google’s. \n\nThe company tells me it believes its share is growing quickly. More to come on Big Technology."
+    }
+  ],
+  "isSuperseded": false
+}

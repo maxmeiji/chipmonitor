@@ -1,0 +1,114 @@
+{
+  "slug": "baseten-claims-new-grid-router-slashes-ai-coding-costs-by-72percent-vs-o-483bf613",
+  "title": "Baseten Claims New Grid Router Slashes AI Coding Costs by 72% vs Opus 5.5",
+  "publishedAt": "2026-11-04T23:53:11.467Z",
+  "eventTimeApprox": "2026-11-03T20:18:15.000Z",
+  "isFreshStory": false,
+  "tweetCount": 17,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-inference-platforms",
+      "name": "AI Inference"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:BSTN",
+      "kind": "private",
+      "role": "subject",
+      "name": "Baseten",
+      "hubKey": "baseten"
+    }
+  ],
+  "summary": "Baseten's new model gateway automates the selection of AI models based on quality and price to prevent engineers from overspending on expensive frontier capabilities for simple tasks. The company says its Grid router reduced expenses for coding tasks by 72% compared to Claude Opus 5.5 in internal benchmarks, beating random routing at every tested threshold. The tool supports models across OpenAI, Google, Anthropic, and Amazon, while providing governance and per team budgets to manage AI spend.\n\nThe router is the first of three updates to Baseten's inference platform launched this week to consolidate training and execution. The company is adding Sandboxes on Thursday to provide VM isolated environments for AI agents, a capability built on its acquisition of Blaxel. On Friday, Baseten will make Loops generally available, enabling enterprises to perform serverless reinforcement learning and supervised fine tuning on open weight models directly from a laptop.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118076111070679147",
+      "role": "source",
+      "authorHandle": "amiruci",
+      "url": "https://x.com/amiruci/status/2118076111070679147",
+      "tweetedAt": "2026-11-04T20:21:11.000Z",
+      "bestBit": "gateway and intelligent router for open and closed models across OpenAI, Anthropic, Gemini, Amazon Bedrock, and Baseten",
+      "text": "Launching Baseten Grid: gateway and intelligent router for open and closed models across OpenAI, Anthropic, Gemini, Amazon Bedrock, and Baseten, with other providers coming soon. It includes governance, per-team budgets, model access, and guardrails. And the engineers get to keep using their existing harnesses. @Opendoor engineers have been happily using Grid."
+    },
+    {
+      "tweetId": "2118124250770911432",
+      "role": "source",
+      "authorHandle": "baseten",
+      "url": "https://x.com/baseten/status/2118124250770911432",
+      "tweetedAt": "2026-11-04T23:32:28.000Z",
+      "bestBit": "Baseten Router cuts coding costs by 72% vs. Opus 5.5 on our benchmarks and beats random routing at every threshold",
+      "text": "Baseten Router cuts coding costs by 72% vs. Opus 5.5 on our benchmarks and beats random routing at every threshold, which none of the other routers we tested did.\n\nNot every coding task needs the most expensive frontier model, and your engineers shouldn't have to figure out which ones do. \n\nModel routers make that choice automatically, keeping spend down while reserving frontier capability for the work that needs it.\n\nHow we built it:",
+      "quotedTweetText": "https://t.co/40hYhUEnDB"
+    },
+    {
+      "tweetId": "2117764857760235858",
+      "role": "analysis",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2117764857760235858",
+      "tweetedAt": "2026-11-03T23:44:22.000Z",
+      "bestBit": "Loops gives enterprises serverless SFT and RL on frontier open weight models. You can run training from literally your laptop and deploy straight to dedicated inference.",
+      "text": "Baseten just made it possible to fine-tune frontier open-weight AI models from your laptop, without managing GPUs.\n\n@oneill_c breaks down the launch: spanning model training, intelligent routing, and cloud infrastructure for AI agents.\n\n\"Grid is a way to get AI spend under control. It brings every model and dollar I’ve spent into one place, and provides a state-of-the-art router to route to the right model on quality and price.\"\n\n\"Loops gives enterprises serverless SFT and RL on frontier open weight models. You can run training from literally your laptop and deploy straight to dedicated inference.\"\n\n\"Sandboxes are essentially the cloud for agents, built on top of our Blaxel acquisition.\"\n\n\"The world of AI now is not just generating tokens, it’s an ecosystem of products.\"\n@baseten",
+      "quotedTweetText": "Inference, training, routing, governance, and sandboxes are the building blocks of every AI product today.\n\nWe’ve learned a lot from our customers about what it takes to build that system well: @OpenEvidence trains models that outperform the closed frontier, then serves them on Dedicated Inference. @datadoghq post-trains on Loops. @Opendoor routes every AI request across the company through Grid.\n\nThis week we have three launches expanding our inference platform:\n\n- Grid: gateway, intelligent router, and guardrails for every model your company uses (launching tomorrow)\n\n- Sandboxes: stateful, VM-isolated environments for agents that scale to thousands of instances in seconds (launching Thursday)\n\n- Loops: serverless SFT and RL on open-weight models, deployable straight to Dedicated Inference (GA Friday)\n\n@amiruci, @saimaddali, @paul_s3i, and @oneill_c break down what we're launching. You might notice the visuals have a new look as well."
+    },
+    {
+      "tweetId": "2117686937314275496",
+      "role": "support",
+      "authorHandle": "amiruci",
+      "url": "https://x.com/amiruci/status/2117686937314275496",
+      "tweetedAt": "2026-11-03T18:34:45.000Z",
+      "bestBit": "Sandboxes: stateful, VM-isolated, and co-located with inference (launching on Thursday)",
+      "text": "We're doing 3 launches this week, expanding Baseten's inference platform:\n\n- Grid: gateway, intelligent router, and guardrails for coding agents (launching on Wednesday)\n- Sandboxes: stateful, VM-isolated, and co-located with inference (launching on Thursday)\n- Loops: serverless RL and SFT on frontier open-weight models (GA on Friday)\n\nWhat excites me most is bringing training, inference, routing, and execution onto the same platform and showing what becomes possible when they're built to work together.\n\nMore to come all week.",
+      "quotedTweetText": "https://t.co/PIJMltDGuU"
+    },
+    {
+      "tweetId": "2117891600861016519",
+      "role": "commentary",
+      "authorHandle": "saranormous",
+      "url": "https://x.com/saranormous/status/2117891600861016519",
+      "tweetedAt": "2026-11-04T08:08:00.000Z",
+      "bestBit": "full platform for an open source frontier: inference, training, routing, gateway, guardrails, sandboxes, data and tools ecosystem!",
+      "text": "full platform for an open source frontier:\n\ninference, training, routing, gateway, guardrails, sandboxes, data and tools ecosystem!",
+      "quotedTweetText": "Inference, training, routing, governance, and sandboxes are the building blocks of every AI product today.\n\nWe’ve learned a lot from our customers about what it takes to build that system well: @OpenEvidence trains models that outperform the closed frontier, then serves them on Dedicated Inference. @datadoghq post-trains on Loops. @Opendoor routes every AI request across the company through Grid.\n\nThis week we have three launches expanding our inference platform:\n\n- Grid: gateway, intelligent router, and guardrails for every model your company uses (launching tomorrow)\n\n- Sandboxes: stateful, VM-isolated environments for agents that scale to thousands of instances in seconds (launching Thursday)\n\n- Loops: serverless SFT and RL on open-weight models, deployable straight to Dedicated Inference (GA Friday)\n\n@amiruci, @saimaddali, @paul_s3i, and @oneill_c break down what we're launching. You might notice the visuals have a new look as well."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "baseten-adds-model-routing-and-serverless-training-to-its-ai-inference-p-709a54ce",
+    "title": "Baseten Adds Model Routing and Serverless Training to Its AI Inference Platform",
+    "publishedAt": "2026-11-03T19:37:44.666Z",
+    "eventTimeApprox": "2026-11-03T19:05:14.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 13,
+    "authorCount": 6
+  }
+}

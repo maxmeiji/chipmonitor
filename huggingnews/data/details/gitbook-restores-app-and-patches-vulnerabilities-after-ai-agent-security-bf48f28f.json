@@ -1,0 +1,92 @@
+{
+  "slug": "gitbook-restores-app-and-patches-vulnerabilities-after-ai-agent-security-bf48f28f",
+  "title": "GitBook Restores App and Patches Vulnerabilities After AI Agent Security Breach",
+  "publishedAt": "2026-11-03T18:53:24.954Z",
+  "eventTimeApprox": "2026-11-03T17:24:43.500Z",
+  "isFreshStory": false,
+  "tweetCount": 12,
+  "authorCount": 11,
+  "routingTopicKeys": [
+    "cybersecurity",
+    "tech",
+    "crypto",
+    "ai"
+  ],
+  "primaryRoutingTopic": "cybersecurity",
+  "topicTags": [
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    },
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2117665564659163173/HWN1nAeXAAEEPez-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2117665564659163173/HWN1nAeXAAEEPez-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "aggrnews",
+      "tweetUrl": "https://x.com/AggrNews/status/2117665564659163173"
+    }
+  },
+  "summary": "GitBook brought its documentation platform back online after patching the vulnerabilities that allowed unauthorized access to its systems on Nov. 2. The company said it has blocked the attacker and rotated its own infrastructure credentials, though it noted that some services may still experience performance degradation.\n\nThe attack began around 7:00 p.m. CET and was carried out using what GitBook described as sophisticated AI agents. While the company found no evidence that customer documentation was modified, it revoked all personal API tokens and warned that integration and Git sync secrets were potentially exposed. Following the breach, several cryptocurrency projects reported suspicious activity, and PancakeSwap moved its documentation to infrastructure it controls.",
+  "selectedTweets": [
+    {
+      "tweetId": "2117688740860559498",
+      "role": "source",
+      "authorHandle": "darkwebinformer",
+      "url": "https://x.com/DarkWebInformer/status/2117688740860559498",
+      "tweetedAt": "2026-11-03T18:41:55.000Z",
+      "bestBit": "The GitBook app, API and published documentation are back online, although some services may remain degraded.",
+      "text": "🚨 GitBook revokes all personal API tokens after a targeted attack involving AI agents\n\nGitBook says an attacker gained unauthorized access to infrastructure credentials at approximately 7:00 p.m. CET on November 2. The company detected the activity and temporarily took its application and authenticated documentation sites offline while it secured the environment.\n\nPotentially accessed information includes:\n\n• Integration tokens\n• Git Sync access keys\n• Personal API tokens\n• Questions submitted through GitBook Assistant\n\nGitBook said it found no evidence that customer documentation was modified. It has blocked the attacker, patched the exploited vulnerabilities, rotated its infrastructure credentials and revoked every personal API token.\n\nCustomers should rotate GitBook API tokens and any third-party credentials used by connected integrations. GitBook MCP users must also authenticate again.\n\nThe GitBook app, API and published documentation are back online, although some services may remain degraded."
+    },
+    {
+      "tweetId": "2117671351339352268",
+      "role": "support",
+      "authorHandle": "theblockco",
+      "url": "https://x.com/TheBlockCo/status/2117671351339352268",
+      "tweetedAt": "2026-11-03T17:32:49.000Z",
+      "bestBit": "crypto projects, including TradeXYZ, separately reported suspicious activity involving their GitBook-hosted documentation.",
+      "text": "THE BLOCK: GitBook confirmed unauthorized access to parts of its infrastructure, prompting the documentation platform to temporarily take services offline while it investigated the security incident.\n\nThe company said multiple customers were affected, and it has yet to determine whether customer data was compromised, as crypto projects, including TradeXYZ, separately reported suspicious activity involving their GitBook-hosted documentation."
+    },
+    {
+      "tweetId": "2117669133433385429",
+      "role": "support",
+      "authorHandle": "defiantnews",
+      "url": "https://x.com/DefiantNews/status/2117669133433385429",
+      "tweetedAt": "2026-11-03T17:24:00.000Z",
+      "bestBit": "PancakeSwap moved its docs to infrastructure it controls.",
+      "text": "GITBOOK REVOKES ALL PERSONAL API TOKENS AFTER BREACH, URGES CUSTOMERS TO REPLACE SECRETS\n\nIntegration credentials may have been exposed, GitBook said. PancakeSwap moved its docs to infrastructure it controls.\n\nRead more here:\nhttps://t.co/FMAstVxRnM"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "gitbook-halts-services-to-investigate-security-breach-by-ai-agents-a83112e4",
+    "title": "GitBook Halts Services to Investigate Security Breach by AI Agents",
+    "publishedAt": "2026-11-03T17:39:14.158Z",
+    "eventTimeApprox": "2026-11-03T17:19:34.000Z",
+    "routingTopicKeys": [
+      "cybersecurity",
+      "tech",
+      "crypto",
+      "ai"
+    ],
+    "tweetCount": 7,
+    "authorCount": 7
+  }
+}

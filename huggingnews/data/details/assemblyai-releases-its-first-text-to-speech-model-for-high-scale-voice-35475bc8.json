@@ -1,0 +1,85 @@
+{
+  "slug": "assemblyai-releases-its-first-text-to-speech-model-for-high-scale-voice-35475bc8",
+  "title": "AssemblyAI Releases Its First Text-to-Speech Model for High-Scale Voice Agents",
+  "publishedAt": "2026-10-28T17:09:18.150Z",
+  "eventTimeApprox": "2026-10-28T16:54:58.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 7,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115487511586001176/HVu3rlYaEAAhbzU-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115487511586001176/HVu3rlYaEAAhbzU-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "artificialanlys",
+      "tweetUrl": "https://x.com/ArtificialAnlys/status/2115487511586001176"
+    }
+  },
+  "summary": "The voice AI firm has introduced a new generative audio tool, AssemblyAI-TTS-1, intended for use in high-scale voice agents. The model is available for $15 per 1 million characters and supports more than 4,000 voices with capabilities for instant voice cloning and a time to first audio of about 90 milliseconds.\n\nThe new system recorded a generation speed of 162 characters per second, which is faster than counterparts such as ElevenLabs' Eleven v4 and Google's Gemini 3.8 Flash TTS. In evaluations by Artificial Analysis, the model ranked No. 12 in the Provider Voice Arena and No. 10 in the Controlled Voice Arena, while scoring 81.7% on the Pronunciation Robustness benchmark to place 16th overall.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115444634990088544",
+      "role": "source",
+      "authorHandle": "youvegotfox",
+      "url": "https://x.com/YouveGotFox/status/2115444634990088544",
+      "tweetedAt": "2026-10-28T14:04:38.000Z",
+      "bestBit": "Frontier quality, 80ms TTFB, instant voice cloning, 4,000+ voices, unlimited concurrency, and just $15 per 1M characters.",
+      "text": "AssemblyAI-TTS-1 is live today: our first text-to-speech model.\n\nOn accuracy + naturalness + cost, no other TTS model is better.\n\nFrontier quality, 80ms TTFB, instant voice cloning, 4,000+ voices, unlimited concurrency, and just $15 per 1M characters.\n\nMore info 👇 https://t.co/fq90WWfc16"
+    },
+    {
+      "tweetId": "2115487498248036359",
+      "role": "source",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2115487498248036359",
+      "tweetedAt": "2026-10-28T16:54:58.000Z",
+      "bestBit": "Text to Speech, Provider Voice: AssemblyAI-TTS-1 scores an Elo of 1,227 across 1,626 arena appearances, ranking #12",
+      "text": "AssemblyAI has launched its first Text to Speech model! AssemblyAI-TTS-1 enters the top 12 in our Provider Voice Arena and the top 10 in Controlled Voice\n\n@AssemblyAI has launched its first Text to Speech model, AssemblyAI-TTS-1! We evaluated its performance across both Speech Arenas and our Pronunciation Robustness benchmark.\n\nKey takeaways:\n\n➤ Text to Speech, Provider Voice: AssemblyAI-TTS-1 scores an Elo of 1,227 across 1,626 arena appearances, ranking #12, just behind Breeze TTS 2 at 1,228 and ahead of Mistral's Voxtral 3 TTS at 1,221 and Inworld's Realtime TTS-2 Flash at 1,218. It ranks #12 in both English (US) and English (UK).\n\n➤ Text to Speech, Controlled Voice: AssemblyAI-TTS-1 scores 1,110 across 1,674 appearances, ranking #10 with the same 8 cloned voices, behind Cartesia's Sonic 3.5 at 1,118 and ahead of Speechify's Simba 3.2 at 1,086. It ranks #6 in Knowledge Sharing.\n\n➤ Pronunciation Robustness: AssemblyAI-TTS-1 scores 81.7% across 2,115 rated clips, ranking #16, behind HeyGen Voice at 83.2% and ahead of Inworld Realtime TTS-2 at 80.7%. It ranks #6 in Preserving Exact Sequences at 81.5%.\n\n➤ Speed: AssemblyAI-TTS-1 generates 162 characters per second, faster than Cartesia's Sonic 3.6 at 148.6 and Mistral's Voxtral 3 TTS at 112.3.\n\n➤ Pricing: AssemblyAI-TTS-1 is priced at $15/1M characters. Of the eleven models ranked above it on Provider Voice, only two cost less: Gemini 3.8 Flash-Lite TTS at $11/1M and Simba 3.2 at $6.6/1M. Eleven v4 is $80/1M and Sonic 3.6 $49/1M.\n\nSee more details and listen to samples below ⬇️"
+    },
+    {
+      "tweetId": "2115487506359869928",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2115487506359869928",
+      "tweetedAt": "2026-10-28T16:55:00.000Z",
+      "bestBit": "AssemblyAI-TTS-1 scores 81.7% overall on the Artificial Analysis Pronunciation Robustness benchmark, ranking #16.",
+      "text": "AssemblyAI-TTS-1 scores 81.7% overall on the Artificial Analysis Pronunciation Robustness benchmark, ranking #16.\n\nPronunciation Robustness measures whether Text to Speech models correctly pronounce challenging text across four categories, with human reviewers judging each clip against pre-agreed accepted pronunciations.\n\n➤ Standalone Terms: 92.4%, ranking #11, with Fish Audio Drama 3 Preview leading at 95.9%\n\n➤ Contextually Appropriate: 90.4%, ranking #16, with Gemini 3.8 Flash TTS leading at 97.9%\n\n➤ Preserving Exact Sequences: 81.5%, ranking #6, with HeyGen Voice Turbo leading at 91.8%\n\n➤ Expanding Shorthand: 73.8%, ranking #17, with Ming-3.0-tts leading at 96.5%"
+    },
+    {
+      "tweetId": "2115487511586001176",
+      "role": "support",
+      "authorHandle": "artificialanlys",
+      "url": "https://x.com/ArtificialAnlys/status/2115487511586001176",
+      "tweetedAt": "2026-10-28T16:55:01.000Z",
+      "bestBit": "AssemblyAI-TTS-1 generates 162 characters per second, faster than Cartesia's Sonic 3.6 at 148.6, Mistral's Voxtral 3 TTS at 112.3, Speechify's Simba 3.2 at 84.9, ElevenLabs' Eleven v4 at 75.1 and Google's Gemini 3.8 Flash TTS at 53.4 characters per second.",
+      "text": "AssemblyAI-TTS-1 generates 162 characters per second, faster than Cartesia's Sonic 3.6 at 148.6, Mistral's Voxtral 3 TTS at 112.3, Speechify's Simba 3.2 at 84.9, ElevenLabs' Eleven v4 at 75.1 and Google's Gemini 3.8 Flash TTS at 53.4 characters per second.\n\nAt $15/1M characters it is also priced below Gemini 3.8 Flash TTS at $16.5/1M, Qwen-Audio-3.1-TTS-Plus at $19.3/1M, Breeze TTS 2 at $34/1M and Eleven v4 Turbo at $40/1M, though above Simba 3.2 at $6.6/1M characters."
+    }
+  ],
+  "isSuperseded": false
+}

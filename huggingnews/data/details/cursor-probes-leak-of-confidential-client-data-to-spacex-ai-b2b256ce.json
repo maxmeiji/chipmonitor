@@ -1,0 +1,75 @@
+{
+  "slug": "cursor-probes-leak-of-confidential-client-data-to-spacex-ai-b2b256ce",
+  "title": "Cursor Probes Leak of Confidential Client Data to SpaceX AI",
+  "publishedAt": "2026-10-15T18:09:18.590Z",
+  "eventTimeApprox": "2026-10-15T15:00:59.000Z",
+  "isFreshStory": false,
+  "tweetCount": 9,
+  "authorCount": 5,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    },
+    {
+      "slug": "tech",
+      "name": "Tech"
+    },
+    {
+      "slug": "cybersecurity",
+      "name": "Cybersecurity"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:CRSR",
+      "kind": "private",
+      "role": "subject",
+      "name": "Cursor",
+      "hubKey": "cursor"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "summary": "Engineers at the AI-powered code editor Cursor conducted an internal review to see if private information from users and partners leaked into the AI division of SpaceX. The investigation focused on whether confidential data was transmitted during testing of the Grok Bot, a report by The Information stated. An internal lawyer warned that using such data to train AI models could create a \"huge trust problem\" for the company.\n\nThe probe followed concerns that employees' use of the tool accidentally exposed customer and supplier data to external systems. The company's internal review sought to determine if this business information was inadvertently ingested as training data by SpaceX's AI unit.",
+  "selectedTweets": [
+    {
+      "tweetId": "2110792920479519010",
+      "role": "source",
+      "authorHandle": "theinformation",
+      "url": "https://x.com/theinformation/status/2110792920479519010",
+      "tweetedAt": "2026-10-15T18:00:23.000Z",
+      "bestBit": "Cursor engineers investigated whether confidential customer and partner data had been sent to SpaceX’s AI unit during Grok Bot testing",
+      "text": "Exclusive: Cursor engineers investigated whether confidential customer and partner data had been sent to SpaceX’s AI unit during Grok Bot testing. \n\nAn internal lawyer warned that using the data for AI training could create a “huge trust problem.” \n\nRead more: https://t.co/sLVLVwRzpM"
+    },
+    {
+      "tweetId": "2110731280019329271",
+      "role": "support",
+      "authorHandle": "steph_palazzolo",
+      "url": "https://x.com/steph_palazzolo/status/2110731280019329271",
+      "tweetedAt": "2026-10-15T13:55:27.000Z",
+      "bestBit": "worries that the company had accidentally used customer/supplier data as model training data due to Cursor engineers' usage of Grok Bot",
+      "text": "Great piece from @graceihle on data blunders at SpaceX/Cursor, including worries that the company had accidentally used customer/supplier data as model training data due to Cursor engineers' usage of Grok Bot.\n\nhttps://t.co/sN5XGbfzud"
+    }
+  ],
+  "isSuperseded": false
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "uk-growth-minister-rules-out-slowing-ai-ambitions-amid-us-data-center-ba-f9d12bd2",
+  "title": "UK Growth Minister Rules Out Slowing AI Ambitions Amid US Data Center Backlash",
+  "publishedAt": "2026-11-07T08:07:27.234Z",
+  "eventTimeApprox": "2026-11-07T05:34:21.000Z",
+  "isFreshStory": true,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "ai"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "summary": "Britain's government will proceed with its plans to expand computing infrastructure and artificial intelligence capabilities regardless of the political climate in the United States. The growth minister stated that the country remains committed to accelerating its progress in the sector, even as voters across the Atlantic increasingly oppose the construction of data centers.\n\nThe government is currently targeting 6GW of computing capacity by 2030. To meet this goal, the UK plans to provide priority grid connections for AI facilities and implement measures to reduce energy costs for operators.",
+  "selectedTweets": [
+    {
+      "tweetId": "2118940095604523166",
+      "role": "source",
+      "authorHandle": "ft",
+      "url": "https://x.com/FT/status/2118940095604523166",
+      "tweetedAt": "2026-11-07T05:34:21.000Z",
+      "bestBit": "UK will not slow down on AI despite backlash in US, says growth minister",
+      "text": "UK will not slow down on AI despite backlash in US, says growth minister https://t.co/66910UpYg6"
+    }
+  ],
+  "isSuperseded": false
+}

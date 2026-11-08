@@ -1,0 +1,126 @@
+{
+  "slug": "us-bans-third-party-ai-based-on-deepseek-from-federal-systems-03e32244",
+  "title": "US Bans Third Party AI Based on DeepSeek from Federal Systems",
+  "publishedAt": "2026-10-19T19:24:34.424Z",
+  "eventTimeApprox": "2026-10-19T14:55:41.000Z",
+  "isFreshStory": false,
+  "tweetCount": 62,
+  "authorCount": 45,
+  "routingTopicKeys": [
+    "ai",
+    "cybersecurity",
+    "us-politics",
+    "geopolitics",
+    "business"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    },
+    {
+      "slug": "ai-legal-safety",
+      "name": "AI Legal"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:DPSK",
+      "kind": "private",
+      "role": "subject",
+      "name": "DeepSeek",
+      "hubKey": "deepseek"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2112250754358788437/HVA43dvaEAAhlYN-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2112250754358788437/HVA43dvaEAAhlYN-small.jpg",
+    "mediaType": "photo",
+    "credit": {
+      "handle": "andrewcurran_",
+      "tweetUrl": "https://x.com/AndrewCurran_/status/2112250754358788437"
+    }
+  },
+  "summary": "A new security directive from the Department of Homeland Security requires US civilian government operators to scrub all technology that utilizes AI models from the Chinese startup DeepSeek, including assets sold by external vendors. This mandate, signed by DHS Secretary Markwayne Mullin on July 24 and published in the Federal Register on October 19, prohibits the procurement of software from any third party that incorporates DeepSeek implementations or affiliate products.\n\nThe order cites risks that sensitive government data could be transferred to the People's Republic of China since DeepSeek's servers are based there. DHS also flagged security vulnerabilities and potential malware within the company's iOS application as a reason for the ban. The restriction impacts a broader ecosystem of developers who use DeepSeek's open-weight models to build AI assistants and agents for federal contracts, which are now subject to a 60 day exemption window.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112204680071713061",
+      "role": "source",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2112204680071713061",
+      "tweetedAt": "2026-10-19T15:30:13.000Z",
+      "bestBit": "whose more affordable open-weight models pose an increasing challenge to Silicon Valley Valley developers",
+      "text": "The Trump administration barred civilian US government agencies from using products or services from Chinese AI startup DeepSeek, whose more affordable open-weight models pose an increasing challenge to Silicon Valley Valley developers. https://t.co/zQzXnzopAG"
+    },
+    {
+      "tweetId": "2112258732390261204",
+      "role": "source",
+      "authorHandle": "poezhao0605",
+      "url": "https://x.com/poezhao0605/status/2112258732390261204",
+      "tweetedAt": "2026-10-19T19:05:00.000Z",
+      "bestBit": "covers \"third-party products and services developed using DeepSeek implementations\"",
+      "text": "A Homeland Security order tells federal civilian agencies to remove DeepSeek products from their IT. It also covers \"third-party products and services developed using DeepSeek implementations.\"\n\nThe order's risk summary says \"DeepSeek servers are located in the PRC\" and that using its applications \"may result in the transfer of sensitive data to the PRC.\" It says the models \"may contain malware or other security vulnerabilities.\" The next sentence cites research on DeepSeek's iOS app.\n\nI read most of that evidence as being about data flow and one app: the removal line reaches further, to products other companies build on DeepSeek.\n\nIf you sell AI tools to a federal civilian agency, do you know whether any DeepSeek model sits inside them?"
+    },
+    {
+      "tweetId": "2112259788406923737",
+      "role": "commentary",
+      "authorHandle": "firstadopter",
+      "url": "https://x.com/firstadopter/status/2112259788406923737",
+      "tweetedAt": "2026-10-19T19:09:12.000Z",
+      "bestBit": "The restrictions extend to products developed by DeepSeek affiliates, as well as third-party products and services built using DeepSeek implementations",
+      "text": "Anthropic just got an IPO present from the Feds\n\nWSJ: \"The Department of Homeland Security has ordered federal civilian agencies to remove artificial-intelligence technology developed by China’s DeepSeek from their information technology systems.\n\nThe order also bars future purchases of DeepSeek’s products and services, according to a notice published by DHS.\n\nThe restrictions extend to products developed by DeepSeek affiliates, as well as third-party products and services built using DeepSeek implementations.\" https://t.co/bEtE2YTCrO"
+    },
+    {
+      "tweetId": "2112205089482174749",
+      "role": "analysis",
+      "authorHandle": "maxforai",
+      "url": "https://x.com/MaxForAI/status/2112205089482174749",
+      "tweetedAt": "2026-10-19T15:31:50.000Z",
+      "bestBit": "公告在当地时间10月19日预公开，计划10月20日正式刊登，所附命令标注的原始发布日期是7月24日",
+      "text": "🚨美国国土安全部公开了一份针对DeepSeek的禁令，禁止任何美国联邦民用政府机构采购@deepseek_ai 的模型（也包括基于DeepSeek开发的第三方产品）\n\n刚看了《联邦公报》的文件。这份公告在当地时间10月19日预公开，计划10月20日正式刊登，所附命令标注的原始发布日期是7月24日。\n\n要求里表示在采购端，要把DeepSeek及关联实体的相关产品和服务，从机构批准清单、采购平台等渠道移除；\n而在使用端，要清理机构IT系统里已经使用的相关产品。\n\n使用DeepSeek实现的第三方产品和服务，同样被纳入了范围。\n\n这份命令适用于美国联邦民用行政机构，其中国家安全系统、隔离涉密信息系统另有管理边界，国防和情报体系也属于其他权限范围。\n\nDHS给出的理由包括服务器位于中国、政府人员使用服务可能导致敏感数据外流，并援引安全研究，称DeepSeek的iOS应用存在严重漏洞。\n\n命令也设置了豁免申请程序，申请期限按命令签发日期起算60天。\n\n我更在意的是第三方产品这一条。\n\n按文件写明的范围，给这些机构提供AI助手、Agent或业务系统的团队，即使交付的是自己品牌的产品，也会受到其采用DeepSeek所带来的采购限制。\n\n文件里也没有给本地部署、第三方托管单列自动豁免。\n\n这就把影响传到了做应用的团队身上。\n\n模型由谁开发、产品由谁交付、服务部署在哪里，原本是几个可以分别选择的事情，现在底层模型的供应商，会直接影响整个产品能否进入这部分政府市场。\n\n对准备做美国政府项目的AI团队来说，选模型又多了一个很现实的条件：能力、速度、价格都合适之后，还得看客户有没有资格采购和使用。"
+    },
+    {
+      "tweetId": "2112248362548469992",
+      "role": "commentary",
+      "authorHandle": "mtslive",
+      "url": "https://x.com/MTSlive/status/2112248362548469992",
+      "tweetedAt": "2026-10-19T18:23:47.000Z",
+      "bestBit": "banning DeepSeek from all civilian federal agency IT systems under national security",
+      "text": "SITUATION DETECTED: The US government is banning DeepSeek from all civilian federal agency IT systems under national security."
+    },
+    {
+      "tweetId": "2112195991189504495",
+      "role": "commentary",
+      "authorHandle": "techmeme",
+      "url": "https://x.com/Techmeme/status/2112195991189504495",
+      "tweetedAt": "2026-10-19T14:55:41.000Z",
+      "bestBit": "orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services",
+      "text": "The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services (@connorhart22 / Wall Street Journal)\n\n(Visit Techmeme dot com for the link and full context!)"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "us-bans-deepseek-ai-from-government-systems-ahead-of-75b-ipo-206abd2e",
+    "title": "US Bans DeepSeek AI From Government Systems Ahead Of $75B IPO",
+    "publishedAt": "2026-10-19T13:40:02.215Z",
+    "eventTimeApprox": "2026-10-19T13:20:44.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "us-politics",
+      "geopolitics",
+      "business",
+      "cybersecurity"
+    ],
+    "tweetCount": 16,
+    "authorCount": 16
+  }
+}

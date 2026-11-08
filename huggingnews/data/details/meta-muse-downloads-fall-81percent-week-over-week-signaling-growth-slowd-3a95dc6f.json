@@ -1,0 +1,120 @@
+{
+  "slug": "meta-muse-downloads-fall-81percent-week-over-week-signaling-growth-slowd-3a95dc6f",
+  "title": "Meta Muse Downloads Fall 8.1% Week-Over-Week Signaling Growth Slowdown",
+  "publishedAt": "2026-10-09T17:55:21.489Z",
+  "eventTimeApprox": "2026-09-24T06:34:32.000Z",
+  "isFreshStory": false,
+  "tweetCount": 113,
+  "authorCount": 60,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    },
+    {
+      "slug": "ai-enterprise-tools",
+      "name": "AI Enterprise"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "META",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Meta Platforms, Inc. Class A Common Stock",
+      "hubKey": "meta"
+    }
+  ],
+  "summary": "Meta's newest AI agent experienced a shift in user adoption trends a month after its initial launch on September 8. Analysis from Hunterbrook shows that downloads for the Muse assistant fell 8.1% on a week-over-week basis as of October 9, indicating a deceleration in momentum for the tool that previously dominated US app store rankings.\n\nThe assistant reached 5 million downloads in less than a month, outpacing the early growth of rivals like ChatGPT, which took 56 days, according to Sensor Tower. Although daily active users peaked at 2.182 million on October 5 per Similarweb data, Meta is now integrating Muse into business workflows via Shopify, Stripe and Canva to transform its early viral interest into a consistent daily habit for professional users.",
+  "selectedTweets": [
+    {
+      "tweetId": "2108611284447220160",
+      "role": "source",
+      "authorHandle": "tradfi",
+      "url": "https://x.com/tradfi/status/2108611284447220160",
+      "tweetedAt": "2026-10-09T17:31:20.000Z",
+      "bestBit": "DOWNLOADS DROPPED 8.1% WEEK-OVER-WEEK, SIGNALING A SLOWDOWN IN USER GROWTH",
+      "text": "*META’S MUSE DOWNLOADS DROPPED 8.1% WEEK-OVER-WEEK, SIGNALING A SLOWDOWN IN USER GROWTH: HUNTERBROOK\n\n$META"
+    },
+    {
+      "tweetId": "2108160515969311140",
+      "role": "support",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2108160515969311140",
+      "tweetedAt": "2026-10-08T11:40:09.000Z",
+      "bestBit": "Muse reached ~2.2M daily users in under a month",
+      "text": "$META Muse reached ~2.2M daily users in under a month showing how quickly Meta can scale a new AI product through its existing distribution.\n\nAnd because Muse keeps working after the app closes even that number may understate how much the agent is actually being used. https://t.co/N9LjDQsRHW"
+    },
+    {
+      "tweetId": "2108103969725972503",
+      "role": "source",
+      "authorHandle": "similarweb",
+      "url": "https://x.com/Similarweb/status/2108103969725972503",
+      "tweetedAt": "2026-10-08T07:55:27.000Z",
+      "bestBit": "DAUs on @Muse keep climbing, peaking at 2.182 million on October 5th",
+      "text": "DAUs on @Muse keep climbing, peaking at 2.182 million on October 5th. https://t.co/phtmMEdeqQ"
+    },
+    {
+      "tweetId": "2105473128621318596",
+      "role": "support",
+      "authorHandle": "rohanpaul_ai",
+      "url": "https://x.com/rohanpaul_ai/status/2105473128621318596",
+      "tweetedAt": "2026-10-01T01:41:26.000Z",
+      "bestBit": "reached the milestone considerably faster than ChatGPT, Grok, and Claude, which took 56, 103, and 492 days",
+      "text": "Meta’s Muse crosses 5 million downloads and continues its 12-day streak at the top of the US App Store\n\nThat means it reached the milestone considerably faster than ChatGPT, Grok, and Claude, which took 56, 103, and 492 days\n\n- according to Sensor Tower https://t.co/YDrIt0pm67"
+    },
+    {
+      "tweetId": "2103088695259935072",
+      "role": "commentary",
+      "authorHandle": "stocksavvyshay",
+      "url": "https://x.com/StockSavvyShay/status/2103088695259935072",
+      "tweetedAt": "2026-09-24T11:46:33.000Z",
+      "bestBit": "Muse DAUs are up 10x in 11 days to ~700K",
+      "text": "$META Muse DAUs are up 10x in 11 days to ~700K with growth accelerating into the latest days instead of fading after launch.\n\nAnd it’s reportedly outpacing ChatGPT’s early trajectory before Meta has meaningfully tapped Facebook, Instagram or WhatsApp distribution. https://t.co/KsgU8VOe3I"
+    },
+    {
+      "tweetId": "2101817657510993994",
+      "role": "analysis",
+      "authorHandle": "eric_seufert",
+      "url": "https://x.com/eric_seufert/status/2101817657510993994",
+      "tweetedAt": "2026-09-20T23:35:54.000Z",
+      "bestBit": "Muse has been the #1 most-downloaded app in the US App Store since Friday",
+      "text": "Muse has been the #1 most-downloaded app in the US App Store since Friday.\n\nMeta appears to be supporting Muse with the same degree of cross-promotional push it gave Threads. Threads is still #18 in the US App Store and rolled out ads globally in January. https://t.co/9fFpzK3J1I"
+    },
+    {
+      "tweetId": "2107073645311152382",
+      "role": "commentary",
+      "authorHandle": "maxforai",
+      "url": "https://x.com/MaxForAI/status/2107073645311152382",
+      "tweetedAt": "2026-10-05T11:41:19.000Z",
+      "bestBit": "Meta 9 月 8 日正式发布 Muse，把它定位成 Personal AI Agent",
+      "text": "@Muse  的DAU，开始停止增长了。\n\n着急搞Personal Agent的家人们等一下，似乎这个品类还是伪需求。\n\n据卓哥投研笔记引用的华福证券统计，前两天爆火的Meta个人Agent产品 Muse 9 月 8 日上线，第一天全端 DAU 就接近 50 万；之后一路狂飙，半个月左右冲到 250 万。\n\n但从 9 月下旬到 10 月 1 日，Muse 的 DAU 基本一直徘徊在 250 万到 300 万之间，已经连续一周多没有明显增长。\n\n而且这是网页、iOS、Android 三端直接加总，存在用户重叠，所以真实独立 DAU 甚至还要更低。\n\nMuse 应该算今年消费级 Agent 最猛的一次冷启动之一。\n\nMeta 9 月 8 日正式发布 Muse，把它定位成 Personal AI Agent，不只是聊天，而是能直接操作网页、发邮件、订行程、跑长期任务，甚至在用户关闭 App 后继续工作。\n\n结果一个月不到，增长就开始撞墙。\n\n这可能也是现在所有 Personal Agent 都绕不开的问题：\nDemo 很震撼，下载也很容易，但到底有什么事情，是用户每天都必须让 Agent 帮自己做的？\n\n聊天产品天然有日常使用频率，搜索也有。\n\n但 Agent 不一样。\n\n订一次机票、卖一次二手、做一次调研，都可以很有价值，但不一定每天发生。\n\n所有要做Personal Agent的家人们豆需要回答一个问题：\nAgent 能不能变成一种高频习惯。\n\nMeta 显然也意识到了这个问题。\n\n9 月底 Muse 已经开始往 Shopify、QuickBooks、Stripe、Canva 这些商业工具里扩，把场景从个人助理继续往 SMB 工作流里塞。\n\n前半个月的爆火证明了大家愿意试。\n\n但最难回答的是试完之后，为什么还要每天打开它。"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "meta-muse-hits-218-million-daily-users-to-end-growth-stall-840a06c1",
+    "title": "Meta Muse Hits 2.18 Million Daily Users to End Growth Stall",
+    "publishedAt": "2026-10-08T08:09:28.889Z",
+    "eventTimeApprox": "2026-09-22T20:02:23.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "tech"
+    ],
+    "tweetCount": 106,
+    "authorCount": 57
+  }
+}

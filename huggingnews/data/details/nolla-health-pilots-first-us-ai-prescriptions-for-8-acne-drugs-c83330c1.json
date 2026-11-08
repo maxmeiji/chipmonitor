@@ -1,0 +1,96 @@
+{
+  "slug": "nolla-health-pilots-first-us-ai-prescriptions-for-8-acne-drugs-c83330c1",
+  "title": "Nolla Health Pilots First US AI Prescriptions for 8 Acne Drugs",
+  "publishedAt": "2026-10-05T16:09:18.207Z",
+  "eventTimeApprox": "2026-10-05T15:24:47.000Z",
+  "isFreshStory": false,
+  "tweetCount": 23,
+  "authorCount": 22,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-governance",
+      "name": "AI Regulation"
+    },
+    {
+      "slug": "ai-policy-regulation",
+      "name": "AI Policy"
+    }
+  ],
+  "summary": "The healthcare startup is charging $5 a month for a digital service that conducts patient intake, skin scans, and medical history reviews. Its system sends prescriptions for eight approved topical acne medications directly to pharmacies in Utah, removing the requirement for a human doctor to sign off on every individual order. The program prohibits the issuance of hormonal therapies or oral pills.\n\nClinician oversight for the pilot will be phased in, beginning with manual approval for the first 100 patients and moving to weekly reviews for the next 400. In the final phase, physicians will monitor at least 10% of prescriptions each month. This automation reduces patient costs to approximately $50 a month for compounded medications, down from the $150 to $300 typically spent on dermatology visits. State regulators granted the company a narrow exemption from laws requiring a licensed human prescriber.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107123349348298800",
+      "role": "source",
+      "authorHandle": "luiswenus",
+      "url": "https://x.com/luiswenus/status/2107123349348298800",
+      "tweetedAt": "2026-10-05T14:58:49.000Z",
+      "bestBit": "first organization in the U.S. (and possibly the world) to receive regulatory approval for an AI to issue initial prescriptions",
+      "text": "Today, Nolla Health became the first organization in the U.S. (and possibly the world) to receive regulatory approval for an AI to issue initial prescriptions.\n\nThis makes Nolla the first ever actual end-to-end AI doctor. https://t.co/xn6rvb8IyW"
+    },
+    {
+      "tweetId": "2107135237948076440",
+      "role": "support",
+      "authorHandle": "wallstengine",
+      "url": "https://x.com/wallstengine/status/2107135237948076440",
+      "tweetedAt": "2026-10-05T15:46:04.000Z",
+      "bestBit": "limited to eight approved topical acne treatments, with no pills or hormone therapies",
+      "text": "UTAH BECOMES FIRST STATE TO LET AI ISSUE PRESCRIPTIONS\n\nNolla Health is launching a Utah pilot where its AI can assess acne, review a patient’s medical history and send prescriptions directly to pharmacies without a doctor approving every prescription.\n\nThe program is limited to eight approved topical acne treatments, with no pills or hormone therapies.\n\nDoctor oversight will be phased:\n› First 100 patients: doctor approval before prescriptions are sent\n\n› Next 400: AI sends prescriptions directly, with doctors reviewing them afterward each week\n\n› After that: doctors review at least 10% of prescriptions each month\n\nUtah granted Nolla a narrow exemption from the usual requirement that a licensed human prescriber write the prescription.\n\nNolla costs about $5/month, with compounded medications around $50/month, versus roughly $150-$300 for a typical dermatology visit.\n\nhttps://t.co/SpoxqT507E",
+      "quotedTweetText": "Today, Nolla Health became the first organization in the U.S. (and possibly the world) to receive regulatory approval for an AI to issue initial prescriptions.\n\nThis makes Nolla the first ever actual end-to-end AI doctor. https://t.co/xn6rvb8IyW"
+    },
+    {
+      "tweetId": "2107064508397105554",
+      "role": "support",
+      "authorHandle": "business",
+      "url": "https://x.com/business/status/2107064508397105554",
+      "tweetedAt": "2026-10-05T11:05:00.000Z",
+      "bestBit": "offering dermatology prescriptions to Utah patients without a doctor's oversight",
+      "text": "An AI-based healthcare startup will start offering dermatology prescriptions to Utah patients without a doctor's oversight. https://t.co/dalmsQdER9"
+    },
+    {
+      "tweetId": "2107137855583597029",
+      "role": "commentary",
+      "authorHandle": "jackposobiec",
+      "url": "https://x.com/JackPosobiec/status/2107137855583597029",
+      "tweetedAt": "2026-10-05T15:56:28.000Z",
+      "bestBit": "What could go wrong",
+      "text": "What could go wrong",
+      "quotedTweetText": "Today, Nolla Health became the first organization in the U.S. (and possibly the world) to receive regulatory approval for an AI to issue initial prescriptions.\n\nThis makes Nolla the first ever actual end-to-end AI doctor. https://t.co/xn6rvb8IyW"
+    },
+    {
+      "tweetId": "2107129885000884328",
+      "role": "commentary",
+      "authorHandle": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2107129885000884328",
+      "tweetedAt": "2026-10-05T15:24:47.000Z",
+      "bestBit": "AI handles intake, a skin scan, assessment, prescription, and follow-up",
+      "text": "A big milestone for AI in healthcare.\n\n@nollahealth can now use AI to prescribe acne treatment in Utah. The AI handles intake, a skin scan, assessment, prescription, and follow-up, and a clinician steps in when needed.\n\nStarting with acne makes sense to me because it is common and relatively low risk.\n\nVery excited about AI-powered personalized healthcare. I have personally benefited from AI for health, so it's awesome to see this progress.",
+      "quotedTweetText": "Today, Nolla Health became the first organization in the U.S. (and possibly the world) to receive regulatory approval for an AI to issue initial prescriptions.\n\nThis makes Nolla the first ever actual end-to-end AI doctor. https://t.co/xn6rvb8IyW"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "nolla-health-wins-first-us-approval-for-ai-to-issue-prescriptions-81dc7ad0",
+    "title": "Nolla Health Wins First US Approval for AI to Issue Prescriptions",
+    "publishedAt": "2026-10-05T15:24:18.973Z",
+    "eventTimeApprox": "2026-10-05T14:58:49.000Z",
+    "routingTopicKeys": [
+      "ai",
+      "business"
+    ],
+    "tweetCount": 4,
+    "authorCount": 4
+  }
+}

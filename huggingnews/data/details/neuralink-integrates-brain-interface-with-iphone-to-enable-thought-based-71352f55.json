@@ -1,0 +1,88 @@
+{
+  "slug": "neuralink-integrates-brain-interface-with-iphone-to-enable-thought-based-71352f55",
+  "title": "Neuralink Integrates Brain Interface With iPhone to Enable Thought-Based Calling for ALS User",
+  "publishedAt": "2026-10-29T18:38:57.611Z",
+  "eventTimeApprox": "2026-10-29T02:09:06.000Z",
+  "isFreshStory": false,
+  "tweetCount": 16,
+  "authorCount": 12,
+  "routingTopicKeys": [
+    "tech",
+    "ai"
+  ],
+  "primaryRoutingTopic": "tech",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "PVT:NRLK",
+      "kind": "private",
+      "role": "subject",
+      "name": "Neuralink",
+      "hubKey": "neuralink"
+    },
+    {
+      "ticker": "SPCX",
+      "kind": "equity",
+      "role": "related",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "hubKey": "spcx"
+    }
+  ],
+  "image": {
+    "url": "https://static.marketbrief.now/story-media/2115865455059722735/K5rRt7IJ3Qfw-9r4-large.jpg",
+    "thumbnailUrl": "https://static.marketbrief.now/story-media/2115865455059722735/K5rRt7IJ3Qfw-9r4-small.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://video.twimg.com/amplify_video/2115865372629073920/vid/avc1/1920x1080/eb8rV30SOrcyQ598.mp4?tag=29",
+    "credit": {
+      "handle": "kekiuspisimus",
+      "tweetUrl": "https://x.com/kekiuspisimus/status/2115865455059722735"
+    }
+  },
+  "summary": "A man with ALS can now use a Neuralink brain implant to make phone calls and operate an iPhone using only his thoughts. The company spent 72 hours at the user's home testing a new system that converts neural signals into text for mobile apps and transmits brain-generated speech directly into phone calls, removing the need for a physical button or for the phone to be unlocked.\n\nThe system also includes a prototype agent for the Grok AI assistant that runs computer tasks triggered by specific mental commands. This mobile expansion follows Neuralink's Oct. 28 report that its implants enabled one trial participant to reach a communication speed of 75 words per minute with a 5.8% word error rate during their first week of use.",
+  "selectedTweets": [
+    {
+      "tweetId": "2115865455059722735",
+      "role": "source",
+      "authorHandle": "kekiuspisimus",
+      "url": "https://x.com/kekiuspisimus/status/2115865455059722735",
+      "tweetedAt": "2026-10-29T17:56:50.000Z",
+      "bestBit": "Neuralink is letting a man with ALS speak over the phone, type on an iPhone, and use Grok — with his thoughts.",
+      "text": "Neuralink is letting a man with ALS speak over the phone, type on an iPhone, and use Grok — with his thoughts.\n\nEngineers spent 72 hours at his home building and testing new features with him.\n\nWhat they worked on:\n• Auto-detecting when he tries to speak (no button needed)\n• Turning intended speech into text inside iPhone apps\n• Sending brain-generated speech directly into phone calls\n• Starting speech without unlocking his phone\n• Prototyping a Grok agent that runs computer tasks after he thinks “Hey Neuralink”\n\nOne moment stood out: he and his wife joking together over the phone again. Their relationship started with phone calls.\n\nNeuralink is helping people regain a voice and everyday moments with the people they love."
+    },
+    {
+      "tweetId": "2115534593147187397",
+      "role": "support",
+      "authorHandle": "neuralink",
+      "url": "https://x.com/neuralink/status/2115534593147187397",
+      "tweetedAt": "2026-10-28T20:02:06.000Z",
+      "bestBit": "One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
+      "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week."
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "neuralink-reports-conversational-speech-restoration-for-patients-with-al-cee4d327",
+    "title": "Neuralink Reports Conversational Speech Restoration for Patients With ALS",
+    "publishedAt": "2026-10-29T02:23:19.356Z",
+    "eventTimeApprox": "2026-10-28T21:04:14.000Z",
+    "routingTopicKeys": [
+      "tech",
+      "ai"
+    ],
+    "tweetCount": 3,
+    "authorCount": 3
+  }
+}

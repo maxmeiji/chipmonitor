@@ -1,0 +1,125 @@
+{
+  "slug": "google-nano-banana-21-beats-pro-model-at-4x-lower-cost-e912052e",
+  "title": "Google Nano Banana 2.1 Beats Pro Model at 4x Lower Cost",
+  "publishedAt": "2026-10-06T18:24:37.265Z",
+  "eventTimeApprox": "2026-10-06T16:06:31.000Z",
+  "isFreshStory": false,
+  "tweetCount": 43,
+  "authorCount": 29,
+  "routingTopicKeys": [
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "ai",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-modeling",
+      "name": "AI Models"
+    },
+    {
+      "slug": "ai-model-releases",
+      "name": "AI Releases"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-generative-media",
+      "name": "AI Media"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "GOOGL",
+      "kind": "equity",
+      "role": "subject",
+      "name": "Alphabet Inc. Class A Common Stock",
+      "hubKey": "googl"
+    }
+  ],
+  "summary": "The company's latest image generation and editing tool is now available through AI Studio, Google Cloud, and the Gemini app, with official rollout expanding to Google Ads and Search. Image output for the Nano Banana 2.1 model is priced at $30 per 1M tokens, making 1K resolution images $0.034, 2K images $0.050, and 4K images $0.076. While output costs have decreased, the price for inputs and text generation is 2.5x to 3x higher than previous versions.\n\nGoogle says Nano Banana 2.1 outperforms its previous Pro model while remaining 4x cheaper per image, offering improved in-image text rendering and grounding with Google Image Search. The model supports up to five consistent characters using 14 reference images and produces output up to 4K resolution. This release concludes a development cycle where the tool was internally referred to as \"instant-ramen\" and \"spicy-mayo\" before being rebranded from Nano Banana 2.5 Lite to 2.1 Flash.",
+  "selectedTweets": [
+    {
+      "tweetId": "2107501209154204148",
+      "role": "source",
+      "authorHandle": "google",
+      "url": "https://x.com/Google/status/2107501209154204148",
+      "tweetedAt": "2026-10-06T16:00:18.000Z",
+      "bestBit": "outperforms our previous models across the board, with notable leaps in visual design, mask-based editing, and subject consistency",
+      "text": "Meet Nano Banana 2.1, our latest image generation and editing model 🍌\n\nThis upgraded version outperforms our previous models across the board, with notable leaps in visual design, mask-based editing, and subject consistency to help you create more natural-looking images."
+    },
+    {
+      "tweetId": "2107501211532382687",
+      "role": "support",
+      "authorHandle": "google",
+      "url": "https://x.com/Google/status/2107501211532382687",
+      "tweetedAt": "2026-10-06T16:00:18.000Z",
+      "bestBit": "rolling out today across @GeminiApp, AI Mode in Search, @GoogleAIStudio, @FlowByGoogle, @StitchByGoogle, Google Ads, and Gemini Enterprise Platform",
+      "text": "Nano Banana 2.1 starts rolling out today across @GeminiApp, AI Mode in Search, @GoogleAIStudio, @FlowByGoogle, @StitchByGoogle, Google Ads, and Gemini Enterprise Platform."
+    },
+    {
+      "tweetId": "2107502894685749672",
+      "role": "source",
+      "authorHandle": "_philschmid",
+      "url": "https://x.com/_philschmid/status/2107502894685749672",
+      "tweetedAt": "2026-10-06T16:07:00.000Z",
+      "bestBit": "Outperforming previous Pro model at 4x cheaper price (now $0.034 per image vs $0.134)",
+      "text": "Nano Banana 2.1 (`gemini-nano-banana-2.1`) is now available. Outperforming previous Pro model at 4x cheaper price (now $0.034 per image vs $0.134).\n\n🕒 Improved instruction following\n🔤 Better in-image text rendering\n🔍 Grounded with Google Image Search\n🎭 up to 5 characters consistency + 14 references images\n\nAvailable in @GoogleAIStudio, the Gemini API, @googlecloud, the @GeminiApp, and @FlowbyGoogle: https://t.co/uHa7dAMKyG"
+    },
+    {
+      "tweetId": "2107497345260876141",
+      "role": "source",
+      "authorHandle": "mrfanduu",
+      "url": "https://x.com/mrfanduu/status/2107497345260876141",
+      "tweetedAt": "2026-10-06T15:44:57.000Z",
+      "bestBit": "Inputs & Text Generation: Nano Banana 2.1 costs 2.5× to 3× more",
+      "text": "Nano Banana 2.1 is live on API\n\n&gt;Inputs &amp; Text Generation: Nano Banana 2.1 costs 2.5× to 3× more.\n\n&gt; Output(Image): Nano Banana 2.1 is 50% cheaper https://t.co/DnhVaJB9VA"
+    },
+    {
+      "tweetId": "2107499443532530001",
+      "role": "analysis",
+      "authorHandle": "testingcatalog",
+      "url": "https://x.com/testingcatalog/status/2107499443532530001",
+      "tweetedAt": "2026-10-06T15:53:17.000Z",
+      "bestBit": "Output images at 4K (4096x4096px) consume 2520 tokens and cost $0.076 per image",
+      "text": "GOOGLE 🔥: Nano Banana 2.1 is rolling out on Google AI Studio, APIs, and Gemini! \n\n> \"High-quality image generation and editing model with enhanced factuality, visual fidelity, and multi-turn consistency at Flash scale.\"\n\n> Image output is priced at $30 per 1,000,000 tokens. \n\n> Output images at 1K (1024x1024px) consume 1120 tokens and cost $0.034 per image. \n\n> Output images at 2K (2048x2048px) consume 1680 tokens and cost $0.050 per image. \n\n> Output images at 4K (4096x4096px) consume 2520 tokens and cost $0.076 per image.\n\nBased on the pricing, it looks like it is a Pro model!?",
+      "quotedTweetText": "Nano Banana 2.1 is live on API\n\n&gt;Inputs &amp; Text Generation: Nano Banana 2.1 costs 2.5× to 3× more.\n\n&gt; Output(Image): Nano Banana 2.1 is 50% cheaper https://t.co/DnhVaJB9VA"
+    },
+    {
+      "tweetId": "2107295323819233403",
+      "role": "analysis",
+      "authorHandle": "lyraxana",
+      "url": "https://x.com/lyraxana/status/2107295323819233403",
+      "tweetedAt": "2026-10-06T02:22:11.000Z",
+      "bestBit": "renamed Nano Banana 2.5 to Nano Banana 2.1 but also changed it from Lite to Flash",
+      "text": "It took them a while because the whole process was a mess.\n\n- June 16: The very first checkpoint, `instant-ramen`, landed on Arena. It was Nano Banana 2 Lite.\n- August 28: A new checkpoint called `instant-ramen-v2` was released. It should have been Nano Banana 2.5 Lite.\n- August 30: `instant-ramen-v2` was renamed to `spicy-mayo`.\n- September 18: Partners got access to `spicy-mayo` via Vertex under the model ID `nano-banana-2.5`.\n- October 2: The string `IMAGE_GENERATOR_GEMPIX_2P5_FLASH` appeared in the Google Notebook mobile app.\n\nIn the Gemini web and mobile app, the underlying config for Nano Banana 2.1 is called `IMAGE_GENERATOR_GEMPIX_2P5_FLASH`.\nThis means they not only renamed Nano Banana 2.5 to Nano Banana 2.1 but also changed it from Lite to Flash.",
+      "quotedTweetText": "Nano Banana 2.5 (`spicy-mayo`) has been deployed and will be released in the upcoming week.\n\nPartners got access through Vertex under the model name `nano-banana-2.5` with thinking levels `minimal`, `medium`, `high` and image sizes `512`, `1K`, `2K`, `4K`. https://t.co/EPRnh7gLlp"
+    },
+    {
+      "tweetId": "2107513352876425400",
+      "role": "commentary",
+      "authorHandle": "mark_k",
+      "url": "https://x.com/mark_k/status/2107513352876425400",
+      "tweetedAt": "2026-10-06T16:48:33.000Z",
+      "bestBit": "supports output up to 4K, multiple reference images, and Google Search grounding",
+      "text": "Nano Banana 2.1 is here, and I’ve prepared a little torture test for Google’s latest image model. 🍌\n\nThe update promises better image quality, more accurate text rendering, and better consistency across repeated edits, while keeping the speed and cost efficiency of Nano Banana 2. It supports output up to 4K, multiple reference images, and Google Search grounding.\n\nFor the accompanying image, I created a deliberately complex test scene packed with people, objects, readable text, tricky lighting, and reflections. The challenge is getting all those details to make sense together while still looking like a real photograph. Zoom in and inspect the small stuff. How well do you think it handled the challenge?"
+    }
+  ],
+  "isSuperseded": false,
+  "supersedes": {
+    "slug": "google-launches-nano-banana-21-after-rebranding-25-lite-as-flash-21819dd3",
+    "title": "Google Launches Nano Banana 2.1 After Rebranding 2.5 Lite as Flash",
+    "publishedAt": "2026-10-06T07:39:23.359Z",
+    "eventTimeApprox": "2026-10-06T04:34:55.500Z",
+    "routingTopicKeys": [
+      "ai"
+    ],
+    "tweetCount": 26,
+    "authorCount": 18
+  }
+}

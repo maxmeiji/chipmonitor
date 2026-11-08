@@ -1,0 +1,55 @@
+{
+  "slug": "paradev-raises-115m-seed-round-for-ai-code-editor-af144b7c",
+  "title": "Paradev Raises $11.5M Seed Round for AI Code Editor",
+  "publishedAt": "2026-10-26T20:59:14.702Z",
+  "eventTimeApprox": "2026-10-26T17:30:38.000Z",
+  "isFreshStory": false,
+  "tweetCount": 3,
+  "authorCount": 3,
+  "routingTopicKeys": [
+    "startups",
+    "ai"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-products",
+      "name": "AI Products"
+    },
+    {
+      "slug": "ai-agents-coding",
+      "name": "AI Agents"
+    }
+  ],
+  "summary": "Union Square Ventures and Y Combinator have invested in Paradev, a startup developing a specialized code editor that allows software engineers to coordinate groups of AI coding agents.\n\nThe company raised $11.5M in a seed round and recently changed its name from Superset. The funding will be used to expand its tools for automating software development through the orchestration of multiple AI agents.",
+  "selectedTweets": [
+    {
+      "tweetId": "2114764345553125830",
+      "role": "source",
+      "authorHandle": "paradevai",
+      "url": "https://x.com/ParadevAI/status/2114764345553125830",
+      "tweetedAt": "2026-10-26T17:01:25.000Z",
+      "bestBit": "The code editor that helps engineers run armies of coding agents.",
+      "text": "Superset is now Paradev: The code editor that helps engineers run armies of coding agents.\n\nWe just raised an $11.5M Seed round led by @usv with @ycombinator to redefine how software is written. https://t.co/Np7LJs3loL"
+    },
+    {
+      "tweetId": "2114815639852392792",
+      "role": "support",
+      "authorHandle": "mignano",
+      "url": "https://x.com/mignano/status/2114815639852392792",
+      "tweetedAt": "2026-10-26T20:25:14.000Z",
+      "bestBit": "excited for @usv to be partnering with them!",
+      "text": "Congrats to the Paradev team - excited for @usv to be partnering with them!",
+      "quotedTweetText": "Superset is now Paradev: The code editor that helps engineers run armies of coding agents.\n\nWe just raised an $11.5M Seed round led by @usv with @ycombinator to redefine how software is written. https://t.co/Np7LJs3loL"
+    }
+  ],
+  "isSuperseded": false
+}

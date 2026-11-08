@@ -1,0 +1,74 @@
+{
+  "slug": "flapping-airplanes-raises-1b-series-a-at-6b-valuation-9694c59b",
+  "title": "Flapping Airplanes Raises $1B Series A at $6B Valuation",
+  "publishedAt": "2026-10-21T18:45:11.649Z",
+  "eventTimeApprox": "2026-10-21T17:40:17.000Z",
+  "isFreshStory": false,
+  "tweetCount": 22,
+  "authorCount": 16,
+  "routingTopicKeys": [
+    "startups",
+    "ai",
+    "tech"
+  ],
+  "primaryRoutingTopic": "startups",
+  "topicTags": [
+    {
+      "slug": "ai",
+      "name": "AI"
+    },
+    {
+      "slug": "ai-fundraising",
+      "name": "AI Funding"
+    },
+    {
+      "slug": "ai-infrastructure",
+      "name": "AI Infra"
+    },
+    {
+      "slug": "ai-compute-chips",
+      "name": "AI Chips"
+    }
+  ],
+  "tickers": [
+    {
+      "ticker": "NVDA",
+      "kind": "equity",
+      "role": "related",
+      "name": "Nvidia Corp",
+      "hubKey": "nvda"
+    }
+  ],
+  "summary": "Index and Lux led a capital injection for Flapping Airplanes to accelerate the development of a more cost-effective approach to machine learning. The startup secured $1 billion in a Series A round, valuing the company at $6 billion, to build tools that allow AI models to be trained on less data and less compute.\n\nThe company is creating GPU primitives and methods to increase the performance of hardware from investor Nvidia. By improving chip efficiency, Flapping Airplanes intends to reduce the expenses and hardware requirements associated with training large-scale models to reshape the industry's cost structure.",
+  "selectedTweets": [
+    {
+      "tweetId": "2112955212612919318",
+      "role": "source",
+      "authorHandle": "flappyairplanes",
+      "url": "https://x.com/flappyairplanes/status/2112955212612919318",
+      "tweetedAt": "2026-10-21T17:12:34.000Z",
+      "bestBit": "developing new primitives for GPUs. We believe this enables new algorithms to change how machines learn, open new markets, and dramatically reshape AI’s cost structure.",
+      "text": "We’ve spent the past year developing new primitives for GPUs. We believe this enables new algorithms to change how machines learn, open new markets, and dramatically reshape AI’s cost structure.\n\nWe have raised a $1 billion Series A, co-led by Index and Lux. https://t.co/VUkQ68gL3U"
+    },
+    {
+      "tweetId": "2112961457386319890",
+      "role": "source",
+      "authorHandle": "rachelmetz",
+      "url": "https://x.com/rachelmetz/status/2112961457386319890",
+      "tweetedAt": "2026-10-21T17:37:23.000Z",
+      "bestBit": "effort to squeeze more performance out of investor @nvidia’s GPUs",
+      "text": "New scoop from me: @flappyairplanes is now valued at $6B with a new $1B funding round, and they’ve been working on ways to make AI more efficient (including an effort to squeeze more performance out of investor @nvidia’s GPUs). Gift link below. 🍦\n\nhttps://t.co/avoTPOroQH"
+    },
+    {
+      "tweetId": "2112962920858685915",
+      "role": "engagement",
+      "authorHandle": "dejavucoder",
+      "url": "https://x.com/dejavucoder/status/2112962920858685915",
+      "tweetedAt": "2026-10-21T17:43:11.000Z",
+      "bestBit": "1B series A is crazy",
+      "text": "1B series A is crazy",
+      "quotedTweetText": "We’ve spent the past year developing new primitives for GPUs. We believe this enables new algorithms to change how machines learn, open new markets, and dramatically reshape AI’s cost structure.\n\nWe have raised a $1 billion Series A, co-led by Index and Lux. https://t.co/VUkQ68gL3U"
+    }
+  ],
+  "isSuperseded": false
+}
